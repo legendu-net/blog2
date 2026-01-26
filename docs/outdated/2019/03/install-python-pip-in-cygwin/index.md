@@ -1,0 +1,23 @@
+---
+title: "Install Python Pip in Cygwin"
+date: 2019-03-04 23:56:02
+modified: 2019-03-04 23:56:02
+authors:
+  - bendu
+label: install-python-pip-in-cygwin
+license: CC-BY-4.0
+tags:
+  - software
+  - Python
+  - Cygwin
+  - pip
+---
+```bash
+python3 -m ensurepip
+```
+
+**Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
+
+## References
+
+https://stackoverflow.com/questions/30863501/installing-new-versions-of-python-on-cygwin-does-not-install-pip<Paste>

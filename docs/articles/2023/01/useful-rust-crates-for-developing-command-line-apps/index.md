@@ -1,0 +1,54 @@
+---
+title: "Useful Rust Crates for Developing Command Line Apps"
+date: 2023-01-13 16:14:03
+modified: 2023-07-23 11:27:13
+authors:
+  - bendu
+label: useful-rust-crates-for-developing-command-line-apps
+license: CC-BY-4.0
+tags:
+  - Computer Science
+  - programming
+  - Rust
+  - command
+  - line
+  - app
+  - application
+---
+
+
+
+## Command-line Arguments Parsing
+
+### [clap](https://crates.io/crates/clap)
+[clap](https://crates.io/crates/clap)
+is a simple to use, efficient, and full-featured Command Line Argument Parser.
+
+### [structopt](https://crates.io/crates/structopt)
+Parse command line argument by defining a struct.
+
+## Terminal Interface
+
+### [ratatui](https://crates.io/crates/ratatui)
+[RataTUI](https://crates.io/crates/ratatui)
+is a library to build rich terminal user interfaces or dashboards
+
+### [tui](https://crates.io/crates/tui)
+[tui](https://crates.io/crates/tui)
+is a library to build rich terminal user interfaces or dashboards.
+
+## [crossterm](https://crates.io/crates/crossterm)
+[Crossterm](https://crates.io/crates/crossterm)
+is a pure-rust, terminal manipulation library 
+that makes it possible to write cross-platform text-based interfaces. 
+It supports all UNIX and Windows terminals down to Windows 7
+.
+
+### [inquire](https://github.com/mikaelmello/inquire)
+[inquire](https://github.com/mikaelmello/inquire)
+is a Rust library for building interactive prompts
+.
+
+### [prodash](https://crates.io/crates/prodash)
+[prodash](https://crates.io/crates/prodash)
+is a dashboard for visualizing progress of asynchronous and possibly blocking tasks.

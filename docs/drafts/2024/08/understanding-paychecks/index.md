@@ -1,0 +1,20 @@
+---
+title: "Understanding Paychecks"
+date: 2024-08-02 11:35:45
+modified: 2024-08-09 23:16:19
+authors:
+  - bendu
+label: understanding-paychecks
+license: CC-BY-4.0
+tags:
+  - finance
+  - money
+  - paycheck
+  - paystub
+---
+
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+
+[Stock Offset on Paystub: Decoding Your Paystub](https://www.brooklynfi.com/blog/stock-offset-on-paystub)
+
+[Managing GSU Withholding Tax: A Guide for Googlers](https://simplicitywm.com/managing-gsu-withholding-tax-a-guide-for-googlers/)

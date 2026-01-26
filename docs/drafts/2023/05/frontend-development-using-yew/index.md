@@ -1,0 +1,20 @@
+---
+title: "Frontend Development Using Yew"
+date: 2023-05-07 20:45:45
+modified: 2023-05-07 20:45:45
+authors:
+  - bendu
+label: frontend-development-using-yew
+license: CC-BY-4.0
+tags:
+  - Computer Science
+  - programming
+  - froentend
+  - Yew
+  - Rust
+---
+
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+
+
+[Frontend in Rust with Yew and WASM](https://www.youtube.com/watch?v=1WHJqz0CHBw)

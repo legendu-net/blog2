@@ -1,0 +1,38 @@
+---
+title: "Combine Data Vertically in SAS"
+date: 2015-05-17 18:38:29
+modified: 2015-05-17 18:38:29
+authors:
+  - bendu
+label: combine-data-vertically-in-sas
+license: CC-BY-4.0
+tags:
+  - programming
+  - SAS
+  - combine
+  - concatenate
+  - vertically
+  - rbind
+---
+
+**Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
+
+**
+Things under legendu.net/outdated are outdated technologies 
+that the author does not plan to update any more. 
+Please look for better alternatives.
+**
+
+
+
+1. union all (keep all rows) vs union (distinct/unique) 
+prefer to use union all
+union and union all relies on column positions
+another way is to use proc append which appends data by matching column names
+
+
+append as advantages over sql union
+append tries to match column names while sql union relies on the column orders. 
+
+be careful when you use append, be sure to remove previous data sets ...
+as you might run the same piece of code multiple times

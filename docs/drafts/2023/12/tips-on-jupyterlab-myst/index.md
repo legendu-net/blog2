@@ -1,0 +1,26 @@
+---
+title: "Tips on the jupyterlab-myst Extension"
+date: 2023-12-31 21:24:50
+modified: 2026-01-17 23:31:52
+authors:
+  - bendu
+label: tips-on-jupyterlab-myst
+license: CC-BY-4.0
+tags:
+  - Computer Science
+  - programming
+  - JupyterLab
+  - notebook
+  - MyST
+  - markdown
+---
+
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+
+## References
+
+- [Working with MyST in Jupyter Lab](https://mystmd.org/guide/quickstart-jupyter-lab-myst)
+
+- [Working with MyST Markdown](https://mystmd.org/guide/quickstart-myst-markdown)
+
+- [jupyterlab-myst @ GitHub](https://github.com/executablebooks/jupyterlab-myst)

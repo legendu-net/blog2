@@ -1,0 +1,22 @@
+---
+title: "Implementing Equality and Hash Methods in Python"
+date: 2019-10-31 23:51:05
+modified: 2019-10-31 23:51:05
+authors:
+  - bendu
+label: implementing-equality-and-hash-methods-in-python
+license: CC-BY-4.0
+tags:
+  - programming
+  - Python
+  - class
+  - hash
+  - equality
+---
+
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+
+[Python Hashes and Equality](https://hynek.me/articles/hashes-and-equality/)
+
+
+[Elegant ways to support equivalence (“equality”) in Python classes](https://stackoverflow.com/questions/390250/elegant-ways-to-support-equivalence-equality-in-python-classes)

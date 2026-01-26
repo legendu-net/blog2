@@ -1,0 +1,24 @@
+---
+title: "Tips on the Dia Browser"
+date: 2025-05-28 15:58:53
+modified: 2025-05-28 15:58:53
+authors:
+  - bendu
+label: tips-on-the-dia-browser
+license: CC-BY-4.0
+tags:
+  - Computer Science
+  - Dia
+  - AI
+  - browser
+---
+
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+
+https://www.diabrowser.com/
+
+https://www.youtube.com/watch?v=JCZUIm4S9QQ
+The most powerful ways to "hack" our new Dia browser
+
+https://www.youtube.com/watch?v=C25g53PC5QQ
+An early peek at Dia, our second product | A recruiting video

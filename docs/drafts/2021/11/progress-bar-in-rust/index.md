@@ -1,0 +1,53 @@
+---
+title: "Progress Bar in Rust"
+date: 2021-11-06 22:01:30
+modified: 2023-03-03 17:52:54
+authors:
+  - bendu
+label: progress-bar-in-rust
+license: CC-BY-4.0
+tags:
+  - Computer Science
+  - programming
+  - Rust
+  - progress
+  - bar
+  - pbr
+  - indicatif
+  - linya
+---
+
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+
+There are a few crates in Rust
+which provide terminal progress reporting functionalities.
+The
+[indicatif](https://crates.io/crates/indicatif)
+crate is the best one to use.
+The
+[linya](https://crates.io/crates/linya)
+crate is a simple no-deps alternative to indicatif.
+
+## [indicatif](https://crates.io/crates/indicatif)
+
+## [linya](https://crates.io/crates/linya)
+
+## [howudoin](https://crates.io/crates/howudoin)
+[howudoin](https://crates.io/crates/howudoin)
+provides progress reporting abstraction for Rust.
+It intends to make producing and consuming progress reports simple and ergonomic. 
+Importantly, 
+it separates the progress producers from the consumer, 
+allowing progress reports to be generated from disparate sections in a system.
+
+## [prodash](https://github.com/Byron/prodash)
+[prodash](https://github.com/Byron/prodash)
+reports progress of concurrent applications 
+and display it in various ways
+.
+
+## References
+
+- [indicatif](https://crates.io/crates/indicatif)
+
+- [linya](https://crates.io/crates/linya)

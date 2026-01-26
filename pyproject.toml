@@ -1,0 +1,9 @@
+[project]
+name = "blog2"
+version = "0.1.0"
+description = "Personal Blogging System Based on Jupyter Book 2"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "jupyter-book>=2.1.0",
+]

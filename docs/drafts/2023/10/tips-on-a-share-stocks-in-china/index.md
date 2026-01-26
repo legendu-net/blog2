@@ -1,0 +1,24 @@
+---
+title: "Tips on A-share Stocks in China"
+date: 2023-10-29 10:29:37
+modified: 2023-10-29 15:23:52
+authors:
+  - bendu
+label: tips-on-a-share-stocks-in-china
+license: CC-BY-4.0
+tags:
+  - Investment
+  - China
+  - A-share
+  - stock
+---
+
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+
+
+哪些股票值得持有 10 年？
+
+更多详情: https://www.zhihu.com/question/28508092/answer/248795958
+
+https://jingyan.baidu.com/article/49711c61858939fa441b7cd9.html
+

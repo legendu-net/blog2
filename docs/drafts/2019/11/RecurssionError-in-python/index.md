@@ -1,0 +1,32 @@
+---
+title: "RecurssionError in Python"
+date: 2019-11-01 19:28:38
+modified: 2026-01-01 08:42:26
+authors:
+  - bendu
+label: RecurssionError-in-python
+license: CC-BY-4.0
+tags:
+  - programming
+  - Python
+  - tail recursion elemination
+  - RecursionError
+---
+
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+
+1. Python does not support tail recursion elemination. 
+	Large recursion should be implemented as loop instead to avoid RecursionError.
+
+2. pylint encouter RecursionError ...
+
+
+## References
+
+- [Exception and Error Handling in Python](https://misc.legendu.net/blog/exception-and-error-handling-in-python/)
+
+- [Recursion Error While Handling Recursion Error](https://nickdrozd.github.io/2019/06/03/recursion-error.html)
+
+- [Python: maximum recursion depth exceeded while calling a Python object](https://stackoverflow.com/questions/6809402/python-maximum-recursion-depth-exceeded-while-calling-a-python-object)
+
+- [Tail Recursion Elimination](http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html)

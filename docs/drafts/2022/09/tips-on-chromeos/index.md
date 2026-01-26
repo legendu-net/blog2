@@ -1,0 +1,24 @@
+---
+title: "Tips on ChromeOS"
+date: 2022-09-02 10:06:09
+modified: 2022-09-05 18:29:22
+authors:
+  - bendu
+label: tips-on-chromeos
+license: CC-BY-4.0
+tags:
+  - Computer Science
+  - OS
+  - ChromeOS
+  - Chromebook
+---
+
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+
+
+| Shortcut               | Description             |
+|------------------------|-------------------------|
+| `ctrl` + `shift` + `+` | Increase size of tabs.  |
+| `ctrl` + `shift` + `+` | Decrease size of tabs.  |
+| `ctrl` + `+`           | Zoom in a page.         |
+| `ctrl` + `-`           | Zomm out a page.        |

@@ -1,0 +1,23 @@
+---
+title: "Tips on Tampermoney and Greasy Fork"
+date: 2020-03-29 12:44:38
+modified: 2020-03-29 12:44:38
+authors:
+  - bendu
+label: tips-on-tampermoney-and-greasy-fork
+license: CC-BY-4.0
+tags:
+  - Computer Science
+  - Web
+  - Tampermonkey
+  - greasy fork
+---
+
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+
+
+
+https://www.youtube.com/watch?v=MpArCBecDz8
+
+
+https://www.youtube.com/watch?v=MpArCBecDz8
