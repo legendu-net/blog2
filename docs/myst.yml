@@ -23,9 +23,8 @@ project:
     - https://github.com/jupyter-book/myst-plugins/releases/download/github-handle-links%402025-12-01/index.mjs
     # To turn `:emoji-shortcodes:` into emojis
     - https://raw.githubusercontent.com/jupyter-book/myst-plugins/main/plugins/emoji-shortcodes/emoji-shortcodes.mjs
-  exclude:
-    #- articles/2024/01/shopping-on-amazon/index.md
-    - articles/2024/01/*/*.md
+  #exclude:
+  #  - articles/2024/01/shopping-on-amazon/index.md
   toc:
     - file: index.md
     - title: Posts
