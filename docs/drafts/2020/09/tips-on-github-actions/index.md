@@ -1,7 +1,7 @@
 ---
 title: Tips on GitHub Actions
 date: 2020-09-01 12:42:15
-modified: 2026-04-03 16:37:08.928246
+modified: 2026-04-03 22:40:42.844393
 authors:
 - bendu
 label: tips-on-github-actions
@@ -106,6 +106,8 @@ https://github.com/peter-evans/create-pull-request
 [Create PR from push on a given branch](https://github.com/peter-evans/create-pull-request/issues/544)
 
 ### Examples
+
+[github_actions_config_examples](https://github.com/dclong/github_actions_config_examples/tree/main)
 
 [Using semantic-release with GitHub Actions](https://www.youtube.com/watch?v=rCXq86FOlzQ)
 

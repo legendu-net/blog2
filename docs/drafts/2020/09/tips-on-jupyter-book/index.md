@@ -13,18 +13,39 @@ tags:
   - notebook
   - Jupyter
   - JupyterLab
+  - blog
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-xinstall jb -ic
+icon jb -ic
 
 ## Configuration 
 
-`xinstall jb -c` creates a copy of configuration file `_config.yml` in the current directory.
+`icon jb -c` creates a copy of configuration file `_config.yml` in the current directory.
 By default,
 The configuration file `_config.yml` in the current directory (if exists) is used.
 So `jb build --config _config.yml *.ipynb` is equivalent to `jb build *.ipynb`.
+
+## Blogging
+
+[myst example](https://github.com/jupyter-book/blog/blob/main/docs/myst.yml)
+
+https://github.com/jupyter-book/example-landing-pages
+
+https://mystmd.org/guide/frontmatter
+
+https://mystmd.org/guide/glossaries-and-terms#abbreviations sounds interesting!
+
+NODE_OPTIONS=--max-old-space-size=8192 uv run jupyter-book start
+
+
+
+### Themes
+
+It seems to me that public themes 
+(e.g., https://github.com/QuantEcon/quantecon-book-theme)
+are not supported currently.
 
 ## References 
 
