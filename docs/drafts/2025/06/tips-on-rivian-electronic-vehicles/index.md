@@ -1,17 +1,16 @@
 ---
-title: "Tips on Rivian Electronic Vehicles"
+title: Tips on Rivian Electronic Vehicles
 date: 2025-06-25 10:57:40
-modified: 2025-09-30 08:19:08
+modified: 2026-04-03 17:14:03.288083
 authors:
-  - bendu
+- bendu
 label: tips-on-rivian-electronic-vehicles
 license: CC-BY-4.0
 tags:
-  - life
-  - Rivian
-  - EV
+- life
+- Rivian
+- EV
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 My Rivian referral code: LISHA4198234.
@@ -97,6 +96,34 @@ My Rivian referral code: LISHA4198234.
 - [Rivian Roamer](https://rivianroamer.com/)
 - [Rivian @ Reddit](https://www.reddit.com/r/Rivian/)
 - [Switching to Rivian? Use these Community Referral Codes for $500 to use in the Gear Shop!](https://www.reddit.com/r/Rivian/comments/1k4ikus/switching_to_rivian_use_these_community_referral/)
+
+## Batteries
+
+Knowing [about them](https://www.autoevolution.com/news/everything-you-wanted-to-know-about-rivian-s-large-battery-pack-238781.html), 
+it's better to get a Rivian with Large+ instead of a vanilla Large pack battery. 
+
+Large+ battery has the option code BAT-LP01. 
+If you're not sure how to find it, 
+just use https://rivianroamer.com/vehicle/listings and it has a filter
+
+The software-capped Max battery pack (or Large+) is listed as BAT-LP01 internally, 
+whereas the genuine Large pack is BAT-B01. 
+The default option lists both types of battery packs in a string that looks like "?BAT=BAT-B01%2CBAT-LP01" 
+at the end of the [R1 Shop URL](https://rivian.com/configurations/list?SORT=Featured&MODEL=R1S&BAT=BAT-B01%2CBAT-LP01).
+If you want to list only Large+ vehicles and not Large types, 
+you should use the string "?BAT=BAT-LP01" at the end of the URL. 
+
+## Reset Rivian
+
+See discussions in
+[Reset Procedures -- 3 Types: Sleep, Infotainment, Full Reset](https://www.rivianforums.com/forum/threads/reset-procedures-3-types-sleep-infotainment-full-reset.5292/)
+and
+[Rivian R1T - How to Hard reboot and soft reboot - real world instructions ‪@Rivian‬](https://www.youtube.com/watch?v=ShQhsGqZL9U)
+.
+
+## Jump Start Rivian
+
+[My Rivian Is Completely Dead! How To Jumpstart 12V Systems & Then Charge HV Battery](https://www.youtube.com/watch?v=fO8aisNfI6k)
 
 ## Aftermarket
 

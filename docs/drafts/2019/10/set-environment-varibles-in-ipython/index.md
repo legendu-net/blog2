@@ -10,8 +10,8 @@ tags:
   - programming
   - ipython
   - environment variables
-  - %env
-  - %set_env
+  - "%env"
+  - "%set_env"
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

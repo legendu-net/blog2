@@ -1,19 +1,18 @@
 ---
-title: "Tips on Electronic Vehicles"
+title: Tips on Electronic Vehicles
 date: 2023-09-13 17:49:03
-modified: 2025-07-27 11:52:16
+modified: 2026-04-03 17:04:04.498273
 authors:
-  - bendu
+- bendu
 label: tips-on-electronic-vehicles
 license: CC-BY-4.0
 tags:
-  - life
-  - EV
-  - electronic
-  - vehicle
-  - Tesla
+- life
+- EV
+- electronic
+- vehicle
+- Tesla
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 
@@ -27,7 +26,25 @@ tags:
 
 ## EV Battery
 
-A newly purchased EV typically provides an 8-year warranty on the battery.
+- [LFP vs NMC for EV owners](https://www.reddit.com/r/DrEVdev/comments/1lb5s5y/lfp_vs_nmc_for_ev_owners/?share_id=k4kjh1pA5_W5DZcP-cI9S&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)
+
+- [How to Charge and Maintain Your Battery](https://www.reddit.com/r/DrEVdev/comments/1l82gpn/how_to_charge_and_maintain_your_battery/?share_id=GbKlb-hn3nxGcq6HxmGd3&utm_content=2&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)
+
+1. A newly purchased EV typically provides an 8-year warranty on the battery.
+
+2. Dr.Ev is mobile application 
+    designed to manage, monitor, and optimize the battery health, charging efficiency, 
+    and driving habits of electric vehicles, particularly Teslas.
+
+3. LFP batteries are very safe and thus are good choice for daily commute vehicle
+    (though the range might be smaller).
+
+4. NMC large+ batteries (applies to EVs with software locked capacities, e.g., Tesla, Rivian, etc)
+    have reserved battery capacity (software locked) 
+    so that you never really charge to 100%. 
+    EVs with those batteries are also good choices.
+
+5. (Semi) solid state battery
 
 ## Charging
 

@@ -1,5 +1,5 @@
 ---
-title: "Tips on Blogging"
+title: Tips on Blogging
 date: 2020-05-25 21:08:30
 modified: 2020-05-25 21:08:30
 authors:
@@ -11,7 +11,7 @@ tags:
   - blogging
   - blog
 ---
-
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 This post contains tips for blogging @ [blog](https://github.com/dclong/blog).
 
 1. Avoid using tags ending with a number. 

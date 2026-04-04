@@ -15,7 +15,7 @@ tags:
   - function
   - lead
   - first_value
-  - null
+  - "null"
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

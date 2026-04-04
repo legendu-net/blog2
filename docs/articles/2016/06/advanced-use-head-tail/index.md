@@ -1,5 +1,5 @@
 ---
-title: "Advanced Use of "head" and "tail""
+title: "Advanced Use of head and tail"
 date: 2016-06-06 18:22:00
 modified: 2020-04-06 18:22:00
 authors:

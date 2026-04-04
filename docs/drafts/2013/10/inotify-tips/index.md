@@ -1,5 +1,5 @@
 ---
-title: "Watching Filesystem Changes Using "inotify""
+title: "Watching Filesystem Changes Using \"inotify\""
 date: 2013-10-22 13:52:06
 modified: 2020-05-22 13:52:06
 authors:

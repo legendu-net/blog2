@@ -1,5 +1,5 @@
 ---
-title: "Tips on Python-Language-Server"
+title: Tips on Python-Language-Server
 date: 2021-02-17 16:27:54
 modified: 2021-02-17 16:27:54
 authors:
@@ -14,9 +14,7 @@ tags:
   - language server
   - pyls
 ---
-
-
-
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 pip3 install python-language-server[all]
 
 

@@ -1,27 +1,34 @@
 ---
-title: "Tips on RV"
+title: Tips on RV
 date: 2023-10-19 11:31:45
-modified: 2025-09-25 21:25:25
+modified: 2026-04-03 17:19:35.825089
 authors:
-  - bendu
+- bendu
 label: tips-on-RV
 license: CC-BY-4.0
 tags:
-  - Life
-  - travel
-  - RV
-  - auto
-  - mobile
-  - home
-  - car
-  - vehilce
+- Life
+- travel
+- RV
+- auto
+- mobile
+- home
+- car
+- vehilce
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 https://www.youtube.com/watch?v=8O-IODLU5pc
 
 https://weretherussos.com/class-b-rv-manufacturers-list-camper-vans/
+
+## Modern RV Trailers
+
+- [Evotrex PG5](https://www.youtube.com/watch?v=u6Z6TOfVSB4)
+
+- Pebble Flow
+
+- Skydream camping trailer
 
 ## General Tips on Camping
 

@@ -1,5 +1,5 @@
 ---
-title: "Copy SSH Public Key Using "ssh-copy-id""
+title: "Copy SSH Public Key Using ssh-copy-id"
 date: 2012-06-29 22:25:13
 modified: 2020-02-29 22:25:13
 authors:

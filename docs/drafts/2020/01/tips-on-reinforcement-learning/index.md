@@ -1,5 +1,5 @@
 ---
-title: "Tips on Reinforcement Learning"
+title: Tips on Reinforcement Learning
 date: 2020-01-28 11:02:29
 modified: 2020-11-28 11:02:29
 authors:
@@ -14,7 +14,7 @@ tags:
   - reinforcement learning
   - RLLib
 ---
-
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 **
 Things on this page are fragmentary and immature notes/thoughts of the author.
 Please read with your own judgement!

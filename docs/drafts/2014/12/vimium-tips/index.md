@@ -1,5 +1,5 @@
 ---
-title: "Navigate Chrome Browser Like a Pro Using Vimium"
+title: Navigate Chrome Browser Like a Pro Using Vimium
 date: 2014-12-18 15:05:35
 modified: 2025-05-28 16:01:14
 authors:
@@ -15,7 +15,7 @@ tags:
   - add-on
   - addon
 ---
-
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 **
 Things on this page are
 fragmentary and immature notes and thoughts of the author.

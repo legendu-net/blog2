@@ -1,29 +1,34 @@
 ---
-title: "Good Terminal Apps"
+title: Good Terminal Apps
 date: 2021-05-11 08:45:30
-modified: 2025-12-05 00:01:56
+modified: 2026-04-03 13:37:44.599556
 authors:
-  - bendu
+- bendu
 label: good-terminal-apps
 license: CC-BY-4.0
 tags:
-  - Computer Science
-  - terminal
-  - software
-  - tools
-  - Warp
-  - wezterm
-  - alacritty
-  - hyper
-  - kitty
----
+- Computer Science
+- terminal
+- software
+- tools
+- Warp
+- wezterm
+- alacritty
+- hyper
+- kitty
 
+---
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## [Wave](https://www.waveterm.dev/)
 [Wave](https://www.waveterm.dev/)
 is an open-source terminal with superpowers, 
 integrating file previews, file editing, AI, web browsing, and workspace organization.
+
+## [Ghostty](https://github.com/ghostty-org/ghostty)
+[Ghostty](https://github.com/ghostty-org/ghostty)
+is a fast, feature-rich, and cross-platform terminal emulator 
+that uses platform-native UI and GPU acceleration.
 
 ## [Warp](https://www.warp.dev/)
 [Warp](https://www.warp.dev/)

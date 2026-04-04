@@ -1,5 +1,5 @@
 ---
-title: "Advanced Use of "ls" in Linux"
+title: "Advanced Use of ls in Linux"
 date: 2012-07-29 09:29:01
 modified: 2019-03-29 09:29:01
 authors:

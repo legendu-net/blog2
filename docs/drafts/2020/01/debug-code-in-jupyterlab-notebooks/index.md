@@ -15,7 +15,6 @@ tags:
   - JupyterLab
   - debugger
   - debugging
-  - %debug
   - ipdb
   - pdb
 ---

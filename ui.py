@@ -1,15 +1,13 @@
 #!.venv/bin/python3
-from __future__ import annotations
-import re
 from argparse import ArgumentParser, Namespace
-import subprocess as sp
 import getpass
+import subprocess as sp
 from loguru import logger
-from utils import (
+from blog.utils import (
     BASE_DIR,
-    VIM,
+    get_vim,
+    qmarks,
     push_github,
-    pelican_generate,
     option_files,
     option_indexes,
     option_where,
@@ -19,35 +17,16 @@ from utils import (
     option_to,
     option_editor,
     option_all,
-    option_dry_run,
     option_full_path,
 )
-from blogger import Post, Blogger, HOME, EN, CN, MISC, OUTDATED
+from blog.blogger import Post, Blogger, ARTICLES, DRAFTS, OUTDATED, TAG_SEPARATOR
 
 USER = getpass.getuser()
 DASHES = "\n" + "-" * 100 + "\n"
-INDEXES = [""] + [str(i) for i in range(1, 11)]
-SITE = "https://www.legendu.net"
-
-
-def query(blogger, args):
-    rows = blogger.query(" ".join(args.sql))
-    for row in rows:
-        print(row)
-
-
-def _subparse_query(subparsers):
-    desc = "Run a SQL query."
-    subparser_query = subparsers.add_parser(
-        "query", aliases=["q"], help=desc, description=desc
-    )
-    subparser_query.add_argument("sql", nargs="+", help="the SQL to run")
-    subparser_query.set_defaults(func=query)
 
 
 def move(blogger, args):
-    if args.indexes:
-        args.files = blogger.path(args.indexes)
+    _resolve_files(args)
     if args.files:
         blogger.move(args.files, args.target)
     blogger.commit()
@@ -55,11 +34,14 @@ def move(blogger, args):
 
 def _resolve_files(args: Namespace) -> None:
     if "all" in args and args.all:
-        sql = "SELECT path FROM srps"
-        args.files = [row[0] for row in blogger.query(sql)]
+        args.files = blogger.path(Blogger.SRPS, where="")
         return
     if "indexes" in args and args.indexes:
-        args.files = blogger.path(args.indexes)
+        args.files = blogger.path(
+            Blogger.SRPS,
+            where=f"rowid IN ({qmarks(args.indexes)})",
+            params=args.indexes,
+        )
 
 
 def trash(blogger, args):
@@ -88,56 +70,40 @@ def _subparse_trash(subparsers):
     subparser_trash.set_defaults(func=trash)
 
 
-def find_name_title_mismatch(blogger, args):
-    blogger.find_name_title_mismatch()
-    show(blogger, args)
+def find_label_title_mismatch(blogger, args):
+    blogger.find_label_title_mismatch()
+    blogger.show(args.n)
 
 
-def _subparse_find_name_title_mismatch(subparsers):
-    desc = "Find posts where their name and title are mismatched."
-    subparser_find_name_title_mismatch = subparsers.add_parser(
+def _subparse_find_label_title_mismatch(subparsers):
+    desc = "Find posts where their label and title are mismatched."
+    subparser_find_label_title_mismatch = subparsers.add_parser(
         "findmismatch",
         aliases=["fm"],
         help=desc,
         description=desc,
     )
-    option_dry_run(subparser_find_name_title_mismatch)
-    option_num(subparser_find_name_title_mismatch)
-    option_full_path(subparser_find_name_title_mismatch)
-    subparser_find_name_title_mismatch.set_defaults(func=find_name_title_mismatch)
+    option_num(subparser_find_label_title_mismatch)
+    option_full_path(subparser_find_label_title_mismatch)
+    subparser_find_label_title_mismatch.set_defaults(func=find_label_title_mismatch)
 
 
-def match_post(blogger, args):
-    if re.search(r"^mp\d+$", args.sub_cmd):
-        args.indexes = [int(args.sub_cmd[2:])]
+def match_title(blogger, args):
     _resolve_files(args)
-    total = len(args.files)
     if not args.files:
-        print("No specifed file to be matched!\n")
-    if args.name:
-        answer = input(
-            "Are you sure to edit post title for the specified files in the srps table (yes or no): \n"
-        )
-        if answer == "yes":
-            for index in range(total):
-                blogger.match_post_name(args.files[index])
-    if args.title:
-        answer = input(
-            "Are you sure to edit post name for the specified files in the srps table (yes or no): \n"
-        )
-        if answer == "yes":
-            for index in range(total):
-                blogger.match_post_title(args.files[index])
+        print("No specifed files to update labels to match titles!\n")
+        return
+    for file in args.files:
+        blogger.match_title(file)
 
 
 def vim(blogger, args):
-    args.editor = VIM
+    args.editor = get_vim()
     edit(blogger, args)
 
 
 def edit(blogger, args):
-    if args.indexes:
-        args.files += blogger.path(args.indexes)
+    _resolve_files(args)
     if args.files:
         blogger.edit(args.files, args.editor)
     else:
@@ -146,125 +112,48 @@ def edit(blogger, args):
 
 
 def search(blogger, args):
-    blogger.update(reset=False)
+    blogger.update_changed()
     filter_ = []
-    args.filter = " ".join(args.filter)
     if args.filter:
-        filter_.append(args.filter)
-    if args.sub_dir:
-        args.sub_dir = ", ".join(f"'{dir_}'" for dir_ in args.sub_dir)
-        filter_.append(f"dir IN ({args.sub_dir})")
-    if args.neg_sub_dir:
-        args.neg_sub_dir = ", ".join(f"'{dir_}'" for dir_ in args.neg_sub_dir)
-        filter_.append(f"dir NOT IN ({args.neg_sub_dir})")
-    if args.categories:
-        args.categories = ", ".join(f"'{cat}'" for cat in args.categories)
-        filter_.append(f"category IN ({args.categories})")
-    if args.neg_categories:
-        args.neg_sub_dir = ", ".join(f"'{cat}'" for cat in args.neg_catgories)
-        filter_.append(f"category NOT IN ({args.neg_categories})")
+        filter_.append(" ".join(args.filter))
+    if args.doc_dir:
+        dirs = ", ".join(f"'{d}'" for d in args.doc_dir)
+        filter_.append(f"dir IN ({dirs})")
     if args.tags:
-        args.tags = " ".join(args.tags)
-        filter_.append(f"tags MATCH '{args.tags}'")
-    if args.neg_tags:
-        args.neg_tags = "".join(f"% {tag},%" for tag in args.neg_tags).replace(
-            "%%", "%"
-        )
-        filter_.append(f"tags NOT LIKE '{args.neg_tags}'")
-    if args.status:
-        args.status = ", ".join(f"'{stat}'" for stat in args.status)
-        filter_.append(f"status IN ({args.status})")
-    if args.neg_status:
-        args.neg_status = ", ".join(f"'{stat}'" for stat in args.neg_status)
-        filter_.append(f"status NOT IN ({args.neg_status})")
-    args.author = " ".join(args.author)
-    if args.author:
-        filter_.append(f"author = '{args.author}'")
-    args.neg_author = " ".join(args.neg_author)
-    if args.neg_author:
-        filter_.append(f"author != '{args.neg_author}'")
-    args.title = " ".join(args.title)
+        tags = " ".join(args.tags)
+        filter_.append(f"tags MATCH '{tags}'")
     if args.title:
+        args.title = " ".join(args.title)
         filter_.append(f"title MATCH '{args.title}'")
-    args.neg_title = " ".join(args.neg_title)
-    if args.neg_title:
-        filter_.append(f"title NOT LIKE '%{args.neg_title}%'")
-    blogger.search(" ".join(args.phrase), " AND ".join(filter_), args.dry_run)
-    show(blogger, args)
-
-
-def show(blogger, args) -> None:
-    sql = "SELECT count(*) FROM srps"
-    total = blogger.query(sql)[0][0]
-    print(f"\nNumber of matched posts: {total}")
-    for rowid, path, title, dir_, slug in blogger.query(
-        f"""
-        SELECT rowid, path, title, dir, slug FROM srps LIMIT {args.n}
-        """
-    ):
-        url = f"{SITE}/{dir_}/blog/{slug}"
-        print(f"\n{rowid}: [{title}]( {url} )  |  {path}")
-    print("")
+    blogger.search(" ".join(args.phrase), " AND ".join(filter_))
+    blogger.show(args.n)
+    blogger.commit()
 
 
 def last(blogger, args):
     blogger.last(args.n)
-    show(blogger, args)
-
-
-def reload(blogger, _):
-    blogger.reload_posts()
+    blogger.show(args.n)
 
 
 def add(blogger, args):
-    file = blogger.add_post(" ".join(args.title), args.sub_dir, notebook=args.notebook)
-    args.indexes = None
-    args.files = file
-    edit(blogger, args)
-    blogger.load_post(Post(file))
-    blogger.search(phrase="", filter_=f"path = '{file.relative_to(BASE_DIR)}'")
-    show(blogger, Namespace(n=1, full_path=False))
-
-
-def categories(blogger, args):
-    cats = blogger.categories(where=args.where)
-    for cat in cats:
-        print(cat)
-
-
-def update_category(blogger, args):
-    if re.search(r"^ucat\d+$", args.sub_cmd):
-        args.indexes = int(args.sub_cmd[4:])
-    if args.indexes:
-        args.files = blogger.path(args.indexes)
-    if args.files:
-        for file in args.files:
-            blogger.update_category(file, args.to_cat)
-    elif args.from_cat:
-        sql = "SELECT path FROM posts WHERE category = ?"
-        posts = (row[0] for row in blogger.query(sql, [args.from_cat]))
-        for post in posts:
-            blogger.update_category(post, args.to_cat)
+    file = blogger.add_post(" ".join(args.title), args.doc_dir, notebook=args.notebook)
+    blogger.edit(file, args.editor)
+    blogger.search(phrase="", filter_=f"path = '{file}'")
+    blogger.show(1)
     blogger.commit()
 
 
 def update_tags(blogger, args):
-    if re.search(r"^utag\d+$", args.sub_cmd):
-        args.indexes = int(args.sub_cmd[4:])
-    if args.indexes:
-        args.files = blogger.path(args.indexes)
+    _resolve_files(args)
     if args.files:
         for file in args.files:
             blogger.update_tags(Post(file), args.from_tag, args.to_tag)
     else:
-        sql = f"""
-            SELECT path
-            FROM posts
-            WHERE tags LIKE '%, {args.from_tag},%' OR tags LIKE '%: {args.from_tag},%'
-            """
-        posts = (row[0] for row in blogger.query(sql))
-        for post in posts:
-            blogger.update_tags(Post(post), args.from_tag, args.to_tag)
+        for path in blogger.path(
+            blogger.POSTS,
+            where=f"tags LIKE '%{TAG_SEPARATOR}{args.from_tag}{TAG_SEPARATOR}%'",
+        ):
+            blogger.update_tags(Post(path), args.from_tag, args.to_tag)
     blogger.commit()
 
 
@@ -274,16 +163,12 @@ def tags(blogger, args):
         print(tag)
 
 
-def update(blogger, _):
-    blogger.update(reset=True)
-    blogger.commit()
-
-
 def publish(blogger, args):
     """Publish the blog to GitHub pages."""
+    # TODO: how to publish?
     auto_git_push(blogger, args)
     print(DASHES)
-    for dir_ in args.sub_dirs:
+    for dir_ in args.doc_dirs:
         pelican_generate(dir_, args.fatal)
         if not args.no_push_github:
             push_github(dir_, args.https)
@@ -292,7 +177,7 @@ def publish(blogger, args):
 
 def auto_git_push(blogger, args):
     """Push commits of this repository to dclong/blog on GitHub."""
-    update(blogger, args)
+    blogger.update_changed()
     cmd = f"""git -C {BASE_DIR} add . \
             && git -C {BASE_DIR} commit -m ..."""
     sp.run(cmd, shell=True, check=False)
@@ -304,7 +189,10 @@ def clean_db(blogger, _):
     blogger.clean_db()
 
 
-def exec_notebook(_, args):
+def exec_notebook(blogger, args):
+    # TODO:
+    _resolve_files(args)
+    # TODO: rename to files?
     if args.indexes:
         args.notebooks = blogger.path(args.indexes)
     if args.notebooks:
@@ -320,6 +208,8 @@ def exec_notebook(_, args):
 
 
 def format_notebook(_, args):
+    # TODO: is this necessary?
+    # Can you use ruff to format notebooks? And if so, you can do this directly, right?
     # _resolve_files(args)
     cmd = f"black {BASE_DIR}"
     sp.run(cmd, shell=True, check=True)
@@ -376,7 +266,7 @@ def _subparse_utag(subparsers):
     desc = "update tags of posts."
     subparser_utag = subparsers.add_parser(
         "update_tags",
-        aliases=["utag" + i for i in INDEXES],
+        aliases=["utag"],
         help=desc,
         description=desc,
     )
@@ -385,21 +275,6 @@ def _subparse_utag(subparsers):
     option_from(subparser_utag)
     option_to(subparser_utag)
     subparser_utag.set_defaults(func=update_tags)
-
-
-def _subparse_ucat(subparsers):
-    desc = "Update category of posts."
-    subparser_ucat = subparsers.add_parser(
-        "update_category",
-        aliases=["ucat" + i for i in INDEXES],
-        help=desc,
-        description=desc,
-    )
-    option_indexes(subparser_ucat)
-    option_files(subparser_ucat)
-    option_from(subparser_ucat)
-    option_to(subparser_ucat)
-    subparser_ucat.set_defaults(func=update_category)
 
 
 def _subparse_tags(subparsers):
@@ -415,38 +290,20 @@ def _subparse_tags(subparsers):
     subparser_tags.set_defaults(func=tags)
 
 
-def _subparse_cats(subparsers):
-    desc = "List all categories and their frequencies."
-    subparser_cats = subparsers.add_parser(
-        "cats",
-        aliases=["c"],
-        help=desc,
-        description=desc,
-    )
-    option_where(subparser_cats)
-    subparser_cats.set_defaults(func=categories)
+def reload_posts(blogger, _):
+    blogger.reload_posts()
+    blogger.commit()
 
 
-def _subparse_update(subparsers):
-    desc = "Update information of changed posts."
-    subparser_update = subparsers.add_parser(
-        "update",
-        aliases=["u"],
-        help=desc,
-        description=desc,
-    )
-    subparser_update.set_defaults(func=update)
-
-
-def _subparse_reload(subparsers):
+def _subparse_reload_posts(subparsers):
     desc = "Reload information of posts."
     subparser_reload = subparsers.add_parser(
-        "reload",
-        aliases=["r"],
+        "reload_posts",
+        aliases=["reload", "r"],
         help=desc,
         description=desc,
     )
-    subparser_reload.set_defaults(func=reload)
+    subparser_reload.set_defaults(func=reload_posts)
 
 
 def _subparse_last(subparsers):
@@ -472,7 +329,7 @@ def _subparse_list(subparsers):
     )
     option_num(subparser_list)
     option_full_path(subparser_list)
-    subparser_list.set_defaults(func=show)
+    subparser_list.set_defaults(func=lambda blogger, args: blogger.show(args.n))
 
 
 def _subparse_search(subparsers):
@@ -490,7 +347,6 @@ def _subparse_search(subparsers):
         help=desc,
         description=desc,
     )
-    option_dry_run(subparser_search)
     subparser_search.add_argument(
         "phrase",
         nargs="*",
@@ -509,46 +365,6 @@ def _subparse_search(subparsers):
         help="Search for posts with the sepcified title.",
     )
     subparser_search.add_argument(
-        "-I",
-        "--neg-title",
-        nargs="+",
-        dest="neg_title",
-        default=(),
-        help="Search for posts without the sepcified title.",
-    )
-    subparser_search.add_argument(
-        "-a",
-        "--author",
-        nargs="+",
-        dest="author",
-        default=(),
-        help="Search for posts with the sepcified author.",
-    )
-    subparser_search.add_argument(
-        "-A",
-        "--neg-author",
-        nargs="+",
-        dest="neg_author",
-        default=(),
-        help="Search for posts without the sepcified author.",
-    )
-    subparser_search.add_argument(
-        "-s",
-        "--status",
-        nargs="+",
-        dest="status",
-        default=(),
-        help="Search for posts with the sepcified status.",
-    )
-    subparser_search.add_argument(
-        "-S",
-        "--neg-status",
-        nargs="+",
-        dest="neg_status",
-        default=(),
-        help="Search for posts without the sepcified status.",
-    )
-    subparser_search.add_argument(
         "-t",
         "--tags",
         nargs="+",
@@ -557,44 +373,12 @@ def _subparse_search(subparsers):
         help="Search for posts with the sepcified tags.",
     )
     subparser_search.add_argument(
-        "-T",
-        "--neg-tags",
-        nargs="+",
-        dest="neg_tags",
-        default=(),
-        help="Search for posts without the sepcified tags.",
-    )
-    subparser_search.add_argument(
-        "-c",
-        "--categories",
-        nargs="+",
-        dest="categories",
-        default=(),
-        help="Search for posts with the sepcified categories.",
-    )
-    subparser_search.add_argument(
-        "-C",
-        "--neg-categories",
-        nargs="+",
-        dest="neg_categories",
-        default=(),
-        help="Search for posts without the sepcified categories.",
-    )
-    subparser_search.add_argument(
         "-d",
-        "--sub-dir",
-        dest="sub_dir",
+        "--doc-dir",
+        dest="doc_dir",
         nargs="+",
         default=(),
         help="Search for posts in the specified sub blog directory.",
-    )
-    subparser_search.add_argument(
-        "-D",
-        "--neg-sub-dir",
-        dest="neg_sub_dir",
-        nargs="+",
-        default=(),
-        help="Search for posts not in the specified sub blog directory.",
     )
     subparser_search.add_argument(
         "-f",
@@ -616,21 +400,13 @@ def _subparse_add(subparsers):
     )
     option_editor(subparser_add)
     subparser_add.add_argument(
-        "-e",
-        "--en",
-        dest="sub_dir",
+        "-a",
+        "--articles",
+        dest="doc_dir",
         action="store_const",
-        const=EN,
-        default=MISC,
+        const=ARTICLES,
+        default=DRAFTS,
         help="Create a post in the en sub blog directory.",
-    )
-    subparser_add.add_argument(
-        "-c",
-        "--cn",
-        dest="sub_dir",
-        action="store_const",
-        const=CN,
-        help="Create a post in the cn sub blog directory.",
     )
     group = subparser_add.add_mutually_exclusive_group(required=True)
     group.add_argument(
@@ -714,31 +490,23 @@ def _subparse_move(subparsers):
         "-f", "--files", nargs="*", dest="files", help="Path of the post to be moved."
     )
     subparser_move.add_argument(
-        "-t", "--target", dest="target", default=MISC, help="Path of destination file"
+        "-t", "--target", dest="target", default=DRAFTS, help="Path of destination file"
     )
     subparser_move.add_argument(
-        "-c",
-        "--cn",
+        "-a",
+        "--articles",
         dest="target",
         action="store_const",
-        const=CN,
-        help="Move to the cn sub blog directory.",
+        const=ARTICLES,
+        help="Move to the articles sub blog directory.",
     )
     subparser_move.add_argument(
-        "-e",
-        "--en",
+        "-d",
+        "--drafts",
         dest="target",
         action="store_const",
-        const=EN,
-        help="Move to the en sub blog directory.",
-    )
-    subparser_move.add_argument(
-        "-m",
-        "--misc",
-        dest="target",
-        action="store_const",
-        const=MISC,
-        help="Move to the misc sub blog directory.",
+        const=DRAFTS,
+        help="Move to the drafts sub blog directory.",
     )
     subparser_move.add_argument(
         "-o",
@@ -761,35 +529,26 @@ def _subparse_publish(subparsers):
         description=desc,
     )
     subparser_publish.add_argument(
-        "-c",
-        "--cn",
-        dest="sub_dirs",
+        "-a",
+        "--articles",
+        dest="doc_dirs",
         action="append_const",
-        const=CN,
-        default=[HOME],
-        help="Add the cn sub blog directory into the publish list.",
+        const=ARTICLES,
+        help="Add the articles sub blog directory into the publish list.",
     )
     subparser_publish.add_argument(
-        "-e",
-        "--en",
-        dest="sub_dirs",
+        "-d",
+        "--drafts",
+        dest="doc_dirs",
         action="append_const",
-        const=EN,
-        help="Add the en sub blog directory into the publish list.",
-    )
-    subparser_publish.add_argument(
-        "-m",
-        "--misc",
-        dest="sub_dirs",
-        action="append_const",
-        const=MISC,
-        help="Add the misc sub blog directory into the publish list.",
+        const=DRAFTS,
+        help="Add the drafts sub blog directory into the publish list.",
     )
     subparser_publish.add_argument(
         "-o",
         "--out",
         "--outdated",
-        dest="sub_dirs",
+        dest="doc_dirs",
         action="append_const",
         const=OUTDATED,
         help="Add the outdated sub blog directory into the publish list.",
@@ -824,31 +583,17 @@ def _subparse_publish(subparsers):
     subparser_publish.set_defaults(func=publish)
 
 
-def _subparse_match_post(subparsers):
+def _subparse_match_title(subparsers):
     desc = "match post name and title"
     subparser_match_post = subparsers.add_parser(
         "matchpost",
-        aliases=["mp" + i for i in INDEXES],
+        aliases=["mp"],
         help=desc,
         description=desc,
     )
     option_indexes(subparser_match_post)
     option_all(subparser_match_post)
-    subparser_match_post.add_argument(
-        "-n",
-        "--name",
-        dest="name",
-        action="store_true",
-        help="Match the post title with its name.",
-    )
-    subparser_match_post.add_argument(
-        "-t",
-        "--title",
-        dest="title",
-        action="store_true",
-        help="Match the post name with its title.",
-    )
-    subparser_match_post.set_defaults(func=match_post)
+    subparser_match_post.set_defaults(func=match_title)
 
 
 def _subparse_auto(subparsers):
@@ -898,7 +643,7 @@ def _git_diff(_, args):
 def _git_pull(blogger, args):
     logger.info("Pulling origin/master ...")
     sp.run("git pull origin master && git status", shell=True, check=True)
-    reload(blogger, args)
+    reload_posts(blogger, args)
 
 
 def _subparse_git_pull(subparsers):
@@ -913,8 +658,8 @@ def _subparse_git_pull(subparsers):
 
 
 def empty_posts(blogger, args):
-    blogger.empty_posts(args.dry_run)
-    show(blogger, args)
+    blogger.empty_posts()
+    blogger.show(args.n)
 
 
 def _subparse_empty_posts(subparsers):
@@ -925,19 +670,16 @@ def _subparse_empty_posts(subparsers):
         help=desc,
         description=desc,
     )
-    option_dry_run(subparser_status)
     option_num(subparser_status)
     option_full_path(subparser_status)
     subparser_status.set_defaults(func=empty_posts)
 
 
 def convert(blogger, args):
-    if args.indexes:
-        args.files = blogger.path(args.indexes)
+    _resolve_files(args)
     if args.files:
         for file in args.files:
-            Post(file).convert()
-        # TODO: reload those posts; need to clean first ...
+            blogger.convert(file)
 
 
 def _subparse_convert(subparsers):
@@ -964,11 +706,8 @@ def parse_args(args=None, namespace=None) -> Namespace:
     parser = ArgumentParser(description="Write blog in command line.")
     subparsers = parser.add_subparsers(dest="sub_cmd", help="Sub commands.")
     _subparse_utag(subparsers)
-    _subparse_ucat(subparsers)
     _subparse_tags(subparsers)
-    _subparse_cats(subparsers)
-    _subparse_update(subparsers)
-    _subparse_reload(subparsers)
+    _subparse_reload_posts(subparsers)
     _subparse_list(subparsers)
     _subparse_last(subparsers)
     _subparse_search(subparsers)
@@ -977,7 +716,6 @@ def parse_args(args=None, namespace=None) -> Namespace:
     _subparse_vim(subparsers)
     _subparse_move(subparsers)
     _subparse_publish(subparsers)
-    _subparse_query(subparsers)
     _subparse_auto(subparsers)
     _subparse_clean_db(subparsers)
     _subparse_git_status(subparsers)
@@ -985,8 +723,8 @@ def parse_args(args=None, namespace=None) -> Namespace:
     _subparse_git_pull(subparsers)
     _subparse_empty_posts(subparsers)
     _subparse_trash(subparsers)
-    _subparse_find_name_title_mismatch(subparsers)
-    _subparse_match_post(subparsers)
+    _subparse_find_label_title_mismatch(subparsers)
+    _subparse_match_title(subparsers)
     _subparse_exec_notebook(subparsers)
     _subparse_format_notebook(subparsers)
     _subparse_trust_notebooks(subparsers)

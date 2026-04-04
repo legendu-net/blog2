@@ -1,5 +1,5 @@
 ---
-title: "Operators in Different Programming Languages"
+title: Operators in Different Programming Languages
 date: 2012-06-14 16:08:55
 modified: 2021-03-14 16:08:55
 authors:
@@ -15,7 +15,7 @@ tags:
   - operator
   - Bash
 ---
-
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 <table border="1" align="center">
     <tr>
         <th> </th>

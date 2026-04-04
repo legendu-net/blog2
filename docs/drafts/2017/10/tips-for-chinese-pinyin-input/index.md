@@ -1,5 +1,5 @@
 ---
-title: "Chinese Pinyin Input Method"
+title: Chinese Pinyin Input Method
 date: 2017-10-22 15:07:56
 modified: 2020-05-22 15:07:56
 authors:
@@ -13,8 +13,7 @@ tags:
   - input method
   - sogou
 ---
-
-
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 `fcitx-sogoupinyin` is currently the best choice,
 and `ibus-sunpinyin` is another good alternative.
 

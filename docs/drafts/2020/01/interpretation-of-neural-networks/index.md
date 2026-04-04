@@ -1,5 +1,5 @@
 ---
-title: "Interpretation of Neural Networks"
+title: Interpretation of Neural Networks
 date: 2020-01-05 10:44:54
 modified: 2020-01-05 10:44:54
 authors:
@@ -12,7 +12,7 @@ tags:
   - data science
   - interpretation
 ---
-
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 **
 Things on this page are fragmentary and immature notes/thoughts of the author.
 Please read with your own judgement!

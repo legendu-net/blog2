@@ -8,8 +8,8 @@ label: null,-none-and-alike-in-Scala
 license: CC-BY-4.0
 tags:
   - programming
-  - null
-  - none
+  - "null"
+  - "none"
   - Scala
 ---
 

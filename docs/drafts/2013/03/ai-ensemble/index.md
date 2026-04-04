@@ -1,5 +1,5 @@
 ---
-title: "Ensemble Machine Learning Models"
+title: Ensemble Machine Learning Models
 date: 2013-03-24 13:51:12
 modified: 2019-12-24 13:51:12
 authors:
@@ -13,8 +13,7 @@ tags:
   - machine learning
   - data science
 ---
-
-
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 The prediction error is a trade-off of bias and variance. 
 In statistics, 
 we often talk about unbiased estimators (especially in linear regression). 

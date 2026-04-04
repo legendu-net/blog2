@@ -1,5 +1,5 @@
 ---
-title: "Fewest Scalings to Identify the Fake Ball"
+title: Fewest Scalings to Identify the Fake Ball
 date: 2014-08-23 17:12:23
 modified: 2014-10-23 17:12:23
 authors:
@@ -12,7 +12,7 @@ tags:
   - fake
   - ball
 ---
-
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 **
 Things on this page are
 fragmentary and immature notes/thoughts of the author.

@@ -1,5 +1,5 @@
 ---
-title: "Create a Distribution List in Outlook"
+title: Create a Distribution List in Outlook
 date: 2014-12-30 17:16:42
 modified: 2014-12-30 17:16:42
 authors:
@@ -13,7 +13,7 @@ tags:
   - contact
   - email client
 ---
-
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 **
 Things on this page are
 fragmentary and immature notes and thoughts of the author.

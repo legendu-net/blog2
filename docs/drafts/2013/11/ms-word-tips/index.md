@@ -1,5 +1,5 @@
 ---
-title: "Writing Doc Using Microsoft Word"
+title: Writing Doc Using Microsoft Word
 date: 2013-11-22 13:50:34
 modified: 2020-05-22 13:50:34
 authors:
@@ -12,7 +12,7 @@ tags:
   - software
   - Word
 ---
-
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 **Things on this page are fragmentary and immature notes/thoughts of the author.
 Please read with your own judgement!**
 

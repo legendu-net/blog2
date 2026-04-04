@@ -1,21 +1,20 @@
 ---
-title: "Atomic Linux Distributions"
+title: Atomic Linux Distributions
 date: 2025-12-07 13:27:17
-modified: 2025-12-22 11:25:19
+modified: 2026-04-03 18:01:59.458563
 authors:
-  - bendu
+- bendu
 label: atomic-linux-distributions
 license: CC-BY-4.0
 tags:
-  - Computer Science
-  - programming
-  - Linux
-  - atomic
-  - Fedora Kinoite
-  - Universal Blue
-  - Aurora
+- Computer Science
+- programming
+- Linux
+- atomic
+- Fedora Kinoite
+- Universal Blue
+- Aurora
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 Atomic Linux distributions (often called "immutable" distros) 
@@ -46,6 +45,12 @@ See
 2. GUI applications 
     - flatpak 
     - snap
+    - AppImage
+        - It can be a good choice if you need deep system access 
+            but don't want to get into the hell of configuring using flatseal 
+            (or a flatpak app doesn't even exist).
+            For example, 
+            it's a good choice for WeChat and terminal apps.
     - Distrobox / Toolbx
         - GUI applications might fail to launch
     - Virtual Machine Manager

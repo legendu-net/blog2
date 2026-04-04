@@ -1,5 +1,5 @@
 ---
-title: "Useful Windows Shortcuts"
+title: Useful Windows Shortcuts
 date: 2014-07-19 23:09:50
 modified: 2015-05-19 23:09:50
 authors:
@@ -10,7 +10,7 @@ tags:
   - Windows
   - shortcut
 ---
-
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 **
 Things on this page are 
 fragmentary and immature notes/thoughts of the author.

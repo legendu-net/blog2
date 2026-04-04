@@ -1,18 +1,20 @@
 ---
-title: "Tips on conda-pack"
+title: Tips on conda-pack
 date: 2021-04-30 12:13:17
 modified: 2021-03-30 12:13:17
 authors:
-  - bendu
+- bendu
 label: tips-on-conda-pack
 license: CC-BY-4.0
 tags:
-  - programming
-  - conda-pack
-  - conda
-  - dependency
-  - virtual environment
+- programming
+- conda-pack
+- conda
+- dependency
+- virtual environment
+
 ---
+**Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 It is suggested that you use python-build-standlone instead of conda-pack to build portable Python environments.
 Please refer to
 [Packaging Python Dependencies for PySpark Using Python-Build-Standalone](http://www.legendu.net/en/blog/packaging-Python-Dependencies-for-PySpark-Using-python-build-standalone/)

@@ -1,22 +1,21 @@
 ---
-title: "Useful Rust Crates for Database"
+title: Useful Rust Crates for Database
 date: 2023-01-13 15:46:22
-modified: 2025-06-04 14:31:23
+modified: 2026-04-03 17:16:02.537444
 authors:
-  - bendu
+- bendu
 label: useful-rust-crates-for-database
 license: CC-BY-4.0
 tags:
-  - Computer Science
-  - programming
-  - Rust
-  - database
-  - crate
-  - SQL
-  - big data
-  - streaming
+- Computer Science
+- programming
+- Rust
+- database
+- crate
+- SQL
+- big data
+- streaming
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 
@@ -98,8 +97,9 @@ It makes it useful for all sorts of neural-network or semantic-based matching, f
 
 ## Embedded Databases
 
-https://github.com/tursodatabase/limbo
-Limbo is a project to build the modern evolution of SQLite.
+### [turso](https://github.com/tursodatabase/turso)
+[Turso](https://github.com/tursodatabase/turso)
+Database is an in-process SQL database written in Rust, compatible with SQLite.
 
 ### [rusqlite](https://crates.io/crates/rusqlite)
 [rusqlite](https://crates.io/crates/rusqlite)

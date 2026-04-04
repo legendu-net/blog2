@@ -1,21 +1,20 @@
 ---
-title: "Change the Default Shell in Linux"
+title: Change the Default Shell in Linux
 date: 2025-12-07 17:48:30
-modified: 2025-12-22 20:04:26
+modified: 2026-04-03 16:13:37.449930
 authors:
-  - bendu
+- bendu
 label: change-the-default-shell-in-linux
 license: CC-BY-4.0
 tags:
-  - Computer Science
-  - programming
-  - Linux
-  - shell
-  - chsh
-  - Atomic
-  - change
+- Computer Science
+- programming
+- Linux
+- shell
+- chsh
+- Atomic
+- change
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Atomic Linux Distributions
@@ -25,6 +24,7 @@ tags:
 ```
 sudo usermod --shell $(which fish) $(id -un)
 ```
+The above command updates the configuration file `/etc/passwd`.
 
 ## Mutable Linux Distributions
 

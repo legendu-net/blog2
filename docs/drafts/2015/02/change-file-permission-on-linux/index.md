@@ -1,5 +1,5 @@
 ---
-title: "Change File Permission on Linux"
+title: Change File Permission on Linux
 date: 2015-02-15 23:45:23
 modified: 2016-08-15 23:45:23
 authors:
@@ -12,7 +12,7 @@ tags:
   - file system
   - filesystem
 ---
-
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 R: 4
 W: 2
 X: 1

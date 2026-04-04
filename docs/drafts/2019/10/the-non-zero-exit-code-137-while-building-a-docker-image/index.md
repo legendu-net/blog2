@@ -10,7 +10,7 @@ tags:
   - software
   - Docker
   - exit code
-  - 137
+  - "137"
   - OOM
   - out-of-memory
 ---

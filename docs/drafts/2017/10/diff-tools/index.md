@@ -1,5 +1,5 @@
 ---
-title: "Tools for Differencing Text Files"
+title: Tools for Differencing Text Files
 date: 2017-10-27 15:04:30
 modified: 2020-05-27 15:04:30
 authors:
@@ -15,8 +15,7 @@ tags:
   - colordiff
   - vimdiff
 ---
-
-
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 ## General Tips
 
 1. If 2 files are formatted differently,

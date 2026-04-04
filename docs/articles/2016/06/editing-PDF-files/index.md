@@ -1,5 +1,5 @@
 ---
-title: "Editing PDF Files"
+title: Editing PDF Files
 date: 2016-06-30 10:21:47
 modified: 2024-12-04 19:19:24
 authors:
@@ -14,8 +14,6 @@ tags:
   - convert
   - PDFfiller
 ---
-
-**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 <div style="overflow-x:auto;">
 <style>

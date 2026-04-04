@@ -1,5 +1,5 @@
 ---
-title: "Tips on VPN"
+title: Tips on VPN
 date: 2014-08-22 14:46:00
 modified: 2020-05-22 14:46:00
 authors:
@@ -12,7 +12,7 @@ tags:
   - tips
   - location
 ---
-
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 **
 Things on this page arefragmentary and immature notes/thoughts of the author.
 It is not meant to readersbut rather for convenient reference of the author and future improvement.

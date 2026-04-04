@@ -1,19 +1,21 @@
 ---
-title: "Docker on Windows"
+title: Docker on Windows
 date: 2017-07-08 14:45:17
 modified: 2021-09-10 10:13:26
 authors:
-  - bendu
+- bendu
 label: docker-on-windows
 license: CC-BY-4.0
 tags:
-  - Software
-  - Docker
-  - Widnows
-  - Windows 10
-  - Hyper-V
-  - Virtualization
+- Software
+- Docker
+- Widnows
+- Windows 10
+- Hyper-V
+- Virtualization
+
 ---
+**Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 It is suggested that you use Docker in WSL 
 rather than using Docker for Windows.
 

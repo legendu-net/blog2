@@ -6,30 +6,32 @@ from pathlib import Path
 import shutil
 import subprocess as sp
 
-BASE_DIR = Path(__file__).resolve().parent
-VIM = "nvim" if shutil.which("nvim") else "vim"
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+
+def get_vim() -> str:
+    return "nvim" if shutil.which("nvim") else "vim"
+
+
+def get_code() -> str:
+    return "code-server" if shutil.which("code-server") else "code"
 
 
 def get_editor() -> str:
-    """Get the path of a valid editor.
-    Vim is used as the default (fallback) editor.
-    """
-    editors = {
-        "code-server": "code-server",
-        "code": "code",
-        "gp": "gp open",
-    }
-    for editor, cmd in editors.items():
-        if shutil.which(editor):
-            return cmd
-    return VIM
+    """Get the path of a valid editor (default to get_vim())."""
+    code = get_code()
+    if shutil.which(code):
+        return code
+    return get_vim()
 
 
 def qmarks(n: int | Sequence) -> str:
     """Generate n question marks delimited by comma."""
-    if isinstance(n, (list, tuple)):
-        n = len(n)
-    return ", ".join(["?"] * n)
+    if isinstance(n, int):
+        return ", ".join(["?"] * n)
+    if isinstance(n, str):
+        return qmarks(n.count(",") + 1)
+    return qmarks(len(n))
 
 
 def _github_repos_url(dir_: str, https: bool = False) -> str:
@@ -103,16 +105,16 @@ def option_where(subparser):
 
 
 def option_dir(subparser):
-    """Add the option --sub-dir.
+    """Add the option --doc-dir.
 
     :param subparser: A sub parser for command-line options.
     """
     subparser.add_argument(
         "-d",
-        "--sub-dir",
-        dest="sub_dir",
+        "--doc-dir",
+        dest="doc_dir",
         default="",
-        help="The sub blog directory to list categories; by default list all categories.",
+        help="The doc directory to searching/querying operations.",
     )
 
 
@@ -132,7 +134,7 @@ def option_from(subparser):
     :param subparser: A sub parser for command-line options.
     """
     subparser.add_argument(
-        "--from", dest="from", default="", help="the category/tag to change from."
+        "--from", dest="from", default="", help="The tag to change from."
     )
 
 
@@ -141,9 +143,7 @@ def option_to(subparser):
 
     :param subparser: A sub parser for command-line options.
     """
-    subparser.add_argument(
-        "--to", dest="to", default="", help="the category/tag to change to."
-    )
+    subparser.add_argument("--to", dest="to", default="", help="The tag to change to.")
 
 
 def option_full_path(subparser):
@@ -160,19 +160,6 @@ def option_full_path(subparser):
     )
 
 
-def option_dry_run(subparser):
-    """Add the option --dry-run.
-
-    :param subparser: A sub parser for command-line options.
-    """
-    subparser.add_argument(
-        "--dry-run",
-        dest="dry_run",
-        action="store_true",
-        help="Print out the SQL query without running it.",
-    )
-
-
 def option_editor(subparser):
     """Add the option --editor.
 
@@ -183,7 +170,7 @@ def option_editor(subparser):
         "--vim",
         dest="editor",
         action="store_const",
-        const=VIM,
+        const=get_vim(),
         default=get_editor(),
         help="Edit the post using NeoVim/Vim.",
     )
@@ -192,16 +179,8 @@ def option_editor(subparser):
         "--vscode",
         dest="editor",
         action="store_const",
-        const="code",
-        help="Edit the post using VSCode.",
-    )
-    subparser.add_argument(
-        "-g",
-        "--gp-open",
-        dest="editor",
-        action="store_const",
-        const="gp open",
-        help="Edit the post using the GitPod editor.",
+        const=get_code(),
+        help="Edit the post using Code Server/VSCode.",
     )
 
 

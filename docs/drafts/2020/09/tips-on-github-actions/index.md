@@ -1,17 +1,16 @@
 ---
-title: "Tips on GitHub Actions"
+title: Tips on GitHub Actions
 date: 2020-09-01 12:42:15
-modified: 2026-01-08 11:31:40
+modified: 2026-04-03 16:37:08.928246
 authors:
-  - bendu
+- bendu
 label: tips-on-github-actions
 license: CC-BY-4.0
 tags:
-  - Computer Science
-  - GitHub Actions
-  - CICD
+- Computer Science
+- GitHub Actions
+- CICD
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Tips and Traps
@@ -50,6 +49,12 @@ tags:
     - Fork the `dev` branch for development.
     - A PR from `dev` to `main` should be made 
         when it is ready to release a new version.
+
+## Permissions
+
+<img width="2027" height="1453" alt="Image" src="https://github.com/user-attachments/assets/e526d549-3416-4b16-a816-c5720dc61f21" />
+
+https://github.com/legendu-net/aiutil/blob/dev/.github/workflows/pre-release.yml#L10
 
 ## Runner Images
 

@@ -1,4 +1,4 @@
-# Python-generated files
+# Python
 __pycache__/
 .ipynb_checkpoints/
 *.py[oc]
@@ -6,6 +6,12 @@ build/
 dist/
 wheels/
 *.egg-info
-
-# Virtual environments
 .venv
+
+# SQLite
+.blogger.sqlite3
+.blogger.sqlite3-shm
+.blogger.sqlite3-wal
+
+# Jupyter-Book
+_build/

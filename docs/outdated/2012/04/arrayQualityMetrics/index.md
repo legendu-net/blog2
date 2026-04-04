@@ -1,5 +1,5 @@
 ---
-title: "Install the R Package "arrayQualityMetrics""
+title: "Install the R Package \"arrayQualityMetrics\""
 date: 2012-04-11 19:11:28
 modified: 2016-06-11 19:11:28
 authors:

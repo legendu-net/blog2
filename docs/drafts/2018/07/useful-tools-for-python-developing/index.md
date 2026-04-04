@@ -1,5 +1,5 @@
 ---
-title: "Useful Tools for Python Developing"
+title: Useful Tools for Python Developing
 date: 2018-07-08 10:46:18
 modified: 2025-06-12 02:36:06
 authors:
@@ -24,8 +24,7 @@ tags:
   - type
   - annotation
 ---
-
-
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 - [vulture](https://github.com/jendrikseipp/vulture)
 
     [vulture](https://github.com/jendrikseipp/vulture)

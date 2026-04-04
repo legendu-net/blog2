@@ -1,5 +1,5 @@
 ---
-title: "Convert Math Formula and Table To LaTeX"
+title: Convert Math Formula and Table To LaTeX
 date: 2012-11-13 00:05:59
 modified: 2016-07-13 00:05:59
 authors:
@@ -16,8 +16,7 @@ tags:
   - R
   - MATLAB
 ---
-
-
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 ## R
 1. xtable{xtable}
 	- Good for converting table to LaTeX code.
