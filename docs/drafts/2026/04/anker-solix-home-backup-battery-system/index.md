@@ -1,7 +1,7 @@
 ---
 title: Anker Solix Home Backup Battery System
 date: 2026-04-03 21:39:15.050101
-modified: 2026-04-03 22:38:05.994929
+modified: 2026-04-04 12:39:14.090730
 authors:
 - bendu
 label: anker-solix-home-backup-battery-system
@@ -18,7 +18,7 @@ tags:
 
 ## Tips and Tricks 
 
-1. The Anker Home Backup Battery System automatically decide when to charge based the time-of-use schedule.
+1. The Anker Home Backup Battery System automatically decides when to charge based the time-of-use schedule.
 
 2. A F3800 plus battery has to be disconnected from the Anker Home Power Panel 
     before doing firmware update.

@@ -1,21 +1,20 @@
 ---
-title: "Tips on Jupyter-Book"
+title: Tips on Jupyter-Book
 date: 2020-09-20 14:47:06
-modified: 2022-12-20 17:51:52
+modified: 2026-04-03 23:58:36.930768
 authors:
-  - bendu
+- bendu
 label: tips-on-jupyter-book
 license: CC-BY-4.0
 tags:
-  - Computer Science
-  - jupyter-book
-  - Markdown
-  - notebook
-  - Jupyter
-  - JupyterLab
-  - blog
+- Computer Science
+- jupyter-book
+- Markdown
+- notebook
+- Jupyter
+- JupyterLab
+- blog
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 icon jb -ic

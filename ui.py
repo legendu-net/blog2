@@ -118,7 +118,7 @@ def search(blogger, args):
         filter_.append(" ".join(args.filter))
     if args.doc_dir:
         dirs = ", ".join(f"'{d}'" for d in args.doc_dir)
-        filter_.append(f"dir IN ({dirs})")
+        filter_.append(f"doc_dir IN ({dirs})")
     if args.tags:
         tags = " ".join(args.tags)
         filter_.append(f"tags MATCH '{tags}'")

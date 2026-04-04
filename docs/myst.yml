@@ -24,7 +24,8 @@ project:
     # To turn `:emoji-shortcodes:` into emojis
     - https://raw.githubusercontent.com/jupyter-book/myst-plugins/main/plugins/emoji-shortcodes/emoji-shortcodes.mjs
   exclude:
-    - posts/en/2024/01/shopping-on-amazon/index.md
+    #- articles/2024/01/shopping-on-amazon/index.md
+    - articles/2024/01/*/*.md
   toc:
     - file: index.md
     - title: Posts
@@ -305,6 +306,10 @@ project:
           children:
             - title: "2026"
               children:
+                - title: "Apr"
+                  children:
+                    - pattern: drafts/2026/04/*/*.md
+                    - pattern: drafts/2026/04/*/*.ipynb
                 - title: "Jan"
                   children:
                     - pattern: drafts/2026/01/*/*.md
