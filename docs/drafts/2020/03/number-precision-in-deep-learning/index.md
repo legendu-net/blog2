@@ -1,7 +1,7 @@
 ---
 title: "Number Precision in Deep Learning"
+created: 2020-03-02 21:35:55
 date: 2020-03-02 21:35:55
-modified: 2020-03-02 21:35:55
 authors:
   - bendu
 label: number-precision-in-deep-learning

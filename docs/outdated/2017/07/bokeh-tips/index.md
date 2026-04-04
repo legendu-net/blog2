@@ -1,7 +1,7 @@
 ---
 title: "Visualization Using Bokeh in Python"
-date: 2017-07-22 15:07:28
-modified: 2021-09-25 13:50:33
+created: 2017-07-22 15:07:28
+date: 2021-09-25 13:50:33
 authors:
   - bendu
 label: bokeh-tips

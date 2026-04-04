@@ -1,7 +1,7 @@
 ---
 title: "High Performance Computing in Python"
-date: 2017-06-12 09:26:31
-modified: 2023-07-13 18:44:29
+created: 2017-06-12 09:26:31
+date: 2023-07-13 18:44:29
 authors:
   - bendu
 label: high-performance-computing-in-python

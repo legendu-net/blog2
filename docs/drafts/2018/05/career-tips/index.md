@@ -1,7 +1,7 @@
 ---
 title: "Tips on Career"
-date: 2018-05-17 16:52:16
-modified: 2020-05-17 16:52:16
+created: 2018-05-17 16:52:16
+date: 2020-05-17 16:52:16
 authors:
   - bendu
 label: career-tips

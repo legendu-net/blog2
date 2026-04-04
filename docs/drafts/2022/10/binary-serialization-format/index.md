@@ -1,7 +1,7 @@
 ---
 title: "Binary Serialization Format"
-date: 2022-10-16 16:12:18
-modified: 2022-10-17 13:48:56
+created: 2022-10-16 16:12:18
+date: 2022-10-17 13:48:56
 authors:
   - bendu
 label: binary-serialization-format

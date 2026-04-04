@@ -1,7 +1,7 @@
 ---
 title: "Synchronize System Time in Debian"
-date: 2013-09-13 22:18:56
-modified: 2016-07-13 22:18:56
+created: 2013-09-13 22:18:56
+date: 2016-07-13 22:18:56
 authors:
   - bendu
 label: synchronize-system-time-in-debian

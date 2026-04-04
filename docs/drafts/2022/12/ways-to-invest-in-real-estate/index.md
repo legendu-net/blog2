@@ -1,7 +1,7 @@
 ---
 title: "Ways to Invest in Real Estate"
-date: 2022-12-09 12:40:20
-modified: 2024-02-03 15:14:46
+created: 2022-12-09 12:40:20
+date: 2024-02-03 15:14:46
 authors:
   - bendu
 label: ways-to-invest-in-real-estate

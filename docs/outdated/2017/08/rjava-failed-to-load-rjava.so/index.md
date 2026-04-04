@@ -1,7 +1,7 @@
 ---
 title: "rJava Failed to Load rJava.So"
-date: 2017-08-06 08:01:26
-modified: 2017-09-06 08:01:26
+created: 2017-08-06 08:01:26
+date: 2017-09-06 08:01:26
 authors:
   - bendu
 label: rjava-failed-to-load-rjava.so

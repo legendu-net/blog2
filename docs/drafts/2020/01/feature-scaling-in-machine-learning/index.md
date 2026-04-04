@@ -1,7 +1,7 @@
 ---
 title: "Feature Scaling in Machine Learning"
+created: 2020-01-13 14:12:39
 date: 2020-01-13 14:12:39
-modified: 2020-01-13 14:12:39
 authors:
   - bendu
 label: feature-scaling-in-machine-learning

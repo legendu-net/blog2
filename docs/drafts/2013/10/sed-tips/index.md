@@ -1,30 +1,32 @@
 ---
-title: "Transform Text Using sed"
-date: 2013-10-22 15:47:51
-modified: 2025-12-28 11:41:02
+title: Transform Text Using sed
+created: 2013-10-22 15:47:51
+date: 2026-04-04 14:28:47.872172
 authors:
-  - bendu
+- bendu
 label: sed-tips
 license: CC-BY-4.0
 tags:
-  - tips
-  - software
-  - text manipulation
-  - shell
-  - Linux
-  - sed
+- tips
+- software
+- text manipulation
+- shell
+- Linux
+- sed
+- sd
+- sad
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Alternatives
 
-1. [sad](https://github.com/ms-jpq/sad)
-    is a simpler alternative to sed.
-    sad is implemented in Rust 
-    and has built-in integration of 
-    [fzf]( https://www.legendu.net/misc/blog/the-fzf-command-is-a-great-alternative-to-find ),
-    which makes it easy to visually inspect changes.
+1. There are simpler alternatives such as 
+    [sd](https://github.com/chmln/sd) and [sad](https://github.com/ms-jpq/sad)
+    (which are both implemented in Rust).
+    However,
+    neither of them is as powerful as sed. 
+    And with the help AI tools (Gemini, ChatGPT, etc),
+    (complicated) syntax is no longer an issue any more.
 
 2. For complicated text substitutions,
     it is suggested that you use Python script as an alternative to `sed`.
@@ -34,10 +36,6 @@ tags:
     [uv]( https://www.legendu.net/misc/blog/manage-python-projects-using-uv )
     to run the Python script.
 
-3. If you do prefer using sed,
-    you can ask AI tools (ChatGPT, Gemini, DeepSeek, etc) 
-    to generate sed comamnds for you.
-    
 ## Tips & Traps
 
 1. `sed` supports multiple actions at the same time.

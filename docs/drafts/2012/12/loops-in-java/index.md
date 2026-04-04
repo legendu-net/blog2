@@ -1,7 +1,7 @@
 ---
 title: "Loops in Java"
-date: 2012-12-06 21:46:23
-modified: 2019-11-06 21:46:23
+created: 2012-12-06 21:46:23
+date: 2019-11-06 21:46:23
 authors:
   - bendu
 label: loops-in-java

@@ -1,7 +1,7 @@
 ---
 title: "Tips on the Zed IDE"
-date: 2025-04-17 16:58:12
-modified: 2025-04-28 13:47:53
+created: 2025-04-17 16:58:12
+date: 2025-04-28 13:47:53
 authors:
   - bendu
 label: tips-on-the-zed-ide

@@ -1,7 +1,7 @@
 ---
 title: "Tips on Podman"
-date: 2020-12-11 00:06:35
-modified: 2021-01-11 00:06:35
+created: 2020-12-11 00:06:35
+date: 2021-01-11 00:06:35
 authors:
   - bendu
 label: tips-on-podman

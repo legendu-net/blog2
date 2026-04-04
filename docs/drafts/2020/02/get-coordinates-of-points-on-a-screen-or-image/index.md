@@ -1,7 +1,7 @@
 ---
 title: "Get Coordinates of Points on a Screen or Image"
-date: 2020-02-09 12:03:40
-modified: 2020-03-09 12:03:40
+created: 2020-02-09 12:03:40
+date: 2020-03-09 12:03:40
 authors:
   - bendu
 label: get-coordinates-of-points-on-a-screen-or-image

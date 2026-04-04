@@ -1,7 +1,7 @@
 ---
 title: "How to Submit R Packages to CRAN"
-date: 2012-06-03 10:16:02
-modified: 2015-03-03 10:16:02
+created: 2012-06-03 10:16:02
+date: 2015-03-03 10:16:02
 authors:
   - bendu
 label: submit-r-package-cran

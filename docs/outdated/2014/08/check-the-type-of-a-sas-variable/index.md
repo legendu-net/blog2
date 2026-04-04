@@ -1,7 +1,7 @@
 ---
 title: "Check the Type of a SAS Variable"
-date: 2014-08-22 16:59:20
-modified: 2014-10-22 16:59:20
+created: 2014-08-22 16:59:20
+date: 2014-10-22 16:59:20
 authors:
   - bendu
 label: check-the-type-of-a-sas-variable

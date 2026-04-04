@@ -1,7 +1,7 @@
 ---
 title: "Tips on Raspberry Pi"
-date: 2023-10-11 16:20:45
-modified: 2023-11-24 23:07:16
+created: 2023-10-11 16:20:45
+date: 2023-11-24 23:07:16
 authors:
   - bendu
 label: tips-on-raspberry-pi

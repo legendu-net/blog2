@@ -1,7 +1,7 @@
 ---
 title: "Tips on IBus"
-date: 2013-10-22 13:53:23
-modified: 2020-05-22 13:53:23
+created: 2013-10-22 13:53:23
+date: 2020-05-22 13:53:23
 authors:
   - bendu
 label: ibus-tips

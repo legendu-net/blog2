@@ -1,7 +1,7 @@
 ---
 title: "Kotlin vs Scala"
+created: 2019-11-20 16:49:39
 date: 2019-11-20 16:49:39
-modified: 2019-11-20 16:49:39
 authors:
   - bendu
 label: kotlin-vs-scala

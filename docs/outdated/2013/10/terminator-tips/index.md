@@ -1,7 +1,7 @@
 ---
 title: "Terminator is an Awesome Terminal Emulator"
-date: 2013-10-18 14:03:09
-modified: 2021-09-25 11:39:16
+created: 2013-10-18 14:03:09
+date: 2021-09-25 11:39:16
 authors:
   - bendu
 label: terminator-tips

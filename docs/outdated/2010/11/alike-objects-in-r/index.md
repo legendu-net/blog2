@@ -1,7 +1,7 @@
 ---
 title: "Alike Objects/Functions in R"
-date: 2010-11-05 00:19:25
-modified: 2022-11-19 13:43:35
+created: 2010-11-05 00:19:25
+date: 2022-11-19 13:43:35
 authors:
   - bendu
 label: alike-objects-in-r

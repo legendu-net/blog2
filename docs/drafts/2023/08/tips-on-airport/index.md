@@ -1,7 +1,7 @@
 ---
 title: "Tips on the Seattle-Tacoma International Airport"
-date: 2023-08-21 20:50:50
-modified: 2025-10-04 09:30:40
+created: 2023-08-21 20:50:50
+date: 2025-10-04 09:30:40
 authors:
   - bendu
 label: tips-on-airport

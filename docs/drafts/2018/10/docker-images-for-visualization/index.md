@@ -1,7 +1,7 @@
 ---
 title: "Docker Images for Visualization"
+created: 2018-10-18 23:42:00
 date: 2018-10-18 23:42:00
-modified: 2018-10-18 23:42:00
 authors:
   - bendu
 label: docker-images-for-visualization

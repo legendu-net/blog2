@@ -1,7 +1,7 @@
 ---
 title: "Install Docker"
-date: 2017-06-09 13:13:36
-modified: 2020-05-09 13:13:36
+created: 2017-06-09 13:13:36
+date: 2020-05-09 13:13:36
 authors:
   - bendu
 label: docker-installation

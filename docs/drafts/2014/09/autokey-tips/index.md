@@ -1,7 +1,7 @@
 ---
 title: "Auto Typing Using AutoKey"
-date: 2014-09-22 14:03:34
-modified: 2020-05-22 14:03:34
+created: 2014-09-22 14:03:34
+date: 2020-05-22 14:03:34
 authors:
   - bendu
 label: autokey-tips

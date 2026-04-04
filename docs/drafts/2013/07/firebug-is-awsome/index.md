@@ -1,7 +1,7 @@
 ---
 title: "Firebug Is Awsome"
-date: 2013-07-25 20:16:40
-modified: 2017-04-25 20:16:40
+created: 2013-07-25 20:16:40
+date: 2017-04-25 20:16:40
 authors:
   - bendu
 label: firebug-is-awsome

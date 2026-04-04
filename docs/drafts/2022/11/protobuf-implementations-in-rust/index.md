@@ -1,7 +1,7 @@
 ---
 title: "Protobuf Implementations in Rust"
+created: 2022-11-20 15:51:55
 date: 2022-11-20 15:51:55
-modified: 2022-11-20 15:51:55
 authors:
   - bendu
 label: protobuf-implementations-in-rust

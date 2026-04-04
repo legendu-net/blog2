@@ -1,7 +1,7 @@
 ---
 title: "Tips on DIY"
-date: 2023-09-22 23:31:22
-modified: 2025-10-15 20:19:37
+created: 2023-09-22 23:31:22
+date: 2025-10-15 20:19:37
 authors:
   - bendu
 label: tips-on-diy

@@ -1,7 +1,7 @@
 ---
 title: "Install Packages Using Homebrew on macOS and Linux"
-date: 2019-03-27 22:55:07
-modified: 2022-06-06 13:33:09
+created: 2019-03-27 22:55:07
+date: 2022-06-06 13:33:09
 authors:
   - bendu
 label: homebrew-tips

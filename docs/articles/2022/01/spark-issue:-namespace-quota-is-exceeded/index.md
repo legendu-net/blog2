@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: Namespace Quota Is Exceeded"
-date: 2022-01-06 22:33:54
-modified: 2022-01-17 12:21:16
+created: 2022-01-06 22:33:54
+date: 2022-01-17 12:21:16
 authors:
   - bendu
 label: spark-issue:-namespace-quota-is-exceeded

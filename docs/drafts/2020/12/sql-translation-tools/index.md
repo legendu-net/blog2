@@ -1,7 +1,7 @@
 ---
 title: "SQL Translation Tools"
+created: 2020-12-13 13:10:21
 date: 2020-12-13 13:10:21
-modified: 2020-12-13 13:10:21
 authors:
   - bendu
 label: sql-translation-tools

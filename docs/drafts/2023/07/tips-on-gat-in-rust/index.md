@@ -1,7 +1,7 @@
 ---
 title: "Tips on GAT in Rust"
-date: 2023-07-30 18:09:45
-modified: 2023-07-30 21:04:55
+created: 2023-07-30 18:09:45
+date: 2023-07-30 21:04:55
 authors:
   - bendu
 label: tips-on-gat-in-rust

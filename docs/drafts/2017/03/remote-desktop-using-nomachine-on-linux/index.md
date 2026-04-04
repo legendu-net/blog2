@@ -1,7 +1,7 @@
 ---
 title: "Remote Desktop Using NoMachine on Linux"
-date: 2017-03-03 20:43:17
-modified: 2020-03-03 20:43:17
+created: 2017-03-03 20:43:17
+date: 2020-03-03 20:43:17
 authors:
   - bendu
 label: remote-desktop-using-nomachine-on-linux

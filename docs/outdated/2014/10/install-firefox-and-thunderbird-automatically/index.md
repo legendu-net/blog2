@@ -1,7 +1,7 @@
 ---
 title: "Install Firefox and Thunderbird Automatically on Debian"
-date: 2014-10-22 13:20:50
-modified: 2020-05-22 13:20:50
+created: 2014-10-22 13:20:50
+date: 2020-05-22 13:20:50
 authors:
   - bendu
 label: install-firefox-and-thunderbird-automatically

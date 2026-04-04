@@ -1,7 +1,7 @@
 ---
 title: "Probability to Lose All Money"
-date: 2012-07-22 03:56:28
-modified: 2015-11-22 03:56:28
+created: 2012-07-22 03:56:28
+date: 2015-11-22 03:56:28
 authors:
   - bendu
 label: probability-lose-all-money

@@ -1,7 +1,7 @@
 ---
 title: "Nix and NixOS"
-date: 2025-04-16 06:54:32
-modified: 2025-04-21 13:33:01
+created: 2025-04-16 06:54:32
+date: 2025-04-21 13:33:01
 authors:
   - bendu
 label: nix-and-nixOS

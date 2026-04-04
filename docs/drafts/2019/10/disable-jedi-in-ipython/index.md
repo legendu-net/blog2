@@ -1,7 +1,7 @@
 ---
 title: "Disable Jedi in IPython"
+created: 2019-10-19 21:06:24
 date: 2019-10-19 21:06:24
-modified: 2019-10-19 21:06:24
 authors:
   - bendu
 label: disable-jedi-in-ipython

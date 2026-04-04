@@ -1,7 +1,7 @@
 ---
 title: "IDEs With AI Coding Assists"
-date: 2025-04-18 07:12:55
-modified: 2025-04-28 13:55:42
+created: 2025-04-18 07:12:55
+date: 2025-04-28 13:55:42
 authors:
   - bendu
 label: IDEs-with-AI-coding-Assists

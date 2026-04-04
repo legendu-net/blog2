@@ -1,7 +1,7 @@
 ---
 title: "Take Screenshot in Rust"
-date: 2021-06-17 22:50:10
-modified: 2025-02-15 20:59:21
+created: 2021-06-17 22:50:10
+date: 2025-02-15 20:59:21
 authors:
   - bendu
 label: take-screenshot-in-rust

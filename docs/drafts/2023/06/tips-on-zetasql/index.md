@@ -1,7 +1,7 @@
 ---
 title: "Tips on ZetaSQL"
-date: 2023-06-27 23:48:22
-modified: 2023-07-01 18:06:49
+created: 2023-06-27 23:48:22
+date: 2023-07-01 18:06:49
 authors:
   - bendu
 label: tips-on-zetasql

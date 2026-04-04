@@ -1,7 +1,7 @@
 ---
 title: "Common Errors in Bibliographies"
-date: 2013-12-13 00:09:02
-modified: 2016-07-13 00:09:02
+created: 2013-12-13 00:09:02
+date: 2016-07-13 00:09:02
 authors:
   - bendu
 label: common-errors-in-bibliographies

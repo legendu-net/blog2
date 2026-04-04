@@ -1,7 +1,7 @@
 ---
 title: "LaTeX Commands for Compiling"
-date: 2012-11-13 00:03:31
-modified: 2016-07-13 00:03:31
+created: 2012-11-13 00:03:31
+date: 2016-07-13 00:03:31
 authors:
   - bendu
 label: latex-commands

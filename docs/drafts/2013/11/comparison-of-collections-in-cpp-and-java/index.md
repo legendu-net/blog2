@@ -1,7 +1,7 @@
 ---
 title: "Comparison of Collections in C++ and Java"
-date: 2013-11-10 11:48:21
-modified: 2021-01-10 11:48:21
+created: 2013-11-10 11:48:21
+date: 2021-01-10 11:48:21
 authors:
   - bendu
 label: comparison-of-collections-in-cpp-and-java

@@ -1,7 +1,7 @@
 ---
 title: "Some Links for R"
+created: 2013-10-20 00:00:00
 date: 2013-10-20 00:00:00
-modified: 2013-10-20 00:00:00
 authors:
   - bendu
 label: r-links

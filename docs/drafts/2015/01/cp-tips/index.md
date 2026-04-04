@@ -1,7 +1,7 @@
 ---
 title: "Copying Files in Linux"
-date: 2015-01-02 14:57:03
-modified: 2020-05-02 14:57:03
+created: 2015-01-02 14:57:03
+date: 2020-05-02 14:57:03
 authors:
   - bendu
 label: cp-tips

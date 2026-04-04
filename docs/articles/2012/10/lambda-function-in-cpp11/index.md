@@ -1,7 +1,7 @@
 ---
 title: "Lambda Function in C++11"
-date: 2012-10-20 10:35:46
-modified: 2015-02-20 10:35:46
+created: 2012-10-20 10:35:46
+date: 2015-02-20 10:35:46
 authors:
   - bendu
 label: lambda-function-in-cpp11

@@ -1,7 +1,7 @@
 ---
 title: "Retrieval-Augmented Generation for LLM"
-date: 2023-12-11 11:16:32
-modified: 2023-12-11 12:40:25
+created: 2023-12-11 11:16:32
+date: 2023-12-11 12:40:25
 authors:
   - bendu
 label: retrieval-augmented-generation-for-llm

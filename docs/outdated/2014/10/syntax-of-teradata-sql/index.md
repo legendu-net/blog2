@@ -1,7 +1,7 @@
 ---
 title: "Syntax of Teradata SQL"
-date: 2014-10-15 12:10:03
-modified: 2021-02-15 12:10:03
+created: 2014-10-15 12:10:03
+date: 2021-02-15 12:10:03
 authors:
   - bendu
 label: syntax-of-teradata-sql

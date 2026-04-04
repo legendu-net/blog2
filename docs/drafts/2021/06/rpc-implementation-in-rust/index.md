@@ -1,7 +1,7 @@
 ---
 title: "RPC Implementation in Rust"
-date: 2021-06-20 12:01:24
-modified: 2023-02-12 00:37:36
+created: 2021-06-20 12:01:24
+date: 2023-02-12 00:37:36
 authors:
   - bendu
 label: rpc-implementation-in-rust

@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning Tools and Apps"
+created: 2019-05-21 01:31:55
 date: 2019-05-21 01:31:55
-modified: 2019-05-21 01:31:55
 authors:
   - bendu
 label: deep-learning-tools-and-apps

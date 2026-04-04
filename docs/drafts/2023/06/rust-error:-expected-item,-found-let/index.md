@@ -1,7 +1,7 @@
 ---
 title: "Rust Error \"error: expected item, found 'let'\""
+created: 2023-06-17 11:36:33
 date: 2023-06-17 11:36:33
-modified: 2023-06-17 11:36:33
 authors:
   - bendu
 label: rust-error:-expected-item,-found-let

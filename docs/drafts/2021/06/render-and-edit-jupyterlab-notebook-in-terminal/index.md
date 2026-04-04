@@ -1,7 +1,7 @@
 ---
 title: "Render and Edit JupyterLab Notebook in Terminal"
-date: 2021-06-16 23:26:39
-modified: 2022-05-08 12:24:51
+created: 2021-06-16 23:26:39
+date: 2022-05-08 12:24:51
 authors:
   - bendu
 label: render-and-edit-jupyterlab-notebook-in-terminal

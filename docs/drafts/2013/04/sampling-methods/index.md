@@ -1,7 +1,7 @@
 ---
 title: "Sampling Methods"
-date: 2013-04-22 12:23:20
-modified: 2020-05-22 12:23:20
+created: 2013-04-22 12:23:20
+date: 2020-05-22 12:23:20
 authors:
   - bendu
 label: sampling-methods

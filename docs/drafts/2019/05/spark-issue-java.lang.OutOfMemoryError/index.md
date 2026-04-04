@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: java.lang.OutOfMemoryError"
-date: 2019-05-26 10:19:41
-modified: 2021-03-26 10:19:41
+created: 2019-05-26 10:19:41
+date: 2021-03-26 10:19:41
 authors:
   - bendu
 label: spark-issue-java.lang.OutOfMemoryError

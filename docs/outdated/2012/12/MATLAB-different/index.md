@@ -1,7 +1,7 @@
 ---
 title: "How MATLAB Is Different from Other Programming Languages"
-date: 2012-12-13 00:09:40
-modified: 2016-07-13 00:09:40
+created: 2012-12-13 00:09:40
+date: 2016-07-13 00:09:40
 authors:
   - bendu
 label: MATLAB-different

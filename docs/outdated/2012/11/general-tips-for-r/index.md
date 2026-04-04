@@ -1,7 +1,7 @@
 ---
 title: "General Tips for R"
-date: 2012-11-05 00:29:52
-modified: 2013-12-05 00:29:52
+created: 2012-11-05 00:29:52
+date: 2013-12-05 00:29:52
 authors:
   - bendu
 label: general-tips-for-r

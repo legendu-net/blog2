@@ -1,7 +1,7 @@
 ---
 title: "Tips on the WealthFront Brokerage"
-date: 2024-05-06 10:36:44
-modified: 2026-01-08 00:32:07
+created: 2024-05-06 10:36:44
+date: 2026-01-08 00:32:07
 authors:
   - bendu
 label: tips-on-the-wealthfront-brokerage

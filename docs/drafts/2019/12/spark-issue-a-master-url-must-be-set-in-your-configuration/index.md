@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: a Master URL Must Be Set in Your Configuration"
-date: 2019-12-21 12:14:37
-modified: 2021-03-21 12:14:37
+created: 2019-12-21 12:14:37
+date: 2021-03-21 12:14:37
 authors:
   - bendu
 label: spark-issue-a-master-url-must-be-set-in-your-configuration

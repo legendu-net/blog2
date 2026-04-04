@@ -1,7 +1,7 @@
 ---
 title: "Shopping on Amazon"
-date: 2024-01-22 17:18:34
-modified: 2025-07-27 11:11:37
+created: 2024-01-22 17:18:34
+date: 2025-07-27 11:11:37
 authors:
   - bendu
 label: shopping-on-amazon

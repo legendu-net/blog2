@@ -1,7 +1,7 @@
 ---
 title: "Lua Bindings for Rust"
-date: 2022-06-12 11:07:20
-modified: 2022-12-20 11:54:30
+created: 2022-06-12 11:07:20
+date: 2022-12-20 11:54:30
 authors:
   - bendu
 label: lua-bindings-for-rust

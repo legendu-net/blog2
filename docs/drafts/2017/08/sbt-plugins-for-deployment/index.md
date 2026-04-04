@@ -1,7 +1,7 @@
 ---
 title: "sbt Plugins for Deployment"
-date: 2017-08-23 09:30:38
-modified: 2017-12-23 09:30:38
+created: 2017-08-23 09:30:38
+date: 2017-12-23 09:30:38
 authors:
   - bendu
 label: sbt-plugins-for-deployment

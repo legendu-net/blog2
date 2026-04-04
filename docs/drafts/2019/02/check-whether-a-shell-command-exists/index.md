@@ -1,7 +1,7 @@
 ---
 title: "Check Whether a Shell Command Exists"
-date: 2019-02-10 12:26:09
-modified: 2025-12-17 10:16:12
+created: 2019-02-10 12:26:09
+date: 2025-12-17 10:16:12
 authors:
   - bendu
 label: check-whether-a-shell-command-exists

@@ -1,7 +1,7 @@
 ---
 title: "Good Resources of News"
+created: 2022-12-09 10:46:58
 date: 2022-12-09 10:46:58
-modified: 2022-12-09 10:46:58
 authors:
   - bendu
 label: good-resources-of-news

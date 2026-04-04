@@ -1,7 +1,7 @@
 ---
 title: "Tips on Keyboard in macOS"
+created: 2025-11-27 01:02:52
 date: 2025-11-27 01:02:52
-modified: 2025-11-27 01:02:52
 authors:
   - bendu
 label: tips-on-keyboard-in-macos

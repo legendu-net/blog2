@@ -1,7 +1,7 @@
 ---
 title: "Hide 3D Graph in Mathematica"
-date: 2021-04-07 00:00:00
-modified: 2013-10-07 00:00:00
+created: 2021-04-07 00:00:00
+date: 2013-10-07 00:00:00
 authors:
   - bendu
 label: hide-3d-graph-in-mathematica

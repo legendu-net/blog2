@@ -1,7 +1,7 @@
 ---
 title: "Tips on Code Design"
-date: 2022-11-25 11:52:35
-modified: 2022-11-25 12:09:21
+created: 2022-11-25 11:52:35
+date: 2022-11-25 12:09:21
 authors:
   - bendu
 label: tips-on-code-design

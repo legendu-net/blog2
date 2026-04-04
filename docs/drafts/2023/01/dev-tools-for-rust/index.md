@@ -1,7 +1,7 @@
 ---
 title: "Dev Tools for Rust"
-date: 2023-01-13 16:02:14
-modified: 2025-02-15 18:10:57
+created: 2023-01-13 16:02:14
+date: 2025-02-15 18:10:57
 authors:
   - bendu
 label: dev-tools-for-rust

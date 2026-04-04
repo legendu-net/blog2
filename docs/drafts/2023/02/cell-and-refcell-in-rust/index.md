@@ -1,7 +1,7 @@
 ---
 title: "Cell and RefCell in Rust"
-date: 2023-02-02 17:21:12
-modified: 2023-07-05 10:29:05
+created: 2023-02-02 17:21:12
+date: 2023-07-05 10:29:05
 authors:
   - bendu
 label: cell-and-refcell-in-rust

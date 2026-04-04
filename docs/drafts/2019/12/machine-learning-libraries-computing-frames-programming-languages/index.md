@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Libraries, Computing Frames and Programming Languages"
-date: 2019-12-10 09:32:40
-modified: 2021-06-10 09:32:40
+created: 2019-12-10 09:32:40
+date: 2021-06-10 09:32:40
 authors:
   - bendu
 label: machine-learning-libraries-computing-frames-programming-languages

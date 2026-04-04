@@ -1,7 +1,7 @@
 ---
 title: "Remove System Applications in macOS"
+created: 2020-03-24 18:27:49
 date: 2020-03-24 18:27:49
-modified: 2020-03-24 18:27:49
 authors:
   - bendu
 label: remove-system-applications-in-mac

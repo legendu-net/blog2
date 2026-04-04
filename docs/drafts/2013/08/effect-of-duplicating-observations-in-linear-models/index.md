@@ -1,7 +1,7 @@
 ---
 title: "Effect of Duplicating Observations in Linear Models"
-date: 2013-08-15 21:45:26
-modified: 2021-09-25 13:21:30
+created: 2013-08-15 21:45:26
+date: 2021-09-25 13:21:30
 authors:
   - bendu
 label: effect-of-duplicating-observations-in-linear-models

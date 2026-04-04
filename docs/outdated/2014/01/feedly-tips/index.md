@@ -1,7 +1,7 @@
 ---
 title: "Feedly Tips"
+created: 2014-01-04 23:35:23
 date: 2014-01-04 23:35:23
-modified: 2014-01-04 23:35:23
 authors:
   - bendu
 label: feedly-tips

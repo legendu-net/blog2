@@ -1,7 +1,7 @@
 ---
 title: "Tips on Docker Compose"
-date: 2018-04-16 09:18:10
-modified: 2021-02-16 09:18:10
+created: 2018-04-16 09:18:10
+date: 2021-02-16 09:18:10
 authors:
   - bendu
 label: tips-on-docker-compose

@@ -1,7 +1,7 @@
 ---
 title: "Living in Shanghai"
-date: 2015-09-22 14:22:28
-modified: 2020-05-22 14:22:28
+created: 2015-09-22 14:22:28
+date: 2020-05-22 14:22:28
 authors:
   - bendu
 label: shanghai-tips

@@ -1,7 +1,7 @@
 ---
 title: Interpretation of Neural Networks
+created: 2020-01-05 10:44:54
 date: 2020-01-05 10:44:54
-modified: 2020-01-05 10:44:54
 authors:
   - bendu
 label: interpretation-of-neural-networks

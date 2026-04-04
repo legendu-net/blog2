@@ -1,7 +1,7 @@
 ---
 title: "Connecting to Databases Using py4jdbc in Python"
-date: 2018-09-22 16:09:08
-modified: 2020-05-22 16:09:08
+created: 2018-09-22 16:09:08
+date: 2020-05-22 16:09:08
 authors:
   - bendu
 label: py4jdbc-tips

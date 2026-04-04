@@ -1,7 +1,7 @@
 ---
 title: "Data Profiling Tools"
-date: 2020-07-10 15:59:42
-modified: 2023-07-30 22:24:04
+created: 2020-07-10 15:59:42
+date: 2023-07-30 22:24:04
 authors:
   - bendu
 label: data-profiling-tools

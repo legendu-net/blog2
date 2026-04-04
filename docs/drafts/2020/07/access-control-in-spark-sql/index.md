@@ -1,7 +1,7 @@
 ---
 title: "Access Control in Spark SQL"
-date: 2020-07-22 10:11:21
-modified: 2020-12-22 10:11:21
+created: 2020-07-22 10:11:21
+date: 2020-12-22 10:11:21
 authors:
   - bendu
 label: access-control-in-spark-sql

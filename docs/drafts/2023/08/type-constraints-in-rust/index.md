@@ -1,7 +1,7 @@
 ---
 title: "Constraints on Types in Rust"
-date: 2023-08-29 14:56:50
-modified: 2023-08-30 10:50:55
+created: 2023-08-29 14:56:50
+date: 2023-08-30 10:50:55
 authors:
   - bendu
 label: type-constraints-in-rust

@@ -1,7 +1,7 @@
 ---
 title: "Android Emulators"
-date: 2018-09-12 23:41:58
-modified: 2024-08-25 13:00:48
+created: 2018-09-12 23:41:58
+date: 2024-08-25 13:00:48
 authors:
   - bendu
 label: android-emulators

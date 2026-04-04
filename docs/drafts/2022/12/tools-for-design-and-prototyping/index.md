@@ -1,7 +1,7 @@
 ---
 title: "Tools for Design and Prototyping"
+created: 2022-12-09 11:07:09
 date: 2022-12-09 11:07:09
-modified: 2022-12-09 11:07:09
 authors:
   - bendu
 label: tools-for-design-and-prototyping

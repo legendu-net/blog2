@@ -1,7 +1,7 @@
 ---
 title: "Fix Shell Commands Using fc"
-date: 2025-07-06 11:08:48
-modified: 2025-07-06 16:17:25
+created: 2025-07-06 11:08:48
+date: 2025-07-06 16:17:25
 authors:
   - bendu
 label: fix-shell-command-using-fc

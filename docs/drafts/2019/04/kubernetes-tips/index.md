@@ -1,7 +1,7 @@
 ---
 title: "Tips on Kubernetes"
-date: 2019-04-10 09:39:25
-modified: 2021-09-15 16:51:13
+created: 2019-04-10 09:39:25
+date: 2021-09-15 16:51:13
 authors:
   - bendu
 label: kubernetes-tips

@@ -1,7 +1,7 @@
 ---
 title: "Quickly Create a Scala Project Using Gradle in Intellij IDEA"
-date: 2019-01-26 18:11:29
-modified: 2021-09-26 21:52:54
+created: 2019-01-26 18:11:29
+date: 2021-09-26 21:52:54
 authors:
   - bendu
 label: scala-with-gradle-in-intellij

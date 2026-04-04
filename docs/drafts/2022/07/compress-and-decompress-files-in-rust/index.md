@@ -1,7 +1,7 @@
 ---
 title: "Compress and Decompress Files in Rust"
-date: 2022-07-16 18:37:46
-modified: 2022-07-23 19:47:00
+created: 2022-07-16 18:37:46
+date: 2022-07-23 19:47:00
 authors:
   - bendu
 label: compress-and-decompress-files-in-rust

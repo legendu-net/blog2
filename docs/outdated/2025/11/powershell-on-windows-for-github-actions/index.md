@@ -1,7 +1,7 @@
 ---
 title: "Powershell on Windows for GitHub Actions"
+created: 2025-11-23 11:06:12
 date: 2025-11-23 11:06:12
-modified: 2025-11-23 11:06:12
 authors:
   - bendu
 label: powershell-on-windows-for-github-actions

@@ -1,7 +1,7 @@
 ---
 title: "Tips on Empower"
+created: 2025-03-10 23:49:49
 date: 2025-03-10 23:49:49
-modified: 2025-03-10 23:49:49
 authors:
   - bendu
 label: tips-on-empower

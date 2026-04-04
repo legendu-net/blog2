@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: Container Killed by Yarn for Exceeding Memory Limits"
-date: 2020-11-24 14:55:43
-modified: 2021-03-24 14:55:43
+created: 2020-11-24 14:55:43
+date: 2021-03-24 14:55:43
 authors:
   - bendu
 label: spark-issue-Container-killed-by-YARN-for-exceeding-memory-limits

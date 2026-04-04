@@ -1,7 +1,7 @@
 ---
 title: "Rust and Spark"
-date: 2021-10-10 23:58:37
-modified: 2021-12-05 12:59:56
+created: 2021-10-10 23:58:37
+date: 2021-12-05 12:59:56
 authors:
   - bendu
 label: rust-and-spark

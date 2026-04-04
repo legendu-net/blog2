@@ -1,7 +1,7 @@
 ---
 title: "Models for Computer Vision"
-date: 2019-12-07 09:50:39
-modified: 2020-01-07 09:50:39
+created: 2019-12-07 09:50:39
+date: 2020-01-07 09:50:39
 authors:
   - bendu
 label: models-for-computer-vision

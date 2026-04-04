@@ -1,7 +1,7 @@
 ---
 title: "Tips on Charles Schwab"
-date: 2024-01-20 15:57:28
-modified: 2024-08-25 13:26:42
+created: 2024-01-20 15:57:28
+date: 2024-08-25 13:26:42
 authors:
   - bendu
 label: tips-on-charles-schwab

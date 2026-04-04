@@ -1,7 +1,7 @@
 ---
 title: "Tips on Monkey Patching in Python"
+created: 2019-08-13 21:29:47
 date: 2019-08-13 21:29:47
-modified: 2019-08-13 21:29:47
 authors:
   - bendu
 label: tips-on-monkey-patching-in-python

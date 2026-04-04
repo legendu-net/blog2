@@ -1,7 +1,7 @@
 ---
 title: "Thread-Local Storage for Rayon"
-date: 2023-07-05 09:24:27
-modified: 2023-07-22 22:29:15
+created: 2023-07-05 09:24:27
+date: 2023-07-22 22:29:15
 authors:
   - bendu
 label: thread-local-storage-for-rayon

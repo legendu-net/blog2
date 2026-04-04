@@ -1,7 +1,7 @@
 ---
 title: "Dashboard Solutions"
-date: 2017-06-08 14:01:55
-modified: 2022-05-09 10:54:27
+created: 2017-06-08 14:01:55
+date: 2022-05-09 10:54:27
 authors:
   - bendu
 label: dashboard-solutions

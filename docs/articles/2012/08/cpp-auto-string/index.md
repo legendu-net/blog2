@@ -1,7 +1,7 @@
 ---
 title: "String in C++11"
+created: 2012-08-20 00:00:00
 date: 2012-08-20 00:00:00
-modified: 2012-08-20 00:00:00
 authors:
   - bendu
 label: cpp-auto-string

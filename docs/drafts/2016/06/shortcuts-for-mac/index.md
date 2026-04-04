@@ -1,7 +1,7 @@
 ---
 title: "Shortcuts in macOS"
-date: 2016-06-22 16:10:02
-modified: 2025-11-26 19:18:08
+created: 2016-06-22 16:10:02
+date: 2025-11-26 19:18:08
 authors:
   - bendu
 label: shortcuts-for-mac

@@ -1,7 +1,7 @@
 ---
 title: "Tips on Zoxide"
+created: 2025-05-08 23:48:59
 date: 2025-05-08 23:48:59
-modified: 2025-05-08 23:48:59
 authors:
   - bendu
 label: tips-on-zoxide

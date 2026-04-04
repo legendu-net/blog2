@@ -1,7 +1,7 @@
 ---
 title: "Tips for AWK"
-date: 2013-10-19 10:22:17
-modified: 2017-03-19 10:22:17
+created: 2013-10-19 10:22:17
+date: 2017-03-19 10:22:17
 authors:
   - bendu
 label: awk-tips

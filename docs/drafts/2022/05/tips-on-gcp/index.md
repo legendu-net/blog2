@@ -1,7 +1,7 @@
 ---
 title: "Tips on GCP"
-date: 2022-05-09 23:39:30
-modified: 2025-05-08 20:44:45
+created: 2022-05-09 23:39:30
+date: 2025-05-08 20:44:45
 authors:
   - bendu
 label: tips-on-gcp

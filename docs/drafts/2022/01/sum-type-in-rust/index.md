@@ -1,7 +1,7 @@
 ---
 title: "Sum Type in Rust"
+created: 2022-01-15 14:09:38
 date: 2022-01-15 14:09:38
-modified: 2022-01-15 14:09:38
 authors:
   - bendu
 label: sum-type-in-rust

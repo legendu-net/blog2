@@ -1,7 +1,7 @@
 ---
-title: "\".\" Is Not Recognized as An Internal or External Command"
+title: "Dot Is Not Recognized as An Internal or External Command"
+created: 2021-09-05 12:51:24
 date: 2021-09-05 12:51:24
-modified: 2021-09-05 12:51:24
 authors:
   - name: Ben Du
     github: https://github.com/orgs/legendu-net

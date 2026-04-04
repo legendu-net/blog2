@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: Shell Related"
-date: 2022-01-15 14:23:15
-modified: 2022-01-17 12:33:30
+created: 2022-01-15 14:23:15
+date: 2022-01-17 12:33:30
 authors:
   - bendu
 label: spark-issue:-shell-related

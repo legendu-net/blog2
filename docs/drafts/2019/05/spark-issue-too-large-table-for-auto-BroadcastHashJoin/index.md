@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: Too Large Table for Auto BroadcastHashJoin"
-date: 2019-05-24 14:48:33
-modified: 2021-03-24 14:48:33
+created: 2019-05-24 14:48:33
+date: 2021-03-24 14:48:33
 authors:
   - bendu
 label: spark-issue-too-large-table-for-auto-BroadcastHashJoin

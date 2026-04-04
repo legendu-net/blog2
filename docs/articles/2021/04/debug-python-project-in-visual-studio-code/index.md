@@ -1,7 +1,7 @@
 ---
 title: "Debug Python Project in Visual Studio Code"
-date: 2021-04-23 10:26:29
-modified: 2021-02-23 10:26:29
+created: 2021-04-23 10:26:29
+date: 2021-02-23 10:26:29
 authors:
   - bendu
 label: debug-python-project-in-visual-studio-code

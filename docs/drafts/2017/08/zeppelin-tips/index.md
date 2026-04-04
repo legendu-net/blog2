@@ -1,7 +1,7 @@
 ---
 title: "Tips on Zeppelin"
-date: 2017-08-22 16:07:50
-modified: 2020-05-22 16:07:50
+created: 2017-08-22 16:07:50
+date: 2020-05-22 16:07:50
 authors:
   - bendu
 label: zeppelin-tips

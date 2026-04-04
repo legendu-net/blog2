@@ -1,7 +1,7 @@
 ---
 title: "Expose Local Services to Public Using ngrok"
-date: 2022-01-22 14:33:10
-modified: 2023-09-17 14:44:32
+created: 2022-01-22 14:33:10
+date: 2023-09-17 14:44:32
 authors:
   - bendu
 label: expose-local-services-to-public-using-ngrok

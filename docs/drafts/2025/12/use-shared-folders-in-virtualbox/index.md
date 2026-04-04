@@ -1,7 +1,7 @@
 ---
 title: "Use Shared Folders in VirtualBox"
-date: 2025-12-07 18:37:30
-modified: 2025-12-12 21:09:45
+created: 2025-12-07 18:37:30
+date: 2025-12-12 21:09:45
 authors:
   - bendu
 label: use-shared-folders-in-virtualbox

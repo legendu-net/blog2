@@ -1,7 +1,7 @@
 ---
 title: "Tips on Distributed Development"
-date: 2023-04-14 12:23:22
-modified: 2023-05-10 13:47:42
+created: 2023-04-14 12:23:22
+date: 2023-05-10 13:47:42
 authors:
   - bendu
 label: tips-on-distributed-development

@@ -1,7 +1,7 @@
 ---
 title: "String in Different Programming Languages"
-date: 2012-06-14 16:34:30
-modified: 2014-09-14 16:34:30
+created: 2012-06-14 16:34:30
+date: 2014-09-14 16:34:30
 authors:
   - bendu
 label: summary-string-popular-programming-language

@@ -1,7 +1,7 @@
 ---
 title: Tips on Jupyter-Book
-date: 2020-09-20 14:47:06
-modified: 2026-04-03 23:58:36.930768
+created: 2020-09-20 14:47:06
+date: 2026-04-03 23:58:36.930768
 authors:
 - bendu
 label: tips-on-jupyter-book

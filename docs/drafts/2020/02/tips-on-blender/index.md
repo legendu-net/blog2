@@ -1,7 +1,7 @@
 ---
 title: "Tips on Blender"
+created: 2020-02-14 12:39:10
 date: 2020-02-14 12:39:10
-modified: 2020-02-14 12:39:10
 authors:
   - bendu
 label: tips-on-blender

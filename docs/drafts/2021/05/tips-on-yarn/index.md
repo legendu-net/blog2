@@ -1,7 +1,7 @@
 ---
 title: "Tips on yarn"
+created: 2021-05-03 21:42:50
 date: 2021-05-03 21:42:50
-modified: 2021-05-03 21:42:50
 authors:
   - bendu
 label: tips-on-yarn

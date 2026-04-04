@@ -1,7 +1,7 @@
 ---
 title: "Desktop Environments for Linux"
-date: 2013-08-13 22:09:04
-modified: 2025-12-07 20:48:16
+created: 2013-08-13 22:09:04
+date: 2025-12-07 20:48:16
 authors:
   - bendu
 label: desktop-environments-for-linux

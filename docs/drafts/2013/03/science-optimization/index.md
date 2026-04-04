@@ -1,7 +1,7 @@
 ---
 title: "Optimization Algorithms"
-date: 2013-03-30 12:17:07
-modified: 2019-12-30 12:17:07
+created: 2013-03-30 12:17:07
+date: 2019-12-30 12:17:07
 authors:
   - bendu
 label: science-optimization

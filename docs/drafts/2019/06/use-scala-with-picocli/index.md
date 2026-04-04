@@ -1,7 +1,7 @@
 ---
 title: "Use Scala With Picocli"
+created: 2019-06-22 03:41:22
 date: 2019-06-22 03:41:22
-modified: 2019-06-22 03:41:22
 authors:
   - bendu
 label: use-scala-with-picocli

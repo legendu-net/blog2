@@ -1,7 +1,7 @@
 ---
 title: "Initializing Variables in C++"
-date: 2012-10-19 13:45:33
-modified: 2015-02-19 13:45:33
+created: 2012-10-19 13:45:33
+date: 2015-02-19 13:45:33
 authors:
   - bendu
 label: initializing-varialbes-in-cpp

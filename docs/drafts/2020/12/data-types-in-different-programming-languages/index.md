@@ -1,7 +1,7 @@
 ---
 title: "Data Types in Different Programming Languages"
-date: 2020-12-21 01:53:29
-modified: 2021-02-21 01:53:29
+created: 2020-12-21 01:53:29
+date: 2021-02-21 01:53:29
 authors:
   - bendu
 label: data-types-in-different-programming-languages

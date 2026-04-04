@@ -1,7 +1,7 @@
 ---
 title: "Cool Shell/Terminal Commands"
-date: 2012-09-18 21:38:38
-modified: 2025-12-07 21:07:53
+created: 2012-09-18 21:38:38
+date: 2025-12-07 21:07:53
 authors:
   - bendu
 label: cool-shell-commands

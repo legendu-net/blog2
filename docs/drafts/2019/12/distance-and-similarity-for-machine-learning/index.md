@@ -1,7 +1,7 @@
 ---
 title: "Distance and Similarity for Machine Learning"
-date: 2019-12-17 11:46:20
-modified: 2020-03-17 11:46:20
+created: 2019-12-17 11:46:20
+date: 2020-03-17 11:46:20
 authors:
   - bendu
 label: distance-and-similarity-for-machine-learning

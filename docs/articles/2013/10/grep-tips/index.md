@@ -1,7 +1,7 @@
 ---
 title: "Search for Files in Command-line Using grep"
-date: 2013-10-22 14:53:28
-modified: 2021-09-26 21:59:25
+created: 2013-10-22 14:53:28
+date: 2021-09-26 21:59:25
 authors:
   - bendu
 label: grep-tips

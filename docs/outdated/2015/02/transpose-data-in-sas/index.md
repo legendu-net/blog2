@@ -1,7 +1,7 @@
 ---
 title: "Transpose Data in SAS"
-date: 2015-02-26 22:09:17
-modified: 2015-08-26 22:09:17
+created: 2015-02-26 22:09:17
+date: 2015-08-26 22:09:17
 authors:
   - bendu
 label: transpose-data-in-sas

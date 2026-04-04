@@ -1,7 +1,7 @@
 ---
 title: "Tips on Gatsby"
-date: 2020-08-24 08:45:48
-modified: 2020-10-24 08:45:48
+created: 2020-08-24 08:45:48
+date: 2020-10-24 08:45:48
 authors:
   - bendu
 label: tips-on-gatsby

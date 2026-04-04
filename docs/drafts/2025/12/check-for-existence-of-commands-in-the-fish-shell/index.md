@@ -1,7 +1,7 @@
 ---
 title: "Check for Existence of Commands in the Fish Shell"
+created: 2025-12-09 12:24:22
 date: 2025-12-09 12:24:22
-modified: 2025-12-09 12:24:22
 authors:
   - bendu
 label: check-for-existence-of-commands-in-the-fish-shell

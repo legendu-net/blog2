@@ -1,7 +1,7 @@
 ---
 title: "Trait Bound in Rust"
+created: 2023-08-29 10:33:58
 date: 2023-08-29 10:33:58
-modified: 2023-08-29 10:33:58
 authors:
   - bendu
 label: trait-bound-in-rust

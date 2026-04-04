@@ -1,7 +1,7 @@
 ---
 title: "Environment Variables in Docker"
-date: 2017-06-07 21:47:47
-modified: 2020-03-07 21:47:47
+created: 2017-06-07 21:47:47
+date: 2020-03-07 21:47:47
 authors:
   - bendu
 label: environment-variables-docker

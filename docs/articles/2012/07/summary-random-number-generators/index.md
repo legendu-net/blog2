@@ -1,7 +1,7 @@
 ---
 title: "Summary on Random Number Generators"
-date: 2012-07-27 21:14:07
-modified: 2023-07-22 22:16:05
+created: 2012-07-27 21:14:07
+date: 2023-07-22 22:16:05
 authors:
   - bendu
 label: summary-random-number-generators

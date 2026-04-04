@@ -1,7 +1,7 @@
 ---
 title: "Tips on Goldendict"
-date: 2014-12-22 13:13:55
-modified: 2020-05-22 13:13:55
+created: 2014-12-22 13:13:55
+date: 2020-05-22 13:13:55
 authors:
   - bendu
 label: goldendict-tips

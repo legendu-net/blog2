@@ -1,7 +1,7 @@
 ---
 title: "Prevent a Class from Direct Instantiation in Python"
-date: 2020-04-20 08:43:33
-modified: 2021-02-20 08:43:33
+created: 2020-04-20 08:43:33
+date: 2021-02-20 08:43:33
 authors:
   - bendu
 label: prevent-a-class-from-direct-instantiation-in-python

@@ -1,7 +1,7 @@
 ---
 title: "Best Filesystem Format for Cross-platform Data Exchanging"
-date: 2019-03-11 10:24:51
-modified: 2021-09-28 13:01:57
+created: 2019-03-11 10:24:51
+date: 2021-09-28 13:01:57
 authors:
   - bendu
 label: best-filesystem-format-for-cross-platform-data-exchanging

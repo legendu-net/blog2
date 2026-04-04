@@ -1,7 +1,7 @@
 ---
 title: "Python Alternatives to Shell"
-date: 2019-01-03 16:17:10
-modified: 2022-12-04 21:40:47
+created: 2019-01-03 16:17:10
+date: 2022-12-04 21:40:47
 authors:
   - bendu
 label: shell-alternatives

@@ -1,7 +1,7 @@
 ---
 title: "Tips on MobaXterm"
-date: 2014-05-22 15:40:46
-modified: 2020-05-22 15:40:46
+created: 2014-05-22 15:40:46
+date: 2020-05-22 15:40:46
 authors:
   - bendu
 label: MobaXterm-tips

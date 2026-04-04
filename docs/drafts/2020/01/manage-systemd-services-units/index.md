@@ -1,7 +1,7 @@
 ---
 title: "Manage systemd Services and Units"
-date: 2020-01-24 10:37:18
-modified: 2022-07-16 12:45:06
+created: 2020-01-24 10:37:18
+date: 2022-07-16 12:45:06
 authors:
   - bendu
 label: manage-systemd-services-units

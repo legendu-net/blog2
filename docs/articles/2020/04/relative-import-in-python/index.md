@@ -1,7 +1,7 @@
 ---
 title: "Relative Import in Python"
+created: 2020-04-12 10:08:43
 date: 2020-04-12 10:08:43
-modified: 2020-04-12 10:08:43
 authors:
   - bendu
 label: relative-import-in-python

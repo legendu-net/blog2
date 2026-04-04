@@ -1,7 +1,7 @@
 ---
 title: "Tips on Flatpak"
-date: 2025-05-14 16:58:04
-modified: 2025-05-27 11:56:27
+created: 2025-05-14 16:58:04
+date: 2025-05-27 11:56:27
 authors:
   - bendu
 label: tips-on-flatpak

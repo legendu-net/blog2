@@ -1,7 +1,7 @@
 ---
 title: "Class in Python"
-date: 2019-11-12 10:22:51
-modified: 2020-04-12 10:22:51
+created: 2019-11-12 10:22:51
+date: 2020-04-12 10:22:51
 authors:
   - bendu
 label: class-in-python

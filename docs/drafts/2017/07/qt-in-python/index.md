@@ -1,7 +1,7 @@
 ---
 title: "Use Qt in Python"
-date: 2017-07-12 11:12:42
-modified: 2019-05-12 11:12:42
+created: 2017-07-12 11:12:42
+date: 2019-05-12 11:12:42
 authors:
   - bendu
 label: qt-in-python

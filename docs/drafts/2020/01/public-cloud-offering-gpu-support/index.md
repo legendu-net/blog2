@@ -1,7 +1,7 @@
 ---
 title: "Public Cloud Offering GPU Support"
-date: 2020-01-02 18:01:37
-modified: 2020-03-02 18:01:37
+created: 2020-01-02 18:01:37
+date: 2020-03-02 18:01:37
 authors:
   - bendu
 label: public-cloud-offering-gpu-support

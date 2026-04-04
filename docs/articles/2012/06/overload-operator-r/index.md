@@ -1,7 +1,7 @@
 ---
 title: "Define Operator in R"
+created: 2012-06-08 00:00:00
 date: 2012-06-08 00:00:00
-modified: 2012-06-08 00:00:00
 authors:
   - bendu
 label: overload-operator-r

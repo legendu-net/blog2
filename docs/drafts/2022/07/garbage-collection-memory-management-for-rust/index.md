@@ -1,7 +1,7 @@
 ---
 title: "Garbage Collection for Rust"
-date: 2022-07-11 16:57:55
-modified: 2023-08-29 14:22:08
+created: 2022-07-11 16:57:55
+date: 2023-08-29 14:22:08
 authors:
   - bendu
 label: garbage-collection-memory-management-for-rust

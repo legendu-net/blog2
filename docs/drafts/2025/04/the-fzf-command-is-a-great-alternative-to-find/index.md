@@ -1,7 +1,7 @@
 ---
 title: "The fzf Command Is a Great Alternative to find"
-date: 2025-04-29 23:37:05
-modified: 2025-06-15 23:10:59
+created: 2025-04-29 23:37:05
+date: 2025-06-15 23:10:59
 authors:
   - bendu
 label: the-fzf-command-is-a-great-alternative-to-find

@@ -1,7 +1,7 @@
 ---
 title: "Write Unsafe Code in Rust"
-date: 2022-09-04 21:38:08
-modified: 2025-02-15 23:15:10
+created: 2022-09-04 21:38:08
+date: 2025-02-15 23:15:10
 authors:
   - bendu
 label: write-unsafe-code-in-rust

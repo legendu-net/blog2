@@ -1,7 +1,7 @@
 ---
 title: "Hands on the Python Library notifiers"
-date: 2020-08-03 15:46:20
-modified: 2020-11-03 15:46:20
+created: 2020-08-03 15:46:20
+date: 2020-11-03 15:46:20
 authors:
   - bendu
 label: handons-the-python-library-notifiers

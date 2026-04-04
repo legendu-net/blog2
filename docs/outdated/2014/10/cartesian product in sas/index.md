@@ -1,7 +1,7 @@
 ---
 title: "Cartesian Product in SAS"
+created: 2014-10-23 15:52:51
 date: 2014-10-23 15:52:51
-modified: 2014-10-23 15:52:51
 authors:
   - bendu
 label: cartesian product in sas

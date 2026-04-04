@@ -1,7 +1,7 @@
 ---
 title: "Ratio of Boy to Girl"
-date: 2014-09-23 17:09:37
-modified: 2014-10-23 17:09:37
+created: 2014-09-23 17:09:37
+date: 2014-10-23 17:09:37
 authors:
   - bendu
 label: ratio-of-boy-to-girl

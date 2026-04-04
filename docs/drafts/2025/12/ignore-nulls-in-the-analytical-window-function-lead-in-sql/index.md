@@ -1,7 +1,7 @@
 ---
 title: "Ignore Nulls in the Analytical Window Function Lead in SQL"
+created: 2025-12-17 11:08:59
 date: 2025-12-17 11:08:59
-modified: 2025-12-17 11:08:59
 authors:
   - bendu
 label: ignore-nulls-in-the-analytical-window-function-lead-in-sql

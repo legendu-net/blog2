@@ -1,7 +1,7 @@
 ---
 title: "Collections in Java"
-date: 2012-10-22 14:34:53
-modified: 2020-05-22 14:34:53
+created: 2012-10-22 14:34:53
+date: 2020-05-22 14:34:53
 authors:
   - bendu
 label: collections-in-java

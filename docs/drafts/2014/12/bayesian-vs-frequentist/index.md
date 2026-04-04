@@ -1,7 +1,7 @@
 ---
 title: "Bayesian vs Frequentist"
-date: 2014-12-13 22:22:54
-modified: 2016-07-13 22:22:54
+created: 2014-12-13 22:22:54
+date: 2016-07-13 22:22:54
 authors:
   - bendu
 label: bayesian-vs-frequentist

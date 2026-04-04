@@ -1,7 +1,7 @@
 ---
 title: "Generating Random Numbers in Java"
+created: 2014-10-19 19:40:40
 date: 2014-10-19 19:40:40
-modified: 2014-10-19 19:40:40
 authors:
   - bendu
 label: generating-random-numbers-in-java

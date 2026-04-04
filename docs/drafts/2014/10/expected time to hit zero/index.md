@@ -1,7 +1,7 @@
 ---
 title: "Expected Time to Hit Zero"
-date: 2014-10-23 17:03:01
-modified: 2023-02-15 00:55:51
+created: 2014-10-23 17:03:01
+date: 2023-02-15 00:55:51
 authors:
   - bendu
 label: expected time to hit zero

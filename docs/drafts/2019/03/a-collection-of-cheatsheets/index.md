@@ -1,7 +1,7 @@
 ---
 title: "A Collection of Cheatsheets"
-date: 2019-03-15 12:02:41
-modified: 2020-11-15 12:02:41
+created: 2019-03-15 12:02:41
+date: 2020-11-15 12:02:41
 authors:
   - bendu
 label: a-collection-of-cheatsheets

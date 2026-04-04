@@ -1,7 +1,7 @@
 ---
 title: "Install Firefox in Debian"
-date: 2014-09-13 22:21:27
-modified: 2021-07-26 17:59:58
+created: 2014-09-13 22:21:27
+date: 2021-07-26 17:59:58
 authors:
   - bendu
 label: install-firefox-in-debian

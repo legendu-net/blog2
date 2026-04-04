@@ -1,7 +1,7 @@
 ---
 title: "Install Dropbox Using Flatpak"
-date: 2025-12-16 15:40:51
-modified: 2025-12-16 18:23:33
+created: 2025-12-16 15:40:51
+date: 2025-12-16 18:23:33
 authors:
   - bendu
 label: install-dropbox-using-flatpak

@@ -1,7 +1,7 @@
 ---
 title: "String in R"
-date: 2012-11-20 19:36:57
-modified: 2016-11-20 19:36:57
+created: 2012-11-20 19:36:57
+date: 2016-11-20 19:36:57
 authors:
   - bendu
 label: string-in-r

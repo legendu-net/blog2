@@ -1,7 +1,7 @@
 ---
 title: "Tips on macOS"
-date: 2015-10-23 22:14:55
-modified: 2025-11-27 01:19:00
+created: 2015-10-23 22:14:55
+date: 2025-11-27 01:19:00
 authors:
   - bendu
 label: mac-tips

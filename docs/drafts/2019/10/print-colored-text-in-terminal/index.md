@@ -1,7 +1,7 @@
 ---
 title: "Print Colored Text in Terminal"
+created: 2019-10-19 11:37:54
 date: 2019-10-19 11:37:54
-modified: 2019-10-19 11:37:54
 authors:
   - bendu
 label: print-colored-text-in-terminal

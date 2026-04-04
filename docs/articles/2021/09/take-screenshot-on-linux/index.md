@@ -1,7 +1,7 @@
 ---
 title: "Take Screenshot on Linux"
-date: 2021-09-06 12:09:39
-modified: 2022-08-19 21:47:57
+created: 2021-09-06 12:09:39
+date: 2022-08-19 21:47:57
 authors:
   - bendu
 label: take-screenshot-on-linux

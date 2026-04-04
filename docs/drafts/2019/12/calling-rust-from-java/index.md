@@ -1,7 +1,7 @@
 ---
 title: "Calling Rust from Java"
+created: 2019-12-31 11:15:26
 date: 2019-12-31 11:15:26
-modified: 2019-12-31 11:15:26
 authors:
   - bendu
 label: calling-rust-from-java

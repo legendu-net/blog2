@@ -1,7 +1,7 @@
 ---
 title: "Building Tool for Scala"
+created: 2017-08-26 20:26:44
 date: 2017-08-26 20:26:44
-modified: 2017-08-26 20:26:44
 authors:
   - bendu
 label: buidling-tool-for-Scala

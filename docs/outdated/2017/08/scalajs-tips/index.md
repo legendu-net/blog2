@@ -1,7 +1,7 @@
 ---
 title: "Tips on ScalaJS"
-date: 2017-08-22 15:05:15
-modified: 2020-05-22 15:05:15
+created: 2017-08-22 15:05:15
+date: 2020-05-22 15:05:15
 authors:
   - bendu
 label: scalajs-tips

@@ -1,7 +1,7 @@
 ---
 title: "Some Terminologies in Anti-money Laundering (AML)"
-date: 2014-09-13 22:11:07
-modified: 2016-07-13 22:11:07
+created: 2014-09-13 22:11:07
+date: 2016-07-13 22:11:07
 authors:
   - bendu
 label: some-terminologies-in-aml

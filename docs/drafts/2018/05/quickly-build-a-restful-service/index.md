@@ -1,7 +1,7 @@
 ---
 title: "Quickly Build a Restful Service"
+created: 2018-05-27 15:25:58
 date: 2018-05-27 15:25:58
-modified: 2018-05-27 15:25:58
 authors:
   - bendu
 label: quickly-build-a-restful-service

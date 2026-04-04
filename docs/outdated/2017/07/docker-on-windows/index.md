@@ -1,7 +1,7 @@
 ---
 title: Docker on Windows
-date: 2017-07-08 14:45:17
-modified: 2021-09-10 10:13:26
+created: 2017-07-08 14:45:17
+date: 2021-09-10 10:13:26
 authors:
 - bendu
 label: docker-on-windows

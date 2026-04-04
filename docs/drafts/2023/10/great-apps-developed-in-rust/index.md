@@ -1,7 +1,7 @@
 ---
 title: "Great Apps Developed in Rust"
+created: 2023-10-11 09:16:20
 date: 2023-10-11 09:16:20
-modified: 2023-10-11 09:16:20
 authors:
   - bendu
 label: great-apps-developed-in-rust

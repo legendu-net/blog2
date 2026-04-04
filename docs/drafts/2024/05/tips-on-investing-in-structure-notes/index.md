@@ -1,7 +1,7 @@
 ---
 title: "Tips on Investing in Structure Notes"
+created: 2024-05-05 17:29:12
 date: 2024-05-05 17:29:12
-modified: 2024-05-05 17:29:12
 authors:
   - bendu
 label: tips-on-investing-in-structure-notes

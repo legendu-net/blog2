@@ -1,7 +1,7 @@
 ---
 title: "Booting to the Boot Menu and BIOS"
-date: 2018-04-29 16:35:14
-modified: 2021-11-08 09:08:17
+created: 2018-04-29 16:35:14
+date: 2021-11-08 09:08:17
 authors:
   - bendu
 label: booting-to-the-boot-menu-and-bios

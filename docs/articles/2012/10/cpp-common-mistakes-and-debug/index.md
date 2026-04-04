@@ -1,7 +1,7 @@
 ---
 title: "Common Mistakes in C++ Code and Ways to Debug"
-date: 2012-10-13 10:53:45
-modified: 2015-03-13 10:53:45
+created: 2012-10-13 10:53:45
+date: 2015-03-13 10:53:45
 authors:
   - bendu
 label: cpp-common-mistakes-and-debug

@@ -1,7 +1,7 @@
 ---
 title: "Enable and Disable Key Repeating in macOS"
+created: 2025-11-27 01:05:39
 date: 2025-11-27 01:05:39
-modified: 2025-11-27 01:05:39
 authors:
   - bendu
 label: enable-and-disable-key-repeating-in-macos

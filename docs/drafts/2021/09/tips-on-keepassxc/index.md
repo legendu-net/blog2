@@ -1,7 +1,7 @@
 ---
 title: "Tips on KeepassXC"
-date: 2021-09-27 10:45:11
-modified: 2022-06-11 15:05:34
+created: 2021-09-27 10:45:11
+date: 2022-06-11 15:05:34
 authors:
   - bendu
 label: tips-on-keepassxc

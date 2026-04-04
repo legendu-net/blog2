@@ -1,7 +1,7 @@
 ---
 title: "Hardware for AI"
-date: 2020-03-11 11:56:25
-modified: 2023-07-30 22:22:48
+created: 2020-03-11 11:56:25
+date: 2023-07-30 22:22:48
 authors:
   - bendu
 label: hardware-for-ai

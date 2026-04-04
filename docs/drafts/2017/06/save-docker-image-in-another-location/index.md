@@ -1,7 +1,7 @@
 ---
 title: "Save Docker Image in Another Location"
-date: 2017-06-28 19:41:40
-modified: 2020-01-28 19:41:40
+created: 2017-06-28 19:41:40
+date: 2020-01-28 19:41:40
 authors:
   - bendu
 label: save-docker-image-in-another-location

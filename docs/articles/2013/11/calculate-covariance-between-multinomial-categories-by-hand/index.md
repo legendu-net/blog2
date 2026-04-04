@@ -1,7 +1,7 @@
 ---
 title: "Calculate Covariance Between Multinomial Categories by Hand"
+created: 2013-11-17 15:14:27
 date: 2013-11-17 15:14:27
-modified: 2013-11-17 15:14:27
 authors:
   - bendu
 label: calculate-covariance-between-multinomial-categories-by-hand

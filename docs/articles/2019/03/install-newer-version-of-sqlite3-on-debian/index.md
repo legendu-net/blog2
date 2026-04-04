@@ -1,7 +1,7 @@
 ---
 title: "Install Newer Version of SQLite3 on Debian Jessie"
-date: 2019-03-10 10:27:02
-modified: 2021-09-26 21:51:13
+created: 2019-03-10 10:27:02
+date: 2021-09-26 21:51:13
 authors:
   - bendu
 label: install-newer-version-of-sqlite3-on-debian

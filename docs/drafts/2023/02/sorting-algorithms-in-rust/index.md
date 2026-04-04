@@ -1,7 +1,7 @@
 ---
 title: "Sorting Algorithms in Rust"
-date: 2023-02-23 11:45:10
-modified: 2023-12-13 14:16:35
+created: 2023-02-23 11:45:10
+date: 2023-12-13 14:16:35
 authors:
   - bendu
 label: sorting-algorithms-in-rust

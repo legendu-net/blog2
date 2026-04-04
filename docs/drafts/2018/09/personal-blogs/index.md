@@ -1,7 +1,7 @@
 ---
 title: "Personal Blogs"
-date: 2018-09-15 12:04:05
-modified: 2020-11-15 12:04:05
+created: 2018-09-15 12:04:05
+date: 2020-11-15 12:04:05
 authors:
   - bendu
 label: personal-blogs

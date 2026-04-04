@@ -1,7 +1,7 @@
 ---
 title: "Encryption in Rust"
+created: 2021-11-12 09:12:38
 date: 2021-11-12 09:12:38
-modified: 2021-11-12 09:12:38
 authors:
   - bendu
 label: encryption-in-rust

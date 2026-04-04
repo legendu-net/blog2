@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: ViewFs: Cannot Initialize: Empty Mount Table in Config"
-date: 2022-04-03 19:17:15
-modified: 2022-04-03 19:45:51
+created: 2022-04-03 19:17:15
+date: 2022-04-03 19:45:51
 authors:
   - bendu
 label: spark-issue:-ViewFs:-Cannot-initialize:-Empty-Mount-table-in-config

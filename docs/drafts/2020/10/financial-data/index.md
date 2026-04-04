@@ -1,7 +1,7 @@
 ---
 title: "Financial Data"
-date: 2020-10-06 12:47:30
-modified: 2022-05-08 17:15:45
+created: 2020-10-06 12:47:30
+date: 2022-05-08 17:15:45
 authors:
   - bendu
 label: financial-data

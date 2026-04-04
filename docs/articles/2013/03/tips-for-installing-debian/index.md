@@ -1,7 +1,7 @@
 ---
 title: "Tips on Installing Debian Series of Linux Distributions"
-date: 2013-03-11 01:05:59
-modified: 2022-05-06 14:24:02
+created: 2013-03-11 01:05:59
+date: 2022-05-06 14:24:02
 authors:
   - bendu
 label: tips-for-installing-debian

@@ -1,7 +1,7 @@
 ---
 title: "Tips on OpenFaaS"
-date: 2020-02-10 09:39:25
-modified: 2021-06-10 09:39:25
+created: 2020-02-10 09:39:25
+date: 2021-06-10 09:39:25
 authors:
   - bendu
 label: tips-on-openfaas

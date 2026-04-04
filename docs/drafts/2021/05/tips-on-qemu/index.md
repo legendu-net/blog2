@@ -1,7 +1,7 @@
 ---
 title: "Tips on QEMU"
-date: 2021-05-03 10:23:53
-modified: 2025-12-17 00:04:21
+created: 2021-05-03 10:23:53
+date: 2025-12-17 00:04:21
 authors:
   - bendu
 label: tips-on-qemu

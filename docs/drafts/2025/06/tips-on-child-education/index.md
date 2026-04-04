@@ -1,7 +1,7 @@
 ---
 title: "Tips on Child Education"
-date: 2025-06-17 13:58:49
-modified: 2025-08-20 17:31:45
+created: 2025-06-17 13:58:49
+date: 2025-08-20 17:31:45
 authors:
   - bendu
 label: tips-on-child-education

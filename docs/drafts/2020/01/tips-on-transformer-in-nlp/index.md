@@ -1,7 +1,7 @@
 ---
 title: "Tips on Transformer in NLP"
+created: 2020-01-13 14:17:48
 date: 2020-01-13 14:17:48
-modified: 2020-01-13 14:17:48
 authors:
   - bendu
 label: tips-on-transformer-in-nlp

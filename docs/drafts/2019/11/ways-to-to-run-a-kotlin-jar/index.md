@@ -1,7 +1,7 @@
 ---
 title: "Ways to To Run a Kotlin JAR"
+created: 2019-11-21 19:07:48
 date: 2019-11-21 19:07:48
-modified: 2019-11-21 19:07:48
 authors:
   - bendu
 label: ways-to-to-run-a-kotlin-jar

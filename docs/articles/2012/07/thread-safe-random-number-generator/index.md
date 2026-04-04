@@ -1,7 +1,7 @@
 ---
 title: "Thread Safe Random Number Generator"
-date: 2012-07-08 00:00:00
-modified: 2023-07-22 22:16:05
+created: 2012-07-08 00:00:00
+date: 2023-07-22 22:16:05
 authors:
   - bendu
 label: thread-safe-random-number-generator

@@ -1,7 +1,7 @@
 ---
 title: "Banking Account"
-date: 2014-12-22 14:21:04
-modified: 2024-10-19 00:03:39
+created: 2014-12-22 14:21:04
+date: 2024-10-19 00:03:39
 authors:
   - bendu
 label: banking-account-tips

@@ -1,7 +1,7 @@
 ---
 title: "Collect a Dossier on a Person from Social Media"
+created: 2022-10-08 11:44:30
 date: 2022-10-08 11:44:30
-modified: 2022-10-08 11:44:30
 authors:
   - bendu
 label: collect-a-dossier-on-a-person-from-social-media

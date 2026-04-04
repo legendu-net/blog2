@@ -1,7 +1,7 @@
 ---
 title: "Clean Temporary Files in Linux"
-date: 2019-05-14 01:44:38
-modified: 2023-08-05 15:09:20
+created: 2019-05-14 01:44:38
+date: 2023-08-05 15:09:20
 authors:
   - bendu
 label: clean-temporary-files-linux

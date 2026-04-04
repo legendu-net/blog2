@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: InvalidInputException for Some Hive Data Partitions"
-date: 2019-05-22 09:55:40
-modified: 2021-03-22 09:55:40
+created: 2019-05-22 09:55:40
+date: 2021-03-22 09:55:40
 authors:
   - bendu
 label: spark-issue-InvalidInputException-for-some-Hive-data-partitions

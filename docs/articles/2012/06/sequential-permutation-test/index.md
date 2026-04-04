@@ -1,7 +1,7 @@
 ---
 title: "Estimation of False Discovery Rate using Sequential Permutation Pvalues"
-date: 2012-06-03 10:17:03
-modified: 2015-03-03 10:17:03
+created: 2012-06-03 10:17:03
+date: 2015-03-03 10:17:03
 authors:
   - bendu
 label: sequential-permutation-test

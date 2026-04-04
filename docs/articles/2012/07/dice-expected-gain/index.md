@@ -1,7 +1,7 @@
 ---
 title: "Expected Gain of Tossing a Dice"
-date: 2012-07-30 09:37:39
-modified: 2013-10-30 09:37:39
+created: 2012-07-30 09:37:39
+date: 2013-10-30 09:37:39
 authors:
   - bendu
 label: dice-expected-gain

@@ -1,7 +1,7 @@
 ---
 title: "Work More Efficiently with Email"
-date: 2014-02-22 14:21:50
-modified: 2020-05-22 14:21:50
+created: 2014-02-22 14:21:50
+date: 2020-05-22 14:21:50
 authors:
   - bendu
 label: email-tips

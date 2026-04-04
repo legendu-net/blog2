@@ -1,7 +1,7 @@
 ---
 title: "Update a Line in Standard Output"
+created: 2019-10-10 21:00:55
 date: 2019-10-10 21:00:55
-modified: 2019-10-10 21:00:55
 authors:
   - bendu
 label: update-a-line-in-standard-output

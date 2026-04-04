@@ -1,7 +1,7 @@
 ---
 title: "Spark vs Redshift"
+created: 2019-10-29 04:14:54
 date: 2019-10-29 04:14:54
-modified: 2019-10-29 04:14:54
 authors:
   - bendu
 label: spark-vs-redshift

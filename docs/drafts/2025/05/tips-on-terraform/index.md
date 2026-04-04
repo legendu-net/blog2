@@ -1,7 +1,7 @@
 ---
 title: "Tips on Terraform"
+created: 2025-05-08 15:58:29
 date: 2025-05-08 15:58:29
-modified: 2025-05-08 15:58:29
 authors:
   - bendu
 label: tips-on-terraform

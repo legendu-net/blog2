@@ -1,7 +1,7 @@
 ---
 title: "Device Managment in PyTorch"
-date: 2020-03-11 18:17:52
-modified: 2020-06-11 18:17:52
+created: 2020-03-11 18:17:52
+date: 2020-06-11 18:17:52
 authors:
   - bendu
 label: device-managment-in-pytorch

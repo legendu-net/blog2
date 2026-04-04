@@ -1,7 +1,7 @@
 ---
 title: "User Printers and Scanners on Linux"
-date: 2026-01-09 11:30:17
-modified: 2026-01-09 11:49:08
+created: 2026-01-09 11:30:17
+date: 2026-01-09 11:49:08
 authors:
   - bendu
 label: user-printers-and-scanners-on-linux

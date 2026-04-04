@@ -1,7 +1,7 @@
 ---
 title: "Tips for the IML Procedure in SAS"
-date: 2012-07-19 15:30:52
-modified: 2015-02-19 15:30:52
+created: 2012-07-19 15:30:52
+date: 2015-02-19 15:30:52
 authors:
   - bendu
 label: sas-iml-procedure

@@ -1,7 +1,7 @@
 ---
 title: Tips on Electronic Vehicles
-date: 2023-09-13 17:49:03
-modified: 2026-04-03 17:04:04.498273
+created: 2023-09-13 17:49:03
+date: 2026-04-03 17:04:04.498273
 authors:
 - bendu
 label: tips-on-electronic-vehicles

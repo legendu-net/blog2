@@ -1,7 +1,7 @@
 ---
 title: "Side Projects for Money"
+created: 2020-03-11 12:45:10
 date: 2020-03-11 12:45:10
-modified: 2020-03-11 12:45:10
 authors:
   - bendu
 label: side-projects-for-money

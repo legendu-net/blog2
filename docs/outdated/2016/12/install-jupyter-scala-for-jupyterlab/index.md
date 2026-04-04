@@ -1,7 +1,7 @@
 ---
 title: "Install Jupyter-Scala for JupyterLab"
+created: 2016-12-10 01:52:37
 date: 2016-12-10 01:52:37
-modified: 2016-12-10 01:52:37
 authors:
   - bendu
 label: install-jupyter-scala-for-jupyterlab

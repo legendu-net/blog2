@@ -1,7 +1,7 @@
 ---
 title: "Rust Backend Frameworks for GraphQL APIs"
-date: 2023-07-06 11:53:27
-modified: 2023-07-06 18:22:39
+created: 2023-07-06 11:53:27
+date: 2023-07-06 18:22:39
 authors:
   - bendu
 label: rust-backend-frameworks-for-graphql-apis

@@ -1,7 +1,7 @@
 ---
 title: "Convert MS Office Document to Text"
+created: 2013-08-14 00:00:00
 date: 2013-08-14 00:00:00
-modified: 2013-08-14 00:00:00
 authors:
   - bendu
 label: convert-excel-to-csv

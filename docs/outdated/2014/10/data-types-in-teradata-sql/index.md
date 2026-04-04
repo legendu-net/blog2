@@ -1,7 +1,7 @@
 ---
 title: "Data Types in Teradata SQL"
-date: 2014-10-23 13:01:10
-modified: 2016-10-23 13:01:10
+created: 2014-10-23 13:01:10
+date: 2016-10-23 13:01:10
 authors:
   - bendu
 label: data-types-in-teradata-sql

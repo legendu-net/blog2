@@ -1,7 +1,7 @@
 ---
 title: "Tips on PyQt5"
-date: 2019-05-21 10:51:36
-modified: 2020-03-21 10:51:36
+created: 2019-05-21 10:51:36
+date: 2020-03-21 10:51:36
 authors:
   - bendu
 label: pyqt5-tips

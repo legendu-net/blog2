@@ -1,7 +1,7 @@
 ---
 title: "Data Quality"
-date: 2019-02-07 08:54:40
-modified: 2021-11-22 12:13:22
+created: 2019-02-07 08:54:40
+date: 2021-11-22 12:13:22
 authors:
   - bendu
 label: data-quality

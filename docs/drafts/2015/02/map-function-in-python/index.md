@@ -1,7 +1,7 @@
 ---
 title: "Function Programming in Python"
+created: 2015-02-05 22:58:56
 date: 2015-02-05 22:58:56
-modified: 2015-02-05 22:58:56
 authors:
   - bendu
 label: map-function-in-python

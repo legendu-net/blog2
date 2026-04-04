@@ -1,7 +1,7 @@
 ---
 title: "Tips on PyTorch"
-date: 2020-01-18 00:39:50
-modified: 2021-10-08 11:19:48
+created: 2020-01-18 00:39:50
+date: 2021-10-08 11:19:48
 authors:
   - bendu
 label: tips-on-pytorch

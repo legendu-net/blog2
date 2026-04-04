@@ -1,7 +1,7 @@
 ---
 title: "Tips on VNC"
-date: 2013-10-22 14:41:47
-modified: 2020-05-22 14:41:47
+created: 2013-10-22 14:41:47
+date: 2020-05-22 14:41:47
 authors:
   - bendu
 label: vnc-tips

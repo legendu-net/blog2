@@ -1,7 +1,7 @@
 ---
 title: "Docker Images for Synchronization"
+created: 2018-10-18 23:34:58
 date: 2018-10-18 23:34:58
-modified: 2018-10-18 23:34:58
 authors:
   - bendu
 label: docker-images-for-synchronization

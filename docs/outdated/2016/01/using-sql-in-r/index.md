@@ -1,7 +1,7 @@
 ---
 title: "Using SQL in R"
-date: 2016-01-08 15:47:42
-modified: 2017-04-08 15:47:42
+created: 2016-01-08 15:47:42
+date: 2017-04-08 15:47:42
 authors:
   - bendu
 label: using-sql-in-r

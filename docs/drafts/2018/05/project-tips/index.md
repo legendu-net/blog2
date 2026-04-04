@@ -1,7 +1,7 @@
 ---
 title: "Tips on Project Management"
-date: 2018-05-17 16:52:16
-modified: 2022-06-25 16:12:01
+created: 2018-05-17 16:52:16
+date: 2022-06-25 16:12:01
 authors:
   - bendu
 label: project-tips

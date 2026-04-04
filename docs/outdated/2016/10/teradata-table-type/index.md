@@ -1,7 +1,7 @@
 ---
 title: "Teradata Table Type"
+created: 2016-10-16 11:22:18
 date: 2016-10-16 11:22:18
-modified: 2016-10-16 11:22:18
 authors:
   - bendu
 label: teradata-table-type

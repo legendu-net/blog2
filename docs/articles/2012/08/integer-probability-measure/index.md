@@ -1,7 +1,7 @@
 ---
 title: "Randomly Select an Integer?!"
-date: 2012-08-29 17:23:24
-modified: 2013-10-29 17:23:24
+created: 2012-08-29 17:23:24
+date: 2013-10-29 17:23:24
 authors:
   - bendu
 label: integer-probability-measure

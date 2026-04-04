@@ -1,7 +1,7 @@
 ---
 title: "R for Numerical Analysis"
-date: 2012-11-21 00:00:00
-modified: 2021-10-07 11:04:29
+created: 2012-11-21 00:00:00
+date: 2021-10-07 11:04:29
 authors:
   - bendu
 label: r-for-numerical-analysis

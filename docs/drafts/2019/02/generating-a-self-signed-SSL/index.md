@@ -1,7 +1,7 @@
 ---
 title: "Generating a Self-Signed SSL"
-date: 2019-02-27 22:20:14
-modified: 2019-10-27 22:20:14
+created: 2019-02-27 22:20:14
+date: 2019-10-27 22:20:14
 authors:
   - bendu
 label: generating-a-self-signed-SSL

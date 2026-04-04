@@ -1,7 +1,7 @@
 ---
 title: "How Long Does It Take to Observe a Sequence?"
-date: 2010-05-04 02:30:19
-modified: 2018-01-04 02:30:19
+created: 2010-05-04 02:30:19
+date: 2018-01-04 02:30:19
 authors:
   - bendu
 label: how-long-observe-pattern

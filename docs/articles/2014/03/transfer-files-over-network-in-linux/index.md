@@ -1,7 +1,7 @@
 ---
 title: "Transfer Files over Network in Linux"
-date: 2014-03-02 17:16:03
-modified: 2020-05-02 17:16:03
+created: 2014-03-02 17:16:03
+date: 2020-05-02 17:16:03
 authors:
   - bendu
 label: transfer-files-over-network-in-linux

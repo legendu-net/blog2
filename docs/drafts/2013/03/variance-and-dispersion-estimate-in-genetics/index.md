@@ -1,7 +1,7 @@
 ---
 title: "Variance and Dispersion Estimate in Genetics"
-date: 2013-03-24 14:05:04
-modified: 2015-02-24 14:05:04
+created: 2013-03-24 14:05:04
+date: 2015-02-24 14:05:04
 authors:
   - bendu
 label: variance-and-dispersion-estimate-in-genetics

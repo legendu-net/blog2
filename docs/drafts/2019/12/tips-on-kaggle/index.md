@@ -1,7 +1,7 @@
 ---
 title: "Tips on Kaggle"
-date: 2019-12-04 10:37:03
-modified: 2020-02-04 10:37:03
+created: 2019-12-04 10:37:03
+date: 2020-02-04 10:37:03
 authors:
   - bendu
 label: tips-on-kaggle

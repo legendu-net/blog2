@@ -1,7 +1,7 @@
 ---
 title: "Misc Tips on Ubuntu"
-date: 2013-10-19 12:20:43
-modified: 2022-05-28 10:47:02
+created: 2013-10-19 12:20:43
+date: 2022-05-28 10:47:02
 authors:
   - bendu
 label: ubuntu-tips

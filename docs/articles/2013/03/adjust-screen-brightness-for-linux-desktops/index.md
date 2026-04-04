@@ -1,7 +1,7 @@
 ---
 title: "Adjust Screen Brightness for Linux Desktops"
-date: 2013-03-03 19:57:46
-modified: 2015-02-03 19:57:46
+created: 2013-03-03 19:57:46
+date: 2015-02-03 19:57:46
 authors:
   - bendu
 label: adjust-screen-brightness-for-linux-desktops

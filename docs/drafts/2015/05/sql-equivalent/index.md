@@ -1,7 +1,7 @@
 ---
 title: "SQL Equivalent"
-date: 2015-05-20 11:48:36
-modified: 2022-10-09 16:56:22
+created: 2015-05-20 11:48:36
+date: 2022-10-09 16:56:22
 authors:
   - bendu
 label: sql-equivalent

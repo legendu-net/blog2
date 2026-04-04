@@ -1,7 +1,7 @@
 ---
 title: "Useful Rust Crates for Numeric Computation"
-date: 2023-01-13 16:35:52
-modified: 2023-05-26 11:00:13
+created: 2023-01-13 16:35:52
+date: 2023-05-26 11:00:13
 authors:
   - bendu
 label: useful-rust-crates-for-numeric-computation

@@ -1,7 +1,7 @@
 ---
 title: "FireNVim Brings NeoVim into Your Browser"
-date: 2021-12-04 20:03:49
-modified: 2025-05-30 07:56:53
+created: 2021-12-04 20:03:49
+date: 2025-05-30 07:56:53
 authors:
   - bendu
 label: firenvim-brings-neovim-into-your-browser

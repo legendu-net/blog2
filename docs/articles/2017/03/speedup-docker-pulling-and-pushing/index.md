@@ -1,7 +1,7 @@
 ---
 title: "Speedup Docker Pulling and Pushing"
-date: 2017-03-29 01:23:50
-modified: 2020-01-29 01:23:50
+created: 2017-03-29 01:23:50
+date: 2020-01-29 01:23:50
 authors:
   - bendu
 label: speedup-docker-pulling-and-pushing

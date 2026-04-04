@@ -1,7 +1,7 @@
 ---
 title: "Tips on uGet"
-date: 2016-06-07 22:54:45
-modified: 2020-03-07 22:54:45
+created: 2016-06-07 22:54:45
+date: 2020-03-07 22:54:45
 authors:
   - bendu
 label: uget-tips

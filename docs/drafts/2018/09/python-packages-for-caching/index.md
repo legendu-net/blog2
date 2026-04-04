@@ -1,7 +1,7 @@
 ---
 title: "Serialization and Caching in Python"
-date: 2018-09-06 00:59:06
-modified: 2021-10-03 23:32:52
+created: 2018-09-06 00:59:06
+date: 2021-10-03 23:32:52
 authors:
   - bendu
 label: python-packages-for-caching

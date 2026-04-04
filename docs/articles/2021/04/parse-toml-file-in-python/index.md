@@ -1,7 +1,7 @@
 ---
 title: Parse TOML Files in Python
-date: 2021-04-26 09:37:58
-modified: 2026-04-04 12:42:14.400254
+created: 2021-04-26 09:37:58
+date: 2026-04-04 12:42:14.400254
 authors:
 - bendu
 label: parse-toml-file-in-python

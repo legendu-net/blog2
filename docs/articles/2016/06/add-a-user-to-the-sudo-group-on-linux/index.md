@@ -1,7 +1,7 @@
 ---
 title: "Add Users to a Group in Linux"
-date: 2016-06-10 19:05:41
-modified: 2017-04-10 19:05:41
+created: 2016-06-10 19:05:41
+date: 2017-04-10 19:05:41
 authors:
   - bendu
 label: add-a-user-to-the-sudo-group-on-linux

@@ -1,7 +1,7 @@
 ---
 title: "Tips on Pillow"
-date: 2020-02-26 12:07:50
-modified: 2021-08-21 23:02:29
+created: 2020-02-26 12:07:50
+date: 2021-08-21 23:02:29
 authors:
   - bendu
 label: tips-on-pillow

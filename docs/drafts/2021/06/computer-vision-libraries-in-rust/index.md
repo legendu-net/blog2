@@ -1,7 +1,7 @@
 ---
 title: "Computer Vision Libraries in Rust"
-date: 2021-06-25 16:02:10
-modified: 2021-12-24 10:15:25
+created: 2021-06-25 16:02:10
+date: 2021-12-24 10:15:25
 authors:
   - bendu
 label: computer-vision-libraries-in-rust

@@ -1,7 +1,7 @@
 ---
 title: "Cheatsheet for Muttator"
+created: 2013-12-19 21:19:59
 date: 2013-12-19 21:19:59
-modified: 2013-12-19 21:19:59
 authors:
   - bendu
 label: cheatsheet-for-muttator

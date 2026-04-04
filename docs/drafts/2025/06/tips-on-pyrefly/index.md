@@ -1,7 +1,7 @@
 ---
 title: "Tips on Pyrefly"
+created: 2025-06-12 02:34:51
 date: 2025-06-12 02:34:51
-modified: 2025-06-12 02:34:51
 authors:
   - bendu
 label: tips-on-pyrefly

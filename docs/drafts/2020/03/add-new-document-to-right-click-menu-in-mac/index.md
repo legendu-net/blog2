@@ -1,7 +1,7 @@
 ---
 title: "Add New Document to Right-Click Menu in Mac"
+created: 2020-03-11 16:04:18
 date: 2020-03-11 16:04:18
-modified: 2020-03-11 16:04:18
 authors:
   - bendu
 label: add-new-document-to-right-click-menu-in-mac

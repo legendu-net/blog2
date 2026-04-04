@@ -1,7 +1,7 @@
 ---
 title: "Tips on Charles Schwab Trader API"
-date: 2024-04-26 01:41:03
-modified: 2024-08-10 18:57:30
+created: 2024-04-26 01:41:03
+date: 2024-08-10 18:57:30
 authors:
   - bendu
 label: tips-on-charles-schwab-trader-api

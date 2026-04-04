@@ -1,7 +1,7 @@
 ---
 title: "Account Management in Linux"
-date: 2017-06-22 13:30:05
-modified: 2017-10-22 13:30:05
+created: 2017-06-22 13:30:05
+date: 2017-10-22 13:30:05
 authors:
   - bendu
 label: account-management-in-linux

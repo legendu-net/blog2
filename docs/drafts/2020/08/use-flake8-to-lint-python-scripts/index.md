@@ -1,7 +1,7 @@
 ---
 title: "Use Flake8 to Lint Python Scripts"
-date: 2020-08-25 14:52:31
-modified: 2021-02-25 14:52:31
+created: 2020-08-25 14:52:31
+date: 2021-02-25 14:52:31
 authors:
   - bendu
 label: use-flake8-to-lint-python-scripts

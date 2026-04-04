@@ -1,7 +1,7 @@
 ---
 title: Change the Default Shell in Linux
-date: 2025-12-07 17:48:30
-modified: 2026-04-03 16:13:37.449930
+created: 2025-12-07 17:48:30
+date: 2026-04-03 16:13:37.449930
 authors:
 - bendu
 label: change-the-default-shell-in-linux

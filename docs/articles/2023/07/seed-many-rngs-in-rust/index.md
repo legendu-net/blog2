@@ -1,7 +1,7 @@
 ---
 title: "Seed Many RNGs in Rust"
-date: 2023-07-05 22:39:36
-modified: 2023-07-06 22:33:26
+created: 2023-07-05 22:39:36
+date: 2023-07-06 22:33:26
 authors:
   - bendu
 label: seed-many-rngs-in-rust

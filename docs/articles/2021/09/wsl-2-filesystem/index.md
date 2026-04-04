@@ -1,7 +1,7 @@
 ---
 title: "WSL2 Filesystem"
-date: 2021-09-09 12:18:40
-modified: 2021-09-24 11:02:41
+created: 2021-09-09 12:18:40
+date: 2021-09-24 11:02:41
 authors:
   - bendu
 label: wsl-2-filesystem

@@ -1,7 +1,7 @@
 ---
 title: "FTP on Linux"
-date: 2021-10-10 14:00:53
-modified: 2021-10-11 10:34:21
+created: 2021-10-10 14:00:53
+date: 2021-10-11 10:34:21
 authors:
   - bendu
 label: ftp-on-linux

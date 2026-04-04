@@ -1,7 +1,7 @@
 ---
 title: "Get OS and Architecture Information in Shell"
-date: 2022-07-20 14:45:33
-modified: 2022-07-23 19:41:06
+created: 2022-07-20 14:45:33
+date: 2022-07-23 19:41:06
 authors:
   - bendu
 label: get-os-and-architecture-info-in-shell

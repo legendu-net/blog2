@@ -1,7 +1,7 @@
 ---
 title: "Tips on Home Assistant"
+created: 2021-04-09 09:47:32
 date: 2021-04-09 09:47:32
-modified: 2021-04-09 09:47:32
 authors:
   - bendu
 label: tips-on-home-assistant

@@ -1,7 +1,7 @@
 ---
 title: "Activation Functions in Neural Network"
-date: 2019-12-17 14:20:03
-modified: 2020-01-17 14:20:03
+created: 2019-12-17 14:20:03
+date: 2020-01-17 14:20:03
 authors:
   - bendu
 label: activation-functions-in-neural-network

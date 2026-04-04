@@ -1,7 +1,7 @@
 ---
 title: "Permission Issues when Installing Softwares in Linux"
-date: 2012-04-30 00:00:00
-modified: 2022-05-06 14:50:36
+created: 2012-04-30 00:00:00
+date: 2022-05-06 14:50:36
 authors:
   - bendu
 label: install-software-linux

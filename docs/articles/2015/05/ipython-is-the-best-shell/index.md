@@ -1,7 +1,7 @@
 ---
 title: "IPython Is the Best Shell"
-date: 2015-05-24 13:00:31
-modified: 2022-12-04 21:40:47
+created: 2015-05-24 13:00:31
+date: 2022-12-04 21:40:47
 authors:
   - bendu
 label: ipython-is-the-best-shell

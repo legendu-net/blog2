@@ -1,7 +1,7 @@
 ---
 title: "Tips on MongoDB"
-date: 2013-10-22 13:52:51
-modified: 2020-05-22 13:52:51
+created: 2013-10-22 13:52:51
+date: 2020-05-22 13:52:51
 authors:
   - bendu
 label: mongodb-tips

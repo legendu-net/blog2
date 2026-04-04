@@ -1,7 +1,7 @@
 ---
 title: "Boolean Values in C++"
-date: 2012-10-07 21:56:02
-modified: 2020-04-07 21:56:02
+created: 2012-10-07 21:56:02
+date: 2020-04-07 21:56:02
 authors:
   - bendu
 label: boolean-values-in-cpp

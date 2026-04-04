@@ -1,7 +1,7 @@
 ---
 title: "Tips on pyenv"
-date: 2019-10-18 18:27:32
-modified: 2020-08-18 18:27:32
+created: 2019-10-18 18:27:32
+date: 2020-08-18 18:27:32
 authors:
   - bendu
 label: tips-on-pyenv

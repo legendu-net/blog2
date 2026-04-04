@@ -1,7 +1,7 @@
 ---
 title: "Useful Firefox Add-ons"
-date: 2015-11-27 12:25:55
-modified: 2025-05-30 08:21:53
+created: 2015-11-27 12:25:55
+date: 2025-05-30 08:21:53
 authors:
   - bendu
 label: useful-firefox-add-ons

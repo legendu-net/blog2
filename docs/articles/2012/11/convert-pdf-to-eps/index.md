@@ -1,7 +1,7 @@
 ---
 title: "Convert PDF to EPS"
-date: 2012-11-21 16:30:01
-modified: 2021-12-03 09:25:59
+created: 2012-11-21 16:30:01
+date: 2021-12-03 09:25:59
 authors:
   - bendu
 label: convert-pdf-to-eps

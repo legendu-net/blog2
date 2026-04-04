@@ -1,7 +1,7 @@
 ---
 title: "Parallel RNGs With Rayon in Rust"
-date: 2023-07-05 08:42:27
-modified: 2023-07-24 15:45:49
+created: 2023-07-05 08:42:27
+date: 2023-07-24 15:45:49
 authors:
   - bendu
 label: parallel-RNGs-with-rayon-in-rust

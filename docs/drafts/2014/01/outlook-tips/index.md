@@ -1,7 +1,7 @@
 ---
 title: "Tips on Outlook"
-date: 2014-01-06 20:28:42
-modified: 2020-06-06 20:28:42
+created: 2014-01-06 20:28:42
+date: 2020-06-06 20:28:42
 authors:
   - bendu
 label: outlook-tips

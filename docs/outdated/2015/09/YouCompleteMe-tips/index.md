@@ -1,7 +1,7 @@
 ---
 title: "Auto Completion Using YouCompleteMe in Vim"
-date: 2015-09-22 14:00:13
-modified: 2020-05-22 14:00:13
+created: 2015-09-22 14:00:13
+date: 2020-05-22 14:00:13
 authors:
   - bendu
 label: YouCompleteMe-tips

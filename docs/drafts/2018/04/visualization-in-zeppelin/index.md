@@ -1,7 +1,7 @@
 ---
 title: "Visualization in Zeppelin"
+created: 2018-04-30 16:24:19
 date: 2018-04-30 16:24:19
-modified: 2018-04-30 16:24:19
 authors:
   - bendu
 label: visualization-in-zeppelin

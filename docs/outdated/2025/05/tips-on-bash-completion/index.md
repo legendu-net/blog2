@@ -1,7 +1,7 @@
 ---
 title: "Tips on Bash Completion"
-date: 2025-05-06 14:27:02
-modified: 2025-11-27 11:34:36
+created: 2025-05-06 14:27:02
+date: 2025-11-27 11:34:36
 authors:
   - bendu
 label: tips-on-bash-completion

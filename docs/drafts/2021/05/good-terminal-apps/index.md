@@ -1,7 +1,7 @@
 ---
 title: Good Terminal Apps
-date: 2021-05-11 08:45:30
-modified: 2026-04-03 13:37:44.599556
+created: 2021-05-11 08:45:30
+date: 2026-04-03 13:37:44.599556
 authors:
 - bendu
 label: good-terminal-apps

@@ -1,7 +1,7 @@
 ---
 title: "The Right Way to Export PATH in Shell"
-date: 2020-11-09 11:10:06
-modified: 2023-08-01 09:08:34
+created: 2020-11-09 11:10:06
+date: 2023-08-01 09:08:34
 authors:
   - bendu
 label: the-right-way-to-export-PATH-in-shell

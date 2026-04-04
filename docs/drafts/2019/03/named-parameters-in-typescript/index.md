@@ -1,7 +1,7 @@
 ---
 title: "Named Parameters in TypeScript"
-date: 2019-03-12 17:31:44
-modified: 2021-09-26 16:28:43
+created: 2019-03-12 17:31:44
+date: 2021-09-26 16:28:43
 authors:
   - bendu
 label: named-parameters-in-typescript

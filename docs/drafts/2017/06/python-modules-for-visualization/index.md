@@ -1,7 +1,7 @@
 ---
 title: "Python Modules for Visualization"
-date: 2017-06-08 10:20:38
-modified: 2023-02-08 11:57:17
+created: 2017-06-08 10:20:38
+date: 2023-02-08 11:57:17
 authors:
   - bendu
 label: python-modules-for-visualization

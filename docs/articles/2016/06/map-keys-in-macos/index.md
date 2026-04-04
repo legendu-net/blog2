@@ -1,7 +1,7 @@
 ---
 title: "Map Keys in macOS"
-date: 2016-06-26 07:30:03
-modified: 2021-08-15 13:03:09
+created: 2016-06-26 07:30:03
+date: 2021-08-15 13:03:09
 authors:
   - bendu
 label: map-keys-in-macos

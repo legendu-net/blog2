@@ -1,7 +1,7 @@
 ---
 title: "Tips on Boating"
+created: 2025-07-02 22:33:36
 date: 2025-07-02 22:33:36
-modified: 2025-07-02 22:33:36
 authors:
   - bendu
 label: tips-on-boating

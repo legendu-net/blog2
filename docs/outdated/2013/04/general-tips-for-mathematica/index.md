@@ -1,7 +1,7 @@
 ---
 title: "General Tips on Mathematica"
-date: 2013-04-25 21:27:34
-modified: 2020-05-25 21:27:34
+created: 2013-04-25 21:27:34
+date: 2020-05-25 21:27:34
 authors:
   - bendu
 label: general-tips-for-mathematica

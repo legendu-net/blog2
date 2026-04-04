@@ -1,7 +1,7 @@
 ---
 title: "Tips on nbconvert"
-date: 2021-01-08 13:59:41
-modified: 2025-05-08 15:58:11
+created: 2021-01-08 13:59:41
+date: 2025-05-08 15:58:11
 authors:
   - bendu
 label: tips-on-nbconvert

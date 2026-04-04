@@ -1,7 +1,7 @@
 ---
 title: "Profile Rust Applications Using Flamegraph"
-date: 2021-11-09 10:28:40
-modified: 2023-03-28 00:03:52
+created: 2021-11-09 10:28:40
+date: 2023-03-28 00:03:52
 authors:
   - bendu
 label: profile-rust-applications-using-flamegraph

@@ -1,7 +1,7 @@
 ---
 title: "Tips on Apache Beam"
+created: 2022-11-10 21:45:13
 date: 2022-11-10 21:45:13
-modified: 2022-11-10 21:45:13
 authors:
   - bendu
 label: tips-on-apache-beam

@@ -1,7 +1,7 @@
 ---
 title: "Tips on YAML"
-date: 2019-08-27 21:35:35
-modified: 2024-03-13 23:38:03
+created: 2019-08-27 21:35:35
+date: 2024-03-13 23:38:03
 authors:
   - bendu
 label: tips-on-yaml

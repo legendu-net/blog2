@@ -1,7 +1,7 @@
 ---
 title: "Model Fitting in ANOVA Analysis"
-date: 2012-11-22 12:21:02
-modified: 2020-05-22 12:21:02
+created: 2012-11-22 12:21:02
+date: 2020-05-22 12:21:02
 authors:
   - bendu
 label: model-fitting

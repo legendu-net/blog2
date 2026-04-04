@@ -1,7 +1,7 @@
 ---
 title: "Manage Autostart Applications"
-date: 2014-03-22 12:35:14
-modified: 2020-05-22 12:35:14
+created: 2014-03-22 12:35:14
+date: 2020-05-22 12:35:14
 authors:
   - bendu
 label: manage-autostart-apps

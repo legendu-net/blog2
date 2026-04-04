@@ -1,7 +1,7 @@
 ---
 title: "Union RDDs in Spark"
-date: 2017-06-03 23:49:38
-modified: 2020-11-03 23:49:38
+created: 2017-06-03 23:49:38
+date: 2020-11-03 23:49:38
 authors:
   - bendu
 label: union-RDDs-in-spark

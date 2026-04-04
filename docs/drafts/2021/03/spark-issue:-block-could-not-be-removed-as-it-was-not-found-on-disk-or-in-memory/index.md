@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: Block Could Not Be Removed as It Was Not Found on Disk or in Memory"
-date: 2021-03-24 09:23:07
-modified: 2022-01-24 22:02:52
+created: 2021-03-24 09:23:07
+date: 2022-01-24 22:02:52
 authors:
   - bendu
 label: spark-issue:-block-could-not-be-removed-as-it-was-not-found-on-disk-or-in-memory

@@ -1,7 +1,7 @@
 ---
 title: "Tips on the Linux Command ln"
+created: 2020-12-20 20:32:29
 date: 2020-12-20 20:32:29
-modified: 2020-12-20 20:32:29
 authors:
   - bendu
 label: tips-on-ln

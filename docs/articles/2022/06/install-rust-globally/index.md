@@ -1,7 +1,7 @@
 ---
 title: "Install Rust Globally in Linux"
-date: 2022-06-02 15:21:12
-modified: 2022-10-20 23:02:12
+created: 2022-06-02 15:21:12
+date: 2022-10-20 23:02:12
 authors:
   - bendu
 label: install-rust-globally

@@ -1,7 +1,7 @@
 ---
 title: "Load User-written Script into Ruby"
+created: 2012-08-25 00:00:00
 date: 2012-08-25 00:00:00
-modified: 2012-08-25 00:00:00
 authors:
   - bendu
 label: load-script-ruby

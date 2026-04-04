@@ -1,7 +1,7 @@
 ---
 title: "Understanding Paychecks"
-date: 2024-08-02 11:35:45
-modified: 2024-08-09 23:16:19
+created: 2024-08-02 11:35:45
+date: 2024-08-09 23:16:19
 authors:
   - bendu
 label: understanding-paychecks

@@ -1,7 +1,7 @@
 ---
 title: "Sharing Files Between Linux and iPad"
+created: 2017-04-22 22:09:13
 date: 2017-04-22 22:09:13
-modified: 2017-04-22 22:09:13
 authors:
   - bendu
 label: sharing-files-between-linux-and-ipad

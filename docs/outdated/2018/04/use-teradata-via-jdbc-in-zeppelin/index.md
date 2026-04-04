@@ -1,7 +1,7 @@
 ---
 title: "Use Teradata via JDBC in Zeppelin"
-date: 2018-04-10 10:00:59
-modified: 2020-05-10 10:00:59
+created: 2018-04-10 10:00:59
+date: 2020-05-10 10:00:59
 authors:
   - bendu
 label: use-teradata-via-jdbc-in-zeppelin

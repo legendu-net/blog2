@@ -1,7 +1,7 @@
 ---
 title: "JupyterLab Extensions for Spreadsheet"
-date: 2020-06-30 10:05:25
-modified: 2023-01-13 20:19:34
+created: 2020-06-30 10:05:25
+date: 2023-01-13 20:19:34
 authors:
   - bendu
 label: jupyterlab-extensions-for-spreadsheet

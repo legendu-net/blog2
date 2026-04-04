@@ -1,7 +1,7 @@
 ---
 title: "Debugging, Unit Testing and CICD in Python"
-date: 2019-02-07 22:02:18
-modified: 2020-10-07 22:02:18
+created: 2019-02-07 22:02:18
+date: 2020-10-07 22:02:18
 authors:
   - bendu
 label: debugging-unit-testing-cicd-python

@@ -1,7 +1,7 @@
 ---
 title: "“过犹不及”和“望”的故事"
+created: 2013-08-08 00:00:00
 date: 2013-08-08 00:00:00
-modified: 2013-08-08 00:00:00
 authors:
   - bendu
 label: guo-you-bi-ji-he-wang

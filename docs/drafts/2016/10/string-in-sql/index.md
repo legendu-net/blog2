@@ -1,7 +1,7 @@
 ---
 title: "String in SQL"
-date: 2016-10-20 18:55:31
-modified: 2016-11-20 18:55:31
+created: 2016-10-20 18:55:31
+date: 2016-11-20 18:55:31
 authors:
   - bendu
 label: string-in-sql

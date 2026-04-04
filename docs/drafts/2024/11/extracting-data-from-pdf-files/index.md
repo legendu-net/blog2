@@ -1,7 +1,7 @@
 ---
 title: "Extracting Data from PDF Files"
-date: 2024-11-15 12:41:51
-modified: 2025-07-27 19:37:57
+created: 2024-11-15 12:41:51
+date: 2025-07-27 19:37:57
 authors:
   - bendu
 label: extracting-data-from-pdf-files

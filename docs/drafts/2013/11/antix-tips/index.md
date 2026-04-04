@@ -1,7 +1,7 @@
 ---
 title: "The Tiny antiX Linux Distribution"
-date: 2013-11-22 13:12:54
-modified: 2020-05-22 13:12:54
+created: 2013-11-22 13:12:54
+date: 2020-05-22 13:12:54
 authors:
   - bendu
 label: antix-tips

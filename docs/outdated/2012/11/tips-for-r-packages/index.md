@@ -1,7 +1,7 @@
 ---
 title: "Tips for R Packages"
-date: 2012-11-23 22:30:01
-modified: 2016-10-23 22:30:01
+created: 2012-11-23 22:30:01
+date: 2016-10-23 22:30:01
 authors:
   - bendu
 label: tips-for-r-packages

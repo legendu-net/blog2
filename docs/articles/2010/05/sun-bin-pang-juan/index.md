@@ -1,7 +1,7 @@
 ---
 title: "Sun Bin PK Pang Juan"
-date: 2010-05-06 10:57:40
-modified: 2014-08-06 10:57:40
+created: 2010-05-06 10:57:40
+date: 2014-08-06 10:57:40
 authors:
   - bendu
 label: sun-bin-pang-juan

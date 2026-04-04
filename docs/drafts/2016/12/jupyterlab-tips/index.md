@@ -1,7 +1,7 @@
 ---
 title: "Tips on JupyterLab"
-date: 2016-12-10 10:12:31
-modified: 2022-06-16 00:29:36
+created: 2016-12-10 10:12:31
+date: 2022-06-16 00:29:36
 authors:
   - bendu
 label: jupyterlab-tips

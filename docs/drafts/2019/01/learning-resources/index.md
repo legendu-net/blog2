@@ -1,7 +1,7 @@
 ---
 title: "Learning Resources"
-date: 2019-01-09 17:38:45
-modified: 2020-05-09 17:38:45
+created: 2019-01-09 17:38:45
+date: 2020-05-09 17:38:45
 authors:
   - bendu
 label: learning-resources

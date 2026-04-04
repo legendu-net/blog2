@@ -1,7 +1,7 @@
 ---
 title: "Search Engine for Static Web Sites"
-date: 2020-12-03 10:23:35
-modified: 2022-06-09 09:01:58
+created: 2020-12-03 10:23:35
+date: 2022-06-09 09:01:58
 authors:
   - bendu
 label: search-engine-for-static-web-sites

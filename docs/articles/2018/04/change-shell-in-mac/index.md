@@ -1,7 +1,7 @@
 ---
 title: "Change Shell in Mac"
-date: 2018-04-02 14:46:43
-modified: 2025-12-09 12:26:13
+created: 2018-04-02 14:46:43
+date: 2025-12-09 12:26:13
 authors:
   - bendu
 label: change-shell-in-mac

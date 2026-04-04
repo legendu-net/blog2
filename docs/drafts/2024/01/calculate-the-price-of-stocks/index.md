@@ -1,7 +1,7 @@
 ---
 title: "Calculate the Price of Stocks"
+created: 2024-01-07 10:12:02
 date: 2024-01-07 10:12:02
-modified: 2024-01-07 10:12:02
 authors:
   - bendu
 label: calculate-the-price-of-stocks

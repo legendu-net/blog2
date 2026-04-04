@@ -35,8 +35,8 @@ with Path(BASE_DIR / "words.yml").open(encoding="utf-8") as _:
 POSTS_COLS = [
     "path",
     "doc_dir",
+    "created",
     "date",
-    "modified",
     "title",
     "tags",
     "content",
@@ -242,8 +242,8 @@ class Post:
         return Record(
             str(self.path),
             self._doc_dir,
+            self.metadata["created"],
             self.metadata["date"],
-            self.metadata["modified"],
             self.metadata["title"],
             tags,
             content,
@@ -252,9 +252,9 @@ class Post:
         )
 
     def update_meta_field(self, metadata: dict[str, Any]) -> None:
-        """Update metadata. The modified field is automatically updated."""
+        """Update metadata. The date field is automatically updated."""
         self.metadata.update(metadata)
-        self.metadata["modified"] = (
+        self.metadata["date"] = (
             datetime.datetime.now()
             if metadata
             else datetime.datetime.fromtimestamp(self.path.stat().st_mtime)
@@ -300,8 +300,8 @@ class Post:
         if isinstance(metadata_or_title, str):
             metadata_or_title = {
                 "title": _format_title(metadata_or_title),
+                "created": datetime.datetime.now(),
                 "date": datetime.datetime.now(),
-                "modified": datetime.datetime.now(),
                 "authors": ["bendu"],
                 "label": _label(metadata_or_title),
                 "license": "CC-BY-4.0",
@@ -515,7 +515,7 @@ class Blogger:
                 post.update_meta_field(metadata={})
                 self.load_post(post)
                 self.update_records(
-                    self.ACCESSED, paths=path, kvs={"atime": time.time()}
+                    self.ACCESSED, paths=path, kvs={"atime": time.time()+1}
                 )
             elif time.time() - atime >= SECONDS_4_HOURS:
                 self.delete_records(self.ACCESSED, path)
@@ -581,7 +581,7 @@ class Blogger:
         """Get last (according to modification time) n posts.
         :param n: The number of posts to get.
         """
-        self._srps(where="", order_by="modified DESC", limit=n)
+        self._srps(where="", order_by="date DESC", limit=n)
 
     def path(
         self, table: str, where: str, params: Sequence[str | int] = ()

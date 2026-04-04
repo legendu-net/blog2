@@ -1,7 +1,7 @@
 ---
 title: "Inline Dot Graph in Docs"
-date: 2023-01-11 14:31:41
-modified: 2023-01-11 18:12:15
+created: 2023-01-11 14:31:41
+date: 2023-01-11 18:12:15
 authors:
   - bendu
 label: inline-DOT-graph-in-docs

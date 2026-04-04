@@ -1,7 +1,7 @@
 ---
 title: "Handling Categorical Variables in Machine Learning"
-date: 2019-12-24 10:44:18
-modified: 2022-03-26 22:21:23
+created: 2019-12-24 10:44:18
+date: 2022-03-26 22:21:23
 authors:
   - bendu
 label: handling-categorical-variables-in-machine-learning

@@ -1,7 +1,7 @@
 ---
 title: "Type Cast in Java"
-date: 2012-11-02 10:50:55
-modified: 2014-10-02 10:50:55
+created: 2012-11-02 10:50:55
+date: 2014-10-02 10:50:55
 authors:
   - bendu
 label: type-cast-in-java

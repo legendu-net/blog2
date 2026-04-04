@@ -1,7 +1,7 @@
 ---
 title: "Zero-length Vector Issue in R"
+created: 2017-04-10 19:21:27
 date: 2017-04-10 19:21:27
-modified: 2017-04-10 19:21:27
 authors:
   - bendu
 label: zero-length-vector-issue-in-R

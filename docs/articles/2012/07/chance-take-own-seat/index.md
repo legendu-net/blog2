@@ -1,7 +1,7 @@
 ---
 title: "Chance to Take One's Own Seat?"
-date: 2012-07-10 13:13:46
-modified: 2014-08-10 13:13:46
+created: 2012-07-10 13:13:46
+date: 2014-08-10 13:13:46
 authors:
   - bendu
 label: chance-take-own-seat

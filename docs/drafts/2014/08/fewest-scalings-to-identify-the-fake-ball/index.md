@@ -1,7 +1,7 @@
 ---
 title: Fewest Scalings to Identify the Fake Ball
-date: 2014-08-23 17:12:23
-modified: 2014-10-23 17:12:23
+created: 2014-08-23 17:12:23
+date: 2014-10-23 17:12:23
 authors:
   - bendu
 label: fewest-scalings-to-identify-the-fake-ball

@@ -1,7 +1,7 @@
 ---
 title: "Fix Package Installation Issue in Linux"
+created: 2018-07-21 12:31:03
 date: 2018-07-21 12:31:03
-modified: 2018-07-21 12:31:03
 authors:
   - bendu
 label: fix-package-installation-issue-in-linux

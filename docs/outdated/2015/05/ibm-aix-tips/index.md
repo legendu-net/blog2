@@ -1,7 +1,7 @@
 ---
 title: "IBM AIX Tips"
+created: 2015-05-06 23:55:20
 date: 2015-05-06 23:55:20
-modified: 2015-05-06 23:55:20
 authors:
   - bendu
 label: ibm-aix-tips

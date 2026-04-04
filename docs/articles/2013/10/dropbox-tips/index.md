@@ -1,7 +1,7 @@
 ---
 title: "Synchronize Files Using Dropbox"
-date: 2013-10-22 13:36:17
-modified: 2021-09-26 21:58:30
+created: 2013-10-22 13:36:17
+date: 2021-09-26 21:58:30
 authors:
   - bendu
 label: dropbox-tips

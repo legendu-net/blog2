@@ -1,7 +1,7 @@
 ---
 title: "Tips for VB/VB.net"
+created: 2011-08-31 00:00:00
 date: 2011-08-31 00:00:00
-modified: 2011-08-31 00:00:00
 authors:
   - bendu
 label: tips-vb.net

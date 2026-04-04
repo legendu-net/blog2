@@ -1,7 +1,7 @@
 ---
 title: "Rust for IoT"
-date: 2023-01-13 10:42:03
-modified: 2023-07-16 18:54:35
+created: 2023-01-13 10:42:03
+date: 2023-07-16 18:54:35
 authors:
   - bendu
 label: rust-for-iot

@@ -1,7 +1,7 @@
 ---
 title: "String Functions in VBA"
-date: 2014-08-14 02:09:22
-modified: 2016-06-14 02:09:22
+created: 2014-08-14 02:09:22
+date: 2016-06-14 02:09:22
 authors:
   - bendu
 label: string-functions-in-vba

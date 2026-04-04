@@ -1,7 +1,7 @@
 ---
 title: "Tips on Facebook Ads"
+created: 2020-09-23 14:51:58
 date: 2020-09-23 14:51:58
-modified: 2020-09-23 14:51:58
 authors:
   - bendu
 label: tips-on-Facebook-Ads

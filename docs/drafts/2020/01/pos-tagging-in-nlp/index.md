@@ -1,7 +1,7 @@
 ---
 title: "POS Tagging in NLP"
-date: 2020-01-11 15:58:10
-modified: 2020-02-11 15:58:10
+created: 2020-01-11 15:58:10
+date: 2020-02-11 15:58:10
 authors:
   - bendu
 label: pos-tagging-in-nlp

@@ -1,7 +1,7 @@
 ---
 title: "Static Site Generators"
-date: 2020-08-01 12:19:14
-modified: 2026-01-17 22:55:34
+created: 2020-08-01 12:19:14
+date: 2026-01-17 22:55:34
 authors:
   - bendu
 label: static-site-generators

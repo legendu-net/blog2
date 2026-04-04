@@ -1,7 +1,7 @@
 ---
 title: "Collections and Iterators in C++"
-date: 2012-10-12 10:45:08
-modified: 2021-01-12 10:45:08
+created: 2012-10-12 10:45:08
+date: 2021-01-12 10:45:08
 authors:
   - bendu
 label: collections-and-iterators-in-cpp

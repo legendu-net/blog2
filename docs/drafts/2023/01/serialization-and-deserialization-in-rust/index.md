@@ -1,7 +1,7 @@
 ---
 title: "Serialization and Deserialization in Rust"
-date: 2023-01-13 16:44:56
-modified: 2023-08-03 15:43:30
+created: 2023-01-13 16:44:56
+date: 2023-08-03 15:43:30
 authors:
   - bendu
 label: serialization-and-deserialization-in-rust

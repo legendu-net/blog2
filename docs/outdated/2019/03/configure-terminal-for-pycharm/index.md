@@ -1,7 +1,7 @@
 ---
 title: "Configure Terminal for PyCharm on Windows"
-date: 2019-03-05 01:48:55
-modified: 2021-09-26 16:51:18
+created: 2019-03-05 01:48:55
+date: 2021-09-26 16:51:18
 authors:
   - bendu
 label: configure-terminal-for-pycharm

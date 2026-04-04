@@ -1,7 +1,7 @@
 ---
 title: "Entropy"
-date: 2013-04-22 12:21:46
-modified: 2022-05-08 16:26:29
+created: 2013-04-22 12:21:46
+date: 2022-05-08 16:26:29
 authors:
   - bendu
 label: entropy

@@ -1,7 +1,7 @@
 ---
 title: "Immutable String vs Mutable String"
-date: 2013-11-13 22:22:11
-modified: 2016-07-13 22:22:11
+created: 2013-11-13 22:22:11
+date: 2016-07-13 22:22:11
 authors:
   - bendu
 label: immutable-string-vs-mutable-string

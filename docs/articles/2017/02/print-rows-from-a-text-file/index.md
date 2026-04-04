@@ -1,7 +1,7 @@
 ---
 title: "Print Rows from a Text File"
-date: 2017-02-06 14:36:40
-modified: 2020-04-06 14:36:40
+created: 2017-02-06 14:36:40
+date: 2020-04-06 14:36:40
 authors:
   - bendu
 label: print-rows-from-a-text-file

@@ -1,7 +1,7 @@
 ---
 title: "Use LaTeX in Linux"
-date: 2012-11-10 07:49:45
-modified: 2017-02-10 07:49:45
+created: 2012-11-10 07:49:45
+date: 2017-02-10 07:49:45
 authors:
   - bendu
 label: use-latex-in-linux

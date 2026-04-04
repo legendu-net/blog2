@@ -1,7 +1,7 @@
 ---
 title: "The Cinnamon Desktop Environment for Linux"
-date: 2015-09-22 14:11:28
-modified: 2020-05-22 14:11:28
+created: 2015-09-22 14:11:28
+date: 2020-05-22 14:11:28
 authors:
   - bendu
 label: tips-for-the-cinnamon-desktop-environment

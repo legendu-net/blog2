@@ -1,7 +1,7 @@
 ---
 title: "Tools for Packaging Python Executables"
-date: 2020-07-26 09:45:02
-modified: 2021-06-23 09:04:05
+created: 2020-07-26 09:45:02
+date: 2021-06-23 09:04:05
 authors:
   - bendu
 label: tools-for-packaging-python-executables

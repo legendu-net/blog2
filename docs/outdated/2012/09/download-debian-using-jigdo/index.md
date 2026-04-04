@@ -1,7 +1,7 @@
 ---
 title: "Download Debian Using Jigdo"
-date: 2012-09-03 19:59:19
-modified: 2015-02-03 19:59:19
+created: 2012-09-03 19:59:19
+date: 2015-02-03 19:59:19
 authors:
   - bendu
 label: download-debian-using-jigdo

@@ -1,7 +1,7 @@
 ---
 title: "Install Java 8 on Ubuntu 14.04"
+created: 2017-08-26 09:24:18
 date: 2017-08-26 09:24:18
-modified: 2017-08-26 09:24:18
 authors:
   - bendu
 label: install-java-8-on-ubuntu-14.04

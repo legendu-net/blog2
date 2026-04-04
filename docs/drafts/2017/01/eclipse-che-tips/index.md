@@ -1,7 +1,7 @@
 ---
 title: "Tips on Eclipse Che"
-date: 2017-01-21 10:54:21
-modified: 2020-03-21 10:54:21
+created: 2017-01-21 10:54:21
+date: 2020-03-21 10:54:21
 authors:
   - bendu
 label: eclipse-che-tips

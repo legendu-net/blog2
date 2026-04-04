@@ -1,7 +1,7 @@
 ---
 title: "Connect to Databases Using pyodbc in Python"
-date: 2017-04-22 15:02:59
-modified: 2020-05-22 15:02:59
+created: 2017-04-22 15:02:59
+date: 2020-05-22 15:02:59
 authors:
   - bendu
 label: pyodbc-tips

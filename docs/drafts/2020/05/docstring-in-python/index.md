@@ -1,7 +1,7 @@
 ---
 title: "Docstring in Python"
-date: 2020-05-04 10:02:09
-modified: 2021-01-04 10:02:09
+created: 2020-05-04 10:02:09
+date: 2021-01-04 10:02:09
 authors:
   - bendu
 label: docstring-in-python

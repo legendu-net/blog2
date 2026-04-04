@@ -1,7 +1,7 @@
 ---
 title: "IDE for SQL"
-date: 2014-10-15 12:10:03
-modified: 2025-04-18 06:41:37
+created: 2014-10-15 12:10:03
+date: 2025-04-18 06:41:37
 authors:
   - bendu
 label: ide-for-sql

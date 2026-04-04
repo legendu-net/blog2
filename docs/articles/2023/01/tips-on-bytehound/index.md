@@ -1,7 +1,7 @@
 ---
 title: "Tips on Bytehound"
-date: 2023-01-08 21:33:57
-modified: 2023-06-24 16:47:16
+created: 2023-01-08 21:33:57
+date: 2023-06-24 16:47:16
 authors:
   - bendu
 label: tips-on-bytehound

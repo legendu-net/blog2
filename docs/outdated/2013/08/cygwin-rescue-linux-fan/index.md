@@ -1,7 +1,7 @@
 ---
 title: "Cygwin Come to Rescue Linux Fans on Windows"
-date: 2013-08-19 10:37:20
-modified: 2017-03-19 10:37:20
+created: 2013-08-19 10:37:20
+date: 2017-03-19 10:37:20
 authors:
   - bendu
 label: cygwin-rescue-linux-fan

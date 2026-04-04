@@ -1,7 +1,7 @@
 ---
 title: "Traveling Without Hassle"
-date: 2017-01-22 13:31:43
-modified: 2025-10-27 08:06:49
+created: 2017-01-22 13:31:43
+date: 2025-10-27 08:06:49
 authors:
   - bendu
 label: traveling-tips

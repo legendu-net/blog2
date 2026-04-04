@@ -1,7 +1,7 @@
 ---
 title: "Tuple in SAS"
+created: 2015-05-26 02:34:45
 date: 2015-05-26 02:34:45
-modified: 2015-05-26 02:34:45
 authors:
   - bendu
 label: tuple-in-sas

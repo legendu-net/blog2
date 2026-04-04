@@ -1,7 +1,7 @@
 ---
 title: "Stick Breaking Problems"
-date: 2014-07-16 19:47:59
-modified: 2014-12-16 19:47:59
+created: 2014-07-16 19:47:59
+date: 2014-12-16 19:47:59
 authors:
   - bendu
 label: stick-breaking-problems

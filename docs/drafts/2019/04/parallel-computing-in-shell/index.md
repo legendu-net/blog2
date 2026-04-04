@@ -1,7 +1,7 @@
 ---
 title: "Parallel Computing in Shell"
+created: 2019-04-28 11:46:10
 date: 2019-04-28 11:46:10
-modified: 2019-04-28 11:46:10
 authors:
   - bendu
 label: parallel-computing-in-shell

@@ -1,7 +1,7 @@
 ---
 title: "Volatile CTE and Subqueries in SQL"
-date: 2016-10-25 18:45:40
-modified: 2020-10-25 18:45:40
+created: 2016-10-25 18:45:40
+date: 2020-10-25 18:45:40
 authors:
   - bendu
 label: volatile-cte-and-subqueries-in-sql

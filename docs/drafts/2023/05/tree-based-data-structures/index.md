@@ -1,7 +1,7 @@
 ---
 title: "Tree-Based Data Structures"
-date: 2023-05-20 11:57:13
-modified: 2023-06-10 18:03:30
+created: 2023-05-20 11:57:13
+date: 2023-06-10 18:03:30
 authors:
   - bendu
 label: tree-based-data-structures

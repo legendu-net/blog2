@@ -1,7 +1,7 @@
 ---
 title: "Visualization Using Plotly"
-date: 2017-03-22 14:54:50
-modified: 2020-05-22 14:54:50
+created: 2017-03-22 14:54:50
+date: 2020-05-22 14:54:50
 authors:
   - bendu
 label: plotly-tips

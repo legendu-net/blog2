@@ -1,7 +1,7 @@
 ---
 title: "Understand Terms of Service Quickly"
+created: 2022-05-21 22:05:34
 date: 2022-05-21 22:05:34
-modified: 2022-05-21 22:05:34
 authors:
   - bendu
 label: understand-terms-of-service-quickly

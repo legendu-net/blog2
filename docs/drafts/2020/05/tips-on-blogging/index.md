@@ -1,7 +1,7 @@
 ---
 title: Tips on Blogging
+created: 2020-05-25 21:08:30
 date: 2020-05-25 21:08:30
-modified: 2020-05-25 21:08:30
 authors:
   - bendu
 label: tips-on-blogging

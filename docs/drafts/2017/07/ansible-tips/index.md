@@ -1,7 +1,7 @@
 ---
 title: "Cluster Management Made Easy with Ansible"
-date: 2017-07-29 22:26:41
-modified: 2020-02-29 22:26:41
+created: 2017-07-29 22:26:41
+date: 2020-02-29 22:26:41
 authors:
   - bendu
 label: ansible-tips

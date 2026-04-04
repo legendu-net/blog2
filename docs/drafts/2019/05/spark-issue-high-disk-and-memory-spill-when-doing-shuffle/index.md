@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: High Disk and Memory Spill When Doing Shuffle"
-date: 2019-05-24 15:08:21
-modified: 2021-03-24 15:08:21
+created: 2019-05-24 15:08:21
+date: 2021-03-24 15:08:21
 authors:
   - bendu
 label: spark-issue-high-disk-and-memory-spill-when-doing-shuffle

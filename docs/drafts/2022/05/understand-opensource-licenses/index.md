@@ -1,7 +1,7 @@
 ---
 title: "Understand Opensource Licenses"
-date: 2022-05-21 10:10:33
-modified: 2022-05-21 18:44:35
+created: 2022-05-21 10:10:33
+date: 2022-05-21 18:44:35
 authors:
   - bendu
 label: understand-opensource-licenses

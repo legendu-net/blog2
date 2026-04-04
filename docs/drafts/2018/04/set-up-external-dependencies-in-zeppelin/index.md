@@ -1,7 +1,7 @@
 ---
 title: "Set Up External Dependencies in Zeppelin"
+created: 2018-04-30 16:20:46
 date: 2018-04-30 16:20:46
-modified: 2018-04-30 16:20:46
 authors:
   - bendu
 label: set-up-external-dependencies-in-zeppelin

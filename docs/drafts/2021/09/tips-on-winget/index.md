@@ -1,7 +1,7 @@
 ---
 title: "Tips on winget"
-date: 2021-09-05 13:00:45
-modified: 2021-09-06 14:08:09
+created: 2021-09-05 13:00:45
+date: 2021-09-06 14:08:09
 authors:
   - bendu
 label: tips-on-winget

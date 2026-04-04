@@ -1,7 +1,7 @@
 ---
 title: "Python for Desktop Applications"
-date: 2019-10-13 23:40:08
-modified: 2021-04-13 23:40:08
+created: 2019-10-13 23:40:08
+date: 2021-04-13 23:40:08
 authors:
   - bendu
 label: python-for-desktop-applications

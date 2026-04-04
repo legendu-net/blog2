@@ -1,7 +1,7 @@
 ---
 title: "Benchmark a Rust App"
-date: 2021-10-26 22:38:20
-modified: 2023-11-12 10:03:04
+created: 2021-10-26 22:38:20
+date: 2023-11-12 10:03:04
 authors:
   - bendu
 label: benchmark-a-rust-app

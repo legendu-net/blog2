@@ -1,7 +1,7 @@
 ---
 title: "Common Issues in PyTorch"
-date: 2020-03-03 11:41:04
-modified: 2021-09-16 20:58:50
+created: 2020-03-03 11:41:04
+date: 2021-09-16 20:58:50
 authors:
   - bendu
 label: common-issues-in-pytorch

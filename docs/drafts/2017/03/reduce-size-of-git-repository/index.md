@@ -1,7 +1,7 @@
 ---
 title: "Reduce Size of Git Repository"
-date: 2017-03-23 07:43:12
-modified: 2023-05-13 17:32:32
+created: 2017-03-23 07:43:12
+date: 2023-05-13 17:32:32
 authors:
   - bendu
 label: reduce-size-of-git-repository

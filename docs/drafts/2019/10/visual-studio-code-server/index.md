@@ -1,7 +1,7 @@
 ---
 title: "Visual Studio Code Server"
-date: 2019-10-24 11:28:44
-modified: 2022-03-12 17:54:05
+created: 2019-10-24 11:28:44
+date: 2022-03-12 17:54:05
 authors:
   - bendu
 label: visual-studio-code-server

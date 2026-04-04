@@ -1,7 +1,7 @@
 ---
 title: "Use nbdime to Diff and Merge JupyterLab Notebooks"
-date: 2020-05-26 23:50:45
-modified: 2021-04-26 23:50:45
+created: 2020-05-26 23:50:45
+date: 2021-04-26 23:50:45
 authors:
   - bendu
 label: use-nbdime-to-diff-and-merge-jupyterlab-notebooks

@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: IllegalArgumentException: System Memory Must Be At Least"
-date: 2021-12-05 13:02:47
-modified: 2021-12-05 13:08:35
+created: 2021-12-05 13:02:47
+date: 2021-12-05 13:08:35
 authors:
   - bendu
 label: spark-issue:-IllegalArgumentException:-System-memory-must-be-at-least

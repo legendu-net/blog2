@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: Task Not Serializable"
-date: 2019-05-22 10:11:48
-modified: 2021-03-22 10:11:48
+created: 2019-05-22 10:11:48
+date: 2021-03-22 10:11:48
 authors:
   - bendu
 label: spark-issue-task-not-serializable

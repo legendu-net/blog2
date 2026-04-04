@@ -1,7 +1,7 @@
 ---
 title: "Visual Studio Code for Java Development"
-date: 2019-05-10 23:23:59
-modified: 2021-03-10 23:23:59
+created: 2019-05-10 23:23:59
+date: 2021-03-10 23:23:59
 authors:
   - bendu
 label: vscode-for-jvm-languages

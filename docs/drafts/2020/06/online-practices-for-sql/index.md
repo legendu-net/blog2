@@ -1,7 +1,7 @@
 ---
 title: "Online Practices for SQL"
+created: 2020-06-06 20:32:23
 date: 2020-06-06 20:32:23
-modified: 2020-06-06 20:32:23
 authors:
   - bendu
 label: online-practices-for-sql

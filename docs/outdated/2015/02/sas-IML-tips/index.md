@@ -1,7 +1,7 @@
 ---
 title: "SAS IML Tips"
-date: 2015-02-17 18:24:11
-modified: 2015-05-17 18:24:11
+created: 2015-02-17 18:24:11
+date: 2015-05-17 18:24:11
 authors:
   - bendu
 label: sas-IML-tips

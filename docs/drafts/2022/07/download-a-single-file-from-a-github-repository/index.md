@@ -1,7 +1,7 @@
 ---
 title: "Download a Single File from a GitHub Repository"
-date: 2022-07-21 15:34:07
-modified: 2022-07-26 16:49:09
+created: 2022-07-21 15:34:07
+date: 2022-07-26 16:49:09
 authors:
   - bendu
 label: download-a-single-file-from-a-github-repository

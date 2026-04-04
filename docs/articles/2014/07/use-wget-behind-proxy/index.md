@@ -1,7 +1,7 @@
 ---
 title: "Use wget with Proxy"
-date: 2014-07-06 14:31:55
-modified: 2020-04-06 14:31:55
+created: 2014-07-06 14:31:55
+date: 2020-04-06 14:31:55
 authors:
   - bendu
 label: use-wget-behind-proxy

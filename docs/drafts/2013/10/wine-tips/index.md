@@ -1,7 +1,7 @@
 ---
 title: "Windows Emulation Using WINE"
-date: 2013-10-22 15:21:44
-modified: 2021-09-26 10:20:16
+created: 2013-10-22 15:21:44
+date: 2021-09-26 10:20:16
 authors:
   - bendu
 label: wine-tips

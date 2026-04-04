@@ -1,7 +1,7 @@
 ---
 title: "Use Kotlin in a Scala Project"
+created: 2019-11-27 09:25:16
 date: 2019-11-27 09:25:16
-modified: 2019-11-27 09:25:16
 authors:
   - bendu
 label: use-kotlin-in-a-scala-project

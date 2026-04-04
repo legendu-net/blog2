@@ -1,7 +1,7 @@
 ---
 title: "stringi Tips"
-date: 2017-06-06 08:03:00
-modified: 2017-09-06 08:03:00
+created: 2017-06-06 08:03:00
+date: 2017-09-06 08:03:00
 authors:
   - bendu
 label: stringi-tips

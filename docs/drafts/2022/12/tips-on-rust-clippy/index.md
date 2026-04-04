@@ -1,7 +1,7 @@
 ---
 title: "Tips on Rust Clippy"
-date: 2022-12-28 18:23:37
-modified: 2023-07-05 18:00:16
+created: 2022-12-28 18:23:37
+date: 2023-07-05 18:00:16
 authors:
   - bendu
 label: tips-on-rust-clippy

@@ -1,7 +1,7 @@
 ---
 title: "Calling Rust from Python"
-date: 2019-12-28 11:37:35
-modified: 2022-06-24 15:39:56
+created: 2019-12-28 11:37:35
+date: 2022-06-24 15:39:56
 authors:
   - bendu
 label: calling-rust-from-python

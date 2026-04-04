@@ -1,7 +1,7 @@
 ---
 title: Navigate Chrome Browser Like a Pro Using Vimium
-date: 2014-12-18 15:05:35
-modified: 2025-05-28 16:01:14
+created: 2014-12-18 15:05:35
+date: 2025-05-28 16:01:14
 authors:
   - bendu
 label: vimium-tips

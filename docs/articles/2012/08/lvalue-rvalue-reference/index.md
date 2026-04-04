@@ -1,7 +1,7 @@
 ---
 title: "Lvalue Reference and Rvalue Reference"
-date: 2012-08-15 02:17:12
-modified: 2015-01-15 02:17:12
+created: 2012-08-15 02:17:12
+date: 2015-01-15 02:17:12
 authors:
   - bendu
 label: lvalue-rvalue-reference

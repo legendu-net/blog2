@@ -1,7 +1,7 @@
 ---
 title: "Tips on NeoVim"
-date: 2022-10-16 19:54:05
-modified: 2025-05-31 20:28:01
+created: 2022-10-16 19:54:05
+date: 2025-05-31 20:28:01
 authors:
   - bendu
 label: tips-on-neovim

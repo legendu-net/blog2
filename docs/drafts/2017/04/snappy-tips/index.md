@@ -1,7 +1,7 @@
 ---
 title: "Snappy Apps"
-date: 2017-04-22 14:56:44
-modified: 2020-05-22 14:56:44
+created: 2017-04-22 14:56:44
+date: 2020-05-22 14:56:44
 authors:
   - bendu
 label: snappy-tips

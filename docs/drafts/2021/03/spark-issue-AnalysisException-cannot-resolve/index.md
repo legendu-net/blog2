@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: AnalysisException: Cannot Resolve"
+created: 2021-03-24 15:03:48
 date: 2021-03-24 15:03:48
-modified: 2021-03-24 15:03:48
 authors:
   - bendu
 label: spark-issue-AnalysisException-cannot-resolve

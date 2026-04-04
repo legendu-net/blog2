@@ -1,7 +1,7 @@
 ---
 title: "MATLAB for Visualization"
-date: 2012-12-03 10:08:36
-modified: 2015-03-03 10:08:36
+created: 2012-12-03 10:08:36
+date: 2015-03-03 10:08:36
 authors:
   - bendu
 label: graphics-in-MATLAB

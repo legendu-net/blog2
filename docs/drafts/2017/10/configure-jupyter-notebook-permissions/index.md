@@ -1,7 +1,7 @@
 ---
 title: "Configure Jupyte Notebook Permissions"
-date: 2017-10-12 15:07:59
-modified: 2017-11-12 15:07:59
+created: 2017-10-12 15:07:59
+date: 2017-11-12 15:07:59
 authors:
   - bendu
 label: configure-jupyter-notebook-permissions

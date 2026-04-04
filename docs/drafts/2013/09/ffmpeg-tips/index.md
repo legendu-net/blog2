@@ -1,7 +1,7 @@
 ---
 title: "Tips on FFmpeg"
-date: 2013-09-06 15:19:20
-modified: 2020-04-06 15:19:20
+created: 2013-09-06 15:19:20
+date: 2020-04-06 15:19:20
 authors:
   - bendu
 label: ffmpeg-tips

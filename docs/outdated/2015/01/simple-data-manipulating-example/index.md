@@ -1,7 +1,7 @@
 ---
 title: "Simple Data Manipulating Example in SAS"
-date: 2015-01-22 13:33:00
-modified: 2020-05-22 13:33:00
+created: 2015-01-22 13:33:00
+date: 2020-05-22 13:33:00
 authors:
   - bendu
 label: simple-data-manipulating-example

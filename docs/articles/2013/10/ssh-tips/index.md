@@ -1,7 +1,7 @@
 ---
 title: "Operate Remote Servers Using SSH"
-date: 2013-10-22 11:03:15
-modified: 2023-07-13 00:51:20
+created: 2013-10-22 11:03:15
+date: 2023-07-13 00:51:20
 authors:
   - bendu
 label: ssh-tips

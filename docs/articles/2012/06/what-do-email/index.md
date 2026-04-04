@@ -1,7 +1,7 @@
 ---
 title: "会自动收发邮件后你可以做什么？"
+created: 2012-06-13 00:00:00
 date: 2012-06-13 00:00:00
-modified: 2012-06-13 00:00:00
 authors:
   - bendu
 label: what-do-email

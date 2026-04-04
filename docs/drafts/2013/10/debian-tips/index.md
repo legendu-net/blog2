@@ -1,7 +1,7 @@
 ---
 title: "Tips on Debian"
-date: 2013-10-29 17:08:42
-modified: 2022-05-04 11:46:15
+created: 2013-10-29 17:08:42
+date: 2022-05-04 11:46:15
 authors:
   - bendu
 label: debian-tips

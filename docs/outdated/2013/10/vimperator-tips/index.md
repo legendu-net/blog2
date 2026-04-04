@@ -1,7 +1,7 @@
 ---
 title: "Tips on Vimperator"
-date: 2013-10-22 14:55:48
-modified: 2020-05-22 14:55:48
+created: 2013-10-22 14:55:48
+date: 2020-05-22 14:55:48
 authors:
   - bendu
 label: vimperator-tips

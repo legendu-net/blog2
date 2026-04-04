@@ -1,7 +1,7 @@
 ---
 title: "Sharing Data in SAS"
+created: 2015-05-17 17:09:52
 date: 2015-05-17 17:09:52
-modified: 2015-05-17 17:09:52
 authors:
   - bendu
 label: sharing-data-in-sas

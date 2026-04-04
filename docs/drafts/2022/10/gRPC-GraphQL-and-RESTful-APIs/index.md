@@ -1,7 +1,7 @@
 ---
 title: "gRPC GraphQL and RESTful APIs"
-date: 2022-10-09 00:34:09
-modified: 2023-06-09 23:40:58
+created: 2022-10-09 00:34:09
+date: 2023-06-09 23:40:58
 authors:
   - bendu
 label: gRPC-GraphQL-and-RESTful-APIs

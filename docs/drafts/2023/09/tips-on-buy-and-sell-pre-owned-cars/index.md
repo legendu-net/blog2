@@ -1,7 +1,7 @@
 ---
 title: "Tips on Buy and Sell Pre-owned Cars"
-date: 2023-09-05 07:39:07
-modified: 2023-09-13 22:40:19
+created: 2023-09-05 07:39:07
+date: 2023-09-13 22:40:19
 authors:
   - bendu
 label: tips-on-buy-and-sell-pre-owned-cars

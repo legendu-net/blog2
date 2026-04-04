@@ -1,7 +1,7 @@
 ---
 title: "Taxes on Investment Gains"
-date: 2023-12-14 09:48:44
-modified: 2024-04-02 01:54:25
+created: 2023-12-14 09:48:44
+date: 2024-04-02 01:54:25
 authors:
   - bendu
 label: taxes-on-investment-gains

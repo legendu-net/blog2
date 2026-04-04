@@ -1,7 +1,7 @@
 ---
 title: "Record Computer Screen using RecordMyDesktop"
-date: 2015-02-22 13:45:17
-modified: 2020-05-22 13:45:17
+created: 2015-02-22 13:45:17
+date: 2020-05-22 13:45:17
 authors:
   - bendu
 label: recordmydesktop-tips

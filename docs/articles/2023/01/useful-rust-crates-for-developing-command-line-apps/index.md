@@ -1,7 +1,7 @@
 ---
 title: "Useful Rust Crates for Developing Command Line Apps"
-date: 2023-01-13 16:14:03
-modified: 2023-07-23 11:27:13
+created: 2023-01-13 16:14:03
+date: 2023-07-23 11:27:13
 authors:
   - bendu
 label: useful-rust-crates-for-developing-command-line-apps

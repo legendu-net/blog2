@@ -1,7 +1,7 @@
 ---
 title: "Python Virtual Environment"
-date: 2019-01-14 11:04:58
-modified: 2019-12-14 11:04:58
+created: 2019-01-14 11:04:58
+date: 2019-12-14 11:04:58
 authors:
   - bendu
 label: python-virtual-environment

@@ -1,7 +1,7 @@
 ---
 title: "Quick Ways to Create a Questionnaire"
+created: 2019-08-17 23:20:22
 date: 2019-08-17 23:20:22
-modified: 2019-08-17 23:20:22
 authors:
   - bendu
 label: quick-ways-to-create-a-questionnaire

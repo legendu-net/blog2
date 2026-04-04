@@ -1,7 +1,7 @@
 ---
 title: "Python for IOT"
+created: 2021-04-09 09:49:34
 date: 2021-04-09 09:49:34
-modified: 2021-04-09 09:49:34
 authors:
   - bendu
 label: python-for-iot

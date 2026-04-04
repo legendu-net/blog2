@@ -1,7 +1,7 @@
 ---
 title: "Install the Latest Version of Software on Ubuntu"
+created: 2022-07-07 22:11:57
 date: 2022-07-07 22:11:57
-modified: 2022-07-07 22:11:57
 authors:
   - bendu
 label: install-the-latest-version-of-software-on-ubuntu

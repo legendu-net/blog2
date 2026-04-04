@@ -1,7 +1,7 @@
 ---
 title: "Tips on Verizon"
-date: 2025-09-23 16:10:42
-modified: 2025-12-19 19:22:21
+created: 2025-09-23 16:10:42
+date: 2025-12-19 19:22:21
 authors:
   - bendu
 label: tips-on-verizon

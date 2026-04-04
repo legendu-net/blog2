@@ -1,7 +1,7 @@
 ---
 title: "Shopping on Costco"
+created: 2020-05-30 13:20:46
 date: 2020-05-30 13:20:46
-modified: 2020-05-30 13:20:46
 authors:
   - bendu
 label: shopping-on-costco

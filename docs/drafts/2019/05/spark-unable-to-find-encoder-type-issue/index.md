@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: Unable to Find Encoder Type"
-date: 2019-05-21 12:14:37
-modified: 2021-03-21 12:14:37
+created: 2019-05-21 12:14:37
+date: 2021-03-21 12:14:37
 authors:
   - bendu
 label: spark-unable-to-find-encoder-type-issue

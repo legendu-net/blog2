@@ -1,7 +1,7 @@
 ---
 title: "Tips on Xonsh"
-date: 2019-06-15 20:52:22
-modified: 2019-10-15 20:52:22
+created: 2019-06-15 20:52:22
+date: 2019-10-15 20:52:22
 authors:
   - bendu
 label: tips-on-xonsh

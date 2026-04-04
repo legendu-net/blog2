@@ -1,7 +1,7 @@
 ---
 title: "Diversified Investment"
-date: 2024-01-23 01:02:26
-modified: 2024-02-11 10:32:23
+created: 2024-01-23 01:02:26
+date: 2024-02-11 10:32:23
 authors:
   - bendu
 label: diversified-investment

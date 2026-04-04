@@ -1,7 +1,7 @@
 ---
 title: "Tips on Arch Linux"
-date: 2016-05-29 17:09:02
-modified: 2020-02-29 17:09:02
+created: 2016-05-29 17:09:02
+date: 2020-02-29 17:09:02
 authors:
   - bendu
 label: arch-linux-tips

@@ -1,7 +1,7 @@
 ---
 title: "Terminal Multiplexers"
-date: 2021-09-04 09:56:21
-modified: 2021-12-02 10:12:41
+created: 2021-09-04 09:56:21
+date: 2021-12-02 10:12:41
 authors:
   - bendu
 label: terminal-multiplexers

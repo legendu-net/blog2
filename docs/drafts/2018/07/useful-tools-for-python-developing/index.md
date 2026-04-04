@@ -1,7 +1,7 @@
 ---
 title: Useful Tools for Python Developing
-date: 2018-07-08 10:46:18
-modified: 2025-06-12 02:36:06
+created: 2018-07-08 10:46:18
+date: 2025-06-12 02:36:06
 authors:
   - bendu
 label: useful-tools-for-python-developing

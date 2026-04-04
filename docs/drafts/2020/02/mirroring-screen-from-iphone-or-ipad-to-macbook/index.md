@@ -1,7 +1,7 @@
 ---
 title: "Mirroring Screen from iPhone or iPad to Macbook"
+created: 2020-02-10 10:10:05
 date: 2020-02-10 10:10:05
-modified: 2020-02-10 10:10:05
 authors:
   - bendu
 label: mirroring-screen-from-iphone-or-ipad-to-macbook

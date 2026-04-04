@@ -1,7 +1,7 @@
 ---
 title: "Tips on Security"
-date: 2020-10-15 18:30:00
-modified: 2022-07-14 22:40:20
+created: 2020-10-15 18:30:00
+date: 2022-07-14 22:40:20
 authors:
   - bendu
 label: tips-on-security

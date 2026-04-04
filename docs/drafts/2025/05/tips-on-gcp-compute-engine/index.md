@@ -1,7 +1,7 @@
 ---
 title: "Tips on GCP Compute Engine"
+created: 2025-05-08 15:54:11
 date: 2025-05-08 15:54:11
-modified: 2025-05-08 15:54:11
 authors:
   - bendu
 label: tips-on-gcp-compute-engine

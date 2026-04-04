@@ -1,7 +1,7 @@
 ---
 title: "Build Spark from Source"
+created: 2020-02-20 16:25:13
 date: 2020-02-20 16:25:13
-modified: 2020-02-20 16:25:13
 authors:
   - bendu
 label: build-spark-from-source

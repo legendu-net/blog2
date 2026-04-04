@@ -1,7 +1,7 @@
 ---
 title: "Editing Text in Browser Using Vim"
+created: 2025-05-30 07:50:43
 date: 2025-05-30 07:50:43
-modified: 2025-05-30 07:50:43
 authors:
   - bendu
 label: editing-text-in-browser-using-vim

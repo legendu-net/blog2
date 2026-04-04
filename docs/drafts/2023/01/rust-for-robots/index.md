@@ -1,7 +1,7 @@
 ---
 title: "Rust for Robots"
-date: 2023-01-17 10:46:23
-modified: 2023-07-16 18:54:35
+created: 2023-01-17 10:46:23
+date: 2023-07-16 18:54:35
 authors:
   - bendu
 label: rust-for-robots

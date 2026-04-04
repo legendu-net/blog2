@@ -1,7 +1,7 @@
 ---
 title: "Writing Docs Using Markdown"
-date: 2012-07-22 09:25:23
-modified: 2023-08-05 10:50:59
+created: 2012-07-22 09:25:23
+date: 2023-08-05 10:50:59
 authors:
   - bendu
 label: markdown-tips

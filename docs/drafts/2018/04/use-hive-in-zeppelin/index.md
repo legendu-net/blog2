@@ -1,7 +1,7 @@
 ---
 title: "Use Hive in Zeppelin"
+created: 2018-04-30 16:29:11
 date: 2018-04-30 16:29:11
-modified: 2018-04-30 16:29:11
 authors:
   - bendu
 label: use-hive-in-zeppelin

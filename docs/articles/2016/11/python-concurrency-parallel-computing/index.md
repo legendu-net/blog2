@@ -1,7 +1,7 @@
 ---
 title: "Concurrency and Parallel Computing in Python"
-date: 2016-11-16 12:09:38
-modified: 2020-04-16 12:09:38
+created: 2016-11-16 12:09:38
+date: 2020-04-16 12:09:38
 authors:
   - bendu
 label: python-concurrency-parallel-computing

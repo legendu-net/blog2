@@ -1,7 +1,7 @@
 ---
 title: "Proximity Locking on Rivian"
-date: 2025-08-10 09:45:27
-modified: 2025-08-19 09:01:49
+created: 2025-08-10 09:45:27
+date: 2025-08-19 09:01:49
 authors:
   - bendu
 label: proximity-locking-on-Rivian

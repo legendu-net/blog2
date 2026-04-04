@@ -1,7 +1,7 @@
 ---
 title: "Statistics"
-date: 2013-10-13 22:40:14
-modified: 2016-07-13 22:40:14
+created: 2013-10-13 22:40:14
+date: 2016-07-13 22:40:14
 authors:
   - bendu
 label: statistics-tips

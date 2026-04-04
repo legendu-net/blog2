@@ -1,7 +1,7 @@
 ---
 title: "Tips on Visual Studio Code"
-date: 2019-05-24 11:28:44
-modified: 2021-04-24 11:28:44
+created: 2019-05-24 11:28:44
+date: 2021-04-24 11:28:44
 authors:
   - bendu
 label: vscode-tips

@@ -1,7 +1,7 @@
 ---
 title: "Macro in SAS"
-date: 2009-11-28 16:43:05
-modified: 2015-08-28 16:43:05
+created: 2009-11-28 16:43:05
+date: 2015-08-28 16:43:05
 authors:
   - bendu
 label: macro-in-sas

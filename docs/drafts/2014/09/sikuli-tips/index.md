@@ -1,7 +1,7 @@
 ---
 title: "Use SikuliX to Automate Anything"
-date: 2014-09-16 15:00:28
-modified: 2021-02-16 15:00:28
+created: 2014-09-16 15:00:28
+date: 2021-02-16 15:00:28
 authors:
   - bendu
 label: sikuli-tips

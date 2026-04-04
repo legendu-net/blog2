@@ -1,7 +1,7 @@
 ---
 title: "Make Date Show Time of a Specific Timezone in Linux"
-date: 2021-12-09 10:27:36
-modified: 2021-12-09 10:31:33
+created: 2021-12-09 10:27:36
+date: 2021-12-09 10:31:33
 authors:
   - bendu
 label: make-date-show-time-of-a-specific-timezone-in-linux

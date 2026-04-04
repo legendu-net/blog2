@@ -1,7 +1,7 @@
 ---
 title: "Could Not Build Wheels for Numpy Which Use Pep 517"
+created: 2022-06-06 13:26:43
 date: 2022-06-06 13:26:43
-modified: 2022-06-06 13:26:43
 authors:
   - bendu
 label: could-not-build-wheels-for-numpy-which-use-PEP-517

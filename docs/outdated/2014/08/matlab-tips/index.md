@@ -1,7 +1,7 @@
 ---
 title: "MATLAB Tips"
-date: 2014-08-24 10:43:54
-modified: 2019-12-24 10:43:54
+created: 2014-08-24 10:43:54
+date: 2019-12-24 10:43:54
 authors:
   - bendu
 label: matlab-tips

@@ -1,7 +1,7 @@
 ---
 title: "Visual Studio Code for Kotlin Development"
-date: 2020-07-10 13:07:08
-modified: 2021-03-10 13:07:08
+created: 2020-07-10 13:07:08
+date: 2021-03-10 13:07:08
 authors:
   - bendu
 label: Visual-Studio-Code-for-kotlin-development

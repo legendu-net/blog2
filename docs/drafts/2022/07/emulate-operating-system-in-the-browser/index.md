@@ -1,7 +1,7 @@
 ---
 title: "Emulate Operating System in the Browser"
+created: 2022-07-19 15:56:23
 date: 2022-07-19 15:56:23
-modified: 2022-07-19 15:56:23
 authors:
   - bendu
 label: emulate-operating-system-in-the-browser

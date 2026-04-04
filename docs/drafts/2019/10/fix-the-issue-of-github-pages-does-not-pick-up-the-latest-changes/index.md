@@ -1,7 +1,7 @@
 ---
 title: "Fix the Issue of GitHub Pages Does Not Pick Up the Latest Changes"
+created: 2019-10-17 21:59:48
 date: 2019-10-17 21:59:48
-modified: 2019-10-17 21:59:48
 authors:
   - bendu
 label: fix-the-issue-of-github-pages-does-not-pick-up-the-latest-changes

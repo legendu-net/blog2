@@ -1,7 +1,7 @@
 ---
 title: "Synchronize Files Using AeroFS"
-date: 2014-09-22 12:59:40
-modified: 2020-05-22 12:59:40
+created: 2014-09-22 12:59:40
+date: 2020-05-22 12:59:40
 authors:
   - bendu
 label: aerofs-tips

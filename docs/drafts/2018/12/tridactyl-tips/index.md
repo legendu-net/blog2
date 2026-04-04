@@ -1,7 +1,7 @@
 ---
 title: "Vim Keybindings in Firefox Using Tridactyl"
-date: 2018-12-22 15:32:49
-modified: 2025-05-30 08:23:35
+created: 2018-12-22 15:32:49
+date: 2025-05-30 08:23:35
 authors:
   - bendu
 label: tridactyl-tips

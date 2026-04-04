@@ -1,7 +1,7 @@
 ---
 title: "Tips on Git"
-date: 2013-10-30 11:09:57
-modified: 2023-07-30 21:07:28
+created: 2013-10-30 11:09:57
+date: 2023-07-30 21:07:28
 authors:
   - bendu
 label: git-tips

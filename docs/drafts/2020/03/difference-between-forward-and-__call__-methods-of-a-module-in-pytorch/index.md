@@ -1,7 +1,7 @@
 ---
 title: "Difference Between forward and __call__ Methods of a Module in PyTorch"
+created: 2020-03-05 16:05:30
 date: 2020-03-05 16:05:30
-modified: 2020-03-05 16:05:30
 authors:
   - bendu
 label: difference-between-forward-and-__call__-methods-of-a-module-in-pytorch

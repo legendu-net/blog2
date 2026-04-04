@@ -1,7 +1,7 @@
 ---
 title: "Hadoop Filesystem Tips"
-date: 2014-01-21 23:37:52
-modified: 2022-01-18 16:14:51
+created: 2014-01-21 23:37:52
+date: 2022-01-18 16:14:51
 authors:
   - bendu
 label: hadoop-fs-tips

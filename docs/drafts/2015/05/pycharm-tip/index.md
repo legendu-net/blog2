@@ -1,7 +1,7 @@
 ---
 title: "Python Developing in PyCharm"
-date: 2015-05-22 15:30:47
-modified: 2020-05-22 15:30:47
+created: 2015-05-22 15:30:47
+date: 2020-05-22 15:30:47
 authors:
   - bendu
 label: pycharm-tip

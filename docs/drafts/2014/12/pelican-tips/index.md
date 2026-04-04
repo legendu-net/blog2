@@ -1,7 +1,7 @@
 ---
 title: "Generate Static Site Using Pelican"
-date: 2014-12-22 12:31:45
-modified: 2020-11-22 12:31:45
+created: 2014-12-22 12:31:45
+date: 2020-11-22 12:31:45
 authors:
   - bendu
 label: pelican-tips

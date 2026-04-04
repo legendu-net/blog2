@@ -1,7 +1,7 @@
 ---
 title: "Tips on Fidelity"
-date: 2024-01-16 07:37:45
-modified: 2024-01-22 23:28:37
+created: 2024-01-16 07:37:45
+date: 2024-01-22 23:28:37
 authors:
   - bendu
 label: tips-on-fidelity

@@ -1,7 +1,7 @@
 ---
 title: "Generating Random Numbers in SAS"
-date: 2015-03-10 22:05:12
-modified: 2015-05-10 22:05:12
+created: 2015-03-10 22:05:12
+date: 2015-05-10 22:05:12
 authors:
   - bendu
 label: generating-random-numbers-in-sas

@@ -1,7 +1,7 @@
 ---
 title: "Tips on MS SQL Server"
-date: 2015-06-22 14:05:53
-modified: 2020-05-22 14:05:53
+created: 2015-06-22 14:05:53
+date: 2020-05-22 14:05:53
 authors:
   - bendu
 label: ms-sql-server-tips

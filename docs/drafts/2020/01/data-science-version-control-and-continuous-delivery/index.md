@@ -1,7 +1,7 @@
 ---
 title: "Data Science Version Control and Continuous Delivery"
-date: 2020-01-07 08:52:52
-modified: 2020-10-07 08:52:52
+created: 2020-01-07 08:52:52
+date: 2020-10-07 08:52:52
 authors:
   - bendu
 label: data-science-version-control-and-continuous-delivery

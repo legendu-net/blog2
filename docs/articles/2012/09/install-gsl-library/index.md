@@ -1,7 +1,7 @@
 ---
 title: "Install the GSL Library"
-date: 2012-09-19 13:41:31
-modified: 2015-02-19 13:41:31
+created: 2012-09-19 13:41:31
+date: 2015-02-19 13:41:31
 authors:
   - bendu
 label: install-gsl-library

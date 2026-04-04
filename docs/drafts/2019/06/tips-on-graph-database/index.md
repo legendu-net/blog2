@@ -1,7 +1,7 @@
 ---
 title: "Tips on Graph Database"
+created: 2019-06-27 18:25:17
 date: 2019-06-27 18:25:17
-modified: 2019-06-27 18:25:17
 authors:
   - bendu
 label: tips-on-graph-database

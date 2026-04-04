@@ -1,7 +1,7 @@
 ---
 title: "Tips on Conda"
-date: 2018-04-22 09:36:27
-modified: 2022-07-13 17:25:10
+created: 2018-04-22 09:36:27
+date: 2022-07-13 17:25:10
 authors:
   - bendu
 label: conda-tips

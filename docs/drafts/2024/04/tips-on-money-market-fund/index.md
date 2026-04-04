@@ -1,7 +1,7 @@
 ---
 title: "Tips on Money Market Fund"
+created: 2024-04-25 15:22:56
 date: 2024-04-25 15:22:56
-modified: 2024-04-25 15:22:56
 authors:
   - bendu
 label: tips-on-money-market-fund

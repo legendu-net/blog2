@@ -1,7 +1,7 @@
 ---
 title: "The Bert Model in NLP"
-date: 2020-01-05 16:28:22
-modified: 2020-02-05 16:28:22
+created: 2020-01-05 16:28:22
+date: 2020-02-05 16:28:22
 authors:
   - bendu
 label: the-bert-model-in-nlp

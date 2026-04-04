@@ -1,7 +1,7 @@
 ---
 title: "Mind Map Links"
-date: 2015-03-03 08:06:28
-modified: 2020-05-03 08:06:28
+created: 2015-03-03 08:06:28
+date: 2020-05-03 08:06:28
 authors:
   - bendu
 label: mind-map-links

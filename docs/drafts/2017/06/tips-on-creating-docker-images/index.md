@@ -1,7 +1,7 @@
 ---
 title: "Tips on Creating Docker Images"
-date: 2017-06-29 21:22:04
-modified: 2021-10-01 12:37:49
+created: 2017-06-29 21:22:04
+date: 2021-10-01 12:37:49
 authors:
   - bendu
 label: tips-on-creating-docker-images

@@ -1,7 +1,7 @@
 ---
 title: "Summary of Collections in Rust"
-date: 2021-11-20 22:36:35
-modified: 2024-09-13 10:45:01
+created: 2021-11-20 22:36:35
+date: 2024-09-13 10:45:01
 authors:
   - bendu
 label: summary-of-collections-in-rust

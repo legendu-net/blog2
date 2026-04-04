@@ -1,7 +1,7 @@
 ---
 title: "Tips on AstroNvim"
-date: 2025-04-28 10:55:17
-modified: 2026-01-10 15:37:50
+created: 2025-04-28 10:55:17
+date: 2026-01-10 15:37:50
 authors:
   - bendu
 label: tips-on-astronvim

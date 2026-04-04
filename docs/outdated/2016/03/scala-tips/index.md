@@ -1,7 +1,7 @@
 ---
 title: "Tips on Scala"
-date: 2016-03-24 19:09:23
-modified: 2020-03-24 19:09:23
+created: 2016-03-24 19:09:23
+date: 2020-03-24 19:09:23
 authors:
   - bendu
 label: scala-tips

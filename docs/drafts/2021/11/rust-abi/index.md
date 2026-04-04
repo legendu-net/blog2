@@ -1,7 +1,7 @@
 ---
 title: "Rust ABI"
-date: 2021-11-25 22:09:36
-modified: 2021-11-27 19:22:02
+created: 2021-11-25 22:09:36
+date: 2021-11-27 19:22:02
 authors:
   - bendu
 label: rust-abi

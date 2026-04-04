@@ -1,7 +1,7 @@
 ---
 title: "Comparison of Popular Cloud Platforms"
-date: 2023-07-01 18:00:09
-modified: 2023-07-01 18:06:49
+created: 2023-07-01 18:00:09
+date: 2023-07-01 18:06:49
 authors:
   - bendu
 label: comparison-of-popular-cloud-platforms

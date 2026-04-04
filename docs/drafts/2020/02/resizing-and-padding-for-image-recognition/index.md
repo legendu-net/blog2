@@ -1,7 +1,7 @@
 ---
 title: "Resizing and Padding for Image Recognition"
+created: 2020-02-25 14:11:09
 date: 2020-02-25 14:11:09
-modified: 2020-02-25 14:11:09
 authors:
   - bendu
 label: resizing-and-padding-for-image-recognition

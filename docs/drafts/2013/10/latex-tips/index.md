@@ -1,7 +1,7 @@
 ---
 title: "Tips on LaTeX"
-date: 2013-10-22 14:35:51
-modified: 2020-05-22 14:35:51
+created: 2013-10-22 14:35:51
+date: 2020-05-22 14:35:51
 authors:
   - bendu
 label: latex-tips

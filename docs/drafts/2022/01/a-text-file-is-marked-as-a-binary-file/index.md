@@ -1,7 +1,7 @@
 ---
 title: "A Text File Is Marked as a Binary File"
+created: 2022-01-16 21:41:26
 date: 2022-01-16 21:41:26
-modified: 2022-01-16 21:41:26
 authors:
   - bendu
 label: a-text-file-is-marked-as-a-binary-file

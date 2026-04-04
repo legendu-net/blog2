@@ -1,7 +1,7 @@
 ---
 title: "Study Notes on Knowledge Graph"
-date: 2021-09-16 11:38:52
-modified: 2021-09-16 21:26:05
+created: 2021-09-16 11:38:52
+date: 2021-09-16 21:26:05
 authors:
   - bendu
 label: study-notes-on-knowledge-graph

@@ -1,7 +1,7 @@
 ---
 title: "Tips on Git Submodule"
-date: 2019-10-28 21:59:06
-modified: 2021-09-06 22:12:41
+created: 2019-10-28 21:59:06
+date: 2021-09-06 22:12:41
 authors:
   - bendu
 label: tips-on-git-submodule

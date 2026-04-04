@@ -1,7 +1,7 @@
 ---
 title: "Tips on rsync"
-date: 2016-11-18 18:54:19
-modified: 2023-07-13 23:43:44
+created: 2016-11-18 18:54:19
+date: 2023-07-13 23:43:44
 authors:
   - bendu
 label: rsync-tips

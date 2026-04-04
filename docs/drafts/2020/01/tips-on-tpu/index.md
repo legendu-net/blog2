@@ -1,7 +1,7 @@
 ---
 title: "Tips on TPU"
+created: 2020-01-01 11:01:05
 date: 2020-01-01 11:01:05
-modified: 2020-01-01 11:01:05
 authors:
   - bendu
 label: tips-on-tpu

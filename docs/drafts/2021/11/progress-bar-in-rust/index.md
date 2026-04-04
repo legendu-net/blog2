@@ -1,7 +1,7 @@
 ---
 title: "Progress Bar in Rust"
-date: 2021-11-06 22:01:30
-modified: 2023-03-03 17:52:54
+created: 2021-11-06 22:01:30
+date: 2023-03-03 17:52:54
 authors:
   - bendu
 label: progress-bar-in-rust

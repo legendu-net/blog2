@@ -1,7 +1,7 @@
 ---
 title: "Tips on ValeLang"
-date: 2022-07-11 17:06:06
-modified: 2022-07-11 22:24:18
+created: 2022-07-11 17:06:06
+date: 2022-07-11 22:24:18
 authors:
   - bendu
 label: tips-on-ValeLang

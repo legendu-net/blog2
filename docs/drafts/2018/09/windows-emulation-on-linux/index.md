@@ -1,7 +1,7 @@
 ---
 title: "Windows Emulation on Linux"
-date: 2018-09-15 15:07:31
-modified: 2025-12-28 08:59:02
+created: 2018-09-15 15:07:31
+date: 2025-12-28 08:59:02
 authors:
   - bendu
 label: windows-emulation-on-linux

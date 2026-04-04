@@ -1,7 +1,7 @@
 ---
 title: "General Tips on SQL"
-date: 2014-02-15 12:10:03
-modified: 2021-07-29 19:59:32
+created: 2014-02-15 12:10:03
+date: 2021-07-29 19:59:32
 authors:
   - bendu
 label: sql-tips

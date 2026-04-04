@@ -1,7 +1,7 @@
 ---
 title: "COSMIC Is a Rock Solid Desktop Environment for Linux"
-date: 2025-12-22 10:34:27
-modified: 2025-12-22 17:42:56
+created: 2025-12-22 10:34:27
+date: 2025-12-22 17:42:56
 authors:
   - bendu
 label: cosmic-is-a-rock-solid-desktop-environment-for-linux

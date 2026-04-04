@@ -1,7 +1,7 @@
 ---
 title: "Alternative to the rm Command in Linux"
-date: 2019-05-02 02:41:04
-modified: 2021-08-22 00:12:26
+created: 2019-05-02 02:41:04
+date: 2021-08-22 00:12:26
 authors:
   - bendu
 label: alternative-to-the-rm-command-in-linux

@@ -1,7 +1,7 @@
 ---
 title: "Scala Dependencies for SBT"
-date: 2017-05-22 12:38:10
-modified: 2017-10-22 12:38:10
+created: 2017-05-22 12:38:10
+date: 2017-10-22 12:38:10
 authors:
   - bendu
 label: sbt-dependencies

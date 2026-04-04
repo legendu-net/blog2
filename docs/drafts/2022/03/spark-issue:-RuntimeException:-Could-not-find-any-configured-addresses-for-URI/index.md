@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: RuntimeException: Could not find any configured addresses for URI"
-date: 2022-03-27 17:24:15
-modified: 2022-03-31 18:35:29
+created: 2022-03-27 17:24:15
+date: 2022-03-31 18:35:29
 authors:
   - bendu
 label: spark-issue:-RuntimeException:-Could-not-find-any-configured-addresses-for-URI

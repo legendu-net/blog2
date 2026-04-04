@@ -1,7 +1,7 @@
 ---
 title: Tips on WezTerm
-date: 2023-12-13 20:53:16
-modified: 2026-04-03 16:29:17.101782
+created: 2023-12-13 20:53:16
+date: 2026-04-03 16:29:17.101782
 authors:
 - bendu
 label: tips-on-wezterm

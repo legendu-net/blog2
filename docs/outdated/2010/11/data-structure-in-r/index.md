@@ -1,7 +1,7 @@
 ---
 title: "Data Structure in R"
-date: 2010-11-09 18:57:36
-modified: 2016-07-09 18:57:36
+created: 2010-11-09 18:57:36
+date: 2016-07-09 18:57:36
 authors:
   - bendu
 label: data-structure-in-r

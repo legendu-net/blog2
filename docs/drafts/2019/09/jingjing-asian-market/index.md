@@ -1,7 +1,7 @@
 ---
 title: "Jingjing Asian Market"
+created: 2019-09-17 09:11:39
 date: 2019-09-17 09:11:39
-modified: 2019-09-17 09:11:39
 authors:
   - bendu
 label: jingjing-asian-market

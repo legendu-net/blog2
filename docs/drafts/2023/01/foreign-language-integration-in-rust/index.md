@@ -1,7 +1,7 @@
 ---
 title: "Foreign Language Integration in Rust"
-date: 2023-01-13 16:20:03
-modified: 2023-05-15 22:31:28
+created: 2023-01-13 16:20:03
+date: 2023-05-15 22:31:28
 authors:
   - bendu
 label: foreign-language-integration-in-rust

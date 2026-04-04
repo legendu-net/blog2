@@ -1,7 +1,7 @@
 ---
 title: "Manipulate Bits in Rust"
-date: 2022-07-18 16:54:20
-modified: 2023-05-19 11:41:38
+created: 2022-07-18 16:54:20
+date: 2023-05-19 11:41:38
 authors:
   - bendu
 label: manipulate-bits-in-rust

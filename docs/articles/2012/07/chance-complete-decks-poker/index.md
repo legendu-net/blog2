@@ -1,7 +1,7 @@
 ---
 title: "Probability to Get a Complete Deck of Cards?"
-date: 2012-07-17 17:54:37
-modified: 2014-08-17 17:54:37
+created: 2012-07-17 17:54:37
+date: 2014-08-17 17:54:37
 authors:
   - bendu
 label: chance-complete-decks-poker

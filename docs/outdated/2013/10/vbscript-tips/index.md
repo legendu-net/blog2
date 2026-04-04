@@ -1,7 +1,7 @@
 ---
 title: "Tips About VBScript"
-date: 2013-10-13 21:49:35
-modified: 2016-07-13 21:49:35
+created: 2013-10-13 21:49:35
+date: 2016-07-13 21:49:35
 authors:
   - bendu
 label: vbscript-tips

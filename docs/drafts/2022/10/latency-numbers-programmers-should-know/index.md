@@ -1,7 +1,7 @@
 ---
 title: "Latency Numbers Programmers Should Know"
-date: 2022-10-08 16:59:59
-modified: 2022-10-09 17:57:17
+created: 2022-10-08 16:59:59
+date: 2022-10-09 17:57:17
 authors:
   - bendu
 label: latency-numbers-programmers-should-know

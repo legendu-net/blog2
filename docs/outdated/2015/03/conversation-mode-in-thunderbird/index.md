@@ -1,7 +1,7 @@
 ---
 title: "Conversation Mode in Thunderbird"
+created: 2015-03-10 20:19:01
 date: 2015-03-10 20:19:01
-modified: 2015-03-10 20:19:01
 authors:
   - bendu
 label: conversation-mode-in-thunderbird

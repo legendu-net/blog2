@@ -1,7 +1,7 @@
 ---
 title: "Use PyTorch on GPU"
-date: 2020-01-21 11:51:30
-modified: 2021-09-16 09:54:29
+created: 2020-01-21 11:51:30
+date: 2021-09-16 09:54:29
 authors:
   - bendu
 label: use-pytorch-on-gpu

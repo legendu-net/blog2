@@ -1,7 +1,7 @@
 ---
 title: "Tips on the Mojo Programming Language"
+created: 2023-05-21 19:20:50
 date: 2023-05-21 19:20:50
-modified: 2023-05-21 19:20:50
 authors:
   - bendu
 label: tips-on-the-mojo-programming-language

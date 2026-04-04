@@ -1,7 +1,7 @@
 ---
 title: "Const and Static Variables in C++"
-date: 2012-10-25 00:44:03
-modified: 2015-03-25 00:44:03
+created: 2012-10-25 00:44:03
+date: 2015-03-25 00:44:03
 authors:
   - bendu
 label: const-and-static-variables-in-cpp

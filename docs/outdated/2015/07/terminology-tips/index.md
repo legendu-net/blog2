@@ -1,7 +1,7 @@
 ---
 title: "Terminology is a Fancy Terminal Emulator"
-date: 2015-07-22 14:10:31
-modified: 2020-05-22 14:10:31
+created: 2015-07-22 14:10:31
+date: 2020-05-22 14:10:31
 authors:
   - bendu
 label: terminology-tips

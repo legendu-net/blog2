@@ -1,7 +1,7 @@
 ---
 title: "Tips on Furnace and Heat Pump"
-date: 2024-10-13 14:54:01
-modified: 2025-09-07 22:35:28
+created: 2024-10-13 14:54:01
+date: 2025-09-07 22:35:28
 authors:
   - bendu
 label: tips-on-furnace-and-heat-pump

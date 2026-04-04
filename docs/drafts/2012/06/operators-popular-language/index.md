@@ -1,7 +1,7 @@
 ---
 title: Operators in Different Programming Languages
-date: 2012-06-14 16:08:55
-modified: 2021-03-14 16:08:55
+created: 2012-06-14 16:08:55
+date: 2021-03-14 16:08:55
 authors:
   - bendu
 label: operators-popular-language

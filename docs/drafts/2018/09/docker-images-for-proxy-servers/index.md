@@ -1,7 +1,7 @@
 ---
 title: "Docker Images for Proxy Servers"
-date: 2018-09-21 23:37:16
-modified: 2019-06-21 23:37:16
+created: 2018-09-21 23:37:16
+date: 2019-06-21 23:37:16
 authors:
   - bendu
 label: docker-images-for-proxy-servers

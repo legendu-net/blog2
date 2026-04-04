@@ -1,7 +1,7 @@
 ---
 title: "Tips on Linux Mint"
-date: 2014-03-29 17:08:42
-modified: 2020-02-29 17:08:42
+created: 2014-03-29 17:08:42
+date: 2020-02-29 17:08:42
 authors:
   - bendu
 label: linux-mint-tips

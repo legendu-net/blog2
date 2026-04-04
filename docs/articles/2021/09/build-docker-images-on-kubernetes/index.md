@@ -1,7 +1,7 @@
 ---
 title: "Build Docker Images on Kubernetes"
-date: 2021-09-14 18:12:30
-modified: 2022-04-30 11:35:06
+created: 2021-09-14 18:12:30
+date: 2022-04-30 11:35:06
 authors:
   - bendu
 label: build-docker-images-on-kubernetes

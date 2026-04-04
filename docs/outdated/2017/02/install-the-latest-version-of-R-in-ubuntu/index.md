@@ -1,7 +1,7 @@
 ---
 title: "Install the Latest Version of R in Ubuntu"
+created: 2017-02-20 23:46:45
 date: 2017-02-20 23:46:45
-modified: 2017-02-20 23:46:45
 authors:
   - bendu
 label: install-the-latest-version-of-R-in-ubuntu

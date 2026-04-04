@@ -1,7 +1,7 @@
 ---
 title: "Import/Export Data to/from SAS"
-date: 2015-01-30 14:20:50
-modified: 2015-05-30 14:20:50
+created: 2015-01-30 14:20:50
+date: 2015-05-30 14:20:50
 authors:
   - bendu
 label: import-export-data-sas

@@ -1,7 +1,7 @@
 ---
 title: "Call Java Code Using JPype from Python"
-date: 2020-03-31 12:16:58
-modified: 2020-10-31 12:16:58
+created: 2020-03-31 12:16:58
+date: 2020-10-31 12:16:58
 authors:
   - bendu
 label: call-java-code-using-jpype-from-python

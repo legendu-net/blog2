@@ -1,7 +1,7 @@
 ---
 title: "Configure Proxy for Apt"
-date: 2017-04-07 23:42:48
-modified: 2019-03-07 23:42:48
+created: 2017-04-07 23:42:48
+date: 2019-03-07 23:42:48
 authors:
   - bendu
 label: apt-proxy

@@ -1,7 +1,7 @@
 ---
 title: "Package Management for Debian and Ubuntu"
-date: 2025-12-29 19:31:07
-modified: 2026-01-01 09:01:37
+created: 2025-12-29 19:31:07
+date: 2026-01-01 09:01:37
 authors:
   - bendu
 label: package-management-for-debian-and-ubuntu

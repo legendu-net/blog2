@@ -1,7 +1,7 @@
 ---
 title: "Tips on Health"
-date: 2023-09-23 00:58:13
-modified: 2025-06-19 09:41:33
+created: 2023-09-23 00:58:13
+date: 2025-06-19 09:41:33
 authors:
   - bendu
 label: tips-on-health

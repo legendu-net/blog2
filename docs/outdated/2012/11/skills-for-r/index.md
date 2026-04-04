@@ -1,7 +1,7 @@
 ---
 title: "Skills for R"
-date: 2012-11-14 21:59:32
-modified: 2015-05-14 21:59:32
+created: 2012-11-14 21:59:32
+date: 2015-05-14 21:59:32
 authors:
   - bendu
 label: skills-for-r

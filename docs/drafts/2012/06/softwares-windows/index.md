@@ -1,7 +1,7 @@
 ---
 title: "Software I Use in Windows System"
-date: 2012-06-17 11:28:45
-modified: 2021-09-25 12:05:03
+created: 2012-06-17 11:28:45
+date: 2021-09-25 12:05:03
 authors:
   - bendu
 label: softwares-windows

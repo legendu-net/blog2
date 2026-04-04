@@ -1,7 +1,7 @@
 ---
 title: "Vim Keybindings Using IdeaVim in IntelliJ IDEA"
-date: 2018-01-31 11:53:55
-modified: 2021-09-26 09:46:07
+created: 2018-01-31 11:53:55
+date: 2021-09-26 09:46:07
 authors:
   - bendu
 label: ideavim-tips

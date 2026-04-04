@@ -1,7 +1,7 @@
 ---
 title: "Tips on RustPython"
-date: 2020-07-27 22:40:54
-modified: 2020-10-27 22:40:54
+created: 2020-07-27 22:40:54
+date: 2020-10-27 22:40:54
 authors:
   - bendu
 label: tips-on-rustpython

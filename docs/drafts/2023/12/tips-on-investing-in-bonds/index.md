@@ -1,7 +1,7 @@
 ---
 title: "Tips on Investing in Bonds"
-date: 2023-12-12 23:36:11
-modified: 2024-02-03 15:21:43
+created: 2023-12-12 23:36:11
+date: 2024-02-03 15:21:43
 authors:
   - bendu
 label: tips-on-investing-in-bonds

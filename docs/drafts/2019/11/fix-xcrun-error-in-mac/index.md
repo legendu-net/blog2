@@ -1,7 +1,7 @@
 ---
 title: "Fix Xcrun Error in Mac"
+created: 2019-11-20 09:32:23
 date: 2019-11-20 09:32:23
-modified: 2019-11-20 09:32:23
 authors:
   - bendu
 label: fix-xcrun-error-in-mac

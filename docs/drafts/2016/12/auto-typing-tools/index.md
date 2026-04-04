@@ -1,7 +1,7 @@
 ---
 title: "Auto Typing Tools"
-date: 2016-12-14 14:14:35
-modified: 2020-02-14 14:14:35
+created: 2016-12-14 14:14:35
+date: 2020-02-14 14:14:35
 authors:
   - bendu
 label: auto-typing-tools

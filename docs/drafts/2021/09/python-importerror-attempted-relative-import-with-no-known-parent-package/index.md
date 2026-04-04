@@ -1,7 +1,7 @@
 ---
 title: "ImportError: Attempted Relative Import With No Known Parent Package"
-date: 2021-09-03 22:42:09
-modified: 2021-09-03 22:48:45
+created: 2021-09-03 22:42:09
+date: 2021-09-03 22:48:45
 authors:
   - bendu
 label: python-importerror-attempted-relative-import-with-no-known-parent-package

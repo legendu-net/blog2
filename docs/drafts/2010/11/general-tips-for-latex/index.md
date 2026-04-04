@@ -1,7 +1,7 @@
 ---
 title: "General Tips for LaTeX"
-date: 2010-11-18 18:02:38
-modified: 2019-04-18 18:02:38
+created: 2010-11-18 18:02:38
+date: 2019-04-18 18:02:38
 authors:
   - bendu
 label: general-tips-for-latex

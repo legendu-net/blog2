@@ -1,7 +1,7 @@
 ---
 title: "General Tips for SAS"
-date: 2009-11-02 12:05:07
-modified: 2015-08-02 12:05:07
+created: 2009-11-02 12:05:07
+date: 2015-08-02 12:05:07
 authors:
   - bendu
 label: general-tips-for-sas

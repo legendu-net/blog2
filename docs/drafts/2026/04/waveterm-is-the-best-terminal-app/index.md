@@ -1,7 +1,7 @@
 ---
 title: WaveTerm Is the Best Terminal App
-date: 2026-04-03 16:00:11.220201
-modified: 2026-04-04 11:10:09.548240
+created: 2026-04-03 16:00:11.220201
+date: 2026-04-04 11:10:09.548240
 authors:
 - bendu
 label: waveterm-is-the-best-terminal-app

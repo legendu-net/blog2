@@ -1,7 +1,7 @@
 ---
 title: "Use q to Query Text File Using SQL Syntax"
-date: 2016-06-05 16:19:58
-modified: 2020-03-05 16:19:58
+created: 2016-06-05 16:19:58
+date: 2020-03-05 16:19:58
 authors:
   - bendu
 label: q-query-text-file-sql

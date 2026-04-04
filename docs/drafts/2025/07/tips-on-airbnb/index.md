@@ -1,7 +1,7 @@
 ---
 title: "Tips on Airbnb"
-date: 2025-07-21 16:36:23
-modified: 2025-07-22 07:06:52
+created: 2025-07-21 16:36:23
+date: 2025-07-22 07:06:52
 authors:
   - bendu
 label: tips-on-airbnb

@@ -1,7 +1,7 @@
 ---
 title: "Tips on XFinity"
-date: 2020-06-14 22:45:40
-modified: 2024-12-12 12:47:23
+created: 2020-06-14 22:45:40
+date: 2024-12-12 12:47:23
 authors:
   - bendu
 label: tips-on-xfinity

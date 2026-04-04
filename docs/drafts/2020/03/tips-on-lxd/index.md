@@ -1,7 +1,7 @@
 ---
 title: "Tips on LXD"
-date: 2020-03-10 11:45:40
-modified: 2023-07-13 00:51:20
+created: 2020-03-10 11:45:40
+date: 2023-07-13 00:51:20
 authors:
   - bendu
 label: tips-on-lxd

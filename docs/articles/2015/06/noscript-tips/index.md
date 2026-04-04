@@ -1,7 +1,7 @@
 ---
 title: "Block JavaScript in Browsers Using NoScript"
-date: 2015-06-22 14:08:28
-modified: 2020-05-22 14:08:28
+created: 2015-06-22 14:08:28
+date: 2020-05-22 14:08:28
 authors:
   - bendu
 label: noscript-tips

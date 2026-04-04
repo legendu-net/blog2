@@ -1,7 +1,7 @@
 ---
 title: "Tips on Linux"
-date: 2013-10-29 17:13:18
-modified: 2025-12-07 16:01:07
+created: 2013-10-29 17:13:18
+date: 2025-12-07 16:01:07
 authors:
   - bendu
 label: linux-tips

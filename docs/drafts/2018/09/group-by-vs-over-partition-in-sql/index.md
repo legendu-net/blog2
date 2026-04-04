@@ -1,7 +1,7 @@
 ---
 title: "Group by vs Over Partition in SQL"
-date: 2018-09-12 18:40:34
-modified: 2019-09-12 18:40:34
+created: 2018-09-12 18:40:34
+date: 2019-09-12 18:40:34
 authors:
   - bendu
 label: group-by-vs-over-partition-in-sql

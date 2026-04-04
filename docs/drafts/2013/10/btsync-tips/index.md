@@ -1,7 +1,7 @@
 ---
 title: "Tips on Resilio Sync"
-date: 2013-10-06 14:20:40
-modified: 2020-05-06 14:20:40
+created: 2013-10-06 14:20:40
+date: 2020-05-06 14:20:40
 authors:
   - bendu
 label: btsync-tips

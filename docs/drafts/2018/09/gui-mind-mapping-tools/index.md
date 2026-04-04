@@ -1,7 +1,7 @@
 ---
 title: "GUI-based Mind Mapping Tools"
-date: 2018-09-03 08:18:27
-modified: 2020-05-03 08:18:27
+created: 2018-09-03 08:18:27
+date: 2020-05-03 08:18:27
 authors:
   - bendu
 label: gui-mind-mapping-tools

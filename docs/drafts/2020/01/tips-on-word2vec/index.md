@@ -1,7 +1,7 @@
 ---
 title: "Tips on Word2Vec"
+created: 2020-01-08 12:06:32
 date: 2020-01-08 12:06:32
-modified: 2020-01-08 12:06:32
 authors:
   - bendu
 label: tips-on-word2vec

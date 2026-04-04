@@ -1,7 +1,7 @@
 ---
 title: "Build Docker Images Using Kaniko"
-date: 2021-07-20 17:09:59
-modified: 2021-09-24 11:47:55
+created: 2021-07-20 17:09:59
+date: 2021-09-24 11:47:55
 authors:
   - bendu
 label: build-docker-images-using-kaniko

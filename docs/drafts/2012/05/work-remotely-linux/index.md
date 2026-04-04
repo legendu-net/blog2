@@ -1,7 +1,7 @@
 ---
 title: "Working Remotely in Linux"
-date: 2012-05-01 23:20:51
-modified: 2023-02-08 11:53:40
+created: 2012-05-01 23:20:51
+date: 2023-02-08 11:53:40
 authors:
   - bendu
 label: work-remotely-linux

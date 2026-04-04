@@ -1,7 +1,7 @@
 ---
 title: "Rust for Financial Investment"
-date: 2023-01-17 10:53:03
-modified: 2023-01-18 22:02:05
+created: 2023-01-17 10:53:03
+date: 2023-01-18 22:02:05
 authors:
   - bendu
 label: rust-for-financial-investment

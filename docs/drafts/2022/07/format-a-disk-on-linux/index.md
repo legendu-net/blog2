@@ -1,7 +1,7 @@
 ---
 title: "Format a Disk on Linux"
+created: 2022-07-28 10:33:40
 date: 2022-07-28 10:33:40
-modified: 2022-07-28 10:33:40
 authors:
   - bendu
 label: format-a-disk-on-linux

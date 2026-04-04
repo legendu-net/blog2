@@ -1,7 +1,7 @@
 ---
 title: "Tips and sshfs and fuse"
-date: 2022-05-04 11:15:45
-modified: 2022-05-06 14:26:48
+created: 2022-05-04 11:15:45
+date: 2022-05-06 14:26:48
 authors:
   - bendu
 label: tips-and-sshfs-and-fuse

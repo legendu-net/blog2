@@ -1,7 +1,7 @@
 ---
 title: "Tips on Google Colab"
-date: 2019-10-30 01:27:49
-modified: 2020-01-30 01:27:49
+created: 2019-10-30 01:27:49
+date: 2020-01-30 01:27:49
 authors:
   - bendu
 label: tips-on-google-colab

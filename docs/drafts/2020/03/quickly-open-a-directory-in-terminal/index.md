@@ -1,7 +1,7 @@
 ---
 title: "Quickly Open a Directory in Terminal in Mac"
+created: 2020-03-11 16:25:01
 date: 2020-03-11 16:25:01
-modified: 2020-03-11 16:25:01
 authors:
   - bendu
 label: quickly-open-a-directory-in-terminal

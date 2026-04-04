@@ -1,7 +1,7 @@
 ---
 title: "Rust for Game Development"
-date: 2021-09-18 18:07:55
-modified: 2023-01-18 22:13:27
+created: 2021-09-18 18:07:55
+date: 2023-01-18 22:13:27
 authors:
   - bendu
 label: rust-for-game-development

@@ -1,7 +1,7 @@
 ---
 title: "Fonts for Linux"
-date: 2013-04-13 00:07:00
-modified: 2021-09-26 22:00:58
+created: 2013-04-13 00:07:00
+date: 2021-09-26 22:00:58
 authors:
   - bendu
 label: fonts-for-linux

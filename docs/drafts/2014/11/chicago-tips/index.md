@@ -1,7 +1,7 @@
 ---
 title: "Living in Chicago"
-date: 2014-11-22 13:31:43
-modified: 2022-05-08 21:00:28
+created: 2014-11-22 13:31:43
+date: 2022-05-08 21:00:28
 authors:
   - bendu
 label: chicago-tips

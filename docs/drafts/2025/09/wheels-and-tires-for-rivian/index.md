@@ -1,7 +1,7 @@
 ---
 title: "Wheels and Tires for Rivian"
-date: 2025-09-30 08:21:16
-modified: 2025-10-04 19:15:56
+created: 2025-09-30 08:21:16
+date: 2025-10-04 19:15:56
 authors:
   - bendu
 label: wheels-and-tires-for-rivian

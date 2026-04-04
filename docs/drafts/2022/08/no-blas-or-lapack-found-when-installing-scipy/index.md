@@ -1,7 +1,7 @@
 ---
 title: "No BLAS or LAPACK Found When Installing Scipy"
-date: 2022-08-02 01:15:16
-modified: 2022-08-08 11:15:10
+created: 2022-08-02 01:15:16
+date: 2022-08-08 11:15:10
 authors:
   - bendu
 label: no-blas-or-lapack-found-when-installing-scipy

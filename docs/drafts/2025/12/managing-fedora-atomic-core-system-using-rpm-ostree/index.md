@@ -1,7 +1,7 @@
 ---
 title: "Managing Fedora Atomic Core System Using rpm-ostree"
-date: 2025-12-07 18:19:15
-modified: 2025-12-07 20:40:15
+created: 2025-12-07 18:19:15
+date: 2025-12-07 20:40:15
 authors:
   - bendu
 label: managing-fedora-atomic-core-system-using-rpm-ostree

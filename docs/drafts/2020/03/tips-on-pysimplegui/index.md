@@ -1,7 +1,7 @@
 ---
 title: "Tips on PySimpleGUI"
+created: 2020-03-10 00:01:18
 date: 2020-03-10 00:01:18
-modified: 2020-03-10 00:01:18
 authors:
   - bendu
 label: tips-on-pysimplegui

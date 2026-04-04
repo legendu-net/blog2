@@ -1,7 +1,7 @@
 ---
 title: "Tips on the Almond Scala Kernel"
+created: 2020-03-24 18:33:39
 date: 2020-03-24 18:33:39
-modified: 2020-03-24 18:33:39
 authors:
   - bendu
 label: tips-on-the-almond-scala-kernel

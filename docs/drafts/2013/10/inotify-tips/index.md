@@ -1,7 +1,7 @@
 ---
 title: "Watching Filesystem Changes Using \"inotify\""
-date: 2013-10-22 13:52:06
-modified: 2020-05-22 13:52:06
+created: 2013-10-22 13:52:06
+date: 2020-05-22 13:52:06
 authors:
   - bendu
 label: inotify-tips

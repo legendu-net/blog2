@@ -1,7 +1,7 @@
 ---
 title: "Python Logging"
-date: 2019-03-12 10:43:38
-modified: 2021-01-12 10:43:38
+created: 2019-03-12 10:43:38
+date: 2021-01-12 10:43:38
 authors:
   - bendu
 label: python-logging

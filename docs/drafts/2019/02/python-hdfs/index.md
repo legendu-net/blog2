@@ -1,7 +1,7 @@
 ---
 title: "HDFS in Python"
-date: 2019-02-09 23:40:06
-modified: 2019-05-09 23:40:06
+created: 2019-02-09 23:40:06
+date: 2019-05-09 23:40:06
 authors:
   - bendu
 label: python-hdfs

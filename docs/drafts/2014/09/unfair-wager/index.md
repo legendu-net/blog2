@@ -1,7 +1,7 @@
 ---
 title: "The Unfair Wager Problem"
-date: 2014-09-22 14:37:10
-modified: 2020-05-22 14:37:10
+created: 2014-09-22 14:37:10
+date: 2020-05-22 14:37:10
 authors:
   - bendu
 label: unfair-wager

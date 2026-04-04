@@ -1,7 +1,7 @@
 ---
 title: "Resizing Hard Disk of Guest Machine in Virtualbox"
-date: 2013-07-20 10:57:11
-modified: 2021-07-26 18:18:28
+created: 2013-07-20 10:57:11
+date: 2021-07-26 18:18:28
 authors:
   - bendu
 label: resizing-hard-disk-of-guest-machine-in-virtualbox

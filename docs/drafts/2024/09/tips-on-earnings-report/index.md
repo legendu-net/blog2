@@ -1,7 +1,7 @@
 ---
 title: "Tips on Earnings Report"
-date: 2024-09-14 13:14:40
-modified: 2024-09-14 15:40:46
+created: 2024-09-14 13:14:40
+date: 2024-09-14 15:40:46
 authors:
   - bendu
 label: tips-on-earnings-report

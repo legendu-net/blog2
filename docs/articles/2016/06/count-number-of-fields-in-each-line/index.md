@@ -1,7 +1,7 @@
 ---
 title: "Count Number of Fields in Each Line"
-date: 2016-06-13 23:08:03
-modified: 2021-09-26 21:56:40
+created: 2016-06-13 23:08:03
+date: 2021-09-26 21:56:40
 authors:
   - bendu
 label: count-number-of-fields-in-each-line

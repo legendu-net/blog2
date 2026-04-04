@@ -1,7 +1,7 @@
 ---
 title: "Trust a JupyterLab Notebook"
-date: 2019-12-29 20:14:09
-modified: 2020-01-29 20:14:09
+created: 2019-12-29 20:14:09
+date: 2020-01-29 20:14:09
 authors:
   - bendu
 label: trust-a-jupyterlab-notebook

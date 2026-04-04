@@ -1,7 +1,7 @@
 ---
 title: "Tips on Vim"
-date: 2013-10-25 18:28:38
-modified: 2020-03-25 18:28:38
+created: 2013-10-25 18:28:38
+date: 2020-03-25 18:28:38
 authors:
   - bendu
 label: vim-tips

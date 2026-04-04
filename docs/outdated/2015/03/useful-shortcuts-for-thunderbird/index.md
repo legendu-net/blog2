@@ -1,7 +1,7 @@
 ---
 title: "Useful Shortcuts for Thunderbird"
+created: 2015-03-10 19:18:24
 date: 2015-03-10 19:18:24
-modified: 2015-03-10 19:18:24
 authors:
   - bendu
 label: useful-shortcuts-for-thunderbird

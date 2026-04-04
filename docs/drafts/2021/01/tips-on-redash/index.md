@@ -1,7 +1,7 @@
 ---
 title: "Tips on Redash"
+created: 2021-01-08 14:02:03
 date: 2021-01-08 14:02:03
-modified: 2021-01-08 14:02:03
 authors:
   - bendu
 label: tips-on-redash

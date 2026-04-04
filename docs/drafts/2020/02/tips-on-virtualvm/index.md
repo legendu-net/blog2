@@ -1,7 +1,7 @@
 ---
 title: "Tips on VirtualVM"
+created: 2020-02-10 09:59:52
 date: 2020-02-10 09:59:52
-modified: 2020-02-10 09:59:52
 authors:
   - bendu
 label: tips-on-virtualvm

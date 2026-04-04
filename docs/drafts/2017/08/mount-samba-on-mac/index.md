@@ -1,7 +1,7 @@
 ---
 title: "Mount Samba on Mac"
+created: 2017-08-26 20:18:18
 date: 2017-08-26 20:18:18
-modified: 2017-08-26 20:18:18
 authors:
   - bendu
 label: mount-samba-on-mac

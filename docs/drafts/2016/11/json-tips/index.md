@@ -1,7 +1,7 @@
 ---
 title: "Tips on JSON"
-date: 2016-11-09 09:49:14
-modified: 2022-05-13 11:35:23
+created: 2016-11-09 09:49:14
+date: 2022-05-13 11:35:23
 authors:
   - bendu
 label: json-tips

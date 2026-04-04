@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Resources"
-date: 2019-02-15 12:02:54
-modified: 2020-11-15 12:02:54
+created: 2019-02-15 12:02:54
+date: 2020-11-15 12:02:54
 authors:
   - bendu
 label: machine-learning-resources

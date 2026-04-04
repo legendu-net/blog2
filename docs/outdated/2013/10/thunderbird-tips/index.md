@@ -1,7 +1,7 @@
 ---
 title: "Random Tips About Thunderbird"
-date: 2013-10-04 14:29:35
-modified: 2017-03-04 14:29:35
+created: 2013-10-04 14:29:35
+date: 2017-03-04 14:29:35
 authors:
   - bendu
 label: thunderbird-tips

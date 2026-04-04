@@ -1,7 +1,7 @@
 ---
 title: "GCP Compute Engine VM Instances"
-date: 2023-07-01 17:57:54
-modified: 2025-05-08 12:15:01
+created: 2023-07-01 17:57:54
+date: 2025-05-08 12:15:01
 authors:
   - bendu
 label: gcp-compute-engine-vm-instances

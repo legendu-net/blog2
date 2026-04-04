@@ -1,7 +1,7 @@
 ---
 title: "Sudo: No TTY Present and No AskPass Program Specified"
-date: 2021-11-29 00:04:14
-modified: 2021-12-01 23:33:31
+created: 2021-11-29 00:04:14
+date: 2021-12-01 23:33:31
 authors:
   - bendu
 label: Sudo:-No-TTY-Present-And-No-AskPass-Program-Specified

@@ -1,7 +1,7 @@
 ---
 title: "Converting JupyterLab Notebooks"
-date: 2019-01-01 19:24:15
-modified: 2021-09-26 12:01:56
+created: 2019-01-01 19:24:15
+date: 2021-09-26 12:01:56
 authors:
   - bendu
 label: nbconvert-tips

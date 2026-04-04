@@ -1,7 +1,7 @@
 ---
 title: "Python Local Packages Directory"
+created: 2019-10-30 18:53:06
 date: 2019-10-30 18:53:06
-modified: 2019-10-30 18:53:06
 authors:
   - bendu
 label: python-local-packages-directory

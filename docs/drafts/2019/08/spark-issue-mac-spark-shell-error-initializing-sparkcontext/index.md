@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: Mac spark-shell Error Initializing SparkContext"
-date: 2019-08-24 16:49:09
-modified: 2021-03-24 16:49:09
+created: 2019-08-24 16:49:09
+date: 2021-03-24 16:49:09
 authors:
   - bendu
 label: spark-issue-mac-spark-shell-error-initializing-sparkcontext

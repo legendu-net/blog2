@@ -1,7 +1,7 @@
 ---
 title: "Apache Toree Tips"
-date: 2016-12-12 20:32:58
-modified: 2019-12-12 20:32:58
+created: 2016-12-12 20:32:58
+date: 2019-12-12 20:32:58
 authors:
   - bendu
 label: apache-toree-tips

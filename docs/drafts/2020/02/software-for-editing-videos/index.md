@@ -1,7 +1,7 @@
 ---
 title: "Software for Editing Videos"
-date: 2020-02-09 12:37:45
-modified: 2020-08-09 12:37:45
+created: 2020-02-09 12:37:45
+date: 2020-08-09 12:37:45
 authors:
   - bendu
 label: software-for-editing-videos

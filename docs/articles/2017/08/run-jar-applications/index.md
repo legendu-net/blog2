@@ -1,7 +1,7 @@
 ---
 title: "Run JAR Applications"
-date: 2017-08-22 12:17:00
-modified: 2017-10-22 12:17:00
+created: 2017-08-22 12:17:00
+date: 2017-10-22 12:17:00
 authors:
   - bendu
 label: run-jar-applications

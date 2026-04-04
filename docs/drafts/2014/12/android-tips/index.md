@@ -1,7 +1,7 @@
 ---
 title: "Tips on Android"
-date: 2014-12-12 23:41:58
-modified: 2021-04-12 23:41:58
+created: 2014-12-12 23:41:58
+date: 2021-04-12 23:41:58
 authors:
   - bendu
 label: android-tips

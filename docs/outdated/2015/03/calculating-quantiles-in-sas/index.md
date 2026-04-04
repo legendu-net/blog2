@@ -1,7 +1,7 @@
 ---
 title: "Calculating Quantiles in SAS"
+created: 2015-03-13 16:49:45
 date: 2015-03-13 16:49:45
-modified: 2015-03-13 16:49:45
 authors:
   - bendu
 label: calculating-quantiles-in-sas

@@ -1,7 +1,7 @@
 ---
 title: "Cross Validation in Machine Learning"
+created: 2013-04-03 00:00:00
 date: 2013-04-03 00:00:00
-modified: 2013-04-03 00:00:00
 authors:
   - bendu
 label: cross-validation-machine-learning

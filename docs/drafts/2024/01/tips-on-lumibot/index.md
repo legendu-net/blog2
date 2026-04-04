@@ -1,7 +1,7 @@
 ---
 title: "Tips on Lumibot"
+created: 2024-01-09 23:50:37
 date: 2024-01-09 23:50:37
-modified: 2024-01-09 23:50:37
 authors:
   - bendu
 label: tips-on-lumibot

@@ -1,7 +1,7 @@
 ---
 title: "Java Interfaces for Python"
-date: 2019-01-25 20:15:13
-modified: 2020-10-25 20:15:13
+created: 2019-01-25 20:15:13
+date: 2020-10-25 20:15:13
 authors:
   - bendu
 label: java-interfaces-for-python

@@ -1,7 +1,7 @@
 ---
 title: "Tips on TinyProxy"
-date: 2020-10-17 21:09:17
-modified: 2021-12-04 18:49:11
+created: 2020-10-17 21:09:17
+date: 2021-12-04 18:49:11
 authors:
   - bendu
 label: tips-on-tinyproxy

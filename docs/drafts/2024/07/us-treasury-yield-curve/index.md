@@ -1,7 +1,7 @@
 ---
 title: "US Treasury Yield Curve"
+created: 2024-07-19 11:51:12
 date: 2024-07-19 11:51:12
-modified: 2024-07-19 11:51:12
 authors:
   - bendu
 label: us-treasury-yield-curve

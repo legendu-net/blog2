@@ -1,7 +1,7 @@
 ---
 title: "Add Method to a Python Class"
+created: 2019-03-10 02:23:34
 date: 2019-03-10 02:23:34
-modified: 2019-03-10 02:23:34
 authors:
   - bendu
 label: add-method-to-a-python-class

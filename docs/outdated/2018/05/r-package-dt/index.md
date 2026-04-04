@@ -1,7 +1,7 @@
 ---
 title: "R Package DT"
+created: 2018-05-27 16:16:48
 date: 2018-05-27 16:16:48
-modified: 2018-05-27 16:16:48
 authors:
   - bendu
 label: r-package-dt

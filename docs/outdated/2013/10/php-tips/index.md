@@ -1,7 +1,7 @@
 ---
 title: "Some Tips for PHP"
+created: 2013-10-24 23:10:35
 date: 2013-10-24 23:10:35
-modified: 2013-10-24 23:10:35
 authors:
   - bendu
 label: php-tips

@@ -1,7 +1,7 @@
 ---
 title: "Tools for Chinese Characters"
-date: 2021-07-19 10:54:16
-modified: 2022-07-18 16:02:21
+created: 2021-07-19 10:54:16
+date: 2022-07-18 16:02:21
 authors:
   - bendu
 label: tools-chinese-characters

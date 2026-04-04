@@ -1,7 +1,7 @@
 ---
 title: "Tips on Feature Engineering for Machine Learning"
-date: 2020-01-30 12:43:37
-modified: 2020-12-30 12:43:37
+created: 2020-01-30 12:43:37
+date: 2020-12-30 12:43:37
 authors:
   - bendu
 label: tips-on-feature-engineering-for-machine-learning

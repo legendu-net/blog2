@@ -1,7 +1,7 @@
 ---
 title: "R Coding Style"
-date: 2016-06-23 16:41:21
-modified: 2016-10-23 16:41:21
+created: 2016-06-23 16:41:21
+date: 2016-10-23 16:41:21
 authors:
   - bendu
 label: r-coding-style

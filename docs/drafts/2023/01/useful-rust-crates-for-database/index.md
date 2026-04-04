@@ -1,7 +1,7 @@
 ---
 title: Useful Rust Crates for Database
-date: 2023-01-13 15:46:22
-modified: 2026-04-03 17:16:02.537444
+created: 2023-01-13 15:46:22
+date: 2026-04-03 17:16:02.537444
 authors:
 - bendu
 label: useful-rust-crates-for-database

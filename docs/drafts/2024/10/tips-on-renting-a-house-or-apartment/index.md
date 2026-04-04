@@ -1,7 +1,7 @@
 ---
 title: "Tips on Renting a House or Apartment"
-date: 2024-10-13 14:49:05
-modified: 2024-10-13 15:12:34
+created: 2024-10-13 14:49:05
+date: 2024-10-13 15:12:34
 authors:
   - bendu
 label: tips-on-renting-a-house-or-apartment

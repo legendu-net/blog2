@@ -1,7 +1,7 @@
 ---
 title: "Docker Images for Remote Desktop"
-date: 2017-07-27 12:16:56
-modified: 2021-12-11 14:05:51
+created: 2017-07-27 12:16:56
+date: 2021-12-11 14:05:51
 authors:
   - bendu
 label: docker-images-for-remote-desktop

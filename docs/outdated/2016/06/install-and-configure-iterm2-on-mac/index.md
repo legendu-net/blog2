@@ -1,7 +1,7 @@
 ---
 title: "Install and Configure Iterm2 on Mac"
-date: 2016-06-05 07:51:37
-modified: 2021-09-25 13:58:06
+created: 2016-06-05 07:51:37
+date: 2021-09-25 13:58:06
 authors:
   - bendu
 label: install-and-configure-iterm2-on-mac

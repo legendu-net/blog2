@@ -1,7 +1,7 @@
 ---
 title: "Tips on BigQuery"
-date: 2022-07-28 15:04:26
-modified: 2024-03-04 22:36:30
+created: 2022-07-28 15:04:26
+date: 2024-03-04 22:36:30
 authors:
   - bendu
 label: tips-on-bigquery

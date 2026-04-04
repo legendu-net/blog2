@@ -1,7 +1,7 @@
 ---
 title: "Shortcuts for KDE"
-date: 2017-04-04 08:53:41
-modified: 2019-03-04 08:53:41
+created: 2017-04-04 08:53:41
+date: 2019-03-04 08:53:41
 authors:
   - bendu
 label: shortcuts-for-kde

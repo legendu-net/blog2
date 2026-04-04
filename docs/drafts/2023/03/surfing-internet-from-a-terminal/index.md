@@ -1,7 +1,7 @@
 ---
 title: "Surfing Internet from a Terminal"
+created: 2023-03-06 10:20:58
 date: 2023-03-06 10:20:58
-modified: 2023-03-06 10:20:58
 authors:
   - bendu
 label: surfing-internet-from-a-terminal

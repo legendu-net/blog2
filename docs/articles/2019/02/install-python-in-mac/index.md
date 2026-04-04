@@ -1,7 +1,7 @@
 ---
 title: "Install Python in macOS"
-date: 2019-02-19 10:18:07
-modified: 2025-05-30 14:37:08
+created: 2019-02-19 10:18:07
+date: 2025-05-30 14:37:08
 authors:
   - bendu
 label: install-python-in-mac

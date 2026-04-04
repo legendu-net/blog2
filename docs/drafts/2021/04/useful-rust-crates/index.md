@@ -1,7 +1,7 @@
 ---
 title: "Useful Rust Crates"
-date: 2021-04-09 23:34:03
-modified: 2023-08-03 15:50:09
+created: 2021-04-09 23:34:03
+date: 2023-08-03 15:50:09
 authors:
   - bendu
 label: useful-rust-crates

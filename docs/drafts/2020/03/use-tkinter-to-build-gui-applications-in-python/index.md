@@ -1,7 +1,7 @@
 ---
 title: "Use Tkinter to Build GUI Applications in Python"
-date: 2020-03-09 09:41:03
-modified: 2021-08-08 16:25:26
+created: 2020-03-09 09:41:03
+date: 2021-08-08 16:25:26
 authors:
   - bendu
 label: use-tkinter-to-build-gui-applications-in-python

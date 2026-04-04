@@ -1,7 +1,7 @@
 ---
 title: "Run Docker Containers Inside a Docker Container"
+created: 2021-09-13 10:55:29
 date: 2021-09-13 10:55:29
-modified: 2021-09-13 10:55:29
 authors:
   - bendu
 label: run-docker-containers-inside-a-docker-container

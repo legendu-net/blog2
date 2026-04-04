@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive List of Common Issues in Spark Applications"
-date: 2020-08-22 08:53:56
-modified: 2021-12-05 14:28:31
+created: 2020-08-22 08:53:56
+date: 2021-12-05 14:28:31
 authors:
   - bendu
 label: A-comprehensive-list-of-issues-in-spark-applications

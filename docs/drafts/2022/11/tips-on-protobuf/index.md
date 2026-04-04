@@ -1,7 +1,7 @@
 ---
 title: "Tips on Protobuf"
-date: 2022-11-12 14:31:12
-modified: 2023-05-10 17:01:16
+created: 2022-11-12 14:31:12
+date: 2023-05-10 17:01:16
 authors:
   - bendu
 label: tips-on-protobuf

@@ -1,7 +1,7 @@
 ---
 title: "Data Table in R"
+created: 2016-06-11 17:59:49
 date: 2016-06-11 17:59:49
-modified: 2016-06-11 17:59:49
 authors:
   - bendu
 label: data-table-in-R

@@ -1,7 +1,7 @@
 ---
 title: "Alternatives to Docker Containers"
-date: 2020-03-10 11:45:40
-modified: 2021-01-10 11:45:40
+created: 2020-03-10 11:45:40
+date: 2021-01-10 11:45:40
 authors:
   - bendu
 label: alternatives-to-docker-containers

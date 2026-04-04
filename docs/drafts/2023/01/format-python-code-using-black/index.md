@@ -1,7 +1,7 @@
 ---
 title: "Format Python Code Using Black"
+created: 2023-01-09 16:46:31
 date: 2023-01-09 16:46:31
-modified: 2023-01-09 16:46:31
 authors:
   - bendu
 label: format-python-code-using-black

@@ -1,7 +1,7 @@
 ---
 title: "Tips on the find command in Linux"
-date: 2014-09-06 09:43:30
-modified: 2025-06-19 11:03:55
+created: 2014-09-06 09:43:30
+date: 2025-06-19 11:03:55
 authors:
   - bendu
 label: find-tips

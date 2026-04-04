@@ -1,7 +1,7 @@
 ---
 title: "The GPT-2 Model in NLP"
-date: 2020-01-06 09:57:38
-modified: 2020-02-06 09:57:38
+created: 2020-01-06 09:57:38
+date: 2020-02-06 09:57:38
 authors:
   - bendu
 label: the-gpt-2-model-in-nlp

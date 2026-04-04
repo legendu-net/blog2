@@ -1,7 +1,7 @@
 ---
 title: "Manage Docker Images and Containers"
-date: 2017-03-15 10:29:33
-modified: 2025-12-09 11:17:58
+created: 2017-03-15 10:29:33
+date: 2025-12-09 11:17:58
 authors:
   - bendu
 label: docker-image-and-container-management

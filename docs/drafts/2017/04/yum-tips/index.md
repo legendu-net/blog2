@@ -1,7 +1,7 @@
 ---
 title: "Maning Packages Using Yum in CentOS"
-date: 2017-04-22 15:41:55
-modified: 2020-05-22 15:41:55
+created: 2017-04-22 15:41:55
+date: 2020-05-22 15:41:55
 authors:
   - bendu
 label: yum-tips

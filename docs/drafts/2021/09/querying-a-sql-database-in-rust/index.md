@@ -1,7 +1,7 @@
 ---
 title: "Database Clients for Rust"
-date: 2021-09-17 16:06:16
-modified: 2023-03-22 13:47:11
+created: 2021-09-17 16:06:16
+date: 2023-03-22 13:47:11
 authors:
   - bendu
 label: querying-a-sql-database-in-rust

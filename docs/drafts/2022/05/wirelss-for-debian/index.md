@@ -1,7 +1,7 @@
 ---
 title: "Wirelss for Debian"
+created: 2022-05-04 11:21:24
 date: 2022-05-04 11:21:24
-modified: 2022-05-04 11:21:24
 authors:
   - bendu
 label: wirelss-for-debian

@@ -1,7 +1,7 @@
 ---
 title: "Useful Rust Crates for Multimedia"
+created: 2023-01-24 20:16:06
 date: 2023-01-24 20:16:06
-modified: 2023-01-24 20:16:06
 authors:
   - bendu
 label: useful-rust-crates-for-multimedia

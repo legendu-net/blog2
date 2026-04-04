@@ -1,7 +1,7 @@
 ---
 title: "Convert HEIC Images in Linux"
-date: 2022-01-01 13:41:55
-modified: 2022-12-07 22:11:36
+created: 2022-01-01 13:41:55
+date: 2022-12-07 22:11:36
 authors:
   - bendu
 label: convert-heic-images-in-linux

@@ -1,7 +1,7 @@
 ---
 title: "Calling Shell from Python"
-date: 2019-03-24 06:48:05
-modified: 2019-08-24 06:48:05
+created: 2019-03-24 06:48:05
+date: 2019-08-24 06:48:05
 authors:
   - bendu
 label: calling-shell-from-python

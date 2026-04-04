@@ -1,7 +1,7 @@
 ---
 title: "Tips on PyPy"
+created: 2021-04-19 09:53:27
 date: 2021-04-19 09:53:27
-modified: 2021-04-19 09:53:27
 authors:
   - bendu
 label: tips-on-pypy

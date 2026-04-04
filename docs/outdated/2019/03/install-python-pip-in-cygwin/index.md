@@ -1,7 +1,7 @@
 ---
 title: Install Python Pip in Cygwin
+created: 2019-03-04 23:56:02
 date: 2019-03-04 23:56:02
-modified: 2019-03-04 23:56:02
 authors:
 - bendu
 label: install-python-pip-in-cygwin

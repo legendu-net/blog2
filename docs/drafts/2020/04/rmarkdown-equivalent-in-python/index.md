@@ -1,7 +1,7 @@
 ---
 title: "RMarkdown Equivalent in Python"
-date: 2020-04-14 10:10:39
-modified: 2023-08-05 10:30:54
+created: 2020-04-14 10:10:39
+date: 2023-08-05 10:30:54
 authors:
   - bendu
 label: rmarkdown-equivalent-in-python

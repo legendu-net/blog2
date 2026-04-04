@@ -1,7 +1,7 @@
 ---
 title: "Rust for Backend Development"
-date: 2022-11-27 00:20:12
-modified: 2023-08-29 13:52:18
+created: 2022-11-27 00:20:12
+date: 2023-08-29 13:52:18
 authors:
   - bendu
 label: rust-for-backend-development

@@ -1,7 +1,7 @@
 ---
 title: "Docker Images for OS"
-date: 2018-10-27 08:29:44
-modified: 2019-02-27 08:29:44
+created: 2018-10-27 08:29:44
+date: 2019-02-27 08:29:44
 authors:
   - bendu
 label: docker-images-for-OS

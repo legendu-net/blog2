@@ -1,7 +1,7 @@
 ---
 title: "Issues in pip and Solutions"
+created: 2020-03-09 16:37:34
 date: 2020-03-09 16:37:34
-modified: 2020-03-09 16:37:34
 authors:
   - bendu
 label: issues-in-pip-and-solutions

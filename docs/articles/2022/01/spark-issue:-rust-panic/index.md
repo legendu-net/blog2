@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: Rust Panic"
-date: 2022-01-07 11:12:24
-modified: 2022-01-17 12:20:32
+created: 2022-01-07 11:12:24
+date: 2022-01-17 12:20:32
 authors:
   - bendu
 label: spark-issue:-rust-panic

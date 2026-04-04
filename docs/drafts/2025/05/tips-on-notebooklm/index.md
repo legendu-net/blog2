@@ -1,7 +1,7 @@
 ---
 title: "Tips on NotebookLM"
-date: 2025-05-31 13:26:49
-modified: 2025-05-31 17:41:17
+created: 2025-05-31 13:26:49
+date: 2025-05-31 17:41:17
 authors:
   - bendu
 label: tips-on-notebooklm

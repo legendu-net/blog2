@@ -1,7 +1,7 @@
 ---
 title: "Python Docstring Generator for Visual Studio Code"
-date: 2020-07-30 12:25:15
-modified: 2021-03-30 12:25:15
+created: 2020-07-30 12:25:15
+date: 2021-03-30 12:25:15
 authors:
   - bendu
 label: Python-Docstring-Generator-for-vscode

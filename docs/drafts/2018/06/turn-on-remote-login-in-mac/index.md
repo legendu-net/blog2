@@ -1,7 +1,7 @@
 ---
 title: "Turn on Remote Login in Mac"
+created: 2018-06-24 21:39:37
 date: 2018-06-24 21:39:37
-modified: 2018-06-24 21:39:37
 authors:
   - bendu
 label: turn-on-remote-login-in-mac

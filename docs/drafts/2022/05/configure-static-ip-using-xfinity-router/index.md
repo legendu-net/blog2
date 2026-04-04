@@ -1,7 +1,7 @@
 ---
 title: "Configure Static IP Using XFinity Router"
-date: 2022-05-17 08:58:40
-modified: 2022-05-17 09:00:40
+created: 2022-05-17 08:58:40
+date: 2022-05-17 09:00:40
 authors:
   - bendu
 label: configure-static-ip-using-xfinity-router

@@ -1,7 +1,7 @@
 ---
 title: Python for Tablet
+created: 2021-02-20 08:56:49
 date: 2021-02-20 08:56:49
-modified: 2021-02-20 08:56:49
 authors:
   - bendu
 label: python-for-tablet

@@ -1,7 +1,7 @@
 ---
 title: "RStudio Tips"
-date: 2015-01-04 20:30:49
-modified: 2016-12-04 20:30:49
+created: 2015-01-04 20:30:49
+date: 2016-12-04 20:30:49
 authors:
   - bendu
 label: rstudio-tips

@@ -1,7 +1,7 @@
 ---
 title: "Tips on pylint"
-date: 2019-02-09 12:02:28
-modified: 2021-03-09 12:02:28
+created: 2019-02-09 12:02:28
+date: 2021-03-09 12:02:28
 authors:
   - bendu
 label: pylint-tips

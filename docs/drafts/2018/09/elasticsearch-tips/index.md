@@ -1,7 +1,7 @@
 ---
 title: "Tips on Elasticsearch"
-date: 2018-09-06 22:08:19
-modified: 2020-05-06 22:08:19
+created: 2018-09-06 22:08:19
+date: 2020-05-06 22:08:19
 authors:
   - bendu
 label: elasticsearch-tips

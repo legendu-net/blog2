@@ -1,7 +1,7 @@
 ---
 title: "Tips on VirtualBox"
-date: 2013-10-03 10:42:46
-modified: 2025-12-07 21:02:53
+created: 2013-10-03 10:42:46
+date: 2025-12-07 21:02:53
 authors:
   - bendu
 label: virtualbox-tips

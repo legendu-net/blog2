@@ -1,7 +1,7 @@
 ---
 title: "Spark SQL"
-date: 2019-02-20 09:03:19
-modified: 2022-01-01 14:35:30
+created: 2019-02-20 09:03:19
+date: 2022-01-01 14:35:30
 authors:
   - bendu
 label: spark-sql-tips

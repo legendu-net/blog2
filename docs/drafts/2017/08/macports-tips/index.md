@@ -1,7 +1,7 @@
 ---
 title: "Tips on MacPorts"
-date: 2017-08-20 14:04:56
-modified: 2020-05-20 14:04:56
+created: 2017-08-20 14:04:56
+date: 2020-05-20 14:04:56
 authors:
   - bendu
 label: macports-tips

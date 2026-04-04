@@ -1,7 +1,7 @@
 ---
 title: "Tips on TypeScript Compiler"
-date: 2019-03-08 11:47:35
-modified: 2021-09-26 16:47:54
+created: 2019-03-08 11:47:35
+date: 2021-09-26 16:47:54
 authors:
   - bendu
 label: tips-for-typescript-compiler

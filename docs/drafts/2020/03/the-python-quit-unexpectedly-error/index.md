@@ -1,7 +1,7 @@
 ---
 title: "The Python Quit Unexpectedly Error"
+created: 2020-03-05 11:11:51
 date: 2020-03-05 11:11:51
-modified: 2020-03-05 11:11:51
 authors:
   - bendu
 label: the-python-quit-unexpectedly-error

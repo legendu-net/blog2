@@ -1,7 +1,7 @@
 ---
 title: "GitHub Apps and Bot Accounts"
+created: 2023-06-11 21:59:44
 date: 2023-06-11 21:59:44
-modified: 2023-06-11 21:59:44
 authors:
   - bendu
 label: github-apps-and-bot-accounts

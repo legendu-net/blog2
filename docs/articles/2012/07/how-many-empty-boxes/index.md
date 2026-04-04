@@ -1,7 +1,7 @@
 ---
 title: "How Many Empty Boxes?"
+created: 2012-07-08 00:00:00
 date: 2012-07-08 00:00:00
-modified: 2012-07-08 00:00:00
 authors:
   - bendu
 label: how-many-empty-boxes

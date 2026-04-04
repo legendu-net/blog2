@@ -1,7 +1,7 @@
 ---
 title: "Least Square Estimates"
-date: 2013-08-24 13:58:18
-modified: 2015-02-24 13:58:18
+created: 2013-08-24 13:58:18
+date: 2015-02-24 13:58:18
 authors:
   - bendu
 label: pros-and-cons-of-least-square-estimates

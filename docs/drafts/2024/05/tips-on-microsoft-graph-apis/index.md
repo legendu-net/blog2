@@ -1,7 +1,7 @@
 ---
 title: "Tips on Microsoft Graph APIs"
-date: 2024-05-17 01:53:15
-modified: 2024-05-22 23:22:23
+created: 2024-05-17 01:53:15
+date: 2024-05-22 23:22:23
 authors:
   - bendu
 label: tips-on-microsoft-graph-apis

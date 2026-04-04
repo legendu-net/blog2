@@ -1,7 +1,7 @@
 ---
 title: "Serialization and deserialization in Python"
-date: 2020-09-03 09:42:01
-modified: 2022-05-13 11:25:22
+created: 2020-09-03 09:42:01
+date: 2022-05-13 11:25:22
 authors:
   - bendu
 label: serialization-and-deserialization-in-python

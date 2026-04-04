@@ -1,7 +1,7 @@
 ---
 title: "Tips on GPG"
-date: 2013-10-12 09:13:02
-modified: 2021-04-12 09:13:02
+created: 2013-10-12 09:13:02
+date: 2021-04-12 09:13:02
 authors:
   - bendu
 label: gpg-tips

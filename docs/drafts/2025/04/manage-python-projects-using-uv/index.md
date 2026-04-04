@@ -1,7 +1,7 @@
 ---
 title: "Manage Python Projects Using uv"
-date: 2025-04-30 06:16:38
-modified: 2026-01-19 08:18:16
+created: 2025-04-30 06:16:38
+date: 2026-01-19 08:18:16
 authors:
   - bendu
 label: manage-python-projects-using-uv

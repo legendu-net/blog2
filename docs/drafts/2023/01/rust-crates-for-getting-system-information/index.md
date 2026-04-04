@@ -1,7 +1,7 @@
 ---
 title: "Rust Crates for Getting System Information"
-date: 2023-01-13 17:06:30
-modified: 2023-01-18 22:06:25
+created: 2023-01-13 17:06:30
+date: 2023-01-18 22:06:25
 authors:
   - bendu
 label: rust-crates-for-getting-system-information

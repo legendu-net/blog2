@@ -1,7 +1,7 @@
 ---
 title: "Tips on Wajig"
-date: 2014-03-07 22:54:45
-modified: 2025-12-27 19:36:27
+created: 2014-03-07 22:54:45
+date: 2025-12-27 19:36:27
 authors:
   - bendu
 label: wajig-tips

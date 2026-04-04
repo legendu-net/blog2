@@ -1,7 +1,7 @@
 ---
 title: "Use pdftk to Manipulating PDF Files"
-date: 2013-10-06 11:44:58
-modified: 2025-03-10 11:48:31
+created: 2013-10-06 11:44:58
+date: 2025-03-10 11:48:31
 authors:
   - bendu
 label: pdftk-examples

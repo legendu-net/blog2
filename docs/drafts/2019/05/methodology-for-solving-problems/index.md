@@ -1,7 +1,7 @@
 ---
 title: "Methodology for Solving Problems"
+created: 2019-05-14 01:49:29
 date: 2019-05-14 01:49:29
-modified: 2019-05-14 01:49:29
 authors:
   - bendu
 label: methodology-for-solving-problems

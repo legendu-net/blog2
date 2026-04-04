@@ -1,7 +1,7 @@
 ---
 title: "Rescue Linux from GUI Freezing"
-date: 2012-09-20 10:30:22
-modified: 2015-02-20 10:30:22
+created: 2012-09-20 10:30:22
+date: 2015-02-20 10:30:22
 authors:
   - bendu
 label: rescue-linux-from-gui-freezing

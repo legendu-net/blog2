@@ -1,7 +1,7 @@
 ---
 title: "Tips on Excel"
-date: 2011-08-22 13:10:13
-modified: 2020-05-22 13:10:13
+created: 2011-08-22 13:10:13
+date: 2020-05-22 13:10:13
 authors:
   - bendu
 label: tips-for-excel

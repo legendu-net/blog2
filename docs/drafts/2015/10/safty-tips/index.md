@@ -1,7 +1,7 @@
 ---
 title: "Living in Safty"
-date: 2015-10-22 14:16:22
-modified: 2020-05-22 14:16:22
+created: 2015-10-22 14:16:22
+date: 2020-05-22 14:16:22
 authors:
   - bendu
 label: safty-tips

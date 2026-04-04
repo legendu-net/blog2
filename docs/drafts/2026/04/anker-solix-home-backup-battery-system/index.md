@@ -1,7 +1,7 @@
 ---
 title: Anker Solix Home Backup Battery System
-date: 2026-04-03 21:39:15.050101
-modified: 2026-04-04 12:39:14.090730
+created: 2026-04-03 21:39:15.050101
+date: 2026-04-04 12:39:14.090730
 authors:
 - bendu
 label: anker-solix-home-backup-battery-system

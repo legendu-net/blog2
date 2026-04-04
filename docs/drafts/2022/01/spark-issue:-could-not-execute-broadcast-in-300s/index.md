@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: Could Not Execute Broadcast in 300S"
-date: 2022-01-22 11:11:13
-modified: 2022-01-22 11:50:07
+created: 2022-01-22 11:11:13
+date: 2022-01-22 11:50:07
 authors:
   - bendu
 label: spark-issue:-could-not-execute-broadcast-in-300s

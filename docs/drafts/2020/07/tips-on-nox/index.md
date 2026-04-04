@@ -1,7 +1,7 @@
 ---
 title: "Tips on Nox"
-date: 2020-07-13 17:41:24
-modified: 2020-09-13 17:41:24
+created: 2020-07-13 17:41:24
+date: 2020-09-13 17:41:24
 authors:
   - bendu
 label: tips-on-nox

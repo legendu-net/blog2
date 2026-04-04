@@ -1,7 +1,7 @@
 ---
 title: "Security Tools in Python"
-date: 2020-12-16 11:04:45
-modified: 2022-05-21 21:56:55
+created: 2020-12-16 11:04:45
+date: 2022-05-21 21:56:55
 authors:
   - bendu
 label: security-tools-in-python

@@ -1,7 +1,7 @@
 ---
 title: "The Trap of Duplicated Columns in the SQL Procedure of SAS"
+created: 2015-08-28 13:02:17
 date: 2015-08-28 13:02:17
-modified: 2015-08-28 13:02:17
 authors:
   - bendu
 label: trap-duplicated-columns-sql-procedure-sas

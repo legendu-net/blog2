@@ -1,7 +1,7 @@
 ---
 title: "Get Deals for Traveling"
-date: 2025-09-08 23:19:32
-modified: 2025-09-29 08:22:58
+created: 2025-09-08 23:19:32
+date: 2025-09-29 08:22:58
 authors:
   - bendu
 label: get-deals-for-traveling

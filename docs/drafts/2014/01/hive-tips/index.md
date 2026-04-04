@@ -1,7 +1,7 @@
 ---
 title: "Hive SQL"
-date: 2014-01-22 15:35:31
-modified: 2021-07-29 19:59:32
+created: 2014-01-22 15:35:31
+date: 2021-07-29 19:59:32
 authors:
   - bendu
 label: hive-tips

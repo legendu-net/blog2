@@ -1,7 +1,7 @@
 ---
 title: "Shopping at Macys"
+created: 2024-03-12 17:09:25
 date: 2024-03-12 17:09:25
-modified: 2024-03-12 17:09:25
 authors:
   - bendu
 label: shopping-at-macys

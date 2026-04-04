@@ -1,7 +1,7 @@
 ---
 title: "Read and Write Parquet Files in Rust"
-date: 2022-05-22 08:44:04
-modified: 2023-01-07 12:45:14
+created: 2022-05-22 08:44:04
+date: 2023-01-07 12:45:14
 authors:
   - bendu
 label: read-and-write-parquet-files-in-rust

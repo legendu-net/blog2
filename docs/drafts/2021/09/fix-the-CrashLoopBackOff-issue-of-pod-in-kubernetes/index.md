@@ -1,7 +1,7 @@
 ---
 title: "Fix the CrashLoopBackOff Issue of Pod in Kubernetes"
-date: 2021-09-13 22:44:33
-modified: 2021-09-14 11:30:24
+created: 2021-09-13 22:44:33
+date: 2021-09-14 11:30:24
 authors:
   - bendu
 label: fix-the-CrashLoopBackOff-issue-of-pod-in-kubernetes

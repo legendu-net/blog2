@@ -1,7 +1,7 @@
 ---
 title: "Tips on PlantUML"
+created: 2020-04-30 09:09:21
 date: 2020-04-30 09:09:21
-modified: 2020-04-30 09:09:21
 authors:
   - bendu
 label: tips-on-plantuml

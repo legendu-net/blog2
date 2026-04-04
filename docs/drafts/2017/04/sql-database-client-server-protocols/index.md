@@ -1,7 +1,7 @@
 ---
 title: "SQL Database Client-server Protocols"
-date: 2017-04-30 12:06:09
-modified: 2022-10-16 15:55:29
+created: 2017-04-30 12:06:09
+date: 2022-10-16 15:55:29
 authors:
   - bendu
 label: sql-database-client-server-protocols

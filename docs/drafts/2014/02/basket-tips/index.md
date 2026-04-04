@@ -1,7 +1,7 @@
 ---
 title: "Tips on Basket in KDE"
-date: 2014-02-22 12:34:42
-modified: 2020-05-22 12:34:42
+created: 2014-02-22 12:34:42
+date: 2020-05-22 12:34:42
 authors:
   - bendu
 label: basket-tips

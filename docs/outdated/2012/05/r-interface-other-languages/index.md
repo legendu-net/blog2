@@ -1,7 +1,7 @@
 ---
 title: "Passing Arrays Between R and Other Programming Languages"
-date: 2012-05-02 13:10:12
-modified: 2015-03-02 13:10:12
+created: 2012-05-02 13:10:12
+date: 2015-03-02 13:10:12
 authors:
   - bendu
 label: r-interface-other-languages

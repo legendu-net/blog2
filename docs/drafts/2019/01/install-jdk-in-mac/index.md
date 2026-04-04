@@ -1,7 +1,7 @@
 ---
 title: "Install the Latest JDK on Mac"
-date: 2019-01-18 17:37:15
-modified: 2025-12-10 18:06:26
+created: 2019-01-18 17:37:15
+date: 2025-12-10 18:06:26
 authors:
   - bendu
 label: install-jdk-in-mac

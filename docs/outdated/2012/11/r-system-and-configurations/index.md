@@ -1,7 +1,7 @@
 ---
 title: "R System and Configurations"
+created: 2012-11-21 00:00:00
 date: 2012-11-21 00:00:00
-modified: 2012-11-21 00:00:00
 authors:
   - bendu
 label: r-system-and-configurations

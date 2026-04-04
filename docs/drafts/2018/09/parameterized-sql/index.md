@@ -1,7 +1,7 @@
 ---
 title: "Parameterized SQL"
+created: 2018-09-15 13:24:42
 date: 2018-09-15 13:24:42
-modified: 2018-09-15 13:24:42
 authors:
   - bendu
 label: parameterized-sql

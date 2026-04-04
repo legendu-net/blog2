@@ -1,7 +1,7 @@
 ---
 title: "Tips on HTTP"
+created: 2020-10-17 11:58:34
 date: 2020-10-17 11:58:34
-modified: 2020-10-17 11:58:34
 authors:
   - bendu
 label: tips-on-http

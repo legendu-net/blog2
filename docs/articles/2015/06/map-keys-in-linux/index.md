@@ -1,7 +1,7 @@
 ---
 title: "Map Keys in Linux"
-date: 2015-06-19 10:30:15
-modified: 2022-07-28 09:43:57
+created: 2015-06-19 10:30:15
+date: 2022-07-28 09:43:57
 authors:
   - bendu
 label: map-keys-in-linux

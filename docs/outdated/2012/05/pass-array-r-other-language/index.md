@@ -1,7 +1,7 @@
 ---
 title: "Compare R with Other Languages on Data Manipulation"
-date: 2012-05-13 13:14:35
-modified: 2015-01-13 13:14:35
+created: 2012-05-13 13:14:35
+date: 2015-01-13 13:14:35
 authors:
   - bendu
 label: pass-array-r-other-language

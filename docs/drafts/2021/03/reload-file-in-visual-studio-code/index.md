@@ -1,7 +1,7 @@
 ---
 title: "Reload File in Visual Studio Code"
+created: 2021-03-26 10:20:50
 date: 2021-03-26 10:20:50
-modified: 2021-03-26 10:20:50
 authors:
   - bendu
 label: reload-file-in-visual-studio-code

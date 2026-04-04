@@ -1,7 +1,7 @@
 ---
 title: "Design Pattern and Productivity for Rust"
-date: 2023-01-13 16:29:29
-modified: 2024-08-23 11:51:08
+created: 2023-01-13 16:29:29
+date: 2024-08-23 11:51:08
 authors:
   - bendu
 label: design-pattern-and-productivity-for-rust

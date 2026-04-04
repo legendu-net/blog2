@@ -1,7 +1,7 @@
 ---
 title: "Tips on FeatureTools"
-date: 2020-01-18 15:12:37
-modified: 2022-08-08 11:09:04
+created: 2020-01-18 15:12:37
+date: 2022-08-08 11:09:04
 authors:
   - bendu
 label: tips-on-featuretools

@@ -1,7 +1,7 @@
 ---
 title: "GPU for Web"
-date: 2021-05-12 09:26:51
-modified: 2021-06-17 17:04:56
+created: 2021-05-12 09:26:51
+date: 2021-06-17 17:04:56
 authors:
   - bendu
 label: gpu-for-web

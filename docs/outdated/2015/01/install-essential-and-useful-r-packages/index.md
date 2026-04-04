@@ -1,7 +1,7 @@
 ---
 title: "Install Essential and Useful R Packages"
-date: 2015-01-23 22:27:25
-modified: 2016-10-23 22:27:25
+created: 2015-01-23 22:27:25
+date: 2016-10-23 22:27:25
 authors:
   - bendu
 label: install-essential-and-useful-r-packages

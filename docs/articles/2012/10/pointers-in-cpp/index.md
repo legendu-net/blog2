@@ -1,7 +1,7 @@
 ---
 title: "Pointers in C++"
+created: 2012-10-21 00:00:00
 date: 2012-10-21 00:00:00
-modified: 2012-10-21 00:00:00
 authors:
   - bendu
 label: pointers-in-cpp

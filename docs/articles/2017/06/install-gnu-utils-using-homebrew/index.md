@@ -1,7 +1,7 @@
 ---
 title: "Install GNU Utils Using Homebrew"
-date: 2017-06-22 13:26:28
-modified: 2022-06-06 13:33:09
+created: 2017-06-22 13:26:28
+date: 2022-06-06 13:33:09
 authors:
   - bendu
 label: install-gnu-utils-using-homebrew

@@ -1,7 +1,7 @@
 ---
 title: "Manipulate Data in SAS"
-date: 2012-07-02 12:40:28
-modified: 2015-08-02 12:40:28
+created: 2012-07-02 12:40:28
+date: 2015-08-02 12:40:28
 authors:
   - bendu
 label: sas-data-manipulation

@@ -1,7 +1,7 @@
 ---
 title: Change File Permission on Linux
-date: 2015-02-15 23:45:23
-modified: 2016-08-15 23:45:23
+created: 2015-02-15 23:45:23
+date: 2016-08-15 23:45:23
 authors:
   - bendu
 label: change-file-permission-on-linux

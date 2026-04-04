@@ -1,7 +1,7 @@
 ---
 title: "Zellij Is the Best Terminal Multiplexer"
-date: 2021-11-09 10:19:10
-modified: 2021-12-02 10:12:41
+created: 2021-11-09 10:19:10
+date: 2021-12-02 10:12:41
 authors:
   - bendu
 label: zellij-is-the-best-terminal-multiplexer

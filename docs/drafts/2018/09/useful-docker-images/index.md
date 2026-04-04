@@ -1,7 +1,7 @@
 ---
 title: "Useful Docker Images"
-date: 2018-09-14 09:54:21
-modified: 2021-09-26 10:24:36
+created: 2018-09-14 09:54:21
+date: 2021-09-26 10:24:36
 authors:
   - bendu
 label: useful-docker-images

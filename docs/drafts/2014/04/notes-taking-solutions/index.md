@@ -1,7 +1,7 @@
 ---
 title: "Notes Taking Solutions"
-date: 2014-04-15 23:23:18
-modified: 2017-11-15 23:23:18
+created: 2014-04-15 23:23:18
+date: 2017-11-15 23:23:18
 authors:
   - bendu
 label: notes-taking-solutions

@@ -1,7 +1,7 @@
 ---
 title: "Comparison of GitHub Tokens and Keys"
-date: 2021-09-09 15:21:21
-modified: 2021-10-25 18:51:22
+created: 2021-09-09 15:21:21
+date: 2021-10-25 18:51:22
 authors:
   - bendu
 label: comparison-of-github-tokens-and-keys

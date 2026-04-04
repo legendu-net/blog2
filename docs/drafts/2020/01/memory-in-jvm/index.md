@@ -1,7 +1,7 @@
 ---
 title: "Memory in JVM"
-date: 2020-01-23 17:25:59
-modified: 2021-12-05 14:29:15
+created: 2020-01-23 17:25:59
+date: 2021-12-05 14:29:15
 authors:
   - bendu
 label: memory-in-jvm

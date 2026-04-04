@@ -1,7 +1,7 @@
 ---
 title: "Tips on the Transformers Python Library for NLP"
+created: 2020-03-06 13:19:56
 date: 2020-03-06 13:19:56
-modified: 2020-03-06 13:19:56
 authors:
   - bendu
 label: tips-on-the-transformers-python-library-for-nlp

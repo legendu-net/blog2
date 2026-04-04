@@ -1,7 +1,7 @@
 ---
 title: "Tips on LibreOffice"
-date: 2014-03-22 12:38:17
-modified: 2021-09-25 13:34:11
+created: 2014-03-22 12:38:17
+date: 2021-09-25 13:34:11
 authors:
   - bendu
 label: libreoffice-tips

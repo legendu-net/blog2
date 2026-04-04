@@ -1,7 +1,7 @@
 ---
 title: "The Label Widget in Tkinter"
-date: 2020-04-12 09:53:35
-modified: 2021-08-08 16:25:26
+created: 2020-04-12 09:53:35
+date: 2021-08-08 16:25:26
 authors:
   - bendu
 label: tkinter-label-tips

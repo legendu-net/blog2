@@ -1,7 +1,7 @@
 ---
 title: "Tips on Purchasing or Leasing a Car"
-date: 2023-10-17 11:55:34
-modified: 2025-06-25 16:25:02
+created: 2023-10-17 11:55:34
+date: 2025-06-25 16:25:02
 authors:
   - bendu
 label: tips-on-purchasing-a-car

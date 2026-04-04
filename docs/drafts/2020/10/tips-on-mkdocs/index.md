@@ -1,7 +1,7 @@
 ---
 title: "Tips on mkdocs"
+created: 2020-10-24 13:08:22
 date: 2020-10-24 13:08:22
-modified: 2020-10-24 13:08:22
 authors:
   - bendu
 label: tips-on-mkdocs

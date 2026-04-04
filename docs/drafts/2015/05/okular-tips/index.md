@@ -1,7 +1,7 @@
 ---
 title: "View and Edit PDF Documents Using Okular"
-date: 2015-05-22 14:01:57
-modified: 2023-09-22 12:35:08
+created: 2015-05-22 14:01:57
+date: 2023-09-22 12:35:08
 authors:
   - bendu
 label: okular-tips

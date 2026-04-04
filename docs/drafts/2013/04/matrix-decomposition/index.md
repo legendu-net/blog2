@@ -1,7 +1,7 @@
 ---
 title: "Matrix Decomposition"
-date: 2013-04-24 23:14:16
-modified: 2013-10-24 23:14:16
+created: 2013-04-24 23:14:16
+date: 2013-10-24 23:14:16
 authors:
   - bendu
 label: matrix-decomposition

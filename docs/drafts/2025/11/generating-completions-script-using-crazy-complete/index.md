@@ -1,7 +1,7 @@
 ---
 title: "Generating Completions Script Using crazy-complete"
-date: 2025-11-16 16:02:18
-modified: 2025-11-18 03:23:46
+created: 2025-11-16 16:02:18
+date: 2025-11-18 03:23:46
 authors:
   - bendu
 label: generating-completions-script-using-crazy-complete

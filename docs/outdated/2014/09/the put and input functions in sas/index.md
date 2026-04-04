@@ -1,7 +1,7 @@
 ---
 title: "The PUT/INPUT Functions in SAS"
-date: 2014-09-28 17:11:56
-modified: 2015-08-28 17:11:56
+created: 2014-09-28 17:11:56
+date: 2015-08-28 17:11:56
 authors:
   - bendu
 label: the put and input functions in sas

@@ -1,7 +1,7 @@
 ---
 title: "AI-first Programming Languages"
-date: 2024-08-22 23:57:30
-modified: 2024-08-25 12:04:46
+created: 2024-08-22 23:57:30
+date: 2024-08-25 12:04:46
 authors:
   - bendu
 label: AI-first-programming-languages

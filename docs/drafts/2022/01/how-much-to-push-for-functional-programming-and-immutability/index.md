@@ -1,7 +1,7 @@
 ---
 title: "How Much to Push for Functional Programming and Immutability"
+created: 2022-01-19 14:02:09
 date: 2022-01-19 14:02:09
-modified: 2022-01-19 14:02:09
 authors:
   - bendu
 label: how-much-to-push-for-functional-programming-and-immutability

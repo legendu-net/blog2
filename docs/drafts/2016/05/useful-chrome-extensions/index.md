@@ -1,7 +1,7 @@
 ---
 title: "Useful Chrome Extensions"
-date: 2016-05-30 20:26:25
-modified: 2022-12-10 12:55:54
+created: 2016-05-30 20:26:25
+date: 2022-12-10 12:55:54
 authors:
   - bendu
 label: useful-chrome-extensions

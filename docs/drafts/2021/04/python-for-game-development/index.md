@@ -1,7 +1,7 @@
 ---
 title: "Python for Game Development"
+created: 2021-04-09 09:34:07
 date: 2021-04-09 09:34:07
-modified: 2021-04-09 09:34:07
 authors:
   - bendu
 label: python-for-game-development

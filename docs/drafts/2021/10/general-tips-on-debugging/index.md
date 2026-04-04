@@ -1,7 +1,7 @@
 ---
 title: "General Tips on Debugging"
+created: 2021-10-25 16:22:05
 date: 2021-10-25 16:22:05
-modified: 2021-10-25 16:22:05
 authors:
   - bendu
 label: general-tips-on-debugging

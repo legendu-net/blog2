@@ -1,7 +1,7 @@
 ---
 title: "Proxy for sudo"
-date: 2017-04-07 23:42:48
-modified: 2025-12-22 23:58:24
+created: 2017-04-07 23:42:48
+date: 2025-12-22 23:58:24
 authors:
   - bendu
 label: proxy-for-sudo

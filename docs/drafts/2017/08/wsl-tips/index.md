@@ -1,7 +1,7 @@
 ---
 title: "Tips on WSL 2"
-date: 2017-08-26 23:23:44
-modified: 2021-09-09 12:45:13
+created: 2017-08-26 23:23:44
+date: 2021-09-09 12:45:13
 authors:
   - bendu
 label: wsl-tips

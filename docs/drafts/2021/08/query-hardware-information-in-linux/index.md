@@ -1,7 +1,7 @@
 ---
 title: "Query Hardware Information in Linux"
-date: 2021-08-21 23:05:47
-modified: 2021-09-06 13:01:45
+created: 2021-08-21 23:05:47
+date: 2021-09-06 13:01:45
 authors:
   - bendu
 label: query-hardware-information-in-linux

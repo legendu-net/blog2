@@ -1,7 +1,7 @@
 ---
 title: "Static Type Checking of Python Scripts Using pytype"
-date: 2020-08-30 09:16:10
-modified: 2020-10-30 09:16:10
+created: 2020-08-30 09:16:10
+date: 2020-10-30 09:16:10
 authors:
   - bendu
 label: static-type-checking-of-Python-Scripts-using-pytype

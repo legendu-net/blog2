@@ -1,7 +1,7 @@
 ---
 title: "Quant Trading"
-date: 2016-06-09 19:32:27
-modified: 2024-09-11 17:20:47
+created: 2016-06-09 19:32:27
+date: 2024-09-11 17:20:47
 authors:
   - bendu
 label: quant-trading

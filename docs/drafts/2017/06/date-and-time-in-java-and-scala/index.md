@@ -1,7 +1,7 @@
 ---
 title: "Date and Time in Java and Scala"
-date: 2017-06-24 10:37:07
-modified: 2021-03-24 10:37:07
+created: 2017-06-24 10:37:07
+date: 2021-03-24 10:37:07
 authors:
   - bendu
 label: date-and-time-in-java-and-scala

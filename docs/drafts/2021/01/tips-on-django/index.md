@@ -1,7 +1,7 @@
 ---
 title: "Tips on Django"
+created: 2021-01-10 17:18:04
 date: 2021-01-10 17:18:04
-modified: 2021-01-10 17:18:04
 authors:
   - bendu
 label: tips-on-django

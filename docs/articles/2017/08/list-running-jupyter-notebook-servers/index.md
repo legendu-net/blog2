@@ -1,7 +1,7 @@
 ---
 title: "List Running Jupyter Notebook Servers"
-date: 2017-08-22 12:21:29
-modified: 2017-10-22 12:21:29
+created: 2017-08-22 12:21:29
+date: 2017-10-22 12:21:29
 authors:
   - bendu
 label: list-running-jupyter-notebook-servers

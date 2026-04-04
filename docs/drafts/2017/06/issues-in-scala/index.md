@@ -1,7 +1,7 @@
 ---
 title: "Issues in Scala"
-date: 2017-06-22 13:32:43
-modified: 2017-10-22 13:32:43
+created: 2017-06-22 13:32:43
+date: 2017-10-22 13:32:43
 authors:
   - bendu
 label: issues-in-scala

@@ -1,7 +1,7 @@
 ---
 title: "Use the Watch Command to Monitor Running Applications"
+created: 2020-02-17 13:13:30
 date: 2020-02-17 13:13:30
-modified: 2020-02-17 13:13:30
 authors:
   - bendu
 label: use-the-watch-command-to-monitor-running-applications

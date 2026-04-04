@@ -1,7 +1,7 @@
 ---
 title: "Tips on Oracle SQL"
-date: 2014-02-22 14:58:36
-modified: 2020-05-22 14:58:36
+created: 2014-02-22 14:58:36
+date: 2020-05-22 14:58:36
 authors:
   - bendu
 label: oracle-sql-tips

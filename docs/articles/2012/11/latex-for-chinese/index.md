@@ -1,7 +1,7 @@
 ---
 title: "LaTeX for Chinese"
-date: 2012-11-13 00:04:39
-modified: 2016-07-13 00:04:39
+created: 2012-11-13 00:04:39
+date: 2016-07-13 00:04:39
 authors:
   - bendu
 label: latex-for-chinese

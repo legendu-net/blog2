@@ -1,7 +1,7 @@
 ---
 title: "Nested Data Structures in Databases"
+created: 2025-12-17 11:01:32
 date: 2025-12-17 11:01:32
-modified: 2025-12-17 11:01:32
 authors:
   - bendu
 label: nested-data-structures-in-databases

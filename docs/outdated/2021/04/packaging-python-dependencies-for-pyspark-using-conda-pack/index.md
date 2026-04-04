@@ -1,7 +1,7 @@
 ---
 title: "Packaging Python Dependencies for PySpark Using conda-pack"
-date: 2021-04-30 12:13:17
-modified: 2021-07-18 22:12:43
+created: 2021-04-30 12:13:17
+date: 2021-07-18 22:12:43
 authors:
   - bendu
 label: packaging-python-dependencies-for-pyspark-using-conda-pack

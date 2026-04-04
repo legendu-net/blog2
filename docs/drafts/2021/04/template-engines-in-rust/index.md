@@ -1,7 +1,7 @@
 ---
 title: "Template Engines in Rust"
+created: 2021-04-24 08:46:18
 date: 2021-04-24 08:46:18
-modified: 2021-04-24 08:46:18
 authors:
   - bendu
 label: template-engines-in-rust

@@ -1,7 +1,7 @@
 ---
 title: "Const Generic in Rust"
-date: 2023-06-19 23:45:11
-modified: 2023-06-27 23:12:35
+created: 2023-06-19 23:45:11
+date: 2023-06-27 23:12:35
 authors:
   - bendu
 label: const-generic-in-rust

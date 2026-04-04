@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: Timeout When Communicate With Driver During Shuffle Caused by Driver OOM"
-date: 2019-05-26 10:15:49
-modified: 2021-03-26 10:15:49
+created: 2019-05-26 10:15:49
+date: 2021-03-26 10:15:49
 authors:
   - bendu
 label: spark-issue-timeout-when-communicate-with-driver-during-shuffle

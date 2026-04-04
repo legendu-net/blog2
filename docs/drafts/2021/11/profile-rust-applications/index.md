@@ -1,7 +1,7 @@
 ---
 title: "Profile Rust Applications"
-date: 2021-11-08 10:19:34
-modified: 2023-08-02 17:52:50
+created: 2021-11-08 10:19:34
+date: 2023-08-02 17:52:50
 authors:
   - bendu
 label: profile-rust-applications

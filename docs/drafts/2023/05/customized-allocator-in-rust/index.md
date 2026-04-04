@@ -1,7 +1,7 @@
 ---
 title: "Customized Allocator in Rust"
-date: 2023-05-26 10:42:01
-modified: 2023-06-04 20:48:58
+created: 2023-05-26 10:42:01
+date: 2023-06-04 20:48:58
 authors:
   - bendu
 label: customized-allocator-in-rust

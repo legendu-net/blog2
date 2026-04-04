@@ -1,7 +1,7 @@
 ---
 title: "The Deref Trait in Rust"
-date: 2023-07-22 11:27:41
-modified: 2023-07-22 22:43:20
+created: 2023-07-22 11:27:41
+date: 2023-07-22 22:43:20
 authors:
   - bendu
 label: the-deref-trait-in-rust

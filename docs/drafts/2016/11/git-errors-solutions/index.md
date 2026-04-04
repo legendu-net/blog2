@@ -1,7 +1,7 @@
 ---
 title: "Git Errors and Solutions"
-date: 2016-11-14 14:02:46
-modified: 2020-07-14 14:02:46
+created: 2016-11-14 14:02:46
+date: 2020-07-14 14:02:46
 authors:
   - bendu
 label: git-errors-solutions

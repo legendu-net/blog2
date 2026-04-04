@@ -1,7 +1,7 @@
 ---
 title: "Python Distribution"
-date: 2019-10-22 09:36:27
-modified: 2024-08-28 13:27:33
+created: 2019-10-22 09:36:27
+date: 2024-08-28 13:27:33
 authors:
   - bendu
 label: python-distribution

@@ -1,7 +1,7 @@
 ---
 title: "Which One Is the Best Strategy?"
-date: 2010-05-20 10:54:32
-modified: 2015-02-20 10:54:32
+created: 2010-05-20 10:54:32
+date: 2015-02-20 10:54:32
 authors:
   - bendu
 label: best-strategy

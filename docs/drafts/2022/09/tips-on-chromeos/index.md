@@ -1,7 +1,7 @@
 ---
 title: "Tips on ChromeOS"
-date: 2022-09-02 10:06:09
-modified: 2022-09-05 18:29:22
+created: 2022-09-02 10:06:09
+date: 2022-09-05 18:29:22
 authors:
   - bendu
 label: tips-on-chromeos

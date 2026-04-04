@@ -1,7 +1,7 @@
 ---
 title: "Tips on GitHub"
-date: 2019-02-08 13:41:56
-modified: 2023-07-07 20:23:50
+created: 2019-02-08 13:41:56
+date: 2023-07-07 20:23:50
 authors:
   - bendu
 label: github-tips

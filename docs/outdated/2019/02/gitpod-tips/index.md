@@ -1,7 +1,7 @@
 ---
 title: "Tips on Gitpod"
-date: 2019-02-20 09:49:30
-modified: 2022-06-15 08:25:37
+created: 2019-02-20 09:49:30
+date: 2022-06-15 08:25:37
 authors:
   - bendu
 label: gitpod-tips

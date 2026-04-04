@@ -1,7 +1,7 @@
 ---
 title: "Sample Lines from a File Using Command Line"
-date: 2016-06-28 10:52:36
-modified: 2017-10-28 10:52:36
+created: 2016-06-28 10:52:36
+date: 2017-10-28 10:52:36
 authors:
   - bendu
 label: sample-lines-from-a-file-using-command-line

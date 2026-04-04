@@ -1,7 +1,7 @@
 ---
 title: "Automated Phone Bill Using Ruby Program"
-date: 2012-06-18 08:17:18
-modified: 2014-06-18 08:17:18
+created: 2012-06-18 08:17:18
+date: 2014-06-18 08:17:18
 authors:
   - bendu
 label: automated-verizon-bill-using-ruby

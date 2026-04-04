@@ -1,7 +1,7 @@
 ---
 title: "Check Whether a File Exists in Spark"
+created: 2019-05-09 22:30:29
 date: 2019-05-09 22:30:29
-modified: 2019-05-09 22:30:29
 authors:
   - bendu
 label: check-whether-a-file-exists-in-spark

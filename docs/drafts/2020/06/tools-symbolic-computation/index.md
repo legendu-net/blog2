@@ -1,7 +1,7 @@
 ---
 title: "Tools for Symbolic Computation"
-date: 2020-06-12 10:23:32
-modified: 2022-04-27 10:35:07
+created: 2020-06-12 10:23:32
+date: 2022-04-27 10:35:07
 authors:
   - bendu
 label: tools-symbolic-computation

@@ -1,7 +1,7 @@
 ---
 title: "The Power of Generating Functions"
-date: 2010-05-22 02:20:55
-modified: 2015-11-22 02:20:55
+created: 2010-05-22 02:20:55
+date: 2015-11-22 02:20:55
 authors:
   - bendu
 label: generating-functions

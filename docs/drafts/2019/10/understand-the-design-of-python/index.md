@@ -1,7 +1,7 @@
 ---
 title: "Understand the Design of Python"
+created: 2019-10-04 20:19:41
 date: 2019-10-04 20:19:41
-modified: 2019-10-04 20:19:41
 authors:
   - bendu
 label: understand-the-design-of-python

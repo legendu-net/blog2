@@ -1,7 +1,7 @@
 ---
 title: "Verify Rust Code"
-date: 2022-12-23 20:48:59
-modified: 2022-12-26 11:47:38
+created: 2022-12-23 20:48:59
+date: 2022-12-26 11:47:38
 authors:
   - bendu
 label: verify-rust-code

@@ -1,7 +1,7 @@
 ---
 title: "Useful Accessories for Rivian"
-date: 2025-09-30 08:16:05
-modified: 2025-10-04 09:33:27
+created: 2025-09-30 08:16:05
+date: 2025-10-04 09:33:27
 authors:
   - bendu
 label: useful-accessories-for-rivian

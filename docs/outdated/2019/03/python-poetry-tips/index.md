@@ -1,7 +1,7 @@
 ---
 title: "Manage Your Python Project Using Poetry"
-date: 2019-03-02 11:17:44
-modified: 2025-04-30 14:48:52
+created: 2019-03-02 11:17:44
+date: 2025-04-30 14:48:52
 authors:
   - bendu
 label: python-poetry-tips

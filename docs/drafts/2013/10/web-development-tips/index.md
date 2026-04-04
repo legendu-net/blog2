@@ -1,7 +1,7 @@
 ---
 title: "Tips on Web Development"
-date: 2013-10-26 13:10:46
-modified: 2021-04-26 13:10:46
+created: 2013-10-26 13:10:46
+date: 2021-04-26 13:10:46
 authors:
   - bendu
 label: web-development-tips

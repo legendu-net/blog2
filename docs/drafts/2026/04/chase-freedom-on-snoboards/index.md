@@ -1,7 +1,7 @@
 ---
 title: Chasing Freedom on Snowboards
-date: 2026-04-03 19:10:39.880862
-modified: 2026-04-04 11:15:46.734218
+created: 2026-04-03 19:10:39.880862
+date: 2026-04-04 11:15:46.734218
 authors:
 - bendu
 label: chase-freedom-on-snoboards

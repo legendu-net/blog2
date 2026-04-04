@@ -1,7 +1,7 @@
 ---
 title: "Show Inferred Type in IntelliJ IDEA"
-date: 2018-04-28 18:17:40
-modified: 2019-12-28 18:17:40
+created: 2018-04-28 18:17:40
+date: 2019-12-28 18:17:40
 authors:
   - bendu
 label: intellij-idea-shortcuts

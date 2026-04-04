@@ -1,7 +1,7 @@
 ---
 title: "Auto Increment in SQL"
+created: 2016-10-23 12:33:22
 date: 2016-10-23 12:33:22
-modified: 2016-10-23 12:33:22
 authors:
   - bendu
 label: auto-increment-in-sql

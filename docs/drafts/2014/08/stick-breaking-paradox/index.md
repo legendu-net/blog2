@@ -1,7 +1,7 @@
 ---
 title: Stick Breaking Paradox
-date: 2014-08-23 17:11:45
-modified: 2014-10-23 17:11:45
+created: 2014-08-23 17:11:45
+date: 2014-10-23 17:11:45
 authors:
   - bendu
 label: stick-breaking-paradox

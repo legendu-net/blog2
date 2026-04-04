@@ -1,7 +1,7 @@
 ---
 title: "Physical World Modeling and Computer Vision"
+created: 2020-04-29 23:11:37
 date: 2020-04-29 23:11:37
-modified: 2020-04-29 23:11:37
 authors:
   - bendu
 label: physical-world-modeling-and-computer-vision

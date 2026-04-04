@@ -1,7 +1,7 @@
 ---
 title: "Abstract Class and Interface in Java"
-date: 2012-05-23 11:15:19
-modified: 2014-09-23 11:15:19
+created: 2012-05-23 11:15:19
+date: 2014-09-23 11:15:19
 authors:
   - bendu
 label: java-difference-abstract-interface

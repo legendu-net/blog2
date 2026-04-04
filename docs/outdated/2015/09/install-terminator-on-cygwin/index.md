@@ -1,7 +1,7 @@
 ---
 title: "Install Terminator on Cygwin"
-date: 2015-09-09 22:24:39
-modified: 2016-07-09 22:24:39
+created: 2015-09-09 22:24:39
+date: 2016-07-09 22:24:39
 authors:
   - bendu
 label: install-terminator-on-cygwin

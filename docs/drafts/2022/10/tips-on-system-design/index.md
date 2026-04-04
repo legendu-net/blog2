@@ -1,7 +1,7 @@
 ---
 title: "Tips on System Design"
-date: 2022-10-08 16:41:38
-modified: 2023-06-09 23:42:32
+created: 2022-10-08 16:41:38
+date: 2023-06-09 23:42:32
 authors:
   - bendu
 label: tips-on-system-design

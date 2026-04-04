@@ -1,7 +1,7 @@
 ---
 title: "Good Choices of Reverse Proxies"
-date: 2022-12-09 10:57:00
-modified: 2023-01-10 11:39:07
+created: 2022-12-09 10:57:00
+date: 2023-01-10 11:39:07
 authors:
   - bendu
 label: good-choices-of-reverse-proxies

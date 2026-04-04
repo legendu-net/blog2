@@ -1,7 +1,7 @@
 ---
 title: "Docker Issue: Repository Is Not Signed in Docker Build"
+created: 2021-03-26 14:44:52
 date: 2021-03-26 14:44:52
-modified: 2021-03-26 14:44:52
 authors:
   - bendu
 label: repository-is-not-signed-in-docker-build

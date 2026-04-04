@@ -1,7 +1,7 @@
 ---
 title: "Flat Tire on Rivian"
-date: 2025-08-02 23:36:54
-modified: 2025-08-10 08:46:31
+created: 2025-08-02 23:36:54
+date: 2025-08-10 08:46:31
 authors:
   - bendu
 label: flat-tire-on-rivian

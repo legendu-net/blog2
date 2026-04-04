@@ -1,7 +1,7 @@
 ---
 title: "Vim as a Universal Editor"
-date: 2016-03-05 21:06:14
-modified: 2025-06-09 02:48:02
+created: 2016-03-05 21:06:14
+date: 2025-06-09 02:48:02
 authors:
   - bendu
 label: vim-as-a-universal-editor

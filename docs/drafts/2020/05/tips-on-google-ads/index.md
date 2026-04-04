@@ -1,7 +1,7 @@
 ---
 title: "Tips on Google Ads"
-date: 2020-05-25 18:56:25
-modified: 2022-04-30 15:27:55
+created: 2020-05-25 18:56:25
+date: 2022-04-30 15:27:55
 authors:
   - bendu
 label: tips-on-google-ads

@@ -1,7 +1,7 @@
 ---
 title: "Tips on sbt Assembly"
-date: 2017-08-22 15:03:24
-modified: 2020-05-22 15:03:24
+created: 2017-08-22 15:03:24
+date: 2020-05-22 15:03:24
 authors:
   - bendu
 label: sbt-assembly-tips

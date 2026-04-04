@@ -1,7 +1,7 @@
 ---
 title: "Regression Classification ANOVA"
+created: 2013-03-22 00:00:00
 date: 2013-03-22 00:00:00
-modified: 2013-03-22 00:00:00
 authors:
   - bendu
 label: regression-classification-anova

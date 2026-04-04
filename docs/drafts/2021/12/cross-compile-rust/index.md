@@ -1,7 +1,7 @@
 ---
 title: "Cross Compile Rust"
-date: 2021-12-23 10:25:30
-modified: 2021-12-24 10:46:13
+created: 2021-12-23 10:25:30
+date: 2021-12-24 10:46:13
 authors:
   - bendu
 label: cross-compile-rust

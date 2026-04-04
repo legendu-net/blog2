@@ -1,7 +1,7 @@
 ---
 title: "What are the Two Integers?"
-date: 2013-02-08 11:41:48
-modified: 2014-09-08 11:41:48
+created: 2013-02-08 11:41:48
+date: 2014-09-08 11:41:48
 authors:
   - bendu
 label: find-the-two-indivisible-numbers

@@ -1,7 +1,7 @@
 ---
 title: "Make Inference Using Bootstrap"
+created: 2016-03-05 20:04:20
 date: 2016-03-05 20:04:20
-modified: 2016-03-05 20:04:20
 authors:
   - bendu
 label: make-inference-using-bootstrap

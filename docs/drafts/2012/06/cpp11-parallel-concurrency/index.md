@@ -1,7 +1,7 @@
 ---
 title: "Parallel and Concurrency Programming in C++11"
-date: 2012-06-25 17:51:37
-modified: 2020-03-25 17:51:37
+created: 2012-06-25 17:51:37
+date: 2020-03-25 17:51:37
 authors:
   - bendu
 label: cpp11-parallel-concurrency

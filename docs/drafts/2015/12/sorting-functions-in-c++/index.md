@@ -1,7 +1,7 @@
 ---
 title: "Sorting Functions in C++"
+created: 2015-12-16 00:05:32
 date: 2015-12-16 00:05:32
-modified: 2015-12-16 00:05:32
 authors:
   - bendu
 label: sorting-functions-in-c++

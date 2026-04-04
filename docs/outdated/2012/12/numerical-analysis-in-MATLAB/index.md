@@ -1,7 +1,7 @@
 ---
 title: "Numerical Analysis in MATLAB"
+created: 2012-12-04 00:00:00
 date: 2012-12-04 00:00:00
-modified: 2012-12-04 00:00:00
 authors:
   - bendu
 label: numerical-analysis-in-MATLAB

@@ -1,7 +1,7 @@
 ---
 title: "Resolve the DNS Contamination Issue in Firefox"
-date: 2018-09-11 01:11:28
-modified: 2021-09-26 21:54:44
+created: 2018-09-11 01:11:28
+date: 2021-09-26 21:54:44
 authors:
   - bendu
 label: resolve-the-dns-contamination-issue-in-firefox

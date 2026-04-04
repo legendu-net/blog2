@@ -1,7 +1,7 @@
 ---
 title: "Fastload in Teradata"
-date: 2020-05-22 09:06:28
-modified: 2020-06-22 09:06:28
+created: 2020-05-22 09:06:28
+date: 2020-06-22 09:06:28
 authors:
   - bendu
 label: Improve Performance of Inserting in Teradata SQL

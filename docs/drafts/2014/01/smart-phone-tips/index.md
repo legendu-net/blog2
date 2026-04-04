@@ -1,7 +1,7 @@
 ---
 title: "Tips on Smart Phone"
-date: 2014-01-22 12:34:03
-modified: 2024-12-25 22:27:27
+created: 2014-01-22 12:34:03
+date: 2024-12-25 22:27:27
 authors:
   - bendu
 label: smart-phone-tips

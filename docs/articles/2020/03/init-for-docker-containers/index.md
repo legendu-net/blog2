@@ -1,7 +1,7 @@
 ---
 title: "Init for Docker Containers"
-date: 2020-03-05 11:08:32
-modified: 2021-09-14 11:07:25
+created: 2020-03-05 11:08:32
+date: 2021-09-14 11:07:25
 authors:
   - bendu
 label: init-for-docker-containers

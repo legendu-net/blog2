@@ -1,7 +1,7 @@
 ---
 title: "Get Resources in Java"
+created: 2019-12-03 10:56:56
 date: 2019-12-03 10:56:56
-modified: 2019-12-03 10:56:56
 authors:
   - bendu
 label: get-resources-in-java

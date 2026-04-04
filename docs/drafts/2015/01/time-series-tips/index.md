@@ -1,7 +1,7 @@
 ---
 title: "Time Series Analysis"
-date: 2015-01-22 13:26:10
-modified: 2020-05-22 13:26:10
+created: 2015-01-22 13:26:10
+date: 2020-05-22 13:26:10
 authors:
   - bendu
 label: time-series-tips

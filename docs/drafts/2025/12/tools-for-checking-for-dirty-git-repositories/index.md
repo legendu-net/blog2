@@ -1,7 +1,7 @@
 ---
 title: "Tools for Checking for Dirty Git Repositories"
+created: 2025-12-15 19:18:01
 date: 2025-12-15 19:18:01
-modified: 2025-12-15 19:18:01
 authors:
   - bendu
 label: tools-for-checking-for-dirty-git-repositories

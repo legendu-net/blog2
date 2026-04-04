@@ -1,7 +1,7 @@
 ---
 title: "Tips on Maven"
-date: 2017-01-22 15:06:34
-modified: 2020-05-22 15:06:34
+created: 2017-01-22 15:06:34
+date: 2020-05-22 15:06:34
 authors:
   - bendu
 label: maven-tips

@@ -1,7 +1,7 @@
 ---
 title: "mkShell vs buildFHSUserEnv in Nix"
+created: 2025-04-21 13:07:34
 date: 2025-04-21 13:07:34
-modified: 2025-04-21 13:07:34
 authors:
   - bendu
 label: mkshell-vs-buildFHSUserEnv-in-nix

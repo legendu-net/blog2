@@ -1,7 +1,7 @@
 ---
 title: "Generating YYYYMM Formatted Dates Using Python"
+created: 2015-05-17 17:05:55
 date: 2015-05-17 17:05:55
-modified: 2015-05-17 17:05:55
 authors:
   - bendu
 label: generating-yyyymm-formatted-dates-using-python

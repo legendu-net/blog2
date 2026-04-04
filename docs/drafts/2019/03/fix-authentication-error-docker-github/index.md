@@ -1,7 +1,7 @@
 ---
 title: "Fix Authentication Error of GitHub Repositories on DockerHub"
-date: 2019-03-04 19:49:58
-modified: 2021-09-10 15:15:14
+created: 2019-03-04 19:49:58
+date: 2021-09-10 15:15:14
 authors:
   - bendu
 label: fix-authentication-error-docker-github

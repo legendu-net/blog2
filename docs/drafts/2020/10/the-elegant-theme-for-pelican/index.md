@@ -1,7 +1,7 @@
 ---
 title: "The Elegant Theme for Pelican"
+created: 2020-10-22 09:23:48
 date: 2020-10-22 09:23:48
-modified: 2020-10-22 09:23:48
 authors:
   - bendu
 label: the-elegant-theme-for-pelican

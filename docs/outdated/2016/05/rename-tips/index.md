@@ -1,7 +1,7 @@
 ---
 title: "Batch File Renaming Using \"rename\""
-date: 2016-05-12 11:04:38
-modified: 2020-07-12 11:04:38
+created: 2016-05-12 11:04:38
+date: 2020-07-12 11:04:38
 authors:
   - bendu
 label: rename-tips

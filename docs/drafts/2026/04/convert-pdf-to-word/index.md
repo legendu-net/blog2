@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to Word
-date: 2026-04-03 18:11:07.353641
-modified: 2026-04-04 12:42:35.149558
+created: 2026-04-03 18:11:07.353641
+date: 2026-04-04 15:32:07.137598
 authors:
 - bendu
 label: convert-pdf-to-word

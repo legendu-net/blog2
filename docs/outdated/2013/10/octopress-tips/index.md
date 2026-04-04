@@ -1,7 +1,7 @@
 ---
 title: "Tips About Octopress"
-date: 2013-10-15 21:43:18
-modified: 2016-08-15 21:43:18
+created: 2013-10-15 21:43:18
+date: 2016-08-15 21:43:18
 authors:
   - bendu
 label: octopress-tips

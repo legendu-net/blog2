@@ -1,7 +1,7 @@
 ---
 title: "Read PDF in Ruby"
-date: 2012-06-18 17:57:21
-modified: 2019-04-18 17:57:21
+created: 2012-06-18 17:57:21
+date: 2019-04-18 17:57:21
 authors:
   - bendu
 label: ruby-read-pdf

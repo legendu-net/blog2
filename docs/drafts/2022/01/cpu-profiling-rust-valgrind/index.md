@@ -1,7 +1,7 @@
 ---
 title: "CPU Profiling of Rust Applications Using Valgrind"
-date: 2022-01-13 01:02:06
-modified: 2023-04-17 14:30:28
+created: 2022-01-13 01:02:06
+date: 2023-04-17 14:30:28
 authors:
   - bendu
 label: cpu-profiling-rust-valgrind

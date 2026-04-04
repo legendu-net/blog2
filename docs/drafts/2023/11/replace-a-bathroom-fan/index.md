@@ -1,7 +1,7 @@
 ---
 title: "Replace a Bathroom Fan"
-date: 2023-11-26 09:23:39
-modified: 2024-12-25 10:36:19
+created: 2023-11-26 09:23:39
+date: 2024-12-25 10:36:19
 authors:
   - bendu
 label: replace-a-bathroom-fan

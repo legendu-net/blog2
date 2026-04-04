@@ -1,7 +1,7 @@
 ---
 title: "Foreign Currency Investment"
-date: 2024-03-13 01:17:05
-modified: 2024-03-16 13:56:41
+created: 2024-03-13 01:17:05
+date: 2024-03-16 13:56:41
 authors:
   - bendu
 label: foreign-currency-investment

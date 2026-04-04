@@ -1,7 +1,7 @@
 ---
 title: "R Configuration"
+created: 2016-06-11 17:53:43
 date: 2016-06-11 17:53:43
-modified: 2016-06-11 17:53:43
 authors:
   - bendu
 label: R-configuration

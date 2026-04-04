@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: Pure Python Code Errors"
-date: 2021-03-22 10:18:22
-modified: 2022-01-06 22:33:12
+created: 2021-03-22 10:18:22
+date: 2022-01-06 22:33:12
 authors:
   - bendu
 label: Spark-issue:-Pure-Python-code-errors

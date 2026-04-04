@@ -1,7 +1,7 @@
 ---
 title: "Docker Images for Programming Languages"
-date: 2017-07-14 09:41:49
-modified: 2020-07-14 09:41:49
+created: 2017-07-14 09:41:49
+date: 2020-07-14 09:41:49
 authors:
   - bendu
 label: docker-images-for-programming-languages

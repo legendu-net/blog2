@@ -1,7 +1,7 @@
 ---
 title: "Combine Data Vertically in SAS"
+created: 2015-05-17 18:38:29
 date: 2015-05-17 18:38:29
-modified: 2015-05-17 18:38:29
 authors:
   - bendu
 label: combine-data-vertically-in-sas

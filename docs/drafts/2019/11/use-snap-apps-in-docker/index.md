@@ -1,7 +1,7 @@
 ---
 title: "Use Snap Apps in Docker"
+created: 2019-11-17 12:24:36
 date: 2019-11-17 12:24:36
-modified: 2019-11-17 12:24:36
 authors:
   - bendu
 label: use-snap-apps-in-docker

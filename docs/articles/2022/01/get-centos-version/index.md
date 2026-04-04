@@ -1,7 +1,7 @@
 ---
 title: "Get CentOS Version"
-date: 2022-01-01 13:47:32
-modified: 2022-01-22 12:30:40
+created: 2022-01-01 13:47:32
+date: 2022-01-22 12:30:40
 authors:
   - bendu
 label: get-centos-version

@@ -1,7 +1,7 @@
 ---
 title: "Work With Teradata SQL in Python"
-date: 2017-05-17 11:47:48
-modified: 2020-05-17 11:47:48
+created: 2017-05-17 11:47:48
+date: 2020-05-17 11:47:48
 authors:
   - bendu
 label: work-with-teradata-sql-in-python

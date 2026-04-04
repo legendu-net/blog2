@@ -1,7 +1,7 @@
 ---
 title: "Implementing Equality and Hash Methods in Python"
+created: 2019-10-31 23:51:05
 date: 2019-10-31 23:51:05
-modified: 2019-10-31 23:51:05
 authors:
   - bendu
 label: implementing-equality-and-hash-methods-in-python

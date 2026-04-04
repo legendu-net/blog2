@@ -1,7 +1,7 @@
 ---
 title: "Time and Date in R"
-date: 2012-11-14 16:46:40
-modified: 2015-01-14 16:46:40
+created: 2012-11-14 16:46:40
+date: 2015-01-14 16:46:40
 authors:
   - bendu
 label: time-and-date-in-r

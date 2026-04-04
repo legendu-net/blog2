@@ -1,7 +1,7 @@
 ---
 title: "Useful Tools in Linux"
-date: 2012-08-17 11:42:15
-modified: 2026-01-09 11:29:58
+created: 2012-08-17 11:42:15
+date: 2026-01-09 11:29:58
 authors:
   - bendu
 label: useful-tools-linux

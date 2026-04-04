@@ -1,7 +1,7 @@
 ---
 title: "Gradient Clipping in PyTorch"
+created: 2020-03-04 16:12:45
 date: 2020-03-04 16:12:45
-modified: 2020-03-04 16:12:45
 authors:
   - bendu
 label: gradient-clipping-in-pytorch

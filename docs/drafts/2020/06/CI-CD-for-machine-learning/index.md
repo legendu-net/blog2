@@ -1,7 +1,7 @@
 ---
 title: "CI/CD for Machine Learning"
-date: 2020-06-05 08:07:47
-modified: 2021-04-05 08:07:47
+created: 2020-06-05 08:07:47
+date: 2021-04-05 08:07:47
 authors:
   - bendu
 label: CI-CD-for-machine-learning

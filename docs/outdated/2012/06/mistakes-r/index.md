@@ -1,7 +1,7 @@
 ---
 title: "Easy Made Mistakes when Writing R code"
-date: 2012-06-14 22:04:09
-modified: 2015-05-14 22:04:09
+created: 2012-06-14 22:04:09
+date: 2015-05-14 22:04:09
 authors:
   - bendu
 label: mistakes-r

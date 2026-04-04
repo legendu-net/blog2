@@ -1,7 +1,7 @@
 ---
 title: "General Tips for Gradle"
-date: 2018-12-08 16:57:03
-modified: 2020-04-08 16:57:03
+created: 2018-12-08 16:57:03
+date: 2020-04-08 16:57:03
 authors:
   - bendu
 label: gradle-tips

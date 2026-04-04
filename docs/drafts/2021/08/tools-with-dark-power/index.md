@@ -1,7 +1,7 @@
 ---
 title: "Tools With Dark Power"
-date: 2021-08-08 11:56:50
-modified: 2024-11-11 10:26:08
+created: 2021-08-08 11:56:50
+date: 2024-11-11 10:26:08
 authors:
   - bendu
 label: tools-with-dark-power

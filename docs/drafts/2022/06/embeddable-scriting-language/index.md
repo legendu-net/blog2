@@ -1,7 +1,7 @@
 ---
 title: "Embeddable Scriting Language"
-date: 2022-06-12 17:23:48
-modified: 2023-06-27 14:49:54
+created: 2022-06-12 17:23:48
+date: 2023-06-27 14:49:54
 authors:
   - bendu
 label: embeddable-scriting-language

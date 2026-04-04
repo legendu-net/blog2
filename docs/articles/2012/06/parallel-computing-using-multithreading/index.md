@@ -1,7 +1,7 @@
 ---
 title: "Parallel Computing Using Multithreading"
-date: 2012-06-26 11:14:47
-modified: 2020-03-26 11:14:47
+created: 2012-06-26 11:14:47
+date: 2020-03-26 11:14:47
 authors:
   - bendu
 label: parallel-computing-using-multithreading

@@ -1,7 +1,7 @@
 ---
 title: "Tips on Washing Machine"
-date: 2025-01-15 22:40:32
-modified: 2025-01-15 22:45:23
+created: 2025-01-15 22:40:32
+date: 2025-01-15 22:45:23
 authors:
   - bendu
 label: tips-on-washing-machine

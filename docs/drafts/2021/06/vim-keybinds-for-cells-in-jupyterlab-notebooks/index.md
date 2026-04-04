@@ -1,7 +1,7 @@
 ---
 title: "Editing JupyterLab Notebooks Using Vim"
-date: 2021-06-08 08:42:41
-modified: 2022-05-08 12:24:51
+created: 2021-06-08 08:42:41
+date: 2022-05-08 12:24:51
 authors:
   - bendu
 label: vim-keybinds-for-cells-in-jupyterlab-notebooks

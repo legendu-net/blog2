@@ -1,7 +1,7 @@
 ---
 title: "MATLAB for Statisticians"
+created: 2012-12-04 00:00:00
 date: 2012-12-04 00:00:00
-modified: 2012-12-04 00:00:00
 authors:
   - bendu
 label: statistics-in-MATLAB

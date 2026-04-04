@@ -1,7 +1,7 @@
 ---
 title: "Gitignore Examples"
-date: 2019-01-11 11:35:36
-modified: 2021-03-11 11:35:36
+created: 2019-01-11 11:35:36
+date: 2021-03-11 11:35:36
 authors:
   - bendu
 label: gitignore-tips

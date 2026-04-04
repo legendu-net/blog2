@@ -1,7 +1,7 @@
 ---
 title: "OOM in Rust"
-date: 2023-03-05 13:39:51
-modified: 2023-06-19 23:44:50
+created: 2023-03-05 13:39:51
+date: 2023-06-19 23:44:50
 authors:
   - bendu
 label: OOM-in-Rust

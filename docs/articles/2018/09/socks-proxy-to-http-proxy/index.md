@@ -1,7 +1,7 @@
 ---
 title: "Convert a Socks Proxy to a HTTP Proxy"
-date: 2018-09-08 18:57:48
-modified: 2021-09-26 21:54:00
+created: 2018-09-08 18:57:48
+date: 2021-09-26 21:54:00
 authors:
   - bendu
 label: socks-proxy-to-http-proxy

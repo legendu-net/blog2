@@ -1,7 +1,7 @@
 ---
 title: "The Confusing String in SAS"
-date: 2014-09-28 16:55:06
-modified: 2015-08-28 16:55:06
+created: 2014-09-28 16:55:06
+date: 2015-08-28 16:55:06
 authors:
   - bendu
 label: the confusing string in sas

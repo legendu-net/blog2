@@ -1,7 +1,7 @@
 ---
 title: "Package Management in Linux"
-date: 2018-04-11 10:11:29
-modified: 2026-01-01 09:01:37
+created: 2018-04-11 10:11:29
+date: 2026-01-01 09:01:37
 authors:
   - bendu
 label: package-management-in-linux

@@ -1,7 +1,7 @@
 ---
 title: "Useful Rust Crates for String"
-date: 2023-01-13 15:42:22
-modified: 2025-06-05 08:47:48
+created: 2023-01-13 15:42:22
+date: 2025-06-05 08:47:48
 authors:
   - bendu
 label: useful-rust-crates-for-string

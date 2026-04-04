@@ -1,7 +1,7 @@
 ---
 title: "Writing R Extensions"
-date: 2012-11-23 17:13:18
-modified: 2016-10-23 17:13:18
+created: 2012-11-23 17:13:18
+date: 2016-10-23 17:13:18
 authors:
   - bendu
 label: writing-r-extensions

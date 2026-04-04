@@ -1,7 +1,7 @@
 ---
 title: "Screen Resolution in macOS"
-date: 2022-10-16 15:00:21
-modified: 2022-11-04 11:40:11
+created: 2022-10-16 15:00:21
+date: 2022-11-04 11:40:11
 authors:
   - bendu
 label: screen-resolution-in-macOS

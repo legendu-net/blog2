@@ -1,7 +1,7 @@
 ---
 title: "Frontend Development Using Yew"
+created: 2023-05-07 20:45:45
 date: 2023-05-07 20:45:45
-modified: 2023-05-07 20:45:45
 authors:
   - bendu
 label: frontend-development-using-yew

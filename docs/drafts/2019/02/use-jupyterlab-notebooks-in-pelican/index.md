@@ -1,7 +1,7 @@
 ---
 title: "Use JupyterLab Notebooks in Pelican"
-date: 2019-02-22 12:31:45
-modified: 2020-11-22 12:31:45
+created: 2019-02-22 12:31:45
+date: 2020-11-22 12:31:45
 authors:
   - bendu
 label: use-jupyterlab-notebooks-in-pelican

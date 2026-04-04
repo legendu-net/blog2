@@ -1,7 +1,7 @@
 ---
 title: "Document Rust APIs"
-date: 2021-10-12 23:06:49
-modified: 2021-10-13 20:41:03
+created: 2021-10-12 23:06:49
+date: 2021-10-13 20:41:03
 authors:
   - bendu
 label: document-rust-apis

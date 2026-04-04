@@ -1,7 +1,7 @@
 ---
 title: "Write Documentation for Python Packages Using Sphinx"
-date: 2020-06-01 21:51:41
-modified: 2021-06-01 21:51:41
+created: 2020-06-01 21:51:41
+date: 2021-06-01 21:51:41
 authors:
   - bendu
 label: write-documentation-for-python-packages-using-sphinx

@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: Table Not Found"
-date: 2019-05-24 15:06:53
-modified: 2021-03-24 15:06:53
+created: 2019-05-24 15:06:53
+date: 2021-03-24 15:06:53
 authors:
   - bendu
 label: spark-issue-table-not-found

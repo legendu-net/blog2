@@ -1,7 +1,7 @@
 ---
 title: "Configure Debian Apt Source List"
-date: 2014-12-06 14:39:03
-modified: 2020-04-06 14:39:03
+created: 2014-12-06 14:39:03
+date: 2020-04-06 14:39:03
 authors:
   - bendu
 label: configure-debian-sources

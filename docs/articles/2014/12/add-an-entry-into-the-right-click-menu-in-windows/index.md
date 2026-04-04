@@ -1,7 +1,7 @@
 ---
 title: "Add an Entry into the Right-click Menu in Windows"
-date: 2014-12-03 19:30:50
-modified: 2015-02-03 19:30:50
+created: 2014-12-03 19:30:50
+date: 2015-02-03 19:30:50
 authors:
   - bendu
 label: add-an-entry-into-the-right-click-menu-in-windows

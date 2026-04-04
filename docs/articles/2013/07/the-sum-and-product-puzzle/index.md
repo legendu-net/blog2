@@ -1,7 +1,7 @@
 ---
 title: "The Sum and Product Puzzle"
-date: 2013-07-04 23:47:19
-modified: 2015-02-04 23:47:19
+created: 2013-07-04 23:47:19
+date: 2015-02-04 23:47:19
 authors:
   - bendu
 label: the-sum-and-product-puzzle

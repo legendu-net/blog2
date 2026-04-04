@@ -1,7 +1,7 @@
 ---
 title: Show Image in Terminal
-date: 2020-02-11 08:45:30
-modified: 2021-05-11 08:45:30
+created: 2020-02-11 08:45:30
+date: 2021-05-11 08:45:30
 authors:
   - bendu
 label: show-image-in-terminal

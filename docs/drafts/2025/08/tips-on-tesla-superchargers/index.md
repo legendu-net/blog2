@@ -1,7 +1,7 @@
 ---
 title: "Tips on Tesla Superchargers"
+created: 2025-08-23 22:25:52
 date: 2025-08-23 22:25:52
-modified: 2025-08-23 22:25:52
 authors:
   - bendu
 label: tips-on-tesla-superchargers

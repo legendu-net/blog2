@@ -1,7 +1,7 @@
 ---
 title: "Tips on Ui Vision"
+created: 2023-10-11 11:05:41
 date: 2023-10-11 11:05:41
-modified: 2023-10-11 11:05:41
 authors:
   - bendu
 label: tips-on-ui-vision

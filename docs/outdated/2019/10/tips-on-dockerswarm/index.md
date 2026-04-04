@@ -1,7 +1,7 @@
 ---
 title: "Tips on Dockerswarm"
-date: 2019-10-10 09:32:40
-modified: 2021-06-10 09:32:40
+created: 2019-10-10 09:32:40
+date: 2021-06-10 09:32:40
 authors:
   - bendu
 label: tips-on-dockerswarm

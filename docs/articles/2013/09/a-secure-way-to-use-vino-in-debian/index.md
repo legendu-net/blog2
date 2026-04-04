@@ -1,7 +1,7 @@
 ---
 title: "A Secure Way to Use Vino in Debian"
-date: 2013-09-03 19:41:59
-modified: 2015-02-03 19:41:59
+created: 2013-09-03 19:41:59
+date: 2015-02-03 19:41:59
 authors:
   - bendu
 label: a-secure-way-to-use-vino-in-debian

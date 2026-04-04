@@ -1,7 +1,7 @@
 ---
 title: "Tips on Fishing in the Washington State"
-date: 2024-09-20 13:45:59
-modified: 2025-01-27 16:30:09
+created: 2024-09-20 13:45:59
+date: 2025-01-27 16:30:09
 authors:
   - bendu
 label: tips-on-fishing-in-the-washington-state

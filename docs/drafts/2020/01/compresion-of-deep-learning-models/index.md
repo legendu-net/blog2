@@ -1,7 +1,7 @@
 ---
 title: "Compresion of Deep Learning Models"
+created: 2020-01-08 11:26:35
 date: 2020-01-08 11:26:35
-modified: 2020-01-08 11:26:35
 authors:
   - bendu
 label: compresion-of-deep-learning-models

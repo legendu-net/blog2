@@ -1,7 +1,7 @@
 ---
 title: "Packaging Python Dependencies for PySpark Using Pex"
-date: 2020-02-07 14:44:03
-modified: 2021-07-18 22:12:43
+created: 2020-02-07 14:44:03
+date: 2021-07-18 22:12:43
 authors:
   - bendu
 label: packaging-python-dependencies-for-pyspark-using-pex

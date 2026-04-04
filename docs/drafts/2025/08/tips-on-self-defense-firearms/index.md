@@ -1,7 +1,7 @@
 ---
 title: "Tips on Self Defense Firearms"
-date: 2025-08-01 13:41:11
-modified: 2025-08-10 10:16:23
+created: 2025-08-01 13:41:11
+date: 2025-08-10 10:16:23
 authors:
   - bendu
 label: tips-on-self-defense-firearms

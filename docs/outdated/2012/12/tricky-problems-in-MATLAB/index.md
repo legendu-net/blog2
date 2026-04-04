@@ -1,7 +1,7 @@
 ---
 title: "Tricky Problems in MATLAB"
-date: 2012-12-20 10:41:22
-modified: 2015-02-20 10:41:22
+created: 2012-12-20 10:41:22
+date: 2015-02-20 10:41:22
 authors:
   - bendu
 label: tricky-problems-in-MATLAB

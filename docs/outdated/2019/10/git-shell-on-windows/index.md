@@ -1,7 +1,7 @@
 ---
 title: "Git Shell on Windows"
+created: 2019-10-14 01:01:31
 date: 2019-10-14 01:01:31
-modified: 2019-10-14 01:01:31
 authors:
   - bendu
 label: git-shell-on-windows

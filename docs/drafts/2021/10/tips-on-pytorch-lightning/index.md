@@ -1,7 +1,7 @@
 ---
 title: "Tips on Pytorch-Lightning"
-date: 2021-10-07 16:58:06
-modified: 2021-10-08 13:50:06
+created: 2021-10-07 16:58:06
+date: 2021-10-08 13:50:06
 authors:
   - bendu
 label: tips-on-pytorch-lightning

@@ -1,7 +1,7 @@
 ---
 title: "Magnitude of Numbers"
+created: 2023-05-11 18:30:35
 date: 2023-05-11 18:30:35
-modified: 2023-05-11 18:30:35
 authors:
   - bendu
 label: magnitude-of-numbers

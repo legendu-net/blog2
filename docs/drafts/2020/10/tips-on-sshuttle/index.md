@@ -1,7 +1,7 @@
 ---
 title: "Tips on sshuttle"
-date: 2020-10-04 09:59:49
-modified: 2021-01-04 09:59:49
+created: 2020-10-04 09:59:49
+date: 2021-01-04 09:59:49
 authors:
   - bendu
 label: tips-on-sshuttle

@@ -1,7 +1,7 @@
 ---
 title: "Working with Spreadsheet in Python"
-date: 2015-05-09 08:43:45
-modified: 2023-08-01 09:11:55
+created: 2015-05-09 08:43:45
+date: 2023-08-01 09:11:55
 authors:
   - bendu
 label: working-with-spreadsheet-with-python

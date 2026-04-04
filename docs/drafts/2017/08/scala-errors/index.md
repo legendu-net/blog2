@@ -1,7 +1,7 @@
 ---
 title: "Common Errors Encountered in Scala and Solutions"
-date: 2017-08-22 12:58:10
-modified: 2020-05-22 12:58:10
+created: 2017-08-22 12:58:10
+date: 2020-05-22 12:58:10
 authors:
   - bendu
 label: scala-errors

@@ -1,7 +1,7 @@
 ---
 title: "Experiment Design"
-date: 2012-11-22 12:24:54
-modified: 2020-05-22 12:24:54
+created: 2012-11-22 12:24:54
+date: 2020-05-22 12:24:54
 authors:
   - bendu
 label: linear-models

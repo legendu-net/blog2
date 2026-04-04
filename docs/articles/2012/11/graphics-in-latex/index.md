@@ -1,7 +1,7 @@
 ---
 title: "Graphics in LaTeX"
-date: 2012-11-13 00:02:34
-modified: 2016-07-13 00:02:34
+created: 2012-11-13 00:02:34
+date: 2016-07-13 00:02:34
 authors:
   - bendu
 label: graphics-in-latex

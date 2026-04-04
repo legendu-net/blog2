@@ -1,7 +1,7 @@
 ---
 title: "Tips on Two Factor Authentication"
+created: 2022-07-25 13:46:42
 date: 2022-07-25 13:46:42
-modified: 2022-07-25 13:46:42
 authors:
   - bendu
 label: tips-on-two-factor-authentication

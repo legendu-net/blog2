@@ -1,7 +1,7 @@
 ---
 title: "Tips on Wash Sale"
-date: 2024-01-15 01:11:58
-modified: 2024-01-15 21:22:20
+created: 2024-01-15 01:11:58
+date: 2024-01-15 21:22:20
 authors:
   - bendu
 label: tips-on-wash-sale

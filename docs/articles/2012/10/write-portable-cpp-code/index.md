@@ -1,7 +1,7 @@
 ---
 title: "Write Portable C++ Code"
+created: 2012-10-21 00:00:00
 date: 2012-10-21 00:00:00
-modified: 2012-10-21 00:00:00
 authors:
   - bendu
 label: write-portable-cpp-code

@@ -1,7 +1,7 @@
 ---
 title: "Using Bash in Docker"
-date: 2016-12-14 13:54:14
-modified: 2017-01-14 13:54:14
+created: 2016-12-14 13:54:14
+date: 2017-01-14 13:54:14
 authors:
   - bendu
 label: Using-Bash-in-Docker

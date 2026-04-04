@@ -1,7 +1,7 @@
 ---
 title: "How Many People Stay in the Same Position?"
-date: 2012-07-17 15:16:03
-modified: 2013-11-17 15:16:03
+created: 2012-07-17 15:16:03
+date: 2013-11-17 15:16:03
 authors:
   - bendu
 label: same-position-permutation

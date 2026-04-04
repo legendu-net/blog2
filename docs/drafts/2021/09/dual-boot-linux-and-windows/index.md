@@ -1,7 +1,7 @@
 ---
 title: "Dual Boot Linux and Windows"
-date: 2021-09-16 09:22:59
-modified: 2025-12-25 18:23:08
+created: 2021-09-16 09:22:59
+date: 2025-12-25 18:23:08
 authors:
   - bendu
 label: dual-boot-linux-and-windows

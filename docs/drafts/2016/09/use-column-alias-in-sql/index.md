@@ -1,7 +1,7 @@
 ---
 title: "Use Column Alias in SQL"
-date: 2016-09-14 20:37:13
-modified: 2020-11-14 20:37:13
+created: 2016-09-14 20:37:13
+date: 2020-11-14 20:37:13
 authors:
   - bendu
 label: use-column-alias-in-sql

@@ -1,7 +1,7 @@
 ---
 title: "Random Number Generating in R"
-date: 2012-11-05 00:21:35
-modified: 2013-12-05 00:21:35
+created: 2012-11-05 00:21:35
+date: 2013-12-05 00:21:35
 authors:
   - bendu
 label: rng-in-r

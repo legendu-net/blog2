@@ -1,7 +1,7 @@
 ---
 title: "Debug C/C++ Code Using GDB"
-date: 2015-04-22 13:58:39
-modified: 2020-05-22 13:58:39
+created: 2015-04-22 13:58:39
+date: 2020-05-22 13:58:39
 authors:
   - bendu
 label: gdb-tips

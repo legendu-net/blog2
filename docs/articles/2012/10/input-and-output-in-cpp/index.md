@@ -1,7 +1,7 @@
 ---
 title: "Input and Output in C++"
-date: 2012-10-24 22:22:41
-modified: 2015-03-24 22:22:41
+created: 2012-10-24 22:22:41
+date: 2015-03-24 22:22:41
 authors:
   - bendu
 label: input-and-output-in-cpp

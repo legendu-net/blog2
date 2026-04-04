@@ -1,7 +1,7 @@
 ---
 title: Tips on Rivian Electronic Vehicles
-date: 2025-06-25 10:57:40
-modified: 2026-04-03 17:14:03.288083
+created: 2025-06-25 10:57:40
+date: 2026-04-03 17:14:03.288083
 authors:
 - bendu
 label: tips-on-rivian-electronic-vehicles

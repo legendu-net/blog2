@@ -1,7 +1,7 @@
 ---
 title: "Mount NTFS Drive Manually on Mac"
-date: 2019-03-10 10:25:07
-modified: 2021-09-26 21:50:28
+created: 2019-03-10 10:25:07
+date: 2021-09-26 21:50:28
 authors:
   - bendu
 label: mount-external-hard-drive-manually-on-mac

@@ -1,7 +1,7 @@
 ---
 title: "Data Frame Implementations in Rust"
-date: 2021-06-09 22:38:27
-modified: 2023-01-07 12:45:14
+created: 2021-06-09 22:38:27
+date: 2023-01-07 12:45:14
 authors:
   - bendu
 label: data-frame-implementations-in-rust

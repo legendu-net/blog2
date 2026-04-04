@@ -1,7 +1,7 @@
 ---
 title: "Managing Wireeless Network Using Wicd"
-date: 2013-10-22 14:40:58
-modified: 2020-05-22 14:40:58
+created: 2013-10-22 14:40:58
+date: 2020-05-22 14:40:58
 authors:
   - bendu
 label: wicd-tips

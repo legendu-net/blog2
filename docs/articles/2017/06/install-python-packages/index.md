@@ -1,7 +1,7 @@
 ---
 title: "Install Python Packages Using pip"
-date: 2017-06-05 08:26:34
-modified: 2026-01-02 19:49:12
+created: 2017-06-05 08:26:34
+date: 2026-01-02 19:49:12
 authors:
   - bendu
 label: install-python-packages

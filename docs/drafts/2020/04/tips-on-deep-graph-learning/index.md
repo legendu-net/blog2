@@ -1,7 +1,7 @@
 ---
 title: "Tips on Deep Graph Learning"
+created: 2020-04-06 17:07:15
 date: 2020-04-06 17:07:15
-modified: 2020-04-06 17:07:15
 authors:
   - bendu
 label: tips-on-deep-graph-learning

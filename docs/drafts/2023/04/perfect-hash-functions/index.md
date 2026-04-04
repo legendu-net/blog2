@@ -1,7 +1,7 @@
 ---
 title: "Perfect Hash Functions"
+created: 2023-04-17 17:18:59
 date: 2023-04-17 17:18:59
-modified: 2023-04-17 17:18:59
 authors:
   - bendu
 label: perfect-hash-functions

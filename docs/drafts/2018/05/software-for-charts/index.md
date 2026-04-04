@@ -1,7 +1,7 @@
 ---
 title: "Software for Charts"
+created: 2018-05-14 08:40:48
 date: 2018-05-14 08:40:48
-modified: 2018-05-14 08:40:48
 authors:
   - bendu
 label: software-for-charts

@@ -1,7 +1,7 @@
 ---
 title: "PCIe BUS Error: Severity=Corrected, Type=Physical Layer"
-date: 2021-09-06 12:47:10
-modified: 2025-12-24 12:34:40
+created: 2021-09-06 12:47:10
+date: 2025-12-24 12:34:40
 authors:
   - bendu
 label: pcie-bus-error:-severity=Corrected,-type=Physical-Layer

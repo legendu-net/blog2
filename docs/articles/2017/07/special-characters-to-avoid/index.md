@@ -1,7 +1,7 @@
 ---
 title: "Special Characters to Avoid in Strings"
-date: 2017-07-03 21:56:32
-modified: 2020-12-03 21:56:32
+created: 2017-07-03 21:56:32
+date: 2020-12-03 21:56:32
 authors:
   - bendu
 label: special-characters-to-avoid

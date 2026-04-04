@@ -1,7 +1,7 @@
 ---
 title: "Blogging Platforms"
+created: 2020-08-24 10:31:07
 date: 2020-08-24 10:31:07
-modified: 2020-08-24 10:31:07
 authors:
   - bendu
 label: blogging-platforms

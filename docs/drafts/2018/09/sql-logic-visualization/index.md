@@ -1,7 +1,7 @@
 ---
 title: "SQL Logic Visualization"
-date: 2018-09-27 18:31:29
-modified: 2019-06-27 18:31:29
+created: 2018-09-27 18:31:29
+date: 2019-06-27 18:31:29
 authors:
   - bendu
 label: sql-logic-visualization

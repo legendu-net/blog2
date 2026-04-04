@@ -1,7 +1,7 @@
 ---
 title: "Culture of My Summer Intern Team"
+created: 2013-08-01 00:00:00
 date: 2013-08-01 00:00:00
-modified: 2013-08-01 00:00:00
 authors:
   - bendu
 label: team-culture-of-Credit-portfolio-risk-analysis

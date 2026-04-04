@@ -1,7 +1,7 @@
 ---
 title: "Copy Arrays in Java"
-date: 2012-06-19 13:48:18
-modified: 2014-10-19 13:48:18
+created: 2012-06-19 13:48:18
+date: 2014-10-19 13:48:18
 authors:
   - bendu
 label: copy-array-java

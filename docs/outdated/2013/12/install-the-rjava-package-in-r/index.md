@@ -1,7 +1,7 @@
 ---
 title: "Install the rJava Package in R"
-date: 2013-12-10 01:44:32
-modified: 2016-12-10 01:44:32
+created: 2013-12-10 01:44:32
+date: 2016-12-10 01:44:32
 authors:
   - bendu
 label: install-the-rjava-package-in-r

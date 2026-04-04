@@ -1,7 +1,7 @@
 ---
 title: "Basketball Player"
-date: 2012-07-28 21:56:16
-modified: 2014-07-28 21:56:16
+created: 2012-07-28 21:56:16
+date: 2014-07-28 21:56:16
 authors:
   - bendu
 label: basketball-player

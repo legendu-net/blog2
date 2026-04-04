@@ -1,7 +1,7 @@
 ---
 title: "Avoid Database Lock in SQLite3"
-date: 2020-08-24 09:49:04
-modified: 2020-10-24 09:49:04
+created: 2020-08-24 09:49:04
+date: 2020-10-24 09:49:04
 authors:
   - bendu
 label: avoid-database-lock-in-sqlite3

@@ -1,7 +1,7 @@
 ---
 title: "Tips on mdBook"
-date: 2022-12-23 20:28:53
-modified: 2022-12-26 11:38:12
+created: 2022-12-23 20:28:53
+date: 2022-12-26 11:38:12
 authors:
   - bendu
 label: tips-on-mdbook

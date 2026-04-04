@@ -1,7 +1,7 @@
 ---
 title: "Good Tech Blogs"
+created: 2022-12-09 10:11:31
 date: 2022-12-09 10:11:31
-modified: 2022-12-09 10:11:31
 authors:
   - bendu
 label: good-tech-blogs

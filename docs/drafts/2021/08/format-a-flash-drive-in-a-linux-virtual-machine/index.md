@@ -1,7 +1,7 @@
 ---
 title: "Format a Flash Drive in a Linux Virtual Machine"
+created: 2021-08-02 20:04:52
 date: 2021-08-02 20:04:52
-modified: 2021-08-02 20:04:52
 authors:
   - bendu
 label: format-a-flash-drive-in-a-linux-virtual-machine

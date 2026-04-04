@@ -1,7 +1,7 @@
 ---
 title: "Tips on HTML"
-date: 2020-10-27 10:09:15
-modified: 2024-06-21 17:57:35
+created: 2020-10-27 10:09:15
+date: 2024-06-21 17:57:35
 authors:
   - bendu
 label: tips-on-html

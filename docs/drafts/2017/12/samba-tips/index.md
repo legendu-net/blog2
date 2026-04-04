@@ -1,7 +1,7 @@
 ---
 title: "Tips on Samba"
-date: 2017-12-29 17:14:25
-modified: 2020-02-29 17:14:25
+created: 2017-12-29 17:14:25
+date: 2020-02-29 17:14:25
 authors:
   - bendu
 label: samba-tips

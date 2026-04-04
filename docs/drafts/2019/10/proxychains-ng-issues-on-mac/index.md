@@ -1,7 +1,7 @@
 ---
 title: "Proxychains-Ng Issues on Mac"
-date: 2019-10-21 22:30:14
-modified: 2020-11-21 22:30:14
+created: 2019-10-21 22:30:14
+date: 2020-11-21 22:30:14
 authors:
   - bendu
 label: proxychains-ng-issues-on-mac

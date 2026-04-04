@@ -1,7 +1,7 @@
 ---
 title: "Tips on Python Module"
-date: 2019-01-13 09:48:04
-modified: 2024-06-21 18:19:41
+created: 2019-01-13 09:48:04
+date: 2024-06-21 18:19:41
 authors:
   - bendu
 label: python-module-tips

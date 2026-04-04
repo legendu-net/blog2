@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: Runtimeerror: Arrow Legacy IPC Format Is Not Supported"
+created: 2022-04-03 19:07:14
 date: 2022-04-03 19:07:14
-modified: 2022-04-03 19:07:14
 authors:
   - bendu
 label: spark-issue:-RuntimeError:-Arrow-legacy-IPC-format-is-not-supported

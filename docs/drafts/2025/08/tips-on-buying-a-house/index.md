@@ -1,7 +1,7 @@
 ---
 title: "Tips on Buying a House"
-date: 2025-08-01 13:50:48
-modified: 2025-08-10 09:34:18
+created: 2025-08-01 13:50:48
+date: 2025-08-10 09:34:18
 authors:
   - bendu
 label: tips-on-buying-a-house

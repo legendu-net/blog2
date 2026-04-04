@@ -1,7 +1,7 @@
 ---
 title: "Tips for Mathematica"
-date: 2013-10-29 09:27:31
-modified: 2019-03-29 09:27:31
+created: 2013-10-29 09:27:31
+date: 2019-03-29 09:27:31
 authors:
   - bendu
 label: mathematica-tips

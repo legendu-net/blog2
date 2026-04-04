@@ -1,7 +1,7 @@
 ---
 title: "Good Thunderbird Settings"
+created: 2015-03-10 20:02:21
 date: 2015-03-10 20:02:21
-modified: 2015-03-10 20:02:21
 authors:
   - bendu
 label: good-thunderbird-settings

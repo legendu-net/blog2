@@ -1,7 +1,7 @@
 ---
 title: "Tips on Pattern Day Trading"
+created: 2024-04-04 22:29:36
 date: 2024-04-04 22:29:36
-modified: 2024-04-04 22:29:36
 authors:
   - bendu
 label: tips-on-pattern-day-trading

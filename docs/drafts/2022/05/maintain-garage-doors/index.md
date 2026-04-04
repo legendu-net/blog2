@@ -1,7 +1,7 @@
 ---
 title: "Maintain Garage Doors"
-date: 2022-05-08 20:56:48
-modified: 2025-07-31 11:09:51
+created: 2022-05-08 20:56:48
+date: 2025-07-31 11:09:51
 authors:
   - bendu
 label: maintain-garage-doors

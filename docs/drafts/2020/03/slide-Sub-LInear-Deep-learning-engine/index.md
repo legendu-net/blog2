@@ -1,7 +1,7 @@
 ---
 title: "SLIDE: Sub-Linear Deep Learning Engine"
-date: 2020-03-11 12:01:22
-modified: 2021-04-11 12:01:22
+created: 2020-03-11 12:01:22
+date: 2021-04-11 12:01:22
 authors:
   - bendu
 label: slide-Sub-LInear-Deep-learning-engine

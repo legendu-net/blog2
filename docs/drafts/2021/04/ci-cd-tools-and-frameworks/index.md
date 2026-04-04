@@ -1,7 +1,7 @@
 ---
 title: "CI/CD Tools and Frameworks"
+created: 2021-04-07 10:03:06
 date: 2021-04-07 10:03:06
-modified: 2021-04-07 10:03:06
 authors:
   - bendu
 label: ci-cd-tools-and-frameworks

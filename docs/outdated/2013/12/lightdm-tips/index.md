@@ -1,7 +1,7 @@
 ---
 title: "Lightdm Tips"
-date: 2013-12-22 12:32:08
-modified: 2020-05-22 12:32:08
+created: 2013-12-22 12:32:08
+date: 2020-05-22 12:32:08
 authors:
   - bendu
 label: lightdm-tips

@@ -1,7 +1,7 @@
 ---
 title: "Call Java Using PyJNIus from Python"
-date: 2020-03-25 20:15:13
-modified: 2020-10-25 20:15:13
+created: 2020-03-25 20:15:13
+date: 2020-10-25 20:15:13
 authors:
   - bendu
 label: call-java-using-pyjnius-from-python

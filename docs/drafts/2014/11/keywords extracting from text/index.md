@@ -1,7 +1,7 @@
 ---
 title: "Keywords Extracting from Text"
-date: 2014-11-22 13:08:04
-modified: 2020-05-22 13:08:04
+created: 2014-11-22 13:08:04
+date: 2020-05-22 13:08:04
 authors:
   - bendu
 label: keywords extracting from text

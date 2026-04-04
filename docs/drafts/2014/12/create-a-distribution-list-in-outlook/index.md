@@ -1,7 +1,7 @@
 ---
 title: Create a Distribution List in Outlook
+created: 2014-12-30 17:16:42
 date: 2014-12-30 17:16:42
-modified: 2014-12-30 17:16:42
 authors:
   - bendu
 label: create-a-distribution-list-in-outlook

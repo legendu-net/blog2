@@ -1,7 +1,7 @@
 ---
 title: "General Tips on Programming"
-date: 2018-07-20 00:25:59
-modified: 2021-11-22 12:13:42
+created: 2018-07-20 00:25:59
+date: 2021-11-22 12:13:42
 authors:
   - bendu
 label: general-programming-tips

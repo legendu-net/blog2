@@ -1,7 +1,7 @@
 ---
 title: "Preparing Data for AI"
-date: 2020-03-17 11:27:12
-modified: 2022-07-23 21:35:29
+created: 2020-03-17 11:27:12
+date: 2022-07-23 21:35:29
 authors:
   - bendu
 label: preparing-data-for-ai

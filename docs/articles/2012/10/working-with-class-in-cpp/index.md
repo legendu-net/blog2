@@ -1,7 +1,7 @@
 ---
 title: "Working with Class in C++"
-date: 2012-10-05 10:56:31
-modified: 2015-08-05 10:56:31
+created: 2012-10-05 10:56:31
+date: 2015-08-05 10:56:31
 authors:
   - bendu
 label: working-with-class-in-cpp

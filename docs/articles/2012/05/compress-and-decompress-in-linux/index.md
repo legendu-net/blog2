@@ -1,7 +1,7 @@
 ---
 title: "Compress and Decompressing Archives in Linux"
-date: 2012-05-19 23:12:07
-modified: 2025-12-18 23:39:56
+created: 2012-05-19 23:12:07
+date: 2025-12-18 23:39:56
 authors:
   - bendu
 label: compress-and-decompress-in-linux

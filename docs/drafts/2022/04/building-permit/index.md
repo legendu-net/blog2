@@ -1,7 +1,7 @@
 ---
 title: "Building Permit"
+created: 2022-04-28 23:23:30
 date: 2022-04-28 23:23:30
-modified: 2022-04-28 23:23:30
 authors:
   - bendu
 label: building-permit

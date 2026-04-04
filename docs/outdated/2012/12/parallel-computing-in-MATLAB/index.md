@@ -1,7 +1,7 @@
 ---
 title: "Parallel Computing in MATLAB"
-date: 2012-12-19 19:45:42
-modified: 2014-06-19 19:45:42
+created: 2012-12-19 19:45:42
+date: 2014-06-19 19:45:42
 authors:
   - bendu
 label: parallel-computing-in-MATLAB

@@ -1,7 +1,7 @@
 ---
 title: "Data for Computer Vision Research"
-date: 2020-03-06 12:45:31
-modified: 2021-10-08 12:50:34
+created: 2020-03-06 12:45:31
+date: 2021-10-08 12:50:34
 authors:
   - bendu
 label: data-for-computer-vision-research

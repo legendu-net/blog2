@@ -1,7 +1,7 @@
 ---
 title: "Send Email in Ruby"
-date: 2012-06-06 11:28:52
-modified: 2020-04-06 11:28:52
+created: 2012-06-06 11:28:52
+date: 2020-04-06 11:28:52
 authors:
   - bendu
 label: send-email-ruby

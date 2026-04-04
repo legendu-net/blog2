@@ -1,7 +1,7 @@
 ---
 title: "Tips on Atom"
-date: 2016-11-06 14:20:40
-modified: 2020-05-06 14:20:40
+created: 2016-11-06 14:20:40
+date: 2020-05-06 14:20:40
 authors:
   - bendu
 label: atom-tips

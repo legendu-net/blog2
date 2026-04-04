@@ -1,7 +1,7 @@
 ---
 title: "Jupyter Notebook Support in Bitbucket"
-date: 2017-12-08 12:00:14
-modified: 2020-04-08 12:00:14
+created: 2017-12-08 12:00:14
+date: 2020-04-08 12:00:14
 authors:
   - bendu
 label: jupyter-notebook-support-in-bitbucket

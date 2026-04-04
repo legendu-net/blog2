@@ -1,7 +1,7 @@
 ---
 title: "Useful Plugins for Eclipse"
-date: 2012-09-22 13:41:22
-modified: 2020-05-22 13:41:22
+created: 2012-09-22 13:41:22
+date: 2020-05-22 13:41:22
 authors:
   - bendu
 label: useful-plugins-for-eclipse

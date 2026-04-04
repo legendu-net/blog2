@@ -1,7 +1,7 @@
 ---
 title: "Write R Code that Runs Faster"
-date: 2012-06-26 22:08:17
-modified: 2015-08-26 22:08:17
+created: 2012-06-26 22:08:17
+date: 2015-08-26 22:08:17
 authors:
   - bendu
 label: fast-computing-r

@@ -1,7 +1,7 @@
 ---
 title: "Distributions in R"
-date: 2012-11-05 00:22:23
-modified: 2013-12-05 00:22:23
+created: 2012-11-05 00:22:23
+date: 2013-12-05 00:22:23
 authors:
   - bendu
 label: distributions-in-r

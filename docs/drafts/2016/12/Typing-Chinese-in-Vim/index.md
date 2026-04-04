@@ -1,7 +1,7 @@
 ---
 title: "Typing Chinese in Vim"
+created: 2016-12-04 21:19:05
 date: 2016-12-04 21:19:05
-modified: 2016-12-04 21:19:05
 authors:
   - bendu
 label: Typing-Chinese-in-Vim

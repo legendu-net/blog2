@@ -1,7 +1,7 @@
 ---
 title: "Install a Nema 14-50 Outlet"
+created: 2025-06-27 15:39:11
 date: 2025-06-27 15:39:11
-modified: 2025-06-27 15:39:11
 authors:
   - bendu
 label: install-a-NEMA-14-50-outlet

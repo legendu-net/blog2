@@ -1,7 +1,7 @@
 ---
 title: "Graphics in R"
-date: 2012-11-11 18:28:16
-modified: 2016-06-11 18:28:16
+created: 2012-11-11 18:28:16
+date: 2016-06-11 18:28:16
 authors:
   - bendu
 label: graphics-in-r

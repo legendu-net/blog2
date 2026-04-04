@@ -1,7 +1,7 @@
 ---
 title: "Tips on Dishwasher"
-date: 2023-11-05 11:29:01
-modified: 2024-03-03 22:45:56
+created: 2023-11-05 11:29:01
+date: 2024-03-03 22:45:56
 authors:
   - bendu
 label: tips-on-dishwasher

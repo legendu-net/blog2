@@ -1,7 +1,7 @@
 ---
 title: "Tips on GetPocket"
-date: 2019-02-22 15:25:07
-modified: 2020-05-22 15:25:07
+created: 2019-02-22 15:25:07
+date: 2020-05-22 15:25:07
 authors:
   - bendu
 label: getpocket-tips

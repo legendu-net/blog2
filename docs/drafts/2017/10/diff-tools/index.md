@@ -1,7 +1,7 @@
 ---
 title: Tools for Differencing Text Files
-date: 2017-10-27 15:04:30
-modified: 2020-05-27 15:04:30
+created: 2017-10-27 15:04:30
+date: 2020-05-27 15:04:30
 authors:
   - bendu
 label: diff-tools

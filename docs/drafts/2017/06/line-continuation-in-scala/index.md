@@ -1,7 +1,7 @@
 ---
 title: "Line Continuation in Scala"
-date: 2017-06-22 13:35:34
-modified: 2017-10-22 13:35:34
+created: 2017-06-22 13:35:34
+date: 2017-10-22 13:35:34
 authors:
   - bendu
 label: line-continuation-in-scala

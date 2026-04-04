@@ -1,7 +1,7 @@
 ---
 title: "Data Manipulation Tools in R"
-date: 2016-01-11 17:13:18
-modified: 2016-06-11 17:13:18
+created: 2016-01-11 17:13:18
+date: 2016-06-11 17:13:18
 authors:
   - bendu
 label: data-manipulation-tools-in-r

@@ -1,7 +1,7 @@
 ---
 title: "Recruiting Management"
+created: 2018-04-30 13:47:25
 date: 2018-04-30 13:47:25
-modified: 2018-04-30 13:47:25
 authors:
   - bendu
 label: recruiting-management

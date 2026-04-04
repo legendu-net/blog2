@@ -1,7 +1,7 @@
 ---
 title: "Write User-defined Functions in SAS"
-date: 2014-09-28 16:57:06
-modified: 2026-01-21 08:37:08
+created: 2014-09-28 16:57:06
+date: 2026-01-21 08:37:08
 authors:
   - bendu
 label: write user-defined functions in sas

@@ -1,7 +1,7 @@
 ---
 title: "Use TableSample in SQL"
-date: 2020-02-28 09:27:28
-modified: 2022-10-13 12:00:09
+created: 2020-02-28 09:27:28
+date: 2022-10-13 12:00:09
 authors:
   - bendu
 label: Use-tablesample-in-sql

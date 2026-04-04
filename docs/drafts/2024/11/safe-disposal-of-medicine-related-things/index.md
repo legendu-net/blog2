@@ -1,7 +1,7 @@
 ---
 title: "Safe Disposal of Medicine Related Things"
-date: 2024-11-12 19:19:22
-modified: 2024-11-12 19:39:33
+created: 2024-11-12 19:19:22
+date: 2024-11-12 19:39:33
 authors:
   - bendu
 label: safe-disposal-of-medicine-related-things

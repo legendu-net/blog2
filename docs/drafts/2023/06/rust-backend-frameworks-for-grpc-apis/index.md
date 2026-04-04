@@ -1,7 +1,7 @@
 ---
 title: "Rust Backend Frameworks for gRPC APIs"
+created: 2023-06-11 09:58:37
 date: 2023-06-11 09:58:37
-modified: 2023-06-11 09:58:37
 authors:
   - bendu
 label: rust-backend-frameworks-for-grpc-apis

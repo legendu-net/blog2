@@ -1,7 +1,7 @@
 ---
 title: "Enumeration in Java"
-date: 2012-11-13 22:19:38
-modified: 2016-07-13 22:19:38
+created: 2012-11-13 22:19:38
+date: 2016-07-13 22:19:38
 authors:
   - bendu
 label: enumeration-in-java

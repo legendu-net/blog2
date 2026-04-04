@@ -1,7 +1,7 @@
 ---
 title: "Windows Operating System"
-date: 2012-09-30 19:30:05
-modified: 2021-09-10 10:13:26
+created: 2012-09-30 19:30:05
+date: 2021-09-10 10:13:26
 authors:
   - bendu
 label: tips-windows

@@ -1,7 +1,7 @@
 ---
 title: "The CentOS Linux Distribution"
-date: 2017-04-22 14:59:57
-modified: 2020-05-22 14:59:57
+created: 2017-04-22 14:59:57
+date: 2020-05-22 14:59:57
 authors:
   - bendu
 label: centos-tips

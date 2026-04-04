@@ -1,7 +1,7 @@
 ---
 title: "Configuring Terminal in Visual Studio Code"
-date: 2025-06-07 09:45:35
-modified: 2025-06-09 02:49:30
+created: 2025-06-07 09:45:35
+date: 2025-06-09 02:49:30
 authors:
   - bendu
 label: configuring-terminal-in-visual-studio-code

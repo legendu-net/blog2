@@ -1,7 +1,7 @@
 ---
 title: "Cloud Object Storage"
+created: 2022-10-16 15:07:28
 date: 2022-10-16 15:07:28
-modified: 2022-10-16 15:07:28
 authors:
   - bendu
 label: cloud-object-storage

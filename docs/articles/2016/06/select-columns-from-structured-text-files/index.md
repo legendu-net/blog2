@@ -1,7 +1,7 @@
 ---
 title: "Select Columns from Structured Text Files"
-date: 2016-06-01 16:15:21
-modified: 2018-01-01 16:15:21
+created: 2016-06-01 16:15:21
+date: 2018-01-01 16:15:21
 authors:
   - bendu
 label: select-columns-from-structured-text-files

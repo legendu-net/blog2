@@ -1,7 +1,7 @@
 ---
 title: "Tips on eTrade"
-date: 2019-05-18 17:09:47
-modified: 2023-12-15 07:06:01
+created: 2019-05-18 17:09:47
+date: 2023-12-15 07:06:01
 authors:
   - bendu
 label: tips-on-etrade

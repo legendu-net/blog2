@@ -1,7 +1,7 @@
 ---
 title: "Algorithms and Tools for Encryption"
-date: 2014-09-22 13:02:05
-modified: 2020-05-22 13:02:05
+created: 2014-09-22 13:02:05
+date: 2020-05-22 13:02:05
 authors:
   - bendu
 label: encryption-tips

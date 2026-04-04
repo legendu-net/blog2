@@ -1,7 +1,7 @@
 ---
 title: "Differences Between Vector and ArrayList in Java"
-date: 2012-05-13 10:50:05
-modified: 2015-03-13 10:50:05
+created: 2012-05-13 10:50:05
+date: 2015-03-13 10:50:05
 authors:
   - bendu
 label: vector-arraylist-difference-java

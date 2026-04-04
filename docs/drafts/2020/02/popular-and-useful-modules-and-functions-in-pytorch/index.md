@@ -1,7 +1,7 @@
 ---
 title: "Popular and Useful Modules and Functions in PyTorch"
-date: 2020-02-03 10:08:35
-modified: 2020-03-03 10:08:35
+created: 2020-02-03 10:08:35
+date: 2020-03-03 10:08:35
 authors:
   - bendu
 label: popular-and-useful-modules-and-functions-in-pytorch

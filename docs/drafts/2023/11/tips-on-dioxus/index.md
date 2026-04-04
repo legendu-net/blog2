@@ -1,7 +1,7 @@
 ---
 title: "Tips on Dioxus"
-date: 2023-11-21 16:42:14
-modified: 2023-11-23 16:55:50
+created: 2023-11-21 16:42:14
+date: 2023-11-23 16:55:50
 authors:
   - bendu
 label: tips-on-dioxus

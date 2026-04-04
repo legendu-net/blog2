@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: Total Size of Serialized Results Is Bigger than spark.driver.maxResultSize"
-date: 2019-02-21 12:14:37
-modified: 2021-03-21 12:14:37
+created: 2019-02-21 12:14:37
+date: 2021-03-21 12:14:37
 authors:
   - bendu
 label: spark-issues-total-size-bigger-than-maxresultsize

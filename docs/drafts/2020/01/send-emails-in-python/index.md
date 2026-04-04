@@ -1,7 +1,7 @@
 ---
 title: "Send Emails in Python"
-date: 2020-01-29 22:18:53
-modified: 2020-08-29 22:18:53
+created: 2020-01-29 22:18:53
+date: 2020-08-29 22:18:53
 authors:
   - bendu
 label: send-emails-in-python

@@ -1,7 +1,7 @@
 ---
 title: "Tips on UPS"
-date: 2024-04-02 09:37:47
-modified: 2024-04-12 01:58:50
+created: 2024-04-02 09:37:47
+date: 2024-04-12 01:58:50
 authors:
   - bendu
 label: tips-on-ups

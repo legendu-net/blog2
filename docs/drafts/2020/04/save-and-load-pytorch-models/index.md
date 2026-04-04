@@ -1,7 +1,7 @@
 ---
 title: "Save and Load PyTorch Models"
+created: 2020-04-09 13:30:28
 date: 2020-04-09 13:30:28
-modified: 2020-04-09 13:30:28
 authors:
   - bendu
 label: save-and-load-pytorch-models

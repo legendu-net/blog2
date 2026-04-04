@@ -1,7 +1,7 @@
 ---
 title: "Tips on MySQL"
-date: 2017-05-22 14:45:18
-modified: 2020-05-22 14:45:18
+created: 2017-05-22 14:45:18
+date: 2020-05-22 14:45:18
 authors:
   - bendu
 label: mysql-tips

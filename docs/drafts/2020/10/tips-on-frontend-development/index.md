@@ -1,7 +1,7 @@
 ---
 title: "Tips on Frontend Development"
-date: 2020-10-26 13:10:46
-modified: 2023-01-11 11:54:25
+created: 2020-10-26 13:10:46
+date: 2023-01-11 11:54:25
 authors:
   - bendu
 label: tips-on-frontend-development

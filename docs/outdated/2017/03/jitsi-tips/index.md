@@ -1,7 +1,7 @@
 ---
 title: "Tips on Jitsi"
-date: 2017-03-22 14:53:53
-modified: 2020-05-22 14:53:53
+created: 2017-03-22 14:53:53
+date: 2020-05-22 14:53:53
 authors:
   - bendu
 label: jitsi-tips

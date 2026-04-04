@@ -1,7 +1,7 @@
 ---
 title: "Tips on Caddy"
+created: 2020-10-16 18:03:06
 date: 2020-10-16 18:03:06
-modified: 2020-10-16 18:03:06
 authors:
   - bendu
 label: tips-on-caddy

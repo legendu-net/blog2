@@ -1,7 +1,7 @@
 ---
 title: "General Tips for Groovy"
+created: 2019-01-22 22:58:11
 date: 2019-01-22 22:58:11
-modified: 2019-01-22 22:58:11
 authors:
   - bendu
 label: general-tips-for-groovy

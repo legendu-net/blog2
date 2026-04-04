@@ -1,7 +1,7 @@
 ---
 title: "Tips on Google Firebase Studio"
-date: 2025-04-16 17:08:20
-modified: 2025-04-28 13:57:30
+created: 2025-04-16 17:08:20
+date: 2025-04-28 13:57:30
 authors:
   - bendu
 label: tips-on-project-idx

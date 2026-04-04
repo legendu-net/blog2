@@ -1,7 +1,7 @@
 ---
 title: "Garbage Collection in Python"
+created: 2020-11-23 15:10:01
 date: 2020-11-23 15:10:01
-modified: 2020-11-23 15:10:01
 authors:
   - bendu
 label: garbage-collection-in-python

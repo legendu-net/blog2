@@ -1,7 +1,7 @@
 ---
 title: "Tips on Rustfmt"
-date: 2021-10-25 19:57:05
-modified: 2021-12-05 13:01:57
+created: 2021-10-25 19:57:05
+date: 2021-12-05 13:01:57
 authors:
   - bendu
 label: tips-on-rustfmt

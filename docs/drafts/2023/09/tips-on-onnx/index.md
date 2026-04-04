@@ -1,7 +1,7 @@
 ---
 title: "Tips on ONNX"
-date: 2023-09-07 15:11:23
-modified: 2023-09-13 23:01:01
+created: 2023-09-07 15:11:23
+date: 2023-09-13 23:01:01
 authors:
   - bendu
 label: tips-on-onnx

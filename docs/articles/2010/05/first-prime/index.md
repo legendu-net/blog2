@@ -1,7 +1,7 @@
 ---
 title: "First 10-digit Prime in Consecutive Digits of Euler Constant?"
-date: 2010-05-13 00:12:11
-modified: 2016-07-13 00:12:11
+created: 2010-05-13 00:12:11
+date: 2016-07-13 00:12:11
 authors:
   - bendu
 label: first-prime

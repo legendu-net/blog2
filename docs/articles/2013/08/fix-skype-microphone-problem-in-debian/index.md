@@ -1,7 +1,7 @@
 ---
 title: "Fix Microphone Problem of Skype in Debian"
+created: 2013-08-21 00:00:00
 date: 2013-08-21 00:00:00
-modified: 2013-08-21 00:00:00
 authors:
   - bendu
 label: fix-skype-microphone-problem-in-debian

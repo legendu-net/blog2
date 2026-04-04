@@ -1,7 +1,7 @@
 ---
 title: "Screen Reader Tools"
+created: 2022-11-22 09:36:44
 date: 2022-11-22 09:36:44
-modified: 2022-11-22 09:36:44
 authors:
   - bendu
 label: screen-reader-tools

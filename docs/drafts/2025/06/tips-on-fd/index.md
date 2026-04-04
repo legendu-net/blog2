@@ -1,7 +1,7 @@
 ---
 title: "Tips on fd"
-date: 2025-06-15 20:40:23
-modified: 2025-06-25 00:36:41
+created: 2025-06-15 20:40:23
+date: 2025-06-25 00:36:41
 authors:
   - bendu
 label: tips-on-fd

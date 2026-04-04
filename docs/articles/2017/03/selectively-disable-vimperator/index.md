@@ -1,7 +1,7 @@
 ---
 title: "Selectively Disable Vimperator on Webpages"
+created: 2017-03-04 13:28:47
 date: 2017-03-04 13:28:47
-modified: 2017-03-04 13:28:47
 authors:
   - bendu
 label: selectively-disable-vimperator

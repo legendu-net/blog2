@@ -1,7 +1,7 @@
 ---
 title: "Async, Concurrency, Multithreading and Parallel Computing in Rust"
-date: 2021-12-24 09:50:50
-modified: 2023-06-19 18:48:18
+created: 2021-12-24 09:50:50
+date: 2023-06-19 18:48:18
 authors:
   - bendu
 label: rust-concurrency-async-multithreading-parallel

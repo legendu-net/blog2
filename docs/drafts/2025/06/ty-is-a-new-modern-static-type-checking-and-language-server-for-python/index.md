@@ -1,7 +1,7 @@
 ---
 title: "ty Is a New Modern Static Type Checking and Language Server for Python"
+created: 2025-06-12 02:29:47
 date: 2025-06-12 02:29:47
-modified: 2025-06-12 02:29:47
 authors:
   - bendu
 label: ty-is-a-new-modern-static-type-checking-and-language-server-for-python

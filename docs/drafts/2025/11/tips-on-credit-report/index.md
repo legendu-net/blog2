@@ -1,7 +1,7 @@
 ---
 title: "Tips on Credit Report"
-date: 2025-11-11 18:04:05
-modified: 2025-11-11 20:03:48
+created: 2025-11-11 18:04:05
+date: 2025-11-11 20:03:48
 authors:
   - bendu
 label: tips-on-credit-report

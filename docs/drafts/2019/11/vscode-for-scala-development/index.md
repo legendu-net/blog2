@@ -1,7 +1,7 @@
 ---
 title: "Visual Studio Code for Scala Development"
-date: 2019-11-03 08:47:25
-modified: 2020-05-03 08:47:25
+created: 2019-11-03 08:47:25
+date: 2020-05-03 08:47:25
 authors:
   - bendu
 label: vscode-for-scala-development

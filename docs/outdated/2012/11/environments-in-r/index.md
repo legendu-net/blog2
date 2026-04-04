@@ -1,7 +1,7 @@
 ---
 title: "Environments in R"
-date: 2012-11-22 13:02:41
-modified: 2020-05-22 13:02:41
+created: 2012-11-22 13:02:41
+date: 2020-05-22 13:02:41
 authors:
   - bendu
 label: environments-in-r

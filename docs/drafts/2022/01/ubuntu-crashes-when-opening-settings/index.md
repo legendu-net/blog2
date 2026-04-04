@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Crashes When Opening Settings"
+created: 2022-01-23 23:42:09
 date: 2022-01-23 23:42:09
-modified: 2022-01-23 23:42:09
 authors:
   - bendu
 label: ubuntu-crashes-when-opening-settings

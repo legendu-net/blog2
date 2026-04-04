@@ -1,7 +1,7 @@
 ---
 title: "Dual Monitor for Linux Desktop"
-date: 2013-03-20 10:59:38
-modified: 2015-02-20 10:59:38
+created: 2013-03-20 10:59:38
+date: 2015-02-20 10:59:38
 authors:
   - bendu
 label: dual-monitor-for-linux-desktop

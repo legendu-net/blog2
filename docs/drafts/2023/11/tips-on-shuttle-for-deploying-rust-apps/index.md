@@ -1,7 +1,7 @@
 ---
 title: "Tips on Shuttle for Deploying Rust Apps"
-date: 2023-11-08 16:18:09
-modified: 2023-12-03 08:15:43
+created: 2023-11-08 16:18:09
+date: 2023-12-03 08:15:43
 authors:
   - bendu
 label: tips-on-shuttle-for-deploying-rust-apps

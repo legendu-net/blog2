@@ -1,7 +1,7 @@
 ---
 title: "Write Slides in Markdown"
+created: 2022-11-27 13:20:04
 date: 2022-11-27 13:20:04
-modified: 2022-11-27 13:20:04
 authors:
   - bendu
 label: write-slides-in-markdown

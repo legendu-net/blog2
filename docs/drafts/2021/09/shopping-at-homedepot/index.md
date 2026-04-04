@@ -1,7 +1,7 @@
 ---
 title: "Shopping At Homedepot"
-date: 2021-09-29 01:17:39
-modified: 2022-05-28 23:29:06
+created: 2021-09-29 01:17:39
+date: 2022-05-28 23:29:06
 authors:
   - bendu
 label: shopping-at-homedepot

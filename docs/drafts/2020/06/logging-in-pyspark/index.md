@@ -1,7 +1,7 @@
 ---
 title: "Logging in PySpark"
+created: 2020-06-15 11:38:22
 date: 2020-06-15 11:38:22
-modified: 2020-06-15 11:38:22
 authors:
   - bendu
 label: logging-in-pyspark

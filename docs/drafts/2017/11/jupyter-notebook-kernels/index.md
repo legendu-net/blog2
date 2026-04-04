@@ -1,7 +1,7 @@
 ---
 title: "Jupyter Notebook Kernels"
-date: 2017-11-11 10:39:11
-modified: 2022-12-04 21:40:47
+created: 2017-11-11 10:39:11
+date: 2022-12-04 21:40:47
 authors:
   - bendu
 label: jupyter-notebook-kernels

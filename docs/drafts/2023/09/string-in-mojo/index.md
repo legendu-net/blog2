@@ -1,7 +1,7 @@
 ---
 title: "String in Mojo"
+created: 2023-09-09 22:09:01
 date: 2023-09-09 22:09:01
-modified: 2023-09-09 22:09:01
 authors:
   - bendu
 label: string-in-mojo

@@ -1,7 +1,7 @@
 ---
 title: "The BeakerX JupyterLab Kernel"
-date: 2021-04-12 22:02:34
-modified: 2020-04-12 22:02:34
+created: 2021-04-12 22:02:34
+date: 2020-04-12 22:02:34
 authors:
   - bendu
 label: beakerx-tips

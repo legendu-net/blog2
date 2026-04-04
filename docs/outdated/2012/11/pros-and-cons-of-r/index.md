@@ -1,7 +1,7 @@
 ---
 title: "Advantages and Disadvantages of R"
-date: 2012-11-13 22:02:54
-modified: 2016-07-13 22:02:54
+created: 2012-11-13 22:02:54
+date: 2016-07-13 22:02:54
 authors:
   - bendu
 label: pros-and-cons-of-r

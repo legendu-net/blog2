@@ -1,7 +1,7 @@
 ---
 title: "Make Plots in SAS"
+created: 2012-07-11 00:00:00
 date: 2012-07-11 00:00:00
-modified: 2012-07-11 00:00:00
 authors:
   - bendu
 label: sas-plot

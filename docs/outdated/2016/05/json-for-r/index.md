@@ -1,7 +1,7 @@
 ---
 title: "JSON for R"
-date: 2016-05-15 20:56:58
-modified: 2016-08-15 20:56:58
+created: 2016-05-15 20:56:58
+date: 2016-08-15 20:56:58
 authors:
   - bendu
 label: json-for-r

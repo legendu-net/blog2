@@ -1,7 +1,7 @@
 ---
 title: "Tips on Ecobee Thermostat"
+created: 2025-08-20 19:49:32
 date: 2025-08-20 19:49:32
-modified: 2025-08-20 19:49:32
 authors:
   - bendu
 label: tips-on-ecobee-thermostat

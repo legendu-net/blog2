@@ -1,7 +1,7 @@
 ---
 title: "Computer Vision Tools"
-date: 2020-02-29 21:09:18
-modified: 2020-03-29 21:09:18
+created: 2020-02-29 21:09:18
+date: 2020-03-29 21:09:18
 authors:
   - bendu
 label: computer-vision-tools

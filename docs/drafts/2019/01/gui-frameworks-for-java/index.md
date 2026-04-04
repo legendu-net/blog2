@@ -1,7 +1,7 @@
 ---
 title: "GUI Frameworks for Java"
+created: 2019-01-22 22:54:03
 date: 2019-01-22 22:54:03
-modified: 2019-01-22 22:54:03
 authors:
   - bendu
 label: gui-frameworks-for-java

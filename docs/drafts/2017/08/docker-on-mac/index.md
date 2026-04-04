@@ -1,7 +1,7 @@
 ---
 title: "Docker on Mac"
-date: 2017-08-20 10:19:20
-modified: 2019-12-20 10:19:20
+created: 2017-08-20 10:19:20
+date: 2019-12-20 10:19:20
 authors:
   - bendu
 label: docker-on-mac

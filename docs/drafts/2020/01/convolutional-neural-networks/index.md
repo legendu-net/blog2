@@ -1,7 +1,7 @@
 ---
 title: "Convolutional Neural Networks"
-date: 2020-01-24 22:24:05
-modified: 2020-02-24 22:24:05
+created: 2020-01-24 22:24:05
+date: 2020-02-24 22:24:05
 authors:
   - bendu
 label: convolutional-neural-networks

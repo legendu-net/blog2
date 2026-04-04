@@ -1,7 +1,7 @@
 ---
 title: "Tips on Jupyter Binder"
+created: 2019-10-21 10:06:37
 date: 2019-10-21 10:06:37
-modified: 2019-10-21 10:06:37
 authors:
   - bendu
 label: tips-on-jupyter-binder

@@ -1,7 +1,7 @@
 ---
 title: "Low Risk Investments"
+created: 2024-01-23 01:07:54
 date: 2024-01-23 01:07:54
-modified: 2024-01-23 01:07:54
 authors:
   - bendu
 label: low-risk-investments

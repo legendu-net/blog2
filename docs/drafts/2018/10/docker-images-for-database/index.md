@@ -1,7 +1,7 @@
 ---
 title: "Docker Images for Database"
-date: 2018-10-21 23:37:16
-modified: 2019-06-21 23:37:16
+created: 2018-10-21 23:37:16
+date: 2019-06-21 23:37:16
 authors:
   - bendu
 label: docker-images-for-database

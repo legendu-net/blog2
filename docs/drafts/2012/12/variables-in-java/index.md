@@ -1,7 +1,7 @@
 ---
 title: "Variables in Java"
-date: 2012-12-13 22:04:15
-modified: 2016-07-13 22:04:15
+created: 2012-12-13 22:04:15
+date: 2016-07-13 22:04:15
 authors:
   - bendu
 label: variables-in-java

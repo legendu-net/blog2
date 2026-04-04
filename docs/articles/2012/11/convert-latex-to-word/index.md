@@ -1,7 +1,7 @@
 ---
 title: "Convert LaTeX to Word"
-date: 2012-11-13 00:02:08
-modified: 2016-07-13 00:02:08
+created: 2012-11-13 00:02:08
+date: 2016-07-13 00:02:08
 authors:
   - bendu
 label: convert-latex-to-word

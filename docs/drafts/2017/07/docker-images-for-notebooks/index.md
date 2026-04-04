@@ -1,7 +1,7 @@
 ---
 title: "Docker Images for Notebooks"
+created: 2017-07-27 12:21:05
 date: 2017-07-27 12:21:05
-modified: 2017-07-27 12:21:05
 authors:
   - bendu
 label: docker-images-for-notebooks

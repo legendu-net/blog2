@@ -1,7 +1,7 @@
 ---
 title: "Public Jupyter/JupyterLab Hosts"
-date: 2016-12-14 18:35:33
-modified: 2025-04-28 13:55:42
+created: 2016-12-14 18:35:33
+date: 2025-04-28 13:55:42
 authors:
   - bendu
 label: jupyter-hosts

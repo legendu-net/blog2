@@ -1,7 +1,7 @@
 ---
 title: "Copy Object in Python"
+created: 2019-10-31 17:22:26
 date: 2019-10-31 17:22:26
-modified: 2019-10-31 17:22:26
 authors:
   - bendu
 label: copy-object-in-python

@@ -1,7 +1,7 @@
 ---
 title: "Investment"
-date: 2018-04-17 12:24:21
-modified: 2024-02-17 10:32:38
+created: 2018-04-17 12:24:21
+date: 2024-02-17 10:32:38
 authors:
   - bendu
 label: investment-tips

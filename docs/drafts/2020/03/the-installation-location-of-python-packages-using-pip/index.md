@@ -1,7 +1,7 @@
 ---
 title: "The Installation Location of Python Packages Using Pip"
+created: 2020-03-23 10:35:42
 date: 2020-03-23 10:35:42
-modified: 2020-03-23 10:35:42
 authors:
   - bendu
 label: the-installation-location-of-python-packages-using-pip

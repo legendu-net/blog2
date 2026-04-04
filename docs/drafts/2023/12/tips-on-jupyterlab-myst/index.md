@@ -1,7 +1,7 @@
 ---
 title: "Tips on the jupyterlab-myst Extension"
-date: 2023-12-31 21:24:50
-modified: 2026-01-17 23:31:52
+created: 2023-12-31 21:24:50
+date: 2026-01-17 23:31:52
 authors:
   - bendu
 label: tips-on-jupyterlab-myst

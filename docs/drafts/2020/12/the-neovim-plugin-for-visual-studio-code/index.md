@@ -1,7 +1,7 @@
 ---
 title: "The NeoVim Plugin for Visual Studio Code"
-date: 2020-12-10 23:23:59
-modified: 2022-09-26 10:52:47
+created: 2020-12-10 23:23:59
+date: 2022-09-26 10:52:47
 authors:
   - bendu
 label: the-neovim-plugin-for-visual-studio-code

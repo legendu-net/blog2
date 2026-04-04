@@ -1,7 +1,7 @@
 ---
 title: "Bypass Paywalls and Limits on Information"
+created: 2022-05-21 21:59:00
 date: 2022-05-21 21:59:00
-modified: 2022-05-21 21:59:00
 authors:
   - bendu
 label: bypass-paywalls-and-limits-on-information

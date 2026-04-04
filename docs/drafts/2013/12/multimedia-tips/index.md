@@ -1,7 +1,7 @@
 ---
 title: "Tips on Multimedia"
-date: 2013-12-22 12:30:50
-modified: 2020-05-22 12:30:50
+created: 2013-12-22 12:30:50
+date: 2020-05-22 12:30:50
 authors:
   - bendu
 label: multimedia-tips

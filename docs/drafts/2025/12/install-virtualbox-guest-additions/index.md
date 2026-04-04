@@ -1,7 +1,7 @@
 ---
 title: "Install VirtualBox Guest Additions"
+created: 2025-12-07 18:39:38
 date: 2025-12-07 18:39:38
-modified: 2025-12-07 18:39:38
 authors:
   - bendu
 label: install-virtualbox-guest-additions

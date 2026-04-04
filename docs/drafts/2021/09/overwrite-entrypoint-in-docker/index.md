@@ -1,7 +1,7 @@
 ---
 title: "Overwrite Entrypoint in Docker"
+created: 2021-09-13 10:51:19
 date: 2021-09-13 10:51:19
-modified: 2021-09-13 10:51:19
 authors:
   - bendu
 label: overwrite-entrypoint-in-docker

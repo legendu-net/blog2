@@ -1,7 +1,7 @@
 ---
 title: "Structure of Python Packages"
+created: 2020-08-17 22:31:41
 date: 2020-08-17 22:31:41
-modified: 2020-08-17 22:31:41
 authors:
   - bendu
 label: structure-of-python-packages

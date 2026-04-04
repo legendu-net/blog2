@@ -1,7 +1,7 @@
 ---
 title: "Make Your Model Training Reproducible in PyTorch"
-date: 2020-03-16 14:34:57
-modified: 2020-04-16 14:34:57
+created: 2020-03-16 14:34:57
+date: 2020-04-16 14:34:57
 authors:
   - bendu
 label: make-your-model-training-reproducible-in-pytorch

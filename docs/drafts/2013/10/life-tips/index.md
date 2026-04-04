@@ -1,7 +1,7 @@
 ---
 title: "Misc Tips in Daily Life"
-date: 2013-10-22 13:31:43
-modified: 2021-09-25 13:43:55
+created: 2013-10-22 13:31:43
+date: 2021-09-25 13:43:55
 authors:
   - bendu
 label: life-tips

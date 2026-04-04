@@ -1,7 +1,7 @@
 ---
 title: "Reduce GRUB Timeout"
-date: 2022-05-28 11:18:47
-modified: 2022-05-28 22:36:56
+created: 2022-05-28 11:18:47
+date: 2022-05-28 22:36:56
 authors:
   - bendu
 label: reduce-grub-timeout

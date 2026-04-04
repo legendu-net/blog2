@@ -1,7 +1,7 @@
 ---
 title: "Environment Variables and Secure Path for sudo"
-date: 2025-12-22 15:29:11
-modified: 2025-12-22 23:59:49
+created: 2025-12-22 15:29:11
+date: 2025-12-22 23:59:49
 authors:
   - bendu
 label: environment-variables-and-secure-path-for-sudo

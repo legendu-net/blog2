@@ -1,7 +1,7 @@
 ---
 title: "Tips on Python Flask"
-date: 2017-05-22 15:01:09
-modified: 2020-05-22 15:01:09
+created: 2017-05-22 15:01:09
+date: 2020-05-22 15:01:09
 authors:
   - bendu
 label: python-flask-tips

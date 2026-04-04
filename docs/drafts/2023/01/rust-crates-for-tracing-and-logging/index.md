@@ -1,7 +1,7 @@
 ---
 title: "Rust Crates for Tracing and Logging"
-date: 2023-01-13 16:05:23
-modified: 2023-01-18 22:12:57
+created: 2023-01-13 16:05:23
+date: 2023-01-18 22:12:57
 authors:
   - bendu
 label: rust-crates-for-tracing-and-logging

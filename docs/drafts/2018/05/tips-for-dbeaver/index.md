@@ -1,7 +1,7 @@
 ---
 title: "Tips on dbeaver"
-date: 2018-05-28 21:36:04
-modified: 2020-04-28 21:36:04
+created: 2018-05-28 21:36:04
+date: 2020-04-28 21:36:04
 authors:
   - bendu
 label: tips-for-dbeaver

@@ -1,7 +1,7 @@
 ---
 title: "A Bug in Mathematica"
-date: 2011-12-15 21:22:23
-modified: 2016-08-15 21:22:23
+created: 2011-12-15 21:22:23
+date: 2016-08-15 21:22:23
 authors:
   - bendu
 label: bug-in-mathematica

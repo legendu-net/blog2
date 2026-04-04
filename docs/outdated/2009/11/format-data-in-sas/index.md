@@ -1,7 +1,7 @@
 ---
 title: "Formatting Data in SAS"
-date: 2009-11-17 18:52:19
-modified: 2015-05-17 18:52:19
+created: 2009-11-17 18:52:19
+date: 2015-05-17 18:52:19
 authors:
   - bendu
 label: format-data-in-sas

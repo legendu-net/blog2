@@ -1,7 +1,7 @@
 ---
 title: "Configure SSH to Use a Proxy Server"
-date: 2017-08-06 14:37:47
-modified: 2020-04-06 14:37:47
+created: 2017-08-06 14:37:47
+date: 2020-04-06 14:37:47
 authors:
   - bendu
 label: configure-ssh-to-use-a-proxy-server

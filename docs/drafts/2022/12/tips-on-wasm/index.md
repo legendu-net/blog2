@@ -1,7 +1,7 @@
 ---
 title: "Tips on WASM"
-date: 2022-12-28 10:29:41
-modified: 2023-09-13 22:55:53
+created: 2022-12-28 10:29:41
+date: 2023-09-13 22:55:53
 authors:
   - bendu
 label: tips-on-wasm

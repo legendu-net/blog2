@@ -1,7 +1,7 @@
 ---
 title: "Managing Virtual Environments in Poetry"
-date: 2019-12-25 23:14:43
-modified: 2025-04-30 14:47:45
+created: 2019-12-25 23:14:43
+date: 2025-04-30 14:47:45
 authors:
   - bendu
 label: managing-virtual-environments-in-poetry

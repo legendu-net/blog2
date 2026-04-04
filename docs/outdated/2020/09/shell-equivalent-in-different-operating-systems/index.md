@@ -1,7 +1,7 @@
 ---
 title: "Shell Equivalent in Different Operating Systems"
-date: 2020-09-02 09:22:34
-modified: 2021-09-17 11:35:17
+created: 2020-09-02 09:22:34
+date: 2021-09-17 11:35:17
 authors:
   - bendu
 label: shell-equivalent-in-different-operating-systems

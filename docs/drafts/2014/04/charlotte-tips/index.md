@@ -1,7 +1,7 @@
 ---
 title: "Living in Charlotte"
-date: 2014-04-09 19:32:27
-modified: 2020-05-09 19:32:27
+created: 2014-04-09 19:32:27
+date: 2020-05-09 19:32:27
 authors:
   - bendu
 label: charlotte-tips

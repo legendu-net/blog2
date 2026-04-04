@@ -1,7 +1,7 @@
 ---
 title: "RStudio Does Not Start"
-date: 2012-05-26 12:45:00
-modified: 2015-02-26 12:45:00
+created: 2012-05-26 12:45:00
+date: 2015-02-26 12:45:00
 authors:
   - bendu
 label: rstudio-not-start

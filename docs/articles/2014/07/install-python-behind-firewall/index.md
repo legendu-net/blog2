@@ -1,7 +1,7 @@
 ---
 title: "Install Python Packages Behind Firewall"
-date: 2014-07-09 02:23:14
-modified: 2021-09-25 11:36:24
+created: 2014-07-09 02:23:14
+date: 2021-09-25 11:36:24
 authors:
   - bendu
 label: install-python-behind-firewall

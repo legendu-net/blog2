@@ -1,7 +1,7 @@
 ---
 title: "Tips on Shell Commands"
-date: 2013-10-23 12:19:10
-modified: 2024-07-28 23:09:04
+created: 2013-10-23 12:19:10
+date: 2024-07-28 23:09:04
 authors:
   - bendu
 label: shell-tips

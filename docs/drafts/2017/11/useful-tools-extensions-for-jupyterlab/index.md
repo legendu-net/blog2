@@ -1,7 +1,7 @@
 ---
 title: "Useful Tools and Extensions for JupyterLab"
-date: 2017-11-24 10:55:57
-modified: 2023-07-16 16:17:54
+created: 2017-11-24 10:55:57
+date: 2023-07-16 16:17:54
 authors:
   - bendu
 label: useful-tools-extensions-for-jupyterlab

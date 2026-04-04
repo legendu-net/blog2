@@ -1,7 +1,7 @@
 ---
 title: "Git Implementations and Bindings in Python"
-date: 2021-05-02 12:31:26
-modified: 2026-01-10 17:03:46
+created: 2021-05-02 12:31:26
+date: 2026-01-10 17:03:46
 authors:
   - bendu
 label: git-implementations-and-bindings-in-python

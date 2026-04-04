@@ -1,7 +1,7 @@
 ---
 title: "Tips on Firefox"
-date: 2013-10-11 01:05:59
-modified: 2021-09-26 21:54:44
+created: 2013-10-11 01:05:59
+date: 2021-09-26 21:54:44
 authors:
   - bendu
 label: firefox-tips

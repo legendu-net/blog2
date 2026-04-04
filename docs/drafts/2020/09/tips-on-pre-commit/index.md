@@ -1,7 +1,7 @@
 ---
 title: "Tips on pre-commit"
-date: 2020-09-09 12:03:21
-modified: 2021-03-09 12:03:21
+created: 2020-09-09 12:03:21
+date: 2021-03-09 12:03:21
 authors:
   - bendu
 label: tips-on-pre-commit

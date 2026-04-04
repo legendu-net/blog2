@@ -1,7 +1,7 @@
 ---
 title: "General Tips for Docker"
-date: 2016-12-10 09:32:40
-modified: 2021-10-01 12:37:49
+created: 2016-12-10 09:32:40
+date: 2021-10-01 12:37:49
 authors:
   - bendu
 label: links-docker

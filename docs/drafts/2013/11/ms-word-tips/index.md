@@ -1,7 +1,7 @@
 ---
 title: Writing Doc Using Microsoft Word
-date: 2013-11-22 13:50:34
-modified: 2020-05-22 13:50:34
+created: 2013-11-22 13:50:34
+date: 2020-05-22 13:50:34
 authors:
   - bendu
 label: ms-word-tips

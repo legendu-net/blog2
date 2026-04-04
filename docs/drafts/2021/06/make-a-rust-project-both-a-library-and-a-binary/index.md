@@ -1,7 +1,7 @@
 ---
 title: "Make a Rust Project Both a Library and a Binary"
-date: 2021-06-16 22:50:37
-modified: 2021-11-06 21:49:23
+created: 2021-06-16 22:50:37
+date: 2021-11-06 21:49:23
 authors:
   - bendu
 label: make-a-rust-project-both-a-library-and-a-binary

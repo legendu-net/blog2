@@ -1,7 +1,7 @@
 ---
 title: "Absolute or Relative Path for Executables"
-date: 2022-05-03 22:58:37
-modified: 2022-05-03 23:14:54
+created: 2022-05-03 22:58:37
+date: 2022-05-03 23:14:54
 authors:
   - bendu
 label: absolute-or-relative-path-for-executables

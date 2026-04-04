@@ -1,7 +1,7 @@
 ---
 title: "Return a New Object Or Mutate the Existing Object"
+created: 2019-10-31 17:09:56
 date: 2019-10-31 17:09:56
-modified: 2019-10-31 17:09:56
 authors:
   - bendu
 label: return-a-new-object-or-mutate-the-existing-one

@@ -1,7 +1,7 @@
 ---
 title: "Developing GUI Applications Using Qt5"
-date: 2019-01-22 15:22:37
-modified: 2020-05-22 15:22:37
+created: 2019-01-22 15:22:37
+date: 2020-05-22 15:22:37
 authors:
   - bendu
 label: qt5-tips

@@ -1,7 +1,7 @@
 ---
 title: "Tips on C++"
-date: 2013-10-22 13:49:14
-modified: 2020-05-22 13:49:14
+created: 2013-10-22 13:49:14
+date: 2020-05-22 13:49:14
 authors:
   - bendu
 label: cpp-tips

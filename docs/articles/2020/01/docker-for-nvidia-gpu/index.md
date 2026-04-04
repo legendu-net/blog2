@@ -1,7 +1,7 @@
 ---
 title: "Docker for Nvidia GPU"
-date: 2020-01-18 01:02:42
-modified: 2021-09-24 12:14:10
+created: 2020-01-18 01:02:42
+date: 2021-09-24 12:14:10
 authors:
   - bendu
 label: docker-for-nvidia-gpu

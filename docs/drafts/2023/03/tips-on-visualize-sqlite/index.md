@@ -1,7 +1,7 @@
 ---
 title: "Tips on visualize-sqlite"
-date: 2023-03-05 21:24:58
-modified: 2023-03-05 23:11:15
+created: 2023-03-05 21:24:58
+date: 2023-03-05 23:11:15
 authors:
   - bendu
 label: tips-on-visualize-sqlite

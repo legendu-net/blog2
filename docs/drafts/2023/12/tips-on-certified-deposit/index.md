@@ -1,7 +1,7 @@
 ---
 title: "Tips on Certified Deposit"
+created: 2023-12-08 21:01:50
 date: 2023-12-08 21:01:50
-modified: 2023-12-08 21:01:50
 authors:
   - bendu
 label: tips-on-certified-deposit

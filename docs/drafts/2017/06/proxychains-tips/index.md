@@ -1,7 +1,7 @@
 ---
 title: "Make Traffic Follow Through Proxies Using ProxyChains"
-date: 2017-06-30 14:34:01
-modified: 2025-12-25 23:01:08
+created: 2017-06-30 14:34:01
+date: 2025-12-25 23:01:08
 authors:
   - bendu
 label: proxychains-tips

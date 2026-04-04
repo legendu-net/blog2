@@ -1,7 +1,7 @@
 ---
 title: "Replace Single Quotes With Double Quotes in Python Code"
-date: 2021-04-15 11:56:53
-modified: 2021-03-15 11:56:53
+created: 2021-04-15 11:56:53
+date: 2021-03-15 11:56:53
 authors:
   - bendu
 label: replace-single-quotes-with-double-quotes-in-python-code

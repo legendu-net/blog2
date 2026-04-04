@@ -1,7 +1,7 @@
 ---
 title: "Call Java in R Using Package rJava"
-date: 2012-06-23 22:53:22
-modified: 2016-10-23 22:53:22
+created: 2012-06-23 22:53:22
+date: 2016-10-23 22:53:22
 authors:
   - bendu
 label: call-java-in-r

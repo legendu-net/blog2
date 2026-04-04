@@ -1,7 +1,7 @@
 ---
 title: "Good C++ Libraries"
-date: 2012-10-18 11:46:12
-modified: 2015-10-18 11:46:12
+created: 2012-10-18 11:46:12
+date: 2015-10-18 11:46:12
 authors:
   - bendu
 label: good-cpp-libraries

@@ -1,7 +1,7 @@
 ---
 title: "SAS SQL Tips"
-date: 2014-06-28 12:58:18
-modified: 2015-08-28 12:58:18
+created: 2014-06-28 12:58:18
+date: 2015-08-28 12:58:18
 authors:
   - bendu
 label: sas-sql-tips

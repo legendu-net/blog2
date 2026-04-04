@@ -1,7 +1,7 @@
 ---
 title: Tips on VPN
-date: 2014-08-22 14:46:00
-modified: 2020-05-22 14:46:00
+created: 2014-08-22 14:46:00
+date: 2020-05-22 14:46:00
 authors:
   - bendu
 label: vpn-tips

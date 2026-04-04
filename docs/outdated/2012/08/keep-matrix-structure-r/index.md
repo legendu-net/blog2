@@ -1,7 +1,7 @@
 ---
 title: "Keep Matrix Structure when Extract a Row/Column from a Matrix"
-date: 2012-08-14 22:04:52
-modified: 2015-05-14 22:04:52
+created: 2012-08-14 22:04:52
+date: 2015-05-14 22:04:52
 authors:
   - bendu
 label: keep-matrix-structure-r

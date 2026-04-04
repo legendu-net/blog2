@@ -1,7 +1,7 @@
 ---
 title: Chinese Pinyin Input Method
-date: 2017-10-22 15:07:56
-modified: 2020-05-22 15:07:56
+created: 2017-10-22 15:07:56
+date: 2020-05-22 15:07:56
 authors:
   - bendu
 label: tips-for-chinese-pinyin-input

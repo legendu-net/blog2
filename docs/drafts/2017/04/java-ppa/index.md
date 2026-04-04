@@ -1,7 +1,7 @@
 ---
 title: "Java PPA for Ubuntu"
-date: 2017-04-22 15:00:33
-modified: 2020-05-22 15:00:33
+created: 2017-04-22 15:00:33
+date: 2020-05-22 15:00:33
 authors:
   - bendu
 label: java-ppa

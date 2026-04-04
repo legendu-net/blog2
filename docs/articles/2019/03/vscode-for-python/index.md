@@ -1,7 +1,7 @@
 ---
 title: "Visual Studio Code for Python"
-date: 2019-03-30 12:20:46
-modified: 2021-09-26 21:51:47
+created: 2019-03-30 12:20:46
+date: 2021-09-26 21:51:47
 authors:
   - bendu
 label: vscode-for-python

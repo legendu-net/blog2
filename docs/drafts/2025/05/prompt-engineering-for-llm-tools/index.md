@@ -1,7 +1,7 @@
 ---
 title: "Prompt Engineering for LLM Tools"
-date: 2025-05-30 08:26:03
-modified: 2025-07-06 17:46:09
+created: 2025-05-30 08:26:03
+date: 2025-07-06 17:46:09
 authors:
   - bendu
 label: prompt-engineering-for-llm-tools

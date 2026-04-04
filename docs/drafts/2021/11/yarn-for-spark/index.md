@@ -1,7 +1,7 @@
 ---
 title: "Yarn for Spark"
-date: 2021-11-29 12:32:33
-modified: 2021-12-05 11:19:49
+created: 2021-11-29 12:32:33
+date: 2021-12-05 11:19:49
 authors:
   - bendu
 label: yarn-for-spark

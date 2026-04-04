@@ -1,7 +1,7 @@
 ---
 title: "Remote Development in Visual Studio Code"
-date: 2019-10-10 13:07:08
-modified: 2021-03-10 13:07:08
+created: 2019-10-10 13:07:08
+date: 2021-03-10 13:07:08
 authors:
   - bendu
 label: remote-development-in-visual-studio-code

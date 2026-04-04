@@ -1,7 +1,7 @@
 ---
 title: "Manage NeoVim Packages Using Lazy.Nvim"
-date: 2025-11-18 16:09:02
-modified: 2025-11-18 18:23:46
+created: 2025-11-18 16:09:02
+date: 2025-11-18 18:23:46
 authors:
   - bendu
 label: manage-neovim-packages-using-lazy.nvim

@@ -1,7 +1,7 @@
 ---
 title: "Install R Kernel for JupyterLab"
-date: 2016-12-25 20:22:24
-modified: 2019-04-25 20:22:24
+created: 2016-12-25 20:22:24
+date: 2019-04-25 20:22:24
 authors:
   - bendu
 label: install-r-kernel-for-jupyterlab

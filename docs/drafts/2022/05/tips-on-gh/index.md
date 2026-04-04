@@ -1,7 +1,7 @@
 ---
 title: "Tips on Gh"
+created: 2022-05-02 00:03:11
 date: 2022-05-02 00:03:11
-modified: 2022-05-02 00:03:11
 authors:
   - bendu
 label: tips-on-gh

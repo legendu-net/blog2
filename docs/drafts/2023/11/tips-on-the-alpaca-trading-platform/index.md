@@ -1,7 +1,7 @@
 ---
 title: "Tips on the Alpaca Trading Platform"
-date: 2023-11-26 21:58:44
-modified: 2024-03-22 23:35:18
+created: 2023-11-26 21:58:44
+date: 2024-03-22 23:35:18
 authors:
   - bendu
 label: tips-on-the-alpaca-trading-platform

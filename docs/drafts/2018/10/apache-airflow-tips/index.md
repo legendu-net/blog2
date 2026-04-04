@@ -1,7 +1,7 @@
 ---
 title: "Job Scheduling and Management Using Apache Airflow"
-date: 2018-10-10 09:32:40
-modified: 2021-06-10 09:32:40
+created: 2018-10-10 09:32:40
+date: 2021-06-10 09:32:40
 authors:
   - bendu
 label: apache-airflow-tips

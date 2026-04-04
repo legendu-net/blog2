@@ -1,7 +1,7 @@
 ---
 title: "Connect to MySQL Using PyMySQL"
-date: 2017-05-22 15:06:10
-modified: 2020-05-22 15:06:10
+created: 2017-05-22 15:06:10
+date: 2020-05-22 15:06:10
 authors:
   - bendu
 label: pymysql-tips

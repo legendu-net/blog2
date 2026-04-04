@@ -1,7 +1,7 @@
 ---
 title: "Tips on JupyterHub"
-date: 2019-02-04 23:14:16
-modified: 2020-05-04 23:14:16
+created: 2019-02-04 23:14:16
+date: 2020-05-04 23:14:16
 authors:
   - bendu
 label: jupyterhub-tips

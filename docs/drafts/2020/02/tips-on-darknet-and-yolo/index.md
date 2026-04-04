@@ -1,7 +1,7 @@
 ---
 title: "Tips on Darknet and Yolo"
+created: 2020-02-22 18:38:53
 date: 2020-02-22 18:38:53
-modified: 2020-02-22 18:38:53
 authors:
   - bendu
 label: tips-on-darknet-and-yolo

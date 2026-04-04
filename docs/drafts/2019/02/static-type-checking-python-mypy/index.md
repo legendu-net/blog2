@@ -1,7 +1,7 @@
 ---
 title: "Static Type Checking of Python Scripts Using Mypy"
-date: 2019-02-18 09:05:13
-modified: 2020-08-18 09:05:13
+created: 2019-02-18 09:05:13
+date: 2020-08-18 09:05:13
 authors:
   - bendu
 label: static-type-checking-python-mypy

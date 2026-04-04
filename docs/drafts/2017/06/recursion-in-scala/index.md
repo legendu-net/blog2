@@ -1,7 +1,7 @@
 ---
 title: "Recursion in Scala"
-date: 2017-06-22 13:34:25
-modified: 2017-10-22 13:34:25
+created: 2017-06-22 13:34:25
+date: 2017-10-22 13:34:25
 authors:
   - bendu
 label: recursion-in-scala

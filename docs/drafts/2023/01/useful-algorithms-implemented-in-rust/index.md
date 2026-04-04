@@ -1,7 +1,7 @@
 ---
 title: "Useful Algorithms Implemented in Rust"
+created: 2023-01-13 16:58:06
 date: 2023-01-13 16:58:06
-modified: 2023-01-13 16:58:06
 authors:
   - bendu
 label: useful-algorithms-implemented-in-rust

@@ -1,7 +1,7 @@
 ---
 title: "Tips on rustc"
-date: 2021-04-22 21:11:46
-modified: 2023-06-26 00:36:58
+created: 2021-04-22 21:11:46
+date: 2023-06-26 00:36:58
 authors:
   - bendu
 label: tips-on-rustc

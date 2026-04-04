@@ -1,7 +1,7 @@
 ---
 title: "The Entry Widget in Tkinter"
-date: 2020-04-12 21:56:51
-modified: 2021-08-08 16:25:26
+created: 2020-04-12 21:56:51
+date: 2021-08-08 16:25:26
 authors:
   - bendu
 label: the-entry-widget-in-tkinter

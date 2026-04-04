@@ -1,7 +1,7 @@
 ---
 title: "Comparison of (Debian Series) Linux Distributions"
-date: 2013-03-18 19:08:42
-modified: 2014-09-18 19:08:42
+created: 2013-03-18 19:08:42
+date: 2014-09-18 19:08:42
 authors:
   - bendu
 label: debian-vs-ubuntu

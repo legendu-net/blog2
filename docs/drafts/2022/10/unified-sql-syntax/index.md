@@ -1,7 +1,7 @@
 ---
 title: "Unified SQL Syntax"
-date: 2022-10-16 15:18:45
-modified: 2022-10-17 12:01:04
+created: 2022-10-16 15:18:45
+date: 2022-10-17 12:01:04
 authors:
   - bendu
 label: unified-sql-syntax

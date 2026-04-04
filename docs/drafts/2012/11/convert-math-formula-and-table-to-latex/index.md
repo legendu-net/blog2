@@ -1,7 +1,7 @@
 ---
 title: Convert Math Formula and Table To LaTeX
-date: 2012-11-13 00:05:59
-modified: 2016-07-13 00:05:59
+created: 2012-11-13 00:05:59
+date: 2016-07-13 00:05:59
 authors:
   - bendu
 label: convert-math-formula-and-table-to-latex

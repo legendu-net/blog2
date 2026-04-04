@@ -1,7 +1,7 @@
 ---
 title: "Rust for Machine Learning"
-date: 2020-01-27 22:43:48
-modified: 2023-08-12 13:11:33
+created: 2020-01-27 22:43:48
+date: 2023-08-12 13:11:33
 authors:
   - bendu
 label: rust-for-machine-learning

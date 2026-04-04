@@ -1,7 +1,7 @@
 ---
 title: "Tips on TypeScript"
-date: 2019-03-26 11:47:33
-modified: 2022-05-09 10:31:30
+created: 2019-03-26 11:47:33
+date: 2022-05-09 10:31:30
 authors:
   - bendu
 label: typescript-tips

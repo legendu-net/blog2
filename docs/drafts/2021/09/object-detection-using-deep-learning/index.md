@@ -1,7 +1,7 @@
 ---
 title: "Object Detection Using Deep Learning"
-date: 2021-09-20 15:41:42
-modified: 2021-10-01 11:56:23
+created: 2021-09-20 15:41:42
+date: 2021-10-01 11:56:23
 authors:
   - bendu
 label: object-detection-using-deep-learning

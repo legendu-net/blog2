@@ -1,7 +1,7 @@
 ---
 title: "My Docker Images"
-date: 2018-10-18 09:10:17
-modified: 2025-05-27 12:02:53
+created: 2018-10-18 09:10:17
+date: 2025-05-27 12:02:53
 authors:
   - bendu
 label: my-docker-images

@@ -1,7 +1,7 @@
 ---
 title: "Install the Latest Version of Python in Ubuntu"
-date: 2019-03-27 02:26:33
-modified: 2021-09-29 23:31:38
+created: 2019-03-27 02:26:33
+date: 2021-09-29 23:31:38
 authors:
   - bendu
 label: install-the-latest-version-of-python-in-ubuntu

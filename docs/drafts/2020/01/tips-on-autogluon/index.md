@@ -1,7 +1,7 @@
 ---
 title: "Tips on AutoGluon"
-date: 2020-01-27 15:28:00
-modified: 2020-02-27 15:28:00
+created: 2020-01-27 15:28:00
+date: 2020-02-27 15:28:00
 authors:
   - bendu
 label: tips-on-autogluon

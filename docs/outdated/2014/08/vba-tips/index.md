@@ -1,7 +1,7 @@
 ---
 title: "Tips on VBA"
-date: 2014-08-22 13:04:29
-modified: 2020-05-22 13:04:29
+created: 2014-08-22 13:04:29
+date: 2020-05-22 13:04:29
 authors:
   - bendu
 label: vba-tips

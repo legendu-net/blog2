@@ -1,7 +1,7 @@
 ---
 title: "Tips on Minikube"
-date: 2020-03-10 09:39:25
-modified: 2021-09-15 16:39:23
+created: 2020-03-10 09:39:25
+date: 2021-09-15 16:39:23
 authors:
   - bendu
 label: tips-minikube

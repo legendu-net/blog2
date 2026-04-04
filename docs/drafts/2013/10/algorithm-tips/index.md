@@ -1,7 +1,7 @@
 ---
 title: "Numeric Algorithms"
-date: 2013-10-22 13:37:34
-modified: 2020-05-22 13:37:34
+created: 2013-10-22 13:37:34
+date: 2020-05-22 13:37:34
 authors:
   - bendu
 label: algorithm-tips

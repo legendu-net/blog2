@@ -1,7 +1,7 @@
 ---
 title: "Tips on the tar Command in Linux"
-date: 2023-02-02 13:58:33
-modified: 2023-03-05 22:18:43
+created: 2023-02-02 13:58:33
+date: 2023-03-05 22:18:43
 authors:
   - bendu
 label: tips-on-tar

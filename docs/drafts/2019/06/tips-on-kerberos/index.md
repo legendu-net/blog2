@@ -1,7 +1,7 @@
 ---
 title: "Tips on Kerberos"
-date: 2019-06-05 13:11:06
-modified: 2020-02-05 13:11:06
+created: 2019-06-05 13:11:06
+date: 2020-02-05 13:11:06
 authors:
   - bendu
 label: tips-on-kerberos

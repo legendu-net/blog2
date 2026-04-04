@@ -1,7 +1,7 @@
 ---
 title: "Hot Water in the House"
-date: 2025-08-01 13:48:59
-modified: 2026-01-15 23:14:59
+created: 2025-08-01 13:48:59
+date: 2026-01-15 23:14:59
 authors:
   - bendu
 label: hot-water-in-the-house

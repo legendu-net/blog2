@@ -1,7 +1,7 @@
 ---
 title: "Tips on Deno"
-date: 2020-05-09 17:27:49
-modified: 2026-01-17 18:41:35
+created: 2020-05-09 17:27:49
+date: 2026-01-17 18:41:35
 authors:
   - bendu
 label: tips-on-deno

@@ -1,7 +1,7 @@
 ---
 title: "Find Unused Rust Dependencies Using cargo-udeps"
-date: 2023-01-18 20:47:16
-modified: 2025-02-15 18:04:47
+created: 2023-01-18 20:47:16
+date: 2025-02-15 18:04:47
 authors:
   - bendu
 label: find-unused-rust-deps-using-cargo-udeps

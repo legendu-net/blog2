@@ -1,7 +1,7 @@
 ---
 title: "Tips on Amazon AWS"
-date: 2020-01-11 20:47:40
-modified: 2020-03-11 20:47:40
+created: 2020-01-11 20:47:40
+date: 2020-03-11 20:47:40
 authors:
   - bendu
 label: tips-on-amazon-aws

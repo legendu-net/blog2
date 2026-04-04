@@ -1,7 +1,7 @@
 ---
 title: "Loss Functions for Machine Learning Models"
-date: 2013-03-07 11:12:36
-modified: 2022-05-08 16:26:29
+created: 2013-03-07 11:12:36
+date: 2022-05-08 16:26:29
 authors:
   - bendu
 label: ai-loss-function

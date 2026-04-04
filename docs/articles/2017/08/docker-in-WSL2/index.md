@@ -1,7 +1,7 @@
 ---
 title: "Docker in WSL 2"
-date: 2017-08-10 09:05:45
-modified: 2022-08-07 19:47:58
+created: 2017-08-10 09:05:45
+date: 2022-08-07 19:47:58
 authors:
   - bendu
 label: docker-in-WSL2

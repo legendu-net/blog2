@@ -1,7 +1,7 @@
 ---
 title: "Tips on Svelte"
+created: 2021-06-22 18:03:18
 date: 2021-06-22 18:03:18
-modified: 2021-06-22 18:03:18
 authors:
   - bendu
 label: tips-on-svelte

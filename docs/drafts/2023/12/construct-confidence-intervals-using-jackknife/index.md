@@ -1,7 +1,7 @@
 ---
 title: "Construct Confidence Intervals Using Jackknife"
+created: 2023-12-08 21:46:25
 date: 2023-12-08 21:46:25
-modified: 2023-12-08 21:46:25
 authors:
   - bendu
 label: construct-confidence-intervals-using-jackknife

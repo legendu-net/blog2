@@ -1,7 +1,7 @@
 ---
 title: "LLM and Robotics"
+created: 2023-12-11 12:12:29
 date: 2023-12-11 12:12:29
-modified: 2023-12-11 12:12:29
 authors:
   - bendu
 label: llm-and-robotics

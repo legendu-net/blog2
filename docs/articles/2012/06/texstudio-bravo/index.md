@@ -1,7 +1,7 @@
 ---
 title: "TeXstudio, Bravo!"
-date: 2012-06-06 14:47:52
-modified: 2021-04-06 14:47:52
+created: 2012-06-06 14:47:52
+date: 2021-04-06 14:47:52
 authors:
   - bendu
 label: texstudio-bravo

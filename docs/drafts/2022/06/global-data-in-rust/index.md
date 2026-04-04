@@ -1,7 +1,7 @@
 ---
 title: "Global Data in Rust"
-date: 2022-06-17 17:11:24
-modified: 2022-11-05 22:34:17
+created: 2022-06-17 17:11:24
+date: 2022-11-05 22:34:17
 authors:
   - bendu
 label: global-data-in-rust

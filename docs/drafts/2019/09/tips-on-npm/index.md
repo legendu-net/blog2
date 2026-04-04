@@ -1,7 +1,7 @@
 ---
 title: "Tips on npm"
-date: 2019-09-03 21:44:47
-modified: 2025-05-11 02:23:29
+created: 2019-09-03 21:44:47
+date: 2025-05-11 02:23:29
 authors:
   - bendu
 label: tips-on-npm

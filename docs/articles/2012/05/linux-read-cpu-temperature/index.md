@@ -1,7 +1,7 @@
 ---
 title: "Read CPU Temperature in Linux"
-date: 2012-05-17 11:24:31
-modified: 2020-02-17 11:24:31
+created: 2012-05-17 11:24:31
+date: 2020-02-17 11:24:31
 authors:
   - bendu
 label: linux-read-cpu-temperature

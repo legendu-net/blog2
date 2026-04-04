@@ -1,7 +1,7 @@
 ---
 title: "Packaging Python Dependencies for PySpark Using python-build-standalone"
-date: 2021-04-26 09:48:16
-modified: 2021-07-19 11:19:28
+created: 2021-04-26 09:48:16
+date: 2021-07-19 11:19:28
 authors:
   - bendu
 label: packaging-Python-Dependencies-for-PySpark-Using-python-build-standalone

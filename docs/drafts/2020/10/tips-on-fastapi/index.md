@@ -1,7 +1,7 @@
 ---
 title: "Tips on FastApi"
-date: 2020-10-26 09:46:28
-modified: 2021-09-29 10:33:02
+created: 2020-10-26 09:46:28
+date: 2021-09-29 10:33:02
 authors:
   - bendu
 label: tips-on-fastapi

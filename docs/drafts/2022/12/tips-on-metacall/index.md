@@ -1,7 +1,7 @@
 ---
 title: "Tips on MetaCall"
-date: 2022-12-28 10:35:26
-modified: 2022-12-28 21:25:35
+created: 2022-12-28 10:35:26
+date: 2022-12-28 21:25:35
 authors:
   - bendu
 label: tips-on-metacall

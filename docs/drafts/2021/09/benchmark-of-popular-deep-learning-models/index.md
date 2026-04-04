@@ -1,7 +1,7 @@
 ---
 title: "Benchmark of Popular Deep Learning Models"
-date: 2021-09-16 11:21:11
-modified: 2021-09-16 13:21:39
+created: 2021-09-16 11:21:11
+date: 2021-09-16 13:21:39
 authors:
   - bendu
 label: benchmark-of-popular-deep-learning-models

@@ -1,7 +1,7 @@
 ---
 title: "Tips on Touchpad"
-date: 2014-01-22 12:33:51
-modified: 2020-05-22 12:33:51
+created: 2014-01-22 12:33:51
+date: 2020-05-22 12:33:51
 authors:
   - bendu
 label: touchpad-tips

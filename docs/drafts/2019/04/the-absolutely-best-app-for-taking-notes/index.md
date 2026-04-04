@@ -1,7 +1,7 @@
 ---
 title: "The Absolutely Best App for Taking Notes"
-date: 2019-04-22 15:34:07
-modified: 2021-09-25 13:36:29
+created: 2019-04-22 15:34:07
+date: 2021-09-25 13:36:29
 authors:
   - bendu
 label: the-absolutely-best-app-for-taking-notes

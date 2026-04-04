@@ -1,7 +1,7 @@
 ---
 title: "Understand DSL in Kotlin"
+created: 2024-04-10 16:12:29
 date: 2024-04-10 16:12:29
-modified: 2024-04-10 16:12:29
 authors:
   - bendu
 label: understand-dsl-in-kotlin

@@ -1,7 +1,7 @@
 ---
 title: "The Non-Zero Exit Code 137 While Building a Docker Image"
-date: 2019-10-18 17:56:29
-modified: 2021-10-08 11:35:32
+created: 2019-10-18 17:56:29
+date: 2021-10-08 11:35:32
 authors:
   - bendu
 label: the-non-zero-exit-code-137-while-building-a-docker-image

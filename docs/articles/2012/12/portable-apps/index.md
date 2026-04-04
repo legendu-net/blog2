@@ -1,7 +1,7 @@
 ---
 title: "Make Your Life Easier with Portable Applications"
-date: 2012-12-23 00:04:26
-modified: 2020-05-23 00:04:26
+created: 2012-12-23 00:04:26
+date: 2020-05-23 00:04:26
 authors:
   - bendu
 label: portable-apps

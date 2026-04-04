@@ -1,7 +1,7 @@
 ---
 title: "Tips on the Fish Shell"
-date: 2025-11-11 18:13:06
-modified: 2026-01-02 22:54:34
+created: 2025-11-11 18:13:06
+date: 2026-01-02 22:54:34
 authors:
   - bendu
 label: tips-on-the-fish-shell

@@ -1,7 +1,7 @@
 ---
 title: "Setup GitHub Actions Self-hosted Runners on GCP"
-date: 2025-05-08 15:51:58
-modified: 2025-11-17 19:56:27
+created: 2025-05-08 15:51:58
+date: 2025-11-17 19:56:27
 authors:
   - bendu
 label: setup-github-actions-self-hosted-runners-on-gcp

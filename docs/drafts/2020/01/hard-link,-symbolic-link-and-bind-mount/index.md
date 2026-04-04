@@ -1,7 +1,7 @@
 ---
 title: "Hard Link, Symbolic Link and Bind Mount"
+created: 2020-01-28 10:23:18
 date: 2020-01-28 10:23:18
-modified: 2020-01-28 10:23:18
 authors:
   - bendu
 label: hard-link,-symbolic-link-and-bind-mount

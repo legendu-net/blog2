@@ -1,7 +1,7 @@
 ---
 title: "Managing Blog Comments Using Disqus"
-date: 2015-06-22 14:06:31
-modified: 2020-05-22 14:06:31
+created: 2015-06-22 14:06:31
+date: 2020-05-22 14:06:31
 authors:
   - bendu
 label: disqus-tips

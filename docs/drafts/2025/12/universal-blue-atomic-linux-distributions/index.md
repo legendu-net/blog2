@@ -1,7 +1,7 @@
 ---
 title: "Universal Blue Atomic Linux Distributions"
-date: 2025-12-07 17:20:04
-modified: 2025-12-19 19:33:48
+created: 2025-12-07 17:20:04
+date: 2025-12-19 19:33:48
 authors:
   - bendu
 label: universal-blue-atomic-linux-distributions

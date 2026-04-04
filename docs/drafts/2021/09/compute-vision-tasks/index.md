@@ -1,7 +1,7 @@
 ---
 title: "Compute Vision Tasks"
-date: 2021-09-20 17:09:03
-modified: 2021-10-08 13:51:03
+created: 2021-09-20 17:09:03
+date: 2021-10-08 13:51:03
 authors:
   - bendu
 label: compute-vision-tasks

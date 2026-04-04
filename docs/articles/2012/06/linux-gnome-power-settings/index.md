@@ -1,7 +1,7 @@
 ---
 title: "Power Settings in Linux with GNOME Desktop"
-date: 2012-06-03 10:17:32
-modified: 2015-03-03 10:17:32
+created: 2012-06-03 10:17:32
+date: 2015-03-03 10:17:32
 authors:
   - bendu
 label: linux-gnome-power-settings

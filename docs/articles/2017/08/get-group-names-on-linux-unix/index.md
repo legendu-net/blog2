@@ -1,7 +1,7 @@
 ---
 title: "Get Group Names on Linux/Unix"
-date: 2017-08-22 12:37:19
-modified: 2017-10-22 12:37:19
+created: 2017-08-22 12:37:19
+date: 2017-10-22 12:37:19
 authors:
   - bendu
 label: get-group-names-on-linux-unix

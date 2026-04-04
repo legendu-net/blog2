@@ -1,7 +1,7 @@
 ---
 title: "Rising of the Julia Programming Language"
-date: 2013-10-22 14:42:49
-modified: 2020-05-22 14:42:49
+created: 2013-10-22 14:42:49
+date: 2020-05-22 14:42:49
 authors:
   - bendu
 label: julia-tips

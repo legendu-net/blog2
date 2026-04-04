@@ -1,7 +1,7 @@
 ---
 title: "Tips on A-share Stocks in China"
-date: 2023-10-29 10:29:37
-modified: 2023-10-29 15:23:52
+created: 2023-10-29 10:29:37
+date: 2023-10-29 15:23:52
 authors:
   - bendu
 label: tips-on-a-share-stocks-in-china

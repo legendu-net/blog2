@@ -1,7 +1,7 @@
 ---
 title: "Run Commands on Remote Machines"
-date: 2019-02-06 23:21:30
-modified: 2020-12-06 23:21:30
+created: 2019-02-06 23:21:30
+date: 2020-12-06 23:21:30
 authors:
   - bendu
 label: run-commands-on-remote-machines

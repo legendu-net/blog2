@@ -1,7 +1,7 @@
 ---
 title: "Python pandas Tips"
-date: 2015-05-02 21:55:44
-modified: 2023-07-18 17:55:52
+created: 2015-05-02 21:55:44
+date: 2023-07-18 17:55:52
 authors:
   - bendu
 label: python-pandas-tips

@@ -1,7 +1,7 @@
 ---
 title: "Tips on Kmymoney"
-date: 2022-10-09 18:46:15
-modified: 2022-12-17 22:48:56
+created: 2022-10-09 18:46:15
+date: 2022-12-17 22:48:56
 authors:
   - bendu
 label: tips-on-KMyMoney

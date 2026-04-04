@@ -1,7 +1,7 @@
 ---
 title: "Shopping Smartly"
-date: 2022-05-21 21:35:27
-modified: 2025-12-17 12:26:40
+created: 2022-05-21 21:35:27
+date: 2025-12-17 12:26:40
 authors:
   - bendu
 label: shopping-smartly

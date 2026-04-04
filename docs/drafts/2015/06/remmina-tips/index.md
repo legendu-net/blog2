@@ -1,7 +1,7 @@
 ---
 title: "Remote Desktop Using Remmina"
-date: 2015-06-22 14:05:21
-modified: 2020-05-22 14:05:21
+created: 2015-06-22 14:05:21
+date: 2020-05-22 14:05:21
 authors:
   - bendu
 label: remmina-tips

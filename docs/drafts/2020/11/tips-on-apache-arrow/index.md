@@ -1,7 +1,7 @@
 ---
 title: "Tips on Apache Arrow"
+created: 2020-11-30 12:06:56
 date: 2020-11-30 12:06:56
-modified: 2020-11-30 12:06:56
 authors:
   - bendu
 label: tips-on-apache-arrow

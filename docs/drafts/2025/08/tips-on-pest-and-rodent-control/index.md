@@ -1,7 +1,7 @@
 ---
 title: "Tips on Pest and Rodent Control"
-date: 2025-08-01 11:58:54
-modified: 2025-08-20 17:38:01
+created: 2025-08-01 11:58:54
+date: 2025-08-20 17:38:01
 authors:
   - bendu
 label: tips-on-pest-and-rodent-control

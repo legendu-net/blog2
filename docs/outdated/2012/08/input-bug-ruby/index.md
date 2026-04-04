@@ -1,7 +1,7 @@
 ---
 title: "An Input Bug in Ruby"
-date: 2012-08-06 11:28:52
-modified: 2020-04-06 11:28:52
+created: 2012-08-06 11:28:52
+date: 2020-04-06 11:28:52
 authors:
   - bendu
 label: input-bug-ruby

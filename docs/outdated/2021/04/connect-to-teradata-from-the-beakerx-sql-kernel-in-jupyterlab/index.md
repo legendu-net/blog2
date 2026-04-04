@@ -1,7 +1,7 @@
 ---
 title: Connect to Teradata from the BeakerX SQL Kernel in JupyterLab
-date: 2021-04-10 23:47:18
-modified: 2021-02-10 23:47:18
+created: 2021-04-10 23:47:18
+date: 2021-02-10 23:47:18
 authors:
 - bendu
 label: connect-to-teradata-from-the-beakerx-sql-kernel-in-jupyterlab

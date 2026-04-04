@@ -1,7 +1,7 @@
 ---
 title: "R Markdown Tips"
-date: 2016-06-09 17:52:05
-modified: 2017-04-09 17:52:05
+created: 2016-06-09 17:52:05
+date: 2017-04-09 17:52:05
 authors:
   - bendu
 label: rmarkdown-tips

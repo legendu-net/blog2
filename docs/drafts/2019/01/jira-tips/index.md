@@ -1,7 +1,7 @@
 ---
 title: "Tips on JIRA"
-date: 2019-01-08 17:36:28
-modified: 2021-01-08 17:36:28
+created: 2019-01-08 17:36:28
+date: 2021-01-08 17:36:28
 authors:
   - bendu
 label: jira-tips

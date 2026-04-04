@@ -1,7 +1,7 @@
 ---
 title: "Understand and Avoid the No More Spool Space Issue in Teradata"
+created: 2020-06-22 08:53:57
 date: 2020-06-22 08:53:57
-modified: 2020-06-22 08:53:57
 authors:
   - bendu
 label: understand-and-avoid-the-no-more-spool-space-issue-in-teradata

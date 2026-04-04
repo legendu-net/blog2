@@ -1,7 +1,7 @@
 ---
 title: "Abuse of Vector in R"
+created: 2012-05-16 00:00:00
 date: 2012-05-16 00:00:00
-modified: 2012-05-16 00:00:00
 authors:
   - bendu
 label: abuse-vector-r

@@ -1,7 +1,7 @@
 ---
 title: "Ways to Make a Bootable Flash Drive in Linux"
-date: 2013-07-19 10:33:38
-modified: 2025-12-09 03:45:56
+created: 2013-07-19 10:33:38
+date: 2025-12-09 03:45:56
 authors:
   - bendu
 label: ways-to-make-a-bootable-flash-drive

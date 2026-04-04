@@ -1,7 +1,7 @@
 ---
 title: "Make Charts in Markdown Using Mermaid"
+created: 2022-12-24 00:27:00
 date: 2022-12-24 00:27:00
-modified: 2022-12-24 00:27:00
 authors:
   - bendu
 label: make-charts-in-markdown-using-mermaid

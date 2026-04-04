@@ -1,7 +1,7 @@
 ---
 title: "Tips on Rust Kernel Via Evcxr for JupyterLab"
-date: 2020-11-21 11:32:16
-modified: 2022-05-25 00:20:20
+created: 2020-11-21 11:32:16
+date: 2022-05-25 00:20:20
 authors:
   - bendu
 label: tips-on-rust-kernel-via-evcxr-for-jupyterlab

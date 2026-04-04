@@ -1,7 +1,7 @@
 ---
 title: "Dataframe in JavaScript"
-date: 2019-02-01 19:42:16
-modified: 2021-09-26 14:01:44
+created: 2019-02-01 19:42:16
+date: 2021-09-26 14:01:44
 authors:
   - bendu
 label: dataframe-in-javascript

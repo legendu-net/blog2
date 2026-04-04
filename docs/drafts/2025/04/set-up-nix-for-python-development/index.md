@@ -1,7 +1,7 @@
 ---
 title: "Set Up Nix for Python Development"
+created: 2025-04-21 12:13:58
 date: 2025-04-21 12:13:58
-modified: 2025-04-21 12:13:58
 authors:
   - bendu
 label: set-up-nix-for-python-development

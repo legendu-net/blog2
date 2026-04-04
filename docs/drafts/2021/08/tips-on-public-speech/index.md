@@ -1,7 +1,7 @@
 ---
 title: "Tips on Public Speech"
+created: 2021-08-05 18:48:04
 date: 2021-08-05 18:48:04
-modified: 2021-08-05 18:48:04
 authors:
   - bendu
 label: tips-on-public-speech

@@ -1,7 +1,7 @@
 ---
 title: "Async in Rust"
-date: 2022-12-04 10:38:16
-modified: 2025-11-23 18:30:54
+created: 2022-12-04 10:38:16
+date: 2025-11-23 18:30:54
 authors:
   - bendu
 label: async-in-rust

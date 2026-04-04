@@ -1,7 +1,7 @@
 ---
 title: "Comparison of Embedded Databases"
-date: 2020-07-22 18:40:36
-modified: 2025-06-04 14:34:07
+created: 2020-07-22 18:40:36
+date: 2025-06-04 14:34:07
 authors:
   - bendu
 label: comparison-of-embedded-databases

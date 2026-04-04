@@ -1,7 +1,7 @@
 ---
 title: "Service Your Rivian Car"
+created: 2025-08-10 09:29:44
 date: 2025-08-10 09:29:44
-modified: 2025-08-10 09:29:44
 authors:
   - bendu
 label: service-your-rivian-car

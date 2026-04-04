@@ -1,7 +1,7 @@
 ---
 title: "Some Tips on Cygwin"
-date: 2013-10-22 15:33:38
-modified: 2020-05-22 15:33:38
+created: 2013-10-22 15:33:38
+date: 2020-05-22 15:33:38
 authors:
   - bendu
 label: cygwin-tips

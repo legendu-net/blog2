@@ -1,7 +1,7 @@
 ---
 title: "Training Deep Neural Networks"
-date: 2020-01-21 13:44:37
-modified: 2021-10-08 12:57:31
+created: 2020-01-21 13:44:37
+date: 2021-10-08 12:57:31
 authors:
   - bendu
 label: training-deep-neural-networks

@@ -1,7 +1,7 @@
 ---
 title: "IDEs for LaTeX"
-date: 2018-05-11 11:32:28
-modified: 2021-04-11 11:32:28
+created: 2018-05-11 11:32:28
+date: 2021-04-11 11:32:28
 authors:
   - bendu
 label: latex-ide

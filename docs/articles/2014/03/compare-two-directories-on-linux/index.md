@@ -1,7 +1,7 @@
 ---
 title: "Compare Two Directories on Linux"
-date: 2014-03-10 19:13:40
-modified: 2019-05-10 19:13:40
+created: 2014-03-10 19:13:40
+date: 2019-05-10 19:13:40
 authors:
   - bendu
 label: compare-two-directories-on-linux

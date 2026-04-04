@@ -1,7 +1,7 @@
 ---
 title: "Log Softmax vs Softmax"
+created: 2020-01-07 10:19:59
 date: 2020-01-07 10:19:59
-modified: 2020-01-07 10:19:59
 authors:
   - bendu
 label: log-softmax-vs-softmax

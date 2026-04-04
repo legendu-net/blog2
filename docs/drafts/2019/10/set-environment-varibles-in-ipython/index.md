@@ -1,7 +1,7 @@
 ---
 title: "Set Environment Varibles in IPython"
-date: 2019-10-19 21:08:30
-modified: 2022-12-04 21:40:47
+created: 2019-10-19 21:08:30
+date: 2022-12-04 21:40:47
 authors:
   - bendu
 label: set-environment-varibles-in-ipython

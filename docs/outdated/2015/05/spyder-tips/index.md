@@ -1,7 +1,7 @@
 ---
 title: "Tips on Spyder"
-date: 2015-05-22 14:49:26
-modified: 2020-05-22 14:49:26
+created: 2015-05-22 14:49:26
+date: 2020-05-22 14:49:26
 authors:
   - bendu
 label: spyder-tips

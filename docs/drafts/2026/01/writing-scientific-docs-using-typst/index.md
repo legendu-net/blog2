@@ -1,7 +1,7 @@
 ---
 title: "Writing Scientific Docs Using Typst"
-date: 2026-01-17 17:22:31
-modified: 2026-01-18 16:58:38
+created: 2026-01-17 17:22:31
+date: 2026-01-18 16:58:38
 authors:
   - bendu
 label: writing-scientific-docs-using-typst

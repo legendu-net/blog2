@@ -1,7 +1,7 @@
 ---
 title: "Some Tips for Intern Projects"
-date: 2013-10-30 17:25:44
-modified: 2019-03-30 17:25:44
+created: 2013-10-30 17:25:44
+date: 2019-03-30 17:25:44
 authors:
   - bendu
 label: intern-tips

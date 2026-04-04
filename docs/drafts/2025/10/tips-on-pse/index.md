@@ -1,7 +1,7 @@
 ---
 title: "Tips on PSE"
-date: 2025-10-06 19:16:12
-modified: 2025-11-07 22:18:04
+created: 2025-10-06 19:16:12
+date: 2025-11-07 22:18:04
 authors:
   - bendu
 label: tips-on-pse

@@ -1,7 +1,7 @@
 ---
 title: "Use Docker Containers for GitHub Actions"
+created: 2025-11-23 10:57:08
 date: 2025-11-23 10:57:08
-modified: 2025-11-23 10:57:08
 authors:
   - bendu
 label: use-docker-containers-for-github-actions

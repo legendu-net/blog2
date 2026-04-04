@@ -1,7 +1,7 @@
 ---
 title: "Tips on GPU Computing"
-date: 2013-10-12 11:19:32
-modified: 2023-07-18 00:56:57
+created: 2013-10-12 11:19:32
+date: 2023-07-18 00:56:57
 authors:
   - bendu
 label: gpu-tips

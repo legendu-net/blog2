@@ -1,7 +1,7 @@
 ---
 title: "Copy SSH Public Key Using ssh-copy-id"
-date: 2012-06-29 22:25:13
-modified: 2020-02-29 22:25:13
+created: 2012-06-29 22:25:13
+date: 2020-02-29 22:25:13
 authors:
   - bendu
 label: ssh-copy-id

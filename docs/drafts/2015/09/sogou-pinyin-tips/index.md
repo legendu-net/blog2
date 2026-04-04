@@ -1,7 +1,7 @@
 ---
 title: "Use Sogou Pinyin to Type Chinese"
-date: 2015-09-22 13:18:02
-modified: 2020-05-22 13:18:02
+created: 2015-09-22 13:18:02
+date: 2020-05-22 13:18:02
 authors:
   - bendu
 label: sogou-pinyin-tips

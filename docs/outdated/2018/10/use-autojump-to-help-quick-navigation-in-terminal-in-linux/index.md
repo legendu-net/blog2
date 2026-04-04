@@ -1,7 +1,7 @@
 ---
 title: "Use Autojump to Help Quick Navigation in Terminal in Linux"
-date: 2018-10-29 08:28:14
-modified: 2021-09-26 11:05:01
+created: 2018-10-29 08:28:14
+date: 2021-09-26 11:05:01
 authors:
   - bendu
 label: use-autojump-to-help-quick-navigation-in-terminal-in-linux

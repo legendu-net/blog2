@@ -1,7 +1,7 @@
 ---
 title: "Tips on Refactoring Rust Code"
+created: 2023-02-02 14:15:04
 date: 2023-02-02 14:15:04
-modified: 2023-02-02 14:15:04
 authors:
   - bendu
 label: tips-on-refactoring-rust-code

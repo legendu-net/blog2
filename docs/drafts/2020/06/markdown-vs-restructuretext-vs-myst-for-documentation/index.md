@@ -1,7 +1,7 @@
 ---
 title: "Markdown vs RestructureText vs MyST for Documentation"
+created: 2020-06-14 18:56:54
 date: 2020-06-14 18:56:54
-modified: 2020-06-14 18:56:54
 authors:
   - bendu
 label: markdown-vs-restructuretext-vs-myst-for-documentation

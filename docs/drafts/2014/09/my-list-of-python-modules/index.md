@@ -1,7 +1,7 @@
 ---
 title: "My List of Python Modules"
-date: 2014-09-13 09:48:04
-modified: 2021-10-07 16:50:08
+created: 2014-09-13 09:48:04
+date: 2021-10-07 16:50:08
 authors:
   - bendu
 label: my-list-of-python-modules

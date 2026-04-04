@@ -1,7 +1,7 @@
 ---
 title: "Speed Up Rust Compile Time"
+created: 2023-01-16 18:53:05
 date: 2023-01-16 18:53:05
-modified: 2023-01-16 18:53:05
 authors:
   - bendu
 label: speed-up-rust-compile-time

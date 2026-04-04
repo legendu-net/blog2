@@ -1,7 +1,7 @@
 ---
 title: "Install Dictionary Words for Linux"
+created: 2022-05-03 22:51:18
 date: 2022-05-03 22:51:18
-modified: 2022-05-03 22:51:18
 authors:
   - bendu
 label: install-dictionary-words-for-linux

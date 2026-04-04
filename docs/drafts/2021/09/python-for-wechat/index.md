@@ -1,7 +1,7 @@
 ---
 title: "Python for WeChat"
+created: 2021-09-22 14:50:25
 date: 2021-09-22 14:50:25
-modified: 2021-09-22 14:50:25
 authors:
   - bendu
 label: python-for-wechat

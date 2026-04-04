@@ -1,7 +1,7 @@
 ---
 title: "Tips on TensorFlow"
-date: 2019-12-27 10:57:44
-modified: 2021-09-16 09:54:29
+created: 2019-12-27 10:57:44
+date: 2021-09-16 09:54:29
 authors:
   - bendu
 label: tips-on-tensorflow

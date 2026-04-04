@@ -1,7 +1,7 @@
 ---
 title: "Develop a GUI Application in Rust"
-date: 2020-10-03 21:36:53
-modified: 2025-04-17 08:49:22
+created: 2020-10-03 21:36:53
+date: 2025-04-17 08:49:22
 authors:
   - bendu
 label: develop-a-gui-application-in-rust

@@ -1,7 +1,7 @@
 ---
 title: "Disable the Checkers Layer in SpaceVim"
-date: 2019-10-20 21:35:44
-modified: 2025-04-25 03:42:52
+created: 2019-10-20 21:35:44
+date: 2025-04-25 03:42:52
 authors:
   - bendu
 label: disable-the-checkers-layer-in-spacevim

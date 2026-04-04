@@ -1,7 +1,7 @@
 ---
 title: "Primary Key vs Index in SQL"
+created: 2016-10-23 12:46:53
 date: 2016-10-23 12:46:53
-modified: 2016-10-23 12:46:53
 authors:
   - bendu
 label: primary-key-vs-index-in-sql

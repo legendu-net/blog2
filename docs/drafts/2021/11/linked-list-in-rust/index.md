@@ -1,7 +1,7 @@
 ---
 title: "Linked List in Rust"
-date: 2021-11-27 12:59:49
-modified: 2023-06-25 11:23:06
+created: 2021-11-27 12:59:49
+date: 2023-06-25 11:23:06
 authors:
   - bendu
 label: linked-list-in-rust

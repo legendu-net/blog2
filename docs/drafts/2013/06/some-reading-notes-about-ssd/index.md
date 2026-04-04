@@ -1,7 +1,7 @@
 ---
 title: "Some Reading Notes About SSD"
+created: 2013-06-23 00:00:00
 date: 2013-06-23 00:00:00
-modified: 2013-06-23 00:00:00
 authors:
   - bendu
 label: some-reading-notes-about-ssd

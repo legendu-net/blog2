@@ -1,7 +1,7 @@
 ---
 title: "Backup Files Using \"rsnapshot\""
-date: 2015-01-22 14:25:22
-modified: 2020-05-22 14:25:22
+created: 2015-01-22 14:25:22
+date: 2020-05-22 14:25:22
 authors:
   - bendu
 label: rsnapshot-tips

@@ -1,7 +1,7 @@
 ---
 title: "Tips on Job Seeking"
+created: 2022-12-09 10:30:39
 date: 2022-12-09 10:30:39
-modified: 2022-12-09 10:30:39
 authors:
   - bendu
 label: tips-on-job-seeking

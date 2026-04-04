@@ -1,7 +1,7 @@
 ---
 title: "Ensure Capturing Log of Applications"
-date: 2019-03-11 08:26:52
-modified: 2020-08-11 08:26:52
+created: 2019-03-11 08:26:52
+date: 2020-08-11 08:26:52
 authors:
   - bendu
 label: a-trick-to-ensure-capturing-log

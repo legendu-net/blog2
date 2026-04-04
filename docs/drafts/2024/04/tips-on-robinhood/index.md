@@ -1,7 +1,7 @@
 ---
 title: "Tips on Robinhood"
+created: 2024-04-24 23:31:25
 date: 2024-04-24 23:31:25
-modified: 2024-04-24 23:31:25
 authors:
   - bendu
 label: tips-on-robinhood

@@ -1,7 +1,7 @@
 ---
 title: "Things to Do After Reimaging Mac"
-date: 2016-06-18 15:34:41
-modified: 2021-09-25 14:05:01
+created: 2016-06-18 15:34:41
+date: 2021-09-25 14:05:01
 authors:
   - bendu
 label: things-to-do-after-reimaging-mac

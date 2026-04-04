@@ -1,7 +1,7 @@
 ---
 title: "Interact with System Clipboard in Vim"
-date: 2012-11-26 10:35:12
-modified: 2014-12-26 10:35:12
+created: 2012-11-26 10:35:12
+date: 2014-12-26 10:35:12
 authors:
   - bendu
 label: interact-between-different-vim-sessions

@@ -1,7 +1,7 @@
 ---
 title: "Property Line"
-date: 2019-09-05 06:22:17
-modified: 2024-01-22 23:34:21
+created: 2019-09-05 06:22:17
+date: 2024-01-22 23:34:21
 authors:
   - bendu
 label: tips-on-property

@@ -1,7 +1,7 @@
 ---
 title: "Proxy, Reverse Proxy, Load Balancer, VPN and DNS"
-date: 2020-10-03 10:47:34
-modified: 2023-01-10 11:39:07
+created: 2020-10-03 10:47:34
+date: 2023-01-10 11:39:07
 authors:
   - bendu
 label: proxy-vpn-dns-reverse-proxy

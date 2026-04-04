@@ -1,7 +1,7 @@
 ---
 title: "Debug a Rust Application"
-date: 2021-06-16 22:44:54
-modified: 2023-02-12 00:46:53
+created: 2021-06-16 22:44:54
+date: 2023-02-12 00:46:53
 authors:
   - bendu
 label: debug-a-rust-app

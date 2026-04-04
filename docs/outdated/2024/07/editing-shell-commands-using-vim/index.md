@@ -1,7 +1,7 @@
 ---
 title: "Editing Shell Commands Using Vim"
-date: 2024-07-22 13:39:40
-modified: 2025-06-09 02:49:30
+created: 2024-07-22 13:39:40
+date: 2025-06-09 02:49:30
 authors:
   - bendu
 label: editing-shell-commands-using-vim

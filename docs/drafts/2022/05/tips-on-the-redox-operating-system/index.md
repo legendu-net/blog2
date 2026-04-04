@@ -1,7 +1,7 @@
 ---
 title: "Tips on the Redox Operating System"
-date: 2022-05-02 22:06:21
-modified: 2022-05-08 01:00:38
+created: 2022-05-02 22:06:21
+date: 2022-05-08 01:00:38
 authors:
   - bendu
 label: tips-on-the-redox-operating-system

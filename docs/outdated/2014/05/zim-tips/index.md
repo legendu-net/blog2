@@ -1,7 +1,7 @@
 ---
 title: "Taking Notes Using Zim"
-date: 2014-05-22 13:11:56
-modified: 2020-05-22 13:11:56
+created: 2014-05-22 13:11:56
+date: 2020-05-22 13:11:56
 authors:
   - bendu
 label: zim-tips

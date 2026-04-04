@@ -1,7 +1,7 @@
 ---
 title: "Useful Rust Crates for Bit Manipulations"
+created: 2023-01-13 16:37:22
 date: 2023-01-13 16:37:22
-modified: 2023-01-13 16:37:22
 authors:
   - bendu
 label: useful-rust-crates-for-bit-manipulations

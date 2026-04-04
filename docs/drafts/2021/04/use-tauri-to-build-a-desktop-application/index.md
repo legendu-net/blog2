@@ -1,7 +1,7 @@
 ---
 title: "Use Tauri to Build a Desktop Application"
-date: 2021-04-03 21:42:15
-modified: 2022-10-15 18:27:54
+created: 2021-04-03 21:42:15
+date: 2022-10-15 18:27:54
 authors:
   - bendu
 label: use-tauri-to-build-a-desktop-application

@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class"
-date: 2020-11-22 10:12:17
-modified: 2021-10-03 23:32:52
+created: 2020-11-22 10:12:17
+date: 2021-10-03 23:32:52
 authors:
   - bendu
 label: spark-issue:-_pickle.PicklingError:-args[0]-from-__newobj__-args-has-the-wrong-class

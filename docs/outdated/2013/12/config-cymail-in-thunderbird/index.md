@@ -1,7 +1,7 @@
 ---
 title: "Config Cymail in Thunderbird"
+created: 2013-12-19 10:16:17
 date: 2013-12-19 10:16:17
-modified: 2013-12-19 10:16:17
 authors:
   - bendu
 label: config-cymail-in-thunderbird

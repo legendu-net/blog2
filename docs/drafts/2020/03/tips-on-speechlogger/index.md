@@ -1,7 +1,7 @@
 ---
 title: "Tips on Speechlogger"
+created: 2020-03-29 17:49:42
 date: 2020-03-29 17:49:42
-modified: 2020-03-29 17:49:42
 authors:
   - bendu
 label: tips-on-speechlogger

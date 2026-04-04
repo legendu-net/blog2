@@ -1,7 +1,7 @@
 ---
 title: "Tips on cURL and Wget"
-date: 2013-10-26 13:02:55
-modified: 2022-07-15 22:37:28
+created: 2013-10-26 13:02:55
+date: 2022-07-15 22:37:28
 authors:
   - bendu
 label: curl-tips

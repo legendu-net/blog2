@@ -1,7 +1,7 @@
 ---
 title: "Editing PDF Files Using Stirling-PDF"
-date: 2025-03-06 08:18:50
-modified: 2025-05-11 16:45:21
+created: 2025-03-06 08:18:50
+date: 2025-05-11 16:45:21
 authors:
   - bendu
 label: editing-pdf-files-using-stirling-pdf

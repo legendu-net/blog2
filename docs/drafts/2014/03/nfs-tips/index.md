@@ -1,7 +1,7 @@
 ---
 title: "Tips on NFS"
-date: 2014-03-10 16:03:04
-modified: 2021-01-10 16:03:04
+created: 2014-03-10 16:03:04
+date: 2021-01-10 16:03:04
 authors:
   - bendu
 label: nfs-tips

@@ -1,7 +1,7 @@
 ---
 title: "Cool Mobile Apps"
+created: 2019-01-21 21:54:58
 date: 2019-01-21 21:54:58
-modified: 2019-01-21 21:54:58
 authors:
   - bendu
 label: cool-mobile-apps

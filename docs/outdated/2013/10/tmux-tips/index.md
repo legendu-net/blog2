@@ -1,7 +1,7 @@
 ---
 title: "Tips on tmux"
-date: 2013-10-22 15:04:34
-modified: 2022-01-22 10:57:00
+created: 2013-10-22 15:04:34
+date: 2022-01-22 10:57:00
 authors:
   - bendu
 label: tmux-tips

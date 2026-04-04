@@ -1,7 +1,7 @@
 ---
 title: "Tips on Sports"
-date: 2015-01-22 15:46:05
-modified: 2020-05-22 15:46:05
+created: 2015-01-22 15:46:05
+date: 2020-05-22 15:46:05
 authors:
   - bendu
 label: sports-tips

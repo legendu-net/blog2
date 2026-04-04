@@ -1,7 +1,7 @@
 ---
 title: "Tips on rustup"
-date: 2021-04-24 08:36:28
-modified: 2022-06-02 16:30:04
+created: 2021-04-24 08:36:28
+date: 2022-06-02 16:30:04
 authors:
   - bendu
 label: tips-on-rustup

@@ -1,7 +1,7 @@
 ---
 title: "Collection of Jupyter Notebooks"
+created: 2017-06-17 10:22:57
 date: 2017-06-17 10:22:57
-modified: 2017-06-17 10:22:57
 authors:
   - bendu
 label: collection-of-jupyter-notebooks

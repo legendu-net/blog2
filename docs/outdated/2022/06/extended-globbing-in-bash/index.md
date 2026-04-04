@@ -1,7 +1,7 @@
 ---
 title: "Extended Globbing in Bash"
-date: 2022-06-04 12:09:03
-modified: 2022-06-04 12:13:59
+created: 2022-06-04 12:09:03
+date: 2022-06-04 12:13:59
 authors:
   - bendu
 label: extended-globbing-in-bash

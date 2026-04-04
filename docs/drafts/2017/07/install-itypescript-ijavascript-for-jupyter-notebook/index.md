@@ -1,7 +1,7 @@
 ---
 title: "Install ITypescript/IJavascript for Jupyter Notebook"
-date: 2017-07-22 12:33:12
-modified: 2017-10-22 12:33:12
+created: 2017-07-22 12:33:12
+date: 2017-10-22 12:33:12
 authors:
   - bendu
 label: install-itypescript-ijavascript-for-jupyter-notebook

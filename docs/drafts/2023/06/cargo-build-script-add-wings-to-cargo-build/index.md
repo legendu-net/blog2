@@ -1,7 +1,7 @@
 ---
 title: "Cargo Build Script Add Wings to Cargo Build"
+created: 2023-06-12 20:54:23
 date: 2023-06-12 20:54:23
-modified: 2023-06-12 20:54:23
 authors:
   - bendu
 label: cargo-build-script-add-wings-to-cargo-build

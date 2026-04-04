@@ -1,7 +1,7 @@
 ---
 title: "OneDrive in Linux"
-date: 2018-07-22 15:20:29
-modified: 2021-09-26 10:20:16
+created: 2018-07-22 15:20:29
+date: 2021-09-26 10:20:16
 authors:
   - bendu
 label: onedrive-in-linux

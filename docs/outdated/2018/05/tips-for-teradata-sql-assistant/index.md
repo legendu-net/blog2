@@ -1,7 +1,7 @@
 ---
 title: "Tips on Teradata SQL Assistant"
-date: 2018-05-12 22:02:34
-modified: 2020-04-12 22:02:34
+created: 2018-05-12 22:02:34
+date: 2020-04-12 22:02:34
 authors:
   - bendu
 label: tips-for-teradata-sql-assistant

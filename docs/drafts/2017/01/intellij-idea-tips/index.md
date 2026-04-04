@@ -1,7 +1,7 @@
 ---
 title: "IntelliJ IDEA Tips"
-date: 2017-01-28 18:11:59
-modified: 2019-12-28 18:11:59
+created: 2017-01-28 18:11:59
+date: 2019-12-28 18:11:59
 authors:
   - bendu
 label: intellij-idea-tips

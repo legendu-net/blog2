@@ -1,7 +1,7 @@
 ---
 title: "Copy Pictures from an Android Phone to a Computer"
-date: 2015-09-12 23:41:58
-modified: 2021-08-01 11:20:45
+created: 2015-09-12 23:41:58
+date: 2021-08-01 11:20:45
 authors:
   - bendu
 label: copy-pictures-in-android-to-computer

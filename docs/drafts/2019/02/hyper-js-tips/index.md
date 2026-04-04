@@ -1,7 +1,7 @@
 ---
 title: "Tips on Hyper"
-date: 2019-02-02 12:20:43
-modified: 2022-08-02 00:32:20
+created: 2019-02-02 12:20:43
+date: 2022-08-02 00:32:20
 authors:
   - bendu
 label: hyper-js-tips

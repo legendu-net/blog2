@@ -1,7 +1,7 @@
 ---
 title: "Tips on JavaScript"
-date: 2013-10-26 12:48:21
-modified: 2025-05-05 19:09:25
+created: 2013-10-26 12:48:21
+date: 2025-05-05 19:09:25
 authors:
   - bendu
 label: javascript-tips

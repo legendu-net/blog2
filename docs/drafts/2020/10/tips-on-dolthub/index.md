@@ -1,7 +1,7 @@
 ---
 title: "Tips on Dolthub"
+created: 2020-10-07 08:53:33
 date: 2020-10-07 08:53:33
-modified: 2020-10-07 08:53:33
 authors:
   - bendu
 label: tips-on-dolthub

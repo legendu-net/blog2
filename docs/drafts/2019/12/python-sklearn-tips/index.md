@@ -1,7 +1,7 @@
 ---
 title: "Tips on Scikit-Learn"
-date: 2019-12-01 10:06:27
-modified: 2021-09-16 21:12:30
+created: 2019-12-01 10:06:27
+date: 2021-09-16 21:12:30
 authors:
   - bendu
 label: python-sklearn-tips

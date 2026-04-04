@@ -1,7 +1,7 @@
 ---
 title: "Documentation Generating Tool for Python"
-date: 2020-08-29 09:37:32
-modified: 2021-04-29 09:37:32
+created: 2020-08-29 09:37:32
+date: 2021-04-29 09:37:32
 authors:
   - bendu
 label: documentation-generating-tool-for-Python

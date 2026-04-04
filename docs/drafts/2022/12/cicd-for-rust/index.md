@@ -1,7 +1,7 @@
 ---
 title: "CICD for Rust"
-date: 2022-12-24 00:10:53
-modified: 2023-08-29 11:06:03
+created: 2022-12-24 00:10:53
+date: 2023-08-29 11:06:03
 authors:
   - bendu
 label: cicd-for-rust

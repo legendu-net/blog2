@@ -1,7 +1,7 @@
 ---
 title: "Tips on Soft Skills"
+created: 2020-10-11 11:01:45
 date: 2020-10-11 11:01:45
-modified: 2020-10-11 11:01:45
 authors:
   - bendu
 label: tips-on-soft-skills

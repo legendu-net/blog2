@@ -1,7 +1,7 @@
 ---
 title: "Don't Do Statistics If You Don't Really Undestand It"
+created: 2015-04-10 07:50:16
 date: 2015-04-10 07:50:16
-modified: 2015-04-10 07:50:16
 authors:
   - bendu
 label: statistics-traps

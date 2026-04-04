@@ -1,7 +1,7 @@
 ---
 title: "Ways to Download Files Using Selenium Webdrive"
-date: 2013-08-16 14:25:17
-modified: 2021-02-16 14:25:17
+created: 2013-08-16 14:25:17
+date: 2021-02-16 14:25:17
 authors:
   - bendu
 label: ways-to-download-files-using-selenium-webdrive

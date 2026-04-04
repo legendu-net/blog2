@@ -1,7 +1,7 @@
 ---
 title: "IDE for Rust"
-date: 2021-04-20 08:43:39
-modified: 2025-04-17 17:05:45
+created: 2021-04-20 08:43:39
+date: 2025-04-17 17:05:45
 authors:
   - bendu
 label: IDE-for-Rust

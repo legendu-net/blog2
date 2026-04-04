@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue Libc Not Found"
+created: 2021-11-30 11:34:46
 date: 2021-11-30 11:34:46
-modified: 2021-11-30 11:34:46
 authors:
   - bendu
 label: spark-issue-libc-not-found

@@ -1,7 +1,7 @@
 ---
 title: "Some Terminologies in Business Investment"
-date: 2013-06-13 22:26:26
-modified: 2016-07-13 22:26:26
+created: 2013-06-13 22:26:26
+date: 2016-07-13 22:26:26
 authors:
   - bendu
 label: some-terminology-in-credit-portifolio-risk-management

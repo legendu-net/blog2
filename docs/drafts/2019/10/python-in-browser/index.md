@@ -1,7 +1,7 @@
 ---
 title: "Python in Browser"
-date: 2019-10-26 08:58:08
-modified: 2020-10-26 08:58:08
+created: 2019-10-26 08:58:08
+date: 2020-10-26 08:58:08
 authors:
   - bendu
 label: python-in-browser

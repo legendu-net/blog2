@@ -1,7 +1,7 @@
 ---
 title: "Performance Tips for C++"
-date: 2012-10-20 10:36:42
-modified: 2015-02-20 10:36:42
+created: 2012-10-20 10:36:42
+date: 2015-02-20 10:36:42
 authors:
   - bendu
 label: performance-tips-for-cpp

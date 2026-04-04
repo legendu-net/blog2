@@ -1,7 +1,7 @@
 ---
 title: "GUI Automation Tools in Python"
-date: 2020-11-09 09:41:03
-modified: 2021-04-09 09:41:03
+created: 2020-11-09 09:41:03
+date: 2021-04-09 09:41:03
 authors:
   - bendu
 label: gui-automation-tools-in-python

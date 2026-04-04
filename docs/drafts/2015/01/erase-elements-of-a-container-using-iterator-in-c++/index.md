@@ -1,7 +1,7 @@
 ---
 title: "Erase Elements of a Container Using Iterator in C++"
-date: 2015-01-29 23:08:20
-modified: 2015-03-29 23:08:20
+created: 2015-01-29 23:08:20
+date: 2015-03-29 23:08:20
 authors:
   - bendu
 label: erase-elements-of-a-container-using-iterator-in-c++

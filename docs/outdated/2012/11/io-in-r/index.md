@@ -1,7 +1,7 @@
 ---
 title: "Input and Output in R"
-date: 2012-11-09 18:20:45
-modified: 2016-07-09 18:20:45
+created: 2012-11-09 18:20:45
+date: 2016-07-09 18:20:45
 authors:
   - bendu
 label: io-in-r

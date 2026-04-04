@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: ArrowTypeError: Expect a Type but Got a Different Type"
-date: 2022-04-03 18:58:34
-modified: 2022-04-03 19:13:38
+created: 2022-04-03 18:58:34
+date: 2022-04-03 19:13:38
 authors:
   - bendu
 label: spark-issue:-ArrowTypeError:-Expect-a-type-but-got-a-different-type

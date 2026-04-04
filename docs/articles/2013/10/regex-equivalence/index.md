@@ -1,7 +1,7 @@
 ---
 title: "Regular Expression Equivalent"
-date: 2013-10-30 12:29:42
-modified: 2021-10-31 11:04:04
+created: 2013-10-30 12:29:42
+date: 2021-10-31 11:04:04
 authors:
   - bendu
 label: regex-equivalence

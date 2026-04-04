@@ -1,7 +1,7 @@
 ---
 title: "Scaling Law for LLM"
-date: 2023-05-10 14:06:11
-modified: 2023-12-12 23:13:30
+created: 2023-05-10 14:06:11
+date: 2023-12-12 23:13:30
 authors:
   - bendu
 label: scaling-law-for-llm

@@ -1,7 +1,7 @@
 ---
 title: "Network in Docker Containers"
-date: 2019-06-20 23:52:35
-modified: 2020-10-20 23:52:35
+created: 2019-06-20 23:52:35
+date: 2020-10-20 23:52:35
 authors:
   - bendu
 label: network-in-docker-containers

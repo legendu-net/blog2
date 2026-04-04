@@ -1,7 +1,7 @@
 ---
 title: "Maven Dependencies"
-date: 2017-08-10 10:00:59
-modified: 2020-05-10 10:00:59
+created: 2017-08-10 10:00:59
+date: 2020-05-10 10:00:59
 authors:
   - bendu
 label: maven-dependencies

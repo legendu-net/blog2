@@ -1,7 +1,7 @@
 ---
 title: "Choose a Procedure for Modeling in SAS"
+created: 2015-05-10 21:12:54
 date: 2015-05-10 21:12:54
-modified: 2015-05-10 21:12:54
 authors:
   - bendu
 label: choose-a-procedure-for-modeling-in-sas

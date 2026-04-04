@@ -1,7 +1,7 @@
 ---
 title: "Tips on Rust"
-date: 2019-04-10 12:17:46
-modified: 2024-06-21 11:01:46
+created: 2019-04-10 12:17:46
+date: 2024-06-21 11:01:46
 authors:
   - bendu
 label: rust-tips

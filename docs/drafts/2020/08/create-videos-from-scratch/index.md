@@ -1,7 +1,7 @@
 ---
 title: "Create Videos from Scratch"
+created: 2020-08-09 12:37:17
 date: 2020-08-09 12:37:17
-modified: 2020-08-09 12:37:17
 authors:
   - bendu
 label: create-videos-from-scratch

@@ -1,7 +1,7 @@
 ---
 title: "Spark Issue: UriSyntaxException"
+created: 2022-03-27 17:16:54
 date: 2022-03-27 17:16:54
-modified: 2022-03-27 17:16:54
 authors:
   - bendu
 label: spark-issue:-URISyntaxException

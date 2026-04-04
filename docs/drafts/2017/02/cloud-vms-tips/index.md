@@ -1,7 +1,7 @@
 ---
 title: "Cloud VMs Tips"
+created: 2017-02-19 10:23:04
 date: 2017-02-19 10:23:04
-modified: 2017-02-19 10:23:04
 authors:
   - bendu
 label: cloud-vms-tips

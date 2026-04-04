@@ -1,7 +1,7 @@
 ---
 title: "LLM in Rust"
-date: 2023-08-03 16:03:13
-modified: 2025-06-04 14:23:53
+created: 2023-08-03 16:03:13
+date: 2025-06-04 14:23:53
 authors:
   - bendu
 label: llm-in-rust

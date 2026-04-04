@@ -1,7 +1,7 @@
 ---
 title: "Format Numbers in R"
+created: 2016-06-11 16:55:27
 date: 2016-06-11 16:55:27
-modified: 2016-06-11 16:55:27
 authors:
   - bendu
 label: format-numbers-in-R

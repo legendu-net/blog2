@@ -1,7 +1,7 @@
 ---
 title: "Spcify Java Version to Use in a Scala Project"
+created: 2017-08-26 19:35:28
 date: 2017-08-26 19:35:28
-modified: 2017-08-26 19:35:28
 authors:
   - bendu
 label: spcify-java-version-to-use-in-a-scala-project

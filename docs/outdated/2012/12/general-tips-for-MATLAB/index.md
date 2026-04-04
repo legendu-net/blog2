@@ -1,7 +1,7 @@
 ---
 title: "General Tips for MATLAB"
-date: 2012-12-08 10:35:47
-modified: 2014-09-08 10:35:47
+created: 2012-12-08 10:35:47
+date: 2014-09-08 10:35:47
 authors:
   - bendu
 label: general-tips-for-MATLAB

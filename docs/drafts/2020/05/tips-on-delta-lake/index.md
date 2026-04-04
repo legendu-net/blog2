@@ -1,7 +1,7 @@
 ---
 title: "Tips on Delta Lake"
-date: 2020-05-19 19:49:16
-modified: 2021-09-20 11:12:54
+created: 2020-05-19 19:49:16
+date: 2021-09-20 11:12:54
 authors:
   - bendu
 label: tips-on-delta-lake

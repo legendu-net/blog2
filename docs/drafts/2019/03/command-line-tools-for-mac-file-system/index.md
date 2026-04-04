@@ -1,7 +1,7 @@
 ---
 title: "Command Line Tools for Mac File System"
-date: 2019-03-10 08:56:36
-modified: 2021-08-02 09:19:43
+created: 2019-03-10 08:56:36
+date: 2021-08-02 09:19:43
 authors:
   - bendu
 label: command-line-tools-for-mac-file-system

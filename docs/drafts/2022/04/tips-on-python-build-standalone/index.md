@@ -1,7 +1,7 @@
 ---
 title: "Tips on Python Build Standalone"
+created: 2022-04-12 08:52:10
 date: 2022-04-12 08:52:10
-modified: 2022-04-12 08:52:10
 authors:
   - bendu
 label: tips-on-python-build-standalone

@@ -1,7 +1,7 @@
 ---
 title: "Java Reflection"
+created: 2019-02-18 20:15:42
 date: 2019-02-18 20:15:42
-modified: 2019-02-18 20:15:42
 authors:
   - bendu
 label: java-reflection

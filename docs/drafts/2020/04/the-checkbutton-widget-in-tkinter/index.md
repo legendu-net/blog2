@@ -1,7 +1,7 @@
 ---
 title: "The Checkbutton Widget in Tkinter"
-date: 2020-04-12 21:57:28
-modified: 2021-08-08 16:25:26
+created: 2020-04-12 21:57:28
+date: 2021-08-08 16:25:26
 authors:
   - bendu
 label: the-checkbutton-widget-in-tkinter

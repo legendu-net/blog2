@@ -1,7 +1,7 @@
 ---
 title: "The JAVA_HOME Environment Variable"
+created: 2020-01-28 11:41:11
 date: 2020-01-28 11:41:11
-modified: 2020-01-28 11:41:11
 authors:
   - bendu
 label: the-JAVA_HOME-environment-variable

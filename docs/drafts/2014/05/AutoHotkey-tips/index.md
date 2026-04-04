@@ -1,7 +1,7 @@
 ---
 title: "Typing Automatically Using AutoHotkey"
-date: 2014-05-22 13:34:48
-modified: 2021-06-23 09:05:17
+created: 2014-05-22 13:34:48
+date: 2021-06-23 09:05:17
 authors:
   - bendu
 label: AutoHotkey-tips

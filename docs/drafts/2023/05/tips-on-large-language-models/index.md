@@ -1,7 +1,7 @@
 ---
 title: "Tips on Large Language Models"
-date: 2023-05-06 13:28:33
-modified: 2025-07-06 13:19:23
+created: 2023-05-06 13:28:33
+date: 2025-07-06 13:19:23
 authors:
   - bendu
 label: tips-on-large-language-models

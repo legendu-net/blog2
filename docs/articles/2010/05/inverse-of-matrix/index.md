@@ -1,7 +1,7 @@
 ---
 title: "Inverse of a Special Class of Matrices with High Dimensions"
-date: 2010-05-30 22:12:02
-modified: 2013-10-30 22:12:02
+created: 2010-05-30 22:12:02
+date: 2013-10-30 22:12:02
 authors:
   - bendu
 label: inverse-of-matrix

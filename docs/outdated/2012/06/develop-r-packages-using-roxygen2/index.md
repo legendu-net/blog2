@@ -1,7 +1,7 @@
 ---
 title: "Develop R Packages Using \"roxygen2\""
-date: 2012-06-27 12:41:29
-modified: 2017-07-27 12:41:29
+created: 2012-06-27 12:41:29
+date: 2017-07-27 12:41:29
 authors:
   - bendu
 label: develop-r-packages-using-roxygen2

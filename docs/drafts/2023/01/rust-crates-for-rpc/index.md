@@ -1,7 +1,7 @@
 ---
 title: "Rust Crates for RPC"
+created: 2023-01-13 16:54:02
 date: 2023-01-13 16:54:02
-modified: 2023-01-13 16:54:02
 authors:
   - bendu
 label: rust-crates-for-rpc

@@ -1,7 +1,7 @@
 ---
 title: "Bootstrap Resampling in Python"
+created: 2023-12-08 21:54:38
 date: 2023-12-08 21:54:38
-modified: 2023-12-08 21:54:38
 authors:
   - bendu
 label: bootstrap-resampling-in-python

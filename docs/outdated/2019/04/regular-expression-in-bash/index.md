@@ -1,7 +1,7 @@
 ---
 title: "Regular Expression in Bash"
-date: 2019-04-28 11:53:55
-modified: 2021-10-27 20:23:31
+created: 2019-04-28 11:53:55
+date: 2021-10-27 20:23:31
 authors:
   - bendu
 label: regular-expression-in-bash

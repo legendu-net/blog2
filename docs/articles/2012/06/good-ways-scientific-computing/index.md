@@ -1,7 +1,7 @@
 ---
 title: "Good Ways to Do Scientific Computing"
-date: 2012-06-15 19:07:49
-modified: 2019-05-15 19:07:49
+created: 2012-06-15 19:07:49
+date: 2019-05-15 19:07:49
 authors:
   - bendu
 label: good-ways-scientific-computing

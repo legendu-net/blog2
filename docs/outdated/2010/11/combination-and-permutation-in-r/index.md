@@ -1,7 +1,7 @@
 ---
 title: "Combination and Permutation Related Functions in R"
+created: 2010-11-20 00:00:00
 date: 2010-11-20 00:00:00
-modified: 2010-11-20 00:00:00
 authors:
   - bendu
 label: combination-and-permutation-in-r

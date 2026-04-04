@@ -1,7 +1,7 @@
 ---
 title: "Unit Test in Rust"
-date: 2022-06-16 15:34:08
-modified: 2023-06-25 11:26:02
+created: 2022-06-16 15:34:08
+date: 2023-06-25 11:26:02
 authors:
   - bendu
 label: unit-test-in-rust

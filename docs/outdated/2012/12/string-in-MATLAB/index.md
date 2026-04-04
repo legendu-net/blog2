@@ -1,7 +1,7 @@
 ---
 title: "String in MATLAB"
-date: 2012-12-20 10:40:42
-modified: 2015-02-20 10:40:42
+created: 2012-12-20 10:40:42
+date: 2015-02-20 10:40:42
 authors:
   - bendu
 label: string-in-MATLAB

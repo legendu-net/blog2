@@ -1,7 +1,7 @@
 ---
 title: "Null, None and Alike in Scala"
-date: 2017-06-22 13:37:40
-modified: 2017-10-22 13:37:40
+created: 2017-06-22 13:37:40
+date: 2017-10-22 13:37:40
 authors:
   - bendu
 label: null,-none-and-alike-in-Scala

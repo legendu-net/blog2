@@ -1,7 +1,7 @@
 ---
 title: "Fast DC Charging in WA"
-date: 2025-07-25 00:43:06
-modified: 2025-07-27 18:27:29
+created: 2025-07-25 00:43:06
+date: 2025-07-27 18:27:29
 authors:
   - bendu
 label: fast-dc-charging-in-wa

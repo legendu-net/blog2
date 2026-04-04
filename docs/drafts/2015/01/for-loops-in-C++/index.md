@@ -1,7 +1,7 @@
 ---
 title: "For Loops in C++"
-date: 2015-01-01 14:03:21
-modified: 2015-03-01 14:03:21
+created: 2015-01-01 14:03:21
+date: 2015-03-01 14:03:21
 authors:
   - bendu
 label: for-loops-in-C++

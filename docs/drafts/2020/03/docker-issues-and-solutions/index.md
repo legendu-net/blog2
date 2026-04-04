@@ -1,7 +1,7 @@
 ---
 title: "Docker Issues and Solutions"
-date: 2020-03-14 09:56:34
-modified: 2022-06-02 16:53:37
+created: 2020-03-14 09:56:34
+date: 2022-06-02 16:53:37
 authors:
   - bendu
 label: docker-issues-and-solutions

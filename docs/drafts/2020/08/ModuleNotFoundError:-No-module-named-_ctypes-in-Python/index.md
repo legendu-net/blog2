@@ -1,7 +1,7 @@
 ---
 title: "ModuleNotFoundError: No Module Named _Ctypes in Python"
-date: 2020-08-14 10:47:00
-modified: 2026-01-01 08:31:48
+created: 2020-08-14 10:47:00
+date: 2026-01-01 08:31:48
 authors:
   - bendu
 label: ModuleNotFoundError:-No-module-named-_ctypes-in-Python

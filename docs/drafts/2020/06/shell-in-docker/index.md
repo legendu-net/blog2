@@ -1,7 +1,7 @@
 ---
 title: "Shell in Docker"
+created: 2020-06-21 10:46:43
 date: 2020-06-21 10:46:43
-modified: 2020-06-21 10:46:43
 authors:
   - bendu
 label: shell-in-docker

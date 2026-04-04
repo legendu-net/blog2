@@ -1,7 +1,7 @@
 ---
 title: "Rule-base Image Process"
-date: 2020-04-07 16:29:17
-modified: 2022-05-03 23:13:11
+created: 2020-04-07 16:29:17
+date: 2022-05-03 23:13:11
 authors:
   - bendu
 label: rule-base-image-process

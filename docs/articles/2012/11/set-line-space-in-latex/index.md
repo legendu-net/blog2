@@ -1,7 +1,7 @@
 ---
 title: "Set Line Space in LaTeX"
-date: 2012-11-13 00:05:22
-modified: 2016-07-13 00:05:22
+created: 2012-11-13 00:05:22
+date: 2016-07-13 00:05:22
 authors:
   - bendu
 label: set-line-space-in-latex

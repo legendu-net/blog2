@@ -1,7 +1,7 @@
 ---
 title: "Understand Memory Usage in PyTorch"
+created: 2021-09-19 12:47:00
 date: 2021-09-19 12:47:00
-modified: 2021-09-19 12:47:00
 authors:
   - bendu
 label: understand-memory-usage-in-pytorch

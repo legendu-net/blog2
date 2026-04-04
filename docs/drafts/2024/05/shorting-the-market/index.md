@@ -1,7 +1,7 @@
 ---
 title: "Shorting the Market"
+created: 2024-05-22 23:23:00
 date: 2024-05-22 23:23:00
-modified: 2024-05-22 23:23:00
 authors:
   - bendu
 label: shorting-the-market

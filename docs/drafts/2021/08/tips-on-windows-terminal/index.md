@@ -1,7 +1,7 @@
 ---
 title: "Tips on Windows Terminal"
+created: 2021-08-15 11:00:52
 date: 2021-08-15 11:00:52
-modified: 2021-08-15 11:00:52
 authors:
   - bendu
 label: tips-on-windows-terminal

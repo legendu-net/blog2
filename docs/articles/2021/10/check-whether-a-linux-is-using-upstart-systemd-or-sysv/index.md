@@ -1,7 +1,7 @@
 ---
 title: "Check Whether a Linux Is Using upstart, systemd or SysV"
-date: 2021-10-05 11:43:26
-modified: 2021-10-11 10:36:05
+created: 2021-10-05 11:43:26
+date: 2021-10-11 10:36:05
 authors:
   - bendu
 label: check-whether-a-linux-is-using-upstart-systemd-or-sysv

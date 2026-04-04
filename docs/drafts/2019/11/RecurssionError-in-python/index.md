@@ -1,7 +1,7 @@
 ---
 title: "RecurssionError in Python"
-date: 2019-11-01 19:28:38
-modified: 2026-01-01 08:42:26
+created: 2019-11-01 19:28:38
+date: 2026-01-01 08:42:26
 authors:
   - bendu
 label: RecurssionError-in-python

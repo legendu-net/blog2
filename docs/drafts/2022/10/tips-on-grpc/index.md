@@ -1,7 +1,7 @@
 ---
 title: "Tips on gRPC"
-date: 2022-10-08 12:12:31
-modified: 2022-10-09 17:56:43
+created: 2022-10-08 12:12:31
+date: 2022-10-09 17:56:43
 authors:
   - bendu
 label: tips-on-grpc

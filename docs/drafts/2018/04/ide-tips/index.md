@@ -1,7 +1,7 @@
 ---
 title: "Tips on IDE"
-date: 2018-04-18 19:35:55
-modified: 2025-04-28 13:58:32
+created: 2018-04-18 19:35:55
+date: 2025-04-28 13:58:32
 authors:
   - bendu
 label: ide-tips

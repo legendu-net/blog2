@@ -1,7 +1,7 @@
 ---
 title: "Unit Testing and Formal Verification in Rust"
-date: 2021-05-13 09:33:19
-modified: 2022-12-23 20:58:39
+created: 2021-05-13 09:33:19
+date: 2022-12-23 20:58:39
 authors:
   - bendu
 label: unit-testing-formal-verification-rust

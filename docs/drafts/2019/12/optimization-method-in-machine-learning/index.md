@@ -1,7 +1,7 @@
 ---
 title: "Optimization Method in Machine Learning"
+created: 2019-12-30 12:17:07
 date: 2019-12-30 12:17:07
-modified: 2019-12-30 12:17:07
 authors:
   - bendu
 label: optimization-method-in-machine-learning

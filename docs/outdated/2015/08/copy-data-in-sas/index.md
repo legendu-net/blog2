@@ -1,7 +1,7 @@
 ---
 title: "Copy Data in SAS"
+created: 2015-08-28 12:50:40
 date: 2015-08-28 12:50:40
-modified: 2015-08-28 12:50:40
 authors:
   - bendu
 label: copy-data-in-sas

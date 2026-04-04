@@ -1,7 +1,7 @@
 ---
 title: "Tips on SAS"
-date: 2013-10-10 19:13:40
-modified: 2019-05-10 19:13:40
+created: 2013-10-10 19:13:40
+date: 2019-05-10 19:13:40
 authors:
   - bendu
 label: sas-tips

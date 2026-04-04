@@ -1,7 +1,7 @@
 ---
 title: "Markedly Structured Text"
+created: 2020-06-14 18:47:56
 date: 2020-06-14 18:47:56
-modified: 2020-06-14 18:47:56
 authors:
   - bendu
 label: tips-on-myst
