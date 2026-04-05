@@ -8,6 +8,7 @@ site:
 
 % This is a hack because hiding the title block removes the margin and title
 % Whereas we just want to remove the button links etc.
+
 <div style="margin-top: 1em;">
 
 ## Welcome to Chuanlong Ben Du's Blog! 👋
