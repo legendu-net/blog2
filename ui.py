@@ -5,9 +5,9 @@ import subprocess as sp
 from loguru import logger
 from blog.utils import (
     BASE_DIR,
+    gen_doc,
     get_vim,
     qmarks,
-    push_github,
     option_files,
     option_indexes,
     option_where,
@@ -164,12 +164,13 @@ def tags(blogger, args):
 
 
 def auto_git_push(blogger, args):
-    """Push commits of this repository to dclong/blog on GitHub."""
+    """Push changes in this repository."""
     blogger.update_changed()
+    gen_toc()
     cmd = f"""git -C {BASE_DIR} add . \
             && git -C {BASE_DIR} commit -m ..."""
     sp.run(cmd, shell=True, check=False)
-    cmd = f"""git -C {BASE_DIR} push origin master"""
+    cmd = f"""git -C {BASE_DIR} push origin main"""
     sp.run(cmd, shell=True, check=True)
 
 
@@ -566,8 +567,8 @@ def _git_diff(_, args):
 
 
 def _git_pull(blogger, args):
-    logger.info("Pulling origin/master ...")
-    sp.run("git pull origin master && git status", shell=True, check=True)
+    logger.info("Pulling origin/main ...")
+    sp.run("git pull origin main && git status", shell=True, check=True)
     reload_posts(blogger, args)
 
 

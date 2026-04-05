@@ -47,25 +47,6 @@ def _github_repos_url(dir_: str, https: bool = False) -> str:
     return f"git@github.com:dclong/{repos}.git"
 
 
-def push_github(dir_: str, https: bool):
-    """Push compiled output to GitHub to generate GitHub pages.
-
-    :param dir_: The name of sub blog directories (en, cn, etc.).
-    :param https: If true, use the https protocol for Git.
-    """
-    path = BASE_DIR / dir_ / "output"
-    os.chdir(path)
-    # commit
-    if dir_ == "home":
-        shutil.copy("pages/index.html", "index.html")
-    cmd = "git init && git add --all . && git commit -a -m ..."
-    sp.run(cmd, shell=True, check=True)
-    # push
-    url = _github_repos_url(dir_, https)
-    cmd = f"git remote add origin {url} && git push origin master --force"
-    sp.run(cmd, shell=True, check=True)
-
-
 def option_indexes(subparser):
     """Add the positional option "indexes".
 
@@ -196,3 +177,73 @@ def option_all(subparser):
         action="store_true",
         help="Select all files in the search results.",
     )
+
+
+def gen_toc(path: str | Path = BASE_DIR / "docs/toc.yml") -> None:
+    mapping = {
+        "01": "Jan",
+        "02": "Feb",
+        "03": "Mar",
+        "04": "Apr",
+        "05": "May",
+        "06": "Jun",
+        "07": "Jul",
+        "08": "Aug",
+        "09": "Sep",
+        "10": "Oct",
+        "11": "Nov",
+        "12": "Dec",
+    }
+
+    def _gen_toc_month(dir_: str, year: str, month: str):
+        path = Path(f"docs/{dir_}/{year}/{month}")
+        if any(True for _ in path.glob("*/index.md")):
+            if any(True for _ in path.glob("*/index.ipynb")):
+                return f"""
+            - title: "{mapping[month]}"
+              children:
+                - pattern: {dir_}/{year}/{month}/*/*.md
+                - pattern: {dir_}/{year}/{month}/*/*.ipynb"""
+            else:
+                return f"""
+            - title: "{mapping[month]}"
+              children:
+                - pattern: {dir_}/{year}/{month}/*/*.md"""
+        else:
+            if any(True for _ in path.glob("*/index.ipynb")):
+                return f"""
+            - title: "{mapping[month]}"
+              children:
+                - pattern: {dir_}/{year}/{month}/*/*.ipynb"""
+            else:
+                return ""
+        path.glob()
+
+    def _gen_toc_year(dir_: str, year: str):
+        path = Path(f"docs/{dir_}/{year}")
+        months = sorted((p.name for p in path.glob("??/")), reverse=True)
+        return f"""
+        - title: "{year}"
+          children:""" + "".join(
+            _gen_toc_month(dir_, year, month) for month in months
+        )
+
+    def _gen_toc_dir(dir_: str):
+        path = Path(f"docs/{dir_}")
+        years = sorted((p.name for p in path.glob("????/")), reverse=True)
+        return f"""
+    - title: "{dir_.capitalize()}"
+      children:""".strip("\n") + "".join(_gen_toc_year(dir_, year) for year in years)
+
+    text = "\n".join([
+            "version: 1",
+            "project:",
+            "  toc:",
+            "    - file: index.md",
+            _gen_toc_dir("articles"),
+            _gen_toc_dir("drafts"),
+            _gen_toc_dir("outdated"),
+    ])
+    if isinstance(path, str):
+        path = Path(path)
+    path.write_text(text)
