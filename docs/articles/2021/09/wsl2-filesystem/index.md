@@ -1,22 +1,19 @@
 ---
-title: "WSL2 Filesystem"
+title: WSL2 Filesystem
 created: 2021-09-09 12:18:40
-date: 2021-09-24 11:02:41
+date: 2026-04-05 15:51:53.959960
 authors:
-  - bendu
-label: wsl-2-filesystem
+- bendu
+label: wsl2-filesystem
 license: CC-BY-4.0
 tags:
-  - Computer Science
-  - software
-  - tools
-  - WSL 2
-  - filesystem
-  - file system
+- Computer Science
+- software
+- tools
+- WSL 2
+- filesystem
+- file system
 ---
-
-
-
 ## Performance Issue
 
 The performance of IO is extremely bad if you access the the Windows filesystem from WSL 2.

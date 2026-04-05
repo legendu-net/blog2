@@ -1,22 +1,21 @@
 ---
-title: "Packaging Python Dependencies for PySpark Using python-build-standalone"
+title: Packaging Python Dependencies for PySpark Using python-build-standalone
 created: 2021-04-26 09:48:16
-date: 2021-07-19 11:19:28
+date: 2026-04-05 15:51:53.965464
 authors:
-  - bendu
-label: packaging-Python-Dependencies-for-PySpark-Using-python-build-standalone
+- bendu
+label: packaging-python-dependencies-for-pyspark-using-python-build-standalone
 license: CC-BY-4.0
 tags:
-  - Computer Science
-  - programming
-  - Python
-  - portable
-  - standalone
-  - python-build-standalone
-  - Docker
-  - environment
+- Computer Science
+- programming
+- Python
+- portable
+- standalone
+- python-build-standalone
+- Docker
+- environment
 ---
-
 You can build a portable Python environment 
 following steps below.
 

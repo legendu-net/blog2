@@ -86,8 +86,6 @@ def _format_title(title):
 
 
 def _label(title: str) -> str:
-    # TODO: need to update local dirs names and label name in posts
-    # since definition of this function has changed
     """Generate a label from the title of the Post.
 
     :param title: The title to create the slug from.
@@ -95,7 +93,7 @@ def _label(title: str) -> str:
     """
     title = title.lower()
     hyphen = "-"
-    strs = [" ", "/", ",", "(", ")", ":", "=", hyphen * 2]
+    strs = [" ", "/", ",", "(", ")", ":", "=", "“", "”", hyphen * 2]
     for s in strs:
         title = title.replace(s, hyphen)
     return title
@@ -646,9 +644,8 @@ class Blogger:
             f"SELECT rowid, path, title, doc_dir FROM {self.SRPS} LIMIT {n}"
         ):
             rowid, path, title, doc_dir = row
-            parts = list(Path(path).parts[0:4])
+            parts = list(Path(path).parts[0:5])
             parts[0] = SITE
-            parts.append(_label(title))
             url = "/".join(parts)
             print(f"\n{rowid}: [{title}]( {url} )  |  {path}")
         print("")

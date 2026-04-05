@@ -1,26 +1,23 @@
 ---
-title: "PCIe BUS Error: Severity=Corrected, Type=Physical Layer"
+title: 'PCIe BUS Error: Severity=Corrected, Type=Physical Layer'
 created: 2021-09-06 12:47:10
-date: 2025-12-24 12:34:40
+date: 2026-04-05 15:51:53.962807
 authors:
-  - bendu
-label: pcie-bus-error:-severity=Corrected,-type=Physical-Layer
+- bendu
+label: pcie-bus-error-severity-corrected-type-physical-layer
 license: CC-BY-4.0
 tags:
-  - OS
-  - Linux
-  - issue
-  - error
-  - kernel
-  - PCIe
-  - Bus
-  - Corrected
-  - pci=noaer
-  - pci-nomsi
+- OS
+- Linux
+- issue
+- error
+- kernel
+- PCIe
+- Bus
+- Corrected
+- pci=noaer
+- pci-nomsi
 ---
-
-
-
 ## Explanation of the Error
 
 See 
