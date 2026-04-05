@@ -1,21 +1,20 @@
 ---
-title: "Tips on Purchasing or Leasing a Car"
+title: Tips on Purchasing or Leasing a Car
 created: 2023-10-17 11:55:34
-date: 2025-06-25 16:25:02
+date: 2026-04-05 01:00:44.558601
 authors:
-  - bendu
+- bendu
 label: tips-on-purchasing-a-car
 license: CC-BY-4.0
 tags:
-  - Life
-  - vehicle
-  - car
-  - SUV
-  - EV
-  - feature
-  - camera
+- Life
+- vehicle
+- car
+- SUV
+- EV
+- feature
+- camera
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 
@@ -38,17 +37,24 @@ tags:
 
 ## For Leasing
 
-1. Check for general good deals at 
+1. Guidence on good deals.
+    - no money down
+    - 10k miles minimum
+    - 1% of MSRP = good deal
+    - 0.8% of MSRP = great deal
+    - less than 0.8% of MSRP = amazing deal
+
+2. Check for general good deals at 
     [Leasehackr](https://leasehackr.com/)
     .
 
-1. Ask what free services come with the lease.
+3. Ask what free services come with the lease.
     Generally speaking, 
     there are pre-paid maintenance services come with a lease.
     
-2. Ask about disposal fee at the end of the lease.
+4. Ask about disposal fee at the end of the lease.
 
-3. Ask what MF (`APR / 2400`) is for the lease. 
+5. Ask what MF (`APR / 2400`) is for the lease. 
 
 
 ### Rivian Specific

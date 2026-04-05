@@ -1,7 +1,7 @@
 ---
 title: Chasing Freedom on Snowboards
 created: 2026-04-03 19:10:39.880862
-date: 2026-04-04 11:15:46.734218
+date: 2026-04-05 01:17:27.769754
 authors:
 - bendu
 label: chase-freedom-on-snoboards
@@ -20,6 +20,14 @@ tags:
 - [OpenSnow](https://opensnow.com/user/favorites/locations/snow-summary)
 
 - https://weather.com/
+
+## Passes to Resorts
+
+1. resort-specific passes
+2. [Ikon](https://www.ikonpass.com/) passes
+3. [Epic](https://www.epicpass.com/) passes
+
+[Price History of Ikon vs Epic](https://www.epicorikon.com/price-history)
 
 ## Goggles
 
@@ -40,6 +48,24 @@ m4 goggles compatible with glasses
 - [FASE竟然沒有比較快？！快穿固定器到底在跩什麼？真的有選手敢用？「Gear Preview 器材解析」](https://www.youtube.com/watch?v=EEHVdvY2C3c)
 
 - [FASE单板快穿系统到底怎么样？我的建议是：](https://www.youtube.com/watch?v=Ga-ONWxF8yk)
+
+## Maintenance
+
+- [How to tune your edges on a snowboard (+skis)](https://www.youtube.com/watch?v=PyIb1IiHkVY)
+
+- [INEXPENSIVE DIY SKI & SNOWBOARD WAXING/TUNING VISE](https://www.youtube.com/watch?v=MQflhsBitHI)
+
+## Tutorials
+
+### One Foot
+
+- [Snowboard 1 Footed Beginner Guide | Lift lines, Chair lift and More](https://www.youtube.com/watch?v=hTnQiHeaLTE)
+
+- [How to One Foot Like a Pro](https://www.youtube.com/watch?v=e3cffkBo6yM)
+
+### Get On and Off Lift 
+
+- [How to Get On and OFF Ski Lift | Snowboard Beginner Guide](https://www.youtube.com/watch?v=RkNhXala8xY)
 
 ## Ski Resorts Near Seattle
 

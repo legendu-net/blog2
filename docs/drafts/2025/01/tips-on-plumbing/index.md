@@ -1,20 +1,19 @@
 ---
-title: "Tips on Plumbing"
+title: Tips on Plumbing
 created: 2025-01-15 22:45:54
-date: 2026-01-14 10:38:48
+date: 2026-04-05 00:39:08.694538
 authors:
-  - bendu
+- bendu
 label: tips-on-plumbing
 license: CC-BY-4.0
 tags:
-  - house
-  - plumbing
-  - water
-  - hot
-  - pressure
-  - hammer
+- house
+- plumbing
+- water
+- hot
+- pressure
+- hammer
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## General Tips
@@ -28,6 +27,11 @@ tags:
 
 - [How to Fix Banging Pipes / Water Hammer](https://www.youtube.com/watch?v=gONUBkwfHb8)
 
+
+## Water Filter
+
+https://www.springwellwater.com/product/dual-systems/water-filter-salt-free-conditioner/
+
 ## Anti-scale
 
 ### Flow-Tech
@@ -35,6 +39,8 @@ tags:
 - [What Are the Downsides of Flow-Tech?](https://www.monkeywrenchplumbers.com/flow-tech-downsides/)
 
 - [Do NOT Buy! Here is Why Flow Tech Is NOT Worth It](https://www.mrwatergeek.com/flow-tech-review/)
+
+### Other Descaler
 
 ## References
 

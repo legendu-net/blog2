@@ -44,7 +44,7 @@ POSTS_COLS = [
     "label_title_mismatch",
 ]
 TAG_SEPARATOR = "|"
-SITE = "https://www.legendu.net"
+SITE = "https://legendu-net.github.io/blog"
 Record = namedtuple("Record", POSTS_COLS)
 
 
@@ -619,6 +619,9 @@ class Blogger:
             f"SELECT rowid, path, title, doc_dir FROM {self.SRPS} LIMIT {n}"
         ):
             rowid, path, title, doc_dir = row
-            url = f"{SITE}/{doc_dir}/blog/{_label(title)}"
+            parts = list(Path(path).parts[0:4])
+            parts[0] = SITE
+            parts.append(_label(title))
+            url = "/".join(parts)
             print(f"\n{rowid}: [{title}]( {url} )  |  {path}")
         print("")

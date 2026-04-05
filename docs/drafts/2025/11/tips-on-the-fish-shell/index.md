@@ -1,18 +1,17 @@
 ---
-title: "Tips on the Fish Shell"
+title: Tips on the Fish Shell
 created: 2025-11-11 18:13:06
-date: 2026-01-02 22:54:34
+date: 2026-04-05 00:56:45.695850
 authors:
-  - bendu
+- bendu
 label: tips-on-the-fish-shell
 license: CC-BY-4.0
 tags:
-  - Computer Science
-  - programming
-  - shell
-  - fish
+- Computer Science
+- programming
+- shell
+- fish
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Tips & Traps
@@ -52,6 +51,15 @@ Use the built-in function `fish_key_reader` to tell you how to bind shortcuts.
 Please refer to 
 [Interactive use](https://fishshell.com/docs/current/interactive.html)
 for a more comprehensive list of key bindings.
+
+## Globbing / Wildcard Matching
+
+Fish only supports the `*` and `**` glob as syntax.
+The `?` glob has been deprecated and is supported in newer version of fish.
+For more details,
+please refer to
+[Fish Documentation - Wildcards (Globs)](https://fishshell.com/docs/current/fish_for_bash_users.html#wildcards-globs)
+.
 
 ## Linting Tools for Fish Scripts
 

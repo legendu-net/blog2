@@ -1,19 +1,18 @@
 ---
-title: "Tips on Rust"
+title: Tips on Rust
 created: 2019-04-10 12:17:46
-date: 2024-06-21 11:01:46
+date: 2026-04-05 00:06:19.426306
 authors:
-  - bendu
+- bendu
 label: rust-tips
 license: CC-BY-4.0
 tags:
-  - programming
-  - Rust
-  - tips
-  - Cargo
-  - rustup
+- programming
+- Rust
+- tips
+- Cargo
+- rustup
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 https://lib.rs/
@@ -174,6 +173,8 @@ https://kerkour.com/
 ## References
 
 - [Rust Events](https://foundation.rust-lang.org/events/)
+
+- [How to Rust](https://github.com/nikomatsakis/how-to-rust)
 
 - [12 Rust Tips and Tricks you might not know yet](https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet/)
 

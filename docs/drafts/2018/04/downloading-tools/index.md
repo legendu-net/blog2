@@ -1,21 +1,20 @@
 ---
-title: "Downloading Tools"
+title: Downloading Tools
 created: 2018-04-10 10:24:23
-date: 2021-01-10 10:24:23
+date: 2026-04-05 00:04:32.563962
 authors:
-  - bendu
+- bendu
 label: downloading-tools
 license: CC-BY-4.0
 tags:
-  - software
-  - download
-  - tools
-  - Motrix
-  - aria2
-  - Tampermonkey
-  - Greasy Fork
+- software
+- download
+- tools
+- Motrix
+- aria2
+- Tampermonkey
+- Greasy Fork
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## GUI Tools
@@ -38,14 +37,16 @@ It is suggested that you use transmission to download BitTorrent files.
 
 ## Command-line Tools
 
+### [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+[yt-dlp](https://github.com/yt-dlp/yt-dlp)
+is a feature-rich command-line audio/video downloader 
+with support for [thousands of sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+(including YouTube). 
+
 ### aria2
 
 `aria2` is a high speed general purpose command-line downloading tool.
 Notice that `aria2` supports BitTorrent as well.
-
-### youtube-dl
-
-The best command-line tool for downloading videos from YouTube.
 
 ### wget
 
