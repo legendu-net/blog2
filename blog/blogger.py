@@ -515,7 +515,7 @@ class Blogger:
                 post.update_meta_field(metadata={})
                 self.load_post(post)
                 self.update_records(
-                    self.ACCESSED, paths=path, kvs={"atime": time.time()+1}
+                    self.ACCESSED, paths=path, kvs={"atime": time.time() + 1}
                 )
             elif time.time() - atime >= SECONDS_4_HOURS:
                 self.delete_records(self.ACCESSED, path)

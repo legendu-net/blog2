@@ -5,7 +5,7 @@ import subprocess as sp
 from loguru import logger
 from blog.utils import (
     BASE_DIR,
-    gen_doc,
+    gen_toc,
     get_vim,
     qmarks,
     option_files,

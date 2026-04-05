@@ -1,10 +1,8 @@
 """Utils for the blog module."""
 
 from typing import Sequence
-import os
 from pathlib import Path
 import shutil
-import subprocess as sp
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -224,18 +222,20 @@ def gen_toc(path: str | Path = BASE_DIR / "docs/toc.yml") -> None:
         months = sorted((p.name for p in path.glob("??/")), reverse=True)
         return f"""
         - title: "{year}"
-          children:""" + "".join(
-            _gen_toc_month(dir_, year, month) for month in months
-        )
+          children:""" + "".join(_gen_toc_month(dir_, year, month) for month in months)
 
     def _gen_toc_dir(dir_: str):
         path = Path(f"docs/{dir_}")
         years = sorted((p.name for p in path.glob("????/")), reverse=True)
-        return f"""
+        return (
+            f"""
     - title: "{dir_.capitalize()}"
-      children:""".strip("\n") + "".join(_gen_toc_year(dir_, year) for year in years)
+      children:""".strip("\n")
+            + "".join(_gen_toc_year(dir_, year) for year in years)
+        )
 
-    text = "\n".join([
+    text = "\n".join(
+        [
             "version: 1",
             "project:",
             "  toc:",
@@ -243,7 +243,8 @@ def gen_toc(path: str | Path = BASE_DIR / "docs/toc.yml") -> None:
             _gen_toc_dir("articles"),
             _gen_toc_dir("drafts"),
             _gen_toc_dir("outdated"),
-    ])
+        ]
+    )
     if isinstance(path, str):
         path = Path(path)
     path.write_text(text)
