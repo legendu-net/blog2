@@ -29,22 +29,22 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 18.x
-      - name: Install Jupyter Book (via myst)
-        run: npm install -g jupyter-book
-      - name: Build HTML Assets
-        run: |
-          cd docs
-          NODE_OPTIONS=--max-old-space-size=8192 jupyter-book build --html
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: 'docs/_build/html'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+    - uses: actions/checkout@v6
+    - name: Setup Pages
+      uses: actions/configure-pages@v6
+    - name: Install dependencies
+      run: |
+        curl -LsSf https://astral.sh/uv/install.sh | sudo env UV_INSTALL_DIR="/usr/local/bin" sh
+        uv sync
+    - name: Build HTML Assets
+      run: |
+        cd docs
+        NODE_OPTIONS=--max-old-space-size=8192 uv run jupyter-book build --html
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v4
+      with:
+        path: 'docs/_build/html'
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v5
+
