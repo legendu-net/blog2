@@ -19,7 +19,7 @@ from blog.utils import (
     option_all,
     option_full_path,
 )
-from blog.blogger import Post, Blogger, ARTICLES, DRAFTS, OUTDATED, TAG_SEPARATOR
+from blog.blogger import Blogger, ARTICLES, DRAFTS, OUTDATED, TAG_SEPARATOR
 
 USER = getpass.getuser()
 DASHES = "\n" + "-" * 100 + "\n"
@@ -73,13 +73,14 @@ def _subparse_trash(subparsers):
 def find_label_title_mismatch(blogger, args):
     blogger.find_label_title_mismatch()
     blogger.show(args.n)
+    blogger.commit()
 
 
 def _subparse_find_label_title_mismatch(subparsers):
     desc = "Find posts where their label and title are mismatched."
     subparser_find_label_title_mismatch = subparsers.add_parser(
         "findmismatch",
-        aliases=["fm"],
+        aliases=["fmm"],
         help=desc,
         description=desc,
     )
@@ -95,6 +96,7 @@ def match_title(blogger, args):
         return
     for file in args.files:
         blogger.match_title(file)
+    blogger.commit()
 
 
 def vim(blogger, args):
@@ -147,13 +149,13 @@ def update_tags(blogger, args):
     _resolve_files(args)
     if args.files:
         for file in args.files:
-            blogger.update_tags(Post(file), args.from_tag, args.to_tag)
+            blogger.update_tags(file, args.from_tag, args.to_tag)
     else:
-        for path in blogger.path(
+        for file in blogger.path(
             blogger.POSTS,
             where=f"tags LIKE '%{TAG_SEPARATOR}{args.from_tag}{TAG_SEPARATOR}%'",
         ):
-            blogger.update_tags(Post(path), args.from_tag, args.to_tag)
+            blogger.update_tags(file, args.from_tag, args.to_tag)
     blogger.commit()
 
 
@@ -512,8 +514,8 @@ def _subparse_move(subparsers):
 def _subparse_match_title(subparsers):
     desc = "match post name and title"
     subparser_match_post = subparsers.add_parser(
-        "matchpost",
-        aliases=["mp"],
+        "matchtitle",
+        aliases=["mt"],
         help=desc,
         description=desc,
     )
