@@ -86,8 +86,6 @@ def _format_title(title):
 
 
 def _label(title: str) -> str:
-    # TODO: need to update local dirs names and label name in posts
-    # since definition of this function has changed
     """Generate a label from the title of the Post.
 
     :param title: The title to create the slug from.
@@ -95,7 +93,7 @@ def _label(title: str) -> str:
     """
     title = title.lower()
     hyphen = "-"
-    strs = [" ", "/", ",", "(", ")", ":", "=", hyphen * 2]
+    strs = [" ", "/", ",", "(", ")", ":", "=", "“", "”", hyphen * 2]
     for s in strs:
         title = title.replace(s, hyphen)
     return title
@@ -187,13 +185,13 @@ class Post:
         self._doc_dir = self.path.parts[1]
         self.is_markdown = path.suffix == MARKDOWN
 
-    def _is_label_title_mismatch(self) -> int:
+    def is_label_title_mismatch(self) -> bool:
         """Check whether the file anme and the title of the post does not match.
 
         :param title: The title of the post.
         :return: 1 if mismatch and 0 otherwise.
         """
-        return 1 if (_label(self.metadata["title"]) != self.metadata["label"]) else 0
+        return _label(self.metadata["title"]) != self.metadata["label"]
 
     def _write(self):
         if self.is_markdown:
@@ -216,7 +214,11 @@ class Post:
     def _metadata_lines(self) -> list[str]:
         """Convert the metadata dict into metadata lines."""
         lines = ["---\n"]
-        for line in yaml.dump(self.metadata, sort_keys=False).strip().split("\n"):
+        for line in (
+            yaml.dump(self.metadata, allow_unicode=True, sort_keys=False)
+            .strip()
+            .split("\n")
+        ):
             lines.append(line + "\n")
         lines.append("---\n")
         return lines
@@ -248,7 +250,7 @@ class Post:
             tags,
             content,
             self._is_post_empty(),
-            self._is_label_title_mismatch(),
+            int(self.is_label_title_mismatch()),
         )
 
     def update_meta_field(self, metadata: dict[str, Any]) -> None:
@@ -450,7 +452,30 @@ class Blogger:
                 kvs={"path": post.path, "doc_dir": doc_dir},
             )
 
-    def update_tags(self, post: Post, from_tag: str, to_tag: str) -> None:
+    def match_title(self, post: str | Post) -> None:
+        if isinstance(post, str):
+            post = Post(post).parse()
+        if not post.is_label_title_mismatch():
+            print(
+                "The lable and title of the following post already matches.\n    ",
+                post.path,
+                "\n",
+                sep="",
+            )
+            return
+        path_old = str(post.path)
+        post.match_title()
+        kvs: dict[str, str | datetime.datetime | int] = {
+            "path": str(post.path),
+        }
+        self.update_records(table=self.SRPS, paths=path_old, kvs=kvs)
+        kvs["date"] = post.metadata["date"]
+        kvs["label_title_mismatch"] = 0
+        self.update_records(table=self.POSTS, paths=path_old, kvs=kvs)
+
+    def update_tags(self, post: str | Post, from_tag: str, to_tag: str) -> None:
+        if isinstance(post, str):
+            post = Post(post).parse()
         if post.update_tags(from_tag, to_tag):
             self.update_records(
                 table=self.POSTS,
@@ -619,9 +644,8 @@ class Blogger:
             f"SELECT rowid, path, title, doc_dir FROM {self.SRPS} LIMIT {n}"
         ):
             rowid, path, title, doc_dir = row
-            parts = list(Path(path).parts[0:4])
+            parts = list(Path(path).parts[0:5])
             parts[0] = SITE
-            parts.append(_label(title))
             url = "/".join(parts)
             print(f"\n{rowid}: [{title}]( {url} )  |  {path}")
         print("")
