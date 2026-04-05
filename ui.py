@@ -163,18 +163,6 @@ def tags(blogger, args):
         print(tag)
 
 
-def publish(blogger, args):
-    """Publish the blog to GitHub pages."""
-    # TODO: how to publish?
-    auto_git_push(blogger, args)
-    print(DASHES)
-    for dir_ in args.doc_dirs:
-        pelican_generate(dir_, args.fatal)
-        if not args.no_push_github:
-            push_github(dir_, args.https)
-        print(DASHES)
-
-
 def auto_git_push(blogger, args):
     """Push commits of this repository to dclong/blog on GitHub."""
     blogger.update_changed()
@@ -520,69 +508,6 @@ def _subparse_move(subparsers):
     subparser_move.set_defaults(func=move)
 
 
-def _subparse_publish(subparsers):
-    desc = "Publish the blog."
-    subparser_publish = subparsers.add_parser(
-        "publish",
-        aliases=["p"],
-        help=desc,
-        description=desc,
-    )
-    subparser_publish.add_argument(
-        "-a",
-        "--articles",
-        dest="doc_dirs",
-        action="append_const",
-        const=ARTICLES,
-        help="Add the articles sub blog directory into the publish list.",
-    )
-    subparser_publish.add_argument(
-        "-d",
-        "--drafts",
-        dest="doc_dirs",
-        action="append_const",
-        const=DRAFTS,
-        help="Add the drafts sub blog directory into the publish list.",
-    )
-    subparser_publish.add_argument(
-        "-o",
-        "--out",
-        "--outdated",
-        dest="doc_dirs",
-        action="append_const",
-        const=OUTDATED,
-        help="Add the outdated sub blog directory into the publish list.",
-    )
-    subparser_publish.add_argument(
-        "--https",
-        dest="https",
-        action="store_true",
-        default=(USER == "gitpod"),
-        help="Use the HTTPS protocol for Git.",
-    )
-    subparser_publish.add_argument(
-        "--no-push-github",
-        dest="no_push_github",
-        action="store_true",
-        help="Do not push the generated (sub) blog/site to GitHub.",
-    )
-    subparser_publish.add_argument(
-        "--fatal",
-        dest="fatal",
-        default="errors",
-        help="Pass values (errors, by default) to the --fatal option of pelican.",
-    )
-    subparser_publish.add_argument(
-        "-F",
-        "--no-fatal",
-        dest="fatal",
-        action="store_const",
-        const="",
-        help="Disable the --fatal argument for pelican.",
-    )
-    subparser_publish.set_defaults(func=publish)
-
-
 def _subparse_match_title(subparsers):
     desc = "match post name and title"
     subparser_match_post = subparsers.add_parser(
@@ -715,7 +640,6 @@ def parse_args(args=None, namespace=None) -> Namespace:
     _subparse_edit(subparsers)
     _subparse_vim(subparsers)
     _subparse_move(subparsers)
-    _subparse_publish(subparsers)
     _subparse_auto(subparsers)
     _subparse_clean_db(subparsers)
     _subparse_git_status(subparsers)
