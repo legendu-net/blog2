@@ -70,23 +70,23 @@ def _subparse_trash(subparsers):
     subparser_trash.set_defaults(func=trash)
 
 
-def find_label_title_mismatch(blogger, args):
-    blogger.find_label_title_mismatch()
+def find_mismatch(blogger, args):
+    blogger.find_mismatch()
     blogger.show(args.n)
     blogger.commit()
 
 
-def _subparse_find_label_title_mismatch(subparsers):
+def _subparse_find_mismatch(subparsers):
     desc = "Find posts where their label and title are mismatched."
-    subparser_find_label_title_mismatch = subparsers.add_parser(
+    subparser_find_mismatch = subparsers.add_parser(
         "findmismatch",
         aliases=["fmm"],
         help=desc,
         description=desc,
     )
-    option_num(subparser_find_label_title_mismatch)
-    option_full_path(subparser_find_label_title_mismatch)
-    subparser_find_label_title_mismatch.set_defaults(func=find_label_title_mismatch)
+    option_num(subparser_find_mismatch)
+    option_full_path(subparser_find_mismatch)
+    subparser_find_mismatch.set_defaults(func=find_mismatch)
 
 
 def match_title(blogger, args):
@@ -650,7 +650,7 @@ def parse_args(args=None, namespace=None) -> Namespace:
     _subparse_git_pull(subparsers)
     _subparse_empty_posts(subparsers)
     _subparse_trash(subparsers)
-    _subparse_find_label_title_mismatch(subparsers)
+    _subparse_find_mismatch(subparsers)
     _subparse_match_title(subparsers)
     _subparse_exec_notebook(subparsers)
     _subparse_format_notebook(subparsers)

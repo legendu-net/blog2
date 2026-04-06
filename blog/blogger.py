@@ -41,7 +41,7 @@ POSTS_COLS = [
     "tags",
     "content",
     "empty",
-    "label_title_mismatch",
+    "match",
 ]
 TAG_SEPARATOR = "|"
 SITE = "https://legendu-net.github.io/blog"
@@ -190,13 +190,13 @@ class Post:
             return self.metadata["label"]
         return _label(self.metadata["title"])
 
-    def is_label_title_mismatch(self) -> bool:
+    def is_match(self) -> bool:
         """Check whether the file anme and the title of the post does not match.
 
         :param title: The title of the post.
         :return: 1 if mismatch and 0 otherwise.
         """
-        return self.label() != self.metadata["label"]
+        return self.label() == self.metadata["label"] and self.metadata["label"] == self.path.parts[4]
 
     def _write(self):
         if self.is_markdown:
@@ -255,7 +255,7 @@ class Post:
             tags,
             content,
             self._is_post_empty(),
-            int(self.is_label_title_mismatch()),
+            int(self.is_match()),
         )
 
     def update_meta_field(self, metadata: dict[str, Any]) -> None:
@@ -460,7 +460,7 @@ class Blogger:
     def match_title(self, post: str | Post) -> None:
         if isinstance(post, str):
             post = Post(post).parse()
-        if not post.is_label_title_mismatch():
+        if post.is_match():
             print(
                 "The lable and title of the following post already matches.\n    ",
                 post.path,
@@ -475,7 +475,7 @@ class Blogger:
         }
         self.update_records(table=self.SRPS, paths=path_old, kvs=kvs)
         kvs["date"] = post.metadata["date"]
-        kvs["label_title_mismatch"] = 0
+        kvs["match"] = 1
         self.update_records(table=self.POSTS, paths=path_old, kvs=kvs)
 
     def update_tags(self, post: str | Post, from_tag: str, to_tag: str) -> None:
@@ -580,8 +580,8 @@ class Blogger:
         self.reload_posts()
         self._srps(where="empty = 1")
 
-    def find_label_title_mismatch(self):
-        self._srps(where="label_title_mismatch = 1")
+    def find_mismatch(self):
+        self._srps(where="match = 0")
 
     def _srps(self, where: str, order_by: str = "", limit: int = 0) -> None:
         self.delete_records(self.SRPS, "")
