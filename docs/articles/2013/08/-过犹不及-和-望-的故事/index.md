@@ -1,10 +1,10 @@
 ---
+label: story-chinese-idiom
 title: “过犹不及”和“望”的故事
 created: 2013-08-08 00:00:00
 date: 2026-04-05 15:58:40.271903
 authors:
 - bendu
-label: -过犹不及-和-望-的故事
 license: CC-BY-4.0
 tags:
 - 开心一刻

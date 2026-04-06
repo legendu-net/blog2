@@ -191,6 +191,8 @@ class Post:
         :param title: The title of the post.
         :return: 1 if mismatch and 0 otherwise.
         """
+        if next(iter(self.metadata.keys()), "") == "label":
+            return False
         return _label(self.metadata["title"]) != self.metadata["label"]
 
     def _write(self):
