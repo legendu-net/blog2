@@ -93,7 +93,7 @@ def _label(title: str) -> str:
     """
     title = title.lower()
     hyphen = "-"
-    strs = [" ", "/", ",", "(", ")", ":", "=", "“", "”", hyphen * 2]
+    strs = [" ", "/", ",", "(", ")", ":", "=", "?", "!", "“", "”", hyphen * 2]
     for s in strs:
         title = title.replace(s, hyphen)
     return title
