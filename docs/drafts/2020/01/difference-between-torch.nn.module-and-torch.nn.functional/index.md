@@ -1,7 +1,7 @@
 ---
 title: Difference Between torch.nn.Module and torch.nn.functional
 created: 2020-01-07 11:26:38
-date: 2026-04-05 19:42:37.832549
+date: 2026-04-06 10:57:40.808538
 authors:
 - bendu
 label: difference-between-torch.nn.module-and-torch.nn.functional

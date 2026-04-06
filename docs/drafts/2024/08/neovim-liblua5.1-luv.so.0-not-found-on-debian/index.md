@@ -1,7 +1,7 @@
 ---
 title: 'NeoVim: liblua5.1-luv.so.0 Not Found on Debian'
 created: 2024-08-26 17:49:56
-date: 2026-04-05 19:42:37.626809
+date: 2026-04-06 10:57:40.801944
 authors:
 - bendu
 label: neovim-liblua5.1-luv.so.0-not-found-on-debian
