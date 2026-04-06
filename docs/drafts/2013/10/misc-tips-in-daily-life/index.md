@@ -1,0 +1,80 @@
+---
+title: Misc Tips in Daily Life
+created: 2013-10-22 13:31:43
+date: 2026-04-05 19:42:38.362954
+authors:
+- bendu
+label: misc-tips-in-daily-life
+license: CC-BY-4.0
+tags:
+- tips
+- life
+- printing
+- insurance
+- internet
+---
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+
+## [Insurance](http://www.legendu.net/misc/blog/insurance-tips)
+
+## Internet Service
+
+1. Century Link is a very bad one!
+    The speed is slow.
+    Service people are irresponsible.
+    I have problem to use SSH and NX services.
+
+2. Time Warner is not good either but is OK.
+
+## Health
+
+1. urgent care
+2. ER
+
+## Printing
+
+1. Office
+2. Library
+3. FedEx/UPS Offices
+
+## Tax Preparation
+
+1. H&R Block
+
+## Chocolate
+
+1. Shari's Berries
+
+## Furniture
+
+1. Birch Lane
+
+2. Sleepy's
+
+## Shoes
+
+1. Allen Edmonds
+
+## Airlines
+
+Delta is not good, avoid it.
+
+AA is OK.
+
+From Des Moines to Chicago, Southwest Airlines is good.
+
+## References
+
+- [Tips on Traveling](http://www.legendu.net/misc/blog/traveling-tips/)
+
+- [Tips on Sports](http://www.legendu.net/misc/blog/sports-tips/)
+
+- [Tips on Property](http://www.legendu.net/misc/blog/tips-on-property/)
+
+- [Tips on Food](http://www.legendu.net/misc/blog/food-tips/)
+
+- [Tips on Express Delivery](http://www.legendu.net/misc/blog/shunfeng-deliver/)
+
+- [Tips on Safety](http://www.legendu.net/misc/blog/safty-tips/)
+
+- [Tips on Insurance](http://www.legendu.net/misc/blog/insurance-tips)
