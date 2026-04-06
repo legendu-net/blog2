@@ -185,15 +185,18 @@ class Post:
         self._doc_dir = self.path.parts[1]
         self.is_markdown = path.suffix == MARKDOWN
 
+    def label(self) -> str:
+        if next(iter(self.metadata.keys()), "") == "label":
+            return self.metadata["label"]
+        return _label(self.metadata["title"])
+
     def is_label_title_mismatch(self) -> bool:
         """Check whether the file anme and the title of the post does not match.
 
         :param title: The title of the post.
         :return: 1 if mismatch and 0 otherwise.
         """
-        if next(iter(self.metadata.keys()), "") == "label":
-            return False
-        return _label(self.metadata["title"]) != self.metadata["label"]
+        return self.label() != self.metadata["label"]
 
     def _write(self):
         if self.is_markdown:
@@ -275,7 +278,7 @@ class Post:
 
     def match_title(self) -> None:
         """Make the post's slug and path name match its title."""
-        label_new = _label(self.metadata["title"])
+        label_new = self.label()
         self.update_meta_field(
             {
                 "label": label_new,
@@ -549,16 +552,17 @@ class Blogger:
 
     def add_post(self, title: str, doc_dir: str, notebook: bool = True) -> str:
         """Add a new post with the given title."""
-        yyyymm = datetime.date.today().strftime("%Y/%m")
+        label = _label(title)
         paths = self.path(
             self.POSTS,
             where="path LIKE ?",
-            params=[f"%/{_label(title)}/index.%"],
+            params=[f"%/{label}/index.%"],
         )
         if paths:
             print(f"\nA post with the specified title already exists.\n{paths[0]}\n")
             return paths[0]
-        dir_ = Path("docs") / doc_dir / yyyymm / _label(title)
+        yyyymm = datetime.date.today().strftime("%Y/%m")
+        dir_ = Path("docs") / doc_dir / yyyymm / label
         dir_.mkdir(parents=True, exist_ok=False)
         path = dir_ / ("index" + (IPYNB if notebook else MARKDOWN))
         post = Post(path)
