@@ -1,17 +1,16 @@
 ---
-title: "Culture of My Summer Intern Team"
+title: Culture of My Summer Intern Team
 created: 2013-08-01 00:00:00
-date: 2013-08-01 00:00:00
+date: 2026-04-05 19:40:19.898367
 authors:
-  - bendu
-label: team-culture-of-Credit-portfolio-risk-analysis
+- bendu
+label: culture-of-my-summer-intern-team
 license: CC-BY-4.0
 tags:
-  - work
-  - office
-  - team culture
+- work
+- office
+- team culture
 ---
-
 I work as a student intern in the Credit Portfolio Risk Analysis group 
 in a bank this summer.
 One Friday afternoon,

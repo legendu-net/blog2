@@ -1,18 +1,16 @@
 ---
-title: "Tips for AWK"
+title: Tips for AWK
 created: 2013-10-19 10:22:17
-date: 2017-03-19 10:22:17
+date: 2026-04-05 19:40:19.903431
 authors:
-  - bendu
-label: awk-tips
+- bendu
+label: tips-for-awk
 license: CC-BY-4.0
 tags:
-  - tips
-  - awk
-  - text manipulation
+- tips
+- awk
+- text manipulation
 ---
-
-
 [AWK Tutorial](http://www.grymoire.com/Unix/Awk.html)
 
 1. For small structured text files, 

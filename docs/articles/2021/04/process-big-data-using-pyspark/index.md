@@ -1,21 +1,20 @@
 ---
-title: "Process Big Data Using PySpark"
+title: Process Big Data Using PySpark
 created: 2021-04-30 11:49:58
-date: 2022-05-19 02:25:00
+date: 2026-04-05 19:40:19.891395
 authors:
-  - bendu
-label: tips-on-pyspark
+- bendu
+label: process-big-data-using-pyspark
 license: CC-BY-4.0
 tags:
-  - programming
-  - PySpark
-  - Python
-  - Spark
-  - tips
-  - HPC
-  - high performance computing
+- programming
+- PySpark
+- Python
+- Spark
+- tips
+- HPC
+- high performance computing
 ---
-
 1. PySpark 2.4 and older does not support Python 3.8.
     You have to use Python 3.7 with PySpark 2.4 or older.
 
