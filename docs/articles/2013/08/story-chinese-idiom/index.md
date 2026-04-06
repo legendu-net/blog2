@@ -2,7 +2,7 @@
 label: story-chinese-idiom
 title: “过犹不及”和“望”的故事
 created: 2013-08-08 00:00:00
-date: 2026-04-05 15:58:40.271903
+date: 2026-04-06 10:41:51.189187
 authors:
 - bendu
 license: CC-BY-4.0

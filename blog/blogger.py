@@ -285,7 +285,7 @@ class Post:
             }
         )
         dir_ = self.path.parent
-        dir_new = dir_.with_stem(label_new)
+        dir_new = dir_.with_name(label_new)
         dir_.move(dir_new)
         self._set_path(dir_new / self.path.name)
 
