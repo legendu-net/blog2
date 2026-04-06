@@ -196,7 +196,10 @@ class Post:
         :param title: The title of the post.
         :return: 1 if mismatch and 0 otherwise.
         """
-        return self.label() == self.metadata["label"] and self.metadata["label"] == self.path.parts[4]
+        return (
+            self.label() == self.metadata["label"]
+            and self.metadata["label"] == self.path.parts[4]
+        )
 
     def _write(self):
         if self.is_markdown:
@@ -340,7 +343,7 @@ class Blogger:
     SRPS = "srps"
     ACCESSED = "accessed"
     SRPS_COLS = "path, title, doc_dir"
-    ACCESSED_COLS = "path, atime"
+    ACCESSED_COLS = "path, atime, updated"
 
     def __init__(self, db: str = ""):
         """Create an instance of Blogger.
@@ -508,7 +511,7 @@ class Blogger:
         self.insert_records(
             self.ACCESSED,
             self.ACCESSED_COLS,
-            [(path, Path(path).stat().st_atime) for path in paths],
+            [(path, Path(path).stat().st_atime, 0) for path in paths],
         )
         paths = " ".join(f"'{path}'" for path in paths)
         sp.run(f"{editor} {paths}", shell=True, check=True)
@@ -532,7 +535,7 @@ class Blogger:
     def update_changed(self):
         """Update information of the changed posts."""
         SECONDS_4_HOURS = 4 * 3600
-        for path, atime in self._conn.execute(
+        for path, atime, updated in self._conn.execute(
             f"SELECT {self.ACCESSED_COLS} FROM {self.ACCESSED}"
         ):
             p = Path(path)
@@ -541,13 +544,15 @@ class Blogger:
                 continue
             if p.stat().st_mtime > atime:
                 self.delete_records(self.POSTS, path)
-                post = Post(path).parse()
-                post.update_meta_field(metadata={})
-                self.load_post(post)
+                self.load_post(Post(path).parse())
                 self.update_records(
-                    self.ACCESSED, paths=path, kvs={"atime": time.time() + 1}
+                    self.ACCESSED,
+                    paths=path,
+                    kvs={"atime": time.time() + 1, "updated": 1},
                 )
             elif time.time() - atime >= SECONDS_4_HOURS:
+                if updated:
+                    Post(path).parse().update_meta_field(metadata={})
                 self.delete_records(self.ACCESSED, path)
 
     def add_post(self, title: str, doc_dir: str, notebook: bool = True) -> str:
