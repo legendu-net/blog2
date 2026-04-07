@@ -588,6 +588,7 @@ def _subparse_git_pull(subparsers):
 def empty_posts(blogger, args):
     blogger.empty_posts()
     blogger.show(args.n)
+    blogger.commit()
 
 
 def _subparse_empty_posts(subparsers):

@@ -17,8 +17,3 @@ tags:
 - input
 - online
 ---
-[书同文汉子网](https://hanzi.unihan.com.cn/Qpen)
-
-[在线试用 Google 输入工具](https://www.google.com/intl/zh-CN/inputtools/try/)
-
-[在线汉子拼音输入法](https://www.archchinese.com/type_chinese.html)

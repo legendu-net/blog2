@@ -14,8 +14,17 @@ tags:
 - sogou
 ---
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+
 `fcitx-sogoupinyin` is currently the best choice,
 and `ibus-sunpinyin` is another good alternative.
+
+## Online Chinese Input
+
+- [书同文汉子网](https://hanzi.unihan.com.cn/Qpen)
+
+- [在线试用 Google 输入工具](https://www.google.com/intl/zh-CN/inputtools/try/)
+
+- [在线汉子拼音输入法](https://www.archchinese.com/type_chinese.html)
 
 ## Chrome Extension
 
@@ -26,8 +35,8 @@ http://toshuo.com/chinese-tools/pinyin-input-firefox-extension/
 
 ## Ref
 
-http://www.pinyinput.com/?lang=en
+- http://www.pinyinput.com/?lang=en
 
-[Tips on Fcitx](http://www.legendu.net/misc/blog/fcitx-tips/)
+- [Tips on Fcitx](http://www.legendu.net/misc/blog/fcitx-tips/)
 
-[Use Sogou Pinyin to Type Chinese](http://www.legendu.net/misc/blog/sogou-pinyin-tips/)
+- [Use Sogou Pinyin to Type Chinese](http://www.legendu.net/misc/blog/sogou-pinyin-tips/)

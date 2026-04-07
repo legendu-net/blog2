@@ -151,9 +151,11 @@ class Post:
                 print(line)
             print()
             raise err
-        for idx in range(idx + 1, len(lines)):
+        idx += 1
+        while idx < len(lines):
             if lines[idx].strip():
                 break
+            idx += 1
         self.lines = lines[idx:]
         self._check_disclaimer()
         return self
@@ -239,7 +241,7 @@ class Post:
             )
         return notebook
 
-    def _is_post_empty(self) -> int:
+    def _is_post_empty(self) -> bool:
         """Check whether the post is essentially empty."""
         return all(line.strip() == "" for line in self.lines)
 
@@ -257,7 +259,7 @@ class Post:
             self.metadata["title"],
             tags,
             content,
-            self._is_post_empty(),
+            int(self._is_post_empty()),
             int(self.is_match()),
         )
 
