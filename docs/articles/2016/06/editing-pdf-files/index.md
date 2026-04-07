@@ -233,7 +233,5 @@ A command-line tool for filling fileds in PDF docs.
 
 - [View and Edit PDF Documents Using Okular](view-and-edit-pdf-documents-using-okular)
 
-- [View and Edit PDF Documents Using Okular](http://www.legendu.net/misc/blog/okular-tips)
-
 - [Hands on the Python Library Pdfplumber](http://www.legendu.net/misc/blog/hands-on-the-python-library-pdfplumber)
 

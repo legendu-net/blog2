@@ -660,6 +660,6 @@ class Blogger:
             parts = list(Path(path).parts[0:5])
             parts[0] = SITE
             url = "/".join(parts)
-            print(f"\n{rowid}: [{title}](xref:{parts[4]})")
+            print(f"\n{rowid}: [{title}]({parts[4]})")
             print(f"    {url}  |  {path}")
         print("")

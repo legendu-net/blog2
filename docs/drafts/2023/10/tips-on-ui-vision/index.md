@@ -1,5 +1,5 @@
 ---
-title: "Tips on Ui Vision"
+title: "Tips on UI Vision"
 created: 2023-10-11 11:05:41
 date: 2023-10-11 11:05:41
 authors:
