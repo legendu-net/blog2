@@ -687,7 +687,7 @@ class Blogger:
             SELECT rowid, {self.SRPS_COLS}
             FROM {self.SRPS}
             {"ORDER BY " + order_by if order_by else ""}
-            LIMIT {n}
+            {f"LIMIT {n}" if n else ""}
             """
         ):
             rowid, path, title, doc_dir = row

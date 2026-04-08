@@ -520,8 +520,8 @@ def _subparse_last(subparsers):
 def _subparse_list(subparsers):
     desc = "List last search results."
     subparser_list = subparsers.add_parser(
-        "list",
-        aliases=["l"],
+        "show",
+        aliases=["list", "l"],
         help=desc,
         description=desc,
     )

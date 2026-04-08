@@ -1,10 +1,10 @@
 ---
 title: Use OculiX to Automate Anything
 created: 2014-09-16 15:00:28
-date: 2026-04-07 12:53:16.381881
+date: 2026-04-07 19:18:50.018594
 authors:
 - bendu
-label: use-sikulix-to-automate-anything
+label: use-oculix-to-automate-anything
 license: CC-BY-4.0
 tags:
 - software

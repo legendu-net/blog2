@@ -20,6 +20,10 @@ tags:
 
 ## Gemini in Chrome
 
+See discussions in
+[Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
+.
+
 ## Claude Computer Use
 
 - [I Let Claude Use My Computer for 2 Days. Here's What It Can Actually Do.](https://aiblewmymind.substack.com/p/claude-computer-use-guide-6-workflows-tested)
