@@ -873,6 +873,9 @@ project:
             - title: "Apr"
               children:
                 - pattern: outdated/2020/04/*/*.ipynb
+            - title: "Mar"
+              children:
+                - pattern: outdated/2020/03/*/*.md
         - title: "2019"
           children:
             - title: "Dec"

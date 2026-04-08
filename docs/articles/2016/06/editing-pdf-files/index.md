@@ -1,7 +1,7 @@
 ---
 title: Editing PDF Files
 created: 2016-06-30 10:21:47
-date: 2026-04-05 19:42:37.443062
+date: 2026-04-06 21:21:20.445441
 authors:
 - bendu
 label: editing-pdf-files

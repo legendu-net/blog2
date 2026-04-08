@@ -17,7 +17,3 @@ tags:
 
 
 
-https://www.youtube.com/watch?v=MpArCBecDz8
-
-
-https://www.youtube.com/watch?v=MpArCBecDz8

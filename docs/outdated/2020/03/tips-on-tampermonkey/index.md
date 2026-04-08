@@ -1,21 +1,21 @@
 ---
-title: "Tips on Tampermonkey"
+title: Tips on Tampermonkey
 created: 2020-03-29 17:12:46
 date: 2020-03-29 17:12:46
 authors:
-  - bendu
+- bendu
 label: tips-on-tampermonkey
 license: CC-BY-4.0
 tags:
-  - Computer Science
-  - Tampermonkey
-  - Greasy Fork
-  - web
+- Computer Science
+- Tampermonkey
+- Greasy Fork
+- web
 ---
+**Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
-
+[ScriptCat](run-userscripts-in-browsers)
+is a better alternative which support Chrome.
 
 ## [Baidu Netdisk Assistant - 百度网盘直链下载助手](https://greasyfork.org/en/scripts/397390-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)
 
@@ -34,10 +34,11 @@ Accelerate download, support remote download, new upgrade of version 4.0.0.
 
 ## [Google select text translator](https://greasyfork.org/en/scripts/36842-google-select-text-translator)
 
-
-
-
 ## References
+
+- https://www.youtube.com/watch?v=MpArCBecDz8
+
+- https://www.youtube.com/watch?v=MpArCBecDz8
 
 [Tampermonkey 分享几个神级脚本, 一个插件带来更爽的浏览体验 西部天下 第59期](https://www.youtube.com/watch?v=DUzSGGINwW8&t=111s)
 

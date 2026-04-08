@@ -4,6 +4,7 @@
 
 from collections import namedtuple
 import datetime
+import itertools
 import json
 import multiprocessing
 import os
@@ -17,10 +18,10 @@ import nbformat
 from loguru import logger
 from tqdm import tqdm
 import yaml
-from blog.utils import BASE_DIR, qmarks
 
 AnyPath: TypeAlias = str | Path
 Number: TypeAlias = int | float
+BASE_DIR = Path(__file__).resolve().parent
 ARTICLES = "articles"
 DRAFTS = "drafts"
 OUTDATED = "outdated"
@@ -48,6 +49,31 @@ SITE = "https://legendu-net.github.io/blog"
 Record = namedtuple("Record", POSTS_COLS)
 
 
+def get_vim() -> str:
+    return "nvim" if shutil.which("nvim") else "vim"
+
+
+def get_code() -> str:
+    return "code-server" if shutil.which("code-server") else "code"
+
+
+def get_editor() -> str:
+    """Get the path of a valid editor (default to get_vim())."""
+    code = get_code()
+    if shutil.which(code):
+        return code
+    return get_vim()
+
+
+def qmarks(n: int | Sequence) -> str:
+    """Generate n question marks delimited by comma."""
+    if isinstance(n, int):
+        return ", ".join(["?"] * n)
+    if isinstance(n, str):
+        return qmarks(n.count(",") + 1)
+    return qmarks(len(n))
+
+
 def _parse_record(path: AnyPath):
     return Post(path).parse().record()
 
@@ -64,7 +90,7 @@ def _parse_records() -> list[Record]:
     return [_parse_record(path) for path in paths]
 
 
-def _format_title(title):
+def format_title(title):
     # TODO: replacement at beginning and end might have bugs
     # it's possible to have the same pattern in the middle
     # and the replacements assumes space as the separator,
@@ -311,7 +337,7 @@ class Post:
     def create(self, metadata_or_title: dict[str, Any] | str):
         if isinstance(metadata_or_title, str):
             metadata_or_title = {
-                "title": _format_title(metadata_or_title),
+                "title": format_title(metadata_or_title),
                 "created": datetime.datetime.now(),
                 "date": datetime.datetime.now(),
                 "authors": ["bendu"],
@@ -420,13 +446,13 @@ class Blogger:
 
         :param paths: Paths of posts to be removed.
         """
-        if isinstance(paths, AnyPath):
+        if isinstance(paths, str):
             paths = [paths]
         dir_ = BASE_DIR / "trash"
         if not dir_.is_dir():
             dir_.mkdir(0o700, True, True)
         for path in paths:
-            shutil.move(path, dir_)
+            shutil.move(Path(path).parent, dir_)
         self.delete_records(table=self.POSTS, paths=paths)
 
     def delete_records(self, table: str, paths: str | list[str]) -> None:
@@ -445,13 +471,13 @@ class Blogger:
         sql += f"WHERE path IN ({qmarks(paths)})"
         self._conn.execute(sql, paths)
 
-    def move(self, paths: AnyPath | Sequence[AnyPath], doc_dir: str) -> None:
+    def move(self, paths: str | Sequence[str], doc_dir: str) -> None:
         """Move specified posts into a destination directory.
 
         :param paths: A (sequence of) path(s).
         :param dst: The destination path or directory to move posts to.
         """
-        if isinstance(paths, AnyPath):
+        if isinstance(paths, str):
             paths = [paths]
         for path in paths:
             post = Post(path)
@@ -459,7 +485,7 @@ class Blogger:
             self.update_records(
                 table=self.POSTS,
                 paths=path,
-                kvs={"path": post.path, "doc_dir": doc_dir},
+                kvs={"path": str(post.path), "doc_dir": doc_dir},
             )
 
     def match_title(self, post: str | Post) -> None:
@@ -485,15 +511,20 @@ class Blogger:
 
     def update_tags(self, post: str | Post, from_tag: str, to_tag: str) -> None:
         if isinstance(post, str):
-            post = Post(post).parse()
+            path = post
+            post = Post(path).parse()
+        else:
+            path = str(post.path)
         if post.update_tags(from_tag, to_tag):
             self.update_records(
                 table=self.POSTS,
-                paths=post.path,
+                paths=path,
                 kvs={"tags": post.format_tags()},
             )
 
-    def insert_records(self, table: str, fields: str | list[str], values: list[Any]):
+    def insert_records(
+        self, table: str, fields: str | list[str], values: Sequence[tuple[Any, ...]]
+    ):
         if not isinstance(fields, str):
             fields = ", ".join(fields)
         sql = f"""
@@ -518,21 +549,19 @@ class Blogger:
         paths = " ".join(f"'{path}'" for path in paths)
         sp.run(f"{editor} {paths}", shell=True, check=True)
 
-    def update_records(
-        self, table: str, paths: AnyPath | list[AnyPath], kvs: dict
-    ) -> None:
+    def update_records(self, table: str, paths: str | Sequence[str], kvs: dict) -> None:
         """Update records corresponding to the specified paths.
         :param kvs: A dictionary of the form dict[field, value].
         :param paths: Paths of records to be updated.
         """
-        if isinstance(paths, AnyPath):
+        if isinstance(paths, str):
             paths = [paths]
         sql = f"""
             UPDATE {table}
             SET {", ".join(f"{k} = ?" for k in kvs)} 
             WHERE path in ({qmarks(paths)})
             """
-        self._conn.execute(sql, list(kvs.values()) + paths)
+        self._conn.execute(sql, list(itertools.chain(kvs.values(), paths)))
 
     def update_changed(self):
         """Update information of the changed posts."""
@@ -578,7 +607,7 @@ class Blogger:
         print("\nThe following post is added.\n", path, "\n", sep="")
         return str(path)
 
-    def convert(self, path: AnyPath) -> None:
+    def convert(self, path: str) -> None:
         path_new = Post(path).convert()
         self.update_records(table=self.POSTS, paths=path, kvs={"path": path_new})
 
@@ -651,10 +680,15 @@ class Blogger:
         row = self._conn.execute(f"SELECT count(*) FROM {self.SRPS}").fetchone()
         return row[0]
 
-    def show(self, n: int) -> None:
-        print("\nNumber of matched posts:", self.num_srps())
+    def show(self, n: int, order_by: str = "") -> None:
+        print("\nNumber of posts in srps:", self.num_srps())
         for row in self._conn.execute(
-            f"SELECT rowid, path, title, doc_dir FROM {self.SRPS} LIMIT {n}"
+            f"""
+            SELECT rowid, {self.SRPS_COLS}
+            FROM {self.SRPS}
+            {"ORDER BY " + order_by if order_by else ""}
+            LIMIT {n}
+            """
         ):
             rowid, path, title, doc_dir = row
             parts = list(Path(path).parts[0:5])

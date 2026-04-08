@@ -18,10 +18,22 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 
-## UI Vision
-https://ui.vision/
+## Gemini in Chrome
+
+## Claude Computer Use
+
+- [I Let Claude Use My Computer for 2 Days. Here's What It Can Actually Do.](https://aiblewmymind.substack.com/p/claude-computer-use-guide-6-workflows-tested)
+
+- [Computer use tool](https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool)
+
+## [UI Vision](https://ui.vision/)
+[UI Vision](https://ui.vision/)
 
 Easy hybrid workflow automation with Selenium-style commands, Computer Vision/OCR, and AI - all from a simple browser extension.
+
+## [playwright](https://github.com/microsoft/playwright)
+
+Node.js library to automate Chromium, Firefox and WebKit with a single API https://playwright.dev
 
 ## Selenium
 
@@ -30,16 +42,12 @@ Selenium is a great web automation tool!
 [Here](https://hub.docker.com/u/selenium)
 are official Docker images for selenium.
 
-## [playwright](https://github.com/microsoft/playwright)
-
-Node.js library to automate Chromium, Firefox and WebKit with a single API https://playwright.dev
-
 ## [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 
 ## iMacros
 
-## SikuliX 
-SikuliX is able to automate anything visual 
+## OculiX / SikuliX 
+OculiX / SikuliX is able to automate anything visual 
 but it is hard to scale and not reliable.
 
 ## [AppliTools](https://applitools.com/)

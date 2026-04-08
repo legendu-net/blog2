@@ -1,7 +1,7 @@
 ---
-title: Use SikuliX to Automate Anything
+title: Use OculiX to Automate Anything
 created: 2014-09-16 15:00:28
-date: 2026-04-05 19:42:38.233942
+date: 2026-04-07 12:53:16.381881
 authors:
 - bendu
 label: use-sikulix-to-automate-anything
@@ -9,11 +9,16 @@ license: CC-BY-4.0
 tags:
 - software
 - tips
-- Sikuli
+- OculiX
+- SikuliX
 - automation
 - web
 ---
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+
+1. OculiX is the successor to SikuliX.
+    The user experience is very poor on Linux (tried on Aurora) currently.
+    It doesn't seem to work (tried to click a screenshot) on macOS either.
 
 1. SikuliX is implemented in Java but binings for other programming languages are available. 
     For example,
@@ -31,6 +36,5 @@ tags:
 
 ## References
 
-[GitHub Repository of SikuliX](https://github.com/RaiMan/SikuliX1)
+- [Oculix @ GitHub](https://github.com/oculix-org/Oculix)
 
-https://raiman.github.io/SikuliX1/javadocs/index.html

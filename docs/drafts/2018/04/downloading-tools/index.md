@@ -1,7 +1,7 @@
 ---
 title: Downloading Tools
 created: 2018-04-10 10:24:23
-date: 2026-04-05 00:04:32.563962
+date: 2026-04-07 00:51:58.245472
 authors:
 - bendu
 label: downloading-tools
@@ -12,8 +12,7 @@ tags:
 - tools
 - Motrix
 - aria2
-- Tampermonkey
-- Greasy Fork
+- ScriptCat
 ---
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
@@ -33,7 +32,7 @@ it does NOT allow setting the uploading speed zero
 when downloading BitTorrent files!
 It is suggested that you use transmission to download BitTorrent files.
 
-## [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) + [Greasy Fork](https://greasyfork.org/en)
+## [ScriptCat](run-userscripts-in-browsers)
 
 ## Command-line Tools
 

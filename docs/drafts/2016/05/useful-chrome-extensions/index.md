@@ -1,30 +1,27 @@
 ---
-title: "Useful Chrome Extensions"
+title: Useful Chrome Extensions
 created: 2016-05-30 20:26:25
-date: 2022-12-10 12:55:54
+date: 2026-04-07 00:52:45.085624
 authors:
-  - bendu
+- bendu
 label: useful-chrome-extensions
 license: CC-BY-4.0
 tags:
-  - software
-  - Google Chrome
-  - extension
-  - add-on
-  - plug-in
-  - addon
-  - plugin
-  - web browser
+- software
+- Google Chrome
+- extension
+- add-on
+- plug-in
+- addon
+- plugin
+- web browser
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 
-## [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
-[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
-is used to run so called userscripts (sometimes also called Greasemonkey scripts). 
-Userscripts are little computer programs that for example add download buttons to YouTube pages, 
-cleanup your Facebook timeline or help playing an online game.
+## [ScriptCat](run-userscripts-in-browsers)
+[ScriptCat](run-userscripts-in-browsers)
+allows you to run UserScript in browsers.
 
 ## [Get cookies.txt](https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid?hl=en)
 [Get cookies.txt](https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid?hl=en)

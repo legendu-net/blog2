@@ -1,4 +1,4 @@
-from blog.utils import qmarks
+from blogger import qmarks
 
 
 def test_qmarks_int():

@@ -26,6 +26,10 @@ tags:
 
 ## References
 
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+
+- [Automated Browsing Tasks Using Gemini in Chrome](automated-browsing-tasks-using-gemini-in-chrome)
+
 - [Gemini API Cookbook](https://github.com/google-gemini/cookbook)
 
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
