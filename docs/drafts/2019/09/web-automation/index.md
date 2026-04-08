@@ -1,5 +1,5 @@
 ---
-title: "Web Automation"
+title: Web Automation
 created: 2019-09-07 09:02:30
 date: 2026-01-08 00:45:12
 authors:
@@ -17,7 +17,6 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 ## Gemini in Chrome
 
 See discussions in
@@ -31,6 +30,7 @@ See discussions in
 - [Computer use tool](https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool)
 
 ## [UI Vision](https://ui.vision/)
+
 [UI Vision](https://ui.vision/)
 
 Easy hybrid workflow automation with Selenium-style commands, Computer Vision/OCR, and AI - all from a simple browser extension.
@@ -50,11 +50,15 @@ are official Docker images for selenium.
 
 ## iMacros
 
-## OculiX / SikuliX 
-OculiX / SikuliX is able to automate anything visual 
+## OculiX / SikuliX
+
+OculiX / SikuliX is able to automate anything visual
 but it is hard to scale and not reliable.
 
 ## [AppliTools](https://applitools.com/)
+
 [AppliTools](https://applitools.com/)
 is an expensive commercial solution.
 It offers 14-day free trial though.
+
+## References

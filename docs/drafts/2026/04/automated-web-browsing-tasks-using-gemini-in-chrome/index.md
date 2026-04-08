@@ -38,3 +38,5 @@ tags:
 ## References
 
 - [The new era of browsing: Putting Gemini to work in Chrome](https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/)
+
+- [Automate ANY Browser Task With Gemini - 7 INCREDIBLE Use Cases For Auto-Browse](https://www.youtube.com/watch?v=YMrqMwsfqZ8)

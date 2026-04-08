@@ -1,5 +1,5 @@
 ---
-title: Run Userscripts in Browsers
+title: Run UserScripts in Browsers
 created: 2026-04-07 00:39:53.808131
 date: 2026-04-07 00:45:12.355128
 authors:
@@ -19,5 +19,8 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 [ScriptCat](https://docs.scriptcat.org/en/docs/use/install_comple/)
-is preferred as it's opensource and support latest versions of Chrome.
+is preferred to TamperMonkey and ViolentMonkey 
+as ScriptCat is opensource and support latest versions of Chrome.
+TamperMonkey is close sourced 
+while ViolentMonkey doesn't support the latest version of Chrome (due to Manifest V3).
 

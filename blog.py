@@ -315,6 +315,15 @@ def edit(blogger, args):
     blogger.commit()
 
 
+def add_refs(blogger, args):
+    _resolve_files(args)
+    if args.files:
+        blogger.add_refs(args.files, args.urls)
+    else:
+        print("No post is specified for adding references!\n")
+    blogger.commit()
+
+
 def search(blogger, args):
     blogger.update_changed()
     filter_ = []
@@ -651,7 +660,7 @@ def _subparse_vim(subparsers):
 
 
 def _subparse_edit(subparsers):
-    desc = "Edit a post."
+    desc = "Edit posts."
     subparser_edit = subparsers.add_parser(
         "edit",
         aliases=["e"],
@@ -671,6 +680,36 @@ def _subparse_edit(subparsers):
         help="Path of the post to be edited.",
     )
     subparser_edit.set_defaults(func=edit)
+
+
+def _subparse_add_refs(subparsers):
+    desc = "Add URL references into posts."
+    subparser_add_refs = subparsers.add_parser(
+        "add_refs",
+        aliases=["ar"],
+        help=desc,
+        description=desc,
+    )
+    subparser_add_refs.add_argument(
+        "indexes", nargs="*", type=int, help="Row IDs in the search results."
+    )
+    subparser_add_refs.add_argument(
+        "-f",
+        "--files",
+        nargs="+",
+        default=[],
+        dest="files",
+        help="Path of the post to be edited.",
+    )
+    subparser_add_refs.add_argument(
+        "-u",
+        "--urls",
+        nargs="+",
+        required=True,
+        dest="urls",
+        help="URLs to be added as references.",
+    )
+    subparser_add_refs.set_defaults(func=add_refs)
 
 
 def _subparse_move(subparsers):
@@ -849,6 +888,7 @@ def parse_args(args=None, namespace=None) -> Namespace:
     _subparse_search(subparsers)
     _subparse_add(subparsers)
     _subparse_edit(subparsers)
+    _subparse_add_refs(subparsers)
     _subparse_vim(subparsers)
     _subparse_move(subparsers)
     _subparse_auto(subparsers)

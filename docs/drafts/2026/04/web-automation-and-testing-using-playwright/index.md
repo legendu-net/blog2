@@ -1,7 +1,7 @@
 ---
 title: Web Automation and Testing Using PlayWright
 created: 2026-04-07 10:47:51.456028
-date: 2026-04-07 10:47:51.456029
+date: 2026-04-07 13:01:58.164437
 authors:
 - bendu
 label: web-automation-and-testing-using-playwright

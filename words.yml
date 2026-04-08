@@ -266,6 +266,7 @@
 - ["Teamviewer", "TeamViewer"]
 - ["Tensorflow", "TensorFlow"]
 - ["Typescript", "TypeScript"]
+- ["Userscript", "UserScript"]
 - ["Virtualbox", "VirtualBox"]
 # 11 symbols
 - ["IJavascript", "IJavaScript"]
@@ -275,6 +276,7 @@
 - ["Proxychains", "ProxyChains"]
 - ["Self-Hosted", "Self-hosted"]
 - ["Spark-shell", "spark-shell"]
+- ["Userscripts", "UserScripts"]
 - ["Wealthfront", "WealthFront"]
 # 12 symbols
 - ["Command-Line", "Command-line"]

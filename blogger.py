@@ -14,8 +14,10 @@ import sqlite3
 import subprocess as sp
 import time
 from typing import Any, Iterable, Self, Sequence, TypeAlias
+from bs4 import BeautifulSoup
 import nbformat
 from loguru import logger
+import requests
 from tqdm import tqdm
 import yaml
 
@@ -47,6 +49,15 @@ POSTS_COLS = [
 TAG_SEPARATOR = "|"
 SITE = "https://legendu-net.github.io/blog"
 Record = namedtuple("Record", POSTS_COLS)
+
+
+def extract_url_title(url: str) -> str:
+    """Extract the title of a web page."""
+    response = requests.get(url)
+    soup = BeautifulSoup(response.content, "html.parser")
+    if not soup.title:
+        return ""
+    return soup.title.string if soup.title.string else ""
 
 
 def get_vim() -> str:
@@ -320,19 +331,22 @@ class Post:
         dir_.move(dir_new)
         self._set_path(dir_new / self.path.name)
 
-    def _add_markdown_cell(self, index: int = -1, source: list[str] | None = None):
+    def _add_markdown_cell(
+        self, index: int | None = None, source: list[str] | None = None
+    ):
         """Add an empty markdown cell."""
         cell = nbformat.versions[nbformat.current_nbformat].new_markdown_cell()  # ty: ignore[unresolved-attribute]
         if source:
-            cell["source"] = self.lines
-        self.notebook["cells"].insert(index, cell)
+            cell["source"] = source
+        if index is None:
+            self.notebook["cells"].append(cell)
+        else:
+            self.notebook["cells"].insert(index, cell)
 
     def _new_notebook(self):
         """Create a new notebook with an empty metadata (markdown) cell."""
         self.notebook = nbformat.versions[nbformat.current_nbformat].new_notebook()
         self._add_markdown_cell()
-        if self._doc_dir in (DRAFTS, OUTDATED):
-            self._add_markdown_cell()
 
     def create(self, metadata_or_title: dict[str, Any] | str):
         if isinstance(metadata_or_title, str):
@@ -362,6 +376,30 @@ class Post:
         self._set_path(path_new)
         self._write()
         return path_new
+
+    def add_refs(self, urls: str | list[str]) -> None:
+        """Add URL references into this post."""
+        if isinstance(urls, str):
+            urls = [urls]
+        lines = [f"- [{extract_url_title(url)}]({url})\n" for url in urls]
+        ref = "## References"
+        if self.is_markdown:
+            for idx, line in enumerate(reversed(self.lines)):
+                if line.strip() == ref:
+                    idx = len(self.lines) - idx
+                    self.lines[idx:idx] = lines
+                    break
+            else:
+                self.lines.append(ref + "\n")
+                self.lines.extend(lines)
+        else:
+            for cell in reversed(self.notebook["cells"]):
+                if cell["source"][0].strip() == ref:
+                    cell["source"][1:1] = lines
+                    break
+            else:
+                self._add_markdown_cell(source=[ref + "\n"] + lines)
+        self.update_meta_field(metadata={"date": datetime.datetime.now()})
 
 
 class Blogger:
@@ -535,6 +573,19 @@ class Blogger:
             )
             """
         self._conn.executemany(sql, values)
+
+    def add_refs(self, paths: str | list[str], urls: str | list[str]) -> None:
+        if isinstance(paths, str):
+            paths = [paths]
+        if isinstance(urls, str):
+            urls = [urls]
+        for path in paths:
+            Post(path).parse().add_refs(urls)
+        self.update_records(
+            table=self.POSTS,
+            paths=paths,
+            kvs={"date": datetime.datetime.now()},
+        )
 
     def edit(self, paths: str | list[str], editor: str) -> None:
         """Edit the specified posts using the specified editor."""
