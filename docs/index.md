@@ -23,3 +23,8 @@ site:
 :path: {articles,drafts,outdated}/**/*.{md,ipynb}
 :limit: 20
 :::
+
+## About the Author
+
+[GitHub](https://github.com/legendu-net)    |    [LinkedIn](https://www.linkedin.com/in/ben-chuanlong-du-1239b221/) |    [Blog Source](https://github.com/legendu-net/blog)
+

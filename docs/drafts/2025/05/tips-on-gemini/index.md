@@ -1,7 +1,7 @@
 ---
 title: Tips on Gemini
 created: 2025-05-06 15:04:36
-date: 2026-04-07 19:10:15.973353
+date: 2026-04-08 09:58:35.870141
 authors:
 - bendu
 label: tips-on-gemini
