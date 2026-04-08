@@ -1,7 +1,7 @@
 ---
 title: Automated Web Browsing Tasks Using Gemini in Chrome
 created: 2026-04-07 16:04:20.756411
-date: 2026-04-07 19:18:50.014872
+date: 2026-04-07 22:25:04.862615
 authors:
 - bendu
 label: automated-web-browsing-tasks-using-gemini-in-chrome
@@ -36,6 +36,7 @@ tags:
     Auto Browse **requires a subscription of Google AI Pro** or Google AI Ultra.
 
 ## References
+- [5 New Ways to Use Gemini in the Chrome Browser - YouTube](https://www.youtube.com/watch?v=gMQkl-8gHOg)
 
 - [The new era of browsing: Putting Gemini to work in Chrome](https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/)
 
