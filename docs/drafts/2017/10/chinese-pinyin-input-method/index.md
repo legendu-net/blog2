@@ -1,5 +1,5 @@
 ---
-title: Chinese Pinyin Input Method
+title: Chinese Input Methods
 created: 2017-10-22 15:07:56
 date: 2026-04-06 17:10:26.706590
 authors:

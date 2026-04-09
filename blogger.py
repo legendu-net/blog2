@@ -266,6 +266,9 @@ class Post:
             .strip()
             .split("\n")
         ):
+            # prefer indention for list
+            if line.startswith("- "):
+                line = "  " + line
             lines.append(line + "\n")
         lines.append("---\n")
         return lines
