@@ -1,7 +1,7 @@
 ---
 title: Mdformat Is An Extensible Markdown Formatter
 created: 2026-04-08 20:49:46.627882
-date: 2026-04-08 20:49:46.627884
+date: 2026-04-08 21:16:14.890087
 authors:
   - bendu
 label: mdformat-is-an-extensible-markdown-formatter
@@ -14,7 +14,6 @@ tags:
   - myst
   - extensible
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ```

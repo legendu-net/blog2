@@ -1,21 +1,21 @@
 ---
 title: Automated Web Browsing Tasks Using Gemini in Chrome
 created: 2026-04-07 16:04:20.756411
-date: 2026-04-08 14:18:04.972167
+date: 2026-04-08 18:57:25.956290
 authors:
-- bendu
+  - bendu
 label: automated-web-browsing-tasks-using-gemini-in-chrome
 license: CC-BY-4.0
 tags:
-- computer science
-- AI
-- Gemini
-- Chrome
-- browsing
-- browser
-- web
-- internet
-- automation
+  - computer science
+  - AI
+  - Gemini
+  - Chrome
+  - browsing
+  - browser
+  - web
+  - internet
+  - automation
 ---
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 

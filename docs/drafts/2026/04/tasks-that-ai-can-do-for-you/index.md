@@ -1,7 +1,7 @@
 ---
 title: Tasks That AI Can Do for You
 created: 2026-04-08 18:25:17.389322
-date: 2026-04-08 18:28:03.898200
+date: 2026-04-08 19:37:54.682723
 authors:
   - bendu
 label: tasks-that-ai-can-do-for-you
@@ -13,7 +13,6 @@ tags:
   - tasks
   - ideas
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## References

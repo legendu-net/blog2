@@ -19,6 +19,10 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 
+## [Google Input Tools](https://www.google.com/inputtools/chrome/) 
+[Google Input Tools](https://chromewebstore.google.com/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab?hl=en) 
+allows users to use input tools (including Chinese) in any web pages in Chrome
+
 ## [ScriptCat](run-userscripts-in-browsers)
 [ScriptCat](run-userscripts-in-browsers)
 allows you to run UserScript in browsers.

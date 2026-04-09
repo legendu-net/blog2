@@ -1,19 +1,19 @@
 ---
 title: Tips on Gemini
 created: 2025-05-06 15:04:36
-date: 2026-04-08 14:18:04.969126
+date: 2026-04-08 18:57:25.953056
 authors:
-- bendu
+  - bendu
 label: tips-on-gemini
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- AI
-- Gemini
-- Google
-- cookbook
-- prompt
+  - Computer Science
+  - programming
+  - AI
+  - Gemini
+  - Google
+  - cookbook
+  - prompt
 ---
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 

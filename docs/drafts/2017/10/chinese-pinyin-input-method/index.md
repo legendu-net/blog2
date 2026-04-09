@@ -12,11 +12,19 @@ tags:
 - Pinyin
 - input method
 - sogou
+- Google Input Tools
 ---
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+## Software
+
 `fcitx-sogoupinyin` is currently the best choice,
 and `ibus-sunpinyin` is another good alternative.
+
+## Browser Extensions
+
+1. [Google Input Tools](https://www.google.com/inputtools/chrome/) 
+    allows users to use input tools (including Chinese) in any web pages in Chrome.
 
 ## Online Chinese Input
 
@@ -26,14 +34,7 @@ and `ibus-sunpinyin` is another good alternative.
 
 - [在线汉子拼音输入法](https://www.archchinese.com/type_chinese.html)
 
-## Chrome Extension
-
-## Firefox Extension
-
-http://toshuo.com/chinese-tools/pinyin-input-firefox-extension/
-
-
-## Ref
+## References
 
 - http://www.pinyinput.com/?lang=en
 

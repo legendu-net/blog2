@@ -1,18 +1,18 @@
 ---
 title: Web Automation
 created: 2019-09-07 09:02:30
-date: 2026-04-08 14:18:04.970081
+date: 2026-04-08 18:57:25.954098
 authors:
-- bendu
+  - bendu
 label: web-automation
 license: CC-BY-4.0
 tags:
-- programming
-- web
-- automation
-- Selenium
-- playwright
-- Puppeteer
+  - programming
+  - web
+  - automation
+  - Selenium
+  - playwright
+  - Puppeteer
 ---
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 

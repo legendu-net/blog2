@@ -1,19 +1,19 @@
 ---
 title: Tips on Empower
 created: 2025-03-10 23:49:49
-date: 2026-04-08 10:50:09.885398
+date: 2026-04-08 18:57:25.957392
 authors:
-- bendu
+  - bendu
 label: tips-on-empower
 license: CC-BY-4.0
 tags:
-- finance
-- personal wealth
-- budget
-- tracking
-- empower
-- WealthFront
-- Monarch Money
+  - finance
+  - personal wealth
+  - budget
+  - tracking
+  - empower
+  - WealthFront
+  - Monarch Money
 ---
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
