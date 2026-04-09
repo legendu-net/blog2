@@ -3,71 +3,88 @@ title: Manage Autostart Applications
 created: 2014-03-22 12:35:14
 date: 2026-04-05 19:42:38.270297
 authors:
-- bendu
+  - bendu
 label: manage-autostart-applications
 license: CC-BY-4.0
 tags:
-- Linux
-- autostart
-- desktop environment
-- GNOME
-- KDE
-- Xfce
-- LXQT
+  - Linux
+  - autostart
+  - desktop
+  - application
+  - launching
+  - desktop environment
+  - GNOME
+  - KDE
+  - Xfce
+  - LXQT
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
- 
+
 ## Tips and Traps
 
-1. Autostart `*.desktop` configuration files 
-    are located in directories 
-    `/etc/xdg/autostart` 
-    and
-    `~/.config/autostart/`
-    .
-    By default,
-    autostart applications in `/etc/xdg/autostart` 
-    are not shown to users in "Startup Applications Preferences"
-    while autostart application in `~/.config/autostart` 
-    are shown to users in "Startup Applications Preferences".
+1. Autostart `*.desktop` configuration files
+   are located in directories
+   `/etc/xdg/autostart`
+   and
+   `~/.config/autostart/`
+   .
+   By default,
+   autostart applications in `/etc/xdg/autostart`
+   are not shown to users in "Startup Applications Preferences"
+   while autostart application in `~/.config/autostart`
+   are shown to users in "Startup Applications Preferences".
 
 2. If you use multiple Linux desktop environments,
-    you can customize `desktop` configuration files 
-    for different Linux desktop environments.
-    Please refer to
-    [Desktop Entry Specification](https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html)
-    for details.
+   you can customize `desktop` configuration files
+   for different Linux desktop environments.
+   Please refer to
+   [Desktop Entry Specification](https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html)
+   for details.
 
-2. By default,
-    a `*.desktop` file enables an application to autostart.
-    There are 2 ways to disable autostart of the application.
+3. By default,
+   a `*.desktop` file under `/etc/xdg/autostart` or `~/.config/autostart`
+   enables an application to autostart.
+   There are 2 ways to disable autostart of the application.
 
-    - Add a line `X-GNOME-Autostart-enabled=false` 
-        (or similarly for other Linux desktop environment) 
-        into the `desktop` file. 
-        This is the recommended way.
-    - Remove the `desktop` file.
-        This is not recommended, 
-        generally speaking.
+   - Add the line `Hidden=True` into the `desktop` file.
+     This is the recommended way.
+   - Remove the `desktop` file.
+     This is not recommended,
+     generally speaking.
 
-3. If you want to disable an autostart application 
-    defined by a `desktop` file in `/etc/xdg/autostart`,
-    you'd 
-    <span style="color:green">
-    better make a copy of the `desktop` file into `~/.config/autostart`
-    and then disable it
-    </span>
-    <span style="color:red">
-    unless you want to disable it system-wide
-    </span>
-    .
+4. If you want to disable an autostart application
+   defined by a `desktop` file in `/etc/xdg/autostart`,
+   you'd
+   <span style="color:green">
+   better make a copy of the `desktop` file into `~/.config/autostart`
+   and disable there
+   </span>
+   <span style="color:red">
+   unless you want to disable it system-wide
+   </span>
+   .
 
-4. For a must-have autostart application (e.g., Dropbox),
-    it might help to configure a delay to launch it 
-    so that your Linux machine can boot faster.
+5. Sometimes,
+   it's helpful to delay the start of some applications (e.g., Dropbox).
 
-        :::text
-        X-GNOME-Autostart-Delay=30
+   - makes your Linux machine boot faster
+   - a non-system application might fail to auto start without configuring a delay
+
+   The universal way to configure a delay is to add a `sleep` into the `Exec=` line.
+   For example
+
+   ```
+    :::text
+    Exec=sleep 10 && /usr/bin/flatpak run --branch=stable --arch=x86_64 --command=/app/bin/dropbox-app com.dropbox.Client
+   ```
+
+   Some Linux desktop environments support their specific keys for delayed autostart in `.desktop` files.
+   For example,
+   GNOME supports `X-GNOME-Autostart-Delay`.
+   However,
+   some Linux desktop environments (e.g., KDE)
+   don't have such as equivalent.
 
 ## A List of Autostart Applications to Disable
 
