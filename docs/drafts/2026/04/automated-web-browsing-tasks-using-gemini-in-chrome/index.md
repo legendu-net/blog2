@@ -1,7 +1,7 @@
 ---
 title: Automated Web Browsing Tasks Using Gemini in Chrome
 created: 2026-04-07 16:04:20.756411
-date: 2026-04-08 00:29:33.521508
+date: 2026-04-08 14:18:04.972167
 authors:
 - bendu
 label: automated-web-browsing-tasks-using-gemini-in-chrome
