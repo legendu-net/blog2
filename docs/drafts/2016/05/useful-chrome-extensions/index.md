@@ -1,20 +1,20 @@
 ---
 title: Useful Chrome Extensions
 created: 2016-05-30 20:26:25
-date: 2026-04-07 00:52:45.085624
+date: 2026-04-08 21:35:17.699996
 authors:
-- bendu
+  - bendu
 label: useful-chrome-extensions
 license: CC-BY-4.0
 tags:
-- software
-- Google Chrome
-- extension
-- add-on
-- plug-in
-- addon
-- plugin
-- web browser
+  - software
+  - Google Chrome
+  - extension
+  - add-on
+  - plug-in
+  - addon
+  - plugin
+  - web browser
 ---
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 

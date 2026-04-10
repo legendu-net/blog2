@@ -4,9 +4,9 @@
 
 from collections import namedtuple
 import datetime
-import itertools
+from functools import cache
+import itertools as it
 import json
-import multiprocessing
 import os
 from pathlib import Path
 import shutil
@@ -24,6 +24,7 @@ import yaml
 AnyPath: TypeAlias = str | Path
 Number: TypeAlias = int | float
 BASE_DIR = Path(__file__).resolve().parent
+SPELLS = BASE_DIR / "spells.yml"
 ARTICLES = "articles"
 DRAFTS = "drafts"
 OUTDATED = "outdated"
@@ -31,9 +32,6 @@ DISCLAIMER_DRAFTS = "**Things on this page are fragmentary and immature notes/th
 DISCLAIMER_OUTDATED = "**Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**\n"
 MARKDOWN = ".md"
 IPYNB = ".ipynb"
-# TODO: move into a function
-with Path(BASE_DIR / "words.yml").open(encoding="utf-8") as _:
-    WORDS = yaml.load(_, Loader=yaml.FullLoader)
 # TODO: move into Record directly and access via .fields
 POSTS_COLS = [
     "path",
@@ -49,6 +47,20 @@ POSTS_COLS = [
 TAG_SEPARATOR = "|"
 SITE = "https://legendu-net.github.io/blog"
 Record = namedtuple("Record", POSTS_COLS)
+
+
+@cache
+def read_spells() -> dict[str, str]:
+    with SPELLS.open("r", encoding="utf-8") as fin:
+        return yaml.load(fin, Loader=yaml.FullLoader)
+
+
+def add_spells(pairs: Iterable[tuple[str, str]]) -> None:
+    spells = list(read_spells().items())
+    spells.extend(pairs)
+    spells.sort(key=lambda x: x[0])
+    with SPELLS.open("w", encoding="utf-8") as fout:
+        yaml.dump(dict(spells), fout)
 
 
 def extract_url_title(url: str) -> str:
@@ -95,7 +107,8 @@ def _parse_records() -> list[Record]:
     for doc_dir in (ARTICLES, DRAFTS, OUTDATED):
         for ext in (MARKDOWN, IPYNB):
             paths.extend(BASE_DIR.glob(f"docs/{doc_dir}/20??/??/*/index{ext}"))
-    # TODO:
+    # TODO: 1. do you need multiprocessing?
+    # TODO: 2. if not, no need to use a list
     # with multiprocessing.Pool(processes=1) as pool:
     # return pool.map(_parse_record, paths)
     return [_parse_record(path) for path in paths]
@@ -109,7 +122,7 @@ def format_title(title):
     # it sounds better to use regex.
     # Easier to just update words.json to use regex.
     title = title.title()
-    for origin, replace in WORDS:
+    for origin, replace in read_spells().items():
         title = title.replace(f" {origin} ", f" {replace} ")
         if title.startswith(origin + " "):
             title = title.replace(origin + " ", replace + " ")
@@ -457,9 +470,8 @@ class Blogger:
         self.delete_records(self.POSTS, "")
         records = _parse_records()
         logger.info("Inserting records into SQLite3 ...")
-        batch = 1000
-        for i in tqdm(range(0, len(records), batch)):
-            self.load_records(records[i : i + batch])
+        for batch in tqdm(it.batched(records, 1000)):
+            self.load_records(batch)
 
     def load_records(self, records: Iterable[Record]):
         # TODO: can be unified with load_post, use just 1 function
@@ -615,7 +627,7 @@ class Blogger:
             SET {", ".join(f"{k} = ?" for k in kvs)} 
             WHERE path in ({qmarks(paths)})
             """
-        self._conn.execute(sql, list(itertools.chain(kvs.values(), paths)))
+        self._conn.execute(sql, list(it.chain(kvs.values(), paths)))
 
     def update_changed(self):
         """Update information of the changed posts."""

@@ -133,8 +133,9 @@ version = "0.1.0"
 source = { editable = "." }
 dependencies = [
     { name = "beautifulsoup4" },
-    { name = "jupyter-book" },
     { name = "loguru" },
+    { name = "nbformat" },
+    { name = "pyyaml" },
     { name = "requests" },
     { name = "tqdm" },
 ]
@@ -142,6 +143,7 @@ dependencies = [
 [package.dev-dependencies]
 dev = [
     { name = "deptry" },
+    { name = "jupyter-book" },
     { name = "mdformat" },
     { name = "mdformat-myst" },
     { name = "pytest" },
@@ -152,8 +154,9 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "beautifulsoup4", specifier = ">=4.14.3" },
-    { name = "jupyter-book", specifier = ">=2.1.0" },
     { name = "loguru", specifier = ">=0.7.3" },
+    { name = "nbformat", specifier = ">=5.10.4" },
+    { name = "pyyaml", specifier = ">=6.0.3" },
     { name = "requests", specifier = ">=2.33.1" },
     { name = "tqdm", specifier = ">=4.67.3" },
 ]
@@ -161,6 +164,7 @@ requires-dist = [
 [package.metadata.requires-dev]
 dev = [
     { name = "deptry", specifier = ">=0.25.1" },
+    { name = "jupyter-book", specifier = ">=2.1.0" },
     { name = "mdformat", specifier = ">=1.0.0" },
     { name = "mdformat-myst", specifier = ">=0.3.0" },
     { name = "pytest", specifier = ">=9.0.2" },

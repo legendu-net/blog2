@@ -6,8 +6,9 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "beautifulsoup4>=4.14.3",
-    "jupyter-book>=2.1.0",
     "loguru>=0.7.3",
+    "nbformat>=5.10.4",
+    "pyyaml>=6.0.3",
     "requests>=2.33.1",
     "tqdm>=4.67.3",
 ]
@@ -15,6 +16,7 @@ dependencies = [
 [dependency-groups]
 dev = [
     "deptry>=0.25.1",
+    "jupyter-book>=2.1.0",
     "mdformat>=1.0.0",
     "mdformat-myst>=0.3.0",
     "pytest>=9.0.2",
@@ -31,6 +33,11 @@ exclude = [
 [tool.ty.src]
 exclude = [
     "**/*.ipynb",
+]
+
+[tool.deptry]
+extend_exclude = [
+    "docs/",
 ]
 
 [build-system]

@@ -2,7 +2,7 @@
 label: health-insurance-in-china
 title: 医保
 created: 2026-04-08 21:37:59.165006
-date: 2026-04-08 21:37:59.165007
+date: 2026-04-08 23:35:12.018760
 authors:
   - bendu
 license: CC-BY-4.0

@@ -1,18 +1,18 @@
 ---
 title: Chinese Input Methods
 created: 2017-10-22 15:07:56
-date: 2026-04-06 17:10:26.706590
+date: 2026-04-08 21:37:07.987325
 authors:
-- bendu
+  - bendu
 label: chinese-pinyin-input-method
 license: CC-BY-4.0
 tags:
-- software
-- Chinese
-- Pinyin
-- input method
-- sogou
-- Google Input Tools
+  - software
+  - Chinese
+  - Pinyin
+  - input method
+  - sogou
+  - Google Input Tools
 ---
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
