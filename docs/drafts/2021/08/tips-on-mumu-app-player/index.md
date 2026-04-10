@@ -1,7 +1,7 @@
 ---
-title: "Tips on MuMu App Player"
+title: Tips on MuMu App Player
 created: 2021-08-22 14:40:01
-date: 2021-08-22 14:40:01
+date: 2026-04-09 20:57:48.567034
 authors:
   - bendu
 label: tips-on-mumu-app-player
@@ -17,11 +17,11 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 1. Neither MuMu App Player nor MuMu Game Assistant supports Hyper-V currently.
-    As a matter of fact,
-    all popular Android emulators does not support Hyper-v at this time 
-    （as of Aug 22, 2021）.
+   As a matter of fact,
+   all popular Android emulators does not support Hyper-v at this time
+   （as of Aug 22, 2021）.
 
-2. Newer versions of MuMu App Player can only run on macOS with M chips.
+1. Newer versions of MuMu App Player can only run on macOS with M chips.
 
 ## References
 

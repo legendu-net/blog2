@@ -1,7 +1,7 @@
 ---
-title: "Android Emulators"
+title: Android Emulators
 created: 2018-09-12 23:41:58
-date: 2024-08-25 13:00:48
+date: 2026-04-10 15:23:12.894642
 authors:
   - bendu
 label: android-emulators
@@ -15,7 +15,6 @@ tags:
   - VirtualBox
   - xDroid
 ---
-
 
 <table style="width:100%">
   <tr>
@@ -152,15 +151,15 @@ tags:
 [1] [GenyMotion](https://www.genymotion.com/)
 is a great cross-platform choice.
 A free version with limited features is available.
-The desktop version of GenyMotion 
+The desktop version of GenyMotion
 can be downloaded at
 <https://www.genymotion.com/fun-zone/>
 .
 
-[2] [BlueStacks](https://www.bluestacks.com/) 
+[2] [BlueStacks](https://www.bluestacks.com/)
 is a good free Android emulator for Windows and Mac.
 
-[3] [LDPlayer](https://www.ldplayer.net/) (also called 雷电模拟器 in Chinese) 
+[3] [LDPlayer](https://www.ldplayer.net/) (also called 雷电模拟器 in Chinese)
 is a good free Android emulator for Windows only.
 
 [4] [AnBox](https://anbox.io/)
@@ -181,29 +180,33 @@ is a project to port Android Open Source Project to x86 platform.
 It works across operating systems (Windows, macOS and Linux).
 Android X86 supports provides ISO and RPM files
 rather than an out-of-the-box application.
-You have to install an ISO or RPM file to you device 
+You have to install an ISO or RPM file to you device
 which will add an Android operating system to your device.
 You can of course install it into a virutal environemnt (e.g., using VirtualBox)
 which is essentially what other out-of-the-box applications does.
 
-[8] Android SDK and Android Studio works together to emulate software found on Android 
-using the resources of your PC. 
-Android developers mostly use Android SDK tools for testing and development purposes, 
+[8] Android SDK and Android Studio works together to emulate software found on Android
+using the resources of your PC.
+Android developers mostly use Android SDK tools for testing and development purposes,
 but it'll work for casual use and play as well.
 
-[9] xDroid is an Android emulator 
-(seems to be a commerical software based on AnBox) 
+[9] xDroid is an Android emulator
+(seems to be a commerical software based on AnBox)
 for Linux only.
 The x86_64 version is free for personal use.
 
-[10] Docker-Android is a docker image 
-built to be used for everything 
+[10] Docker-Android is a docker image
+built to be used for everything
 related to mobile website testing and Android project.
 
 [11] Waydroid is a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 It is a successor of AnBox.
 
-## References 
+## References
+
+- [Waydroid | Android in a Linux container](https://waydro.id/)
+
+- [Setting up Android-x86 with Virt-Manager - ROllerozxa](https://voxelmanip.se/2022/07/12/setting-up-android-x86-with-virt-manager/)
 
 - [Run ARM apps on the Android Emulator](https://android-developers.googleblog.com/2020/03/run-arm-apps-on-android-emulator.html)
 

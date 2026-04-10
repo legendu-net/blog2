@@ -262,6 +262,7 @@ class Post:
                 elif self._doc_dir == OUTDATED:
                     fout.write(DISCLAIMER_OUTDATED)
                 fout.writelines(self.lines)
+            sp.run(f"uv run mdformat {self.path}", shell=True, check=True)
         else:
             cell0 = self.notebook["cells"][0]
             cell0["source"] = self._metadata_lines()
@@ -284,6 +285,7 @@ class Post:
                 line = "  " + line
             lines.append(line + "\n")
         lines.append("---\n")
+        lines.append("\n")
         return lines
 
     def _read_notebook(self) -> dict:
