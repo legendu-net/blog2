@@ -13,6 +13,7 @@ tags:
 - Android
 - iOS
 - SmartPhone
+- MIUI
 ---
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
@@ -22,7 +23,9 @@ tags:
 
 2. T-mobile is also a cheap one.
 
-3. Verizon is way too expensive!
+3. Verizon is relatively more expensive but indeed has a strogner signal.
+    The hotspot on a smart phone with Verizon is capable of powering smooth web surfing on laptops.
+    It's generally not the case for other phone carriers.
 
 4. Dial `*#06#` to get device info (EID, IMEI, IMEI2 and MEID).
 
@@ -43,14 +46,7 @@ tags:
 2. [Termux](https://termux.com/) seems to be a great terminal emulator for Android.
 
 
-## Carrier Service in China
-
-1. 中国联通用户可以拨打10010转人工服务要求开通账单寄送服务. 
-    需要服务密码
-    联通设置新服务密码:
-    MMCZ#新密码
-
-## 红米
+## 红米手机
 
 1. 音量减小键 + 菜单: 截屏
  

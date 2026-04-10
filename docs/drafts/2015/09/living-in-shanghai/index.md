@@ -8,7 +8,6 @@ label: living-in-shanghai
 license: CC-BY-4.0
 tags:
 - Life
-- tips
 - Shanghai
 - city
 - China
@@ -27,14 +26,6 @@ tags:
 
 - [上海本地宝](http://sh.bendibao.com/)
 
-## 社保卡(医保卡)
-
-只需要二代身份证就能办理
-办理完毕 可以里面自己设置网上查询密码
-
-1. 张江镇社区事务受理服务中心
-    张江路1458号
-
 ## 餐饮
 斗牛士牛排（世博源店）周四 11:45am　 浦东新区世博大道1368号世博源1区G层1G09-10号铺
 
@@ -47,3 +38,9 @@ tags:
 ## 玩乐
 
 镭战大联盟翰昆世博店 浦东新区上钢路２００号
+
+## References
+
+- [医保](health-insurance-in-china)
+
+- [中国联通](https://www.10010.com/)

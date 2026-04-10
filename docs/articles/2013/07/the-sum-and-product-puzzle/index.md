@@ -16,10 +16,8 @@ tags:
   - product
 ---
 
-[sun vs pang]: http://www.legendu.net/en/blog/sun-bin-pang-juan/
-
-I talked about an interesting problem [in this post][sun vs pang].
-I had onsite-inteviews from Wolfram at the end of April this year,
+I talked about an interesting math problem in [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan).
+I had onsite-inteviews from Wolfram in April 2013,
 and I decided to talk how to solve the problem using Mathematica.
 I did some research and realized that the problem is a well-known one
 which is called the *Sum and Product Puzzle* (aka the *Impossible Puzzle*). 

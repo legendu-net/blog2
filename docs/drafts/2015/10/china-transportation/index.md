@@ -1,10 +1,10 @@
 ---
-title: "China Transportation"
+label: public-transportation-china
+title: 中国的公共交通服务
 created: 2015-10-05 17:00:42
 date: 2020-03-05 17:00:42
 authors:
   - bendu
-label: china-transportation
 license: CC-BY-4.0
 tags:
   - commute
@@ -20,27 +20,21 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-1. 能乘坐火车就尽量乘坐火车, 公路客运相比缺点实在是太多了.
+1. 高铁是远程出行的首选交通工具。
 
+2. [中国铁路客户服务中心 (12306)](http://www.12306.cn/mormhweb/)
+    不仅提供火车订票服务，
+    还提供“便民托运”，“车站引导”，等其他服务。
 
-[中国铁路客户服务中心](http://www.12306.cn/mormhweb/)
+3. 高铁商务座提供贵宾休息室。
 
-铁友火车票是由携程旗下的铁友旅行网推出的一款手机火车票预订的android应用.
-铁友火车票提供全国高铁动车的火车票预订, 
-列车时刻表查询及票价查询, 
-火车票预订, 车次查询, 余票查询, 火车票预售期查询等服务.
-总体来说是款挺不错的手机应用.
+4. 如果需要抢票，可以使用“携程”APP。
 
 ## 湖北
 
-[湖北公路客运（集团）有限公司](http://www.hbglky.com/index.shtml)
+1. 高铁已经覆盖到了十八线小城市。
 
 1. 汉口火车站对面有金家墩长途汽车客运站, 客运站旁边就有7天酒店.
-
-2. 武汉-襄樊之间已经开通了动车.
-
-3. 
-
 
 ## 上海公共交通
 
@@ -54,7 +48,7 @@ tags:
 
 3. 从张江高科技站（1号出口）走到德国中心三号楼大概需要12分钟时间。
 
-### Electronic Train
+### 有轨电车
 
 1. 1号有轨电车往返古桐三村和张江高科技站（地铁5号出口，上海传奇广场）正常需要大概20分钟,
 高峰期时（早上8-9）需要25分钟左右。
@@ -97,3 +91,7 @@ it is better to go to the front carriage as it is less crowded.
 ### Misc
 
 1. 往返浦东和常州之间, 走上海站(高铁/动车)比较方便.
+
+## References
+
+- [湖北公路客运（集团）有限公司](http://www.hbglky.com/index.shtml)

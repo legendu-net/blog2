@@ -17,6 +17,11 @@ tags:
 ---
 <img src="http://dclong.github.io/media/pk/pk.jpg" height="200" width="240" align="right"/>
 
+
+Note: Please refer to [The Sum and Product Puzzle](the-sum-and-product-puzzle)
+for a better discussion of the problem.
+
+
 Dating back to the time when I was a sophomore, 
 I read a very interesting problem from "Waming", 
 which is a magazine of math department of USTC (University of Science and Technology of China).
@@ -131,3 +136,6 @@ My code (written in Mathmatica) for solving this problem is given below.
     GuiGuzi[]
     {{4, 13}}
 
+## References
+
+- [The Sum and Product Puzzle](the-sum-and-product-puzzle)

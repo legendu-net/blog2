@@ -16,8 +16,17 @@ tags:
 ---
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-[国家医保服务平台](https://fuwu.nhsa.gov.cn/)
+[国家医保服务平台](https://fuwu.nhsa.gov.cn/) App
+支持医保电子凭证。 
 
-need to download and install the app on phone to register and use 
+## 医保卡线下办理 - 上海
 
+只需要二代身份证就能办理
+办理完毕 可以里面自己设置网上查询密码
 
+1. 张江镇社区事务受理服务中心
+    张江路1458号
+
+## References
+
+- [国家医保服务平台](https://fuwu.nhsa.gov.cn/)
