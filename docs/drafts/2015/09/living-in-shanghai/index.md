@@ -3,21 +3,22 @@ title: Living in Shanghai
 created: 2015-09-22 14:22:28
 date: 2026-04-05 19:42:38.164273
 authors:
-- bendu
+  - bendu
 label: living-in-shanghai
 license: CC-BY-4.0
 tags:
-- Life
-- Shanghai
-- city
-- China
-- traffic
-- commute
-- bus
-- train
-- metro
-- subway
+  - Life
+  - Shanghai
+  - city
+  - China
+  - traffic
+  - commute
+  - bus
+  - train
+  - metro
+  - subway
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 - [浦东新区人力资源和社会保障局](http://www.pudong.gov.cn/website/html/pdrbj/portal/index/index.htm)
@@ -27,6 +28,7 @@ tags:
 - [上海本地宝](http://sh.bendibao.com/)
 
 ## 餐饮
+
 斗牛士牛排（世博源店）周四 11:45am　 浦东新区世博大道1368号世博源1区G层1G09-10号铺
 
 ### 古桐小区附件餐馆

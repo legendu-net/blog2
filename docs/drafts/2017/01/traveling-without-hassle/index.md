@@ -18,6 +18,9 @@ tags:
 
 ## General Tips
 
+1. Please refer to [中国的公共交通服务](public-transportation-china)
+    if you need to travel to China.
+
 1. Have a good rest (especially the night)
   before long trips (especially road trips)
   .
