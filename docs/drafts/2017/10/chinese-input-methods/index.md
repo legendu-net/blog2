@@ -1,10 +1,10 @@
 ---
 title: Chinese Input Methods
 created: 2017-10-22 15:07:56
-date: 2026-04-08 21:37:07.987325
+date: 2026-04-10 10:57:20.187807
 authors:
   - bendu
-label: chinese-pinyin-input-method
+label: chinese-input-methods
 license: CC-BY-4.0
 tags:
   - software

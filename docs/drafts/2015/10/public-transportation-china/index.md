@@ -2,7 +2,7 @@
 label: public-transportation-china
 title: 中国的公共交通服务
 created: 2015-10-05 17:00:42
-date: 2020-03-05 17:00:42
+date: 2026-04-10 10:57:20.192356
 authors:
   - bendu
 license: CC-BY-4.0
@@ -17,7 +17,6 @@ tags:
   - public
   - life
 ---
-
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 1. 高铁是远程出行的首选交通工具。
