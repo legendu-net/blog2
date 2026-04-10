@@ -1,7 +1,7 @@
 ---
 title: Configure Desktop Application Launching in Linux
 created: 2026-04-09 11:59:19.986251
-date: 2026-04-09 11:59:19.986252
+date: 2026-04-09 12:30:02.439302
 authors:
   - bendu
 label: configure-desktop-application-launching-in-linux

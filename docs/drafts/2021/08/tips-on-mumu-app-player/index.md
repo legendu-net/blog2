@@ -21,6 +21,8 @@ tags:
     all popular Android emulators does not support Hyper-v at this time 
     （as of Aug 22, 2021）.
 
+2. Newer versions of MuMu App Player can only run on macOS with M chips.
+
 ## References
 
 - [关于MuMu手游助手](https://mumu.163.com/20200515/25905_880846.html)

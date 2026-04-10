@@ -1,7 +1,7 @@
 ---
 title: Manage AppImages on Linux
 created: 2026-04-09 13:27:47.846114
-date: 2026-04-09 13:27:47.846115
+date: 2026-04-09 13:43:13.124121
 authors:
   - bendu
 label: manage-appimages-on-linux

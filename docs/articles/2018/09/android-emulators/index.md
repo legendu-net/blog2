@@ -43,7 +43,7 @@ tags:
     <a href="#footnote2">[2]</a>
     </td>
     <td> Yes </td>
-    <td> Windows, macOS </td>
+    <td> Windows, macOS (M chip) </td>
     <td> No </td>
     <td> Yes </td>
     <td> Active </td>
