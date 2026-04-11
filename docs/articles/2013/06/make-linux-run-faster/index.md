@@ -112,7 +112,7 @@ leveraging extended Berkeley Packet Filters (eBPF).
 3. Remove old kernels.
 
         :::bash
-        wajig purge linux-image-<verson>
+        sudo apt purge linux-image-<verson>
 
 ### Lightweight Alternatives
 
@@ -129,7 +129,7 @@ leveraging extended Berkeley Packet Filters (eBPF).
 
 2. Identify orphan packages and remove them.
 
-        sudo deborphan | xargs wajig remove --purge
+        sudo deborphan | xargs sudo apt remove --purge
         
 3. Clean up packages.
         

@@ -47,7 +47,7 @@ but first check whether a desktop file created in GNOME can be used in Xfce or n
     echo "Installing flashplugin-nonfree ..."
     sudo apt install -y flashplugin-nonfree
     # uninstall iceweasel
-    if [ "$(wajig list | grep -i iceweasel)" != "" ]; then 
-        # wajig purge -y iceweasel
+    if [ "$(sudo apt list | grep -i iceweasel)" != "" ]; then 
+        # sudo apt purge -y iceweasel
         echo "Please uninstall iceweasel manually!"
     fi

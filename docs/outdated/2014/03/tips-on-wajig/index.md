@@ -58,7 +58,7 @@ From the documentation,
 1. Remove all GNOME desktop related packages
 
         :::bash
-        wajig list | awk '{print $2}' | grep -i ^gnome | xargs wajig purge
+        sudo apt list | awk '{print $2}' | grep -i ^gnome | xargs sudo apt purge
 
 2. install a package of specific version using wajig
 
@@ -91,5 +91,5 @@ you can download a package for installation later using the command below.
 
 ## Issues
 
-1. it seems to me that `wajig purge package_name` fails to remove packages sometimes
+1. it seems to me that `sudo apt purge package_name` fails to remove packages sometimes
     even though it seems to succeed.

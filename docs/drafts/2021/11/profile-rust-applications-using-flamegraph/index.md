@@ -67,13 +67,13 @@ tags:
 
 ## Installation on Debian
 
-    wajig update
+    sudo apt update
     sudo apt install linux-perf
     cargo install flamegraph
 
 ## Installation on Ubuntu
 ```
-wajig update 
+sudo apt update 
 sudo apt install linux-tools-common linux-tools-generic linux-tools-`uname -r`
 cargo install flamegraph
 ```

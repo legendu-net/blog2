@@ -38,7 +38,7 @@ tags:
     run the Cygwin installer again and select new packages that you want to install.
     Installed packages will be kept by default.
     There's a script `apt-cyg` witten by Stephen Jungels 
-    which gives users similar experience to `apt-get` and `wajig` in Debian/Ubuntu.
+    which gives users similar experience to `apt-get` and `apt` in Debian/Ubuntu.
 
 5. You can use `keychain` to manager your SSH public key in Cygwin.
 

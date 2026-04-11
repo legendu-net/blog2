@@ -21,7 +21,7 @@ tags:
 You can install the latest stable version of neovim using the command below.
 
     sudo add-apt-repository ppa:neovim-ppa/stable
-    wajig update
+    sudo apt update
     sudo apt install neovim
 
 ## Tips and Traps

@@ -99,24 +99,17 @@ Note: The tips here are for Debian-based Linux distributions
     [Make Linux Run Faster](https://www.legendu.net/en/blog/make-your-computer-run-faster/)
     .
 
-2. Install a good alternative package manager.
-    `apt-get` is a very good package manager for Debian series Linux distributions,
-    however, `wajig` is much superior choice.
-        
-        :::bash
-        sudo apt-get install wajig
-
 4. Upgrade the system.
         
         :::bash
-        wajig update && wajig upgrade
+        sudo apt update && sudo apt upgrade
 
 5. Swap the `Caps Lock` key with the `Escape` key.
     Please refer to
     [Map Keys in Linux](http://www.legendu.net/en/blog/map-keys-in-linux/)
     for detailed discussions.
 
-6. Install must-have software (using `wajig`).
+6. Install must-have software.
 
     - aria2, uGet
     - Chrome, Firefox 

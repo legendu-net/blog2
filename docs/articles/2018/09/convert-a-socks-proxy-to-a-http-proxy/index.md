@@ -32,7 +32,7 @@ read the below.
 1. Install Polipo.
 
         :::bash
-        wajig search polipo
+        apt search polipo
 
 2. Create a HTTP proxy listening on 8123
     (assuming you have a Socks proxy `localhost:1080`). 

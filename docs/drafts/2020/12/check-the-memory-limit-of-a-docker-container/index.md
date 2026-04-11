@@ -30,7 +30,7 @@ You can check the limit using
 1. Install [cgroup-tools](https://github.com/mk-fg/cgroup-tools).
 
         :::bash
-        wajig update
+        sudo apt update
         sudo apt install cgroup-tools
 
 2. Query the memory limit of the Docker container.

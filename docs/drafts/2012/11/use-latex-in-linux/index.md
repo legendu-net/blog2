@@ -21,7 +21,7 @@ tags:
 you'd better install the full version to avoid missing packages.
 For example, in Debian you can do this using the following command.
 
-        wajig instal texlive-full
+        sudo apt install texlive-full
 
 
 ```bash

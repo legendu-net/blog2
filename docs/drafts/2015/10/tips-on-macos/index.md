@@ -19,7 +19,7 @@ tags:
         sw_vers -productName
 
 2. You can use Homebrew to install applications in Mac
-    similar to the command `apt-get` or wajig in Debian series of Linux distributions.
+    similar to the command `apt` in Ubuntu/Debian series of Linux distributions.
     However, you do not have to run the command brew with sudo.
     As a matter of fact, 
     you should never do this. 

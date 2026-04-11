@@ -51,7 +51,7 @@ Please look for better alternatives.
     sudo rm -rf /opt/thunderbird
     sudo cp -r thunderbird /opt/
     # uninstall icedove
-    if [ "$(wajig list | grep -i icedove)" != "" ]; then
-        # wajig purge -y icedove
+    if [ "$(sudo apt list | grep -i icedove)" != "" ]; then
+        # sudo apt purge -y icedove
         echo "Please uninstall icedove."
     fi

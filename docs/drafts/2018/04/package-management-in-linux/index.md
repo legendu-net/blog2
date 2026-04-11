@@ -12,7 +12,7 @@ tags:
   - Debian
   - RedHat
   - package management
-  - wajig
+  - apt
   - apt-get
   - dpkg
 ---

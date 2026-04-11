@@ -42,7 +42,7 @@ sudo apt install libssl1.0.0/trusty
 
 3. Upgrade R to the latest version.
 ```bash
-wajig update && sudo apt install r-base-core
+sudo apt update && sudo apt install r-base-core
 ```
 
 4. Upgrade R packages to the latest version. 

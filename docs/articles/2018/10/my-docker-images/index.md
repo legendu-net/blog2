@@ -607,7 +607,7 @@ in the GitHub repository
     A possible fix is to manually uninstall NeoVim using the following command
 
         :::bash
-        wajig purge neovim
+        sudo apt purge neovim
 
     and then install Vim instead.
         
