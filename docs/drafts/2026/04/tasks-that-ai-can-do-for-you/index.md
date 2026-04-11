@@ -12,8 +12,22 @@ tags:
   - LLM
   - tasks
   - ideas
+  - Gemini
+  - App
 ---
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+
+## My Gemini Apps
+
+- [Shipping Label Tracker](https://ai.studio/apps/f3fef67e-f2be-415d-92f5-35825c2b9245)
+
+- [LinguistAI - Pro Translator](https://ai.studio/apps/drive/1wA3j2jC_2qNGp8KbM3talMvcXvmgA021)
+
+- [GitHub Fine-access Token Permission Finder](https://ai.studio/apps/8ab818e6-671a-49a0-96f0-f11cf9c4fe73)
+
+- [cURL to Python Converter](https://ai.studio/apps/bd8b5641-31da-44c9-baa0-595c29f83349)
+
+- [HTML to MyST list-table Converter](https://ai.studio/apps/a7246081-112f-455e-a0f4-53d5f675c2c0)
 
 ## References
 
