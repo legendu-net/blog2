@@ -20,7 +20,7 @@ site:
 :::{blog-posts}
 :kind: table
 :sort: date-desc
-:path: {articles,drafts,outdated}/**/*.{md,ipynb}
+:path: {articles,drafts}/**/*.{md,ipynb}
 :limit: 20
 :::
 
