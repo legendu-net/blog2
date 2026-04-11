@@ -1,18 +1,19 @@
 ---
 title: Backup Files Using "rsnapshot"
 created: 2015-01-22 14:25:22
-date: 2026-04-05 19:42:38.197636
+date: 2026-04-11 14:09:24.784911
 authors:
-- bendu
-label: backup-files-using-"rsnapshot"
+  - bendu
+label: backup-files-using-rsnapshot-
 license: CC-BY-4.0
 tags:
-- software
-- rsnapshot
-- backup
-- synchronization
-- rsync
+  - software
+  - rsnapshot
+  - backup
+  - synchronization
+  - rsync
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 To truncate the relative path while backing up using Rsnapshot:

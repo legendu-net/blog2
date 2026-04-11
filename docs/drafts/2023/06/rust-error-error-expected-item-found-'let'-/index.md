@@ -1,23 +1,24 @@
 ---
 title: 'Rust Error "error: expected item, found ''let''"'
 created: 2023-06-17 11:36:33
-date: 2026-04-05 19:42:37.646881
+date: 2026-04-11 14:09:24.656972
 authors:
-- bendu
-label: rust-error-"error-expected-item-found-'let'"
+  - bendu
+label: rust-error-error-expected-item-found-'let'-
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- Rust
-- error
-- let
-- include
-- variable
-- static
-- const
-- module
+  - Computer Science
+  - programming
+  - Rust
+  - error
+  - let
+  - include
+  - variable
+  - static
+  - const
+  - module
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 The error message "error: expected item, found 'let'" is commonly encountered in Rust 

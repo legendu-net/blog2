@@ -1,17 +1,18 @@
 ---
 title: Batch File Renaming Using "rename"
 created: 2016-05-12 11:04:38
-date: 2026-04-05 19:42:39.202314
+date: 2026-04-11 14:09:25.031773
 authors:
-- bendu
-label: batch-file-renaming-using-"rename"
+  - bendu
+label: batch-file-renaming-using-rename-
 license: CC-BY-4.0
 tags:
-- Linux
-- rename
-- shell
-- tip
+  - Linux
+  - rename
+  - shell
+  - tip
 ---
+
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
 **
