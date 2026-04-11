@@ -16,6 +16,10 @@ tags:
   - xDroid
 ---
 
+[waydroid]: https://waydro.id 
+[android-studio]: https://developer.android.com/studio 
+[docker-android]: https://github.com/budtmo/docker-android 
+
 :::{list-table} Android Emulators
 :widths: auto
 :header-rows: 1
@@ -55,7 +59,7 @@ tags:
   - No
   - Yes
   - Active
-- - [腾讯手游助手](https://syzs.qq.com)[^6]
+- - [腾讯手游助手](https://syzs.qq.com)
   - Yes
   - Windows
   - No
@@ -125,11 +129,12 @@ tags:
 
 [^3]: [LDPlayer](https://www.ldplayer.net/) is also called 雷电模拟器 in Chinese. It works well.
 
-[^9]: xDroid can run but has various issues.
+[^9]: [xDroid](https://www.linzhuotech.com/index.php/home/index/xdroid.html)
+    can run but has various issues.
 
 [^5]: [MuMu App Player](https://mumu.163.com/) works well. Specially, Tribal Pioneer works on MuMu App Player on macOS.
 
-[^11]: Waydroid is a container-based approach to boot a full Android system on Linux.
+[^11]: [Waydroid][waydroid] is a container-based approach to boot a full Android system on Linux.
     It is a successor of AnBox.
 
 [^4]: [AnBox Cloud](https://anbox-cloud.io/) is developed by Canonical and works on Ubuntu only.
@@ -140,11 +145,11 @@ tags:
     just like you can other operating systems in virtual machines.
     It's currently inactive and ISO images are outdated.
 
-[^8]: Android SDK and Android Studio works together to emulate software found on Android
+[^8]: [Android SDK and Android Studio][android-studio] works together to emulate software found on Android
     using the resources of your PC.
     Android developers mostly use Android SDK tools for testing and development purposes,
     but it'll work for casual use and play as well.
 
-[^10]: Docker-Android is a docker image
+[^10]: [Docker-Android][docker-android] is a docker image
     built to be used for everything
     related to mobile website testing and Android project.

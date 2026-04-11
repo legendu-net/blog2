@@ -1,7 +1,7 @@
 ---
-title: "Windows Emulation on Linux"
+title: Windows Emulation on Linux
 created: 2018-09-15 15:07:31
-date: 2025-12-28 08:59:02
+date: 2026-04-10 21:33:50.222399
 authors:
   - bendu
 label: windows-emulation-on-linux
@@ -18,19 +18,19 @@ tags:
 
 Virtual machine is the recommend way to emulate Windows working environment on Linux.
 
-## Windows Virtual Machine 
+## Windows Virtual Machine
 
 1. A Windows virtual machine (e.g., using Virtual Machine Manager)
-    provides a full working Windows environment.
-    The only downside is that
-    a Windows virtual machine requires lots of resource to run. 
-    You need a very powerful Linux/macOS host machine.
-    
-2. WinTPC is a relatively lightweight 32-bit Windows operating system.
-    What's more important,
-    Microsoft provides free registration for WinTPC.
-    [Get a Windows 10 development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
-    offers free Windows 10 virtual machines for developers.
+   provides a full working Windows environment.
+   The only downside is that
+   a Windows virtual machine requires lots of resource to run.
+   You need a very powerful Linux/macOS host machine.
+
+1. WinTPC is a relatively lightweight 32-bit Windows operating system.
+   What's more important,
+   Microsoft provides free registration for WinTPC.
+   [Get a Windows 10 development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
+   offers free Windows 10 virtual machines for developers.
 
 ## WinBoat (Strongly Recommended)
 
@@ -38,30 +38,30 @@ Virtual machine is the recommend way to emulate Windows working environment on L
 runs Windows apps on Linux with seamless integration
 .
 
-## WinApps 
+## WinApps
 
 [WinApps](https://github.com/winapps-org/winapps)
-allows you to run Windows applications 
-(including Microsoft 365 and Adobe Creative Cloud) 
-on GNU/Linux with KDE Plasma, GNOME or XFCE, 
+allows you to run Windows applications
+(including Microsoft 365 and Adobe Creative Cloud)
+on GNU/Linux with KDE Plasma, GNOME or XFCE,
 integrated seamlessly as if they were native to the OS.
 WinApps is similar to WinBoat but not as user-friendly as WinBoat.
 
 ## WINE-based Approaches (Bottles is Recommended)
 
 1. WINE-based approaches require way less resource than a Windows virtual machine.
-    However, 
-the Windows app you want to run might not be supported by WINE or CrossOver. 
-And even if it works, 
-it might be buggy. 
-For more discussions on WINE and CrossOver,
-please refer to
-[Windows Emulation Using WINE](http://www.legendu.net/misc/blog/wine-tips)
-.
+   However,
+   the Windows app you want to run might not be supported by WINE or CrossOver.
+   And even if it works,
+   it might be buggy.
+   For more discussions on WINE and CrossOver,
+   please refer to
+   [Windows Emulation Using WINE](http://www.legendu.net/misc/blog/wine-tips)
+   .
 
-2. [Bottles](https://usebottles.com/)
-    is a great WINE-based tool for running Windows software on Linux!
-    It's very user-friendly.
+1. [Bottles](https://usebottles.com/)
+   is a great WINE-based tool for running Windows software on Linux!
+   It's very user-friendly.
 
 ## ReactOS Virtual Machine (Not Recommended)
 
@@ -73,8 +73,7 @@ However,
 ReactOS has been in alpha stage for about 30 years.
 It's not recommended.
 
-
-## References 
+## References
 
 - [x86 Virtualization in Browser](https://copy.sh/v86/)
 
