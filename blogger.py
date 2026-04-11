@@ -147,7 +147,7 @@ def _label(title: str) -> str:
     """
     title = title.lower()
     hyphen = "-"
-    strs = [" ", "/", ",", "(", ")", ":", "=", "?", "!", "“", "”", hyphen * 2]
+    strs = [" ", "/", ",", "(", ")", ":", "=", "?", "!", '"', "“", "”", hyphen * 2]
     for s in strs:
         title = title.replace(s, hyphen)
     return title
@@ -257,6 +257,9 @@ class Post:
             and self.metadata["label"] == self.path.parts[4]
         )
 
+    def mdformat(self):
+        proc = sp.run(f"uv run mdformat {self.path}", shell=True)
+
     def _write(self):
         if self.is_markdown:
             with self.path.open("w", encoding="utf-8") as fout:
@@ -266,7 +269,7 @@ class Post:
                 elif self._doc_dir == OUTDATED:
                     fout.write(DISCLAIMER_OUTDATED)
                 fout.writelines(self.lines)
-            sp.run(f"uv run mdformat {self.path}", shell=True, check=True)
+            self.mdformat()
         else:
             cell0 = self.notebook["cells"][0]
             cell0["source"] = self._metadata_lines()

@@ -29,4 +29,4 @@ A simple way to fix the issue (on Debian-series of Linux distributions)
 is to install the `wamerican` package.
 
     :::bash
-    wajig install wamerican
+    sudo apt install wamerican

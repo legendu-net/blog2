@@ -612,7 +612,7 @@ in the GitHub repository
     and then install Vim instead.
         
         :::bash
-        wajig install vim
+        sudo apt install vim
 
 2. The command `wajig` fails to cache password 
     if a Docker image (with `wajig` installed) is run on **Mac with the M1 chip**

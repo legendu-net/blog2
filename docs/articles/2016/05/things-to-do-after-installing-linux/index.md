@@ -89,7 +89,7 @@ Note: The tips here are for Debian-based Linux distributions
     you can upgrade to 686-pae manually by running the following command in terminal
     and then reboot your computer.
 
-        wajig install linux-image-3.0.0-1-686-pae
+        sudo apt install linux-image-3.0.0-1-686-pae
 
 ## Other Debian-based Linux Distributions
 

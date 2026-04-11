@@ -25,7 +25,7 @@ of SQLite databases in GraphViz dot format.
 
 ## Installation
 
-    wajig install libsqlite3-dev graphviz
+    sudo apt install libsqlite3-dev graphviz
     cargo install visualize-sqlite
 
 ## Usage

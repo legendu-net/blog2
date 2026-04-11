@@ -63,7 +63,7 @@ tags:
 
 1. Install gcc and make. 
 
-        wajig install gcc make
+        sudo apt install gcc make
 
 2. Install VBoxAdditions.
 

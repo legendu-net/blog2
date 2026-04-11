@@ -38,7 +38,7 @@ tags:
 ## Installation 
 
     :::bash
-    wajig install iptables 
+    sudo apt install iptables 
     pip3 install sshuttle
 
 ## Configuration 

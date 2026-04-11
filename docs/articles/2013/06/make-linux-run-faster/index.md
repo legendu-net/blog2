@@ -119,7 +119,7 @@ leveraging extended Berkeley Packet Filters (eBPF).
 1. Use dash instead of bash which makes boot faster.
     
         :::bash
-        wajig install dash
+        sudo apt install dash
         wajig reconfigure dash
 
 2. Use Evince instead of Okular which is resource hungry  
@@ -139,7 +139,7 @@ leveraging extended Berkeley Packet Filters (eBPF).
 4. Clean up disk using `localepurge`.
         
         :::bash
-        wajig install localepurge
+        sudo apt install localepurge
         localpurge
 
 

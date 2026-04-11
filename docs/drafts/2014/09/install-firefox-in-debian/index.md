@@ -45,7 +45,7 @@ but first check whether a desktop file created in GNOME can be used in Xfce or n
     sudo cp -r firefox /opt/
     # install flashplugin-nonfree to make firefox more usable
     echo "Installing flashplugin-nonfree ..."
-    wajig install -y flashplugin-nonfree
+    sudo apt install -y flashplugin-nonfree
     # uninstall iceweasel
     if [ "$(wajig list | grep -i iceweasel)" != "" ]; then 
         # wajig purge -y iceweasel

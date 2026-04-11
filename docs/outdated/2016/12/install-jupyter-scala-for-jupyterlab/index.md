@@ -24,7 +24,7 @@ You can install Jupyter Scala following the steps below.
 
 1. Make sure Java and Scala are installed.
 
-        wajig install openjdk-8-jdk scala
+        sudo apt install openjdk-8-jdk scala
 
 2. Download coursier and move it to a searchable path. 
 I place it in `$HOME/bin` which I have included in `$PATH`.

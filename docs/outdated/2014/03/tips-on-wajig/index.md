@@ -28,11 +28,11 @@ tags:
         $ wajig
         wajig>
 
-## wajig install
+## sudo apt install
 
 From the documentation,
-`wajig install` is equivalent to `apt-get install --no-install-recommends`.
-`wajig install-r` is equivalent to `apt-get install`.
+`sudo apt install` is equivalent to `apt-get install --no-install-recommends`.
+`sudo apt install-r` is equivalent to `apt-get install`.
 
 ## wajig search
 
@@ -73,13 +73,13 @@ From the documentation,
 6. To install backport packages, use
 
         :::bash
-        wajig install libreoffice/wheezy-backports
+        sudo apt install libreoffice/wheezy-backports
         apt-get -t wheezy-backports libreoffice
 
     It does not work if you use
 
         :::bash
-        wajig install libreoffice/stable-backports
+        sudo apt install libreoffice/stable-backports
 
 ## Download Packages (for Installation Later)
 

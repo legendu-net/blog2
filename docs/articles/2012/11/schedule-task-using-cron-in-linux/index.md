@@ -27,7 +27,7 @@ It not (e.g., if you are using a Docker image),
 you can install it using the following command (on Ubuntu).
 
     :::bash
-    wajig update && wajig install cron
+    wajig update && sudo apt install cron
 
 ## Alternative to Cron
 

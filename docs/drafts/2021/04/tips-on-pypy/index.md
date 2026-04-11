@@ -32,6 +32,6 @@ tags:
 ### Packages Failed to Install 
 ## pytype
 
-wajig install gcc cmake g++
+sudo apt install gcc cmake g++
 
 ast27/Parser/tokenizer.c:17:10: fatal error: codecs.h: No such file or directory

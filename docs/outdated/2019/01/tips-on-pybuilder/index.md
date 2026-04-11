@@ -27,7 +27,7 @@ is a better alternative than PyBuilder!
 
 1. Install the Python package venv if you haven't. 
 
-        wajig install python3-venv 
+        sudo apt install python3-venv 
 
 2. Create a directory for your new project (e.g., myproj).
 

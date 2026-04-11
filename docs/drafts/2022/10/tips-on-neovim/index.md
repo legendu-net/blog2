@@ -22,7 +22,7 @@ You can install the latest stable version of neovim using the command below.
 
     sudo add-apt-repository ppa:neovim-ppa/stable
     wajig update
-    wajig install neovim
+    sudo apt install neovim
 
 ## Tips and Traps
 

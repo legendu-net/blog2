@@ -22,7 +22,7 @@ tags:
 You can install `xetex` on Debian series of Linux distributions (Debian, Ubuntu, Linux Mint, etc.)
 using the following command. 
 ```bash
-wajig install texlive-xetex 
+sudo apt install texlive-xetex 
 ```
 You can use command `xelatex` to compile. 
 The utf-8 format is preferred. 
@@ -57,9 +57,9 @@ Required packages (`texlive`, `xelatex`, `ctex`, `xeCJK`, etc.) can be installed
 on Debian sereis of Linux (Debian, Ubuntu, Linux Mint, etc.)
 using the following command. 
 ```bash
-wajig install texlive texlive-xetex texlive-lang-cjk
+sudo apt install texlive texlive-xetex texlive-lang-cjk
 ```
 The following command installs all LaTeX components that I personally use frequently.
 ```bash
-wajig install texlive latex-beamer wiki2beamer dvipng texlive-xetex texlive-lang-cjk texstudio
+sudo apt install texlive latex-beamer wiki2beamer dvipng texlive-xetex texlive-lang-cjk texstudio
 ```

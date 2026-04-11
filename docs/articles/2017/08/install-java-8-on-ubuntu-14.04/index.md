@@ -18,7 +18,7 @@ You can install open JDK 8 on Ubuntu 14.04 using the following commands.
 
     sudo add-apt-repository ppa:openjdk-r/ppa
     wajig update
-    wajig install openjdk-8-jdk
+    sudo apt install openjdk-8-jdk
 
 For more please refer to 
 <https://askubuntu.com/questions/464755/how-to-install-openjdk-8-on-14-04-lts>.

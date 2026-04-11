@@ -19,7 +19,7 @@ tags:
 
 1. Install Apache AirFlow.
 
-        wajig install \
+        sudo apt install \
             python3-dev python3-pip \
             mysql-server libmysqlclient-dev
         sudo AIRFLOW_GPL_UNIDECODE=yes pip3 install apache-airflow[mysql]

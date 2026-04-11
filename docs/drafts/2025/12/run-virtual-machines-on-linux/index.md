@@ -60,7 +60,7 @@ please refer to
 
 Install `spice-vdagent` in the VM and reboot.
 
-    wajig install spice-vdagent
+    sudo apt install spice-vdagent
 
 ## Shared Folder
 

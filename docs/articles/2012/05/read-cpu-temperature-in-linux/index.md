@@ -18,7 +18,7 @@ tags:
 First you have to install package "lm-sensors". 
 
     :::bash
-    wajig install lm-sensors
+    sudo apt install lm-sensors
 
 To detect the cpu temperature, type the following command.
 

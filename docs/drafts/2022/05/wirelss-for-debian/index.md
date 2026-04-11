@@ -33,7 +33,7 @@ tags:
     This wireless card is supported by iwlwifi. 
     If you have included non-free softwares in your debian repository 
     (see the first step after installation),
-    you can type `wajig install firmware-iwlwifi` in terminal to install it. 
+    you can type `sudo apt install firmware-iwlwifi` in terminal to install it. 
 
 2. If you have installed a desktop environment, 
     you can use a network manager to manager the wireless interface. 

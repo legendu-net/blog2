@@ -32,7 +32,7 @@ I think it makes things more complicated.
 
 Use the following command to install autojump on Ubuntu.
 ```bash
-wajig install autojump
+sudo apt install autojump
 ```
 Place the following code in your `.bashrc` file and you are good to go.
 ```bash

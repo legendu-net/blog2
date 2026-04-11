@@ -23,7 +23,7 @@ thus reduce the chance of your server to be hacked.
 
 First install the vino server in debian using the following command.
 
-    wajig install vino
+    sudo apt install vino
 
 Whenever you want to use VNC on the server, 
 follow the steps below.

@@ -55,6 +55,6 @@ bokeh serve --allow-websocket-origin=server_ip:5006 sliders.py
 
 ## jupyterlab_bokeh
 
-    wajig install libgif-dev
+    sudo apt install libgif-dev
     sudo jupyter labextension install jupyterlab_bokeh
 

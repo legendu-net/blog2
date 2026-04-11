@@ -16,7 +16,7 @@ tags:
 ## Installation on Ubuntu
 
 ```
-wajig install qt5-default
+sudo apt install qt5-default
 ```
 
 ## Crop an Image in Qt

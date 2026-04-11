@@ -57,7 +57,7 @@ q -t -H -O 'select * from file order by random() limit 500'
 ```
 `q` can be installed with the command below. 
 ```
-wajig install q-text-as-data
+sudo apt install q-text-as-data
 ```
 
 Even thougt I'm Linux fan, 

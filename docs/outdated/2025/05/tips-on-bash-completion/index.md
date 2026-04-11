@@ -31,7 +31,7 @@ instead of the bash shell
 
 ### Ubuntu / Debian
 
-    wajig install bash-completion
+    sudo apt install bash-completion
 
 ### macOS
 

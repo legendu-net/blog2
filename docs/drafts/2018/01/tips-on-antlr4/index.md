@@ -19,7 +19,7 @@ tags:
 ## Install ANTLR4 in Ubuntu
 
 ```
-wajig install antlr4
+sudo apt install antlr4
 sudo pip3 install antlr4-python3-runtime==4.5
 ```
 

@@ -30,7 +30,7 @@ please refer to
 ## Installation on Ubuntu
 
     :::bash
-    wajig install valgrind
+    sudo apt install valgrind
 
 ## Profile Your Application Using CallGrind
 

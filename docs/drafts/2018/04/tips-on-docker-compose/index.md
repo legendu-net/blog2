@@ -20,7 +20,7 @@ tags:
 `docker-compose` can be installed using the following command on Ubuntu.
 
     :::bash
-    wajig install docker-compose
+    sudo apt install docker-compose
 
 And docker -compose can be installed using brew on macOS.
 

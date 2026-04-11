@@ -20,6 +20,6 @@ tags:
 
 Install `xserver-xorg-input-joystick`.
 
-    wajig install xserver-xorg-input-joystick
+    sudo apt install xserver-xorg-input-joystick
 
 Plugin in the gamepad and configure it in the game.

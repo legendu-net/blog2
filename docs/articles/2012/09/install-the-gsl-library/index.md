@@ -21,7 +21,7 @@ For Unix/Linux users,
 the GSL library is often availabe in the repository. 
 For example, you can use the following command to install the GSL library in Debian.
 
-    wajig install libgsl0-dev
+    sudo apt install libgsl0-dev
 
 This will install the GSL library to the default location, 
 so that you do not have specify the `-I` and `-L` options for the GSL library. 

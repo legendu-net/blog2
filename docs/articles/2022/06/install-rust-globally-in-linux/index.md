@@ -24,7 +24,7 @@ Taking Debian/Ubuntu based Linux distributions as an example,
 you can install a global version of Rust using the command below.
 
     :::bash
-    wajig install rust rust-src cargo rustfmt 
+    sudo apt install rust rust-src cargo rustfmt 
 
 Notice that the Rust version installed by this way is relatively old. 
 Taking Ubuntu 22.04 as example,

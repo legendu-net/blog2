@@ -1,20 +1,21 @@
 ---
 title: Install the R Package "arrayQualityMetrics"
 created: 2012-04-11 19:11:28
-date: 2026-04-05 19:42:39.404347
+date: 2026-04-11 14:08:29.222636
 authors:
-- bendu
-label: install-the-r-package-"arrayqualitymetrics"
+  - bendu
+label: install-the-r-package-arrayqualitymetrics-
 license: CC-BY-4.0
 tags:
-- research
-- programming
-- biostatistics
-- package
-- arrayQualityMetrics
-- R
-- CRAN
+  - research
+  - programming
+  - biostatistics
+  - package
+  - arrayQualityMetrics
+  - R
+  - CRAN
 ---
+
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
 

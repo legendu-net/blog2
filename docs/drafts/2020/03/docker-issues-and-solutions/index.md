@@ -48,7 +48,7 @@ Restart docker resolves the issue.
 Installing `gnupg2` and `pass` fixes the issue.
 
     :::bash
-    wajig install gnupg2 pass
+    sudo apt install gnupg2 pass
 
 ## Container exits with non-zero exit code 137
 

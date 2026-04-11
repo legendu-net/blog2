@@ -35,7 +35,7 @@ Some desktop environment (e.g., Cinnamon, GNOME, etc.) let you define behavior o
     on Debian/Ubuntu based Linux distributions.
 
         :::bash
-        wajig install gnome-tweaks
+        sudo apt install gnome-tweaks
 
 2. Start gnome-tweaks by running the following command.
 

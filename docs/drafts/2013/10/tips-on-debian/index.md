@@ -55,6 +55,6 @@ It's suggested that you
 5. use all package sources instead of just stable, testing or sid
     and use pin
 
-6. wajig install pkg/wheezy-backports 
-    not wajig install pkg/stable-backports
+6. sudo apt install pkg/wheezy-backports 
+    not sudo apt install pkg/stable-backports
     you can use stable-backports in source.list, however

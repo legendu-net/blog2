@@ -23,7 +23,7 @@ to manipulate text files!
 ## Installation on Ubuntu
 
 ```bash
-wajig install python3-q-text-as-data
+sudo apt install python3-q-text-as-data
 ```
 
 ## General Tips

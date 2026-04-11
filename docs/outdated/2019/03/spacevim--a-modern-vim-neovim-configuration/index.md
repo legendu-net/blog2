@@ -24,7 +24,7 @@ Check AstroVim instead.
 ```
 curl -sLf https://spacevim.org/install.sh | bash
 # enable Python3 support
-wajig install python3 python3-pip
+sudo apt install python3 python3-pip
 pip3 install -U pynvim
 ```
 

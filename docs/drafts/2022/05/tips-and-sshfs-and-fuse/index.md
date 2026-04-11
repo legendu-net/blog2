@@ -21,7 +21,7 @@ tags:
 1. If you want to be able to mount remove Linux filesystem on you computer, 
     you can install sshfs and fuse using the following command. 
 
-        wajig install sshfs fuse
+        sudo apt install sshfs fuse
 
     It is suggested that you add you user name into the fuse group using the following command.
 

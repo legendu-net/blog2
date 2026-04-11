@@ -18,7 +18,7 @@ tags:
 ## Installation in Ubuntu
 
     :::bash
-    wajig install ftp
+    sudo apt install ftp
 
 ## FTP
 

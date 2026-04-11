@@ -38,7 +38,7 @@ tags:
 
 ## Install pdftk on Ubuntu / Debian
 
-    wajig install pdftk-java
+    sudo apt install pdftk-java
 
 ## Examples of Using pdftk
 

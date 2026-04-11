@@ -23,7 +23,7 @@ tags:
 ## Installation on Ubuntu
 
     :::bash
-    wajig install heif-gdk-pixbuf libheif-examples
+    sudo apt install heif-gdk-pixbuf libheif-examples
 
 ## Usage
 

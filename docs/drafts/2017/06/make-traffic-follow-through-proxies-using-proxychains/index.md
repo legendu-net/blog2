@@ -31,7 +31,7 @@ are also good alternatives.
 ### Ubuntu
 
 ```
-wajig install proxychains4
+sudo apt install proxychains4
 ```
 
 ### Mac

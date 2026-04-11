@@ -26,12 +26,12 @@ For example, in Debian you can do this using the following command.
 
 ```bash
 # minimum LaTex
-wajig install texlive texinfo
+sudo apt install texlive texinfo
 # Chinese support
-wajig install texlive texinfo texlive-xetex texlive-lang-cjk 
+sudo apt install texlive texinfo texlive-xetex texlive-lang-cjk 
 # GUI
-wajig install texstudio dvipng 
+sudo apt install texstudio dvipng 
 # full LaTex and GUI
-wajig install texlive-full texstudio dvipng
+sudo apt install texlive-full texstudio dvipng
 ```
 

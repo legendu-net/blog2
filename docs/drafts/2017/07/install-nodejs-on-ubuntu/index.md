@@ -17,7 +17,7 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
     :::bash
-    wajig install nodejs npm
+    sudo apt install nodejs npm
     sudo ln -s /usr/bin/nodejs /usr/bin/node
 
 Notice that it is necessary to create a symbolic link for node, 

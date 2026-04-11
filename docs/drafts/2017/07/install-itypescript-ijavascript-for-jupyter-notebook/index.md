@@ -22,7 +22,7 @@ https://github.com/nearbydelta/itypescript
 
 https://github.com/n-riesco/ijavascript/
 
-    wajig install nodejs npm
+    sudo apt install nodejs npm
     sudo ln -s /usr/bin/nodejs /usr/bin/node
 
     sudo npm install -g itypescript

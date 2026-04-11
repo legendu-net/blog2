@@ -25,24 +25,24 @@ Please look for better alternatives.
 
 1. Install JupyterLab.
 ```bash
-wajig install python3 python3-pip python3-setuptools
+sudo apt install python3 python3-pip python3-setuptools
 sudo -H pip3 install jupyter jupyterlab
 sudo jupyter serverextension enable --py jupyterlab --sys-prefix
 ```
 
 2. Install dev libraries required by IRKernel (or its dependent packages). 
 ```bash
-wajig install libssl-dev libcurl4-openssl-dev
+sudo apt install libssl-dev libcurl4-openssl-dev
 ```
 If you are still on Ubuntu 14.04, 
 you might have to force `libssl` to downgrade. 
 ```bash
-wajig install libssl1.0.0/trusty
+sudo apt install libssl1.0.0/trusty
 ```
 
 3. Upgrade R to the latest version.
 ```bash
-wajig update && wajig install r-base-core
+wajig update && sudo apt install r-base-core
 ```
 
 4. Upgrade R packages to the latest version. 

@@ -19,7 +19,7 @@ tags:
 ## Installation 
 ### Ubuntu
 
-wajig install arp-scan
+sudo apt install arp-scan
 
 ### Mac
 

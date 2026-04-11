@@ -24,7 +24,7 @@ tags:
 
 ## Installation
 
-    wajig install fd-find
+    sudo apt install fd-find
 
 The install binary is `fdfind`.
 

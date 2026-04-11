@@ -22,4 +22,4 @@ Please look for better alternatives.
 
 brew install groovy
 
-wajig install groovy2
+sudo apt install groovy2
