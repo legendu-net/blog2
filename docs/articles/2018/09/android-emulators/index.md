@@ -19,189 +19,79 @@ tags:
 :::{list-table} Android Emulators
 :widths: auto
 :header-rows: 1
-
 - - Name
   - Free
   - OS
   - Hyper-v Compat on Win
   - ARM-only App Support
   - Development
-- - [GenyMotion](https://www.genymotion.com)
+- - [GenyMotion](https://www.genymotion.com)[^1]
   - Limited
   - Windows, macOS, Linux
   - Partial
   - Limited
   - Active
-- - [AnBox Cloud](https://anbox-cloud.io/)
+- - [BlueStacks](https://www.bluestacks.com)[^2]
+  - Yes
+  - Windows, macOS (M chip)
+  - No
+  - Yes
+  - Active
+- - [LDPlayer](https://www.ldplayer.net)[^3]
+  - Yes
+  - Windows
+  - No
+  - Yes
+  - Active
+- - [xDroid](https://www.linzhuotech.com/index.php/home/index/xdroid.html)[^9]
+  - Limited
+  - Linux
+  - NA
+  - Limited
+  - Slow
+- - [MuMu App Player](https://mumu.163.com)[^5]
+  - Yes
+  - macOS (M chip)
+  - No
+  - Yes
+  - Active
+- - [腾讯手游助手](https://syzs.qq.com)[^6]
+  - Yes
+  - Windows
+  - No
+  - Yes
+  - Active
+- - [Waydroid](https://waydro.id)[^11]
+  - Yes
+  - Linux
+  - NA
+  - Yes
+  - Slow
+- - [AnBox Cloud](https://anbox-cloud.io)[^4]
   - Limited
   - Ubuntu
   - NA
   - ?
   - Active
+- - [Android-x86 + VM](https://www.android-x86.org)[^7]
+  - Yes </td>
+  - Windows, macOS, Linux </td>
+  - Yes </td>
+  - Limited </td>
+  - Inactive </td>
+- - [Android SDK + Android Studio](https://developer.android.com/studio)[^8]
+    <td> Yes </td>
+    <td> Windows, macOS, Linux </td>
+    <td> ? </td>
+    <td> Yes </td>
+    <td> Active </td>
+- - [docker-android](https://github.com/budtmo/docker-android)[^10]
+    <td> Yes </td>
+    <td> Windows, macOS, Linux </td>
+    <td> Yes </td>
+    <td> Limited </td>
+    <td> Active </td>
 :::
-
-<table style="width:100%">
-  <tr>
-    <th> Name </th>
-    <th> Free </th>
-    <th> OS </th>
-    <th> Hyper-v Compat on Win</th>
-    <th> ARM-only App Support </th>
-    <th> Development </th>
-  </tr>
-  <tr>
-    <td> 
-    <a href="https://www.genymotion.com"> GenyMotion </a>
-    <a href="#footnote1">[1]</a>
-    </td>
-    <td> Limited </td>
-    <td> Windows, macOS, Linux </td>
-    <td> Partial </td>
-    <td> Limited </td>
-    <td> Active </td>
-  </tr>
-  <tr>
-    <td> 
-    <a href="https://www.bluestacks.com"> BlueStacks </a>
-    <a href="#footnote2">[2]</a>
-    </td>
-    <td> Yes </td>
-    <td> Windows, macOS (M chip) </td>
-    <td> No </td>
-    <td> Yes </td>
-    <td> Active </td>
-  </tr>
-  <tr>
-    <td> 
-    <a href="https://www.ldplayer.net"> LDPlayer </a>
-    <a href="#footnote3">[3]</a>
-    </td>
-    <td> Yes </td>
-    <td> Windows </td>
-    <td> No </td>
-    <td> Yes </td>
-    <td> Active </td>
-  </tr>
-  <tr>
-    <td> 
-    <a href="https://www.linzhuotech.com/index.php/home/index/xdroid.html"> xDroid </a>
-    <a href="#footnote1">[9]</a>
-    </td>
-    <td> Limited </td>
-    <td> Linux </td>
-    <td> NA </td>
-    <td> Limited </td>
-    <td> Slow </td>
-  </tr>
-  <tr>
-    <td> 
-    <a href="https://mumu.163.com"> MuMu App Player </a>
-    <a href="#footnote5">[5]</a>
-    </td>
-    <td> Yes </td>
-    <td> macOS (M chip) </td>
-    <td> No </td>
-    <td> Yes </td>
-    <td> Active </td>
-  </tr>
-  <tr>
-    <td> 
-    <a href="https://syzs.qq.com/"> 腾讯手游助手 </a>
-    <a href="#footnote5">[6]</a>
-    </td>
-    <td> Yes </td>
-    <td> Windows </td>
-    <td> No </td>
-    <td> Yes </td>
-    <td> Active </td>
-  </tr>
-  <tr>
-    <td> 
-    <a href="https://waydro.id/"> Waydroid </a>
-    <a href="#footnote1">[11]</a>
-    </td>
-    <td> Yes </td>
-    <td> Linux </td>
-    <td> NA </td>
-    <td> Yes </td>
-    <td> Slow </td>
-  </tr>
-  <tr>
-    <td> 
-    <a href="https://anbox-cloud.io/"> AnBox Cloud </a>
-    <a href="#footnote4">[4]</a>
-    </td>
-    <td> Limited </td>
-    <td> Ubuntu </td>
-    <td> NA </td>
-    <td> ? </td>
-    <td> Active </td>
-  </tr>
-  <tr>
-    <td> 
-    <a href="https://www.android-x86.org"> Android-x86 + VM </a>
-    <a href="#footnote6">[7]</a>
-    </td>
-    <td> Yes </td>
-    <td> Windows, macOS, Linux </td>
-    <td> Yes </td>
-    <td> Limited </td>
-    <td> Inactive </td>
-  </tr>
-  <tr>
-    <td> 
-    <a href="https://developer.android.com/studio"> Android SDK + Android Studio </a>
-    <a href="#footnote7">[8]</a>
-    </td>
-    <td> Yes </td>
-    <td> Windows, macOS, Linux </td>
-    <td> ? </td>
-    <td> Yes </td>
-    <td> Active </td>
-  </tr>
-  <tr>
-    <td> 
-    <a href="https://github.com/budtmo/docker-android"> docker-android </a>
-    <a href="#footnote1">[10]</a>
-    </td>
-    <td> Yes </td>
-    <td> Windows, macOS, Linux </td>
-    <td> Yes </td>
-    <td> Limited </td>
-    <td> Active </td>
-  </tr>
-</table>
-
-[1] [GenyMotion](https://www.genymotion.com/) works well.
-
-[2] [BlueStacks](https://www.bluestacks.com/) works well.
-
-[3] [LDPlayer](https://www.ldplayer.net/) is also called 雷电模拟器 in Chinese. It works well.
-
-[4] [AnBox Cloud](https://anbox-cloud.io/) is developed by Canonical and works on Ubuntu only.
-
-[5] [MuMu App Player](https://mumu.163.com/) works well.
-Specially, Tribal Pioneer works on MuMu App Player on macOS.
-
-[7] [Android X86](https://www.android-x86.org/)
-provides ISO images and RPM files for Fedora Linux distributions.
-ISO images can be used with VM tools (such as KVM, VirtualBox, VMware, etc)
-just like you can other operating systems in virtual machines.
-It's currently inactive and ISO images are outdated.
-
-[8] Android SDK and Android Studio works together to emulate software found on Android
-using the resources of your PC.
-Android developers mostly use Android SDK tools for testing and development purposes,
-but it'll work for casual use and play as well.
-
-[9] xDroid can run but has various issues.
-
-[10] Docker-Android is a docker image
-built to be used for everything
-related to mobile website testing and Android project.
-
-[11] Waydroid is a container-based approach to boot a full Android system on Linux.
-It is a successor of AnBox.
 
 ## References
 
@@ -228,3 +118,33 @@ It is a successor of AnBox.
 - [remote-android/redroid-doc @ GitHub](https://github.com/remote-android/redroid-doc)
 
 - [budtmo/docker-android @ GitHub](https://github.com/budtmo/docker-android)
+
+[^1]: [GenyMotion](https://www.genymotion.com/) works well.
+
+[^2]: [BlueStacks](https://www.bluestacks.com/) works well.
+
+[^3]: [LDPlayer](https://www.ldplayer.net/) is also called 雷电模拟器 in Chinese. It works well.
+
+[^9]: xDroid can run but has various issues.
+
+[^5]: [MuMu App Player](https://mumu.163.com/) works well. Specially, Tribal Pioneer works on MuMu App Player on macOS.
+
+[^11]: Waydroid is a container-based approach to boot a full Android system on Linux.
+    It is a successor of AnBox.
+
+[^4]: [AnBox Cloud](https://anbox-cloud.io/) is developed by Canonical and works on Ubuntu only.
+
+[^7]: [Android X86](https://www.android-x86.org/)
+    provides ISO images and RPM files for Fedora Linux distributions.
+    ISO images can be used with VM tools (such as KVM, VirtualBox, VMware, etc)
+    just like you can other operating systems in virtual machines.
+    It's currently inactive and ISO images are outdated.
+
+[^8]: Android SDK and Android Studio works together to emulate software found on Android
+    using the resources of your PC.
+    Android developers mostly use Android SDK tools for testing and development purposes,
+    but it'll work for casual use and play as well.
+
+[^10]: Docker-Android is a docker image
+    built to be used for everything
+    related to mobile website testing and Android project.

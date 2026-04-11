@@ -32,16 +32,6 @@ Virtual machine is the recommend way to emulate Windows working environment on L
     [Get a Windows 10 development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
     offers free Windows 10 virtual machines for developers.
 
-## ReactOS Virtual Machine (Not Recommended)
-
-[ReactOS](https://reactos.org/)
-([@GitHub](https://github.com/reactos/reactos))
-is a free Windows-compatible Operating System
-.
-However,
-ReactOS has been in alpha stage for about 30 years.
-It's not recommended.
-
 ## WinBoat (Strongly Recommended)
 
 [WinBoat](https://www.winboat.app/)
@@ -57,10 +47,10 @@ on GNU/Linux with KDE Plasma, GNOME or XFCE,
 integrated seamlessly as if they were native to the OS.
 WinApps is similar to WinBoat but not as user-friendly as WinBoat.
 
-## WINE, CrossOver
+## WINE-based Approaches (Bottles is Recommended)
 
-WINE and CrossOver requires way less resource than a Windows virtual machine.
-However, 
+1. WINE-based approaches require way less resource than a Windows virtual machine.
+    However, 
 the Windows app you want to run might not be supported by WINE or CrossOver. 
 And even if it works, 
 it might be buggy. 
@@ -68,6 +58,21 @@ For more discussions on WINE and CrossOver,
 please refer to
 [Windows Emulation Using WINE](http://www.legendu.net/misc/blog/wine-tips)
 .
+
+2. [Bottles](https://usebottles.com/)
+    is a great WINE-based tool for running Windows software on Linux!
+    It's very user-friendly.
+
+## ReactOS Virtual Machine (Not Recommended)
+
+[ReactOS](https://reactos.org/)
+([@GitHub](https://github.com/reactos/reactos))
+is a free Windows-compatible Operating System
+.
+However,
+ReactOS has been in alpha stage for about 30 years.
+It's not recommended.
+
 
 ## References 
 
