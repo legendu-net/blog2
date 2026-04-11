@@ -21,11 +21,11 @@ tags:
 :header-rows: 1
 
 *   - Name 
-      Free 
-      OS 
-      Hyper-v Compat on Win
-      ARM-only App Support 
-      Development 
+    - Free 
+    - OS 
+    - Hyper-v Compat on Win
+    - ARM-only App Support 
+    - Development 
 *   - [GenyMotion](https://www.genymotion.com)
     - Limited 
     - Windows, macOS, Linux 
