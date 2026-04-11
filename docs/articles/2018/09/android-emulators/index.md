@@ -74,23 +74,23 @@ tags:
   - ?
   - Active
 - - [Android-x86 + VM](https://www.android-x86.org)[^7]
-  - Yes </td>
-  - Windows, macOS, Linux </td>
-  - Yes </td>
-  - Limited </td>
-  - Inactive </td>
+  - Yes 
+  - Windows, macOS, Linux 
+  - Yes 
+  - Limited 
+  - Inactive 
 - - [Android SDK + Android Studio](https://developer.android.com/studio)[^8]
-    <td> Yes </td>
-    <td> Windows, macOS, Linux </td>
-    <td> ? </td>
-    <td> Yes </td>
-    <td> Active </td>
+  - Yes 
+  - Windows, macOS, Linux 
+  - ? 
+  - Yes 
+  - Active 
 - - [docker-android](https://github.com/budtmo/docker-android)[^10]
-    <td> Yes </td>
-    <td> Windows, macOS, Linux </td>
-    <td> Yes </td>
-    <td> Limited </td>
-    <td> Active </td>
+  - Yes 
+  - Windows, macOS, Linux 
+  - Yes 
+  - Limited 
+  - Active 
 :::
 
 ## References
