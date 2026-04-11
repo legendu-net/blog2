@@ -16,6 +16,30 @@ tags:
   - xDroid
 ---
 
+:::{list-table} Android Emulators
+:widths: auto
+:header-rows: 1
+
+*   - Name 
+      Free 
+      OS 
+      Hyper-v Compat on Win
+      ARM-only App Support 
+      Development 
+*   - [GenyMotion](https://www.genymotion.com)
+    - Limited 
+    - Windows, macOS, Linux 
+    - Partial 
+    - Limited 
+    - Active 
+*   - [AnBox Cloud](https://anbox-cloud.io/)
+    - Limited 
+    - Ubuntu 
+    - NA 
+    - ? 
+    - Active 
+:::
+
 <table style="width:100%">
   <tr>
     <th> Name </th>
@@ -67,7 +91,7 @@ tags:
     <td> Linux </td>
     <td> NA </td>
     <td> Limited </td>
-    <td> Active </td>
+    <td> Slow </td>
   </tr>
   <tr>
     <td> 
@@ -100,29 +124,29 @@ tags:
     <td> Linux </td>
     <td> NA </td>
     <td> Yes </td>
-    <td> Active </td>
+    <td> Slow </td>
   </tr>
   <tr>
     <td> 
     <a href="https://anbox-cloud.io/"> AnBox Cloud </a>
     <a href="#footnote4">[4]</a>
     </td>
-    <td> No </td>
-    <td> Windows, macOS, Linux </td>
+    <td> Limited </td>
+    <td> Ubuntu </td>
     <td> NA </td>
     <td> ? </td>
     <td> Active </td>
   </tr>
   <tr>
     <td> 
-    <a href="https://www.android-x86.org"> Android-x86 + VirtualBox </a>
+    <a href="https://www.android-x86.org"> Android-x86 + VM </a>
     <a href="#footnote6">[7]</a>
     </td>
     <td> Yes </td>
     <td> Windows, macOS, Linux </td>
     <td> Yes </td>
     <td> Limited </td>
-    <td> Active </td>
+    <td> Inactive </td>
   </tr>
   <tr>
     <td> 
@@ -148,58 +172,35 @@ tags:
   </tr>
 </table>
 
-[1] [GenyMotion](https://www.genymotion.com/)
-is a great cross-platform choice.
-A free version with limited features is available.
-The desktop version of GenyMotion
-can be downloaded at
-<https://www.genymotion.com/fun-zone/>
-.
+[1] [GenyMotion](https://www.genymotion.com/) works well.
 
-[2] [BlueStacks](https://www.bluestacks.com/)
-is a good free Android emulator for Windows and Mac.
+[2] [BlueStacks](https://www.bluestacks.com/) works well.
 
-[3] [LDPlayer](https://www.ldplayer.net/) (also called 雷电模拟器 in Chinese)
-is a good free Android emulator for Windows only.
+[3] [LDPlayer](https://www.ldplayer.net/) is also called 雷电模拟器 in Chinese. It works well.
 
-[4] [AnBox](https://anbox.io/)
-is an open-source WINE-like Android emulator for Linux only (CANNOT be run on macOS).
-ARM apps can be run on x86-based Linux OS with Android 11+ images.
-For more details,
-please refer to
-[Run ARM apps on the Android Emulator](https://android-developers.googleblog.com/2020/03/run-arm-apps-on-android-emulator.html)
-.
+[4] [AnBox Cloud](https://anbox-cloud.io/) is developed by Canonical and works on Ubuntu only.
 
-[5] [MuMu App Player](https://mumu.163.com/)
-is an Android emulator develop by the Chinese company Wangyi for Windows and macOS.
-An English version is also availabe at https://mumu.163.com/global/download/en/.
-Tribal Pioneer works on MuMu App Player on macOS!!!
+[5] [MuMu App Player](https://mumu.163.com/) works well.
+Specially, Tribal Pioneer works on MuMu App Player on macOS.
 
 [7] [Android X86](https://www.android-x86.org/)
-is a project to port Android Open Source Project to x86 platform.
-It works across operating systems (Windows, macOS and Linux).
-Android X86 supports provides ISO and RPM files
-rather than an out-of-the-box application.
-You have to install an ISO or RPM file to you device
-which will add an Android operating system to your device.
-You can of course install it into a virutal environemnt (e.g., using VirtualBox)
-which is essentially what other out-of-the-box applications does.
+provides ISO images and RPM files for Fedora Linux distributions.
+ISO images can be used with VM tools (such as KVM, VirtualBox, VMware, etc)
+just like you can other operating systems in virtual machines.
+It's currently inactive and ISO images are outdated.
 
 [8] Android SDK and Android Studio works together to emulate software found on Android
 using the resources of your PC.
 Android developers mostly use Android SDK tools for testing and development purposes,
 but it'll work for casual use and play as well.
 
-[9] xDroid is an Android emulator
-(seems to be a commerical software based on AnBox)
-for Linux only.
-The x86_64 version is free for personal use.
+[9] xDroid can run but has various issues.
 
 [10] Docker-Android is a docker image
 built to be used for everything
 related to mobile website testing and Android project.
 
-[11] Waydroid is a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
+[11] Waydroid is a container-based approach to boot a full Android system on Linux.
 It is a successor of AnBox.
 
 ## References
@@ -217,3 +218,5 @@ It is a successor of AnBox.
 - [Tips on Virtualbox](http://www.legendu.net/misc/blog/virtualbox-tip)
 
 - [x86 Virtualization in Browser](https://copy.sh/v86/)
+
+- [Run ARM apps on the Android Emulator](https://android-developers.googleblog.com/2020/03/run-arm-apps-on-android-emulator.html)
