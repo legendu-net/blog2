@@ -1,7 +1,7 @@
 ---
 title: Android Emulators
 created: 2018-09-12 23:41:58
-date: 2026-04-10 15:23:12.894642
+date: 2026-04-10 18:51:32.172120
 authors:
   - bendu
 label: android-emulators
@@ -20,24 +20,24 @@ tags:
 :widths: auto
 :header-rows: 1
 
-*   - Name 
-    - Free 
-    - OS 
-    - Hyper-v Compat on Win
-    - ARM-only App Support 
-    - Development 
-*   - [GenyMotion](https://www.genymotion.com)
-    - Limited 
-    - Windows, macOS, Linux 
-    - Partial 
-    - Limited 
-    - Active 
-*   - [AnBox Cloud](https://anbox-cloud.io/)
-    - Limited 
-    - Ubuntu 
-    - NA 
-    - ? 
-    - Active 
+- - Name
+  - Free
+  - OS
+  - Hyper-v Compat on Win
+  - ARM-only App Support
+  - Development
+- - [GenyMotion](https://www.genymotion.com)
+  - Limited
+  - Windows, macOS, Linux
+  - Partial
+  - Limited
+  - Active
+- - [AnBox Cloud](https://anbox-cloud.io/)
+  - Limited
+  - Ubuntu
+  - NA
+  - ?
+  - Active
 :::
 
 <table style="width:100%">
@@ -220,3 +220,11 @@ It is a successor of AnBox.
 - [x86 Virtualization in Browser](https://copy.sh/v86/)
 
 - [Run ARM apps on the Android Emulator](https://android-developers.googleblog.com/2020/03/run-arm-apps-on-android-emulator.html)
+
+- [HQarroum/docker-android @ GitHub](https://github.com/HQarroum/docker-android)
+
+- [Shmayro/dockerify-android @ GitHub](https://github.com/Shmayro/dockerify-android)
+
+- [remote-android/redroid-doc @ GitHub](https://github.com/remote-android/redroid-doc)
+
+- [budtmo/docker-android @ GitHub](https://github.com/budtmo/docker-android)

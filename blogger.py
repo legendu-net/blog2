@@ -9,6 +9,7 @@ import itertools as it
 import json
 import os
 from pathlib import Path
+import re
 import shutil
 import sqlite3
 import subprocess as sp
@@ -65,6 +66,9 @@ def add_spells(pairs: Iterable[tuple[str, str]]) -> None:
 
 def extract_url_title(url: str) -> str:
     """Extract the title of a web page."""
+    url = url.strip("/")
+    if re.search("^https://github.com/\w+/\w+$", url):
+        return "/".join(url.split("/")[-2:]) + " @ GitHub"
     response = requests.get(url)
     soup = BeautifulSoup(response.content, "html.parser")
     if not soup.title:
