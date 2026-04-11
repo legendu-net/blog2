@@ -1,19 +1,20 @@
 ---
 title: Don't Do Statistics If You Don't Really Undestand It
 created: 2015-04-10 07:50:16
-date: 2026-04-05 19:42:37.450580
+date: 2026-04-11 14:11:38.979839
 authors:
-- bendu
-label: don't-do-statistics-if-you-don't-really-undestand-it
+  - bendu
+label: don-t-do-statistics-if-you-don-t-really-undestand-it
 license: CC-BY-4.0
 tags:
-- statistics
-- independence
-- linear model
-- linear regression
-- hypothesis test
-- Ljung-Box test
+  - statistics
+  - independence
+  - linear model
+  - linear regression
+  - hypothesis test
+  - Ljung-Box test
 ---
+
 <img src="http://dclong.github.io/media/statistics/lie.jpg" height="200" width="240" align="right"/>
 
 > Lies, damned lies, and statistics.

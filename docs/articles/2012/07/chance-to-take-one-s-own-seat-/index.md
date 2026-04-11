@@ -1,18 +1,19 @@
 ---
 title: Chance to Take One's Own Seat?
 created: 2012-07-10 13:13:46
-date: 2026-04-05 19:46:14.517344
+date: 2026-04-11 14:11:38.975330
 authors:
-- bendu
-label: chance-to-take-one's-own-seat-
+  - bendu
+label: chance-to-take-one-s-own-seat-
 license: CC-BY-4.0
 tags:
-- statistics
-- recursion
-- probability
-- fun problems
-- seat
+  - statistics
+  - recursion
+  - probability
+  - fun problems
+  - seat
 ---
+
 <img src="http://dclong.github.io/media/seat/seat.jpg" height="200" width="240" align="right"/>
 
 There are $N$ seats on a plane.
