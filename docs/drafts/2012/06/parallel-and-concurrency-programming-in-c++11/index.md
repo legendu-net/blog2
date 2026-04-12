@@ -22,11 +22,12 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 
-[GNU/GCC]: http://dclong.github.io/en/2012/06/tips-gcc-compiler/
 
 0. If you use g++ to compile your parallel program which uses the thread library,
     you need to use the option `-lpthread`. 
-    For more information, see the post [GNU/GCC][].
+    For more information, 
+    see the post [Tips on C++ Compilers](tips-on-c++-compilers)
+    .
 
 1. The `join` method of threads guarantees happen-before relationship between threads.
 
