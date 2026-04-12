@@ -15,7 +15,7 @@ tags:
 - R
 - high dimension
 ---
-<img src="http://www.legendu.net/media/math/matrix-inverse.png"
+<img src="/media/math/matrix-inverse.png"
 width="200" height="160" align="right"/>
 
 One day, my officemate Tieming asked me about a problem that she met in her research. 

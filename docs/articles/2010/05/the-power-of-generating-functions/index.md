@@ -26,7 +26,7 @@ Finally I found someone from Sydney University was asking for help on this quest
 
 (c) An=Ln-1So + Ln-2S1 + … + LoSn-1, please find a closed formula for An.
 
-I gave a solution using generating functions. See [sequence](http://www.legendu.net/media/sequence.pdf).
+I gave a solution using generating functions. See [sequence](/media/sequence.pdf).
 
 If you're from math department, 
 you might question that do these series defined converge, 

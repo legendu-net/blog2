@@ -70,10 +70,10 @@ and both of them increase as $k$ increases.
 This makes it hard for us to predict $X_k$ when $k$ is big.
 The 2-$\sigma$ intervals for $X_k$ is shown in the follow figure. 
 
-<img src="http://www.legendu.net/media/basketball-player/interval.png" 
+<img src="/media/basketball-player/interval.png" 
 height="200" width="240" align="middle"/>
 <!---
-![a picture](http://www.legendu.net/media/basketball-player/interval.png) 
+![a picture](/media/basketball-player/interval.png) 
 -->
 
 Since we know the distribution of the number of sinked shots 

@@ -22,7 +22,7 @@ tags:
 ---
 [mitbbs]: http://www.mitbbs.com/
 
-<img src="http://www.legendu.net/media/object/money-1.jpeg"
+<img src="/media/object/money-1.jpeg"
 width="240" height="200" align="right" />
 
 A few days ago I found someone asking an interview questions on [mitbbs][].

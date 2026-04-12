@@ -15,7 +15,7 @@ tags:
   - poker
 ---
 
-<img src="http://www.legendu.net/media/poker/poker.jpg" height="200" width="240" align="right"/>
+<img src="/media/poker/poker.jpg" height="200" width="240" align="right"/>
 
 Suppose a poker games requires 4 decks of poker.
 After the game, the cards are put back into the 4 decks randomly.
@@ -178,4 +178,4 @@ decks of poker. However, we do not have to open too many decks of poker, e.g., 4
 yield a remarkable success probability even if many (e.g., 100) decks of pokers are involved.
 ![Probability]
 
-[probability]: http://www.legendu.net/media/poker/probability.png
+[probability]: /media/poker/probability.png

@@ -19,7 +19,7 @@ tags:
 ---
 
 [SFMT]: http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/SFMT/#dSFMT
-[Thread Safe Random Number Generator]: http://www.legendu.net/media/rng/smt.h
+[Thread Safe Random Number Generator]: /media/rng/smt.h
 
 In pratice,
 the approach of separate RNGs with different seeds for threads/processes
@@ -39,7 +39,7 @@ please refer to
 [Summary on Random Number Generators](https://www.legendu.net/en/blog/summary-random-number-generators/)
 .
 
-<img src="http://www.legendu.net/media/rng/random-number-generator.png" height="200" width="240" align="right"/>
+<img src="/media/rng/random-number-generator.png" height="200" width="240" align="right"/>
 
 In statistical simulation, a thread safe random number generator is often useful. 
 Thread safty can be achieved by synchronize public methods of random number generator engines. 

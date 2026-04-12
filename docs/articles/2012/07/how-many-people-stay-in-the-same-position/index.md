@@ -16,7 +16,7 @@ tags:
   - permutation
 ---
 
-<img src="http://www.legendu.net/media/people/same.jpg" width="240" height="200" align="right">
+<img src="/media/people/same.jpg" width="240" height="200" align="right">
 
 There are 100 seats on a plane.
 If each of the 100 passengers randomly take a seat,

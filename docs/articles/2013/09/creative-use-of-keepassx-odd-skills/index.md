@@ -13,7 +13,7 @@ tags:
   - fun problems
 ---
 
-<img src="http://www.legendu.net/media/logo/keepassx.jpeg"
+<img src="/media/logo/keepassx.jpeg"
 width="200" height="160" align="right"/>
 
 I had to schedule an event on Doodle.

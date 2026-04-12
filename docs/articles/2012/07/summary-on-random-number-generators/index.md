@@ -17,7 +17,7 @@ tags:
 - Java
 - Python
 ---
-<img src="http://www.legendu.net/media/rng/random-number-generator.png" height="200" width="240" align="right"/>
+<img src="/media/rng/random-number-generator.png" height="200" width="240" align="right"/>
 
 ## [Xoshiro](https://prng.di.unimi.it/)
 
