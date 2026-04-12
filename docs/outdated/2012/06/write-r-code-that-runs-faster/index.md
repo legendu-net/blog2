@@ -21,7 +21,7 @@ tags:
 ---
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-<img src="http://dclong.github.io/media/r/run-fast.jpg" height="200" width="240" align="right"/>
+<img src="/media/r/run-fast.jpg" height="200" width="240" align="right"/>
 
 R is a popular statistical software which is famous for enormous amout of
 packages. The syntax of R is very flexible with make it convenient at the cost

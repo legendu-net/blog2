@@ -15,7 +15,7 @@ tags:
 
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-<img src="http://dclong.github.io/media/r/r.png" height="200" width="240" align="right"/>
+<img src="/media/r/r.png" height="200" width="240" align="right"/>
 
 The following are some tips for using the old fashioned way (using `.C` and `.Call`) 
 to write R extensions. 

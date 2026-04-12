@@ -13,7 +13,7 @@ tags:
 - Linux
 - temperature
 ---
-<img src="http://dclong.github.io/media/computer/hot.jpg" height="200" width="240" align="right"/>
+<img src="/media/computer/hot.jpg" height="200" width="240" align="right"/>
 
 First you have to install package "lm-sensors". 
 

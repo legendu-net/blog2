@@ -18,7 +18,7 @@ tags:
 
 [Weekly Builds of Debian Testing Image]: http://cdimage.debian.org/cdimage/weekly-builds/amd64/jigdo-dvd/
 
-<img src="http://dclong.github.io/media/linux/debian.png" height="200" width="240" align="right"/>
+<img src="/media/linux/debian.png" height="200" width="240" align="right"/>
 
 You can save a lot of time using Jigdo to download Debian image 
 especially when you have an old version of the image. 

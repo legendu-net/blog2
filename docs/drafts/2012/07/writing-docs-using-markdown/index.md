@@ -14,7 +14,7 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 
-<img src="http://dclong.github.io/media/markdown/markdown.gif" height="200" width="240" align="right"/>
+<img src="/media/markdown/markdown.gif" height="200" width="240" align="right"/>
 
 ## Markdown Standard
 

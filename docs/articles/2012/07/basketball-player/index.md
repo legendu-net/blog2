@@ -14,9 +14,9 @@ tags:
   - basket ball player
 ---
 
-[Table 1]: http://dclong.github.io/media/basketball-player/table.pdf
+[Table 1]: /media/basketball-player/table.pdf
 
-<img src="http://dclong.github.io/media/basketball-player/basketball.jpg" 
+<img src="/media/basketball-player/basketball.jpg" 
 height="200" width="240" align="right"/>
 
 Suppose a basketball player make $N$ shots,

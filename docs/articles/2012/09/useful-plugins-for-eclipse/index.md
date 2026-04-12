@@ -17,7 +17,7 @@ tags:
   - addons
 ---
 
-<img src="http://dclong.github.io/media/eclipse/cdt.png" height="200" width="240" align="right"/>
+<img src="/media/eclipse/cdt.png" height="200" width="240" align="right"/>
 
 ## Terminal Plug-in
 

@@ -15,7 +15,7 @@ tags:
 
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-<img src="http://dclong.github.io/media/r/r.png" height="200" width="240" align="right"/>
+<img src="/media/r/r.png" height="200" width="240" align="right"/>
 
 1. Usually when we check whether two double values equal or not, we
     would check whether they're close enough or not. This is due to

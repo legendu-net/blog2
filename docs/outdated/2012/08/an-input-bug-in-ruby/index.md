@@ -16,7 +16,7 @@ tags:
 ---
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-<img src="http://dclong.github.io/media/computer/bug.jpg" height="200" width="240" align="right"/>
+<img src="/media/computer/bug.jpg" height="200" width="240" align="right"/>
 
 If you run a ruby program though Bash 
 and the ruby program read multiple inputs from the console, 

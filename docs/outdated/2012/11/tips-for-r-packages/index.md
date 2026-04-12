@@ -25,7 +25,7 @@ that the author does not plan to update any more.
 Please look for better alternatives.
 **
  
-<img src="http://dclong.github.io/media/r/r.png" height="200" width="240" align="right"/>
+<img src="/media/r/r.png" height="200" width="240" align="right"/>
 
 
 Popular Repositories for R Packages

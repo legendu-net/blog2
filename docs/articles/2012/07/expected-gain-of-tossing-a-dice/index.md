@@ -14,11 +14,11 @@ tags:
 - Markov chain
 - fun problems
 ---
-[table 1]: http://dclong.github.io/media/dice/tables.pdf
-[table 2]: http://dclong.github.io/media/dice/tables.pdf
-[dice]: http://dclong.github.io/media/dice/dice.png
+[table 1]: /media/dice/tables.pdf
+[table 2]: /media/dice/tables.pdf
+[dice]: /media/dice/dice.png
 
-<img src="http://dclong.github.io/media/dice/dice.png" height="200" width="240" align="right"/>
+<img src="/media/dice/dice.png" height="200" width="240" align="right"/>
 
 Suppose you toss a symmetric dice. 
 You are allowed to quit the game and

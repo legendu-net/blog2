@@ -20,7 +20,7 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 
-<img src="http://dclong.github.io/media/java/multithreading.png" height="200" width="240" align="right"/>
+<img src="/media/java/multithreading.png" height="200" width="240" align="right"/>
 
 The following are a few tips for multithreading parallel computing in Java.
 

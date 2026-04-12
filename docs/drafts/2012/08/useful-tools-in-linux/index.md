@@ -18,7 +18,7 @@ tags:
 ---
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-<img src="http://dclong.github.io/media/linux/linux.png" height="200" width="240" align="right"/>
+<img src="/media/linux/linux.png" height="200" width="240" align="right"/>
 
 [IceWalkers](http://www.icewalkers.com/) is a great place
 to find software/tools for all kinds of purposes.

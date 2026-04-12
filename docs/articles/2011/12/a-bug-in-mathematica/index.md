@@ -11,7 +11,7 @@ tags:
 - programming
 - bug
 ---
-<img src="http://dclong.github.io/media/computer/bug.jpg" height="200" width="240" align="right"/>
+<img src="/media/computer/bug.jpg" height="200" width="240" align="right"/>
 
 Mathematica is a very intelligent and powerful math software. 
 I use it in my study and research a lot. 

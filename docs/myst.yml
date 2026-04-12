@@ -2,6 +2,17 @@
 version: 1
 project:
   id: 156f57df-de06-4b9d-81b1-8502cfd5ecf0
+  settings:
+    parser:
+      #colon_fence: true
+      #dollarmath: true
+      #linkify: true      
+      #substitution: true
+      #attrs_inline: true
+      #colon_fence: false
+  jupyter:
+    binder:
+      repo: https://github.com/jupyter-book/thebe-binder-base
   # title:
   # description:
   # keywords: []
@@ -38,4 +49,10 @@ site:
     html_theme_options:
       default_mode: light
     #hide_outline: true
-
+#parse:
+#  myst_enable_extensions:
+#    - colon_fence
+#    - dollarmath
+#    - linkify
+#    - substitution
+#    - attrs_inline

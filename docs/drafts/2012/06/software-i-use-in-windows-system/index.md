@@ -17,7 +17,7 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 
-<img src="http://dclong.github.io/media/windows/windows.png" height="200" width="240" align="right"/>
+<img src="/media/windows/windows.png" height="200" width="240" align="right"/>
 
 Below is a list of software that I use on Windows.
 Please refer to 

@@ -16,7 +16,7 @@ tags:
 ---
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-<img src="http://dclong.github.io/media/r/mistake.jpg" height="200" width="240" align="right"/>
+<img src="/media/r/mistake.jpg" height="200" width="240" align="right"/>
 
 Being flexible is a two-side sword to R. 
 While it make it convenient and productive to use R,

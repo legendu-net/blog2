@@ -11,7 +11,7 @@ tags:
 - reference
 - programming
 ---
-<img src="http://dclong.github.io/media/cpp/left-right.jpg" height="180" width="200" align="right"/>
+<img src="/media/cpp/left-right.jpg" height="180" width="200" align="right"/>
 
 ## Difference betwen Lvalue and Rvalue Reference
 

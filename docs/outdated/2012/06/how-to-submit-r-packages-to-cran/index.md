@@ -17,7 +17,7 @@ tags:
 ---
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-<img src="http://dclong.github.io/media/r/r.png" height="200" width="240" align="right"/>
+<img src="/media/r/r.png" height="200" width="240" align="right"/>
 Submit using [web form](http://xmpalantir.wu.ac.at/cransubmit/) or using ftp following the steps below.
 
 1. Upload the .tar.gz file using **anonymous** as log-in name 

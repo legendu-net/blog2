@@ -17,12 +17,12 @@ tags:
 - martingale
 - fun problems
 ---
-[more examples and results]: http://dclong.github.io/media/pattern/pattern-time-examples.pdf 
-[code]: http://dclong.github.io/media/pattern/pattern.cdf
+[more examples and results]: /media/pattern/pattern-time-examples.pdf 
+[code]: /media/pattern/pattern.cdf
 [Which One Is the Best Strategy?]: http://dclong.github.io/en/blog/best-strategy/
 [Which One Is the Best Strategy? (continued)]: http://dclong.github.io/en/blog/best-strategy-2/
 
-<img src="http://dclong.github.io/media/pattern/coin.jpg" height="200" width="240" align="right"/>
+<img src="/media/pattern/coin.jpg" height="200" width="240" align="right"/>
 
 There are many interesting while at the same time very tricky problems in
 statistics. One famous question is that how many steps (expected) does

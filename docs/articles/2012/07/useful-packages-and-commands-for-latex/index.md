@@ -18,7 +18,7 @@ tags:
 - math
 - graphics
 ---
-<img src="http://dclong.github.io/media/latex/latex.gif" height="200" width="240" align="right"/>
+<img src="/media/latex/latex.gif" height="200" width="240" align="right"/>
 
 ## Math Packages
 

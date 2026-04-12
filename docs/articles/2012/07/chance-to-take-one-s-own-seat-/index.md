@@ -14,7 +14,7 @@ tags:
   - seat
 ---
 
-<img src="http://dclong.github.io/media/seat/seat.jpg" height="200" width="240" align="right"/>
+<img src="/media/seat/seat.jpg" height="200" width="240" align="right"/>
 
 There are $N$ seats on a plane.
 Suppose the first passengers is drunk and he takes a seat randomly.

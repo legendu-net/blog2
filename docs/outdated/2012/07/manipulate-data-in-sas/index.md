@@ -15,7 +15,7 @@ tags:
 ---
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-<img src="http://dclong.github.io/media/sas/sas.jpg" height="200" width="240" align="right"/>
+<img src="/media/sas/sas.jpg" height="200" width="240" align="right"/>
 
 ## Data Manipulation
 

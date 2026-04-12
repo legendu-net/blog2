@@ -11,7 +11,7 @@ tags:
 - software
 - eclipse
 ---
-<img src="http://dclong.github.io/media/eclipse/cdt.png" height="200" width="240" align="right"/>
+<img src="/media/eclipse/cdt.png" height="200" width="240" align="right"/>
 
 1. Make a new C++ project
 

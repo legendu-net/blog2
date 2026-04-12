@@ -15,7 +15,7 @@ tags:
   - Ljung-Box test
 ---
 
-<img src="http://dclong.github.io/media/statistics/lie.jpg" height="200" width="240" align="right"/>
+<img src="/media/statistics/lie.jpg" height="200" width="240" align="right"/>
 
 > Lies, damned lies, and statistics.
 

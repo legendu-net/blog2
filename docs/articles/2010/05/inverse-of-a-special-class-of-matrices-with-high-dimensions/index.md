@@ -24,7 +24,7 @@ and $\boldsymbol{D}$ is a diagonal matrix with nonnegative diagonal elements.
 The inverse of $\boldsymbol{B}$ is already known, 
 how can we calculate the inverse of $\boldsymbol{B}+\boldsymbol{D}$ efficiently? 
 I thought for a while and found a good way to solve the problem. 
-See solution in [Inverse of Matrix](http://dclong.github.io/media/inverse-of-matrix.pdf).
+See solution in [Inverse of Matrix](/media/inverse-of-matrix.pdf).
 
 I haven't implemented the algorithm yet, 
 but a roughly estimate of the complexity of this algorithm tells me that even R can handle it. 

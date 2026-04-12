@@ -16,11 +16,11 @@ tags:
 - coin
 - fun problems
 ---
-[Table 1]: http://dclong.github.io/media/pattern/pattern-first-out-probability.pdf
+[Table 1]: /media/pattern/pattern-first-out-probability.pdf
 [How Long Does It Take to Observe a Sequence?]: http://dclong.github.io/en/blog/how-long-observe-pattern/
 [Which One Is the Best Strategy?]: http://dclong.github.io/en/blog/best-strategy/ 
 
-<img src="http://dclong.github.io/media/pattern/coin.jpg" height="200" width="240" align="right"/>
+<img src="/media/pattern/coin.jpg" height="200" width="240" align="right"/>
 
 Suppose we flip a coin which has probability 0.7 to be head again 
 and again and two people choose two different sequences of length 3 (e.g., THH). 

@@ -15,7 +15,7 @@ tags:
 - WYSIWYG
 - TeXstudio
 ---
-<img src="http://dclong.github.io/media/bravo/bravo.jpg" height="200" width="240" align="right"/>
+<img src="/media/bravo/bravo.jpg" height="200" width="240" align="right"/>
 
 I have heard about 
 [TeXstudio](https://github.com/texstudio-org/texstudio)

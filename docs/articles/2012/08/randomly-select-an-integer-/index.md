@@ -16,7 +16,7 @@ tags:
 ---
 [COS]: http://www.legendu.net/en/tag/fun-problems.html
 
-<img src="http://dclong.github.io/media/number/numbers.jpg" height="200" width="240" align="right"/>
+<img src="/media/number/numbers.jpg" height="200" width="240" align="right"/>
 
 I found this "probability" problem when I read a person's blog. 
 

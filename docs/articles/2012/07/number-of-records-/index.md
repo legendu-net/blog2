@@ -13,7 +13,7 @@ tags:
 - permutation
 - fun problems
 ---
-<img src="http://dclong.github.io/media/records/break-record.jpg" height="200" width="240" align="right"/>
+<img src="/media/records/break-record.jpg" height="200" width="240" align="right"/>
 
 Suppose there are $n$ distinct numbers $x_1,\ldots, x_n$,
  and $y_1, \ldots, y_n$ is a random permutations of them.
@@ -22,4 +22,4 @@ Suppose there are $n$ distinct numbers $x_1,\ldots, x_n$,
  (we always count $y_1$ as a record).
  What is the expected number of records in $y_1, \ldots, y_n$?
 
-See my neat solution [here](http://dclong.github.io/media/records/records.pdf).
+See my neat solution [here](/media/records/records.pdf).

@@ -14,9 +14,9 @@ tags:
 - fun problems
 - statistic
 ---
-<img src="http://dclong.github.io/media/ball-box/empty-box.png" height="200" width="240" align="right"/>
+<img src="/media/ball-box/empty-box.png" height="200" width="240" align="right"/>
 
 If we randomly put $n(\ge1)$ balls into $m(\ge1)$ boxes, 
 what is the expectation of the number of empty boxes?
 
-See my neat answer [here](http://dclong.github.io/media/ball-box/empty-box.pdf).
+See my neat answer [here](/media/ball-box/empty-box.pdf).

@@ -14,7 +14,7 @@ tags:
 ---
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-<img src="http://dclong.github.io/media/sas/sas.jpg" height="200" width="240" align="right"/>
+<img src="/media/sas/sas.jpg" height="200" width="240" align="right"/>
 
 2. There are functions to add points, lines and legends to an existing plot in R.
 In SAS, there is no way to do this. 

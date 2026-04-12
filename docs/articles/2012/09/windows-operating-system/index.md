@@ -13,7 +13,7 @@ tags:
 - Dropbox
 - OS
 ---
-<img src="http://dclong.github.io/media/windows/windows.png" height="200" width="240" align="right"/>
+<img src="/media/windows/windows.png" height="200" width="240" align="right"/>
 
 ## Tips and Traps
 

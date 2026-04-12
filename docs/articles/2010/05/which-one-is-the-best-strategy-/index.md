@@ -18,7 +18,7 @@ tags:
 - MATLAB
 - best strategy
 ---
-<img src="http://dclong.github.io/media/pattern/coin.jpg" height="200" width="240" align="right"/>
+<img src="/media/pattern/coin.jpg" height="200" width="240" align="right"/>
 
 Another interesting problem I met in statistic is: 
 suppose we flip a coin which has probability 0.7 to be head again and again 

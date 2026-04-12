@@ -16,7 +16,7 @@ tags:
 ---
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-<img src="http://dclong.github.io/media/ruby/ruby.png" height="200" width="240" align="right"/>
+<img src="/media/ruby/ruby.png" height="200" width="240" align="right"/>
 
 A few days ago, I started writing my first Ruby program which read my Verizon
 family plan statements, calculate bills for each member and send emails to

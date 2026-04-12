@@ -13,7 +13,7 @@ tags:
 - R
 - bug
 ---
-<img src="http://dclong.github.io/media/computer/bug.jpg" height="200" width="240" align="right"/>
+<img src="/media/computer/bug.jpg" height="200" width="240" align="right"/>
 
 I encountered an input/output bug in R in Linux system. 
 The symptom is that input and output are not displayed in the terminal 

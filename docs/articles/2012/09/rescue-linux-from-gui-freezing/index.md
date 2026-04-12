@@ -16,11 +16,7 @@ tags:
   - desktop environment
 ---
 
-<img src="http://dclong.github.io/media/computer/computer.gif" height="200" width="240" align="right"/>
-
-![](http://dclong.github.io/media/computer/computer.gif){h=200 w=240 align=center}
-
-![](media/computer/computer.gif){h=200 w=240 align=center}
+<img src="/media/computer/computer.gif" height="200" width="240" align="right"/>
 
 The kernel of Linux is usually very stable, 
 but the existing free desktop environments are craps. 

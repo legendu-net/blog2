@@ -11,9 +11,9 @@ tags:
 - probability
 - fun problems
 ---
-<img src="http://dclong.github.io/media/ball-box/ball-in-box.jpg" height="200" width="240" align="right"/>
+<img src="/media/ball-box/ball-in-box.jpg" height="200" width="240" align="right"/>
 
 If we randomly put balls into $m(\ge1)$ boxes until $n(\le m)$ of them are occupied,
 what is the expectation of the number of balls needed?
 
-See my neat solution [here](http://dclong.github.io/media/ball-box/balls.pdf).
+See my neat solution [here](/media/ball-box/balls.pdf).

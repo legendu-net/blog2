@@ -16,7 +16,7 @@ tags:
   - product
 ---
 
-<img src="http://dclong.github.io/media/pk/pk.jpg" height="200" width="240" align="right"/>
+<img src="/media/pk/pk.jpg" height="200" width="240" align="right"/>
 
 Note: Please refer to [The Sum and Product Puzzle](the-sum-and-product-puzzle)
 for a better discussion of the problem.

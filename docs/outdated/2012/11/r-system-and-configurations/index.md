@@ -15,7 +15,7 @@ tags:
 
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-<img src="http://dclong.github.io/media/r/r.png" height="200" width="240" align="right"/>
+<img src="/media/r/r.png" height="200" width="240" align="right"/>
 
 1. To allow opening R from a directory in R in Windows system, we can
 modify the registry. More specifically, we can add a command name

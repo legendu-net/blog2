@@ -77,7 +77,7 @@ P_{\bigtriangleup} &= 1 - \left(P(l_1 \ge \frac{1}{2}) + P(l_2 \ge \frac{1}{2}) 
 ### Method II: Visualization
 <div align="middle">
     <figure>
-        <img src="http://dclong.github.io/media/fun_problems/triangle/triangle.jpg" 
+        <img src="/media/fun_problems/triangle/triangle.jpg" 
         alt="Probability to Form a Triangle" 
         height="400" width="400"/>
         <figcaption>
@@ -180,7 +180,7 @@ The R code used to generate Figure 1 is given below.
 ### Method III: Order Statistics
 <div align="middle">
     <figure>
-        <img src="http://dclong.github.io/media/fun_problems/triangle/order_stat.jpg" 
+        <img src="/media/fun_problems/triangle/order_stat.jpg" 
         alt="Probability to Form a Triangle" 
         height="400" width="400"/>
         <figcaption>
