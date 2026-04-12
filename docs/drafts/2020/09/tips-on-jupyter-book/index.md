@@ -19,6 +19,8 @@ tags:
 
 icon jb -ic
 
+[MyST Markdown Sandbox](https://mystmd.org/sandbox)
+
 ## Configuration 
 
 `icon jb -c` creates a copy of configuration file `_config.yml` in the current directory.

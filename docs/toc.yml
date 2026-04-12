@@ -1083,3 +1083,4 @@ project:
             - title: "Nov"
               children:
                 - pattern: outdated/2009/11/*/*.md
+    - file: tags.md

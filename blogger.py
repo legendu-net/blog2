@@ -40,6 +40,7 @@ POSTS_COLS = [
     "created",
     "date",
     "title",
+    "label",
     "tags",
     "content",
     "empty",
@@ -179,6 +180,7 @@ class Post:
         self.metadata = {}
         self.lines = []
         self.notebook = {}
+        self._label_to_use = ""
         self._set_path(path)
 
     def change_doc_dir(self, doc_dir: str):
@@ -228,6 +230,7 @@ class Post:
             idx += 1
         self.lines = lines[idx:]
         self._check_disclaimer()
+        self._label_to_use = self.label_to_use()
         return self
 
     def _is_disclaimer_valid(self) -> tuple[bool, bool]:
@@ -257,7 +260,7 @@ class Post:
         self._doc_dir = self.path.parts[1]
         self.is_markdown = path.suffix == MARKDOWN
 
-    def label(self) -> str:
+    def label_to_use(self) -> str:
         if next(iter(self.metadata.keys()), "") == "label":
             return self.metadata["label"]
         return _label(self.metadata["title"])
@@ -269,7 +272,7 @@ class Post:
         :return: 1 if mismatch and 0 otherwise.
         """
         return (
-            self.label() == self.metadata["label"]
+            self._label_to_use == self.metadata["label"]
             and self.metadata["label"] == self.path.parts[4]
         )
 
@@ -335,6 +338,7 @@ class Post:
             self.metadata["created"],
             self.metadata["date"],
             self.metadata["title"],
+            self._label_to_use,
             tags,
             content,
             int(self._is_post_empty()),
@@ -361,14 +365,13 @@ class Post:
 
     def match_title(self) -> None:
         """Make the post's slug and path name match its title."""
-        label_new = self.label()
         self.update_meta_field(
             {
-                "label": label_new,
+                "label": self._label_to_use,
             }
         )
         dir_ = self.path.parent
-        dir_new = dir_.with_name(label_new)
+        dir_new = dir_.with_name(self._label_to_use)
         dir_.move(dir_new)
         self._set_path(dir_new / self.path.name)
 
@@ -449,7 +452,7 @@ class Blogger:
     POSTS = "posts"
     SRPS = "srps"
     ACCESSED = "accessed"
-    SRPS_COLS = "path, title, doc_dir"
+    SRPS_COLS = "path, title, label"
     ACCESSED_COLS = "path, atime, updated"
 
     def __init__(self, db: str = ""):
@@ -751,21 +754,52 @@ class Blogger:
             """
         return [row[0] for row in self._conn.execute(sql, params)]
 
-    def tags(self, where: str = ""):
+    def gen_tags_md(self) -> None:
+        with Path(BASE_DIR / "docs/tags.md").open("w", encoding="utf-8") as fout:
+            fout.write(
+                "---\n"
+                "site:\n"
+                "  hide_title_block: true\n"
+                "  hide_outline: true\n"
+                "---\n"
+                "\n"
+                "# Tags\n"
+                "\n"
+                '<div style="margin-top: 1em;">\n'
+                "\n"
+                "## Tags\n"
+                "\n"
+                "</div>\n"
+                "\n"
+            )
+            for tag, links in self.tags(
+                where="doc_dir != 'outdated'",
+                order_by="date DESC",
+            ):
+                if len(links) <= 1:
+                    continue
+                fout.write("```{dropdown} " + f"{tag} ({len(links)})\n\n")
+                for link in links:
+                    fout.write(f"- {link}\n")
+                fout.write("```\n\n")
+
+    def tags(self, where: str = "", order_by: str = "") -> list[tuple[str, list[str]]]:
         """Get all tags and their frequencies in all posts.
 
         :param where: A filtering condition.
         """
-        tags = {}
+        kvs = {}
         sql = f"""
-            SELECT tags FROM {self.POSTS}
+            SELECT title, label, tags FROM {self.POSTS}
             {"WHERE " + where if where else ""}
+            {"ORDER BY " + order_by if order_by else ""}
             """
-        for row in self._conn.execute(sql):
-            for tag in row[0].strip(TAG_SEPARATOR).split(TAG_SEPARATOR):
-                tags.setdefault(tag, 0)
-                tags[tag] += 1
-        return sorted(tags.items(), key=lambda pair: pair[1], reverse=True)
+        for title, label, tags in self._conn.execute(sql):
+            link = f"[{title}]({label})"
+            for tag in tags.strip(TAG_SEPARATOR).split(TAG_SEPARATOR):
+                kvs.setdefault(tag, [])
+                kvs[tag].append(link)
+        return sorted(kvs.items(), key=lambda pair: len(pair[1]), reverse=True)
 
     def num_srps(self) -> int:
         row = self._conn.execute(f"SELECT count(*) FROM {self.SRPS}").fetchone()
@@ -781,10 +815,10 @@ class Blogger:
             {f"LIMIT {n}" if n else ""}
             """
         ):
-            rowid, path, title, doc_dir = row
+            rowid, path, title, label = row
             parts = list(Path(path).parts[0:5])
             parts[0] = SITE
             url = "/".join(parts)
-            print(f"\n{rowid}: [{title}]({parts[4]})")
+            print(f"\n{rowid}: [{title}]({label})")
             print(f"    {url}  |  {path}")
         print("")

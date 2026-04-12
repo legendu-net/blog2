@@ -222,6 +222,7 @@ def gen_toc(path: str | Path = BASE_DIR / "docs/toc.yml") -> None:
             _gen_toc_dir("articles"),
             _gen_toc_dir("drafts"),
             _gen_toc_dir("outdated"),
+            "    - file: tags.md",
         ]
     )
     if isinstance(path, str):
@@ -393,6 +394,7 @@ def auto_git_push(blogger, args):
     """Push changes in this repository."""
     blogger.update_changed()
     gen_toc()
+    blogger.gen_tags_md()
     cmd = f"""git -C {BASE_DIR} add . \
             && git -C {BASE_DIR} commit -m ..."""
     sp.run(cmd, shell=True, check=False)

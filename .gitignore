@@ -15,3 +15,6 @@ wheels/
 
 # Jupyter-Book
 _build/
+
+## Misc
+urls.txt
