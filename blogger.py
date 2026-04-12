@@ -755,35 +755,39 @@ class Blogger:
         return [row[0] for row in self._conn.execute(sql, params)]
 
     def gen_tags_md(self) -> None:
+        
+        def _num_links(k: str) -> int:
+            return sum(len(tags[t]) for t in ids[k])
+
+        tags = self.tags(
+            where="doc_dir != 'outdated'",
+            order_by="date DESC",
+        )
+        ids = {}
+        for tag in tags:
+            k = "tag-" + _label(tag)
+            ids.setdefault(k, [])
+            ids[k].append(tag)
+        keys = [(k, n) for k in ids if (n:=_num_links(k)) > 1]
+        keys.sort(key=lambda pair: pair[1], reverse=True)
+        # write into tags.md
         with Path(BASE_DIR / "docs/tags.md").open("w", encoding="utf-8") as fout:
             fout.write(
                 "---\n"
+                "title: Tags\n"
                 "site:\n"
-                "  hide_title_block: true\n"
                 "  hide_outline: true\n"
-                "---\n"
-                "\n"
-                "# Tags\n"
-                "\n"
-                '<div style="margin-top: 1em;">\n'
-                "\n"
-                "## Tags\n"
-                "\n"
-                "</div>\n"
-                "\n"
+                "---\n\n"
             )
-            for tag, links in self.tags(
-                where="doc_dir != 'outdated'",
-                order_by="date DESC",
-            ):
-                if len(links) <= 1:
-                    continue
-                fout.write("```{dropdown} " + f"{tag} ({len(links)})\n\n")
-                for link in links:
-                    fout.write(f"- {link}\n")
+            for k,n in keys:
+                fout.write(f"## {' | '.join(ids[k])}\n")
+                fout.write("```{dropdown} " + f"Click to expand {n} links\n")
+                for t in ids[k]:
+                    for link in tags[t]:
+                        fout.write(f"- {link}\n")
                 fout.write("```\n\n")
 
-    def tags(self, where: str = "", order_by: str = "") -> list[tuple[str, list[str]]]:
+    def tags(self, where: str = "", order_by: str = "") -> dict[str, list[str]]:
         """Get all tags and their frequencies in all posts.
 
         :param where: A filtering condition.
@@ -799,7 +803,7 @@ class Blogger:
             for tag in tags.strip(TAG_SEPARATOR).split(TAG_SEPARATOR):
                 kvs.setdefault(tag, [])
                 kvs[tag].append(link)
-        return sorted(kvs.items(), key=lambda pair: len(pair[1]), reverse=True)
+        return kvs
 
     def num_srps(self) -> int:
         row = self._conn.execute(f"SELECT count(*) FROM {self.SRPS}").fetchone()

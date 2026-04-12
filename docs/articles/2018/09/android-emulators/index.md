@@ -16,13 +16,11 @@ tags:
   - xDroid
 ---
 
-[waydroid]: https://waydro.id 
-[android-studio]: https://developer.android.com/studio 
-[docker-android]: https://github.com/budtmo/docker-android 
-
-:::{list-table} Android Emulators
-:widths: auto
-:header-rows: 1
+```{list-table} Android Emulators
+---
+widths: auto
+header-rows: 1
+---
 - - Name
   - Free
   - OS
@@ -95,7 +93,7 @@ tags:
   - Yes 
   - Limited 
   - Active 
-:::
+```
 
 ## References
 
@@ -134,7 +132,7 @@ tags:
 
 [^5]: [MuMu App Player](https://mumu.163.com/) works well. Specially, Tribal Pioneer works on MuMu App Player on macOS.
 
-[^11]: [Waydroid][waydroid] is a container-based approach to boot a full Android system on Linux.
+[^11]: [Waydroid] is a container-based approach to boot a full Android system on Linux.
     It is a successor of AnBox.
 
 [^4]: [AnBox Cloud](https://anbox-cloud.io/) is developed by Canonical and works on Ubuntu only.
@@ -150,6 +148,10 @@ tags:
     Android developers mostly use Android SDK tools for testing and development purposes,
     but it'll work for casual use and play as well.
 
-[^10]: [Docker-Android][docker-android] is a docker image
+[^10]: [Docker-Android] is a docker image
     built to be used for everything
     related to mobile website testing and Android project.
+
+[android-studio]: https://developer.android.com/studio
+[docker-android]: https://github.com/budtmo/docker-android
+[waydroid]: https://waydro.id

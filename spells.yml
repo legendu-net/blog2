@@ -135,6 +135,7 @@ Lxd: LXD
 Macos: macOS
 Macports: MacPorts
 Mdbook: mdBook
+Mdformat: mdformat
 Metacall: MetaCall
 Mkdocs: mkdocs
 Mkshell: mkShell
