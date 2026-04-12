@@ -17,7 +17,6 @@ tags:
 1. Unlike most other programming languages, 
 to get elements of an array in MATLAB, 
 you have to parentheses to specify index. 
-See more information in [this post](http://dclong.github.io/en/2012/05/containers-summary-in-popular-languages/).
 If you want to get or set elements of a cell in MATLAB, 
 you have to use curly braces. 
 If you use parentheses to extract elements of a cell,

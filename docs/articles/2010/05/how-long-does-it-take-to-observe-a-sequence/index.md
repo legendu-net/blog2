@@ -244,5 +244,5 @@ Module[{npat, A = {}, row = {}, b = {}, i, j, nsample, probs},
 
 [code]: /media/pattern/pattern.cdf
 [more examples and results]: /media/pattern/pattern-time-examples.pdf
-[which one is the best strategy?]: http://dclong.github.io/en/blog/best-strategy/
-[which one is the best strategy? (continued)]: http://dclong.github.io/en/blog/best-strategy-2/
+[which one is the best strategy?]: which-one-is-the-best-strategy
+[which one is the best strategy? (continued)]: which-one-is-the-best-strategy-continued

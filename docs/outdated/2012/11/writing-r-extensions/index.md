@@ -20,7 +20,7 @@ tags:
 The following are some tips for using the old fashioned way (using `.C` and `.Call`) 
 to write R extensions. 
 The state-of-art way to extend R via C/C++ is to use the `Rcpp` package.
-Check [this post](http://dclong.github.io/en/2012/09/rcpp-rocks/) For tips on using `Rcpp` package.
+Check the post [Rcpp Rocks](rcpp-rocks) for tips on using `Rcpp` package.
 
 1. If you want to call C code from R, 
 the arguments of C functions to be called by `.C` must be pointers. 

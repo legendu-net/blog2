@@ -165,6 +165,6 @@ However, this function have a similar issue as function PatternFirst-
 ComeOurProbability has. And what's more, we have to carefully define what
 "addition step needed" means.
 
-[how long does it take to observe a sequence?]: http://dclong.github.io/en/blog/how-long-observe-pattern/
+[how long does it take to observe a sequence?]: how-long-does-it-take-to-observe-a-sequence
 [table 1]: /media/pattern/pattern-first-out-probability.pdf
 [which one is the best strategy?]: which-one-is-the-best-strategy

@@ -57,8 +57,7 @@ efficient in the cost of convenience.
 
 3. MATLAB use $\sim$ to stand for logical `NOT`, which is different
 from most of other languages. Usually a programming language uses `NOT`, `!`, or `$<>$` to stand
-for logical `NOT`. See a summary on operators in different programming languages 
-[in this post](http://dclong.github.io/en/2012/06/operators-popular-language/).
+for logical `NOT`. 
 
 4. MATLAB uses `disp` to display text of array to the console, which is
 different from most other programming languages. 

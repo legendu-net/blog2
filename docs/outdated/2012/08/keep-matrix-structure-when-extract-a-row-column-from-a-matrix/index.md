@@ -17,7 +17,7 @@ tags:
 ---
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-[Abuse of Vector in R]: http://dclong.github.io/en/2012/05/abuse-vector-r/
+[Abuse of Vector in R]: abuse-of-vector-in-r
 I talked in the post [Abuse of Vector in R]() that 
 it is often the case that we want keep the matrix sturcture when 
 extracting a row/column from a matrix,
