@@ -36,7 +36,10 @@ is a great choice.
 
 ### Tax Deductions
 
-- Standard deduction
+- Standard deduction vs itemized deduction
+
+### Tax Credit
+
 - [Residential Energy Credits](https://www.irs.gov/forms-pubs/about-form-5695)
 
 ## References
