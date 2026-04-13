@@ -1,7 +1,7 @@
 ---
 title: Tax in US
 created: 2020-06-08 20:12:13
-date: 2026-04-12 19:23:50.306314
+date: 2026-04-12 19:42:05.215037
 authors:
   - bendu
 label: tax-in-us
@@ -19,7 +19,9 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-## Tax Filing Tools
+## Tax Filing
+
+### Tax Filing Tools
 
 [FreeTaxUsa](https://www.freetaxusa.com/),
 [TurboTax](https://turbotax.intuit.com)
@@ -32,7 +34,16 @@ According to
 [FreeTaxUsa](https://www.freetaxusa.com/)
 is a great choice.
 
+### Tax Deductions
+
+- Standard deduction
+- [Residential Energy Credits](https://www.irs.gov/forms-pubs/about-form-5695)
+
 ## References
+
+- [Instructions for Form 5695 (2025) | Internal Revenue Service](https://www.irs.gov/instructions/i5695)
+
+- [About Form 5695, Residential Energy Credits | Internal Revenue Service](https://www.irs.gov/forms-pubs/about-form-5695)
 
 - [Tax Filing Software Megathread: A comprehensive list of tax filing resources](https://www.reddit.com/r/personalfinance/comments/1qfcm9n/tax_filing_software_megathread_a_comprehensive/)
 
