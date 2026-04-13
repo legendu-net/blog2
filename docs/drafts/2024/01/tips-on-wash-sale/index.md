@@ -7,7 +7,7 @@ authors:
 label: tips-on-wash-sale
 license: CC-BY-4.0
 tags:
-  - Investment
+  - investment
   - wash sale
   - IRS
   - tax
@@ -49,3 +49,5 @@ tags:
 - [Trader Status - Is it wise to trade in one’s own name and claim trader status?](https://andersonadvisors.com/trader-taxation/)
 
 - [Selling specific lots of shares](https://forum.alpaca.markets/t/selling-specific-lots-of-shares/956)
+
+- [美股如何报税 | 做短线Day Trade，长线投资要交多少税，亏损如何抵税，Wash Sale什么意思？](https://www.youtube.com/watch?v=xKQaytyoECI)

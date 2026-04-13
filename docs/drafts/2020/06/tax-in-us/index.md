@@ -1,29 +1,47 @@
 ---
-title: "Tax in US"
+title: Tax in US
 created: 2020-06-08 20:12:13
-date: 2024-04-02 01:54:25
+date: 2026-04-12 19:23:50.306314
 authors:
   - bendu
 label: tax-in-us
 license: CC-BY-4.0
 tags:
-  - Life
   - tax
+  - finance
   - US
   - credit card
   - loan
   - gift
+  - income
+  - investment
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+## Tax Filing Tools
+
+[FreeTaxUsa](https://www.freetaxusa.com/),
+[TurboTax](https://turbotax.intuit.com)
+and
+[HR Block](https://www.hrblock.com/)
+are popular ones.
+According to
+[this discussion on Reddit](https://www.reddit.com/r/personalfinance/comments/1qfcm9n/tax_filing_software_megathread_a_comprehensive/)
+,
+[FreeTaxUsa](https://www.freetaxusa.com/)
+is a great choice.
 
 ## References
+
+- [Tax Filing Software Megathread: A comprehensive list of tax filing resources](https://www.reddit.com/r/personalfinance/comments/1qfcm9n/tax_filing_software_megathread_a_comprehensive/)
+
+- [E-file: Do your taxes for free](https://www.irs.gov/e-file-do-your-taxes-for-free)
+
+- [Browse All 8 Trusted Partners](https://apps.irs.gov/app/freeFile/browse-all-offers/)
+
+- [Taxes on Investment Gains](taxes-on-investment-gains)
 
 - [Federal income tax rates and brackets](https://www.irs.gov/filing/federal-income-tax-rates-and-brackets)
 
 - [Is Paying Someone Else's Credit Card a Gift?](https://finance.zacks.com/paying-someone-elses-credit-card-gift-9237.html)
-
-- [Longterm vs Shortterm Capital Gain Tax Rates](https://www.investopedia.com/articles/personal-finance/101515/comparing-longterm-vs-shortterm-capital-gain-tax-rates.asp#:~:text=Short%2Dterm%20capital%20gains%20result,for%20more%20than%20one%20year.&text=Short%2Dterm%20gains%20are%20taxed,the%20U.S.%20income%20tax%20brackets)
-
-- [美股如何报税 | 做短线Day Trade，长线投资要交多少税，亏损如何抵税，Wash Sale什么意思？](https://www.youtube.com/watch?v=xKQaytyoECI)

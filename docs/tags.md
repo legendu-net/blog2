@@ -3306,8 +3306,38 @@ site:
 - [Regression Classification ANOVA](regression-classification-anova)
 ```
 
-## life | Life
+## Life | life
 ```{dropdown} Click to expand 94 links
+- [Tax in US](tax-in-us)
+- [Living in Shanghai](living-in-shanghai)
+- [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
+- [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
+- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
+- [Tips on RV](tips-on-rv)
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Shopping Smartly](shopping-smartly)
+- [Maintain Garage Doors](maintain-garage-doors)
+- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
+- [Replace a Bathroom Fan](replace-a-bathroom-fan)
+- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
+- [Tips on Mount Rainer](tips-on-mount-rainer)
+- [Tips on Moss Control](tips-on-moss-control)
+- [Tips on Tesla Model Y](tips-on-tesla-model-y)
+- [Tips on Dishwasher](tips-on-dishwasher)
+- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
+- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
+- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
+- [Tips on Car Seat](tips-on-car-seat)
+- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
+- [Good Resources of News](good-resources-of-news)
+- [Tips on Job Seeking](tips-on-job-seeking)
+- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
+- [Understand Terms of Service Quickly](understand-terms-of-service-quickly)
+- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
+- [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
+- [Stop Spam Phone Calls](stop-spam-phone-calls)
+- [Building Permit](building-permit)
+- [Shopping on Costco](shopping-on-costco)
 - [中国的公共交通服务](public-transportation-china)
 - [Misc Tips in Daily Life](misc-tips-in-daily-life)
 - [Tips on Smart Phone](tips-on-smart-phone)
@@ -3372,36 +3402,6 @@ site:
 - [Shopping At Homedepot](shopping-at-homedepot)
 - [Shunfeng Deliver](shunfeng-deliver)
 - [Saitek Rumble Force P2500](saitek-rumble-force-p2500)
-- [Living in Shanghai](living-in-shanghai)
-- [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
-- [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
-- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
-- [Tips on RV](tips-on-rv)
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Shopping Smartly](shopping-smartly)
-- [Maintain Garage Doors](maintain-garage-doors)
-- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
-- [Replace a Bathroom Fan](replace-a-bathroom-fan)
-- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
-- [Tips on Mount Rainer](tips-on-mount-rainer)
-- [Tips on Moss Control](tips-on-moss-control)
-- [Tips on Tesla Model Y](tips-on-tesla-model-y)
-- [Tax in US](tax-in-us)
-- [Tips on Dishwasher](tips-on-dishwasher)
-- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
-- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
-- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
-- [Tips on Car Seat](tips-on-car-seat)
-- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
-- [Good Resources of News](good-resources-of-news)
-- [Tips on Job Seeking](tips-on-job-seeking)
-- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
-- [Understand Terms of Service Quickly](understand-terms-of-service-quickly)
-- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
-- [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
-- [Stop Spam Phone Calls](stop-spam-phone-calls)
-- [Building Permit](building-permit)
-- [Shopping on Costco](shopping-on-costco)
 ```
 
 ## Java
@@ -8438,6 +8438,14 @@ site:
 - [Tips on gRPC](tips-on-grpc)
 ```
 
+## tax
+```{dropdown} Click to expand 4 links
+- [Tax in US](tax-in-us)
+- [Hiring a Nanny](hiring-a-nanny)
+- [Taxes on Investment Gains](taxes-on-investment-gains)
+- [Tips on Wash Sale](tips-on-wash-sale)
+```
+
 ## subprocess
 ```{dropdown} Click to expand 4 links
 - [Popen - Advanced Usage of subprocess](popen-advanced-usage-of-subprocess)
@@ -9142,14 +9150,6 @@ site:
 - [Low Risk Investments](low-risk-investments)
 ```
 
-## tax
-```{dropdown} Click to expand 4 links
-- [Hiring a Nanny](hiring-a-nanny)
-- [Taxes on Investment Gains](taxes-on-investment-gains)
-- [Tax in US](tax-in-us)
-- [Tips on Wash Sale](tips-on-wash-sale)
-```
-
 ## line
 ```{dropdown} Click to expand 4 links
 - [Useful Rust Crates for Developing Command Line Apps](useful-rust-crates-for-developing-command-line-apps)
@@ -9236,6 +9236,13 @@ site:
 - [Tips on mkdocs](tips-on-mkdocs)
 - [Tips on Gatsby](tips-on-gatsby)
 - [The Elegant Theme for Pelican](the-elegant-theme-for-pelican)
+```
+
+## credit card
+```{dropdown} Click to expand 3 links
+- [Tax in US](tax-in-us)
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Tips on Road Assistant](tips-on-road-assistant)
 ```
 
 ## include | include!
@@ -10225,13 +10232,6 @@ site:
 - [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
 ```
 
-## credit card
-```{dropdown} Click to expand 3 links
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Tips on Road Assistant](tips-on-road-assistant)
-- [Tax in US](tax-in-us)
-```
-
 ## writing
 ```{dropdown} Click to expand 3 links
 - [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
@@ -10538,6 +10538,12 @@ site:
 - [Use XGBoost With Spark](use-xgboost-with-spark)
 - [Tips on XGBoost](tips-on-xgboost)
 - [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
+```
+
+## US
+```{dropdown} Click to expand 2 links
+- [Tax in US](tax-in-us)
+- [Tips on US Visas](tips-on-us-visas)
 ```
 
 ## terminology
@@ -11630,12 +11636,6 @@ site:
 ```{dropdown} Click to expand 2 links
 - [GUI-based Mind Mapping Tools](gui-based-mind-mapping-tools)
 - [Flow Chart Software](flow-chart-software)
-```
-
-## US
-```{dropdown} Click to expand 2 links
-- [Tips on US Visas](tips-on-us-visas)
-- [Tax in US](tax-in-us)
 ```
 
 ## Apache AirFlow | Apache Airflow

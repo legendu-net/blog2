@@ -7,7 +7,7 @@ authors:
 label: taxes-on-investment-gains
 license: CC-BY-4.0
 tags:
-  - Investment
+  - investment
   - money
   - capital
   - gain
@@ -126,7 +126,11 @@ coming tax season we will provide you a tax form. Where you can then work with a
 
 ## References
 
+- [Tips on Wash Sale](tips-on-wash-sale)
+
 - [Federal income tax rates and brackets](https://www.irs.gov/filing/federal-income-tax-rates-and-brackets)
+
+- [Longterm vs Shortterm Capital Gain Tax Rates](https://www.investopedia.com/articles/personal-finance/101515/comparing-longterm-vs-shortterm-capital-gain-tax-rates.asp#:~:text=Short%2Dterm%20capital%20gains%20result,for%20more%20than%20one%20year.&text=Short%2Dterm%20gains%20are%20taxed,the%20U.S.%20income%20tax%20brackets)
 
 - [Topic No. 409, Capital Gains and Losses](https://www.irs.gov/taxtopics/tc409#:~:text=To%20correctly%20arrive%20at%20your,or%20loss%20is%20short%2Dterm.)
 
@@ -143,3 +147,5 @@ coming tax season we will provide you a tax form. Where you can then work with a
 - https://content.etrade.com/etrade/customer/invest/finalrestrictedstockfaqs.pdf
 
 - https://content.etrade.com/etrade/optionslink/sartax.pdf
+
+- [美股如何报税 | 做短线Day Trade，长线投资要交多少税，亏损如何抵税，Wash Sale什么意思？](https://www.youtube.com/watch?v=xKQaytyoECI)
