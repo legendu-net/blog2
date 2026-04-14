@@ -1,7 +1,7 @@
 ---
 title: Tax in US
 created: 2020-06-08 20:12:13
-date: 2026-04-12 19:42:05.215037
+date: 2026-04-13 21:40:56.095221
 authors:
   - bendu
 label: tax-in-us
@@ -24,21 +24,21 @@ tags:
 ### Tax Filing Tools
 
 1. [FreeTaxUsa](https://www.freetaxusa.com/),
-[TurboTax](https://turbotax.intuit.com)
-and
-[HR Block](https://www.hrblock.com/)
-are popular ones.
-According to
-[this discussion on Reddit](https://www.reddit.com/r/personalfinance/comments/1qfcm9n/tax_filing_software_megathread_a_comprehensive/)
-,
-[FreeTaxUsa](https://www.freetaxusa.com/)
-is a great choice.
+   [TurboTax](https://turbotax.intuit.com)
+   and
+   [HR Block](https://www.hrblock.com/)
+   are popular ones.
+   According to
+   [this discussion on Reddit](https://www.reddit.com/r/personalfinance/comments/1qfcm9n/tax_filing_software_megathread_a_comprehensive/)
+   ,
+   [FreeTaxUsa](https://www.freetaxusa.com/)
+   is a great choice.
 
 1. Some tax filing tools (e.g., TurboTax) support importing tax docs directly from users' financial accounts.
-  For more discussions,
-  please refer to
-  [How do I import my tax information into TurboTax or similar applications?](https://support.wealthfront.com/hc/en-us/articles/209367786-How-do-I-import-my-tax-information-into-TurboTax-or-similar-applications)
-  .
+   For more discussions,
+   please refer to
+   [How do I import my tax information into TurboTax or similar applications?](https://support.wealthfront.com/hc/en-us/articles/209367786-How-do-I-import-my-tax-information-into-TurboTax-or-similar-applications)
+   .
 
 ### Tax Deductions
 
