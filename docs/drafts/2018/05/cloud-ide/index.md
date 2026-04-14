@@ -1,7 +1,7 @@
 ---
-title: "Cloud IDE"
+title: Cloud IDE
 created: 2018-05-20 09:49:30
-date: 2025-04-18 07:15:38
+date: 2026-04-13 23:28:41.411011
 authors:
   - bendu
 label: cloud-ide
@@ -18,10 +18,10 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-## Google Firebase Studio (Formally Known as Project IDX)
+## Google Firebase Studio (Will Sunset in 2027)
 
 See
-[Tips on Google Firebase Studio]( https://www.legendu.net/misc/blog/tips-on-project-idx )
+[Tips on Google Firebase Studio](https://www.legendu.net/misc/blog/tips-on-project-idx)
 .
 
 ## [Code Server](https://github.com/cdr/code-server)
@@ -49,16 +49,17 @@ https://github.com/theia-ide/theia
 
 1. Syntax highlighting and checking works well.
 
-2. Debugging is not supported currently but under active development.
+1. Debugging is not supported currently but under active development.
 
-3. best to mount a directory that has mode 777
+1. best to mount a directory that has mode 777
 
-4. support installling VS Code extensions (*.vsix) by drag and drop.
-    Installing from VS Code Marketplace is not supported at this time.
+1. support installling VS Code extensions (\*.vsix) by drag and drop.
+   Installing from VS Code Marketplace is not supported at this time.
 
 [Enable username/password for Theia](https://github.com/theia-ide/theia-apps/issues/167)
 
 ### Docker for theia
+
 ```
 docker pull theiaide/theia-full
 ```
@@ -69,14 +70,13 @@ docker run -d -p 3000:3000 -v /workdir:/home/project:cached theiaide/theia-full
 
 ## [ShareLatex ](https://www.sharelatex.com/)
 
-
 ## [Codenvy](https://codenvy.io/) / [Eclipse Che](https://www.eclipse.org/che/)
 
 1. very slow
 
-2. vi keybindings is stupid
+1. vi keybindings is stupid
 
-3. Scala support is not ready
+1. Scala support is not ready
 
 Conclusion: basically unusable, not recommended
 
@@ -84,9 +84,8 @@ Conclusion: basically unusable, not recommended
 
 1. Looks much better Codenvy/Eclipse Che.
 
-2. Python autocompletion works in the official online version. 
-    However, debugging is supported only for Python2 currently.
-
+1. Python autocompletion works in the official online version.
+   However, debugging is supported only for Python2 currently.
 
 ## [Koding](https://www.koding.com/)
 

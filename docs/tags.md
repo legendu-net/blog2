@@ -5,7 +5,7 @@ site:
 ---
 
 ## programming | Programming
-```{dropdown} Click to expand 1029 links
+```{dropdown} Click to expand 1028 links
 - [Popen - Advanced Usage of subprocess](popen-advanced-usage-of-subprocess)
 - [Rust Error "error: expected item, found 'let'"](rust-error-error-expected-item-found-let)
 - [Automated Verizon Phone Bill (Continued)](automated-verizon-phone-bill-continued)
@@ -351,7 +351,6 @@ site:
 - [Constraints on Types in Rust](constraints-on-types-in-rust)
 - [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
 - [AI-first Programming Languages](ai-first-programming-languages)
-- [Tips on Google Firebase Studio](tips-on-google-firebase-studio)
 - [mkShell vs buildFHSUserEnv in Nix](mkshell-vs-buildfhsuserenv-in-nix)
 - [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
 - [Extracting PDF Pages Using the Python Package PyPDF](extracting-pdf-pages-using-the-python-package-pypdf)
@@ -436,8 +435,8 @@ site:
 - [Git Implementations and Bindings in Python](git-implementations-and-bindings-in-python)
 - [Tips on AstroNvim](tips-on-astronvim)
 - [Multi-Interpreter Computing in Python](multi-interpreter-computing-in-python)
-- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
 - [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
+- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 - [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
 - [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
@@ -561,8 +560,8 @@ site:
 - [Tips on Rust Clippy](tips-on-rust-clippy)
 - [Cell and RefCell in Rust](cell-and-refcell-in-rust)
 - [Amazon AWS EC2 Instances](amazon-aws-ec2-instances)
-- [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
 - [Tips on ZetaSQL](tips-on-zetasql)
+- [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
 - [Const Generic in Rust](const-generic-in-rust)
 - [Embeddable Scriting Language](embeddable-scriting-language)
 - [Tips on rustc](tips-on-rustc)
@@ -637,10 +636,10 @@ site:
 - [Format Python Code Using Black](format-python-code-using-black)
 - [Read CSV Using Polars in Python](read-csv-using-polars-in-python)
 - [Implement a Singleton in Rust](implement-a-singleton-in-rust)
-- [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
-- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
-- [Polars Series in Rust](polars-series-in-rust)
 - [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
+- [Polars Series in Rust](polars-series-in-rust)
+- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
+- [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
 - [Read and Write Parquet Files in Rust](read-and-write-parquet-files-in-rust)
 - [Data Frame Implementations in Rust](data-frame-implementations-in-rust)
 - [Construct Polars DataFrames in Rust](construct-polars-dataframes-in-rust)
@@ -814,8 +813,8 @@ site:
 - [Tips on Pillow](tips-on-pillow)
 - [Hands on pathlib.Path](hands-on-pathlib.path)
 - [Understand Execuation of SQL Statements](understand-execuation-of-sql-statements)
-- [The Checkbutton Widget in Tkinter](the-checkbutton-widget-in-tkinter)
 - [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
+- [The Checkbutton Widget in Tkinter](the-checkbutton-widget-in-tkinter)
 - [Tips on Public Speech](tips-on-public-speech)
 - [Encoding and Decoding Base64 String in Python](encoding-and-decoding-base64-string-in-python)
 - [VirtualBox API](virtualbox-api)
@@ -872,9 +871,9 @@ site:
 - [Date and Time in Java and Scala](date-and-time-in-java-and-scala)
 - [Spark Issue: Task Not Serializable](spark-issue-task-not-serializable)
 - [Tips on Selenium](tips-on-selenium)
-- [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
-- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
 - [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
+- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
+- [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
 - [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
 - [Hands on the Python Library DeepDiff](hands-on-the-python-library-deepdiff)
 - [Replace Single Quotes With Double Quotes in Python Code](replace-single-quotes-with-double-quotes-in-python-code)
@@ -968,8 +967,8 @@ site:
 - [Use SnakeYaml in Scala](use-snakeyaml-in-scala)
 - [Hands on scala.math](hands-on-scala.math)
 - [Unpacking Assignment in Python](unpacking-assignment-in-python)
-- [Hands on Full-text Search in SQLite3](hands-on-full-text-search-in-sqlite3)
 - [Equality by Reference and Value in Python](equality-by-reference-and-value-in-python)
+- [Hands on Full-text Search in SQLite3](hands-on-full-text-search-in-sqlite3)
 - [Disable Jedi in IPython](disable-jedi-in-ipython)
 - [Print Colored Text in Terminal](print-colored-text-in-terminal)
 - [Runtime Paths in Python](runtime-paths-in-python)
@@ -1038,7 +1037,7 @@ site:
 ```
 
 ## Computer Science | computer science
-```{dropdown} Click to expand 754 links
+```{dropdown} Click to expand 753 links
 - [Shodan - Search Engine for IoT](shodan-search-engine-for-iot)
 - [Rust Error "error: expected item, found 'let'"](rust-error-error-expected-item-found-let)
 - [Equivalent of C++'s std::set_difference in Rust](equivalent-of-c++-s-std-set_difference-in-rust)
@@ -1147,7 +1146,6 @@ site:
 - [Constraints on Types in Rust](constraints-on-types-in-rust)
 - [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
 - [AI-first Programming Languages](ai-first-programming-languages)
-- [Tips on Google Firebase Studio](tips-on-google-firebase-studio)
 - [Nix and NixOS](nix-and-nixos)
 - [mkShell vs buildFHSUserEnv in Nix](mkshell-vs-buildfhsuserenv-in-nix)
 - [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
@@ -1188,8 +1186,8 @@ site:
 - [Tips on AstroNvim](tips-on-astronvim)
 - [User Printers and Scanners on Linux](user-printers-and-scanners-on-linux)
 - [Multi-Interpreter Computing in Python](multi-interpreter-computing-in-python)
-- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
 - [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
+- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
 - [Package Management for Debian and Ubuntu](package-management-for-debian-and-ubuntu)
 - [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
 - [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
@@ -1323,8 +1321,8 @@ site:
 - [Tips on Rust Clippy](tips-on-rust-clippy)
 - [Cell and RefCell in Rust](cell-and-refcell-in-rust)
 - [Amazon AWS EC2 Instances](amazon-aws-ec2-instances)
-- [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
 - [Tips on ZetaSQL](tips-on-zetasql)
+- [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
 - [Const Generic in Rust](const-generic-in-rust)
 - [Embeddable Scriting Language](embeddable-scriting-language)
 - [Tips on rustc](tips-on-rustc)
@@ -1400,10 +1398,10 @@ site:
 - [Format Python Code Using Black](format-python-code-using-black)
 - [Read CSV Using Polars in Python](read-csv-using-polars-in-python)
 - [Implement a Singleton in Rust](implement-a-singleton-in-rust)
-- [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
-- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
-- [Polars Series in Rust](polars-series-in-rust)
 - [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
+- [Polars Series in Rust](polars-series-in-rust)
+- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
+- [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
 - [Read and Write Parquet Files in Rust](read-and-write-parquet-files-in-rust)
 - [Data Frame Implementations in Rust](data-frame-implementations-in-rust)
 - [Construct Polars DataFrames in Rust](construct-polars-dataframes-in-rust)
@@ -1551,8 +1549,8 @@ site:
 - [Tips on Rustfmt](tips-on-rustfmt)
 - [Rust and Spark](rust-and-spark)
 - [Yarn for Spark](yarn-for-spark)
-- [Surf Web Anonymously](surf-web-anonymously)
 - [Tips on TinyProxy](tips-on-tinyproxy)
+- [Surf Web Anonymously](surf-web-anonymously)
 - [Anonymouse Internet Surfing Using Tor](anonymouse-internet-surfing-using-tor)
 - [Terminal Multiplexers](terminal-multiplexers)
 - [Zellij Is the Best Terminal Multiplexer](zellij-is-the-best-terminal-multiplexer)
@@ -1603,9 +1601,9 @@ site:
 - [Debugging and Testing Tools for Windows](debugging-and-testing-tools-for-windows)
 - [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
 - [Tips on Windows Terminal](tips-on-windows-terminal)
-- [The Checkbutton Widget in Tkinter](the-checkbutton-widget-in-tkinter)
-- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
 - [Use Tkinter to Build GUI Applications in Python](use-tkinter-to-build-gui-applications-in-python)
+- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
+- [The Checkbutton Widget in Tkinter](the-checkbutton-widget-in-tkinter)
 - [Tips on Public Speech](tips-on-public-speech)
 - [Incognito Mode for Browsers](incognito-mode-for-browsers)
 - [Format a Flash Drive in a Linux Virtual Machine](format-a-flash-drive-in-a-linux-virtual-machine)
@@ -2040,9 +2038,9 @@ site:
 - [Image Filters in OpenCV](image-filters-in-opencv)
 - [Python Tools for Linux Admins](python-tools-for-linux-admins)
 - [Hands on pathlib.Path](hands-on-pathlib.path)
-- [The Checkbutton Widget in Tkinter](the-checkbutton-widget-in-tkinter)
-- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
 - [Use Tkinter to Build GUI Applications in Python](use-tkinter-to-build-gui-applications-in-python)
+- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
+- [The Checkbutton Widget in Tkinter](the-checkbutton-widget-in-tkinter)
 - [Encoding and Decoding Base64 String in Python](encoding-and-decoding-base64-string-in-python)
 - [Tools for Audio Analysis](tools-for-audio-analysis)
 - [Packaging Python Dependencies for PySpark Using Pex](packaging-python-dependencies-for-pyspark-using-pex)
@@ -2093,8 +2091,8 @@ site:
 - [Tips on RustPython](tips-on-rustpython)
 - [Python in Browser](python-in-browser)
 - [Hands on the hashlib Module in Python](hands-on-the-hashlib-module-in-python)
-- [Call Java Using PyJNIus from Python](call-java-using-pyjnius-from-python)
 - [Java Interfaces for Python](java-interfaces-for-python)
+- [Call Java Using PyJNIus from Python](call-java-using-pyjnius-from-python)
 - [Tips on mkdocs](tips-on-mkdocs)
 - [Hands on the Zoneinfo Module in Python](hands-on-the-zoneinfo-module-in-python)
 - [Hands on the Graphlib Module in Python](hands-on-the-graphlib-module-in-python)
@@ -2296,9 +2294,9 @@ site:
 - [Speedup Docker Pulling and Pushing](speedup-docker-pulling-and-pushing)
 - [Save Docker Image in Another Location](save-docker-image-in-another-location)
 - [IntelliJ IDEA Tips](intellij-idea-tips)
-- [Docker Images for Database](docker-images-for-database)
-- [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
 - [Docker Images for Zeppelin](docker-images-for-zeppelin)
+- [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
+- [Docker Images for Database](docker-images-for-database)
 - [Use Git Behind a Proxy](use-git-behind-a-proxy)
 - [Fail to Install Packages into Python Virtual Environment in PyCharm on Windows](fail-to-install-packages-into-python-virtual-environment-in-pycharm-on-windows)
 - [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
@@ -2341,8 +2339,8 @@ site:
 - [Visual Studio Code Server](visual-studio-code-server)
 - [The Absolutely Best App for Taking Notes](the-absolutely-best-app-for-taking-notes)
 - [Tips on Git Submodule](tips-on-git-submodule)
-- [Tips on Microk8S](tips-on-microk8s)
 - [Tips on OpenFaaS](tips-on-openfaas)
+- [Tips on Microk8S](tips-on-microk8s)
 - [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
 - [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
 - [Network in Docker Containers](network-in-docker-containers)
@@ -2482,10 +2480,10 @@ site:
 - [Useful Rust Crates for Bit Manipulations](useful-rust-crates-for-bit-manipulations)
 - [Memory Layout in Rust](memory-layout-in-rust)
 - [Implement a Singleton in Rust](implement-a-singleton-in-rust)
-- [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
-- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
-- [Polars Series in Rust](polars-series-in-rust)
 - [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
+- [Polars Series in Rust](polars-series-in-rust)
+- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
+- [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
 - [Read and Write Parquet Files in Rust](read-and-write-parquet-files-in-rust)
 - [Data Frame Implementations in Rust](data-frame-implementations-in-rust)
 - [Construct Polars DataFrames in Rust](construct-polars-dataframes-in-rust)
@@ -2748,8 +2746,8 @@ site:
 - [Tips on FeatureTools](tips-on-featuretools)
 - [Preparing Data for AI](preparing-data-for-ai)
 - [Entropy](entropy)
-- [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
 - [Tips on LightGBM](tips-on-lightgbm)
+- [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
 - [Handle Categorical Variables in LightGBM](handle-categorical-variables-in-lightgbm)
 - [Fake Face Using AI](fake-face-using-ai)
 - [Compute Vision Tasks](compute-vision-tasks)
@@ -2761,9 +2759,9 @@ site:
 - [Common Issues in PyTorch](common-issues-in-pytorch)
 - [Pretrained Deep Learning Models](pretrained-deep-learning-models)
 - [Benchmark of Popular Deep Learning Models](benchmark-of-popular-deep-learning-models)
+- [Tips on TensorFlow](tips-on-tensorflow)
 - [LightGBM on GPU](lightgbm-on-gpu)
 - [Use PyTorch on GPU](use-pytorch-on-gpu)
-- [Tips on TensorFlow](tips-on-tensorflow)
 - [Tips on Torchvision](tips-on-torchvision)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
 - [Data for NLP Research](data-for-nlp-research)
@@ -3052,9 +3050,9 @@ site:
 - [Spark Issue: Table Not Found](spark-issue-table-not-found)
 - [Spark Issue: Task Not Serializable](spark-issue-task-not-serializable)
 - [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
-- [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
-- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
 - [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
+- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
+- [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
 - [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
 - [Select All Columns Except a Few from a Table](select-all-columns-except-a-few-from-a-table)
 - [Get Size of Tables on HDFS](get-size-of-tables-on-hdfs)
@@ -3111,8 +3109,8 @@ site:
 - [Preparing Data for AI](preparing-data-for-ai)
 - [Entropy](entropy)
 - [Rule-base Image Process](rule-base-image-process)
-- [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
 - [Tips on LightGBM](tips-on-lightgbm)
+- [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
 - [Handle Categorical Variables in LightGBM](handle-categorical-variables-in-lightgbm)
 - [Fake Face Using AI](fake-face-using-ai)
 - [Compute Vision Tasks](compute-vision-tasks)
@@ -3124,9 +3122,9 @@ site:
 - [Common Issues in PyTorch](common-issues-in-pytorch)
 - [Pretrained Deep Learning Models](pretrained-deep-learning-models)
 - [Benchmark of Popular Deep Learning Models](benchmark-of-popular-deep-learning-models)
+- [Tips on TensorFlow](tips-on-tensorflow)
 - [LightGBM on GPU](lightgbm-on-gpu)
 - [Use PyTorch on GPU](use-pytorch-on-gpu)
-- [Tips on TensorFlow](tips-on-tensorflow)
 - [Tips on Torchvision](tips-on-torchvision)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
 - [Data for NLP Research](data-for-nlp-research)
@@ -3231,8 +3229,8 @@ site:
 - [Preparing Data for AI](preparing-data-for-ai)
 - [Entropy](entropy)
 - [Rule-base Image Process](rule-base-image-process)
-- [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
 - [Tips on LightGBM](tips-on-lightgbm)
+- [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
 - [Handle Categorical Variables in LightGBM](handle-categorical-variables-in-lightgbm)
 - [Training Deep Neural Networks](training-deep-neural-networks)
 - [Data for Computer Vision Research](data-for-computer-vision-research)
@@ -3242,9 +3240,9 @@ site:
 - [Common Issues in PyTorch](common-issues-in-pytorch)
 - [Pretrained Deep Learning Models](pretrained-deep-learning-models)
 - [Benchmark of Popular Deep Learning Models](benchmark-of-popular-deep-learning-models)
+- [Tips on TensorFlow](tips-on-tensorflow)
 - [LightGBM on GPU](lightgbm-on-gpu)
 - [Use PyTorch on GPU](use-pytorch-on-gpu)
-- [Tips on TensorFlow](tips-on-tensorflow)
 - [Tips on Torchvision](tips-on-torchvision)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
 - [Data for NLP Research](data-for-nlp-research)
@@ -3306,38 +3304,8 @@ site:
 - [Regression Classification ANOVA](regression-classification-anova)
 ```
 
-## Life | life
-```{dropdown} Click to expand 94 links
-- [Tax in US](tax-in-us)
-- [Living in Shanghai](living-in-shanghai)
-- [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
-- [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
-- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
-- [Tips on RV](tips-on-rv)
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Shopping Smartly](shopping-smartly)
-- [Maintain Garage Doors](maintain-garage-doors)
-- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
-- [Replace a Bathroom Fan](replace-a-bathroom-fan)
-- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
-- [Tips on Mount Rainer](tips-on-mount-rainer)
-- [Tips on Moss Control](tips-on-moss-control)
-- [Tips on Tesla Model Y](tips-on-tesla-model-y)
-- [Tips on Dishwasher](tips-on-dishwasher)
-- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
-- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
-- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
-- [Tips on Car Seat](tips-on-car-seat)
-- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
-- [Good Resources of News](good-resources-of-news)
-- [Tips on Job Seeking](tips-on-job-seeking)
-- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
-- [Understand Terms of Service Quickly](understand-terms-of-service-quickly)
-- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
-- [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
-- [Stop Spam Phone Calls](stop-spam-phone-calls)
-- [Building Permit](building-permit)
-- [Shopping on Costco](shopping-on-costco)
+## life | Life
+```{dropdown} Click to expand 93 links
 - [中国的公共交通服务](public-transportation-china)
 - [Misc Tips in Daily Life](misc-tips-in-daily-life)
 - [Tips on Smart Phone](tips-on-smart-phone)
@@ -3402,6 +3370,35 @@ site:
 - [Shopping At Homedepot](shopping-at-homedepot)
 - [Shunfeng Deliver](shunfeng-deliver)
 - [Saitek Rumble Force P2500](saitek-rumble-force-p2500)
+- [Living in Shanghai](living-in-shanghai)
+- [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
+- [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
+- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
+- [Tips on RV](tips-on-rv)
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Shopping Smartly](shopping-smartly)
+- [Maintain Garage Doors](maintain-garage-doors)
+- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
+- [Replace a Bathroom Fan](replace-a-bathroom-fan)
+- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
+- [Tips on Mount Rainer](tips-on-mount-rainer)
+- [Tips on Moss Control](tips-on-moss-control)
+- [Tips on Tesla Model Y](tips-on-tesla-model-y)
+- [Tips on Dishwasher](tips-on-dishwasher)
+- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
+- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
+- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
+- [Tips on Car Seat](tips-on-car-seat)
+- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
+- [Good Resources of News](good-resources-of-news)
+- [Tips on Job Seeking](tips-on-job-seeking)
+- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
+- [Understand Terms of Service Quickly](understand-terms-of-service-quickly)
+- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
+- [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
+- [Stop Spam Phone Calls](stop-spam-phone-calls)
+- [Building Permit](building-permit)
+- [Shopping on Costco](shopping-on-costco)
 ```
 
 ## Java
@@ -3453,8 +3450,8 @@ site:
 - [Date and Time in Java and Scala](date-and-time-in-java-and-scala)
 - [Debugging Tools for Java](debugging-tools-for-java)
 - [Call Java Code Using JPype from Python](call-java-code-using-jpype-from-python)
-- [Call Java Using PyJNIus from Python](call-java-using-pyjnius-from-python)
 - [Java Interfaces for Python](java-interfaces-for-python)
+- [Call Java Using PyJNIus from Python](call-java-using-pyjnius-from-python)
 - [Collections in Java](collections-in-java)
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 - [Use LightGBM With Spark](use-lightgbm-with-spark)
@@ -3549,9 +3546,9 @@ site:
 - [Python pandas Tips](python-pandas-tips)
 - [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
 - [Read CSV Using Polars in Python](read-csv-using-polars-in-python)
-- [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
-- [Polars Series in Rust](polars-series-in-rust)
 - [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
+- [Polars Series in Rust](polars-series-in-rust)
+- [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
 - [Data Frame Implementations in Rust](data-frame-implementations-in-rust)
 - [Construct Polars DataFrames in Rust](construct-polars-dataframes-in-rust)
 - [Read Parquet Files Using Polars in Rust](read-parquet-files-using-polars-in-rust)
@@ -3873,9 +3870,9 @@ site:
 - [Docker on Mac](docker-on-mac)
 - [User in Docker](user-in-docker)
 - [Use Snap Apps in Docker](use-snap-apps-in-docker)
-- [Docker Images for Database](docker-images-for-database)
-- [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
 - [Docker Images for Zeppelin](docker-images-for-zeppelin)
+- [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
+- [Docker Images for Database](docker-images-for-database)
 - [Docker Images for Visualization](docker-images-for-visualization)
 - [Docker Images for Synchronization](docker-images-for-synchronization)
 - [Environment Variables in Docker](environment-variables-in-docker)
@@ -3928,9 +3925,9 @@ site:
 - [Spark Issue: Table Not Found](spark-issue-table-not-found)
 - [Spark Issue: Task Not Serializable](spark-issue-task-not-serializable)
 - [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
-- [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
-- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
 - [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
+- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
+- [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
 - [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
 - [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
 - [Multiprocessing Issues in Docker](multiprocessing-issues-in-docker)
@@ -4230,9 +4227,9 @@ site:
 - [Spark Issue: Table Not Found](spark-issue-table-not-found)
 - [Spark Issue: Task Not Serializable](spark-issue-task-not-serializable)
 - [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
-- [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
-- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
 - [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
+- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
+- [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
 - [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
 - [Spark Issue: InvalidResourceRequestException](spark-issue-invalidresourcerequestexception)
 - [Spark Issue: UriSyntaxException](spark-issue-urisyntaxexception)
@@ -4316,8 +4313,8 @@ site:
 - [Spark Issue: Table Not Found](spark-issue-table-not-found)
 - [Spark Issue: Task Not Serializable](spark-issue-task-not-serializable)
 - [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
-- [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
 - [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
+- [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
 - [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
 - [The Python Quit Unexpectedly Error](the-python-quit-unexpectedly-error)
 - [Exception Error and Critical](exception-error-and-critical)
@@ -4400,40 +4397,6 @@ site:
 - [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
 ```
 
-## IDE
-```{dropdown} Click to expand 30 links
-- [TeXstudio, Bravo!](texstudio-bravo)
-- [General Tips on SQL](general-tips-on-sql)
-- [Python Developing in PyCharm](python-developing-in-pycharm)
-- [Typing Chinese in Vim](typing-chinese-in-vim)
-- [Show Inferred Type in IntelliJ IDEA](show-inferred-type-in-intellij-idea)
-- [Tips on IDE](tips-on-ide)
-- [Tips on dbeaver](tips-on-dbeaver)
-- [IDEs for LaTeX](ides-for-latex)
-- [Tips on Visual Studio Code](tips-on-visual-studio-code)
-- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
-- [IDE for Rust](ide-for-rust)
-- [Tips on Google Firebase Studio](tips-on-google-firebase-studio)
-- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
-- [Visual Studio Code for Python](visual-studio-code-for-python)
-- [Tips on AstroNvim](tips-on-astronvim)
-- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
-- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Tips on NeoVim](tips-on-neovim)
-- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
-- [Tips on the Zed IDE](tips-on-the-zed-ide)
-- [IDE for SQL](ide-for-sql)
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
-- [Visual Studio Code Server](visual-studio-code-server)
-- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
-- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
-- [Tips on Python-Language-Server](tips-on-python-language-server)
-- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
-- [AI-based Code Completion Tools](ai-based-code-completion-tools)
-- [IntelliJ IDEA Tips](intellij-idea-tips)
-- [Start RStudio Server After Upgrading](start-rstudio-server-after-upgrading)
-```
-
 ## Kotlin
 ```{dropdown} Click to expand 30 links
 - [String functions in Kotlin](string-functions-in-kotlin)
@@ -4466,6 +4429,72 @@ site:
 - [Kotlin Unit Testing](kotlin-unit-testing)
 - [Use Kotlin as a Scripting Language](use-kotlin-as-a-scripting-language)
 - [Differences Between Kotlin and Java](differences-between-kotlin-and-java)
+```
+
+## investment | Investment
+```{dropdown} Click to expand 29 links
+- [Tax in US](tax-in-us)
+- [Investment](investment)
+- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
+- [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
+- [Tips on Brokerage](tips-on-brokerage)
+- [Tips on Earnings Report](tips-on-earnings-report)
+- [Quant Trading](quant-trading)
+- [Shorting the Market](shorting-the-market)
+- [Tips on Investing in Structure Notes](tips-on-investing-in-structure-notes)
+- [Tips on Money Market Fund](tips-on-money-market-fund)
+- [Tips on Robinhood](tips-on-robinhood)
+- [Tips on Pattern Day Trading](tips-on-pattern-day-trading)
+- [Taxes on Investment Gains](taxes-on-investment-gains)
+- [Foreign Currency Investment](foreign-currency-investment)
+- [Diversified Investment](diversified-investment)
+- [Low Risk Investments](low-risk-investments)
+- [Tips on Fidelity](tips-on-fidelity)
+- [Tips on Wash Sale](tips-on-wash-sale)
+- [Tips on Certified Deposit](tips-on-certified-deposit)
+- [Rust for Financial Investment](rust-for-financial-investment)
+- [Tips on Retirement](tips-on-retirement)
+- [Tips on Charles Schwab](tips-on-charles-schwab)
+- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
+- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
+- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
+- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
+- [Tips on Lumibot](tips-on-lumibot)
+- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
+- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
+```
+
+## IDE
+```{dropdown} Click to expand 29 links
+- [TeXstudio, Bravo!](texstudio-bravo)
+- [General Tips on SQL](general-tips-on-sql)
+- [Python Developing in PyCharm](python-developing-in-pycharm)
+- [Typing Chinese in Vim](typing-chinese-in-vim)
+- [Show Inferred Type in IntelliJ IDEA](show-inferred-type-in-intellij-idea)
+- [Tips on IDE](tips-on-ide)
+- [Tips on dbeaver](tips-on-dbeaver)
+- [IDEs for LaTeX](ides-for-latex)
+- [Tips on Visual Studio Code](tips-on-visual-studio-code)
+- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
+- [IDE for Rust](ide-for-rust)
+- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+- [Tips on AstroNvim](tips-on-astronvim)
+- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
+- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
+- [Tips on NeoVim](tips-on-neovim)
+- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
+- [Tips on the Zed IDE](tips-on-the-zed-ide)
+- [IDE for SQL](ide-for-sql)
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [Visual Studio Code Server](visual-studio-code-server)
+- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
+- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
+- [Tips on Python-Language-Server](tips-on-python-language-server)
+- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
+- [AI-based Code Completion Tools](ai-based-code-completion-tools)
+- [IntelliJ IDEA Tips](intellij-idea-tips)
+- [Start RStudio Server After Upgrading](start-rstudio-server-after-upgrading)
 ```
 
 ## network | Network
@@ -4630,38 +4659,6 @@ site:
 - [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
 ```
 
-## investment | Investment
-```{dropdown} Click to expand 28 links
-- [Investment](investment)
-- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
-- [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
-- [Tips on Brokerage](tips-on-brokerage)
-- [Tips on Earnings Report](tips-on-earnings-report)
-- [Quant Trading](quant-trading)
-- [Shorting the Market](shorting-the-market)
-- [Tips on Investing in Structure Notes](tips-on-investing-in-structure-notes)
-- [Tips on Money Market Fund](tips-on-money-market-fund)
-- [Tips on Robinhood](tips-on-robinhood)
-- [Tips on Pattern Day Trading](tips-on-pattern-day-trading)
-- [Foreign Currency Investment](foreign-currency-investment)
-- [Diversified Investment](diversified-investment)
-- [Low Risk Investments](low-risk-investments)
-- [Tips on Fidelity](tips-on-fidelity)
-- [Tips on Certified Deposit](tips-on-certified-deposit)
-- [Rust for Financial Investment](rust-for-financial-investment)
-- [Tips on Retirement](tips-on-retirement)
-- [Tips on Charles Schwab](tips-on-charles-schwab)
-- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
-- [Taxes on Investment Gains](taxes-on-investment-gains)
-- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
-- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
-- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
-- [Tips on Wash Sale](tips-on-wash-sale)
-- [Tips on Lumibot](tips-on-lumibot)
-- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
-- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
-```
-
 ## fun problems
 ```{dropdown} Click to expand 27 links
 - [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
@@ -4701,8 +4698,8 @@ site:
 - [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
 - [gRPC GraphQL and RESTful APIs](grpc-graphql-and-restful-apis)
 - [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
-- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
 - [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
+- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 - [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
 - [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
@@ -4848,8 +4845,8 @@ site:
 - [Fix Authentication Error of GitHub Repositories on DockerHub](fix-authentication-error-of-github-repositories-on-dockerhub)
 - [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
 - [Batch GitHub Repository Operations Using GitHub Rest API](batch-github-repository-operations-using-github-rest-api)
-- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
 - [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
+- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 - [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
 - [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
@@ -5224,9 +5221,9 @@ site:
 - [Tips on PyTorch](tips-on-pytorch)
 - [Docker for Nvidia GPU](docker-for-nvidia-gpu)
 - [Understand Memory Usage in PyTorch](understand-memory-usage-in-pytorch)
+- [Tips on TensorFlow](tips-on-tensorflow)
 - [LightGBM on GPU](lightgbm-on-gpu)
 - [Use PyTorch on GPU](use-pytorch-on-gpu)
-- [Tips on TensorFlow](tips-on-tensorflow)
 - [GPU for Web](gpu-for-web)
 - [GPU Computing in Python](gpu-computing-in-python)
 - [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
@@ -5243,9 +5240,9 @@ site:
 - [Develop a GUI Application in Rust](develop-a-gui-application-in-rust)
 - [Tips on Dioxus](tips-on-dioxus)
 - [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
-- [The Checkbutton Widget in Tkinter](the-checkbutton-widget-in-tkinter)
-- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
 - [Use Tkinter to Build GUI Applications in Python](use-tkinter-to-build-gui-applications-in-python)
+- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
+- [The Checkbutton Widget in Tkinter](the-checkbutton-widget-in-tkinter)
 - [Python for Desktop Applications](python-for-desktop-applications)
 - [Tips on Electron](tips-on-electron)
 - [GUI Automation Tools in Python](gui-automation-tools-in-python)
@@ -5309,8 +5306,8 @@ site:
 - [Gitignore Examples](gitignore-examples)
 - [Git Implementations and Bindings in Python](git-implementations-and-bindings-in-python)
 - [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
-- [Tips on Git-Filter-Repo](tips-on-git-filter-repo)
 - [Reduce Size of Git Repository](reduce-size-of-git-repository)
+- [Tips on Git-Filter-Repo](tips-on-git-filter-repo)
 - [Software Version Management Tools](software-version-management-tools)
 - [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
 - [Tips on Git Submodule](tips-on-git-submodule)
@@ -5438,6 +5435,25 @@ site:
 - [Tips on Car Seat](tips-on-car-seat)
 - [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
 - [Tips on Mercedes-Benz](tips-on-mercedes-benz)
+```
+
+## finance | Finance
+```{dropdown} Click to expand 15 links
+- [Tax in US](tax-in-us)
+- [Tips on Empower](tips-on-empower)
+- [Investment](investment)
+- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Claim Your Forgotten Money](claim-your-forgotten-money)
+- [Tips on Credit Report](tips-on-credit-report)
+- [Tips on Buying a House](tips-on-buying-a-house)
+- [Tips on Brokerage](tips-on-brokerage)
+- [Understanding Paychecks](understanding-paychecks)
+- [Tips on eTrade](tips-on-etrade)
+- [Rust for Financial Investment](rust-for-financial-investment)
+- [Financial Data](financial-data)
+- [Tips on Certified Deposit](tips-on-certified-deposit)
+- [Good Accounting Tools](good-accounting-tools)
 ```
 
 ## file system
@@ -5621,30 +5637,12 @@ site:
 - [Tips on GCP](tips-on-gcp)
 - [GCP Compute Engine VM Instances](gcp-compute-engine-vm-instances)
 - [Tips on BigQuery](tips-on-bigquery)
-- [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
 - [Tips on ZetaSQL](tips-on-zetasql)
+- [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
 - [Use Python with Google Spreadsheet](use-python-with-google-spreadsheet)
 - [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
 - [Tips on Google Ads](tips-on-google-ads)
 - [Tips on Google Spreadsheet](tips-on-google-spreadsheet)
-```
-
-## finance | Finance
-```{dropdown} Click to expand 14 links
-- [Tips on Empower](tips-on-empower)
-- [Investment](investment)
-- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Claim Your Forgotten Money](claim-your-forgotten-money)
-- [Tips on Credit Report](tips-on-credit-report)
-- [Tips on Buying a House](tips-on-buying-a-house)
-- [Tips on Brokerage](tips-on-brokerage)
-- [Understanding Paychecks](understanding-paychecks)
-- [Tips on eTrade](tips-on-etrade)
-- [Rust for Financial Investment](rust-for-financial-investment)
-- [Financial Data](financial-data)
-- [Tips on Certified Deposit](tips-on-certified-deposit)
-- [Good Accounting Tools](good-accounting-tools)
 ```
 
 ## Pillow
@@ -5689,10 +5687,10 @@ site:
 - [Hands on the Polars Library in Python](hands-on-the-polars-library-in-python)
 - [Hands on the Polars Crate in Rust](hands-on-the-polars-crate-in-rust)
 - [Read CSV Using Polars in Python](read-csv-using-polars-in-python)
-- [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
-- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
-- [Polars Series in Rust](polars-series-in-rust)
 - [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
+- [Polars Series in Rust](polars-series-in-rust)
+- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
+- [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
 - [Read and Write Parquet Files in Rust](read-and-write-parquet-files-in-rust)
 - [Construct Polars DataFrames in Rust](construct-polars-dataframes-in-rust)
 - [Read Parquet Files Using Polars in Rust](read-parquet-files-using-polars-in-rust)
@@ -5708,8 +5706,8 @@ site:
 - [gRPC GraphQL and RESTful APIs](grpc-graphql-and-restful-apis)
 - [Deleting Docker Image Tags on DockerHub using the Python Module requests](deleting-docker-image-tags-on-dockerhub-using-the-python-module-requests)
 - [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
-- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
 - [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
+- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 - [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
 - [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
@@ -6063,8 +6061,8 @@ site:
 - [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
 - [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
 - [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
-- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
 - [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
+- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 - [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
 - [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
@@ -6103,22 +6101,6 @@ site:
 - [Package Management in Linux](package-management-in-linux)
 - [Wirelss for Debian](wirelss-for-debian)
 - [Install Firefox in Debian](install-firefox-in-debian)
-```
-
-## development
-```{dropdown} Click to expand 12 links
-- [Tips on Web Development](tips-on-web-development)
-- [Debugging, Unit Testing and CICD in Python](debugging-unit-testing-and-cicd-in-python)
-- [Tips on Google Firebase Studio](tips-on-google-firebase-studio)
-- [Common Issues and Solutions for GitHub Actions](common-issues-and-solutions-for-github-actions)
-- [Use Docker Containers for GitHub Actions](use-docker-containers-for-github-actions)
-- [Self-hosted Runners for GitHub Actions](self-hosted-runners-for-github-actions)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
-- [Dev Tools for Rust](dev-tools-for-rust)
-- [App Platforms](app-platforms)
-- [Tips on Distributed Development](tips-on-distributed-development)
-- [Tips on Frontend Development](tips-on-frontend-development)
-- [Tips on Backend Development](tips-on-backend-development)
 ```
 
 ## NLP
@@ -6255,6 +6237,21 @@ site:
 - [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
 - [Reduce Size of Git Repository](reduce-size-of-git-repository)
 - [Download a Single File from a GitHub Repository](download-a-single-file-from-a-github-repository)
+```
+
+## development
+```{dropdown} Click to expand 11 links
+- [Tips on Web Development](tips-on-web-development)
+- [Debugging, Unit Testing and CICD in Python](debugging-unit-testing-and-cicd-in-python)
+- [Common Issues and Solutions for GitHub Actions](common-issues-and-solutions-for-github-actions)
+- [Use Docker Containers for GitHub Actions](use-docker-containers-for-github-actions)
+- [Self-hosted Runners for GitHub Actions](self-hosted-runners-for-github-actions)
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [Dev Tools for Rust](dev-tools-for-rust)
+- [App Platforms](app-platforms)
+- [Tips on Distributed Development](tips-on-distributed-development)
+- [Tips on Frontend Development](tips-on-frontend-development)
+- [Tips on Backend Development](tips-on-backend-development)
 ```
 
 ## CICD
@@ -6648,9 +6645,9 @@ site:
 - [Webassembly as An Alternative to Containers](webassembly-as-an-alternative-to-containers)
 - [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
 - [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
-- [Tips on Microk8S](tips-on-microk8s)
-- [Deploy Apache Ray](deploy-apache-ray)
 - [Tips on OpenFaaS](tips-on-openfaas)
+- [Deploy Apache Ray](deploy-apache-ray)
+- [Tips on Microk8S](tips-on-microk8s)
 ```
 
 ## k8s
@@ -6661,9 +6658,9 @@ site:
 - [Webassembly as An Alternative to Containers](webassembly-as-an-alternative-to-containers)
 - [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
 - [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
-- [Tips on Microk8S](tips-on-microk8s)
-- [Deploy Apache Ray](deploy-apache-ray)
 - [Tips on OpenFaaS](tips-on-openfaas)
+- [Deploy Apache Ray](deploy-apache-ray)
+- [Tips on Microk8S](tips-on-microk8s)
 ```
 
 ## EV
@@ -6950,8 +6947,8 @@ site:
 - [Docker Images for Database](docker-images-for-database)
 - [Manage Docker Images and Containers](manage-docker-images-and-containers)
 - [My Docker Images](my-docker-images)
-- [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
 - [Docker Images for Zeppelin](docker-images-for-zeppelin)
+- [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
 - [Docker Images for Visualization](docker-images-for-visualization)
 - [Docker Images for Synchronization](docker-images-for-synchronization)
 ```
@@ -7462,8 +7459,8 @@ site:
 - [Row-based Mapping and Filtering on DataFrames in Spark](row-based-mapping-and-filtering-on-dataframes-in-spark)
 - [The filter Function in Spark DataFrame](the-filter-function-in-spark-dataframe)
 - [Filter pandas DataFrames in Python](filter-pandas-dataframes-in-python)
-- [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
 - [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
+- [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
 ```
 
 ## OOP
@@ -8977,9 +8974,9 @@ site:
 ## Tkinter
 ```{dropdown} Click to expand 4 links
 - [The Label Widget in Tkinter](the-label-widget-in-tkinter)
-- [The Checkbutton Widget in Tkinter](the-checkbutton-widget-in-tkinter)
-- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
 - [Use Tkinter to Build GUI Applications in Python](use-tkinter-to-build-gui-applications-in-python)
+- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
+- [The Checkbutton Widget in Tkinter](the-checkbutton-widget-in-tkinter)
 ```
 
 ## markup
@@ -9033,8 +9030,8 @@ site:
 ## delete
 ```{dropdown} Click to expand 4 links
 - [Deleting Docker Image Tags on DockerHub using the Python Module requests](deleting-docker-image-tags-on-dockerhub-using-the-python-module-requests)
-- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
 - [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
+- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
 - [Delete a Layer in a Pretrained Model in PyTorch](delete-a-layer-in-a-pretrained-model-in-pytorch)
 ```
 
@@ -10069,13 +10066,6 @@ site:
 - [Tips on the tar Command in Linux](tips-on-the-tar-command-in-linux)
 - [Compress and Decompressing Archives in Linux](compress-and-decompressing-archives-in-linux)
 - [Compress and Decompress Files in Rust](compress-and-decompress-files-in-rust)
-```
-
-## coding
-```{dropdown} Click to expand 3 links
-- [Tips on Google Firebase Studio](tips-on-google-firebase-studio)
-- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
-- [Compiler and Build Tools](compiler-and-build-tools)
 ```
 
 ## Nix
@@ -11932,6 +11922,12 @@ site:
 - [Cool Mobile Apps](cool-mobile-apps)
 ```
 
+## coding
+```{dropdown} Click to expand 2 links
+- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
+- [Compiler and Build Tools](compiler-and-build-tools)
+```
+
 ## completion
 ```{dropdown} Click to expand 2 links
 - [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
@@ -12960,8 +12956,8 @@ site:
 
 ## ChunkedArray
 ```{dropdown} Click to expand 2 links
-- [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
 - [Polars Series in Rust](polars-series-in-rust)
+- [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
 ```
 
 ## MetaCall
@@ -13326,8 +13322,8 @@ site:
 
 ## PyJNIus
 ```{dropdown} Click to expand 2 links
-- [Call Java Using PyJNIus from Python](call-java-using-pyjnius-from-python)
 - [Java Interfaces for Python](java-interfaces-for-python)
+- [Call Java Using PyJNIus from Python](call-java-using-pyjnius-from-python)
 ```
 
 ## layer

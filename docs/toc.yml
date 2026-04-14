@@ -824,6 +824,9 @@ project:
             - title: "May"
               children:
                 - pattern: outdated/2025/05/*/*.md
+            - title: "Apr"
+              children:
+                - pattern: outdated/2025/04/*/*.md
         - title: "2024"
           children:
             - title: "Jul"

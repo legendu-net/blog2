@@ -19,6 +19,8 @@ tags:
   - SlickDeals
   - deal
   - alert
+  - restuff
+  - perks
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
@@ -29,6 +31,12 @@ tags:
 2. use rebate website such as [BeFrugal](https://www.befrugal.com/)
 3. look for discount code or coupons
 4. use credit card with cashback
+
+## Discount
+
+- [WiseteckMarket](https://wisetekmarket-restuff.com/) (restuff from companies)
+
+- [Perks At Works](https://www.perksatwork.com)
 
 ## Health Devices/Services Which Are not Covered By Insurance
 
