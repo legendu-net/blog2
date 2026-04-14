@@ -474,6 +474,7 @@ def _subparse_update_tags(subparsers):
     )
     option_indexes(subparser_utag)
     option_files(subparser_utag)
+    option_all(subparser_utag)
     subparser_utag.add_argument(
         "-t",
         "--tags",

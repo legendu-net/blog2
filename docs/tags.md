@@ -5,7 +5,7 @@ site:
 ---
 
 ## programming | Programming
-```{dropdown} Click to expand/collapse 1029 links
+```{dropdown} Click to expand/collapse 1028 links
 - [Popen - Advanced Usage of subprocess](popen-advanced-usage-of-subprocess)
 - [Rust Error "error: expected item, found 'let'"](rust-error-error-expected-item-found-let)
 - [Automated Verizon Phone Bill (Continued)](automated-verizon-phone-bill-continued)
@@ -351,7 +351,6 @@ site:
 - [Constraints on Types in Rust](constraints-on-types-in-rust)
 - [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
 - [AI-first Programming Languages](ai-first-programming-languages)
-- [Tips on Google Firebase Studio](tips-on-google-firebase-studio)
 - [mkShell vs buildFHSUserEnv in Nix](mkshell-vs-buildfhsuserenv-in-nix)
 - [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
 - [Extracting PDF Pages Using the Python Package PyPDF](extracting-pdf-pages-using-the-python-package-pypdf)
@@ -1038,7 +1037,7 @@ site:
 ```
 
 ## Computer Science | computer science
-```{dropdown} Click to expand/collapse 754 links
+```{dropdown} Click to expand/collapse 753 links
 - [Shodan - Search Engine for IoT](shodan-search-engine-for-iot)
 - [Rust Error "error: expected item, found 'let'"](rust-error-error-expected-item-found-let)
 - [Equivalent of C++'s std::set_difference in Rust](equivalent-of-c++-s-std-set_difference-in-rust)
@@ -1147,7 +1146,6 @@ site:
 - [Constraints on Types in Rust](constraints-on-types-in-rust)
 - [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
 - [AI-first Programming Languages](ai-first-programming-languages)
-- [Tips on Google Firebase Studio](tips-on-google-firebase-studio)
 - [Nix and NixOS](nix-and-nixos)
 - [mkShell vs buildFHSUserEnv in Nix](mkshell-vs-buildfhsuserenv-in-nix)
 - [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
@@ -1795,8 +1793,10 @@ site:
 - [Computer Science Algorithms](computer-science-algorithms)
 ```
 
-## Python | python
+## python | Python
 ```{dropdown} Click to expand/collapse 355 links
+- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
+- [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
 - [Format Markdown Using mdformat Python APIs](format-markdown-using-mdformat-python-apis)
 - [Popen - Advanced Usage of subprocess](popen-advanced-usage-of-subprocess)
 - [Get User's Information in Python](get-user-s-information-in-python)
@@ -2150,12 +2150,11 @@ site:
 - [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
 - [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
 - [Generating YYYYMM Formatted Dates Using Python](generating-yyyymm-formatted-dates-using-python)
-- [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
-- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
 ```
 
 ## software | Software
 ```{dropdown} Click to expand/collapse 200 links
+- [Cloud IDE](cloud-ide)
 - [Backup Files Using "rsnapshot"](backup-files-using-rsnapshot)
 - [TeXstudio, Bravo!](texstudio-bravo)
 - [Creative Use of Keepassx -- Odd Skills?](creative-use-of-keepassx-odd-skills)
@@ -2246,7 +2245,6 @@ site:
 - [Vim as a Universal Editor](vim-as-a-universal-editor)
 - [Useful Firefox Add-ons](useful-firefox-add-ons)
 - [My Docker Images](my-docker-images)
-- [Cloud IDE](cloud-ide)
 - [IDE for SQL](ide-for-sql)
 - [Tools With Dark Power](tools-with-dark-power)
 - [Password Management](password-management)
@@ -2553,6 +2551,7 @@ site:
 
 ## Linux | linux
 ```{dropdown} Click to expand/collapse 140 links
+- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
 - [Watching Filesystem Changes Using "inotify"](watching-filesystem-changes-using-inotify)
 - [Creative Use of Keepassx -- Odd Skills?](creative-use-of-keepassx-odd-skills)
 - [Configure Fcitx5 for KDE Plasma](configure-fcitx5-for-kde-plasma)
@@ -2678,7 +2677,6 @@ site:
 - [Fix Package Installation Issue in Linux](fix-package-installation-issue-in-linux)
 - [Sample Lines from a File Using Command Line](sample-lines-from-a-file-using-command-line)
 - [Account Management in Linux](account-management-in-linux)
-- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
 - [Install Java 8 on Ubuntu 14.04](install-java-8-on-ubuntu-14.04)
 - [Install sbt on CentOS](install-sbt-on-centos)
 - [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
@@ -4399,42 +4397,10 @@ site:
 - [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
 ```
 
-## IDE
-```{dropdown} Click to expand/collapse 30 links
-- [TeXstudio, Bravo!](texstudio-bravo)
-- [General Tips on SQL](general-tips-on-sql)
-- [Python Developing in PyCharm](python-developing-in-pycharm)
-- [Typing Chinese in Vim](typing-chinese-in-vim)
-- [Show Inferred Type in IntelliJ IDEA](show-inferred-type-in-intellij-idea)
-- [Tips on IDE](tips-on-ide)
-- [Tips on dbeaver](tips-on-dbeaver)
-- [IDEs for LaTeX](ides-for-latex)
-- [Tips on Visual Studio Code](tips-on-visual-studio-code)
-- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
-- [IDE for Rust](ide-for-rust)
-- [Tips on Google Firebase Studio](tips-on-google-firebase-studio)
-- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
-- [Visual Studio Code for Python](visual-studio-code-for-python)
-- [Tips on AstroNvim](tips-on-astronvim)
-- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
-- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Tips on NeoVim](tips-on-neovim)
-- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
-- [Tips on the Zed IDE](tips-on-the-zed-ide)
-- [IDE for SQL](ide-for-sql)
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
-- [Visual Studio Code Server](visual-studio-code-server)
-- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
-- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
-- [Tips on Python-Language-Server](tips-on-python-language-server)
-- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
-- [AI-based Code Completion Tools](ai-based-code-completion-tools)
-- [IntelliJ IDEA Tips](intellij-idea-tips)
-- [Start RStudio Server After Upgrading](start-rstudio-server-after-upgrading)
-```
-
 ## macOS
 ```{dropdown} Click to expand/collapse 30 links
+- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
+- [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
 - [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
 - [Local Network Access on macOS](local-network-access-on-macos)
 - [Tips on macOS](tips-on-macos)
@@ -4462,8 +4428,6 @@ site:
 - [Mirroring Screen from iPhone or iPad to Macbook](mirroring-screen-from-iphone-or-ipad-to-macbook)
 - [Fix Xcrun Error in Mac](fix-xcrun-error-in-mac)
 - [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
-- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
-- [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
 - [Mount Samba on Mac](mount-samba-on-mac)
 ```
 
@@ -4515,23 +4479,56 @@ site:
 - [Tips on Money Market Fund](tips-on-money-market-fund)
 - [Tips on Robinhood](tips-on-robinhood)
 - [Tips on Pattern Day Trading](tips-on-pattern-day-trading)
+- [Taxes on Investment Gains](taxes-on-investment-gains)
 - [Foreign Currency Investment](foreign-currency-investment)
 - [Diversified Investment](diversified-investment)
 - [Low Risk Investments](low-risk-investments)
 - [Tips on Fidelity](tips-on-fidelity)
+- [Tips on Wash Sale](tips-on-wash-sale)
 - [Tips on Certified Deposit](tips-on-certified-deposit)
 - [Rust for Financial Investment](rust-for-financial-investment)
 - [Tips on Retirement](tips-on-retirement)
 - [Tips on Charles Schwab](tips-on-charles-schwab)
 - [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
-- [Taxes on Investment Gains](taxes-on-investment-gains)
 - [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
 - [Tips on Investing in Bonds](tips-on-investing-in-bonds)
 - [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
-- [Tips on Wash Sale](tips-on-wash-sale)
 - [Tips on Lumibot](tips-on-lumibot)
 - [Calculate the Price of Stocks](calculate-the-price-of-stocks)
 - [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
+```
+
+## IDE
+```{dropdown} Click to expand/collapse 29 links
+- [TeXstudio, Bravo!](texstudio-bravo)
+- [General Tips on SQL](general-tips-on-sql)
+- [Python Developing in PyCharm](python-developing-in-pycharm)
+- [Typing Chinese in Vim](typing-chinese-in-vim)
+- [Show Inferred Type in IntelliJ IDEA](show-inferred-type-in-intellij-idea)
+- [Tips on IDE](tips-on-ide)
+- [Tips on dbeaver](tips-on-dbeaver)
+- [IDEs for LaTeX](ides-for-latex)
+- [Tips on Visual Studio Code](tips-on-visual-studio-code)
+- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
+- [IDE for Rust](ide-for-rust)
+- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+- [Tips on AstroNvim](tips-on-astronvim)
+- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
+- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
+- [Tips on NeoVim](tips-on-neovim)
+- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
+- [Tips on the Zed IDE](tips-on-the-zed-ide)
+- [IDE for SQL](ide-for-sql)
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [Visual Studio Code Server](visual-studio-code-server)
+- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
+- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
+- [Tips on Python-Language-Server](tips-on-python-language-server)
+- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
+- [AI-based Code Completion Tools](ai-based-code-completion-tools)
+- [IntelliJ IDEA Tips](intellij-idea-tips)
+- [Start RStudio Server After Upgrading](start-rstudio-server-after-upgrading)
 ```
 
 ## network | Network
@@ -6108,22 +6105,6 @@ site:
 - [Install Firefox in Debian](install-firefox-in-debian)
 ```
 
-## development
-```{dropdown} Click to expand/collapse 12 links
-- [Tips on Web Development](tips-on-web-development)
-- [Debugging, Unit Testing and CICD in Python](debugging-unit-testing-and-cicd-in-python)
-- [Tips on Google Firebase Studio](tips-on-google-firebase-studio)
-- [Common Issues and Solutions for GitHub Actions](common-issues-and-solutions-for-github-actions)
-- [Use Docker Containers for GitHub Actions](use-docker-containers-for-github-actions)
-- [Self-hosted Runners for GitHub Actions](self-hosted-runners-for-github-actions)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
-- [Dev Tools for Rust](dev-tools-for-rust)
-- [App Platforms](app-platforms)
-- [Tips on Distributed Development](tips-on-distributed-development)
-- [Tips on Frontend Development](tips-on-frontend-development)
-- [Tips on Backend Development](tips-on-backend-development)
-```
-
 ## NLP
 ```{dropdown} Click to expand/collapse 12 links
 - [Nature Language Processing Using NLTK](nature-language-processing-using-nltk)
@@ -6258,6 +6239,21 @@ site:
 - [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
 - [Reduce Size of Git Repository](reduce-size-of-git-repository)
 - [Download a Single File from a GitHub Repository](download-a-single-file-from-a-github-repository)
+```
+
+## development
+```{dropdown} Click to expand/collapse 11 links
+- [Tips on Web Development](tips-on-web-development)
+- [Debugging, Unit Testing and CICD in Python](debugging-unit-testing-and-cicd-in-python)
+- [Common Issues and Solutions for GitHub Actions](common-issues-and-solutions-for-github-actions)
+- [Use Docker Containers for GitHub Actions](use-docker-containers-for-github-actions)
+- [Self-hosted Runners for GitHub Actions](self-hosted-runners-for-github-actions)
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [Dev Tools for Rust](dev-tools-for-rust)
+- [App Platforms](app-platforms)
+- [Tips on Distributed Development](tips-on-distributed-development)
+- [Tips on Frontend Development](tips-on-frontend-development)
+- [Tips on Backend Development](tips-on-backend-development)
 ```
 
 ## CICD
@@ -7359,6 +7355,16 @@ site:
 - [Useful Docker Images](useful-docker-images)
 ```
 
+## Mac | mac
+```{dropdown} Click to expand/collapse 6 links
+- [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
+- [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
+- [Map Keys in macOS](map-keys-in-macos)
+- [Docker on Mac](docker-on-mac)
+- [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
+- [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
+```
+
 ## const
 ```{dropdown} Click to expand/collapse 6 links
 - [Rust Error "error: expected item, found 'let'"](rust-error-error-expected-item-found-let)
@@ -7447,16 +7453,6 @@ site:
 - [Unit Test in Rust](unit-test-in-rust)
 - [Useful Rust Crates for Testing](useful-rust-crates-for-testing)
 - [Data for Testing](data-for-testing)
-```
-
-## mac | Mac
-```{dropdown} Click to expand/collapse 6 links
-- [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
-- [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
-- [Map Keys in macOS](map-keys-in-macos)
-- [Docker on Mac](docker-on-mac)
-- [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
-- [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
 ```
 
 ## filter
@@ -8441,6 +8437,14 @@ site:
 - [Tips on gRPC](tips-on-grpc)
 ```
 
+## cloud IDE | Cloud IDE
+```{dropdown} Click to expand/collapse 4 links
+- [Cloud IDE](cloud-ide)
+- [Tips on Eclipse Che](tips-on-eclipse-che)
+- [Tips on Cloud9](tips-on-cloud9)
+- [Tips on IDE](tips-on-ide)
+```
+
 ## encryption
 ```{dropdown} Click to expand/collapse 4 links
 - [Age Is a Modern Alternative to GnuPG](age-is-a-modern-alternative-to-gnupg)
@@ -8847,14 +8851,6 @@ site:
 - [Building Tool for Scala](building-tool-for-scala)
 - [Build a Fat JAR Using Maven Without a Java Project](build-a-fat-jar-using-maven-without-a-java-project)
 - [Maven Dependencies](maven-dependencies)
-```
-
-## cloud IDE | Cloud IDE
-```{dropdown} Click to expand/collapse 4 links
-- [Tips on Eclipse Che](tips-on-eclipse-che)
-- [Tips on Cloud9](tips-on-cloud9)
-- [Cloud IDE](cloud-ide)
-- [Tips on IDE](tips-on-ide)
 ```
 
 ## package management
@@ -10075,13 +10071,6 @@ site:
 - [Compress and Decompress Files in Rust](compress-and-decompress-files-in-rust)
 ```
 
-## coding
-```{dropdown} Click to expand/collapse 3 links
-- [Tips on Google Firebase Studio](tips-on-google-firebase-studio)
-- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
-- [Compiler and Build Tools](compiler-and-build-tools)
-```
-
 ## Nix
 ```{dropdown} Click to expand/collapse 3 links
 - [Nix and NixOS](nix-and-nixos)
@@ -10542,6 +10531,36 @@ site:
 - [Use XGBoost With Spark](use-xgboost-with-spark)
 - [Tips on XGBoost](tips-on-xgboost)
 - [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
+```
+
+## Cloud9 | cloud9
+```{dropdown} Click to expand/collapse 2 links
+- [Cloud IDE](cloud-ide)
+- [Tips on Cloud9](tips-on-cloud9)
+```
+
+## Eclipse Che
+```{dropdown} Click to expand/collapse 2 links
+- [Cloud IDE](cloud-ide)
+- [Tips on Eclipse Che](tips-on-eclipse-che)
+```
+
+## group
+```{dropdown} Click to expand/collapse 2 links
+- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
+- [User Access Control on Linux](user-access-control-on-linux)
+```
+
+## getent
+```{dropdown} Click to expand/collapse 2 links
+- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
+- [Account Management in Linux](account-management-in-linux)
+```
+
+## MacPorts
+```{dropdown} Click to expand/collapse 2 links
+- [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
+- [Tips on MacPorts](tips-on-macports)
 ```
 
 ## GnuPG
@@ -11486,18 +11505,6 @@ site:
 - [Overwrite Entrypoint in Docker](overwrite-entrypoint-in-docker)
 ```
 
-## Eclipse Che
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Eclipse Che](tips-on-eclipse-che)
-- [Cloud IDE](cloud-ide)
-```
-
-## cloud9 | Cloud9
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Cloud9](tips-on-cloud9)
-- [Cloud IDE](cloud-ide)
-```
-
 ## snap
 ```{dropdown} Click to expand/collapse 2 links
 - [Snappy Apps](snappy-apps)
@@ -11568,12 +11575,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on WSL 2](tips-on-wsl-2)
 - [Docker in WSL 2](docker-in-wsl-2)
-```
-
-## MacPorts
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on MacPorts](tips-on-macports)
-- [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
 ```
 
 ## JupyterHub
@@ -11946,6 +11947,12 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on RV](tips-on-rv)
 - [Cool Mobile Apps](cool-mobile-apps)
+```
+
+## coding
+```{dropdown} Click to expand/collapse 2 links
+- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
+- [Compiler and Build Tools](compiler-and-build-tools)
 ```
 
 ## completion
@@ -13406,12 +13413,6 @@ site:
 - [The GPT-2 Model in NLP](the-gpt-2-model-in-nlp)
 ```
 
-## group
-```{dropdown} Click to expand/collapse 2 links
-- [User Access Control on Linux](user-access-control-on-linux)
-- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
-```
-
 ## iPad
 ```{dropdown} Click to expand/collapse 2 links
 - [Mirroring Screen from iPhone or iPad to Macbook](mirroring-screen-from-iphone-or-ipad-to-macbook)
@@ -13452,12 +13453,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [English Learning](english-learning)
 - [English Vocabulary](english-vocabulary)
-```
-
-## getent
-```{dropdown} Click to expand/collapse 2 links
-- [Account Management in Linux](account-management-in-linux)
-- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
 ```
 
 ## estimation
