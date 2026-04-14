@@ -1,13 +1,13 @@
 ---
-title: "The fzf Command Is a Great Alternative to find"
+title: The fzf Command Is a Great Alternative to find
 created: 2025-04-29 23:37:05
-date: 2025-06-15 23:10:59
+date: 2026-04-13 23:14:22.061883
 authors:
   - bendu
 label: the-fzf-command-is-a-great-alternative-to-find
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - fzf
   - find
@@ -26,11 +26,11 @@ tags:
 
 ## Speed up `fzf`
 
-1. By default, 
-    `fzf` uses `find` to find files.
-    A different command can be configured via the environment varialbe `FZF_DEFAULT_COMMAND`.
-    It is suggested that you use `fd`
-    which is both more intuitive and way much faster.
+1. By default,
+   `fzf` uses `find` to find files.
+   A different command can be configured via the environment varialbe `FZF_DEFAULT_COMMAND`.
+   It is suggested that you use `fd`
+   which is both more intuitive and way much faster.
 
 ## References
 

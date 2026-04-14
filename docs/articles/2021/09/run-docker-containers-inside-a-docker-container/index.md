@@ -1,13 +1,13 @@
 ---
-title: "Run Docker Containers Inside a Docker Container"
+title: Run Docker Containers Inside a Docker Container
 created: 2021-09-13 10:55:29
-date: 2021-09-13 10:55:29
+date: 2026-04-13 23:14:11.077476
 authors:
   - bendu
 label: run-docker-containers-inside-a-docker-container
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Docker
   - container
@@ -15,18 +15,16 @@ tags:
   - container in container
 ---
 
-
-
-You can run Docker containers inside a Docker container. 
+You can run Docker containers inside a Docker container.
 To allow this,
-you have to pass the docker socks into the container 
+you have to pass the docker socks into the container
 using the option `-v /var/run/docker.sock:/var/run/docker.sock`.
 For more discussions,
 please refer to
 [How To Run Docker in Docker Container [3 Easy Methods]](https://devopscube.com/run-docker-in-docker/#:~:text=To%20run%20docker%20inside%20docker,sock%20as%20a%20volume.&text=Just%20a%20word%20of%20caution,privileges%20over%20your%20docker%20daemon)
 .
-However, 
-be aware of potential security issues 
+However,
+be aware of potential security issues
 as this essentially gives root access of the host system to the Docker container.
 
 ## References

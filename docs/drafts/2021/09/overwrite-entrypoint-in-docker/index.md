@@ -1,13 +1,13 @@
 ---
-title: "Overwrite Entrypoint in Docker"
+title: Overwrite Entrypoint in Docker
 created: 2021-09-13 10:51:19
-date: 2021-09-13 10:51:19
+date: 2026-04-13 23:14:56.932537
 authors:
   - bendu
 label: overwrite-entrypoint-in-docker
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Docker
   - entrypoint
@@ -16,7 +16,7 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 1. You can pass the option `--entrypoint` to the command `docker`
-    to overwrite the entrypoint at runtime.
+   to overwrite the entrypoint at runtime.
 
 ## References
 

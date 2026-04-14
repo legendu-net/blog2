@@ -1,41 +1,41 @@
 ---
 title: Fix Shell Commands Using fc
 created: 2025-07-06 11:08:48
-date: 2026-04-05 19:42:39.133343
+date: 2026-04-13 23:15:29.427408
 authors:
-- bendu
+  - bendu
 label: fix-shell-commands-using-fc
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- shell
-- command
-- bash
-- zsh
-- fc
+  - computer science
+  - programming
+  - shell
+  - command
+  - bash
+  - zsh
+  - fc
 ---
+
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-[Fish Shell]( https://www.legendu.net/misc/blog/tips-on-the-fish-shell ) 
+[Fish Shell](https://www.legendu.net/misc/blog/tips-on-the-fish-shell)
 is preferred to Bash/Zsh.
 The following content is for Bash/Zsh only.
-
 
 [fzf.history](https://github.com/legendu-net/icon/blob/dev/utils/data/bash-it/plugins/custom.plugins.bash#L149)
 is a better alternative to `fc`'s core functionality (edit and re-execute command).
 
 ## Tips & Traps
 
-1. In Linux shells like Bash and Zsh, 
-    `fc` is a built-in command that stands for "Fix Command".
-    Its primary purpose is to let you edit and re-execute commands 
-    from your history using `$EDITOR`.
+1. In Linux shells like Bash and Zsh,
+   `fc` is a built-in command that stands for "Fix Command".
+   Its primary purpose is to let you edit and re-execute commands
+   from your history using `$EDITOR`.
 
-2. `fc -l 1` might throw the error `-bash: fc: history specification out of range` in bash
-    (some people say that this won't be an issue in zsh as zsh is smart enough to handle specification out of range but I haven't verified it yet)
-    if the (absolute) first bash history command has been pruned (due to large number of history commands).
-    `HISTTIMEFORMAT="" history | sed -E 's/^[ ]*[0-9]+[ ]*//'` is a more robust command for the same purpose.
+1. `fc -l 1` might throw the error `-bash: fc: history specification out of range` in bash
+   (some people say that this won't be an issue in zsh as zsh is smart enough to handle specification out of range but I haven't verified it yet)
+   if the (absolute) first bash history command has been pruned (due to large number of history commands).
+   `HISTTIMEFORMAT="" history | sed -E 's/^[ ]*[0-9]+[ ]*//'` is a more robust command for the same purpose.
 
 <table>
     <thead>

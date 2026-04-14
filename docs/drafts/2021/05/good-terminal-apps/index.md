@@ -1,43 +1,47 @@
 ---
 title: Good Terminal Apps
 created: 2021-05-11 08:45:30
-date: 2026-04-03 13:37:44.599556
+date: 2026-04-13 23:15:02.244956
 authors:
-- bendu
+  - bendu
 label: good-terminal-apps
 license: CC-BY-4.0
 tags:
-- Computer Science
-- terminal
-- software
-- tools
-- Warp
-- wezterm
-- alacritty
-- hyper
-- kitty
-
+  - computer science
+  - terminal
+  - software
+  - tools
+  - Warp
+  - wezterm
+  - alacritty
+  - hyper
+  - kitty
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## [Wave](https://www.waveterm.dev/)
+
 [Wave](https://www.waveterm.dev/)
-is an open-source terminal with superpowers, 
+is an open-source terminal with superpowers,
 integrating file previews, file editing, AI, web browsing, and workspace organization.
 
 ## [Ghostty](https://github.com/ghostty-org/ghostty)
+
 [Ghostty](https://github.com/ghostty-org/ghostty)
-is a fast, feature-rich, and cross-platform terminal emulator 
+is a fast, feature-rich, and cross-platform terminal emulator
 that uses platform-native UI and GPU acceleration.
 
 ## [Warp](https://www.warp.dev/)
+
 [Warp](https://www.warp.dev/)
-is a blazingly fast, rust-based terminal 
+is a blazingly fast, rust-based terminal
 reimagined from the ground up to work like a modern app.
 
 ## [wezterm](https://github.com/wez/wezterm)
+
 [wezterm](https://github.com/wez/wezterm)
-is a GPU-accelerated cross-platform terminal emulator and multiplexer 
+is a GPU-accelerated cross-platform terminal emulator and multiplexer
 implemented in Rust
 .
 

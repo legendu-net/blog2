@@ -1,21 +1,21 @@
 ---
 title: Use Streamlit to Build a Web App Quickly Using Python
 created: 2020-04-07 09:32:07
-date: 2026-04-05 19:42:37.807938
+date: 2026-04-13 23:15:24.200666
 authors:
-- bendu
+  - bendu
 label: use-streamlit-to-build-a-web-app-quickly-using-python
 license: CC-BY-4.0
 tags:
-- Computer Science
-- Python
-- Streamlit
-- web
-- app
-- application
+  - computer science
+  - Python
+  - Streamlit
+  - web
+  - app
+  - application
 ---
-**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 https://docs.streamlit.io/
 

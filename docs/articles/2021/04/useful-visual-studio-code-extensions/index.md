@@ -1,13 +1,13 @@
 ---
-title: "Useful Visual Studio Code Extensions"
+title: Useful Visual Studio Code Extensions
 created: 2021-04-30 12:19:38
-date: 2021-03-30 12:19:38
+date: 2026-04-13 23:14:11.977571
 authors:
   - bendu
 label: useful-visual-studio-code-extensions
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - IDE
   - VSCode
@@ -15,7 +15,7 @@ tags:
   - extension
 ---
 
-## Places to Find Extensoins 
+## Places to Find Extensoins
 
 [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/vscode)
 and
@@ -26,27 +26,30 @@ are 2 places to find VSCode compatible extensions.
 
 https://stackoverflow.com/questions/34286515/how-to-install-visual-studio-code-extensions-from-command-line/34339780#34339780
 
-
 ## Install Code-Server Extensions from Command-line
 
 If you install extension in Dockerfile using `root`,
 the extensions are installed into `/root/.local/share/code-server/extensions`.
-You change the the permissions of `/root` and all its subcontents to 777 
-(using the command `chmod -R 777 /root`) 
+You change the the permissions of `/root` and all its subcontents to 777
+(using the command `chmod -R 777 /root`)
 so that other users can use the installed extensions.
 
-    :::bash
-    code-server --install-extension ms-python.python
-    code-server --install-extension njpwerner.autodocstring
+```
+:::bash
+code-server --install-extension ms-python.python
+code-server --install-extension njpwerner.autodocstring
+```
 
 You can install a specific version of an extension using `@`.
 
-    :::bash
-    code-server --install-extension ms-python.python@2020.5.86806 \
+```
+:::bash
+code-server --install-extension ms-python.python@2020.5.86806 \
+```
 
 https://github.com/cdr/code-server/issues/171
 
-## Generally Useful Extensions 
+## Generally Useful Extensions
 
 - [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
 
@@ -73,7 +76,7 @@ https://github.com/cdr/code-server/issues/171
 - [Python (by Microsoft)](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 - [Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
-    Thhe sphinx style is recommended.
+  Thhe sphinx style is recommended.
 
 - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 

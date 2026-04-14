@@ -1,13 +1,13 @@
 ---
-title: "Convert HEIC Images in Linux"
+title: Convert HEIC Images in Linux
 created: 2022-01-01 13:41:55
-date: 2022-12-07 22:11:36
+date: 2026-04-13 23:14:50.496405
 authors:
   - bendu
 label: convert-heic-images-in-linux
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - iOS
   - HEIC
@@ -22,22 +22,29 @@ tags:
 
 ## Installation on Ubuntu
 
-    :::bash
-    sudo apt install heif-gdk-pixbuf libheif-examples
+```
+:::bash
+sudo apt install heif-gdk-pixbuf libheif-examples
+```
 
 ## Usage
 
-    :::bash
-    heif-convert input.HEIC output.jpg
-    
+```
+:::bash
+heif-convert input.HEIC output.jpg
+```
+
 ## Batch Convert Using IPython / JupyterLab
-If you have multiple HIEC images 
+
+If you have multiple HIEC images
 and you want to convert all of them to JPG images,
 then you use the following code in IPython or a JupyterLab notebook.
 
-    :::bash
-    for p in Path().glob("*.HEIC"):
-        !heif-convert {p} {p.with_suffix(".jpg")}
+```
+:::bash
+for p in Path().glob("*.HEIC"):
+    !heif-convert {p} {p.with_suffix(".jpg")}
+```
 
 ## References
 

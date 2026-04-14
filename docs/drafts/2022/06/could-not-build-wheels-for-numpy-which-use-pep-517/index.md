@@ -1,28 +1,31 @@
 ---
 title: Could Not Build Wheels for Numpy Which Use Pep 517
 created: 2022-06-06 13:26:43
-date: 2026-04-05 19:42:37.676998
+date: 2026-04-13 23:14:47.239919
 authors:
-- bendu
+  - bendu
 label: could-not-build-wheels-for-numpy-which-use-pep-517
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- Python
-- numpy
-- scipy
-- pip
-- pip3
-- PEP 517
+  - computer science
+  - programming
+  - Python
+  - numpy
+  - scipy
+  - pip
+  - pip3
+  - PEP 517
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 This is due to outdated version of pip.
 Update your pip to the latest version should fix the issue.
 
-    :::bash
-    pip3 install -U pip
+```
+:::bash
+pip3 install -U pip
+```
 
 ## References
 

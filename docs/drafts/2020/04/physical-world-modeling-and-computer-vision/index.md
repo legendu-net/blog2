@@ -1,13 +1,13 @@
 ---
-title: "Physical World Modeling and Computer Vision"
+title: Physical World Modeling and Computer Vision
 created: 2020-04-29 23:11:37
-date: 2020-04-29 23:11:37
+date: 2026-04-13 23:15:22.695937
 authors:
   - bendu
 label: physical-world-modeling-and-computer-vision
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - computer vision
   - CV
   - physics

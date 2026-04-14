@@ -1,13 +1,13 @@
 ---
-title: "Tips on the Zed IDE"
+title: Tips on the Zed IDE
 created: 2025-04-17 16:58:12
-date: 2025-04-28 13:47:53
+date: 2026-04-13 23:14:22.359890
 authors:
   - bendu
 label: tips-on-the-zed-ide
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - IDE
   - Zed
@@ -18,10 +18,10 @@ tags:
 ## Tips and Traps
 
 1. Zed does not support the web version yet,
-    however,
-    it does support 
-    [remote develop](https://zed.dev/docs/remote-development)
-    .
+   however,
+   it does support
+   [remote develop](https://zed.dev/docs/remote-development)
+   .
 
 ## Install via Flatpak
 

@@ -1,13 +1,13 @@
 ---
-title: "Mercurial for Git Users"
+title: Mercurial for Git Users
 created: 2022-11-10 20:31:49
-date: 2024-06-17 11:28:39
+date: 2026-04-13 23:14:40.226400
 authors:
   - bendu
 label: mercurial-for-git-users
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - mercurial
   - git
@@ -22,32 +22,40 @@ tags:
 
 The codes used to show the status of files are:
 
-    M = modified
-    A = added
-    R = removed
-    C = clean
-    ! = missing (deleted by non-hg command, but still tracked)
-    ? = not tracked
-    I = ignored
-      = origin of the previous file (with --copies)
+```
+M = modified
+A = added
+R = removed
+C = clean
+! = missing (deleted by non-hg command, but still tracked)
+? = not tracked
+I = ignored
+  = origin of the previous file (with --copies)
+```
 
 Remove a missing file from tracking.
 
-    :::bash
-    hg remove -A
+```
+:::bash
+hg remove -A
+```
 
 ## Some Useful Command
 
 List changed files with their status.
-    
-    :::bash
-    hg pstatus
+
+```
+:::bash
+hg pstatus
+```
 
 List changed files without status.
 
-    :::bash
-    hg pstatus --no-status
-    
+```
+:::bash
+hg pstatus --no-status
+```
+
 ## .hgignore
 
 https://wiki.mercurial-scm.org/.hgignore
@@ -55,6 +63,5 @@ https://wiki.mercurial-scm.org/.hgignore
 ## References
 
 - [Mercurial for Git Users (and vice versa)](https://www.rath.org/mercurial-for-git-users-and-vice-versa.html)
-
 
 - [Mercurial source code management system](https://www.mercurial-scm.org/doc/hg.1.html)

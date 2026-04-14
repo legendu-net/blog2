@@ -1,13 +1,13 @@
 ---
-title: "Use Flake8 to Lint Python Scripts"
+title: Use Flake8 to Lint Python Scripts
 created: 2020-08-25 14:52:31
-date: 2021-02-25 14:52:31
+date: 2026-04-13 23:15:17.057632
 authors:
   - bendu
 label: use-flake8-to-lint-python-scripts
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Python
   - flake8
   - linter
@@ -15,27 +15,27 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
-
 ## Configration
 
-It is suggested that you put the configuration into a file named `.flake8` 
+It is suggested that you put the configuration into a file named `.flake8`
 in the root directory of your project.
 When flake8 supports `pyproject.toml` later,
 it is best to configure flake8 in `pyproject.toml`.
 Below is an example of configuration.
 
-    :::text
-    [flake8]
-    ignore = C901,E501,E251,E124,E125,E722,E261,E265,W291,W292,W293
-    exclude = __init__.py,docs/source/conf.py,old,build,dist,.git,__pycache__
-    max-complexity = 10
+```
+:::text
+[flake8]
+ignore = C901,E501,E251,E124,E125,E722,E261,E265,W291,W292,W293
+exclude = __init__.py,docs/source/conf.py,old,build,dist,.git,__pycache__
+max-complexity = 10
+```
 
 Please refer to the following link for an example of configuration.
 
 https://github.com/dclong/xinstall/blob/dev/xinstall/data/flake8/flake8
 
-## References 
+## References
 
 https://flake8.pycqa.org/en/latest/index.html
 

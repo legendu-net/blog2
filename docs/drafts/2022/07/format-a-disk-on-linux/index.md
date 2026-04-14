@@ -1,13 +1,13 @@
 ---
-title: "Format a Disk on Linux"
+title: Format a Disk on Linux
 created: 2022-07-28 10:33:40
-date: 2022-07-28 10:33:40
+date: 2026-04-13 23:14:44.192740
 authors:
   - bendu
 label: format-a-disk-on-linux
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - hardware
   - disk
   - drive
@@ -22,26 +22,30 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 1. Locate the right disk to operate on.
-    A few commands might help you.
-    For example,
-    you can use the command `ls /dev/sd*` to list all hard drives
-    and the command `ls /dev/nvme*` to list NVME (SSD) drives.
-    Or you can simply use the command `lsblk` to list all block devices 
-    (which include all hard and solid-state disks).
+   A few commands might help you.
+   For example,
+   you can use the command `ls /dev/sd*` to list all hard drives
+   and the command `ls /dev/nvme*` to list NVME (SSD) drives.
+   Or you can simply use the command `lsblk` to list all block devices
+   (which include all hard and solid-state disks).
 
-2. Create disk partition tables using the command `fdisk`.
+1. Create disk partition tables using the command `fdisk`.
 
-        :::bash
-        fdisk /dev/sdb
-        fdisk /dev/nvme0n1
+   ```
+    :::bash
+    fdisk /dev/sdb
+    fdisk /dev/nvme0n1
+   ```
 
-3. Format partitions to the right format (`ext4` recommended).
-    For example,
-    the following command formats the partition `/dev/sdb3` as ext4.
+1. Format partitions to the right format (`ext4` recommended).
+   For example,
+   the following command formats the partition `/dev/sdb3` as ext4.
 
-        :::bash
-        mkfs.ext4 /dev/sdb3
-        mkfs.ext4 /dev/nvme0n1p1
+   ```
+    :::bash
+    mkfs.ext4 /dev/sdb3
+    mkfs.ext4 /dev/nvme0n1p1
+   ```
 
 ## References
 

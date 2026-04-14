@@ -1,13 +1,13 @@
 ---
-title: "Retrieval-Augmented Generation for LLM"
+title: Retrieval-Augmented Generation for LLM
 created: 2023-12-11 11:16:32
-date: 2023-12-11 12:40:25
+date: 2026-04-13 23:14:25.074437
 authors:
   - bendu
 label: retrieval-augmented-generation-for-llm
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - LLM
   - AI
@@ -22,7 +22,6 @@ tags:
 
 What is retrieval-augmented generation?
 https://research.ibm.com/blog/retrieval-augmented-generation-RAG
-
 
 What is retrieval-augmented generation? @ YouTube
 https://www.youtube.com/watch?v=T-D1OfcDW1M

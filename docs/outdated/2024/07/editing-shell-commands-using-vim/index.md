@@ -1,64 +1,69 @@
 ---
-title: "Editing Shell Commands Using Vim"
+title: Editing Shell Commands Using Vim
 created: 2024-07-22 13:39:40
-date: 2025-06-09 02:49:30
+date: 2026-04-13 23:15:30.037724
 authors:
   - bendu
 label: editing-shell-commands-using-vim
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
 ---
 
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-[Fish Shell]( https://www.legendu.net/misc/blog/tips-on-the-fish-shell ) 
+[Fish Shell](https://www.legendu.net/misc/blog/tips-on-the-fish-shell)
 is preferred to Bash/Zsh.
 The following content is for Bash/Zsh only.
 
 1. A bash prompt can be editted in both Vi mode and Emacs mode.
-    The default is Emacs mode.
-    You can turn on the Vi mode by `set -o vi` in `.bashrc`.
-    This will make all bash prompts be edited in a limited single-line Vi mode.
+   The default is Emacs mode.
+   You can turn on the Vi mode by `set -o vi` in `.bashrc`.
+   This will make all bash prompts be edited in a limited single-line Vi mode.
 
-2. The `fc` command edits the last shell command (using `$EDITOR`) and then send it for execution.
+1. The `fc` command edits the last shell command (using `$EDITOR`) and then send it for execution.
 
-3. The shortcut `ctrl+x` `ctrl+e`
-    edits the current shell prompt using `$VISUAL` or `$EDITOR`.
-    If you want to use neovim as the editor,
-    add the following configuration into your shell configuration.
+1. The shortcut `ctrl+x` `ctrl+e`
+   edits the current shell prompt using `$VISUAL` or `$EDITOR`.
+   If you want to use neovim as the editor,
+   add the following configuration into your shell configuration.
 
-        export VISUAL=nvim
-        export EDITOR=nvim
+   ```
+    export VISUAL=nvim
+    export EDITOR=nvim
+   ```
 
-    This is the recommended way to edit shell prompts
-    as it allows your the full power and flexibility of the Vim editor.
-    For example,
+   This is the recommended way to edit shell prompts
+   as it allows your the full power and flexibility of the Vim editor.
+   For example,
 
-    - You are not limited to single-line editing of a single command.
-         - You can span a complicated command to multiple lines using `\`.
-         - You can split a complicated command into multiple simpler commands on multiple lines.
-            On quiting Vim,
-            those commands will be run in sequential.
-    - If you find that you need information from historical commands
-        while editing a prompt,
-        you can bring historical commands in using the following command in Vim.
+   - You are not limited to single-line editing of a single command.
 
-            :r ! fc -ln -10
-            
-    Notice that the shortcut `ctrl+x` `ctrl+e`
-    doesn't work out-of-the-box in the terminal in Visual Studio Code.
-    For more discussions,
-    please refer to
-    [Configuraing Terminal in Visual Studio Code]( https://www.legendu.net/misc/blog/configuraing-terminal-in-visual-studio-code )  
-    .
+     - You can span a complicated command to multiple lines using `\`.
+     - You can split a complicated command into multiple simpler commands on multiple lines.
+       On quiting Vim,
+       those commands will be run in sequential.
 
+   - If you find that you need information from historical commands
+     while editing a prompt,
+     you can bring historical commands in using the following command in Vim.
 
-4. [fzf.history](https://github.com/legendu-net/icon/blob/dev/utils/data/bash-it/plugins/custom.plugins.bash#L124)
-    allows you to search through shell command history,
-    select one, editing it in `$EDITOR`,
-    and then send the edited command for execution.
+     ```
+       :r ! fc -ln -10
+     ```
+
+   Notice that the shortcut `ctrl+x` `ctrl+e`
+   doesn't work out-of-the-box in the terminal in Visual Studio Code.
+   For more discussions,
+   please refer to
+   [Configuraing Terminal in Visual Studio Code](https://www.legendu.net/misc/blog/configuraing-terminal-in-visual-studio-code)\
+   .
+
+1. [fzf.history](https://github.com/legendu-net/icon/blob/dev/utils/data/bash-it/plugins/custom.plugins.bash#L124)
+   allows you to search through shell command history,
+   select one, editing it in `$EDITOR`,
+   and then send the edited command for execution.
 
 ## References
 

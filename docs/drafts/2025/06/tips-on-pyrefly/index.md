@@ -1,13 +1,13 @@
 ---
-title: "Tips on Pyrefly"
+title: Tips on Pyrefly
 created: 2025-06-12 02:34:51
-date: 2025-06-12 02:34:51
+date: 2026-04-13 23:14:19.925332
 authors:
   - bendu
 label: tips-on-pyrefly
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - pyrefly
   - Python

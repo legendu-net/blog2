@@ -1,13 +1,13 @@
 ---
-title: "CI/CD Tools and Frameworks"
+title: CI/CD Tools and Frameworks
 created: 2021-04-07 10:03:06
-date: 2021-04-07 10:03:06
+date: 2026-04-13 23:15:03.603906
 authors:
   - bendu
 label: ci-cd-tools-and-frameworks
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - CI
   - CD
@@ -21,12 +21,11 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 ## Tools
 
 ### GitHub Actions
 
-### Travis CI 
+### Travis CI
 
 ### Jenkins
 
@@ -37,7 +36,6 @@ tags:
 ### [act](https://github.com/nektos/act)
 
 Run your GitHub Actions locally.
-
 
 ## References
 

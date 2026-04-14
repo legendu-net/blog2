@@ -1,13 +1,13 @@
 ---
-title: "Shell in Docker"
+title: Shell in Docker
 created: 2020-06-21 10:46:43
-date: 2020-06-21 10:46:43
+date: 2026-04-13 23:15:19.886745
 authors:
   - bendu
 label: shell-in-docker
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Docker
   - shell
   - container
@@ -27,5 +27,7 @@ https://docs.docker.com/engine/reference/builder/#shell
 
 Just set the SHELL environment variable in the Docker image.
 
-    :::bash
-    ENV SHELL=/bin/bash
+```
+:::bash
+ENV SHELL=/bin/bash
+```

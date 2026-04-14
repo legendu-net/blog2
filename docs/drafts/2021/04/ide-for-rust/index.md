@@ -1,42 +1,41 @@
 ---
 title: IDE for Rust
 created: 2021-04-20 08:43:39
-date: 2026-04-05 19:42:37.744852
+date: 2026-04-13 23:15:05.738914
 authors:
-- bendu
+  - bendu
 label: ide-for-rust
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- Rust
-- IDE
+  - computer science
+  - programming
+  - Rust
+  - IDE
 ---
-**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Visual Studio Code
 
-1. The 
-    [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)
-    extension seems to be a good option.
+1. The
+   [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)
+   extension seems to be a good option.
 
-2. [Rust extenstion (rust-lang.rust)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) 
-    is another posssible extension for Rust
-    but does not work as well as 
-    [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)
-    .
+1. [Rust extenstion (rust-lang.rust)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
+   is another posssible extension for Rust
+   but does not work as well as
+   [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)
+   .
 
 ## [RustRover: Rust IDE by JetBrains](https://www.jetbrains.com/rust/)
 
 ## Zed
 
-See 
-[Tips on the Zed IDE]( https://www.legendu.net/misc/blog/tips-on-the-zed-ide )
+See
+[Tips on the Zed IDE](https://www.legendu.net/misc/blog/tips-on-the-zed-ide)
 .
 
 ## Lapce
-
 
 ## References
 

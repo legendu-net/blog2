@@ -1,13 +1,13 @@
 ---
-title: "Tips on Speechlogger"
+title: Tips on Speechlogger
 created: 2020-03-29 17:49:42
-date: 2020-03-29 17:49:42
+date: 2026-04-13 23:15:26.042939
 authors:
   - bendu
 label: tips-on-speechlogger
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - SpeechLogger
   - voice
   - recognition
@@ -17,7 +17,6 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 1. You can configure the source of voice of SpeechLogger.
 
-    ![SpeechLogger](https://user-images.githubusercontent.com/824507/77865965-ca145100-71e5-11ea-9aa6-20f31ade5534.png)
+   ![SpeechLogger](https://user-images.githubusercontent.com/824507/77865965-ca145100-71e5-11ea-9aa6-20f31ade5534.png)

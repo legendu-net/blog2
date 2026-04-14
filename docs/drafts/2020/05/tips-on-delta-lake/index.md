@@ -1,13 +1,13 @@
 ---
-title: "Tips on Delta Lake"
+title: Tips on Delta Lake
 created: 2020-05-19 19:49:16
-date: 2021-09-20 11:12:54
+date: 2026-04-13 23:15:21.803583
 authors:
   - bendu
 label: tips-on-delta-lake
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - big data
   - Spark
   - delta lake
@@ -18,24 +18,22 @@ tags:
 
 ![Delta Lake](https://miro.medium.com/max/1400/1*EQsNOZqNPsx5eelVJRh9jQ.png)
 
-## Delta Table 
+## Delta Table
 
 convert to delta [db_name.]table_name
 [partitioned by ...]
-[vacuum [retain number hours]]
+\[vacuum [retain number hours]\]
 
-vaccum 
+vaccum
 
 describe history db_name.table_name
 
-can select from historical snapshot 
-can also rollback to a historical snapshot 
+can select from historical snapshot
+can also rollback to a historical snapshot
 rollback is kind of dangerous as once rollback,
 commits after the rollback version are remove so that you cannot undo the rollback!
 
-
-
-## References 
+## References
 
 [Delta Lake PySpark Examples](https://github.com/delta-io/delta/tree/master/examples/python)
 

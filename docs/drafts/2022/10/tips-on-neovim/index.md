@@ -1,13 +1,13 @@
 ---
-title: "Tips on NeoVim"
+title: Tips on NeoVim
 created: 2022-10-16 19:54:05
-date: 2025-05-31 20:28:01
+date: 2026-04-13 23:14:42.590079
 authors:
   - bendu
 label: tips-on-neovim
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - neovim
   - IDE
@@ -20,24 +20,28 @@ tags:
 
 You can install the latest stable version of neovim using the command below.
 
-    sudo add-apt-repository ppa:neovim-ppa/stable
-    sudo apt update
-    sudo apt install neovim
+```
+sudo add-apt-repository ppa:neovim-ppa/stable
+sudo apt update
+sudo apt install neovim
+```
 
 ## Tips and Traps
 
 1. AppImage is a good way to install the latest version of NeoVim.
 
-2. [AstroNvim](https://github.com/AstroNvim/AstroNvim) is a great configuration for NeoVim.
+1. [AstroNvim](https://github.com/AstroNvim/AstroNvim) is a great configuration for NeoVim.
 
-3. NeoVim with a complicated configuration (e.g., AstroNvim, SpaceVim, etc) 
-    might be too slow when editing a large (>50M) text file.
-    One trick helps is to disable plugins when editing large files.
-    For example,
-    you can use the following command to edit a large file without loading plugins.
+1. NeoVim with a complicated configuration (e.g., AstroNvim, SpaceVim, etc)
+   might be too slow when editing a large (>50M) text file.
+   One trick helps is to disable plugins when editing large files.
+   For example,
+   you can use the following command to edit a large file without loading plugins.
 
-        :::bash
-        nvim --noplugin /path/to/large/text/file
+   ```
+    :::bash
+    nvim --noplugin /path/to/large/text/file
+   ```
 
 ## Repeat
 

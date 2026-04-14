@@ -1,13 +1,13 @@
 ---
-title: "Tips on Brother Printers"
+title: Tips on Brother Printers
 created: 2025-12-21 21:14:23
-date: 2025-12-21 21:14:23
+date: 2026-04-13 23:14:17.668621
 authors:
   - bendu
 label: tips-on-brother-printers
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - driver
   - printer

@@ -1,13 +1,13 @@
 ---
-title: "Webassembly as An Alternative to Containers"
+title: Webassembly as An Alternative to Containers
 created: 2021-06-10 09:39:25
-date: 2022-11-27 00:14:08
+date: 2026-04-13 23:15:01.500259
 authors:
   - bendu
 label: webassembly-as-an-alternative-to-containers
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - WASM

@@ -1,13 +1,13 @@
 ---
-title: "Tips on Python Build Standalone"
+title: Tips on Python Build Standalone
 created: 2022-04-12 08:52:10
-date: 2022-04-12 08:52:10
+date: 2026-04-13 23:14:49.032509
 authors:
   - bendu
 label: tips-on-python-build-standalone
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Python
   - portable
@@ -32,10 +32,14 @@ released in the GitHub repository
 
 1. Start an IPython shell using the following code.
 
-        :::bash
-        ~/env_python/bin/python3 -m IPython
+   ```
+    :::bash
+    ~/env_python/bin/python3 -m IPython
+   ```
 
-2. Run the following code in the IPython shell to update Shebangs of Python scripts. 
+1. Run the following code in the IPython shell to update Shebangs of Python scripts.
 
-        :::python
-        dsutil.shebang.update_shebang("env_python/bin/", "/home/your_user_name/env_python/bin/python3")
+   ```
+    :::python
+    dsutil.shebang.update_shebang("env_python/bin/", "/home/your_user_name/env_python/bin/python3")
+   ```

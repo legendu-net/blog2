@@ -1,24 +1,25 @@
 ---
 title: GUI-based Mind Mapping Tools
 created: 2018-09-03 08:18:27
-date: 2026-04-05 19:42:37.985643
+date: 2026-04-13 23:15:27.764783
 authors:
-- bendu
+  - bendu
 label: gui-based-mind-mapping-tools
 license: CC-BY-4.0
 tags:
-- Computer Science
-- mind map
-- GUI
-- XMind
-- flowchart
+  - computer science
+  - mind map
+  - GUI
+  - XMind
+  - flowchart
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Built-in Flowchart in Office Tools
 
 Most office tools (MS, Google, etc.) has built-in Flowchart support.
-**It is suggested that you use the built-in flowchart** 
+**It is suggested that you use the built-in flowchart**
 if you a such an office tool
 as it is much esier to update the flowchart later.
 
@@ -27,6 +28,7 @@ as it is much esier to update the flowchart later.
 1. free and cross-platform
 
 ## [Whimsical](https://whimsical.com/)
+
 Looks like a great one!
 
 ## [LucidChart](https://www.lucidchart.com/)
@@ -40,9 +42,11 @@ Asciiflow is an online tool for generating flowchart in Ascii.
 ## IHMC Cmap
 
 ## [MindJet](http://www.mindjet.com/)
+
 commerical, windows, mac
 
 ## Mindomo
+
 cross-platform (via Adobe Air)
 
 ## WiseMapping
@@ -50,6 +54,7 @@ cross-platform (via Adobe Air)
 ## IHMC CmapTools
 
 ## SimpleMind
+
 Windows, Mac
 
 ## [Coggle](http://coggle.it/)
@@ -57,6 +62,7 @@ Windows, Mac
 ## FreeMind
 
 ## [MindMeister](https://www.mindmeister.com/)
+
 WebApplication, free
 
 ## [code2flow](http://code2flow.com/)

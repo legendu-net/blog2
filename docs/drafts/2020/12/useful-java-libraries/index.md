@@ -1,13 +1,13 @@
 ---
-title: "Useful Java Libraries"
+title: Useful Java Libraries
 created: 2020-12-08 09:37:12
-date: 2022-10-17 12:08:18
+date: 2026-04-13 23:15:10.154374
 authors:
   - bendu
 label: useful-java-libraries
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Java
   - JVM
   - library
@@ -21,12 +21,14 @@ tags:
 ## General Purpose Java Libraries
 
 ### [Guava](https://github.com/google/guava)
+
 [Guava](https://github.com/google/guava)
 is a high-quality general purpose Java opensource library mainly developed by Google.
 It has good immutable collection implementations
 which are preferred to Java's built-in immutable collections (introduced in Java 9+).
 
 ### [Apache Commons](https://commons.apache.org/)
+
 [Apache Commons](https://commons.apache.org/)
 is an another high-quality general purpose Java library.
 
@@ -36,23 +38,24 @@ Guice is a lightweight dependency injection framework for Java 8+.
 It is developed by Google.
 
 ## Misc
+
 ### [picocli](https://github.com/remkop/picocli)
 
-Parser library and framework to easily build JVM command line applications (Java, Groovy, Kotlin, etc). 
-Usage help with ANSI colors. Autocomplete. Nested subcommands. Annotations and programmatic API. 
+Parser library and framework to easily build JVM command line applications (Java, Groovy, Kotlin, etc).
+Usage help with ANSI colors. Autocomplete. Nested subcommands. Annotations and programmatic API.
 Easy to include as source to avoid adding dependencies.
 
 ### [MyBatis](https://github.com/mybatis/mybatis-3)
+
 MyBatis is a SQL mapper framework for Java,
-which makes it easier to use a relational database with object-oriented applications. 
-MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or annotations. 
+which makes it easier to use a relational database with object-oriented applications.
+MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or annotations.
 Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping tools.
 
-
 ### [RxJava](https://github.com/ReactiveX/RxJava)
+
 [RxJava](https://github.com/ReactiveX/RxJava)
 is a reactive extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
-
 
 ### [grpc-java](https://github.com/grpc/grpc-java)
 

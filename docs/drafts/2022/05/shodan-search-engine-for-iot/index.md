@@ -1,13 +1,13 @@
 ---
 title: Shodan - Search Engine for IoT
 created: 2022-05-28 22:52:34
-date: 2026-04-11 22:10:44.949284
+date: 2026-04-13 23:14:48.885939
 authors:
   - bendu
 label: shodan-search-engine-for-iot
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - IoT
   - Shodan
   - Search Engine

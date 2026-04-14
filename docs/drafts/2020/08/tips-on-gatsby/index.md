@@ -1,13 +1,13 @@
 ---
-title: "Tips on Gatsby"
+title: Tips on Gatsby
 created: 2020-08-24 08:45:48
-date: 2020-10-24 08:45:48
+date: 2026-04-13 23:15:16.910845
 authors:
   - bendu
 label: tips-on-gatsby
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - static site generator
   - Gatsby
   - JavaScript
@@ -19,7 +19,7 @@ npm install -g gatsby-cli
 
 gatsby develop
 
-## Jupyter/Lab Notebooks 
+## Jupyter/Lab Notebooks
 
 https://www.gatsbyjs.com/plugins/@gatsby-contrib/gatsby-transformer-ipynb/
 

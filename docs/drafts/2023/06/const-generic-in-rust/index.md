@@ -1,13 +1,13 @@
 ---
-title: "Const Generic in Rust"
+title: Const Generic in Rust
 created: 2023-06-19 23:45:11
-date: 2023-06-27 23:12:35
+date: 2026-04-13 23:14:28.817685
 authors:
   - bendu
 label: const-generic-in-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - const
@@ -18,22 +18,22 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 1. Starting from Rust 1.51,
-    [constant generics](https://blog.rust-lang.org/2021/03/25/Rust-1.51.0.html#const-generics-mvp)
-    is supported for integral types.
+   [constant generics](https://blog.rust-lang.org/2021/03/25/Rust-1.51.0.html#const-generics-mvp)
+   is supported for integral types.
 
-2. The crate 
-    [static_assertions](https://crates.io/crates/static_assertions)
-    can be used to assert that a const generic parameter satisfy certain conditions at compile time.
-    This is an alternative to const bounds using `where`
-    before `feature(generic-const-exprs)` is stablized.
-    
+1. The crate
+   [static_assertions](https://crates.io/crates/static_assertions)
+   can be used to assert that a const generic parameter satisfy certain conditions at compile time.
+   This is an alternative to const bounds using `where`
+   before `feature(generic-const-exprs)` is stablized.
+
 ## Disable Users From Constructing Instances of a Public Struct
 
 1. Make sure the struct has at least one private field
-    so that users cannot construct instances directly.
-    If all fields of a struct are public,
-    just add a dumpy private filed into the struct.
-2. Do not privede construction methods or make construction methods as private.
+   so that users cannot construct instances directly.
+   If all fields of a struct are public,
+   just add a dumpy private filed into the struct.
+1. Do not privede construction methods or make construction methods as private.
 
 ## Sealed Trait
 
@@ -47,7 +47,7 @@ https://rust-lang.github.io/api-guidelines/future-proofing.html#sealed-traits-pr
 ## Ways to Make Sure that a Type in Rust Satisfy Certain Conditions
 
 Please refer to
-[Constraints on Types in Rust]( https://www.legendu.net/misc/blog/type-constraints-in-rust )
+[Constraints on Types in Rust](https://www.legendu.net/misc/blog/type-constraints-in-rust)
 for detailed discussions.
 
 ## References

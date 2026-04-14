@@ -1,13 +1,13 @@
 ---
-title: "Thread-Local Storage for Rayon"
+title: Thread-Local Storage for Rayon
 created: 2023-07-05 09:24:27
-date: 2023-07-22 22:29:15
+date: 2026-04-13 23:14:28.351860
 authors:
   - bendu
 label: thread-local-storage-for-rayon
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - thread
@@ -24,18 +24,20 @@ There might be issue if the code relies on Drop of the struct.
 For example,
 if you create a BufWriter in thread-local storage,
 last buffered output might not flush.
-You have to 
-1. (not recommended) manually flush 
-2. (recommended) swap out the `BufWrite` from RefCell to allow it to be dropped.
+You have to
+
+1. (not recommended) manually flush
+1. (recommended) swap out the `BufWrite` from RefCell to allow it to be dropped.
 
 Have to manually call bw.replace(None) so own the struct so that it can be dropped.
 This is good practice anyway as you want to lease handle to files so soon as they are no longer used.
 
 ## rayon
-1. Can  
-    [ThreadPool.broadcast](https://docs.rs/rayon/latest/rayon/struct.ThreadPool.html#method.broadcast)
-    be used?
-    No good example of using it for thread-local storage ...
+
+1. Can\
+   [ThreadPool.broadcast](https://docs.rs/rayon/latest/rayon/struct.ThreadPool.html#method.broadcast)
+   be used?
+   No good example of using it for thread-local storage ...
 
 ```
 let zip_archive = zip::ZipArchive::new(std::fs::File::open("AllPublicXML.zip")?)?;

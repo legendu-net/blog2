@@ -1,13 +1,13 @@
 ---
-title: "Progress Bar in Rust"
+title: Progress Bar in Rust
 created: 2021-11-06 22:01:30
-date: 2023-03-03 17:52:54
+date: 2026-04-13 23:14:53.497052
 authors:
   - bendu
 label: progress-bar-in-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - progress
@@ -33,16 +33,18 @@ crate is a simple no-deps alternative to indicatif.
 ## [linya](https://crates.io/crates/linya)
 
 ## [howudoin](https://crates.io/crates/howudoin)
+
 [howudoin](https://crates.io/crates/howudoin)
 provides progress reporting abstraction for Rust.
-It intends to make producing and consuming progress reports simple and ergonomic. 
-Importantly, 
-it separates the progress producers from the consumer, 
+It intends to make producing and consuming progress reports simple and ergonomic.
+Importantly,
+it separates the progress producers from the consumer,
 allowing progress reports to be generated from disparate sections in a system.
 
 ## [prodash](https://github.com/Byron/prodash)
+
 [prodash](https://github.com/Byron/prodash)
-reports progress of concurrent applications 
+reports progress of concurrent applications
 and display it in various ways
 .
 

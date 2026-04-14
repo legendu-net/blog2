@@ -1,13 +1,13 @@
 ---
-title: "Make a Rust Project Both a Library and a Binary"
+title: Make a Rust Project Both a Library and a Binary
 created: 2021-06-16 22:50:37
-date: 2021-11-06 21:49:23
+date: 2026-04-13 23:15:00.425975
 authors:
   - bendu
 label: make-a-rust-project-both-a-library-and-a-binary
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - library
@@ -16,8 +16,8 @@ tags:
   - file system
   - structure
 ---
-**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ```
 .
@@ -45,9 +45,9 @@ path = "src/bin.rs"
 
 1. It seems that you have to use relative import when using the above structure ...
 
-2. `lib.rs` is the entrance place of the library 
-    (similar to that `main.rs` is the entrance place of the binary).
-    It is not a module!
+1. `lib.rs` is the entrance place of the library
+   (similar to that `main.rs` is the entrance place of the binary).
+   It is not a module!
 
 ## References
 

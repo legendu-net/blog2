@@ -1,13 +1,13 @@
 ---
-title: "Tips on Rustfmt"
+title: Tips on Rustfmt
 created: 2021-10-25 19:57:05
-date: 2021-12-05 13:01:57
+date: 2026-04-13 23:14:55.886524
 authors:
   - bendu
 label: tips-on-rustfmt
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - format
@@ -20,13 +20,15 @@ tags:
 
 [Configuring Rustfmt](https://rust-lang.github.io/rustfmt/?version=master&search=)
 
-    :::toml
-    tab_spaces = 4
-    max_width = 90
-    chain_width = 70
-    newline_style = "unix"
-    use_field_init_shorthand = true
-    use_small_heuristics = "Max"
+```
+:::toml
+tab_spaces = 4
+max_width = 90
+chain_width = 70
+newline_style = "unix"
+use_field_init_shorthand = true
+use_small_heuristics = "Max"
+```
 
 ## References
 

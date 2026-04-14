@@ -1,13 +1,13 @@
 ---
-title: "Tips on Rust Clippy"
+title: Tips on Rust Clippy
 created: 2022-12-28 18:23:37
-date: 2023-07-05 18:00:16
+date: 2026-04-13 23:14:39.623804
 authors:
   - bendu
 label: tips-on-rust-clippy
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - Clippy
@@ -25,39 +25,39 @@ dead_code
 ## General Tips
 
 1. Clippy does not support filtering by specific lint directly.
-    However,
-    it can be achieved via the old rustc flags hack.
-    For example,
-    you can use the following command 
-    to fix only `clippy::collapsible_else_if` lints.
+   However,
+   it can be achieved via the old rustc flags hack.
+   For example,
+   you can use the following command
+   to fix only `clippy::collapsible_else_if` lints.
 
-	:::bash
-        cargo clippy --fix -- \
-	    -A clippy::all -W clippy::collapsible_else_if
+   :::bash
+   cargo clippy --fix -- \
+   -A clippy::all -W clippy::collapsible_else_if
 
-    If there are other non-Clippy lint warnings, 
-    you can filter out them manually.
-    For example,
-    if you code still have unfixed `unused_variables` and `dead_code` lints,
-    you can filter them out by adding more `-A` options.
+   If there are other non-Clippy lint warnings,
+   you can filter out them manually.
+   For example,
+   if you code still have unfixed `unused_variables` and `dead_code` lints,
+   you can filter them out by adding more `-A` options.
 
-	:::bash
-        cargo clippy --fix -- \
-	    -A unused_variables -A dead_code \
-	    -A clippy::all -W clippy::collapsible_else_if
+   :::bash
+   cargo clippy --fix -- \
+   -A unused_variables -A dead_code \
+   -A clippy::all -W clippy::collapsible_else_if
 
-    [Lint Levels](https://doc.rust-lang.org/rustc/lints/levels.html)
-    and
-    [Lint Groups](https://doc.rust-lang.org/rustc/lints/groups.html)
-    are important lint concepts 
-    which help you better understand the above trick.
+   [Lint Levels](https://doc.rust-lang.org/rustc/lints/levels.html)
+   and
+   [Lint Groups](https://doc.rust-lang.org/rustc/lints/groups.html)
+   are important lint concepts
+   which help you better understand the above trick.
 
-2. Not all lints can be automatically fixed by Clippy.
-    If you have a large number of a specific kind of lint 
-    which is not automatically fixable by Clippy,
-    you can write a Python script 
-    to help you fix those issues automatically
-    instead of fixing them manually.
+1. Not all lints can be automatically fixed by Clippy.
+   If you have a large number of a specific kind of lint
+   which is not automatically fixable by Clippy,
+   you can write a Python script
+   to help you fix those issues automatically
+   instead of fixing them manually.
 
 ## Configuration
 
@@ -66,11 +66,14 @@ dead_code
 ```
 #[allow(clippy::wrong_self_convention)]
 ```
+
 ```
 #[allow(clippy::all)]
 ```
+
 Place the following at the beginning of a Rust source file,
 if you want to disable all Clippy lints in the file.
+
 ```
 #![allow(clippy::all)]
 ```
@@ -90,4 +93,3 @@ if you want to disable all Clippy lints in the file.
 - [Warn-by-default Lints](https://doc.rust-lang.org/rustc/lints/listing/warn-by-default.html)
 
 - [Deny-by-default Lints](https://doc.rust-lang.org/rustc/lints/listing/deny-by-default.html)
-

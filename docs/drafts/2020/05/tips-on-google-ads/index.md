@@ -1,13 +1,13 @@
 ---
-title: "Tips on Google Ads"
+title: Tips on Google Ads
 created: 2020-05-25 18:56:25
-date: 2022-04-30 15:27:55
+date: 2026-04-13 23:15:22.102825
 authors:
   - bendu
 label: tips-on-google-ads
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Google
   - Ads
   - AdWords
@@ -24,7 +24,6 @@ tags:
 [Product data specification](https://support.google.com/merchants/answer/7052112?hl=en)
 
 [image_link: Definition](https://support.google.com/merchants/answer/6324350?hl=en)
-
 
 https://blog.hubspot.com/marketing/google-adwords-ppc
 

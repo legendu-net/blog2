@@ -1,13 +1,13 @@
 ---
-title: "Tips on Security"
+title: Tips on Security
 created: 2020-10-15 18:30:00
-date: 2022-07-14 22:40:20
+date: 2026-04-13 23:15:14.336542
 authors:
   - bendu
 label: tips-on-security
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - security
   - NVD
   - vulnerability
@@ -31,17 +31,17 @@ http://vulnhub.com/
 
 https://haveibeenpwned.com/
 
-## Web Security 
+## Web Security
 
 https://www.youtube.com/watch?v=j5PuYFCS0Iw
 
-## Books 
+## Books
 
 ceh certified ethical hacker all-in-one exam guide
 
 https://www.oreilly.com/library/view/ceh-certified-ethical/9781260454567/
 
-## References 
+## References
 
 https://dzone.com/articles/proxychains-anonsurf-and-macchanger-enhance-your-a
 

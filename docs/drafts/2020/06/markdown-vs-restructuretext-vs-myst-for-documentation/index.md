@@ -1,13 +1,13 @@
 ---
-title: "Markdown vs RestructureText vs MyST for Documentation"
+title: Markdown vs RestructureText vs MyST for Documentation
 created: 2020-06-14 18:56:54
-date: 2020-06-14 18:56:54
+date: 2026-04-13 23:15:19.587908
 authors:
   - bendu
 label: markdown-vs-restructuretext-vs-myst-for-documentation
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Markdown
   - RestructureText
   - documentation
@@ -20,17 +20,17 @@ tags:
 
 ## Comparison
 
-1. Compared to Markdown, 
-    RestructuredText is more fully-featured, much more standardized and uniform,
-    and has built-in support for extensions.
-    However, 
-    ReStructuredText is also criticized for its complex and confusing syntax.
-    The toolchains for ReStructuredText (Sphinx) is also more complicated to use 
-    than Markdown equivalent tools.
-    MySt is an extension from [CommonMarkdown](https://commonmark.org/) 
-    with goodies introduced from RestructuredText.
-    The [jupyter-book](https://github.com/executablebooks/jupyter-book)
-    project supports MySt syntax.
+1. Compared to Markdown,
+   RestructuredText is more fully-featured, much more standardized and uniform,
+   and has built-in support for extensions.
+   However,
+   ReStructuredText is also criticized for its complex and confusing syntax.
+   The toolchains for ReStructuredText (Sphinx) is also more complicated to use
+   than Markdown equivalent tools.
+   MySt is an extension from [CommonMarkdown](https://commonmark.org/)
+   with goodies introduced from RestructuredText.
+   The [jupyter-book](https://github.com/executablebooks/jupyter-book)
+   project supports MySt syntax.
 
 ## References
 

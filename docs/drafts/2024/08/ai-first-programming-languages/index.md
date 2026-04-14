@@ -1,20 +1,21 @@
 ---
 title: AI-first Programming Languages
 created: 2024-08-22 23:57:30
-date: 2026-04-05 19:42:37.624404
+date: 2026-04-13 23:14:23.734641
 authors:
-- bendu
+  - bendu
 label: ai-first-programming-languages
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- AI
-- programming language
-- Bend
-- Mojo
-- GPU
+  - computer science
+  - programming
+  - AI
+  - programming language
+  - Bend
+  - Mojo
+  - GPU
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Mojo

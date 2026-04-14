@@ -1,20 +1,21 @@
 ---
 title: Tips on Facebook Ads
 created: 2020-09-23 14:51:58
-date: 2026-04-05 19:42:37.778580
+date: 2026-04-13 23:15:15.711775
 authors:
-- bendu
+  - bendu
 label: tips-on-facebook-ads
 license: CC-BY-4.0
 tags:
-- Computer Science
-- FB
-- Facebook
-- ads
-- Advertisement
-- Advertising
-- social network
+  - computer science
+  - FB
+  - Facebook
+  - ads
+  - Advertisement
+  - Advertising
+  - social network
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 Facebook Audience Network Newsletter

@@ -1,13 +1,13 @@
 ---
-title: "Sorting Algorithms in Rust"
+title: Sorting Algorithms in Rust
 created: 2023-02-23 11:45:10
-date: 2023-12-13 14:16:35
+date: 2026-04-13 23:14:32.962312
 authors:
   - bendu
 label: sorting-algorithms-in-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - algorithm
   - algo
@@ -26,12 +26,13 @@ tags:
 - [slice::sort_unstable_by_key](https://doc.rust-lang.org/std/primitive.slice.html#method.sort_unstable_by_key)
 
 ## [GlideSort](https://crates.io/crates/glidesort)
+
 [GlideSort](https://crates.io/crates/glidesort)
-is a novel stable sorting algorithm 
-that combines the best-case behavior of Timsort-style merge sorts for pre-sorted data 
-with the best-case behavior of pattern-defeating quicksort 
-for data with many duplicates. 
-It is a comparison-based sort supporting arbitrary comparison operators, 
+is a novel stable sorting algorithm
+that combines the best-case behavior of Timsort-style merge sorts for pre-sorted data
+with the best-case behavior of pattern-defeating quicksort
+for data with many duplicates.
+It is a comparison-based sort supporting arbitrary comparison operators,
 and while exceptional on data with patterns it is also very fast for random data.
 
 ## References

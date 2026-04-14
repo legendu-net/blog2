@@ -2,22 +2,23 @@
 title: 'Rust Error: error[E0554]: `#![feature]` May Not Be Used on the Stable Release
   Channel'
 created: 2023-06-19 14:15:58
-date: 2026-04-05 19:46:14.537662
+date: 2026-04-13 23:14:29.750237
 authors:
-- bendu
+  - bendu
 label: rust-error-error[e0554]-`#-[feature]`-may-not-be-used-on-the-stable-release-channel
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- Rust
-- error
-- E0554
-- feature
-- stable
-- release
-- channel
+  - computer science
+  - programming
+  - Rust
+  - error
+  - E0554
+  - feature
+  - stable
+  - release
+  - channel
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 error[E0554]: `#![feature]` may not be used on the stable release channel

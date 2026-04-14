@@ -1,13 +1,13 @@
 ---
-title: "Dual Boot Linux and Windows"
+title: Dual Boot Linux and Windows
 created: 2021-09-16 09:22:59
-date: 2025-12-25 18:23:08
+date: 2026-04-13 23:14:56.636057
 authors:
   - bendu
 label: dual-boot-linux-and-windows
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Linux
   - Windows
@@ -26,7 +26,7 @@ if you need to run Windows apps on Linux.
 ## Mount the Windows File System
 
 When you dual boot your machine with Linux (e.g., Ubuntu) and Windows,
-the Windows disk/partition might not be mounted automatically. 
+the Windows disk/partition might not be mounted automatically.
 In that case,
 you can find out which device correspond to the Windows filesystem
 and mount it manually.

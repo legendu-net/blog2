@@ -1,13 +1,13 @@
 ---
-title: "Tips on crosvm"
+title: Tips on crosvm
 created: 2022-06-06 16:23:32
-date: 2022-07-09 22:07:52
+date: 2026-04-13 23:14:46.781940
 authors:
   - bendu
 label: tips-on-crosvm
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - crosvm
   - virtual machine
@@ -20,9 +20,8 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-crosvm is a virtual machine monitor (VMM) implemented in Rust 
-with a focus on simplicity, security, and speed. 
-
+crosvm is a virtual machine monitor (VMM) implemented in Rust
+with a focus on simplicity, security, and speed.
 
 [App and OS Virtualization in Rust using crosvm](https://blog.openw3b.org/crosvm-for-os-and-app-virtualization-on-linux/)
 

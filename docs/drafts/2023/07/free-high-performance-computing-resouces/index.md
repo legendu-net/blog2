@@ -1,13 +1,13 @@
 ---
-title: "Free High Performance Computing Resouces"
+title: Free High Performance Computing Resouces
 created: 2023-07-13 18:41:38
-date: 2023-07-13 18:41:38
+date: 2026-04-13 23:14:27.748925
 authors:
   - bendu
 label: free-high-performance-computing-resouces
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - HPC
   - free
@@ -29,11 +29,11 @@ Some cloud platform forms offer free trials or credits.
 A Beginners Guide to Basic GPU Application for Integer Calculations
 https://saturncloud.io/blog/a-beginners-guide-to-basic-gpu-application-for-integer-calculations/#:~:text=While%20CPUs%20are%20great%20for,large%20amounts%20of%20integer%20data
 
-
 What Is the Performance of Integer and Bitwise Operations on GPU
 https://saturncloud.io/blog/what-is-the-performance-of-integer-and-bitwise-operations-on-gpu/#:~:text=GPU%20stands%20for%20Graphics%20Processing,including%20integer%20and%20bitwise%20operations
 
 ### TVM
+
 https://tvm.apache.org/2020/05/14/compiling-machine-learning-to-webassembly-and-webgpu
 
 https://discuss.tvm.apache.org/t/compile-generic-code-for-gpu/13150

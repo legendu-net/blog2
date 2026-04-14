@@ -1,13 +1,13 @@
 ---
-title: "The Elegant Theme for Pelican"
+title: The Elegant Theme for Pelican
 created: 2020-10-22 09:23:48
-date: 2020-10-22 09:23:48
+date: 2026-04-13 23:15:12.547906
 authors:
   - bendu
 label: the-elegant-theme-for-pelican
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Pelican
   - elegant
   - theme

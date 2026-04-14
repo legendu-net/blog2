@@ -1,13 +1,13 @@
 ---
-title: "Install the Latest Version of Software on Ubuntu"
+title: Install the Latest Version of Software on Ubuntu
 created: 2022-07-07 22:11:57
-date: 2022-07-07 22:11:57
+date: 2026-04-13 23:14:44.340364
 authors:
   - bendu
 label: install-the-latest-version-of-software-on-ubuntu
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Ubuntu
   - PPA
@@ -26,6 +26,7 @@ For example,
 NevoVim (installed using `apt-get`) on Ubuntu 20.04 is 0.4.1 which is seriously outdated.
 You can install the latest version of NeoVim using the following command.
 
-    :::bash
-    sudo snap install nvim --classic
-
+```
+:::bash
+sudo snap install nvim --classic
+```

@@ -1,32 +1,35 @@
 ---
 title: 'Docker Issue: Repository Is Not Signed in Docker Build'
 created: 2021-03-26 14:44:52
-date: 2026-04-05 19:42:37.757510
+date: 2026-04-13 23:15:06.990906
 authors:
-- bendu
+  - bendu
 label: docker-issue-repository-is-not-signed-in-docker-build
 license: CC-BY-4.0
 tags:
-- Computer Science
-- software
-- container
-- Docker
-- repository
-- not siged
-- Ubuntu
-- apt
-- apt-get
-- build
-- Docker issue
-- issue
+  - computer science
+  - software
+  - container
+  - Docker
+  - repository
+  - not siged
+  - Ubuntu
+  - apt
+  - apt-get
+  - build
+  - Docker issue
+  - issue
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 Docker has a limit on maximum apt cache size on the host system.
 The issue can be fixed by running the following command.
 
-    :::bash
-    docker image prune -f
+```
+:::bash
+docker image prune -f
+```
 
 ## References
 

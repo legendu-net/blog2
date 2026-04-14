@@ -1,13 +1,13 @@
 ---
-title: "Tips on Microsoft Graph APIs"
+title: Tips on Microsoft Graph APIs
 created: 2024-05-17 01:53:15
-date: 2024-05-22 23:22:23
+date: 2026-04-13 23:14:24.177621
 authors:
   - bendu
 label: tips-on-microsoft-graph-apis
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - API
   - Microsoft
@@ -20,7 +20,6 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 https://developer.microsoft.com/graph/graph-explorer
-
 
 https://learn.microsoft.com/en-us/graph/use-the-api
 

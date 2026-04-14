@@ -1,13 +1,13 @@
 ---
-title: "Data Structure and Libraries for Real-time Collaboration"
+title: Data Structure and Libraries for Real-time Collaboration
 created: 2020-05-06 14:23:02
-date: 2020-05-06 14:23:02
+date: 2026-04-13 23:15:21.073769
 authors:
   - bendu
 label: data-structure-and-libraries-for-real-time-collaboration
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - real-time collaboration
   - data structure
   - library

@@ -1,13 +1,13 @@
 ---
-title: "Fake Face Using AI"
+title: Fake Face Using AI
 created: 2021-10-08 13:52:26
-date: 2021-10-08 13:52:26
+date: 2026-04-13 23:14:55.007965
 authors:
   - bendu
 label: fake-face-using-ai
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - AI
   - data science
   - deep learning
@@ -23,4 +23,3 @@ Faceswap is the leading free and Open Source multi-platform Deepfakes software.
 
 https://github.com/iperov/DeepFaceLab
 DeepFaceLab is the leading software for creating deepfakes.
-

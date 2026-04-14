@@ -1,13 +1,13 @@
 ---
-title: "Rust for Robots"
+title: Rust for Robots
 created: 2023-01-17 10:46:23
-date: 2023-07-16 18:54:35
+date: 2026-04-13 23:14:35.298238
 authors:
   - bendu
 label: rust-for-robots
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - robot
@@ -22,39 +22,46 @@ tags:
 [Rust is for Robotics](https://robotics.rs/)
 
 ## [copper-rs](https://github.com/copper-project/copper-rs)
+
 [copper-rs](https://github.com/copper-project/copper-rs)
 is a Rust first robotics engine.
 
 ## [ros2_rust](https://github.com/ros2-rust/ros2_rust)
+
 [ros2_rust](https://github.com/ros2-rust/ros2_rust)
-is a set of projects (the rclrs client library, code generator, examples and more) 
+is a set of projects (the rclrs client library, code generator, examples and more)
 that enables developers to write ROS 2 applications in Rust.
 
 ## [rosrust](https://crates.io/crates/rosrust)
+
 [rosrust](https://crates.io/crates/rosrust)
 is a pure Rust implementation of a ROS client library.
 
-
 ## [r2r](https://crates.io/crates/r2r)
+
 [r2r](https://crates.io/crates/r2r)
 is an easy-to-use, runtime-agnostic, async rust bindings for ROS2.
 
 ## [parry2d](https://crates.io/crates/parry2d)
+
 [parry2d](https://crates.io/crates/parry2d)
 is a 2-dimensional collision detection library in Rust.
 
 ## [parry3d](https://crates.io/crates/parry3d)
+
 [parry3d](https://crates.io/crates/parry3d)
 is a 3-dimensional collision detection library in Rust.
 
 ## [openrr](https://crates.io/crates/openrr)
+
 [openrr](https://crates.io/crates/openrr)
 is an open Rust Robotics framework
 .
 
 ## [CleanIt](https://github.com/Sollimann/CleanIt)
+
 [CleanIt](https://github.com/Sollimann/CleanIt)
-is an open-source autonomy software in Rust 
+is an open-source autonomy software in Rust
 using gRPC for the Roomba series robot vacuum cleaners.
 
 ## References
@@ -64,4 +71,3 @@ using gRPC for the Roomba series robot vacuum cleaners.
 - [Rust is for Robotics](https://robotics.rs/)
 
 - [Rust for IoT](https://www.legendu.net/misc/blog/rust-for-iot)
-

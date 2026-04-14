@@ -1,13 +1,13 @@
 ---
-title: "Tips on Git-Filter-Repo"
+title: Tips on Git-Filter-Repo
 created: 2023-05-13 17:19:37
-date: 2023-05-13 17:32:32
+date: 2026-04-13 23:14:31.150560
 authors:
   - bendu
 label: tips-on-git-filter-repo
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Git
   - filter-repo
@@ -24,7 +24,7 @@ sudo apt install git-filter-repo
 
 ## Example Usages
 
-Note: git-filter-repo changes the history commits of a Git repository 
+Note: git-filter-repo changes the history commits of a Git repository
 which is a dangerous operation.
 Make sure you know what you are doing!
 

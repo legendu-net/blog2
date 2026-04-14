@@ -1,13 +1,13 @@
 ---
-title: "RMarkdown Equivalent in Python"
+title: RMarkdown Equivalent in Python
 created: 2020-04-14 10:10:39
-date: 2023-08-05 10:30:54
+date: 2026-04-13 23:15:22.993453
 authors:
   - bendu
 label: rmarkdown-equivalent-in-python
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - markdown
   - RMarkdown
   - Python
@@ -18,7 +18,7 @@ tags:
 
 ## Jupyter/Lab vs RMarkdown
 
-## RMarkdown Equivalent in Python 
+## RMarkdown Equivalent in Python
 
 Both [CodeBraid](https://github.com/gpoore/codebraid)
 and
@@ -34,5 +34,3 @@ are good alternatives to RMarkdown.
 ## References
 
 [Writing an Interactive Book over the Threat Hunter Playbook with the Help of the Jupyter Book Project](https://medium.com/threat-hunters-forge/writing-an-interactive-book-over-the-threat-hunter-playbook-with-the-help-of-the-jupyter-book-3ff37a3123c7)
-
-

@@ -1,13 +1,13 @@
 ---
-title: "Understand DSL in Kotlin"
+title: Understand DSL in Kotlin
 created: 2024-04-10 16:12:29
-date: 2024-04-10 16:12:29
+date: 2026-04-13 23:14:24.478133
 authors:
   - bendu
 label: understand-dsl-in-kotlin
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Kotlin
   - DSL

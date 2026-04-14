@@ -1,13 +1,13 @@
 ---
-title: "Compiler and Build Tools"
+title: Compiler and Build Tools
 created: 2020-08-24 10:19:10
-date: 2023-03-06 10:02:31
+date: 2026-04-13 23:15:16.153400
 authors:
   - bendu
 label: compiler-and-build-tools
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - coding
   - compiler
@@ -20,11 +20,11 @@ tags:
 
 ## Compilers
 
-gcc 
+gcc
 
-g++ 
+g++
 
-clang 
+clang
 
 llvm
 
@@ -32,35 +32,38 @@ llvm
 
 gradle
 
-
 ## Build Tools
 
 ### [dockcross](https://github.com/dockcross/dockcross)
+
 [dockcross](https://github.com/dockcross/dockcross)
 is a compiling toolchains in Docker images
 .
 
 ### [ninja](https://github.com/ninja-build/ninja)
+
 [ninja](https://github.com/ninja-build/ninja)
 is a small build system with a focus on speed
 .
 
 ### [scons](https://github.com/SCons/scons)
+
 [SCons](https://github.com/SCons/scons)
-is an Open Source software construction tool 
-which orchestrates the construction of software 
-(and other tangible products such as documentation files) 
-by determining which component pieces must be built or rebuilt 
+is an Open Source software construction tool
+which orchestrates the construction of software
+(and other tangible products such as documentation files)
+by determining which component pieces must be built or rebuilt
 and invoking the necessary commands to build them.
 
 ### [sccache](https://github.com/mozilla/sccache)
+
 [sccache](https://github.com/mozilla/sccache)
-is a ccache-like compiler caching tool. 
-It is used as a compiler wrapper and avoids compilation when possible, 
+is a ccache-like compiler caching tool.
+It is used as a compiler wrapper and avoids compilation when possible,
 storing cached results either on local disk or in one of several cloud storage backends.
 
 ### [bazel](https://github.com/bazelbuild/bazel)
+
 [bazel](https://github.com/bazelbuild/bazel)
 is a fast, scalable, multi-language and extensible build system
 .
-

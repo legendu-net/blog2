@@ -1,13 +1,13 @@
 ---
-title: "Tips on HTTP"
+title: Tips on HTTP
 created: 2020-10-17 11:58:34
-date: 2020-10-17 11:58:34
+date: 2026-04-13 23:15:13.602533
 authors:
   - bendu
 label: tips-on-http
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - HTTP
   - web
   - internet
@@ -16,7 +16,6 @@ tags:
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
 
 [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 

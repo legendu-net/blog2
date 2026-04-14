@@ -1,13 +1,13 @@
 ---
-title: "Lua Bindings for Rust"
+title: Lua Bindings for Rust
 created: 2022-06-12 11:07:20
-date: 2022-12-20 11:54:30
+date: 2026-04-13 23:14:46.475359
 authors:
   - bendu
 label: lua-bindings-for-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - LUA
   - RLUA
@@ -18,13 +18,15 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## [rlua](https://crates.io/crates/rlua)
+
 [rlua](https://crates.io/crates/rlua)
 is the best one currently.
 
 ## [mlua](https://github.com/khvzak/mlua)
+
 [mlua](https://github.com/khvzak/mlua)
-provides High level Lua 5.4/5.3/5.2/5.1 
-(including LuaJIT) and Roblox Luau bindings 
+provides High level Lua 5.4/5.3/5.2/5.1
+(including LuaJIT) and Roblox Luau bindings
 to Rust with async/await support.
 
 ## References

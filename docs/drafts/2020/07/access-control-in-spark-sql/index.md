@@ -1,13 +1,13 @@
 ---
-title: "Access Control in Spark SQL"
+title: Access Control in Spark SQL
 created: 2020-07-22 10:11:21
-date: 2020-12-22 10:11:21
+date: 2026-04-13 23:15:17.953644
 authors:
   - bendu
 label: access-control-in-spark-sql
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Spark SQL
   - SQL
   - big data
@@ -21,50 +21,57 @@ tags:
 
 ## Grant Permission to Users
 
-    GRANT
-        priv_type [, priv_type ] ...
-        ON database_table_or_view_name
-        TO principal_specification [, principal_specification] ...
-        [WITH GRANT OPTION];
-    
+```
+GRANT
+    priv_type [, priv_type ] ...
+    ON database_table_or_view_name
+    TO principal_specification [, principal_specification] ...
+    [WITH GRANT OPTION];
+```
+
 Examples:
-    
-    GRANT SELECT ON table1 TO USER user1;
-    GRANT SELECT ON DATABASE db1 TO USER user1;
-    GRANT SELECT ON table1 TO ROLE role1;
+
+```
+GRANT SELECT ON table1 TO USER user1;
+GRANT SELECT ON DATABASE db1 TO USER user1;
+GRANT SELECT ON table1 TO ROLE role1;
+```
 
 Grant on database grants privileges on all tables or views under this database.
-If a user is granted a privilege `WITH GRANT OPTION` on a table or view, 
-then the user can also grant/revoke privileges of other users and roles on those objects. 
-
+If a user is granted a privilege `WITH GRANT OPTION` on a table or view,
+then the user can also grant/revoke privileges of other users and roles on those objects.
 
 ## Remove Permission of Users
 
-    REVOKE [GRANT OPTION FOR]
-        priv_type [, priv_type ] ...
-        ON database_table_or_view_name
-        FROM principal_specification [, principal_specification] ... ;
-    
-    principal_specification
-    : USER user
-    | ROLE role
-    
-    priv_type
-    : SELECT
-        UPDATE
-        INSERT
-        DELETE
-    
+```
+REVOKE [GRANT OPTION FOR]
+    priv_type [, priv_type ] ...
+    ON database_table_or_view_name
+    FROM principal_specification [, principal_specification] ... ;
+
+principal_specification
+: USER user
+| ROLE role
+
+priv_type
+: SELECT
+    UPDATE
+    INSERT
+    DELETE
+```
+
 Examples:
 
-    REVOKE SELECT ON table1 FROM USER user1;
-    REVOKE SELECT ON DATABASE db1 FROM USER user1;
+```
+REVOKE SELECT ON table1 FROM USER user1;
+REVOKE SELECT ON DATABASE db1 FROM USER user1;
+```
 
-If a user is granted a privilege `WITH GRANT OPTION` on a table or view, 
-then the user can also grant/revoke privileges of other users and roles on those objects. 
-The grant option for a privilege can be removed 
+If a user is granted a privilege `WITH GRANT OPTION` on a table or view,
+then the user can also grant/revoke privileges of other users and roles on those objects.
+The grant option for a privilege can be removed
 while still keeping the privilege by using `REVOKE GRANT OPTION FOR <privilege>`.
 
-## References 
+## References
 
 https://docs.databricks.com/spark/latest/spark-sql/language-manual/security-grant.html

@@ -1,13 +1,13 @@
 ---
-title: "Sorting At Compile Time in Rust"
+title: Sorting At Compile Time in Rust
 created: 2023-06-20 00:23:43
-date: 2023-06-20 00:23:43
+date: 2026-04-13 23:14:29.454621
 authors:
   - bendu
 label: sorting-at-compile-time-in-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - sort

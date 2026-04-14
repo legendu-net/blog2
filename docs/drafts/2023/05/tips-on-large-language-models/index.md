@@ -1,13 +1,13 @@
 ---
-title: "Tips on Large Language Models"
+title: Tips on Large Language Models
 created: 2023-05-06 13:28:33
-date: 2025-07-06 13:19:23
+date: 2026-04-13 23:14:31.301515
 authors:
   - bendu
 label: tips-on-large-language-models
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - AI
   - machine learning
@@ -27,6 +27,7 @@ tags:
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
+
 <table class="tg"><thead>
   <tr>
     <th class="tg-0pky">Name</th>
@@ -254,11 +255,6 @@ tags:
 </tbody>
 </table>
 
-
-
-
-
-
 ## Tutorials
 
 - [Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy](https://www.youtube.com/watch?v=XfpMkf4rD6E)
@@ -269,6 +265,6 @@ tags:
 
 ## References
 
-- [LLM in Rust]( https://www.legendu.net/misc/blog/llm-in-rust ) 
+- [LLM in Rust](https://www.legendu.net/misc/blog/llm-in-rust)
 
 - [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)

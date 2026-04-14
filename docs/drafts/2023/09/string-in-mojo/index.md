@@ -1,13 +1,13 @@
 ---
-title: "String in Mojo"
+title: String in Mojo
 created: 2023-09-09 22:09:01
-date: 2023-09-09 22:09:01
+date: 2026-04-13 23:14:26.706335
 authors:
   - bendu
 label: string-in-mojo
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - tips
   - mojo

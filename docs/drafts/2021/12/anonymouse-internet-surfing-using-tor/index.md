@@ -1,13 +1,13 @@
 ---
-title: "Anonymouse Internet Surfing Using Tor"
+title: Anonymouse Internet Surfing Using Tor
 created: 2021-12-04 18:31:21
-date: 2021-12-04 18:31:21
+date: 2026-04-13 23:14:51.533868
 authors:
   - bendu
 label: anonymouse-internet-surfing-using-tor
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - Tor
@@ -24,6 +24,4 @@ tags:
 
 ## References
 
-- [arti: An implementation of Tor in Rust](https://gitlab.torproject.org/tpo/core/arti) 
-
-
+- [arti: An implementation of Tor in Rust](https://gitlab.torproject.org/tpo/core/arti)

@@ -1,13 +1,13 @@
 ---
-title: "Tips on GCP"
+title: Tips on GCP
 created: 2022-05-09 23:39:30
-date: 2025-05-08 20:44:45
+date: 2026-04-13 23:14:48.294010
 authors:
   - bendu
 label: tips-on-gcp
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Google
   - cloud
@@ -28,7 +28,7 @@ please refer to
 
 - [Using Google Cloud Shell](https://cloud.google.com/shell/docs/using-cloud-shell)
 
-## Install Google Cloud CLI 
+## Install Google Cloud CLI
 
 Please refer to
 [Install the Google Cloud CLI](https://cloud.google.com/sdk/docs/install-sdk#deb)
@@ -39,8 +39,8 @@ gcloud auth application-default login
 
 ## References
 
-- [Tips on GCP Compute Engine]( https://www.legendu.net/misc/blog/tips-on-gcp-compute-engine )  
+- [Tips on GCP Compute Engine](https://www.legendu.net/misc/blog/tips-on-gcp-compute-engine)
 
-- [Tips on BigQuery]( https://www.legendu.net/misc/blog/tips-on-bigquery )
+- [Tips on BigQuery](https://www.legendu.net/misc/blog/tips-on-bigquery)
 
 - [Set up Application Default Credentials](https://cloud.google.com/docs/authentication/provide-credentials-adc)

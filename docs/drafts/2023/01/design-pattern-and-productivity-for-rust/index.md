@@ -1,13 +1,13 @@
 ---
-title: "Design Pattern and Productivity for Rust"
+title: Design Pattern and Productivity for Rust
 created: 2023-01-13 16:29:29
-date: 2024-08-23 11:51:08
+date: 2026-04-13 23:14:33.727670
 authors:
   - bendu
 label: design-pattern-and-productivity-for-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - design
@@ -18,23 +18,27 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## [derive_more](https://crates.io/crates/derive_more)
+
 [derive_more](https://crates.io/crates/derive_more)
-adds ``#[derive(x)]` macros for more traits.
+adds \`\`#[derive(x)]\` macros for more traits.
 
 ## [derive_builder](https://crates.io/crates/derive_builder)
+
 [derive_builder](https://crates.io/crates/derive_builder)
-provides Rust macro to automatically implement the builder pattern for arbitrary structs. 
-A simple `#[derive(Builder)]` will generate a FooBuilder for your struct Foo 
+provides Rust macro to automatically implement the builder pattern for arbitrary structs.
+A simple `#[derive(Builder)]` will generate a FooBuilder for your struct Foo
 with all setter-methods and a build method.
 
 ## [derive-adhoc](https://crates.io/crates/derive-adhoc)
+
 [derive-adhoc](https://crates.io/crates/derive-adhoc)
-allows you to write macros 
-which are driven by Rust data structures, 
-just like proc macro derive macros, 
+allows you to write macros
+which are driven by Rust data structures,
+just like proc macro derive macros,
 but without having to wrestle with the proc macro system.
 
 ## [bon](https://github.com/elastio/bon)
+
 [bon](https://github.com/elastio/bon)
 is a Rust crate for generating compile-time-checked builders for functions and structs.
 
@@ -45,7 +49,7 @@ is a Rust crate for generating compile-time-checked builders for functions and s
 ## Constraints on Types
 
 Please refer to
-[Constraints on Types in Rust]( https://www.legendu.net/misc/blog/type-constraints-in-rust )
+[Constraints on Types in Rust](https://www.legendu.net/misc/blog/type-constraints-in-rust)
 for detailed discussions.
 
 ## References

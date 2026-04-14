@@ -1,13 +1,13 @@
 ---
 title: Tips on Google Firebase Studio
 created: 2025-04-16 17:08:20
-date: 2026-04-05 19:42:37.621939
+date: 2026-04-13 23:15:29.890056
 authors:
   - bendu
 label: tips-on-google-firebase-studio
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - development
   - IDX

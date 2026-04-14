@@ -1,13 +1,13 @@
 ---
-title: "Cloud Object Storage"
+title: Cloud Object Storage
 created: 2022-10-16 15:07:28
-date: 2022-10-16 15:07:28
+date: 2026-04-13 23:14:41.844011
 authors:
   - bendu
 label: cloud-object-storage
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - cloud
   - object storage

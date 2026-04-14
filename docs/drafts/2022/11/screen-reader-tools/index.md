@@ -1,13 +1,13 @@
 ---
-title: "Screen Reader Tools"
+title: Screen Reader Tools
 created: 2022-11-22 09:36:44
-date: 2022-11-22 09:36:44
+date: 2026-04-13 23:14:40.664287
 authors:
   - bendu
 label: screen-reader-tools
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - accessibility
   - a13y
   - screen

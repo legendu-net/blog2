@@ -1,13 +1,13 @@
 ---
-title: "Tips on ZetaSQL"
+title: Tips on ZetaSQL
 created: 2023-06-27 23:48:22
-date: 2023-07-01 18:06:49
+date: 2026-04-13 23:14:29.602651
 authors:
   - bendu
 label: tips-on-zetasql
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - SQL
   - ZetaSQL
@@ -16,10 +16,9 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 [ZetaSQL](https://github.com/google/zetasql)
-is a customized SQL dialect, 
-along with parser and analyzer, 
+is a customized SQL dialect,
+along with parser and analyzer,
 that Google uses for products like BigQuery and Spanner.
 
 ## [unnest](https://github.com/google/zetasql/blob/master/docs/query-syntax.md#unnest_operator)

@@ -1,13 +1,13 @@
 ---
-title: "Seed Many RNGs in Rust"
+title: Seed Many RNGs in Rust
 created: 2023-07-05 22:39:36
-date: 2023-07-06 22:33:26
+date: 2026-04-13 23:14:12.494939
 authors:
   - bendu
 label: seed-many-rngs-in-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - RNG
@@ -15,11 +15,9 @@ tags:
   - seed
 ---
 
-
-
 There are different ways to seed many RNGs (for parallel RNGs).
 Below summarizes 3 popular ways.
-Seeding RNGs using 
+Seeding RNGs using
 `std::collections::hash_map::RandomState`
 or `rand::thread_rng`
 is preferred.
@@ -43,9 +41,10 @@ fn main () {
 ## Seed Using `std::collections::hash_map::RandomState`
 
 `std::collections::hash_map::RandomState` gets true (or close to true) random bytes using entropy
-as the base random state 
+as the base random state
 which is cached using thread-local storage.
 Subsequent instantiations increment the random state to ensure different states.
+
 ```
 use std::collections::hash_map::RandomState;
 use std::hash::{BuildHasher, Hasher};

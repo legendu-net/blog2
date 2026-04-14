@@ -1,13 +1,13 @@
 ---
-title: "US Treasury Yield Curve"
+title: US Treasury Yield Curve
 created: 2024-07-19 11:51:12
-date: 2024-07-19 11:51:12
+date: 2026-04-13 23:14:24.026672
 authors:
   - bendu
 label: us-treasury-yield-curve
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
 ---
 

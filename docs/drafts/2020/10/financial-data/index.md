@@ -1,13 +1,13 @@
 ---
-title: "Financial Data"
+title: Financial Data
 created: 2020-10-06 12:47:30
-date: 2022-05-08 17:15:45
+date: 2026-04-13 23:15:12.104501
 authors:
   - bendu
 label: financial-data
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - data
   - finance
   - financial
@@ -18,21 +18,20 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 [Board of Governors of the Federal Reserve System](https://www.federalreserve.gov/)
 
 [Factors Affecting Reserve Balances - H.4.1](https://www.federalreserve.gov/releases/h41/)
 
-### World Bank 
+### World Bank
 
-Open Data Datasets covering population demographics 
+Open Data Datasets covering population demographics
 and a huge number of economic and development indicators from across the world.
 
-### IMF Data 
+### IMF Data
 
-The International Monetary Fund publishes data 
+The International Monetary Fund publishes data
 on international finances, debt rates, foreign exchange reserves, commodity prices and investments.
 
-## References 
+## References
 
 [Data Sources](http://www.legendu.net/misc/blog/data-sources/)

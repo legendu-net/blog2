@@ -1,27 +1,28 @@
 ---
 title: Tips on Jupyter-Book
 created: 2020-09-20 14:47:06
-date: 2026-04-03 23:58:36.930768
+date: 2026-04-13 23:15:15.410883
 authors:
-- bendu
+  - bendu
 label: tips-on-jupyter-book
 license: CC-BY-4.0
 tags:
-- Computer Science
-- jupyter-book
-- Markdown
-- notebook
-- Jupyter
-- JupyterLab
-- blog
+  - computer science
+  - jupyter-book
+  - Markdown
+  - notebook
+  - Jupyter
+  - JupyterLab
+  - blog
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 icon jb -ic
 
 [MyST Markdown Sandbox](https://mystmd.org/sandbox)
 
-## Configuration 
+## Configuration
 
 `icon jb -c` creates a copy of configuration file `_config.yml` in the current directory.
 By default,
@@ -40,15 +41,13 @@ https://mystmd.org/guide/glossaries-and-terms#abbreviations sounds interesting!
 
 NODE_OPTIONS=--max-old-space-size=8192 uv run jupyter-book start
 
-
-
 ### Themes
 
-It seems to me that public themes 
+It seems to me that public themes
 (e.g., https://github.com/QuantEcon/quantecon-book-theme)
 are not supported currently.
 
-## References 
+## References
 
 - [Jupyter Book 101: Beautiful, publication-quality documents from computational material](https://www.youtube.com/watch?v=lZ2FHTkyaMU)
 

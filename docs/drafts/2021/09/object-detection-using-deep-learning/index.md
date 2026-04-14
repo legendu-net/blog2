@@ -1,13 +1,13 @@
 ---
-title: "Object Detection Using Deep Learning"
+title: Object Detection Using Deep Learning
 created: 2021-09-20 15:41:42
-date: 2021-10-01 11:56:23
+date: 2026-04-13 23:14:56.782736
 authors:
   - bendu
 label: object-detection-using-deep-learning
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
 ---
 
@@ -30,8 +30,8 @@ Input: An image with one or more objects, such as a photograph.
 Output: One or more bounding boxes (e.g. defined by a point, width, and height), and a class label for each bounding box.
 
 Image Segmentation
-    - Semantic Segmentation
-    - Instance segemntation
+\- Semantic Segmentation
+\- Instance segemntation
 
 https://en.wikipedia.org/wiki/Image_segmentation
 
@@ -43,11 +43,12 @@ Faster R-CNN
 
 Mask R-CNN
 
-YoLo 
+YoLo
 
 Faster R-CNN Mask R-CNN YoLo
 
 ## Models for Object Detection
+
 Region-Based Convolutional Neural Networks, or R-CNNs, are a family of techniques for addressing object localization and recognition tasks, designed for model performance.
 You Only Look Once, or YOLO, is a second family of techniques for object recognition designed for speed and real-time use.
 
@@ -58,7 +59,6 @@ You Only Look Once, or YOLO, is a second family of techniques for object recogni
 [Beagle Detector: Fine-tune Faster-RCNN](https://haochen23.github.io/2020/06/fine-tune-faster-rcnn-pytorch.html#.YVdUzEbMKdY)
 
 [TORCHVISION OBJECT DETECTION FINETUNING TUTORIAL](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
-
 
 ## References
 
@@ -71,4 +71,3 @@ You Only Look Once, or YOLO, is a second family of techniques for object recogni
 [Mask R-CNN: A Beginner's Guide](https://viso.ai/deep-learning/mask-r-cnn/)
 
 [TORCHVISION OBJECT DETECTION FINETUNING TUTORIAL](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
-

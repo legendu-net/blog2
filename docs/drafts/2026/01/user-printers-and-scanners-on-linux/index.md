@@ -1,13 +1,13 @@
 ---
-title: "User Printers and Scanners on Linux"
+title: User Printers and Scanners on Linux
 created: 2026-01-09 11:30:17
-date: 2026-01-09 11:49:08
+date: 2026-04-13 23:14:15.232337
 authors:
   - bendu
 label: user-printers-and-scanners-on-linux
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Linux
   - printer
   - scanner
@@ -21,8 +21,8 @@ tags:
 ## Printing
 
 Do NOT manually find and install manufactor-specific drivers for printers/scanners!!
-Modern printing standards built upon Internet Printing Protocol (IPP), 
-such as IPP Everywhere, Apple's AirPrint, and the Mopria Alliance, 
+Modern printing standards built upon Internet Printing Protocol (IPP),
+such as IPP Everywhere, Apple's AirPrint, and the Mopria Alliance,
 are designed to eliminate the need for traditional printer drivers.
 Please refer to
 [Chat with Gemini - Internet Printing Protocol Explained](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221g1z10Cy0MuOEmps2ztmmBQqkXWrahzCe%22%5D,%22action%22:%22open%22,%22userId%22:%22100282891140280543929%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
@@ -34,7 +34,7 @@ for more discussions.
 
 ## Scanning
 
-Use the skanpage app for scanning documents. 
+Use the skanpage app for scanning documents.
 It automatically finding scanners available.
 No manufactor-specific driver is required.
 

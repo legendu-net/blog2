@@ -1,19 +1,18 @@
 ---
-title: "Tips on PlantUML"
+title: Tips on PlantUML
 created: 2020-04-30 09:09:21
-date: 2020-04-30 09:09:21
+date: 2026-04-13 23:15:23.898114
 authors:
   - bendu
 label: tips-on-plantuml
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - PlantUML
   - UML
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
 
 ## [PlantUML](http://plantuml.com/)
 
@@ -24,7 +23,7 @@ You can try it online at
 [PlantText](https://www.planttext.com)
 .
 You can download the the reference guide at
-[PlantUML Language Reference Guide](http://plantuml.com/PlantUML_Language_Reference_Guide.pdf) 
+[PlantUML Language Reference Guide](http://plantuml.com/PlantUML_Language_Reference_Guide.pdf)
 .
 
 You can run your own PlantUML server with Docker.

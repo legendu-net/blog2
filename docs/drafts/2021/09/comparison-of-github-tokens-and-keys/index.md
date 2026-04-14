@@ -1,13 +1,13 @@
 ---
-title: "Comparison of GitHub Tokens and Keys"
+title: Comparison of GitHub Tokens and Keys
 created: 2021-09-09 15:21:21
-date: 2021-10-25 18:51:22
+date: 2026-04-13 23:14:56.177080
 authors:
   - bendu
 label: comparison-of-github-tokens-and-keys
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - GitHub
   - Git
@@ -30,7 +30,7 @@ tags:
     <th> Protocol </th>
   </tr>
 
-  <tr>
+<tr>
     <td> GitHub <br> SSH Key </td>
     <td> A SSH public key </td>
     <td> All repos </td>
@@ -38,7 +38,7 @@ tags:
     <th> SSH </th>
   </tr>
 
-  <tr>
+<tr>
     <td> GitHub <br> Deploy Key </td>
     <td> A SSH public key </td>
     <td> Any repo <br> configures <br> the key </td>
@@ -46,7 +46,7 @@ tags:
     <th> SSH </th>
   </tr>
 
-  <tr>
+<tr>
     <td> GitHub PAT </td>
     <td> Personal access token </td>
     <td> Any repo <br> configures <br> the PAT </td>
@@ -54,7 +54,7 @@ tags:
     <th> HTTPS </th>
   </tr>
 
-  <tr>
+<tr>
     <td> Repository Secret </td>
     <td> Repo secret (SSH keys, PATs or anything) for <br> authenticating GitHub APIs </td>
     <td> Single repo </td>
@@ -62,7 +62,7 @@ tags:
     <th> Depends </th>
   </tr>
 
-  <tr>
+<tr>
     <td> Organization Secret </td>
     <td> Org secret (SSH keys, PATs, or anything) for authenticating GitHub APIs </td>
     <td> All repos <br> in the org </td>

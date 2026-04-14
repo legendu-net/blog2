@@ -1,13 +1,13 @@
 ---
-title: "Useful Rust Crates for Filesystem"
+title: Useful Rust Crates for Filesystem
 created: 2023-01-13 15:40:23
-date: 2023-06-25 12:40:34
+date: 2026-04-13 23:14:36.551558
 authors:
   - bendu
 label: useful-rust-crates-for-filesystem
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - crate
@@ -21,34 +21,41 @@ tags:
 ## [std::fs](https://doc.rust-lang.org/std/fs/)
 
 ## [camino](https://crates.io/crates/camino)
+
 [Camino](https://crates.io/crates/camino)
 is an extension of the std::path module that adds new Utf8PathBuf and Utf8Path types.
 
-## [glob]( https://www.legendu.net/misc/blog/hands-on-the-glob-crate-in-rust ) 
-[glob]( https://www.legendu.net/misc/blog/hands-on-the-glob-crate-in-rust ) 
+## [glob](https://www.legendu.net/misc/blog/hands-on-the-glob-crate-in-rust)
+
+[glob](https://www.legendu.net/misc/blog/hands-on-the-glob-crate-in-rust)
 supports matching file paths against Unix shell style patterns.
 
 ## [jwalk](https://crates.io/crates/jwalk)
+
 [jwalk](https://crates.io/crates/jwalk)
 performs filesystem walk in parallel with streamed and sorted results.
 
 ## [trash-rs](https://github.com/Byron/trash-rs)
+
 [trash-rs](https://github.com/Byron/trash-rs)
 is a Rust library for moving files to the Recycle Bin
 
 ## [open](https://crates.io/crates/open)
+
 [open](https://crates.io/crates/open)
 opens a path or URL using the program configured on the system.
 
 ## [notify](https://crates.io/crates/notify)
+
 [notify](https://crates.io/crates/notify)
 is a cross-platform filesystem notification library
 .
 
 ## [walkdir](https://crates.io/crates/walkdir)
+
 [walkdir](https://crates.io/crates/walkdir)
-is a cross platform Rust library for efficiently walking a directory recursively. 
-Comes with support for following symbolic links, 
+is a cross platform Rust library for efficiently walking a directory recursively.
+Comes with support for following symbolic links,
 controlling the number of open file descriptors and efficient mechanisms for pruning the entries in the directory tree.
 
 ## References

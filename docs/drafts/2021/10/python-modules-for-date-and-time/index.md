@@ -1,13 +1,13 @@
 ---
-title: "Python Modules for Date and Time"
+title: Python Modules for Date and Time
 created: 2021-10-07 16:29:17
-date: 2021-10-07 16:29:17
+date: 2026-04-13 23:14:55.447772
 authors:
   - bendu
 label: python-modules-for-date-and-time
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Python
   - date
@@ -24,12 +24,15 @@ tags:
 datetime
 
 ## [dateutil](https://github.com/dateutil/dateutil)
+
 Useful extensions to the standard Python datetime features
 
 ## [dateparser](https://github.com/scrapinghub/dateparser)
+
 python parser for human readable dates
 
 ## [arrow](https://github.com/arrow-py/arrow)
+
 Better dates & times for Python.
 
 ## monthdelta

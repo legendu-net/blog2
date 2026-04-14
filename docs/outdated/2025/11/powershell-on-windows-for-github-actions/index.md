@@ -1,13 +1,13 @@
 ---
-title: "Powershell on Windows for GitHub Actions"
+title: Powershell on Windows for GitHub Actions
 created: 2025-11-23 11:06:12
-date: 2025-11-23 11:06:12
+date: 2026-04-13 23:15:29.273815
 authors:
   - bendu
 label: powershell-on-windows-for-github-actions
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - GitHub Actions
   - CICD
@@ -18,10 +18,9 @@ tags:
 
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-
 ## PowerShell on Windows
 
-### Set PATH 
+### Set PATH
 
 echo "::add-path::./swigwin-4.0.1"
 

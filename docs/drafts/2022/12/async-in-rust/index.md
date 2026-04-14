@@ -1,13 +1,13 @@
 ---
-title: "Async in Rust"
+title: Async in Rust
 created: 2022-12-04 10:38:16
-date: 2025-11-23 18:30:54
+date: 2026-04-13 23:14:37.777802
 authors:
   - bendu
 label: async-in-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - async
@@ -16,24 +16,22 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 1. Minimizing usage of async Rust.
-  Refactor coded as much as possible to be in sync functions, 
-  and have async just be little "router wrappers" for waiting on stuff and feeding it to sync functions.
-  See good discussion at 
-  [Avoid Async Rust at all costs” - comments from experts?](https://users.rust-lang.org/t/avoid-async-rust-at-all-costs-comments-from-experts/105860)
-  .
+   Refactor coded as much as possible to be in sync functions,
+   and have async just be little "router wrappers" for waiting on stuff and feeding it to sync functions.
+   See good discussion at
+   [Avoid Async Rust at all costs” - comments from experts?](https://users.rust-lang.org/t/avoid-async-rust-at-all-costs-comments-from-experts/105860)
+   .
 
-2. Combining asynchronous code with synchronous code that can cause blocking is never a wise choice.
-    When calling asynchronous code from a synchronous context, 
-    use `futures::executor::block_on` and spawn the async code to a dedicated runtime, 
-    because the former will block the current thread.
-    On the other hand, 
-    if you have to call blocking synchronous code from an asynchronous context, 
-    it is recommended to use `tokio::task::spawn_blocking` 
-    to execute the code on a dedicated executor that handles blocking operations.
-
+1. Combining asynchronous code with synchronous code that can cause blocking is never a wise choice.
+   When calling asynchronous code from a synchronous context,
+   use `futures::executor::block_on` and spawn the async code to a dedicated runtime,
+   because the former will block the current thread.
+   On the other hand,
+   if you have to call blocking synchronous code from an asynchronous context,
+   it is recommended to use `tokio::task::spawn_blocking`
+   to execute the code on a dedicated executor that handles blocking operations.
 
 ## Issues in Async Rust
-
 
 - [Rain: "Cancelling Async Rust" | RustConf 2025](https://www.youtube.com/watch?v=zrv5Cy1R7r4&list=PL2b0df3jKKiRFEuVNk76ufXagOgEJ9sBZ&index=32)
 

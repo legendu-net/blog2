@@ -1,13 +1,13 @@
 ---
-title: "Expose Local Services to Public Using ngrok"
+title: Expose Local Services to Public Using ngrok
 created: 2022-01-22 14:33:10
-date: 2023-09-17 14:44:32
+date: 2026-04-13 23:14:13.259891
 authors:
   - bendu
 label: expose-local-services-to-public-using-ngrok
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - local
   - public
@@ -15,53 +15,61 @@ tags:
   - ngrok
 ---
 
-
-
 You can expose a local service to public using `ngrok`.
-Follow instructions in the 
+Follow instructions in the
 [official documentation of ngrok](https://dashboard.ngrok.com/get-started/setup)
-to setup `ngrok`. 
+to setup `ngrok`.
 
 1. Install ngrok.
 
-        :::bash
-        sudo snap install ngrok
+   ```
+    :::bash
+    sudo snap install ngrok
+   ```
 
-2. Login to [ngrok.com](https://ngrok.com) 
-    to identify your ngrok token.
+1. Login to [ngrok.com](https://ngrok.com)
+   to identify your ngrok token.
 
-3. Connect your account following instructions. 
+1. Connect your account following instructions.
 
-        :::bash
-        ngrok config add-authtoken your_token
+   ```
+    :::bash
+    ngrok config add-authtoken your_token
+   ```
 
-4. Start a http tunnel forwarding to you local port.
+1. Start a http tunnel forwarding to you local port.
 
-        :::bash
-        ngrok http your_choice_of_port
+   ```
+    :::bash
+    ngrok http your_choice_of_port
+   ```
 
-For example, 
+For example,
 suppose you have launch a code-server service
 in your local network using the following command.
 
-    :::bash
-    docker run -d --init \
-        --hostname vscode-server \
-        --log-opt max-size=50m \
-        --memory=$(($(head -n 1 /proc/meminfo | awk '{print $2}') * 4 / 5))k \
-        --cpus=$(($(nproc) - 1)) \
-        -p 2020:8080 \
-        -e DOCKER_USER=$(id -un) \
-        -e DOCKER_USER_ID=$(id -u) \
-        -e DOCKER_PASSWORD=$(id -un) \
-        -e DOCKER_GROUP_ID=$(id -g) \
-        -v "$(pwd)":/workdir \
-        dclong/vscode-server /scripts/sys/init.sh
+```
+:::bash
+docker run -d --init \
+    --hostname vscode-server \
+    --log-opt max-size=50m \
+    --memory=$(($(head -n 1 /proc/meminfo | awk '{print $2}') * 4 / 5))k \
+    --cpus=$(($(nproc) - 1)) \
+    -p 2020:8080 \
+    -e DOCKER_USER=$(id -un) \
+    -e DOCKER_USER_ID=$(id -u) \
+    -e DOCKER_PASSWORD=$(id -un) \
+    -e DOCKER_GROUP_ID=$(id -g) \
+    -v "$(pwd)":/workdir \
+    dclong/vscode-server /scripts/sys/init.sh
+```
 
 You can expose it to public via ngrok by running the following command.
 
-    :::bash
-    ngrok http 2020
+```
+:::bash
+ngrok http 2020
+```
 
 ## References
 

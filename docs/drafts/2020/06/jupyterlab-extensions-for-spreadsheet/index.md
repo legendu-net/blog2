@@ -1,13 +1,13 @@
 ---
-title: "JupyterLab Extensions for Spreadsheet"
+title: JupyterLab Extensions for Spreadsheet
 created: 2020-06-30 10:05:25
-date: 2023-01-13 20:19:34
+date: 2026-04-13 23:15:19.291621
 authors:
   - bendu
 label: jupyterlab-extensions-for-spreadsheet
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Jupyter
   - JupyterLab
   - spreadsheet
@@ -23,10 +23,10 @@ tags:
 
 ## Tools and JupyterLab Extensions for SpreadSheet
 
-### Google Spreadsheet 
+### Google Spreadsheet
 
-One (potentially good) way is to manipulate Google Spreadsheet using Python. 
-Please refer to 
+One (potentially good) way is to manipulate Google Spreadsheet using Python.
+Please refer to
 [Use Python With Google Spreadsheet](http://www.legendu.net/misc/blog/use-python-with-google-spreadsheet/)
 for more details.
 
@@ -38,13 +38,13 @@ allows you to manipulate tabular data responsively and effectively within Jupyte
 ### [jupyterlab-spreadsheet](https://github.com/quigleyj97/jupyterlab-spreadsheet)
 
 The extension [jupyterlab-spreadsheet](https://github.com/quigleyj97/jupyterlab-spreadsheet)
-provides a way to view Excel files. 
-This makes it possible to work with simple Excel file in JupyterLab 
-with the help of the Python library 
+provides a way to view Excel files.
+This makes it possible to work with simple Excel file in JupyterLab
+with the help of the Python library
 [XlsxWriter](https://github.com/jmcnamara/XlsxWriter).
 Basically,
 you can create rich-format Excel files using the Python library XlsxWriter
-and view it using jupyterlab-spreadsheet. 
+and view it using jupyterlab-spreadsheet.
 
 ### [itables](https://github.com/mwouts/itables)
 
@@ -53,7 +53,6 @@ and view it using jupyterlab-spreadsheet.
 ### [ipyaggrid](https://gitlab.com/DGothrek/ipyaggrid/)
 
 ### [qgrid](https://github.com/quantopian/qgrid)
-
 
 ## Underlying JavaScript Libraries
 

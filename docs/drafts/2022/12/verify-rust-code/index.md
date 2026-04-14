@@ -1,13 +1,13 @@
 ---
-title: "Verify Rust Code"
+title: Verify Rust Code
 created: 2022-12-23 20:48:59
-date: 2022-12-26 11:47:38
+date: 2026-04-13 23:14:40.075872
 authors:
   - bendu
 label: verify-rust-code
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - verify
@@ -36,4 +36,3 @@ tags:
 - [SeaHorn is an automated analysis framework for LLVM-based languages.](https://github.com/seahorn/seahorn)
 
 - [This is a static simulator for Rust programs. It runs a set of test cases and attempts to prove that all assertions pass on all valid inputs.](https://github.com/GaloisInc/crucible/tree/master/crux-mir)
-

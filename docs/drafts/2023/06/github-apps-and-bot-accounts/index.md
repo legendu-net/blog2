@@ -1,13 +1,13 @@
 ---
-title: "GitHub Apps and Bot Accounts"
+title: GitHub Apps and Bot Accounts
 created: 2023-06-11 21:59:44
-date: 2023-06-11 21:59:44
+date: 2026-04-13 23:14:28.979080
 authors:
   - bendu
 label: github-apps-and-bot-accounts
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - GitHub
   - bot
@@ -20,7 +20,7 @@ tags:
 
 ## GitHub Bot Account
 
-A GitHub bot account is just a personal GitHub account 
+A GitHub bot account is just a personal GitHub account
 used as automation purpose.
 
 ## GitHub Apps

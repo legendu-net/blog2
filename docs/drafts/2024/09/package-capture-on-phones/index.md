@@ -1,13 +1,13 @@
 ---
-title: "Package Capture on Phones"
+title: Package Capture on Phones
 created: 2024-09-14 15:10:20
-date: 2024-09-14 15:10:20
+date: 2026-04-13 23:14:23.433366
 authors:
   - bendu
 label: package-capture-on-phones
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - phone
   - package
@@ -33,4 +33,3 @@ http://kiminewt.github.io/pyshark/
 https://blog.csdn.net/qq_34094008/article/details/107134723?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-5.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-5.control
 
 https://blog.csdn.net/qq_40974141/article/details/89886793?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-4.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-4.control
-

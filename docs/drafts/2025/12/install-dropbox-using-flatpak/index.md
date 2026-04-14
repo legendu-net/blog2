@@ -1,13 +1,13 @@
 ---
-title: "Install Dropbox Using Flatpak"
+title: Install Dropbox Using Flatpak
 created: 2025-12-16 15:40:51
-date: 2025-12-16 18:23:33
+date: 2026-04-13 23:14:16.917690
 authors:
   - bendu
 label: install-dropbox-using-flatpak
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Linux
   - flatpak
@@ -25,13 +25,13 @@ flatpak install flathub com.dropbox.Client
 
 ## Configuration on Fedora Atomic Linux Distributions and Variants
 
-Fedora Atomic Linux distributions changed the root (/) filesystem type to 
+Fedora Atomic Linux distributions changed the root (/) filesystem type to
 [composefs](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221qbOoyFENm5dUVRx9Advue8wZ3FJQgN24%22%5D,%22action%22:%22open%22,%22userId%22:%22100282891140280543929%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
 for reasons.
-Composefs is not a widely recognized filesystem type across the Linux landscape. 
+Composefs is not a widely recognized filesystem type across the Linux landscape.
 For example,
 the Dropbox flatpak does not recognize composefs and does not know what to do with it.
-One workaround to make Dropbox installed via flatpak to work on Fedora Atomic Linux distributions 
+One workaround to make Dropbox installed via flatpak to work on Fedora Atomic Linux distributions
 is to configure the flatpak (using flatseal) to point to `/var/home/userid` instead of `/home/userid`.
 
 - Grant the flatpak permission to `/var/home/userid`.
@@ -40,7 +40,7 @@ is to configure the flatpak (using flatseal) to point to `/var/home/userid` inst
 <img width="1919" height="1724" alt="Image" src="https://github.com/user-attachments/assets/cbb2202c-05e9-48d5-9fe5-4ee8ba2676e2" />
 
 The workaround is effective because on Linux Atomic Linux distributions (and variants)
-`/var/home` is of the type btrfs instead, 
+`/var/home` is of the type btrfs instead,
 which is widely recognized.
 
 ## References

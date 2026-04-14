@@ -1,13 +1,13 @@
 ---
-title: "Tools for IOT"
+title: Tools for IOT
 created: 2020-11-09 11:25:24
-date: 2023-01-18 22:17:12
+date: 2026-04-13 23:15:11.484323
 authors:
   - bendu
 label: tools-for-iot
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - hardware
   - camera
@@ -20,12 +20,11 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 ## [FliCamera](https://github.com/sdss/flicamera)
 
 ## [Tools for Drone](https://www.legendu.net/misc/blog/tools-for-drone)
 
-## [Python for IOT](https://www.legendu.net/misc/blog/python-for-iot) 
+## [Python for IOT](https://www.legendu.net/misc/blog/python-for-iot)
 
 ## [Autonomous Driving](https://www.legendu.net/misc/blog/autonomous-driving)
 

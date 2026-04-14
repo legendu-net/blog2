@@ -1,13 +1,13 @@
 ---
-title: "Binary Serialization Format"
+title: Binary Serialization Format
 created: 2022-10-16 16:12:18
-date: 2022-10-17 13:48:56
+date: 2026-04-13 23:14:41.698225
 authors:
   - bendu
 label: binary-serialization-format
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - binary
   - serialization
@@ -19,31 +19,30 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-## Summary 
+## Summary
 
 1. Protobuf is best for message serialization.
-    Some companies (e.g., Google) also use it extensively for disk serialization.
+   Some companies (e.g., Google) also use it extensively for disk serialization.
 
-2. FlatBuffers has better CPU performance.
+1. FlatBuffers has better CPU performance.
 
-3. [Apache Parquet](https://github.com/apache/parquet-format)
-    is the most popular binary serialization format for data frames.
-    
-4. For text serialization format,
-    please refer to
-    [Serialization and deserialization in Python](https://www.legendu.net/misc/blog/serialization-and-deserialization-in-python/)
-    .
+1. [Apache Parquet](https://github.com/apache/parquet-format)
+   is the most popular binary serialization format for data frames.
 
-## Protobuf vs FlatBuffers 
+1. For text serialization format,
+   please refer to
+   [Serialization and deserialization in Python](https://www.legendu.net/misc/blog/serialization-and-deserialization-in-python/)
+   .
 
-Flatbuffers are mmap-able and don't have any parsing overhead compared to protos. 
-Large protos not only have CPU overhead but cause a memory usage spike 
-when proto is parsed during the resource loading phase. 
-The memory usage spike can lead to more page faults and increased end user latency. 
+## Protobuf vs FlatBuffers
+
+Flatbuffers are mmap-able and don't have any parsing overhead compared to protos.
+Large protos not only have CPU overhead but cause a memory usage spike
+when proto is parsed during the resource loading phase.
+The memory usage spike can lead to more page faults and increased end user latency.
 Flatbuffers have none of these disadvantages.
 
 ## [messagepack](https://msgpack.org/index.html)
-
 
 ## [Apache Parquet](https://github.com/apache/parquet-format)
 

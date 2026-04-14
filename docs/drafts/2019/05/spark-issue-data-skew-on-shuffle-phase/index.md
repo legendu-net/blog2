@@ -1,13 +1,13 @@
 ---
-title: "Spark Issue: Data Skew on Shuffle Phase"
+title: 'Spark Issue: Data Skew on Shuffle Phase'
 created: 2019-05-22 10:03:37
-date: 2021-03-22 10:03:37
+date: 2026-04-13 23:15:27.229647
 authors:
   - bendu
 label: spark-issue-data-skew-on-shuffle-phase
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Spark
   - issue
   - data skew
@@ -30,22 +30,24 @@ at org.spark_project.guava.base.Preconditions.checkArgument(Preconditions.java:1
 
 There is data skew in some column(s).
 
-## Solution 
+## Solution
 
 1. split and broadcast
 
-2. add another random column to help reduce skew
+1. add another random column to help reduce skew
 
-        joinWithoutSkew(df1:DataFrame, df2:DataFrame, joinCols:Array[Column], duplicationNum:Int): DateFrame = {
-          ...
-        }
+   ```
+    joinWithoutSkew(df1:DataFrame, df2:DataFrame, joinCols:Array[Column], duplicationNum:Int): DateFrame = {
+      ...
+    }
+   ```
 
-    df1: bigtable, append random num to the join columns. keep the row count no change.
-    df2: smalltable, duplicate df2 by duplicationNum times and got df2Duplicate, 
-    df2Duplicate.count = df2.count * duplicationNum
-    append random num to the join columns.
-    joinCols: the joinCols to be join on
-    duplicationNum: duplication nums of df2
+   df1: bigtable, append random num to the join columns. keep the row count no change.
+   df2: smalltable, duplicate df2 by duplicationNum times and got df2Duplicate,
+   df2Duplicate.count = df2.count * duplicationNum
+   append random num to the join columns.
+   joinCols: the joinCols to be join on
+   duplicationNum: duplication nums of df2
 
 ## References
 

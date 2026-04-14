@@ -1,13 +1,13 @@
 ---
-title: "Tips on Network Protocols"
+title: Tips on Network Protocols
 created: 2020-10-17 01:00:06
-date: 2023-06-24 17:48:44
+date: 2026-04-13 23:15:13.899035
 authors:
   - bendu
 label: tips-on-network-protocols
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - network
   - internet
   - web
@@ -23,11 +23,9 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
-TCP/IP and UDP/IP are low-level data transfer protocols. 
+TCP/IP and UDP/IP are low-level data transfer protocols.
 
 HTTP, FTP, SMTP, WebSocket are high-level data transfer protocols.
-
 
 WebSocket persists a connection and use it for bidirectional data transfering.
 It is good for real-time applications, e.g., chat and game applications.

@@ -1,13 +1,13 @@
 ---
-title: "Approximate Nearest Neighbor Search"
+title: Approximate Nearest Neighbor Search
 created: 2020-05-02 11:44:15
-date: 2020-05-02 11:44:15
+date: 2026-04-13 23:15:20.930178
 authors:
   - bendu
 label: approximate-nearest-neighbor-search
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - approximate
   - nearest neighbor
   - search

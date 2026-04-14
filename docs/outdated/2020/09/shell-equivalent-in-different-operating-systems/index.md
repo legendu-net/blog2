@@ -1,13 +1,13 @@
 ---
-title: "Shell Equivalent in Different Operating Systems"
+title: Shell Equivalent in Different Operating Systems
 created: 2020-09-02 09:22:34
-date: 2021-09-17 11:35:17
+date: 2026-04-13 23:15:30.944674
 authors:
   - bendu
 label: shell-equivalent-in-different-operating-systems
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - OS
   - Linux
   - macOS
@@ -18,18 +18,18 @@ tags:
 
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-[Fish Shell]( https://www.legendu.net/misc/blog/tips-on-the-fish-shell ) 
+[Fish Shell](https://www.legendu.net/misc/blog/tips-on-the-fish-shell)
 is preferred to Bash/Zsh.
 The following content is for Bash/Zsh only.
 
 It suggested that you use IPython shell instead of Bash/Zsh shells.
-Please refer to 
+Please refer to
 [IPython Is the Best Shell](http://www.legendu.net/en/blog/ipython-is-the-best-shell/)
 for detailed discussions.
 If you have to use shell commands,
-it is suggested that you use Linux commands when possible 
+it is suggested that you use Linux commands when possible
 as Linux command are more universal and useful.
-You can achieve this by using WSL 2 on Windows 
+You can achieve this by using WSL 2 on Windows
 and by using Docker or virtual machine on macOS.
 
 <div style="overflow-x:auto;">
@@ -43,7 +43,7 @@ and by using Docker or virtual machine on macOS.
     <th> Command </th>
   </tr>
 
-  <tr>
+<tr>
     <td rowspan="2"> Set PATH </td>
     <td> Linux/Unix </td>
     <td> <code> 
@@ -57,7 +57,7 @@ and by using Docker or virtual machine on macOS.
     </code> </td>
   </tr>
 
-  <tr>
+<tr>
     <td rowspan="3"> Get location <br> of a command </td>
     <td> Linux/Unix </td>
     <td> <code> 
@@ -77,7 +77,7 @@ and by using Docker or virtual machine on macOS.
     </code> </td>
   </tr>
 
-  <tr>
+<tr>
     <td rowspan="3"> Add user <br> to a group </td>
     <td> Linux </td>
     <td> <code> 
@@ -97,7 +97,7 @@ and by using Docker or virtual machine on macOS.
     </code> </td>
   </tr>
 
-  <tr>
+<tr>
     <td rowspan="2"> Compress/Decompress Archives </td>
     <td> Linux/Unix </td>
     <td> <code> 
@@ -113,7 +113,7 @@ and by using Docker or virtual machine on macOS.
     </code> </td>
   </tr>
 
-  <tr>
+<tr>
     <td rowspan="3"> Download a file </td>
     <td rowspan="2"> Linux/Unix </td>
     <td> <code> 
@@ -132,7 +132,7 @@ and by using Docker or virtual machine on macOS.
     </code> </td>
   </tr>
 
-  <tr>
+<tr>
     <td rowspan="2"> Watch a command </td>
     <td rowspan="1"> Linux/Unix </td>
     <td> <code> 
@@ -148,7 +148,7 @@ and by using Docker or virtual machine on macOS.
     </td>
   </tr>
 
-  <tr>
+<tr>
     <td rowspan="3"> Manage partitions of a disk </td>
     <td rowspan="1"> Linux </td>
     <td> <code> 
@@ -174,12 +174,12 @@ and by using Docker or virtual machine on macOS.
 </table>
 </div>
 
-[1] Windows CMD command might not work well in Windows PowerShell. 
-    For example,
-    the `where` command sometimes works but sometimes doesn't work in a PowerShell.
-    Since PowerShell becomes more popular than Windows CMD,
-    `Get-command` is recommended over `where`.
+[1] Windows CMD command might not work well in Windows PowerShell.
+For example,
+the `where` command sometimes works but sometimes doesn't work in a PowerShell.
+Since PowerShell becomes more popular than Windows CMD,
+`Get-command` is recommended over `where`.
 
-[2] The macOS version of fdisk does not function similar to the Linux version of fdisk. 
+[2] The macOS version of fdisk does not function similar to the Linux version of fdisk.
 It is not as intuitive and easy to use as the Linux version.
 It is suggested that you use the Linux version of fdisk instead.

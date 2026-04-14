@@ -1,13 +1,13 @@
 ---
-title: "Prompt Engineering for LLM Tools"
+title: Prompt Engineering for LLM Tools
 created: 2025-05-30 08:26:03
-date: 2025-07-06 17:46:09
+date: 2026-04-13 23:14:20.364275
 authors:
   - bendu
 label: prompt-engineering-for-llm-tools
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - LLM
   - prompt
@@ -20,26 +20,26 @@ tags:
 
 1. set temporature
 
-2. give some examples
+1. give some examples
 
-3. leverage built tools provided by LLM products.
-    For example,
-    Google AI Studio provides tools
+1. leverage built tools provided by LLM products.
+   For example,
+   Google AI Studio provides tools
 
-    - grounding with google search, etc.
+   - grounding with google search, etc.
 
-4. A single comprehensive prompt including all details is better than interactively improving your prompt.
+1. A single comprehensive prompt including all details is better than interactively improving your prompt.
 
-    - Due to the say LLM works, output of previous prompts are fed into it with new prompts. 
-        This might cause the LLM tool to output non-sense if there's mistakes or halluciation in previous output.
+   - Due to the say LLM works, output of previous prompts are fed into it with new prompts.
+     This might cause the LLM tool to output non-sense if there's mistakes or halluciation in previous output.
 
-    - A single comprehensive prompt including all details is also easier to manage (save, edit and rerun) later.
-    
-5. For a large task,
-    you can first ask a LLM tool to write a very detailed execution plan,
-    polish it based on your expertise,
-    and then feed the execution plan to a LLM tool to execute.
-    
+   - A single comprehensive prompt including all details is also easier to manage (save, edit and rerun) later.
+
+1. For a large task,
+   you can first ask a LLM tool to write a very detailed execution plan,
+   polish it based on your expertise,
+   and then feed the execution plan to a LLM tool to execute.
+
 ## Tools for Generating and Managing Prompts
 
 <table>
@@ -233,31 +233,30 @@ tags:
 
 ## Examples of Prompt
 
-> You are an expert at making ascii art. Given a text prompt of an object or animal, 
-> you can make an image depicting the prompt, using only ascii text. 
-> Please be creative, and make liberal use of whitespace characters. 
-> Please use code blocks as needed. 
-> Avoid repeating the same lines. 
-> Prefer profile reviews, not top down views or face views. 
+> You are an expert at making ascii art. Given a text prompt of an object or animal,
+> you can make an image depicting the prompt, using only ascii text.
+> Please be creative, and make liberal use of whitespace characters.
+> Please use code blocks as needed.
+> Avoid repeating the same lines.
+> Prefer profile reviews, not top down views or face views.
 > Please feel free to output many characters in order to have a picture with better resolution and bigger dimensions.
 
-> You are a meticulous content moderator specializing in identifying abusive language related to the Israel-Palestine conflict.  
-> Your task is to classify input text (review_text) as either "Abuse" or "Not Abuse" based on the provided definitions.  
-> These reviews capture users' experiences and opinions after visiting a place and sharing them on Google maps. 
-> "Abuse" is defined as any content expressing war-related sentiments,  protest discussions like zionism immigration issues or political statements . 
-> "Not Abuse" encompasses all other content not related to the conflict.  Provide the Label: [Abuse or Not Abuse]  
+> You are a meticulous content moderator specializing in identifying abusive language related to the Israel-Palestine conflict.\
+> Your task is to classify input text (review_text) as either "Abuse" or "Not Abuse" based on the provided definitions.\
+> These reviews capture users' experiences and opinions after visiting a place and sharing them on Google maps.
+> "Abuse" is defined as any content expressing war-related sentiments, protest discussions like zionism immigration issues or political statements .
+> "Not Abuse" encompasses all other content not related to the conflict. Provide the Label: [Abuse or Not Abuse]
 
-> You are the best sales man at a kia ev9 dealership. 
-> I'm interested in kia ev9, either the land or the gt-line trim. 
+> You are the best sales man at a kia ev9 dealership.
+> I'm interested in kia ev9, either the land or the gt-line trim.
 > Would you help me understand the difference between the land and the gt-line trim to decide which one to buy?
-
 
 # Step by Step Instructions
 
-1. **Read the input:** Carefully review the provided review_text variable.  The review_text contains the text to be classified.  
+1. **Read the input:** Carefully review the provided review_text variable. The review_text contains the text to be classified.
 
-2. **Identify keywords and sentiments:** Analyze the review_text for keywords and phrases related to the Israel-Palestine conflict, including but not limited to: war, violence, conflict, political statements, immigration.
+1. **Identify keywords and sentiments:** Analyze the review_text for keywords and phrases related to the Israel-Palestine conflict, including but not limited to: war, violence, conflict, political statements, immigration.
 
-3. **Classify the text:** Based on your analysis in step 2, determine whether the review_text falls under the "Abuse" or "Not Abuse" category according to the provided definitions.
+1. **Classify the text:** Based on your analysis in step 2, determine whether the review_text falls under the "Abuse" or "Not Abuse" category according to the provided definitions.
 
-4. **Format the output:**  Label: [Abuse or Not Abuse]
+1. **Format the output:** Label: [Abuse or Not Abuse]

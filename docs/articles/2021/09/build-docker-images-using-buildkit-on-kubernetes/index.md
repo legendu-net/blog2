@@ -1,13 +1,13 @@
 ---
-title: "Build Docker Images Using BuildKit on Kubernetes"
+title: Build Docker Images Using BuildKit on Kubernetes
 created: 2021-09-15 16:43:40
-date: 2022-04-30 11:35:06
+date: 2026-04-13 23:14:10.776327
 authors:
   - bendu
 label: build-docker-images-using-buildkit-on-kubernetes
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - software
   - tools
   - Kubernetes
@@ -19,15 +19,14 @@ tags:
   - container
 ---
 
-
 [buildkit-cli-for-kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl)
-is a plugin for kubectl 
+is a plugin for kubectl
 which provides a similar experience building Docker images on Kubernetes
 as building Docker images locally using `docker build`.
 [buildkit-cli-for-kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl)
 works perfectly in a personal/development Kubernetes cluster (e.g., minikube running locally),
 however,
-it doesn't work in an enterprise production environment 
+it doesn't work in an enterprise production environment
 due to permission related issues
 [#68](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl/issues/68),
 [#24](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl/issues/24)

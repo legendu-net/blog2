@@ -1,13 +1,13 @@
 ---
-title: "Docstring in Python"
+title: Docstring in Python
 created: 2020-05-04 10:02:09
-date: 2021-01-04 10:02:09
+date: 2026-04-13 23:15:21.221690
 authors:
   - bendu
 label: docstring-in-python
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
@@ -16,7 +16,7 @@ tags:
 
 1. I personal prefer the sphnix style as it is concise and work well with type annotation.
 
-2. Improperly escaped `\n` in docstring causes `darglint` fail to parse the docstring.
+1. Improperly escaped `\n` in docstring causes `darglint` fail to parse the docstring.
 
 ![VSCode Docstring Sphinx](https://user-images.githubusercontent.com/824507/82768514-5dcc5d00-9de4-11ea-817b-41cc98e71471.png)
 
@@ -31,4 +31,3 @@ tags:
 [Documenting Python](https://devguide.python.org/documenting/)
 
 [Docstrings in Python](https://www.datacamp.com/community/tutorials/docstrings-python)
-

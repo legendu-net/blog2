@@ -1,13 +1,13 @@
 ---
-title: "Alternatives to Docker Containers"
+title: Alternatives to Docker Containers
 created: 2020-03-10 11:45:40
-date: 2021-01-10 11:45:40
+date: 2026-04-13 23:15:24.508749
 authors:
   - bendu
 label: alternatives-to-docker-containers
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Docker
   - container
   - alternative
@@ -17,17 +17,13 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 1. LXD and Multipass are alternatives to Docker container.
-    Docker is more lightweight than LXD 
-    which is more lightweight than Multipass (Docker < LXD < Multipass).
+   Docker is more lightweight than LXD
+   which is more lightweight than Multipass (Docker < LXD < Multipass).
 
-
-2. Neither Docker nor LXD requires a CPU which supports virtualization. 
-    However, 
-    Multipass (which is Virtual Machine) requires a CPU that supports virtualization.
-
-
+1. Neither Docker nor LXD requires a CPU which supports virtualization.
+   However,
+   Multipass (which is Virtual Machine) requires a CPU that supports virtualization.
 
 To sum up all that we know, both LXD and Docker are containerization technologies. Docker is light-weight, simplistic and is well-suited for isolating applications from each other making it popular among DevOps and developers alike. One app per Docker container.
 
@@ -36,7 +32,6 @@ LXD on the other hand, is much better equipped and is much closer to a complete 
 ## [podman](http://www.legendu.net/misc/blog/tips-on-podman)
 
 Podman is a good container alternative to Docker.
-
 
 [LXD vs Docker](https://linuxhint.com/lxd-vs-docker/)
 

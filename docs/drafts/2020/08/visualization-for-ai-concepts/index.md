@@ -1,13 +1,13 @@
 ---
-title: "Visualization for AI Concepts"
+title: Visualization for AI Concepts
 created: 2020-08-24 12:29:58
-date: 2021-09-24 23:11:26
+date: 2026-04-13 23:15:17.209232
 authors:
   - bendu
 label: visualization-for-ai-concepts
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - AI
   - concept
   - visualization
@@ -32,13 +32,13 @@ The reason is that average users won't care that much about the architecture des
 but instead they just use pretrained models or fine tune them.
 When users (mainly researchers) need to twist the architecture of an existing neural work
 or design an new neural network,
-visual neural network design tools are not able to provide the kind of customization and control of complicated neural network architectures. 
+visual neural network design tools are not able to provide the kind of customization and control of complicated neural network architectures.
 It would much easier to customize or design a neural network using coding.
 
 ## Use TensorBoard to Visualize PyTorch Training Process
 
 Even though TensorBoard was develop for TensorFlow in the beginning,
-it can also be used with PyTorch. 
+it can also be used with PyTorch.
 
 [Visualizing Models, Data, and Training with Tensorboard](https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html)
 
@@ -47,57 +47,56 @@ it can also be used with PyTorch.
 ### Add Non-matplotlib Figures
 
 1. Make a plot use your favorite visualization library.
-2. Save the plot to a PNG image.
-3. Load the image. 
-4. Add it to TensorBoard using `SummaryWriter.add_image`.
+1. Save the plot to a PNG image.
+1. Load the image.
+1. Add it to TensorBoard using `SummaryWriter.add_image`.
 
 ### ModuleNotFoundError: No module named 'past'
 
-When you call `SummaryWriter.add_graph` to add a graph to TensorBoard, 
+When you call `SummaryWriter.add_graph` to add a graph to TensorBoard,
 it might throw the error "ModuleNotFoundError: No module named 'past'"
 due to a few causes.
 One case of the error that I encounted was due to passing an object which is not a PyTorch model.
-The object was a customized trainer class which wraps a model. 
+The object was a customized trainer class which wraps a model.
 Pass the innter wrapped model to `SummaryWriter.add_graph` solved the problem.
 
-### Customize TensorBoard 
+### Customize TensorBoard
 
 The article [Read TensorBoard Logs](http://www.legendu.net/misc/blog/read-tensorboard-logs)
-demonstrate a few ways to read TensorBoard logs 
+demonstrate a few ways to read TensorBoard logs
 (for generating customized visualization).
 The issue
 [A more customizable and interactive TensorBoard](https://github.com/tensorflow/tensorboard/issues/5333)
-in the TensorBoard GitHub repository 
+in the TensorBoard GitHub repository
 propose to make TensorBoard more customizable and interactive.
 
 ## Other Useful Visualization Tools
 
 1. [A Visual Production to Probability and Statistics](https://seeing-theory.brown.edu/)
 
-2. [slundberg/shap](https://github.com/slundberg/shap)
-    is a Python library 
-    providing a unified approach to explain the output of any machine learning model.
+1. [slundberg/shap](https://github.com/slundberg/shap)
+   is a Python library
+   providing a unified approach to explain the output of any machine learning model.
 
-3. [ResidentMario/missingno](https://github.com/ResidentMario/missingno)
-    is a Python library 
-    for missing data visualization.
-
+1. [ResidentMario/missingno](https://github.com/ResidentMario/missingno)
+   is a Python library
+   for missing data visualization.
 
 ## Alternative Visual AI Tools
 
 1. [Nvidia Digits](https://developer.nvidia.com/digits)
 
-2. [visdom](https://github.com/fossasia/visdom) 
-    is a flexible tool for creating, organizing, and sharing visualizations of live, rich data. 
-    It supports Torch and Numpy.
+1. [visdom](https://github.com/fossasia/visdom)
+   is a flexible tool for creating, organizing, and sharing visualizations of live, rich data.
+   It supports Torch and Numpy.
 
-3. [Deep Learning Studio](https://deepcognition.ai/deep-learning-studio/)
-    let users build AI deep learning models without coding.
+1. [Deep Learning Studio](https://deepcognition.ai/deep-learning-studio/)
+   let users build AI deep learning models without coding.
 
-4. [Design, Train & Share AI Models from your browser](https://aifiddle.io/)
+1. [Design, Train & Share AI Models from your browser](https://aifiddle.io/)
 
-5. [PrototypeML](https://prototypeml.com/)
-    is a powerful & intuitive visual neural network design platform for PyTorch.
+1. [PrototypeML](https://prototypeml.com/)
+   is a powerful & intuitive visual neural network design platform for PyTorch.
 
 ## Python Libraries
 

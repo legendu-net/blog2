@@ -1,13 +1,13 @@
 ---
-title: "Tips on Apache Beam"
+title: Tips on Apache Beam
 created: 2022-11-10 21:45:13
-date: 2022-11-10 21:45:13
+date: 2026-04-13 23:14:40.810353
 authors:
   - bendu
 label: tips-on-apache-beam
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Apache
   - Beam

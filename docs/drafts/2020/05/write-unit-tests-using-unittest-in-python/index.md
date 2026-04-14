@@ -1,19 +1,19 @@
 ---
 title: Write Unit Tests Using unittest in Python
 created: 2020-05-03 21:47:11
-date: 2026-04-05 19:42:37.803087
+date: 2026-04-13 23:15:22.549027
 authors:
-- bendu
+  - bendu
 label: write-unit-tests-using-unittest-in-python
 license: CC-BY-4.0
 tags:
-- Computer Science
-- Python
-- unittest
-- unit test
+  - computer science
+  - Python
+  - unittest
+  - unit test
 ---
-**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 python -m unittest test_module1 test_module2
 python -m unittest test_module.TestClass

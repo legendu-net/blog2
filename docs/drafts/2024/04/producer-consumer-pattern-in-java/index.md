@@ -1,13 +1,13 @@
 ---
-title: "Producer Consumer Pattern in Java"
+title: Producer Consumer Pattern in Java
 created: 2024-04-10 16:16:06
-date: 2024-04-10 16:16:06
+date: 2026-04-13 23:14:24.325032
 authors:
   - bendu
 label: producer-consumer-pattern-in-java
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
 ---
 

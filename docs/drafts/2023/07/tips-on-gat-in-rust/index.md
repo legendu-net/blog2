@@ -1,13 +1,13 @@
 ---
-title: "Tips on GAT in Rust"
+title: Tips on GAT in Rust
 created: 2023-07-30 18:09:45
-date: 2023-07-30 21:04:55
+date: 2026-04-13 23:14:28.506662
 authors:
   - bendu
 label: tips-on-gat-in-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - GAT

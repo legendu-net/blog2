@@ -1,13 +1,13 @@
 ---
-title: "Tips on Web Browsers"
+title: Tips on Web Browsers
 created: 2025-12-17 12:32:32
-date: 2025-12-17 12:32:32
+date: 2026-04-13 23:14:17.523387
 authors:
   - bendu
 label: tips-on-web-browsers
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - web browser
   - Disco
@@ -26,5 +26,3 @@ tags:
 ## Headless Browsers
 
 - [Light Panda](https://github.com/lightpanda-io/browser)
-
-

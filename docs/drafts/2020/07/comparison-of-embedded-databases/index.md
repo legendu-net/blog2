@@ -1,13 +1,13 @@
 ---
-title: "Comparison of Embedded Databases"
+title: Comparison of Embedded Databases
 created: 2020-07-22 18:40:36
-date: 2025-06-04 14:34:07
+date: 2026-04-13 23:15:18.100624
 authors:
   - bendu
 label: comparison-of-embedded-databases
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - database
   - embedded
   - in-memory

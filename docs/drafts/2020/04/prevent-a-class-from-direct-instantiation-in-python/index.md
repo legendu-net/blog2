@@ -1,13 +1,13 @@
 ---
-title: "Prevent a Class from Direct Instantiation in Python"
+title: Prevent a Class from Direct Instantiation in Python
 created: 2020-04-20 08:43:33
-date: 2021-02-20 08:43:33
+date: 2026-04-13 23:15:22.845437
 authors:
   - bendu
 label: prevent-a-class-from-direct-instantiation-in-python
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Python
   - class
   - instantiation
@@ -18,16 +18,14 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 ## Inherit the class `abc.ABC`
 
 from abc import ABC
 
 class MyABC(ABC):
-    pass
+pass
 
 ## Define a Customized `__new__` Method
-
 
 ## Reference
 

@@ -1,27 +1,28 @@
 ---
 title: Tips on UI Vision
 created: 2023-10-11 11:05:41
-date: 2026-04-07 11:28:25.439660
+date: 2026-04-13 23:14:26.424552
 authors:
-- bendu
+  - bendu
 label: tips-on-ui-vision
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- UI
-- Vision
-- automation
+  - computer science
+  - programming
+  - UI
+  - Vision
+  - automation
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Tips and Traps
 
 1. When recording a macro,
-    the current open tab (cannot be an empty tab) 
-    should the page that you intend to record the macro on. 
+   the current open tab (cannot be an empty tab)
+   should the page that you intend to record the macro on.
 
-2. Some actions might not be recorded correctly...
+1. Some actions might not be recorded correctly...
 
 ## References
 

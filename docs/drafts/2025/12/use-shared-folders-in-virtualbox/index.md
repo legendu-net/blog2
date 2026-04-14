@@ -1,13 +1,13 @@
 ---
-title: "Use Shared Folders in VirtualBox"
+title: Use Shared Folders in VirtualBox
 created: 2025-12-07 18:37:30
-date: 2025-12-12 21:09:45
+date: 2026-04-13 23:14:16.762663
 authors:
   - bendu
 label: use-shared-folders-in-virtualbox
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - VirtualBox
   - shared
@@ -17,30 +17,33 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
- 
 1. Do NOT check any of the following options unless you know what you are doing.
-    - Read-only
-        - You won't be able to write to the share directory.
-    - Auto-mount
-        - Auto-mount uses the root account by default.
-        - Not sure whether it uses the user account if a root account is not created in the VM.
 
-    Do check the following option(s).  
+   - Read-only
+     - You won't be able to write to the share directory.
+   - Auto-mount
+     - Auto-mount uses the root account by default.
+     - Not sure whether it uses the user account if a root account is not created in the VM.
 
-    - Make Machine-permanent
-        - The shared folder will survive VM reboots.
-    - Make Global
-        - The shared folder will be available to all VMs even after reboots.
+   Do check the following option(s).
 
-    <img width="602" height="558" alt="Image" src="https://github.com/user-attachments/assets/94eaeb60-fbba-4d2e-86a3-961ed473b342" />
+   - Make Machine-permanent
+     - The shared folder will survive VM reboots.
+   - Make Global
+     - The shared folder will be available to all VMs even after reboots.
 
-2. It is suggested that you mount a shared folder manually.
+   <img width="602" height="558" alt="Image" src="https://github.com/user-attachments/assets/94eaeb60-fbba-4d2e-86a3-961ed473b342" />
 
-        sudo mount -t vboxsf -o uid=$(id -u),gid=$(id -u),fmask=177,dmask=077 \
-            name_of_shared_folder mount_point
-        
-3. As alternatives to shared folders, 
-    you can
-    - SSH into the host machine
-    - use sshfs
-    - start JupyterLab, VSCode Servers on the host and work in the guest VM
+1. It is suggested that you mount a shared folder manually.
+
+   ```
+    sudo mount -t vboxsf -o uid=$(id -u),gid=$(id -u),fmask=177,dmask=077 \
+        name_of_shared_folder mount_point
+   ```
+
+1. As alternatives to shared folders,
+   you can
+
+   - SSH into the host machine
+   - use sshfs
+   - start JupyterLab, VSCode Servers on the host and work in the guest VM

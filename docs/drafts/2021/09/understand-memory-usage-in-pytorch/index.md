@@ -1,13 +1,13 @@
 ---
-title: "Understand Memory Usage in PyTorch"
+title: Understand Memory Usage in PyTorch
 created: 2021-09-19 12:47:00
-date: 2021-09-19 12:47:00
+date: 2026-04-13 23:14:57.987521
 authors:
   - bendu
 label: understand-memory-usage-in-pytorch
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - PyTorch
   - memory

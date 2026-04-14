@@ -1,13 +1,13 @@
 ---
-title: "Git Implementations and Bindings in Python"
+title: Git Implementations and Bindings in Python
 created: 2021-05-02 12:31:26
-date: 2026-01-10 17:03:46
+date: 2026-04-13 23:15:02.097761
 authors:
   - bendu
 label: git-implementations-and-bindings-in-python
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Git
   - Python
@@ -28,7 +28,7 @@ and
 Below is a simple comparison of the 3 packages.
 
 |                | pygit2              | dulwich       | GitPython                   |
-|----------------|---------------------|---------------|-----------------------------|
+| -------------- | ------------------- | ------------- | --------------------------- |
 | Status         | Active              | Active        | Maintenance mode            |
 | Implementation | bindings to libgit2 | pure Python   | bindings to the git command |
 | License        | GPLv2               | Apache, GPLv2 | BSD 3                       |
@@ -37,7 +37,6 @@ Below is a simple comparison of the 3 packages.
 Overall,
 dulwich is recommended.
 
-## References 
+## References
 
 - [Hands on Dulwich](http://www.legendu.net/misc/blog/hands-on-Dulwich)
-

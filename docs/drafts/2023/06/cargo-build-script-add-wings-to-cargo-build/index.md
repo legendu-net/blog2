@@ -1,13 +1,13 @@
 ---
-title: "Cargo Build Script Add Wings to Cargo Build"
+title: Cargo Build Script Add Wings to Cargo Build
 created: 2023-06-12 20:54:23
-date: 2023-06-12 20:54:23
+date: 2026-04-13 23:14:28.654531
 authors:
   - bendu
 label: cargo-build-script-add-wings-to-cargo-build
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - cargo
@@ -20,10 +20,10 @@ tags:
 
 1. `build.rs` is located in the root directory of the project.
 
-2. `build.rs` can be used to directly generate a module
-    or generate some Rust code to be included in another Rust file using the macro `include!`.
+1. `build.rs` can be used to directly generate a module
+   or generate some Rust code to be included in another Rust file using the macro `include!`.
 
-3. Environment variables for `build.rs` can be configured in `.cargo/config.toml`.
+1. Environment variables for `build.rs` can be configured in `.cargo/config.toml`.
 
 ## References
 

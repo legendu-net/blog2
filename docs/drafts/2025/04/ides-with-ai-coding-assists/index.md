@@ -1,73 +1,80 @@
 ---
 title: IDEs With AI Coding Assists
 created: 2025-04-18 07:12:55
-date: 2026-04-05 19:42:37.607136
+date: 2026-04-13 23:14:22.509975
 authors:
-- bendu
+  - bendu
 label: ides-with-ai-coding-assists
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- IDE
-- AI
-- coding
-- completion
+  - computer science
+  - programming
+  - IDE
+  - AI
+  - coding
+  - completion
 ---
-**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## AI Code Assistant for IDEs
 
 1. Google Gemini
-    - Built-in for Firebase Studio
 
-2. [GitHub Copilot](https://github.com/features/copilot)
-    - Visual Studio Code
-    - Visual Studio 
-    - command-line
+   - Built-in for Firebase Studio
 
-3. [Amazon Q Developer](https://aws.amazon.com/q/developer/?refid=d30bd40f-088b-4813-9e3a-aca2cbbbd077)
-    - Visual Studio Code
-    - Visual Studio 
-    - Jet Brains
-    - command-line
+1. [GitHub Copilot](https://github.com/features/copilot)
+
+   - Visual Studio Code
+   - Visual Studio
+   - command-line
+
+1. [Amazon Q Developer](https://aws.amazon.com/q/developer/?refid=d30bd40f-088b-4813-9e3a-aca2cbbbd077)
+
+   - Visual Studio Code
+   - Visual Studio
+   - Jet Brains
+   - command-line
 
 ## IDEs Supporint AI Code Assistants
 
 1. Visual Studio Code
-    - [GitHub Copilot](https://github.com/features/copilot)
-    - Amazon Q Developer
-    - [tabby](https://github.com/TabbyML/tabby)
 
-2. Zed
-    - all popular LLMs are aupported
-        - Amazon Bedrock
-        - Anthropic
-        - GitHub Copilot
-        - DeepSeek
-        - Google AI Studio
-        - Local LLMs
-        - Mistral
-        - Ollama
-        - OpenAI
+   - [GitHub Copilot](https://github.com/features/copilot)
+   - Amazon Q Developer
+   - [tabby](https://github.com/TabbyML/tabby)
 
-3. Google Firebase Studio (Formally Known as IDX)
-    - Gemini built-in
+1. Zed
 
-4. [WinsSurf](https://windsurf.com/editor)
+   - all popular LLMs are aupported
+     - Amazon Bedrock
+     - Anthropic
+     - GitHub Copilot
+     - DeepSeek
+     - Google AI Studio
+     - Local LLMs
+     - Mistral
+     - Ollama
+     - OpenAI
 
-5. [Cursor](https://www.cursor.com/)
+1. Google Firebase Studio (Formally Known as IDX)
 
-6. [trae](trae.ai)
+   - Gemini built-in
 
-7. Vim / NeoVim
-    - [copilot.vim](https://github.com/github/copilot.vim)
-    - [avante.nvim](https://github.com/yetone/avante.nvim)
-    - [neocodeium](https://github.com/monkoose/neocodeium)
-    - [windsurf.vim (formally known as codeium.vim)](https://github.com/Exafunction/windsurf.vim) 
-    - [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
-    - [llm.nvim](https://github.com/huggingface/llm.nvim)
+1. [WinsSurf](https://windsurf.com/editor)
+
+1. [Cursor](https://www.cursor.com/)
+
+1. [trae](trae.ai)
+
+1. Vim / NeoVim
+
+   - [copilot.vim](https://github.com/github/copilot.vim)
+   - [avante.nvim](https://github.com/yetone/avante.nvim)
+   - [neocodeium](https://github.com/monkoose/neocodeium)
+   - [windsurf.vim (formally known as codeium.vim)](https://github.com/Exafunction/windsurf.vim)
+   - [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)
+   - [llm.nvim](https://github.com/huggingface/llm.nvim)
 
 ## References
 

@@ -1,13 +1,13 @@
 ---
-title: "Tips on sshuttle"
+title: Tips on sshuttle
 created: 2020-10-04 09:59:49
-date: 2021-01-04 09:59:49
+date: 2026-04-13 23:15:14.484704
 authors:
   - bendu
 label: tips-on-sshuttle
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - sshuttle
   - VPN
   - SSH
@@ -19,47 +19,51 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-1. `sudo` permission is required to run sshuttle. 
+1. `sudo` permission is required to run sshuttle.
 
-1. It's valid to run sshuttle more than once simultaneously on a single client machine, 
-    connecting to a different server every time, so you can be on more than one VPN at once.
+1. It's valid to run sshuttle more than once simultaneously on a single client machine,
+   connecting to a different server every time, so you can be on more than one VPN at once.
 
-2. It is common in enterprise environments that a SSH tunnel to a production server needs to go through a bastion server.
-    There is no way to configure this in sshuttle directly,
-    however, 
-    this is doable in the configuration file of SSH.
-    For more discussions,
-    please refer to
-    [[Question]: SSH proxy](https://github.com/sshuttle/sshuttle/issues/540)
-    and
-    [Configure SSH to Use a Proxy Server](http://www.legendu.net/en/blog/configure-ssh-to-use-a-proxy-server/)
-    .
+1. It is common in enterprise environments that a SSH tunnel to a production server needs to go through a bastion server.
+   There is no way to configure this in sshuttle directly,
+   however,
+   this is doable in the configuration file of SSH.
+   For more discussions,
+   please refer to
+   [\[Question\]: SSH proxy](https://github.com/sshuttle/sshuttle/issues/540)
+   and
+   [Configure SSH to Use a Proxy Server](http://www.legendu.net/en/blog/configure-ssh-to-use-a-proxy-server/)
+   .
 
-## Installation 
+## Installation
 
-    :::bash
-    sudo apt install iptables 
-    pip3 install sshuttle
+```
+:::bash
+sudo apt install iptables 
+pip3 install sshuttle
+```
 
-## Configuration 
+## Configuration
 
-    {
-    "HopServerA": [
-        "12.182.293.180/32",
-        "129.33.78.18/32",
-        "129.13.280.0/24",
-        "sftp.somehost.com"
-    ],
-    "HopServerB": [
-        "11.38.26.0/24"
-    ]
-    }
+```
+{
+"HopServerA": [
+    "12.182.293.180/32",
+    "129.33.78.18/32",
+    "129.13.280.0/24",
+    "sftp.somehost.com"
+],
+"HopServerB": [
+    "11.38.26.0/24"
+]
+}
+```
 
-## Reverse Traffic Forwarding 
+## Reverse Traffic Forwarding
 
 [[question] "server" on the local system, "client" on the remote system?](https://github.com/sshuttle/sshuttle/issues/421)
 
-## sshuttle in Docker 
+## sshuttle in Docker
 
 [how to let docker container work with sshuttle?](https://stackoverflow.com/questions/29838892/how-to-let-docker-container-work-with-sshuttle)
 
@@ -72,22 +76,24 @@ tags:
 --cap-add=NET_ADMIN
 --cap-add=NET_RAW
 
-    docker run -d \
-        --hostname jupyterhub-ds \
-        --log-opt max-size=50m \
-        --memory=$(($(head -n 1 /proc/meminfo | awk '{print $2}') * 4 / 5))k \
-        --cpus=$((`nproc` - 1)) \
-        --cap-add=NET_ADMIN \
-        --cap-add=NET_RAW \
-        -p 3000:8000 \
-        -e DOCKER_USER=`id -un` \
-        -e DOCKER_USER_ID=`id -u` \
-        -e DOCKER_PASSWORD=`id -un` \
-        -e DOCKER_GROUP_ID=`id -g` \
-        -e DOCKER_ADMIN_USER=`id -un` \
-        -v `pwd`:/workdir \
-        -v `dirname $HOME`:/home_host \
-        dclong/jupyterhub-ds /scripts/sys/init.sh
+```
+docker run -d \
+    --hostname jupyterhub-ds \
+    --log-opt max-size=50m \
+    --memory=$(($(head -n 1 /proc/meminfo | awk '{print $2}') * 4 / 5))k \
+    --cpus=$((`nproc` - 1)) \
+    --cap-add=NET_ADMIN \
+    --cap-add=NET_RAW \
+    -p 3000:8000 \
+    -e DOCKER_USER=`id -un` \
+    -e DOCKER_USER_ID=`id -u` \
+    -e DOCKER_PASSWORD=`id -un` \
+    -e DOCKER_GROUP_ID=`id -g` \
+    -e DOCKER_ADMIN_USER=`id -un` \
+    -v `pwd`:/workdir \
+    -v `dirname $HOME`:/home_host \
+    dclong/jupyterhub-ds /scripts/sys/init.sh
+```
 
 ## References
 

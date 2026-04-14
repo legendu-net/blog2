@@ -1,13 +1,13 @@
 ---
-title: "Install VirtualBox Guest Additions"
+title: Install VirtualBox Guest Additions
 created: 2025-12-07 18:39:38
-date: 2025-12-07 18:39:38
+date: 2026-04-13 23:14:16.009590
 authors:
   - bendu
 label: install-virtualbox-guest-additions
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - VirtualBox
   - Guest
@@ -24,21 +24,24 @@ tags:
 ### Fedora Atomic Linux Distributions
 
 Open your terminal and run the following command to layer the package.
+
 ```
 rpm-ostree install virtualbox-guest-additions
 ```
 
-If you receive an error stating the package is "already provided" or part of the base image, 
+If you receive an error stating the package is "already provided" or part of the base image,
 run this command instead to explicitly enable it.
+
 ```
 rpm-ostree install --allow-inactive virtualbox-guest-additions
 ```
+
 See more details at
 [chat with Gemini](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221ScgkgBOJw9XehhzPiM6VBZJCUIxepuWv%22%5D,%22action%22:%22open%22,%22userId%22:%22100282891140280543929%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
 .
 
 ## Traditional Mutable Linux Distributions
 
-1. Devices -> Insert Guest Additions CD. 
+1. Devices -> Insert Guest Additions CD.
 
-2. Run the corresponding executable.
+1. Run the corresponding executable.

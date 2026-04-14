@@ -1,13 +1,13 @@
 ---
-title: "Tips on Gh"
+title: Tips on Gh
 created: 2022-05-02 00:03:11
-date: 2022-05-02 00:03:11
+date: 2026-04-13 23:14:48.441770
 authors:
   - bendu
 label: tips-on-gh
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - gh
   - GitHub
@@ -25,6 +25,5 @@ https://github.com/cli/cli
 https://cli.github.com/manual/gh_secret
 
 https://cli.github.com/manual/gh
-
 
 https://github.com/topics/gh-extension

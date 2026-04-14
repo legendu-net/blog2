@@ -1,13 +1,13 @@
 ---
-title: "Ads Platforms"
+title: Ads Platforms
 created: 2020-08-08 12:54:46
-date: 2020-08-08 12:54:46
+date: 2026-04-13 23:15:15.863855
 authors:
   - bendu
 label: ads-platforms
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Ads
   - Google Ads
   - platform

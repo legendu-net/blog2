@@ -1,20 +1,21 @@
 ---
 title: Change the Default Shell in Linux
 created: 2025-12-07 17:48:30
-date: 2026-04-03 16:13:37.449930
+date: 2026-04-13 23:14:15.722053
 authors:
-- bendu
+  - bendu
 label: change-the-default-shell-in-linux
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- Linux
-- shell
-- chsh
-- Atomic
-- change
+  - computer science
+  - programming
+  - Linux
+  - shell
+  - chsh
+  - Atomic
+  - change
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Atomic Linux Distributions
@@ -24,6 +25,7 @@ tags:
 ```
 sudo usermod --shell $(which fish) $(id -un)
 ```
+
 The above command updates the configuration file `/etc/passwd`.
 
 ## Mutable Linux Distributions
@@ -31,6 +33,7 @@ The above command updates the configuration file `/etc/passwd`.
 ```
 sudo chsh -s $(which fish) $(id -un)
 ```
+
 You have to add the path of `fish` into `/etc/shells`,
 if you get the error message
 "chsh: /usr/bin/fish is an invalid shell".

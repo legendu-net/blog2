@@ -1,13 +1,13 @@
 ---
-title: "Write Unsafe Code in Rust"
+title: Write Unsafe Code in Rust
 created: 2022-09-04 21:38:08
-date: 2025-02-15 23:15:10
+date: 2026-04-13 23:14:43.449674
 authors:
   - bendu
 label: write-unsafe-code-in-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - unsafe
@@ -38,4 +38,3 @@ The goal of the UCG WG is to produce the Unsafe Code Guidelines Reference: a "gu
 - [Comprehensive Understanding of Unsafe Rust](https://rustmagazine.org/issue-3/understand-unsafe-rust/)
 
 - [Comprehensive Understanding of Unsafe Rust](https://rustmagazine.org/issue-3/understand-unsafe-rust/)
-

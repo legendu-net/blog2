@@ -1,13 +1,13 @@
 ---
-title: "Sum Type in Rust"
+title: Sum Type in Rust
 created: 2022-01-15 14:09:38
-date: 2022-01-15 14:09:38
+date: 2026-04-13 23:14:50.787822
 authors:
   - bendu
 label: sum-type-in-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - sum
@@ -18,8 +18,7 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
-Enum is the preferred way to constrcut a sum type of several types 
+Enum is the preferred way to constrcut a sum type of several types
 (which does not implemente the same trait).
 
 The Rust crate

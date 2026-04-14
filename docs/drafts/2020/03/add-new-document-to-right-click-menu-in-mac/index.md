@@ -1,13 +1,13 @@
 ---
-title: "Add New Document to Right-Click Menu in Mac"
+title: Add New Document to Right-Click Menu in Mac
 created: 2020-03-11 16:04:18
-date: 2020-03-11 16:04:18
+date: 2026-04-13 23:15:24.349346
 authors:
   - bendu
 label: add-new-document-to-right-click-menu-in-mac
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - macOS
   - right-click menu
   - new document
@@ -16,10 +16,9 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 [Right Click to Create New File on macOS](https://filipmolcik.com/new-file-mac-os/)
 Automator
-This solution is stupid. 
+This solution is stupid.
 You must right click on a file/folder in order for `Quick Action` to show up in the menu.
 But what if I want to create a new document in an empty directory?
 

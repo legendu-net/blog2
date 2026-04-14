@@ -1,13 +1,13 @@
 ---
-title: "Configuring Terminal in Visual Studio Code"
+title: Configuring Terminal in Visual Studio Code
 created: 2025-06-07 09:45:35
-date: 2025-06-09 02:49:30
+date: 2026-04-13 23:14:19.616175
 authors:
   - bendu
 label: configuring-terminal-in-visual-studio-code
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - IDE
   - editor
@@ -19,30 +19,31 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
-## Configure The Shortcut `ctrl+x` `ctrl+e` 
+## Configure The Shortcut `ctrl+x` `ctrl+e`
 
 The shortcut `ctrl+x` `ctrl+e` edits a bash prompt using `$EDITOR` in terminals.
 However,
 this doesn't work out-of-the-box in the teminal in Visual Studio Code.
-This is because by default `ctrl+e` is binded to the command  
+This is because by default `ctrl+e` is binded to the command\
 `workbench.action.quickOpen`
 which is among the list of commands skipping shell by default.
 You can remove `workbench.action.quickOpen`
-from the list so that `ctrl+e` is pass to the shell 
+from the list so that `ctrl+e` is pass to the shell
 by adding the following settings.
 
-    "terminal.integrated.commandsToSkipShell": [
-        "-workbench.action.quickOpen"
-    ]
-    
+```
+"terminal.integrated.commandsToSkipShell": [
+    "-workbench.action.quickOpen"
+]
+```
+
 This will enable the shortcut `ctrl+x` `ctrl+e` to edit a bash prompt using an external editor.
-However, 
+However,
 if you are using Gitpod,
 the shortcut will open a new tab to edit the bash prompt.
 This is because the environment variable `VISUAL`
 is set to `/ide/bin/remote-cli/gitpod-code` by default in Gitpod.
-To make the shortcut `ctrl+x` `ctrl+e` editing a bash prompt 
+To make the shortcut `ctrl+x` `ctrl+e` editing a bash prompt
 using your preferred editor (say, NeoVim),
 make sure to set both environment variables
 `VISUAL` and `EDITOR`

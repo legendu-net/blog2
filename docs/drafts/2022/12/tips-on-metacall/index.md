@@ -1,13 +1,13 @@
 ---
-title: "Tips on MetaCall"
+title: Tips on MetaCall
 created: 2022-12-28 10:35:26
-date: 2022-12-28 21:25:35
+date: 2026-04-13 23:14:39.479626
 authors:
   - bendu
 label: tips-on-metacall
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - MetaCall
   - RPC
@@ -17,7 +17,6 @@ tags:
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
 
 [Google Summer of Code 2021: Implementing a WebAssembly Loader for MetaCall](https://medium.com/@metacall/google-summer-of-code-2021-implementing-a-webassembly-loader-for-metacall-f7a4bc60739f)
 

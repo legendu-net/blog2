@@ -1,13 +1,13 @@
 ---
-title: "Save and Load PyTorch Models"
+title: Save and Load PyTorch Models
 created: 2020-04-09 13:30:28
-date: 2020-04-09 13:30:28
+date: 2026-04-13 23:15:23.290239
 authors:
   - bendu
 label: save-and-load-pytorch-models
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - deep learning
   - data science
   - machine learning
@@ -22,11 +22,11 @@ tags:
 
 1. PyTorch uses pickle to serialize and deserialize objects.
 
-2. The PyTorch convention is 
-    to use the file extension `.pt` or `.pth` for saving model (or its parameters)
-    and use the file extension `.tar` for saving checkpoints.
+1. The PyTorch convention is
+   to use the file extension `.pt` or `.pth` for saving model (or its parameters)
+   and use the file extension `.tar` for saving checkpoints.
 
-3. It is preferred to save model parameters rather than the whole model.
+1. It is preferred to save model parameters rather than the whole model.
 
 ## References
 

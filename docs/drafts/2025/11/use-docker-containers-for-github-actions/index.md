@@ -1,13 +1,13 @@
 ---
-title: "Use Docker Containers for GitHub Actions"
+title: Use Docker Containers for GitHub Actions
 created: 2025-11-23 10:57:08
-date: 2025-11-23 10:57:08
+date: 2026-04-13 23:14:19.297564
 authors:
   - bendu
 label: use-docker-containers-for-github-actions
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - GitHub Actions
   - CICD
@@ -21,22 +21,22 @@ tags:
 ## Tips & Traps
 
 1. Docker container is available in Ubuntu and Windows but not macOS in GitHub Actions due to license issues.
-    To use Docker in macOS in GitHub Actions,
-    you have to install it manually.
-    Please refer to 
-    [Is it possible to install and configure Docker on MacOS runner?](https://github.community/t/is-it-possible-to-install-and-configure-docker-on-macos-runner/16981)
-    for more details.
-    
-2. The `runner` account (even with `sudo`) in GitHub Actions VMs 
-    have restricted priviledges.
-    For example, 
-    the Linux perf (and equivalent) tools cannot be run in GitHub Actions VMs
-    even if `sudo` is used.
-    Docker containers running in GitHub Actions VMs are restricted too.
-    For more details,
-    please refer to
-    [Supported Linux capabilities](https://docs.github.com/en/actions/creating-actions/dockerfile-support-for-github-actions#supported-linux-capabilities)
-    .
+   To use Docker in macOS in GitHub Actions,
+   you have to install it manually.
+   Please refer to
+   [Is it possible to install and configure Docker on MacOS runner?](https://github.community/t/is-it-possible-to-install-and-configure-docker-on-macos-runner/16981)
+   for more details.
+
+1. The `runner` account (even with `sudo`) in GitHub Actions VMs
+   have restricted priviledges.
+   For example,
+   the Linux perf (and equivalent) tools cannot be run in GitHub Actions VMs
+   even if `sudo` is used.
+   Docker containers running in GitHub Actions VMs are restricted too.
+   For more details,
+   please refer to
+   [Supported Linux capabilities](https://docs.github.com/en/actions/creating-actions/dockerfile-support-for-github-actions#supported-linux-capabilities)
+   .
 
 ## Examples
 

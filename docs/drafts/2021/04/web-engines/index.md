@@ -1,20 +1,21 @@
 ---
-title: "Web Engines"
+title: Web Engines
 created: 2021-04-13 23:22:21
-date: 2021-04-13 23:22:21
+date: 2026-04-13 23:15:05.593936
 authors:
   - bendu
 label: web-engines
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## [webview](https://github.com/webview/webview)
-A tiny cross-platform webview library for C/C++/Golang to build modern cross-platform GUIs. 
+
+A tiny cross-platform webview library for C/C++/Golang to build modern cross-platform GUIs.
 The goal of the project is to create a common HTML5 UI abstraction layer for the most widely used platforms.
 
 ## [sciter-sdk](https://github.com/c-smile/sciter-sdk)

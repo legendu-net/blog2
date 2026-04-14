@@ -1,13 +1,13 @@
 ---
-title: "Data for Learning to Rank"
+title: Data for Learning to Rank
 created: 2021-10-08 12:13:42
-date: 2021-10-08 12:13:42
+date: 2026-04-13 23:14:54.714175
 authors:
   - bendu
 label: data-for-learning-to-rank
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - AI
   - recommendation LTR
   - MLR
@@ -20,5 +20,5 @@ tags:
 [Book-Crossing Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
 
 [Microsoft Learning to Rank Datasets](https://www.microsoft.com/en-us/research/project/mslr/)
-    - MSLR-WEB10K
-    - MSLR-WEB30K
+\- MSLR-WEB10K
+\- MSLR-WEB30K

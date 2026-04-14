@@ -1,39 +1,41 @@
 ---
 title: Debug a Rust Application
 created: 2021-06-16 22:44:54
-date: 2026-04-05 19:42:37.732121
+date: 2026-04-13 23:15:01.646885
 authors:
-- bendu
+  - bendu
 label: debug-a-rust-application
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- debug
-- CodeLLDB
-- Rust
-- VSCode
-- Visual Studio Code
+  - computer science
+  - programming
+  - debug
+  - CodeLLDB
+  - Rust
+  - VSCode
+  - Visual Studio Code
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 ## Debugging Rust in VSCode
-1. Install the extension 
-    [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb)
-    .
 
-2. Uncheck "Pause on panic" (checked by default).
+1. Install the extension
+   [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb)
+   .
+
+1. Uncheck "Pause on panic" (checked by default).
 
 ## Debug Rust Using rust-gdb
 
 ## Debug Rust Using rust-lldb
 
 ## Debug Rust Using [rr](https://github.com/rr-debugger/rr)
-is a lightweight tool for recording, 
-replaying and debugging execution of applications (trees of processes and threads). 
-Debugging extends gdb with very efficient reverse-execution, 
-which in combination with standard gdb/x86 features like hardware data watchpoints, makes debugging much more fun. 
+
+is a lightweight tool for recording,
+replaying and debugging execution of applications (trees of processes and threads).
+Debugging extends gdb with very efficient reverse-execution,
+which in combination with standard gdb/x86 features like hardware data watchpoints, makes debugging much more fun.
 
 ## References
 
@@ -54,7 +56,3 @@ which in combination with standard gdb/x86 features like hardware data watchpoin
 - [vscode-lldb Manual -- Cargo Support](https://github.com/vadimcn/vscode-lldb/blob/v1.4.5/MANUAL.md#cargo-support)
 
 - [How to debug Cargo tests (with CLI or IDE)?](https://github.com/rust-lang/cargo/issues/6821)
-
-
-
-

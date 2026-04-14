@@ -1,31 +1,29 @@
 ---
-title: "Relative Import in Python"
+title: Relative Import in Python
 created: 2020-04-12 10:08:43
-date: 2020-04-12 10:08:43
+date: 2026-04-13 23:14:14.743188
 authors:
   - bendu
 label: relative-import-in-python
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Python
   - class
 ---
 
-**
+\*\*
 Things on this page are fragmentary and immature notes/thoughts of the author.
 Please read with your own judgement!
-**
-
+\*\*
 
 1. Call the package outside it
 
-2. Add `..` into `sys.path`.
+1. Add `..` into `sys.path`.
 
-    :::python
-    import sys
-    sys.path.append("..")
-
+   :::python
+   import sys
+   sys.path.append("..")
 
 ## References
 

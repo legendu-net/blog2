@@ -1,13 +1,13 @@
 ---
-title: "LLM in Rust"
+title: LLM in Rust
 created: 2023-08-03 16:03:13
-date: 2025-06-04 14:23:53
+date: 2026-04-13 23:14:27.008892
 authors:
   - bendu
 label: llm-in-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - LLM
@@ -18,16 +18,16 @@ tags:
 
 - [llm](https://github.com/rustformers/llm)
 
-    [llm](https://github.com/rustformers/llm)
-    is an ecosystem of Rust libraries 
-    for working with large language models - 
-    it's built on top of the fast, efficient GGML library for machine learning.
+  [llm](https://github.com/rustformers/llm)
+  is an ecosystem of Rust libraries
+  for working with large language models -
+  it's built on top of the fast, efficient GGML library for machine learning.
 
 - [llama2.rs](https://github.com/srush/llama2.rs)
 
 - [ollama-rs](https://github.com/pepperoni21/ollama-rs)
 
-    A simple and easy-to-use library for interacting with the Ollama API.
+  A simple and easy-to-use library for interacting with the Ollama API.
 
 - [llama-node](https://github.com/Atome-FE/llama-node)
 
@@ -37,14 +37,14 @@ tags:
 
 - [Swiftide](https://github.com/bosun-ai/swiftide)
 
-    [Swiftide](https://github.com/bosun-ai/swiftide)
-    is a Rust library for building LLM applications, 
-    enabling fast data ingestion, transformation, 
-    and indexing for effective querying and prompt injection, 
-    known as Retrieval Augmented Generation. 
-    It provides flexible building blocks for creating various agents, 
-    allowing rapid development from concept to production with minimal code.
+  [Swiftide](https://github.com/bosun-ai/swiftide)
+  is a Rust library for building LLM applications,
+  enabling fast data ingestion, transformation,
+  and indexing for effective querying and prompt injection,
+  known as Retrieval Augmented Generation.
+  It provides flexible building blocks for creating various agents,
+  allowing rapid development from concept to production with minimal code.
 
 - [async-openai](https://github.com/64bit/async-openai)
-    [async-openai](https://github.com/64bit/async-openai)
-    is an unofficial Rust library for OpenAI.
+  [async-openai](https://github.com/64bit/async-openai)
+  is an unofficial Rust library for OpenAI.

@@ -1,13 +1,13 @@
 ---
-title: "Encryption in Rust"
+title: Encryption in Rust
 created: 2021-11-12 09:12:38
-date: 2021-11-12 09:12:38
+date: 2026-04-13 23:14:52.864631
 authors:
   - bendu
 label: encryption-in-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - encryption

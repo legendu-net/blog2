@@ -1,13 +1,13 @@
 ---
-title: "Tips on the Rust Crate SQLX"
+title: Tips on the Rust Crate SQLX
 created: 2023-12-12 17:00:46
-date: 2023-12-12 23:16:13
+date: 2026-04-13 23:14:25.228276
 authors:
   - bendu
 label: tips-on-the-rust-crate-sqlx
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
 ---
 

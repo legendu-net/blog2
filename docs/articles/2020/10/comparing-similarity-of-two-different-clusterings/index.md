@@ -1,13 +1,13 @@
 ---
-title: "Comparing Similarity of Two Different Clusterings"
+title: Comparing Similarity of Two Different Clusterings
 created: 2020-10-30 10:41:11
-date: 2020-10-30 10:41:11
+date: 2026-04-13 23:14:14.300990
 authors:
   - bendu
 label: comparing-similarity-of-two-different-clusterings
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - clustering
   - similarity
   - cluster
@@ -15,22 +15,23 @@ tags:
   - sklearn
   - paper
 ---
+
 The paper
 [Comparing Clusterings - An Overview](http://staff.ustc.edu.cn/~zwp/teach/MVA/cluster_validation.pdf)
 has a good view of different metrics for comparing the similarity of 2 clusterings.
 Overall, Normalized Mutual Information sounds like a good one.
-It is implemented in sklearn as 
+It is implemented in sklearn as
 [sklearn.metrics.normalized_mutual_info_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.normalized_mutual_info_score.html#sklearn.metrics.normalized_mutual_info_score)
 .
-Of course, 
-there are many more metrics for measuring similarity of 2 clusters 
+Of course,
+there are many more metrics for measuring similarity of 2 clusters
 (e.g., [Adjusted Rand Index](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html))
-implemented in sklearn. 
+implemented in sklearn.
 For more details,
-please refer to 
+please refer to
 [Clustering Metrics](https://scikit-learn.org/stable/modules/classes.html#clustering-metrics).
 
-## References 
+## References
 
 - [Comparing Clusterings - An Overview](http://staff.ustc.edu.cn/~zwp/teach/MVA/cluster_validation.pdf)
 

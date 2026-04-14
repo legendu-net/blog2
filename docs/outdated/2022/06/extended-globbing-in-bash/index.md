@@ -1,13 +1,13 @@
 ---
-title: "Extended Globbing in Bash"
+title: Extended Globbing in Bash
 created: 2022-06-04 12:09:03
-date: 2022-06-04 12:13:59
+date: 2026-04-13 23:15:30.489109
 authors:
   - bendu
 label: extended-globbing-in-bash
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - bash
   - shell
@@ -18,26 +18,31 @@ tags:
 
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-[Fish Shell]( https://www.legendu.net/misc/blog/tips-on-the-fish-shell ) 
+[Fish Shell](https://www.legendu.net/misc/blog/tips-on-the-fish-shell)
 is preferred to Bash/Zsh.
 The following content is for Bash/Zsh only.
 
 ## Enable Extended Globbing
 
-    :::bash
-    shopt -s extglob
+```
+:::bash
+shopt -s extglob
+```
 
 Or you can run bash with the option `-O extglob`.
 
-    :::bash
-    /bin/bash -O extglob -c "your command to run"
+```
+:::bash
+/bin/bash -O extglob -c "your command to run"
+```
 
 ## Set Shell to be Bash with Extended Globbing in Docker
 
-    :::bash
-    SHELL ["/bin/bash", "-O", "extglob", "-c"]
+```
+:::bash
+SHELL ["/bin/bash", "-O", "extglob", "-c"]
+```
 
 ## References
 
 [Bash Extended Globbing](https://www.linuxjournal.com/content/bash-extended-globbing)
-

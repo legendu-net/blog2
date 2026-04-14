@@ -1,13 +1,13 @@
 ---
-title: "Tools for Packaging Python Executables"
+title: Tools for Packaging Python Executables
 created: 2020-07-26 09:45:02
-date: 2021-06-23 09:04:05
+date: 2026-04-13 23:15:18.841434
 authors:
   - bendu
 label: tools-for-packaging-python-executables
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Python
   - executable
   - PEX
@@ -21,7 +21,6 @@ tags:
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
 
 ## With a Python Interpreter
 

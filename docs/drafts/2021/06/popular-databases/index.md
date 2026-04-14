@@ -1,13 +1,13 @@
 ---
-title: "Popular Databases"
+title: Popular Databases
 created: 2021-06-10 10:33:02
-date: 2025-06-03 00:35:19
+date: 2026-04-13 23:15:00.731736
 authors:
   - bendu
 label: popular-databases
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - database
   - MySQL
@@ -28,8 +28,8 @@ has great advices on how to choose the right databases.
 
 ## Types of Databases
 
-- relational 
-- non-relational 
+- relational
+- non-relational
   - key value database
     - document database
     - wide column database
@@ -38,11 +38,13 @@ has great advices on how to choose the right databases.
   - time series database
 
 Advantages of Relational Databases
+
 - consitency
 - security
 - ease of backup and recovery
 
 Advantages of Non-relational Databases
+
 - flexibility
 - scalability
 - cost of effectiveness
@@ -213,22 +215,25 @@ columnar storage is good for analytical operations
 </table>
 
 [2] [ClickHouse](https://github.com/ClickHouse/ClickHouse)
-is an open-source column-oriented database management system 
+is an open-source column-oriented database management system
 that allows generating analytical data reports in real time.
 
 ## [yugabyte-db](https://github.com/YugaByte/yugabyte-db)
+
 [yugabyte-db](https://github.com/YugaByte/yugabyte-db)
 
 ## [scylladb](https://github.com/scylladb/scylladb)
+
 [Scylla](https://github.com/scylladb/scylladb)
-is the real-time big data database 
-that is API-compatible with Apache Cassandra and Amazon DynamoDB. 
-Scylla embraces a shared-nothing approach that increases throughput and storage capacity 
+is the real-time big data database
+that is API-compatible with Apache Cassandra and Amazon DynamoDB.
+Scylla embraces a shared-nothing approach that increases throughput and storage capacity
 to realize order-of-magnitude performance improvements and reduce hardware costs.
 
 ## MongoDB
-MongoDB is a document-oriented, disk-based database optimized 
-for operational simplicity, schema-free design and very large data volumes. 
+
+MongoDB is a document-oriented, disk-based database optimized
+for operational simplicity, schema-free design and very large data volumes.
 
 ## Distributed In-memory Cache
 

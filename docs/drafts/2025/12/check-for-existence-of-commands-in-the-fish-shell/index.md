@@ -1,13 +1,13 @@
 ---
-title: "Check for Existence of Commands in the Fish Shell"
+title: Check for Existence of Commands in the Fish Shell
 created: 2025-12-09 12:24:22
-date: 2025-12-09 12:24:22
+date: 2026-04-13 23:14:15.871382
 authors:
   - bendu
 label: check-for-existence-of-commands-in-the-fish-shell
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - fish
   - shell

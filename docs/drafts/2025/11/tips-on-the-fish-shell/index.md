@@ -1,17 +1,18 @@
 ---
 title: Tips on the Fish Shell
 created: 2025-11-11 18:13:06
-date: 2026-04-05 00:56:45.695850
+date: 2026-04-13 23:14:19.146713
 authors:
-- bendu
+  - bendu
 label: tips-on-the-fish-shell
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- shell
-- fish
+  - computer science
+  - programming
+  - shell
+  - fish
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Tips & Traps
@@ -48,7 +49,7 @@ Use the built-in function `fish_key_reader` to tell you how to bind shortcuts.
 </tbody>
 </table>
 
-Please refer to 
+Please refer to
 [Interactive use](https://fishshell.com/docs/current/interactive.html)
 for a more comprehensive list of key bindings.
 
@@ -63,23 +64,23 @@ please refer to
 
 ## Linting Tools for Fish Scripts
 
-The fish shell provides built-in tools for lingting.  
-- `fish_ident`: format fish scripts.  
-- `fish -n`: check syntax of fish scripts.  
+The fish shell provides built-in tools for lingting.
+
+- `fish_ident`: format fish scripts.
+- `fish -n`: check syntax of fish scripts.
 
 ## Completions
 
 1. The built-in fish function
-    [fish_update_completions](https://fishshell.com/docs/current/cmds/fish_update_completions.html)
-    updates completions using manual pages.
+   [fish_update_completions](https://fishshell.com/docs/current/cmds/fish_update_completions.html)
+   updates completions using manual pages.
 
-2. Instead of writing completion scripts manually,
-    lots of tools support exporting completion scripts for bash, zsh, fish, etc.
+1. Instead of writing completion scripts manually,
+   lots of tools support exporting completion scripts for bash, zsh, fish, etc.
 
-    - command-line applications developed using cobra (GoLang)
-      - docker completion fish > ~/.config/fish/completions/docker.fish
-      - icon completion fish > ~/.config/fish/completions/icon.fish
+   - command-line applications developed using cobra (GoLang)
+     - docker completion fish > ~/.config/fish/completions/docker.fish
+     - icon completion fish > ~/.config/fish/completions/icon.fish
 
-3. [crazy-complete](https://github.com/crazy-complete/crazy-complete)
-    helps generate completion scripts based on YAML defined completion rules.
-
+1. [crazy-complete](https://github.com/crazy-complete/crazy-complete)
+   helps generate completion scripts based on YAML defined completion rules.

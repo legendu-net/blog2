@@ -44,7 +44,7 @@ def option_files(subparser):
     :param subparser: A sub parser for command-line options.
     """
     subparser.add_argument(
-        "--files", nargs="+", dest="filels", default=(), help="Paths to files."
+        "--files", nargs="+", dest="files", default=(), help="Paths to files."
     )
 
 
@@ -355,17 +355,13 @@ def add(blogger, args):
 def update_tags(blogger, args):
     if len(args.tags) % 2:
         raise ValueError("Tags for update must be in pairs.")
-    kvs = dict(it.batched(args.tags, 2))
     _resolve_files(args)
     if args.files:
+        kvs = dict(it.batched(args.tags, 2))
         for file in args.files:
             blogger.update_tags(file, kvs)
     else:
-        for file in blogger.path(
-            blogger.POSTS,
-            where=f"tags LIKE '%{TAG_SEPARATOR}{args.from_tag}{TAG_SEPARATOR}%'",
-        ):
-            blogger.update_tags(file, kvs)
+        print("No file is specified for updating tags!\n")
     blogger.commit()
 
 

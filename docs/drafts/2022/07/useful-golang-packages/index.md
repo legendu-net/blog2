@@ -1,13 +1,13 @@
 ---
-title: "Useful Golang Packages"
+title: Useful Golang Packages
 created: 2022-07-13 17:35:21
-date: 2022-07-14 22:34:54
+date: 2026-04-13 23:14:45.092153
 authors:
   - bendu
 label: useful-golang-packages
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Golang
   - package
@@ -22,13 +22,13 @@ tags:
 ## Data Structure
 
 1. [github.com/deckarep/golang-set](https://pkg.go.dev/github.com/deckarep/golang-set)
-    provides a hashset implementation 
-    (which is missing in the Golang standard library)
-    .
+   provides a hashset implementation
+   (which is missing in the Golang standard library)
+   .
 
 ## Database
-1. [gorm.io/gorm](https://pkg.go.dev/gorm.io/gorm)
-    is a fantastic ORM library for Golang, 
-    aims to be developer friendly
-    .
 
+1. [gorm.io/gorm](https://pkg.go.dev/gorm.io/gorm)
+   is a fantastic ORM library for Golang,
+   aims to be developer friendly
+   .

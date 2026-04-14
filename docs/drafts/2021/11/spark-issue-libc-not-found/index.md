@@ -1,13 +1,13 @@
 ---
-title: "Spark Issue Libc Not Found"
+title: Spark Issue Libc Not Found
 created: 2021-11-30 11:34:46
-date: 2021-11-30 11:34:46
+date: 2026-04-13 23:14:53.794896
 authors:
   - bendu
 label: spark-issue-libc-not-found
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Spark
   - issue
@@ -22,14 +22,16 @@ tags:
 
 ## Symptom
 
-> /lib64/libc.so.6: version `GLIBC_2.18' not found (required by ...)
+> /lib64/libc.so.6: version \`GLIBC_2.18' not found (required by ...)
 
 ## Cause
-The required version of GLIBC by the binary executor is not found on Spark nodes. 
+
+The required version of GLIBC by the binary executor is not found on Spark nodes.
 
 ## Solution
+
 Recompile your binary executable with the right version of GLIBC.
-The recommended approach is build your binary executable 
+The recommended approach is build your binary executable
 in a Docker environment with the same OS installed in Spark nodes.
 For example,
 if CentOS 7.6 is the Linux distribution installed on Spark nodes,

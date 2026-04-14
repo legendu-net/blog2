@@ -1,13 +1,13 @@
 ---
-title: "Side Projects for Money"
+title: Side Projects for Money
 created: 2020-03-11 12:45:10
-date: 2020-03-11 12:45:10
+date: 2026-04-13 23:15:25.445691
 authors:
   - bendu
 label: side-projects-for-money
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - side project
   - money
   - bounty
@@ -15,7 +15,6 @@ tags:
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
 
 [Gitcoin](https://gitcoin.co/)
 

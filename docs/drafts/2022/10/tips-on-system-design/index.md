@@ -1,18 +1,17 @@
 ---
-title: "Tips on System Design"
+title: Tips on System Design
 created: 2022-10-08 16:41:38
-date: 2023-06-09 23:42:32
+date: 2026-04-13 23:14:42.732306
 authors:
   - bendu
 label: tips-on-system-design
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
 
 [ByteByteGo Newsletter](https://blog.bytebytego.com/)
 
@@ -27,4 +26,3 @@ tags:
 ## Authentication System
 
 - [Design a Simple Authentication System | System Design Interview Prep](https://www.youtube.com/watch?v=uj_4vxm9u90)
-

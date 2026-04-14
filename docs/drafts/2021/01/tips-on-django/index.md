@@ -1,13 +1,13 @@
 ---
-title: "Tips on Django"
+title: Tips on Django
 created: 2021-01-10 17:18:04
-date: 2021-01-10 17:18:04
+date: 2026-04-13 23:15:08.019804
 authors:
   - bendu
 label: tips-on-django
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Django
   - web
   - backend
@@ -16,8 +16,6 @@ tags:
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
-
 
 https://hub.docker.com/r/bynd/nginx-django/
 

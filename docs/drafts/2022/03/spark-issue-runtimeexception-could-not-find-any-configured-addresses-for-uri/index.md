@@ -1,24 +1,24 @@
 ---
-title: 'Spark Issue: RuntimeException: Could not find any configured addresses for
-  URI'
+title: 'Spark Issue: RuntimeException: Could not find any configured addresses for URI'
 created: 2022-03-27 17:24:15
-date: 2026-04-05 19:42:37.697292
+date: 2026-04-13 23:14:50.052349
 authors:
-- bendu
+  - bendu
 label: spark-issue-runtimeexception-could-not-find-any-configured-addresses-for-uri
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- Spark
-- Spark issue
-- RuntimeException
-- URI
-- address
-- RBF
-- router-based federation
-- namenode
+  - computer science
+  - programming
+  - Spark
+  - Spark issue
+  - RuntimeException
+  - URI
+  - address
+  - RBF
+  - router-based federation
+  - namenode
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Symptoms
@@ -35,4 +35,3 @@ is not updated accordingly.
 ## Possible Solutions
 
 Ask Hadoop admin to fix the configuration issues.
-

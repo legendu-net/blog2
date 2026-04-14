@@ -1,13 +1,13 @@
 ---
-title: "Editing Text in Browser Using Vim"
+title: Editing Text in Browser Using Vim
 created: 2025-05-30 07:50:43
-date: 2025-05-30 07:50:43
+date: 2026-04-13 23:14:20.218581
 authors:
   - bendu
 label: editing-text-in-browser-using-vim
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - text
   - editing
   - editor
@@ -16,7 +16,6 @@ tags:
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
 
 <table>
     <caption>Firenvim Alternatives Summary</caption>

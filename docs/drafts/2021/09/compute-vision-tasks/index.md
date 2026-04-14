@@ -1,13 +1,13 @@
 ---
-title: "Compute Vision Tasks"
+title: Compute Vision Tasks
 created: 2021-09-20 17:09:03
-date: 2021-10-08 13:51:03
+date: 2026-04-13 23:14:56.324663
 authors:
   - bendu
 label: compute-vision-tasks
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - deep learning
   - AI
   - data science
@@ -117,8 +117,7 @@ Face Recognition
 Instance Segmentation
 Semantic Segmentation
 
-
-## References 
+## References
 
 [9 Applications of Deep Learning for Computer Vision](https://machinelearningmastery.com/applications-of-deep-learning-for-computer-vision/)
 

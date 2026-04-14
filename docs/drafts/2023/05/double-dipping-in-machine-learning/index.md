@@ -1,13 +1,13 @@
 ---
-title: "Double Dipping in Machine Learning"
+title: Double Dipping in Machine Learning
 created: 2023-05-11 18:42:46
-date: 2023-05-11 18:42:46
+date: 2026-04-13 23:14:30.470237
 authors:
   - bendu
 label: double-dipping-in-machine-learning
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - machine learning
   - data science
   - AI
@@ -22,4 +22,3 @@ Double dipping is a term for overfitting a model through both building and evalu
 ## References
 
 - [Double Dipping in Machine Learning: Problems and Solutions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7422774/)
-

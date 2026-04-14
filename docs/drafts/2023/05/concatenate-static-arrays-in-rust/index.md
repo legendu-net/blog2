@@ -1,13 +1,13 @@
 ---
-title: "Concatenate Static Arrays in Rust"
+title: Concatenate Static Arrays in Rust
 created: 2023-05-13 17:26:16
-date: 2023-05-13 17:26:16
+date: 2026-04-13 23:14:30.168873
 authors:
   - bendu
 label: concatenate-static-arrays-in-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - static

@@ -1,13 +1,13 @@
 ---
-title: "Latency Numbers Programmers Should Know"
+title: Latency Numbers Programmers Should Know
 created: 2022-10-08 16:59:59
-date: 2022-10-09 17:57:17
+date: 2026-04-13 23:14:42.131875
 authors:
   - bendu
 label: latency-numbers-programmers-should-know
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - latency
   - number

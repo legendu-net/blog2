@@ -1,13 +1,13 @@
 ---
-title: "Tools for Checking for Dirty Git Repositories"
+title: Tools for Checking for Dirty Git Repositories
 created: 2025-12-15 19:18:01
-date: 2025-12-15 19:18:01
+date: 2026-04-13 23:14:16.455078
 authors:
   - bendu
 label: tools-for-checking-for-dirty-git-repositories
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Git
   - repository

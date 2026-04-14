@@ -1,13 +1,13 @@
 ---
-title: "General Tips on Debugging"
+title: General Tips on Debugging
 created: 2021-10-25 16:22:05
-date: 2021-10-25 16:22:05
+date: 2026-04-13 23:14:55.303076
 authors:
   - bendu
 label: general-tips-on-debugging
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - debugging
   - debug
@@ -17,6 +17,6 @@ tags:
 
 1. Get a minimal example (which does not work) and debug based on it.
 
-## References 
+## References
 
 [General Tips on Programming](http://www.legendu.net/misc/blog/general-programming-tips/)

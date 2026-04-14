@@ -1,13 +1,13 @@
 ---
-title: "Tips on Nmap"
+title: Tips on Nmap
 created: 2020-10-16 10:54:33
-date: 2020-10-16 10:54:33
+date: 2026-04-13 23:15:14.046944
 authors:
   - bendu
 label: tips-on-nmap
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - internet
   - network
   - web
@@ -16,14 +16,12 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses.
 
-Nmap provides a number of features for probing computer networks, 
-including host discovery and service and operating system detection. 
-These features are extensible by scripts that provide more advanced service detection,[4] vulnerability detection,[4] and other features. 
+Nmap provides a number of features for probing computer networks,
+including host discovery and service and operating system detection.
+These features are extensible by scripts that provide more advanced service detection,[4] vulnerability detection,[4] and other features.
 Nmap can adapt to network conditions including latency and congestion during a scan.
-
 
 [Nmap Tutorial For Beginners - 1 - What is Nmap?](https://www.youtube.com/watch?v=5MTZdN9TEO4)
 

@@ -1,13 +1,13 @@
 ---
-title: "FireNVim Brings NeoVim into Your Browser"
+title: FireNVim Brings NeoVim into Your Browser
 created: 2021-12-04 20:03:49
-date: 2025-05-30 07:56:53
+date: 2026-04-13 23:14:51.826972
 authors:
   - bendu
 label: firenvim-brings-neovim-into-your-browser
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Vim
   - NeoVim
   - FireNVim
@@ -16,38 +16,44 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-## Installation 
+## Installation
 
 1. Install [icon](https://github.com/legendu-net/icon).
 
-        :::bash
-        curl -sSL https://raw.githubusercontent.com/legendu-net/icon/main/install_icon.sh | sudo bash -
+   ```
+    :::bash
+    curl -sSL https://raw.githubusercontent.com/legendu-net/icon/main/install_icon.sh | sudo bash -
+   ```
 
-2. Install and configure 
-    [NeoVim](https://github.com/neovim/neovim)
-    using icon.
+1. Install and configure
+   [NeoVim](https://github.com/neovim/neovim)
+   using icon.
 
-        :::bash
-        icon nvim -ic
+   ```
+    :::bash
+    icon nvim -ic
+   ```
 
-2. Install the FireNVim plugin for your browser.
-    - [FireNVim - Chrome](https://chrome.google.com/webstore/detail/firenvim/egpjdkipkomnmjhjmdamaniclmdlobbo?hl=en)
-    - [FireNVim - Firefox](https://addons.mozilla.org/en-US/firefox/addon/firenvim/)
+1. Install the FireNVim plugin for your browser.
 
-3. Run the command `nvim` 
-    and then inside NeoVim run the command `:call firenvim#install(0)`.
-    
-4. If you are using Linux, 
-    configure your brower to trigger FireNVim on the shortcut `ctrl + e`.
-    - For chrome, you can configure this via 
-    [chrome://extensions/shortcuts](chrome://extensions/shortcuts)
-    .
-    ![firenvim-chrome-shortcuts](https://user-images.githubusercontent.com/824507/196080758-ce9a706e-c746-4642-92ca-0e5eebe8e9b3.png)
+   - [FireNVim - Chrome](https://chrome.google.com/webstore/detail/firenvim/egpjdkipkomnmjhjmdamaniclmdlobbo?hl=en)
+   - [FireNVim - Firefox](https://addons.mozilla.org/en-US/firefox/addon/firenvim/)
+
+1. Run the command `nvim`
+   and then inside NeoVim run the command `:call firenvim#install(0)`.
+
+1. If you are using Linux,
+   configure your brower to trigger FireNVim on the shortcut `ctrl + e`.
+
+   - For chrome, you can configure this via
+     [chrome://extensions/shortcuts](chrome://extensions/shortcuts)
+     .
+     ![firenvim-chrome-shortcuts](https://user-images.githubusercontent.com/824507/196080758-ce9a706e-c746-4642-92ca-0e5eebe8e9b3.png)
 
 The above installation configures FireNVim to never automatially prompt up.
-You have to manually bring it up 
-using the shortcut `ctrl + e` (Linux and Windows) 
-or `Command + e`  (macOS)
+You have to manually bring it up
+using the shortcut `ctrl + e` (Linux and Windows)
+or `Command + e` (macOS)
 .
 In case it doesn't work,
 please refer to
@@ -58,18 +64,22 @@ Note: If you update the FireNVim plugin for your browser to a newer version,
 you will also have to repeat step 2 above.
 </span>
 
-## Font Size 
+## Font Size
 
 Use the following command to adjust font and its size.
 
-    :::vim
-    :set guifont=Monaco:h16
+```
+:::vim
+:set guifont=Monaco:h16
+```
 
 Use the following commands to adjust the frame size for editing.
 
-    :::vim
-    :set lines=80 
-    :set columns=100 
+```
+:::vim
+:set lines=80 
+:set columns=100 
+```
 
 ## Troubleshooting
 
@@ -83,7 +93,7 @@ and
 [Hardware acceleration and WindowBlinds causes Firefox to crash](https://support.mozilla.org/en-US/kb/hardware-acceleration-and-windowblinds-crash)
 on how to disable hardware acceleration in Chrome and Firefox.
 
-## References 
+## References
 
 [Firenvim: Neovim inside Your Browser](https://jdhao.github.io/2020/01/01/firenvim_nvim_inside_browser/)
 

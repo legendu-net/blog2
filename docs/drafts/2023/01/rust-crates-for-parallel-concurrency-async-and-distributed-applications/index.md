@@ -1,52 +1,53 @@
 ---
 title: Rust Crates for Parallel, Concurrency, Async and Distributed Applications
 created: 2023-01-13 16:51:04
-date: 2026-04-05 19:42:37.662016
+date: 2026-04-13 23:14:37.628648
 authors:
-- bendu
+  - bendu
 label: rust-crates-for-parallel-concurrency-async-and-distributed-applications
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- Rust
-- crate
-- parallel
-- concurrency
-- async
-- distributed
+  - computer science
+  - programming
+  - Rust
+  - crate
+  - parallel
+  - concurrency
+  - async
+  - distributed
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 ## [futures](https://crates.io/crates/futures)
+
 [futures](https://crates.io/crates/futures)
-is an implementation of futures and streams featuring zero allocations, 
+is an implementation of futures and streams featuring zero allocations,
 composability, and iterator-like interfaces.
-It is a library providing the foundations for asynchronous programming in Rust. 
-It includes key trait definitions like Stream, 
-as well as utilities like `join!`, `select!`, 
+It is a library providing the foundations for asynchronous programming in Rust.
+It includes key trait definitions like Stream,
+as well as utilities like `join!`, `select!`,
 and various futures combinator methods which enable expressive asynchronous control flow.
 
 ## [tokio](https://crates.io/crates/tokio)
+
 [tokio](https://crates.io/crates/tokio)
 is an event-driven, non-blocking I/O platform for writing asynchronous I/O backed applications.
 
 ## [rayon](https://crates.io/crates/rayon)
+
 [rayon](https://crates.io/crates/rayon)
-is a data-parallelism library for Rust. 
-It is extremely lightweight and makes it easy to convert a sequential computation into a parallel one. 
+is a data-parallelism library for Rust.
+It is extremely lightweight and makes it easy to convert a sequential computation into a parallel one.
 It also guarantees data-race freedom.
 
 https://crates.io/crates/bus
 A lock-free, bounded, single-producer, multi-consumer, broadcast channel.
 
-
 ## Distributed
 
 https://crates.io/crates/zmq
 High-level bindings to the zeromq library
-
 
 [ockam](https://github.com/ockam-network/ockam)
 

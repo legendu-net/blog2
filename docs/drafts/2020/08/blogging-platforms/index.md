@@ -1,13 +1,13 @@
 ---
-title: "Blogging Platforms"
+title: Blogging Platforms
 created: 2020-08-24 10:31:07
-date: 2020-08-24 10:31:07
+date: 2026-04-13 23:15:16.007549
 authors:
   - bendu
 label: blogging-platforms
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - blogging
   - medium
   - hashnode
@@ -17,14 +17,14 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-medium: paid 
+medium: paid
 
-hashnode.dev 
+hashnode.dev
 
-dev.to 
+dev.to
 
-GitHub 
+GitHub
 
-## Paid Platforms 
+## Paid Platforms
 
 [Websites That Pay You To Write Technical Articles](https://catalins.tech/websites-that-pay-you-to-write-technical-articles)

@@ -1,13 +1,13 @@
 ---
-title: "Tips on AstroNvim"
+title: Tips on AstroNvim
 created: 2025-04-28 10:55:17
-date: 2026-01-10 15:37:50
+date: 2026-04-13 23:14:22.211057
 authors:
   - bendu
 label: tips-on-astronvim
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - IDE
   - Vim
@@ -18,10 +18,9 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 ## LSP
 
-Use the command `:LspInstall` to open the prompt 
+Use the command `:LspInstall` to open the prompt
 to select a LSP to install for the current file type.
 
 ## Snippets

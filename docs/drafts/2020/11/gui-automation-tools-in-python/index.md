@@ -1,13 +1,13 @@
 ---
-title: "GUI Automation Tools in Python"
+title: GUI Automation Tools in Python
 created: 2020-11-09 09:41:03
-date: 2021-04-09 09:41:03
+date: 2026-04-13 23:15:10.741585
 authors:
   - bendu
 label: gui-automation-tools-in-python
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Python
   - GUI
@@ -17,7 +17,6 @@ tags:
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
 
 pyautogui
 https://github.com/asweigart/pyautogui

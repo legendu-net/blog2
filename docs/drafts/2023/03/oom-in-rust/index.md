@@ -1,19 +1,20 @@
 ---
 title: OOM in Rust
 created: 2023-03-05 13:39:51
-date: 2026-04-05 19:42:37.651972
+date: 2026-04-13 23:14:32.667590
 authors:
-- bendu
+  - bendu
 label: oom-in-rust
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- Rust
-- OOM
-- out of memory
-- SIGKILL
+  - computer science
+  - programming
+  - Rust
+  - OOM
+  - out of memory
+  - SIGKILL
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 SIGKILL (signal 9)

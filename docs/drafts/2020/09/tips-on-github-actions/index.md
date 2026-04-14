@@ -1,54 +1,56 @@
 ---
 title: Tips on GitHub Actions
 created: 2020-09-01 12:42:15
-date: 2026-04-03 22:40:42.844393
+date: 2026-04-13 23:15:15.246735
 authors:
-- bendu
+  - bendu
 label: tips-on-github-actions
 license: CC-BY-4.0
 tags:
-- Computer Science
-- GitHub Actions
-- CICD
+  - computer science
+  - GitHub Actions
+  - CICD
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Tips and Traps
 
 1. You can use `sudo` without password in Linux and macOS when running GitHub Actions.
 
-2. GitHub Actions supports [manual triggers with workflow_dispatch](https://github.blog/changelog/2020-07-06-github-actions-manual-triggers-with-workflow_dispatch/).
-    Workflow parameters are supported in manually triggers.
+1. GitHub Actions supports [manual triggers with workflow_dispatch](https://github.blog/changelog/2020-07-06-github-actions-manual-triggers-with-workflow_dispatch/).
+   Workflow parameters are supported in manually triggers.
 
-2. `GITHUB_TOKEN` is an automatically generated secret 
-    that lets you make authenticated calls to the GitHub API in your workflow runs. 
-    Actions generates a new token for each job and expires the token when a job completes.
-    `GITHUB_TOKEN` can also be used for the GitHub Action `peter-evans/create-pull-request` to create PRs automatically.
-    However,
-    GitHub bot is the owner of a PR created by the GitHub action 
-    [create-pull-request](https://github.com/peter-evans/create-pull-request) with `GITHUB_TOKEN` 
-    which might have issues triggering other pipelines listening to PR events.
-    A simple solution to this problem is to manually create a repository secret (e.g., `GITHUBACTIONS`)
-    and use it to autenticate the GitHub Action 
-    [create-pull-request](https://github.com/peter-evans/create-pull-request)
-    .
+1. `GITHUB_TOKEN` is an automatically generated secret
+   that lets you make authenticated calls to the GitHub API in your workflow runs.
+   Actions generates a new token for each job and expires the token when a job completes.
+   `GITHUB_TOKEN` can also be used for the GitHub Action `peter-evans/create-pull-request` to create PRs automatically.
+   However,
+   GitHub bot is the owner of a PR created by the GitHub action
+   [create-pull-request](https://github.com/peter-evans/create-pull-request) with `GITHUB_TOKEN`
+   which might have issues triggering other pipelines listening to PR events.
+   A simple solution to this problem is to manually create a repository secret (e.g., `GITHUBACTIONS`)
+   and use it to autenticate the GitHub Action
+   [create-pull-request](https://github.com/peter-evans/create-pull-request)
+   .
 
-3. Rust cannot be installed into a global location 
-    following instructions at 
-    [Install Rust Globally in Linux](https://www.legendu.net/en/blog/install-rust-globally/)
-    .
-    This might because GitHub Actions VMs have restrictions on environemnt variables.
-    You can still install Rust using root (via sudo)
-    but this doesn't give you much priviledge
-    as the root account in a GitHub Actions VM is restricted too.
+1. Rust cannot be installed into a global location
+   following instructions at
+   [Install Rust Globally in Linux](https://www.legendu.net/en/blog/install-rust-globally/)
+   .
+   This might because GitHub Actions VMs have restrictions on environemnt variables.
+   You can still install Rust using root (via sudo)
+   but this doesn't give you much priviledge
+   as the root account in a GitHub Actions VM is restricted too.
 
-5. Good practices for GitHub repository with GitHub Actions workflows:
-    - Have 2 protected branches `main` and `dev`,
-        where `main` is reserved for releasing 
-        and `dev` is reserved for development.
-    - Fork the `dev` branch for development.
-    - A PR from `dev` to `main` should be made 
-        when it is ready to release a new version.
+1. Good practices for GitHub repository with GitHub Actions workflows:
+
+   - Have 2 protected branches `main` and `dev`,
+     where `main` is reserved for releasing
+     and `dev` is reserved for development.
+   - Fork the `dev` branch for development.
+   - A PR from `dev` to `main` should be made
+     when it is ready to release a new version.
 
 ## Permissions
 
@@ -66,13 +68,15 @@ for support OS images for VMs.
 
 ## Branch Matching
 
-    on:
-    push:
-        branches:    
-        - '*'         # matches every branch that doesn't contain a '/'
-        - '*/*'       # matches every branch containing a single '/'
-        - '**'        # matches every branch
-        - '!master'   # excludes master
+```
+on:
+push:
+    branches:    
+    - '*'         # matches every branch that doesn't contain a '/'
+    - '*/*'       # matches every branch containing a single '/'
+    - '**'        # matches every branch
+    - '!master'   # excludes master
+```
 
 For more discussions,
 please refer to
@@ -86,10 +90,12 @@ and
 ### checkout
 
 ### [ssh-agent](https://github.com/webfactory/ssh-agent)
+
 [ssh-agent](https://github.com/webfactory/ssh-agent)
 is a GitHub Action to setup `ssh-agent` with a private key.
 
 ### [bencher](https://github.com/bencherdev/bencher)
+
 [Bencher](https://github.com/bencherdev/bencher)
 is a suite of continuous benchmarking tools.
 
@@ -99,7 +105,7 @@ https://hynek.me/articles/python-github-actions/
 
 https://github.com/actions/setup-python
 
-### Pull Request 
+### Pull Request
 
 https://github.com/peter-evans/create-pull-request
 
@@ -123,11 +129,11 @@ https://github.com/peter-evans/create-pull-request
 
 ## References
 
-- [Common Issues and Solutions for GitHub Actions]( https://www.legendu.net/misc/blog/common-issues-and-solutions-for-github-actions ) 
+- [Common Issues and Solutions for GitHub Actions](https://www.legendu.net/misc/blog/common-issues-and-solutions-for-github-actions)
 
-- [Self-hosted Runners for GitHub Actions]( https://www.legendu.net/misc/blog/self-hosted-runners-for-github-actions ) 
+- [Self-hosted Runners for GitHub Actions](https://www.legendu.net/misc/blog/self-hosted-runners-for-github-actions)
 
-- [Use Docker Containers for GitHub Actions]( https://www.legendu.net/misc/blog/use-docker-containers-for-github-actions ) 
+- [Use Docker Containers for GitHub Actions](https://www.legendu.net/misc/blog/use-docker-containers-for-github-actions)
 
 - [Machine learning operations with GitHub Actions and Kubernetes - GitHub Universe 2019](https://www.youtube.com/watch?v=Ll50l3fsoYs&feature=emb_logo)
 
@@ -141,4 +147,4 @@ https://github.com/peter-evans/create-pull-request
 
 - [Questions about PR workflows and actions/checkout@v2](https://github.community/t/questions-about-pr-workflows-and-actions-checkout-v2/122347)
 
-- [Powershell on Windows for GitHub Actions]( https://www.legendu.net/misc/blog/powershell-on-windows-for-github-actions ) 
+- [Powershell on Windows for GitHub Actions](https://www.legendu.net/misc/blog/powershell-on-windows-for-github-actions)

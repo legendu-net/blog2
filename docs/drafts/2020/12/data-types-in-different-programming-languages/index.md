@@ -1,13 +1,13 @@
 ---
-title: "Data Types in Different Programming Languages"
+title: Data Types in Different Programming Languages
 created: 2020-12-21 01:53:29
-date: 2021-02-21 01:53:29
+date: 2026-04-13 23:15:08.805219
 authors:
   - bendu
 label: data-types-in-different-programming-languages
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - type
   - data type
@@ -158,12 +158,11 @@ tags:
     <td> decimal(n,k) or double </td>
     <td> decimal(n,k) </td>
   </tr>
-  
+
 </table>
 </div>
 
-
-## References 
+## References
 
 [Overview of Pandas Data Types](https://pbpython.com/pandas_dtypes.html)
 

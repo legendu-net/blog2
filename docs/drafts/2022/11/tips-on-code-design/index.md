@@ -1,13 +1,13 @@
 ---
-title: "Tips on Code Design"
+title: Tips on Code Design
 created: 2022-11-25 11:52:35
-date: 2022-11-25 12:09:21
+date: 2026-04-13 23:14:40.956664
 authors:
   - bendu
 label: tips-on-code-design
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Source Making
   - design
@@ -19,7 +19,6 @@ tags:
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
 
 [Source Making](https://sourcemaking.com/)
 

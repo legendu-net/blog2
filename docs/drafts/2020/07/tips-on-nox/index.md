@@ -1,13 +1,13 @@
 ---
-title: "Tips on Nox"
+title: Tips on Nox
 created: 2020-07-13 17:41:24
-date: 2020-09-13 17:41:24
+date: 2026-04-13 23:15:18.547633
 authors:
   - bendu
 label: tips-on-nox
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Python
   - nox
   - test
@@ -18,7 +18,7 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-It is suggested that you leverage profession CICD tools 
+It is suggested that you leverage profession CICD tools
 instead of nox for testing.
 
 https://github.com/theacodes/nox
@@ -31,6 +31,6 @@ https://cjolowicz.github.io/posts/hypermodern-python-03-linting/#managing-depend
 
 https://medium.com/analytics-vidhya/nox-the-shining-python-test-automation-tool-3e189e343b57
 
-## References 
+## References
 
 https://cjolowicz.github.io/posts/hypermodern-python-03-linting/#managing-dependencies-in-nox-sessions-with-poetry

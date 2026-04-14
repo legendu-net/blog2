@@ -1,13 +1,13 @@
 ---
-title: "Tips on Valgrind"
+title: Tips on Valgrind
 created: 2023-01-08 18:58:25
-date: 2023-01-10 21:12:32
+date: 2026-04-13 23:14:35.760972
 authors:
   - bendu
 label: tips-on-valgrind
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Valgrind
   - profiling
@@ -29,6 +29,7 @@ tags:
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -57,4 +58,3 @@ tags:
   </tr>
 </tbody>
 </table>
-

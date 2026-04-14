@@ -1,13 +1,13 @@
 ---
-title: "Tools for Design and Prototyping"
+title: Tools for Design and Prototyping
 created: 2022-12-09 11:07:09
-date: 2022-12-09 11:07:09
+date: 2026-04-13 23:14:39.927170
 authors:
   - bendu
 label: tools-for-design-and-prototyping
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Figma
   - design

@@ -1,13 +1,13 @@
 ---
 title: Tips on MuMu App Player
 created: 2021-08-22 14:40:01
-date: 2026-04-10 15:24:03.880223
+date: 2026-04-13 23:14:59.379756
 authors:
   - bendu
 label: tips-on-mumu-app-player
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Software
   - tool
   - MuMu App Player

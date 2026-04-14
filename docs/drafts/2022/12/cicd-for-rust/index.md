@@ -1,13 +1,13 @@
 ---
-title: "CICD for Rust"
+title: CICD for Rust
 created: 2022-12-24 00:10:53
-date: 2023-08-29 11:06:03
+date: 2026-04-13 23:14:37.927475
 authors:
   - bendu
 label: cicd-for-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - CICD

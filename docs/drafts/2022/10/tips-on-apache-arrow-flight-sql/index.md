@@ -1,13 +1,13 @@
 ---
-title: "Tips on Apache Arrow Flight SQL"
+title: Tips on Apache Arrow Flight SQL
 created: 2022-10-16 15:53:00
-date: 2022-10-16 15:53:00
+date: 2026-04-13 23:14:42.282597
 authors:
   - bendu
 label: tips-on-apache-arrow-flight-sql
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - SQL
   - Apache Arrow Flight SQL
@@ -16,7 +16,6 @@ tags:
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
 
 ## Apache Arrow & JDBC
 
@@ -28,6 +27,6 @@ tags:
 
 ## References
 
-- [https://www.youtube.com/watch?v=OLsXlKb_XRQ](Apache Arrow Flight SQL: High Performance, Simplicity, and Interoperability for Data Transfers)
+- \[https://www.youtube.com/watch?v=OLsXlKb_XRQ\](Apache Arrow Flight SQL: High Performance, Simplicity, and Interoperability for Data Transfers)
 
 - [It’s Time to Replace ODBC & JDBC](https://www.dremio.com/is-time-to-replace-odbc-jdbc/)

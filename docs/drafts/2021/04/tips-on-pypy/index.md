@@ -1,13 +1,13 @@
 ---
-title: "Tips on PyPy"
+title: Tips on PyPy
 created: 2021-04-19 09:53:27
-date: 2021-04-19 09:53:27
+date: 2026-04-13 23:15:04.989844
 authors:
   - bendu
 label: tips-on-pypy
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - PyPy
   - Python
@@ -21,15 +21,16 @@ tags:
 
 1. Download PyPy from https://www.pypy.org/download.html.
 
-2. Unzip it.
+1. Unzip it.
 
-3. Install pip.
+1. Install pip.
 
-    :::bash
-    /path/to/pypy -m ensurepip
-    /path/to/pypy -m pip install ...
+   :::bash
+   /path/to/pypy -m ensurepip
+   /path/to/pypy -m pip install ...
 
-### Packages Failed to Install 
+### Packages Failed to Install
+
 ## pytype
 
 sudo apt install gcc cmake g++

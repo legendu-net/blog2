@@ -1,13 +1,13 @@
 ---
-title: "Tips on Deno"
+title: Tips on Deno
 created: 2020-05-09 17:27:49
-date: 2026-01-17 18:41:35
+date: 2026-04-13 23:15:21.952981
 authors:
   - bendu
 label: tips-on-deno
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - JavaScript
   - JS
   - TypeScript
@@ -19,15 +19,16 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 [VS Code Plugin for Deno](https://marketplace.visualstudio.com/items?itemName=axetroy.vscode-deno)
 
 Add the following into the file `.vscode/settings.json` under the root directory of your project.
 
-    :::json
-    {
-    "deno.enable": true,
-    }
+```
+:::json
+{
+"deno.enable": true,
+}
+```
 
 ## Jupyter Kernel
 
@@ -38,4 +39,3 @@ please refer to
 and
 [Bringing Modern JavaScript to the Jupyter Notebook](https://blog.jupyter.org/bringing-modern-javascript-to-the-jupyter-notebook-fc998095081e)
 .
-

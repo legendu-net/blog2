@@ -1,13 +1,13 @@
 ---
-title: "Tips on Two Factor Authentication"
+title: Tips on Two Factor Authentication
 created: 2022-07-25 13:46:42
-date: 2022-07-25 13:46:42
+date: 2026-04-13 23:14:44.942297
 authors:
   - bendu
 label: tips-on-two-factor-authentication
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - two-factor
   - auth
@@ -16,17 +16,17 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-1. Avoid using SMS text message as your 2F authentication 
-    for a few reasons.
-    - You might lose your phone.
-    - Your phone might not work if you travel internationally.
-2. It is suggested that you use email (recommended) or authentication apps as 2F authentication.
-3. If you have to use SMS text message as your 2F authentication:
-    - Get a cheap phone with a cheap plan.
-        For example,
-        a Xiaomi phone + Liantong Mi Plan is a good combination.
-    - Install a SMS message forwarding app on your phone to forward messages to your email.
-    - Now you can just leave this phone at home and use it as your universal 2F authentication.
+1. Avoid using SMS text message as your 2F authentication
+   for a few reasons.
+   - You might lose your phone.
+   - Your phone might not work if you travel internationally.
+1. It is suggested that you use email (recommended) or authentication apps as 2F authentication.
+1. If you have to use SMS text message as your 2F authentication:
+   - Get a cheap phone with a cheap plan.
+     For example,
+     a Xiaomi phone + Liantong Mi Plan is a good combination.
+   - Install a SMS message forwarding app on your phone to forward messages to your email.
+   - Now you can just leave this phone at home and use it as your universal 2F authentication.
 
 ## References
 

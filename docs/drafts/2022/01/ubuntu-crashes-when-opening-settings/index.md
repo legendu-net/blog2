@@ -1,13 +1,13 @@
 ---
-title: "Ubuntu Crashes When Opening Settings"
+title: Ubuntu Crashes When Opening Settings
 created: 2022-01-23 23:42:09
-date: 2022-01-23 23:42:09
+date: 2026-04-13 23:14:50.931108
 authors:
   - bendu
 label: ubuntu-crashes-when-opening-settings
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Nvidia
   - GPU
@@ -23,11 +23,11 @@ tags:
 
 I encountered an issue with Ubuntu 20.04
 on my machine.
-Ubuntu crashes when I try to open settings or video players. 
+Ubuntu crashes when I try to open settings or video players.
 After searching online,
 it seems that the problem happens on multiple version of Ubuntu
 instead of just Ubuntu 20.04,
-and people suggest installing Nvidia's driver for machines with Nvidia GPUs. 
+and people suggest installing Nvidia's driver for machines with Nvidia GPUs.
 My machine does have a Nvidia GPU
 and switching from the nouvea driver to Nvidia's proprietary driver indeed fixed the issue for me.
 

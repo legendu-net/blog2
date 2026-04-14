@@ -1,13 +1,13 @@
 ---
-title: "Tools for Drone"
+title: Tools for Drone
 created: 2023-01-13 10:37:05
-date: 2023-11-24 23:25:00
+date: 2026-04-13 23:14:35.916827
 authors:
   - bendu
 label: tools-for-drone
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - IoT
   - drone
@@ -17,6 +17,7 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## [Clover](https://github.com/CopterExpress/clover)
+
 [Clover](https://github.com/CopterExpress/clover)
 is a ROS-based framework and RPi image to control PX4-powered drones 🍀
 

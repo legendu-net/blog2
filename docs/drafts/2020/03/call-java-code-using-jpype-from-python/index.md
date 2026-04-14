@@ -1,13 +1,13 @@
 ---
-title: "Call Java Code Using JPype from Python"
+title: Call Java Code Using JPype from Python
 created: 2020-03-31 12:16:58
-date: 2020-10-31 12:16:58
+date: 2026-04-13 23:15:24.662680
 authors:
   - bendu
 label: call-java-code-using-jpype-from-python
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - JPype1
   - JPype
   - Java
@@ -17,49 +17,53 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
-
 JPype is easy and intuitive to use.
 It is the most popular Java interface for Python currently.
 
-    :::python
-    import os
-    import sys
-    from pathlib import Path
-    import jpype
+```
+:::python
+import os
+import sys
+from pathlib import Path
+import jpype
 
 
-    jpype.addClassPath("/path/to.jar")
-    jpype.startJVM()
-    print(jpype.java.lang.System.getProperty("java.class.path"))
-    import ...
-    obj = SomeClass(...)
-    obj.someMethod(...)
-    StaticClass.someMethod(...)
+jpype.addClassPath("/path/to.jar")
+jpype.startJVM()
+print(jpype.java.lang.System.getProperty("java.class.path"))
+import ...
+obj = SomeClass(...)
+obj.someMethod(...)
+StaticClass.someMethod(...)
 
 
-    import pyarrow
-    import pyarrow.jvm
-    classpath = ":".join(str(jar.resolve()) for jar in Path().glob("*.jar"))
-    jpype.startJVM(jpype.getDefaultJVMPath(), f"-Djava.class.path={classpath}")
-    ra = jpype.JPackage("org").apache.arrow.memory.RootAllocator(sys.maxsize)
-    dm = jpype.JPackage("java").sql.DriverManager
-    connection = dm.getConnection("jdbc:hive2://hive.server.example.com:10000/default", "user_name", "password")
-    batch = jpype.JPackage("org").apache.arrow.adapter.jdbc.JdbcToArrow.sqlToArrow(
-        connection, "SELECT * FROM some_table", ra
-    )
-    df = pyarrow.jvm.record_batch(batch).to_pandas()
+import pyarrow
+import pyarrow.jvm
+classpath = ":".join(str(jar.resolve()) for jar in Path().glob("*.jar"))
+jpype.startJVM(jpype.getDefaultJVMPath(), f"-Djava.class.path={classpath}")
+ra = jpype.JPackage("org").apache.arrow.memory.RootAllocator(sys.maxsize)
+dm = jpype.JPackage("java").sql.DriverManager
+connection = dm.getConnection("jdbc:hive2://hive.server.example.com:10000/default", "user_name", "password")
+batch = jpype.JPackage("org").apache.arrow.adapter.jdbc.JdbcToArrow.sqlToArrow(
+    connection, "SELECT * FROM some_table", ra
+)
+df = pyarrow.jvm.record_batch(batch).to_pandas()
+```
 
 Notice that you can import a Java class as usual after the following import.
 
-    :::python
-    import jpype.imports
+```
+:::python
+import jpype.imports
+```
 
 1. `jpype.addClassPath` must be called before starting the JVM.
-    You can use the following statement to check that the correct dependency has been added.
+   You can use the following statement to check that the correct dependency has been added.
 
-        :::python
-        print(jpype.java.lang.System.getProperty("java.class.path"))
+   ```
+    :::python
+    print(jpype.java.lang.System.getProperty("java.class.path"))
+   ```
 
 ## Passing Arguments Between Java and Python
 

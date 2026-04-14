@@ -1,13 +1,13 @@
 ---
-title: "Call Java Using PyJNIus from Python"
+title: Call Java Using PyJNIus from Python
 created: 2020-03-25 20:15:13
-date: 2020-10-25 20:15:13
+date: 2026-04-13 23:14:14.887599
 authors:
   - bendu
 label: call-java-using-pyjnius-from-python
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Python
   - PyJNIus
   - Java
@@ -37,15 +37,15 @@ yourObj = YourClass()
 ```
 
 Note: Avoid using the same name for an instance varialbe and a method in the same class.
-Even though Java is able to distinguish between them 
-PyJNIus is not able to. 
-A method will be hide by the instance variable with the same name 
+Even though Java is able to distinguish between them
+PyJNIus is not able to.
+A method will be hide by the instance variable with the same name
 if you use the Jar via PyJNIus in Python.
 Generally speaking,
 it is a bad idea to have the same for an instance variable and a method
 as it might confuse other programming languages (e.g., Kotlin) and frameworks too.
 
-## References 
+## References
 
 - [Java Interfaces for Python](http://www.legendu.net/misc/blog/java-interfaces-for-python)
 

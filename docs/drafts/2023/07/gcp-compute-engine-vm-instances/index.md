@@ -1,13 +1,13 @@
 ---
-title: "GCP Compute Engine VM Instances"
+title: GCP Compute Engine VM Instances
 created: 2023-07-01 17:57:54
-date: 2025-05-08 12:15:01
+date: 2026-04-13 23:14:27.901016
 authors:
   - bendu
 label: gcp-compute-engine-vm-instances
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - cloud
   - GCP
@@ -51,6 +51,7 @@ gcloud compute instances create instance-20240304-20240304-064337 \
     --labels=goog-ec-src=vm_add-gcloud \
     --reservation-affinity=any
 ```
+
 ## Query GCP VMs
 
 ```
@@ -63,7 +64,7 @@ https://console.cloud.google.com/logging
 
 ## References
 
-- [Comparison of Popular Cloud Platforms]( https://www.legendu.net/misc/blog/comparison-of-popular-cloud-platforms )
+- [Comparison of Popular Cloud Platforms](https://www.legendu.net/misc/blog/comparison-of-popular-cloud-platforms)
 
 - [GCP - Create a VM with a custom machine type](https://cloud.google.com/compute/docs/instances/creating-instance-with-custom-machine-type)
 
@@ -74,5 +75,3 @@ https://console.cloud.google.com/logging
 - [GCP Product Calculator](https://cloud.google.com/products/calculator)
 
 - [GCP - Compute Engine Pricing](https://cloud.google.com/compute/all-pricing)
-
-

@@ -1,13 +1,13 @@
 ---
-title: "Speed Up Rust Compile Time"
+title: Speed Up Rust Compile Time
 created: 2023-01-16 18:53:05
-date: 2023-01-16 18:53:05
+date: 2026-04-13 23:14:35.615827
 authors:
   - bendu
 label: speed-up-rust-compile-time
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - compile

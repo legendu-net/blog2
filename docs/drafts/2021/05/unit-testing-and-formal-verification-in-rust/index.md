@@ -1,21 +1,22 @@
 ---
 title: Unit Testing and Formal Verification in Rust
 created: 2021-05-13 09:33:19
-date: 2026-04-05 19:42:37.740035
+date: 2026-04-13 23:15:03.152513
 authors:
-- bendu
+  - bendu
 label: unit-testing-and-formal-verification-in-rust
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- Rust
-- testing
-- unit test
-- verification
-- analysis
-- formal verification
+  - computer science
+  - programming
+  - Rust
+  - testing
+  - unit test
+  - verification
+  - analysis
+  - formal verification
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Test vs Verification
@@ -28,7 +29,7 @@ tags:
 
 [Library-ification and analyzing Rust](http://smallcultfollowing.com/babysteps/blog/2020/04/09/libraryification/)
 
-## References 
+## References
 
 - [Verify Rust Code](https://www.legendu.net/misc/blog/verify-rust-code)
 

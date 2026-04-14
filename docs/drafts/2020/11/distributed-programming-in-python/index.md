@@ -1,13 +1,13 @@
 ---
-title: "Distributed Programming in Python"
+title: Distributed Programming in Python
 created: 2020-11-08 19:10:43
-date: 2020-11-08 19:10:43
+date: 2026-04-13 23:15:10.453447
 authors:
   - bendu
 label: distributed-programming-in-python
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Python
   - distributed
   - programming

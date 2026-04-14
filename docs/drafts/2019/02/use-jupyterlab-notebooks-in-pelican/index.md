@@ -1,14 +1,14 @@
 ---
-title: "Use JupyterLab Notebooks in Pelican"
+title: Use JupyterLab Notebooks in Pelican
 created: 2019-02-22 12:31:45
-date: 2020-11-22 12:31:45
+date: 2026-04-13 23:15:27.585137
 authors:
   - bendu
 label: use-jupyterlab-notebooks-in-pelican
 license: CC-BY-4.0
 tags:
   - programming
-  - Computer Science
+  - computer science
   - plugins
   - Pelican
   - Static Site Generator
@@ -22,7 +22,7 @@ https://github.com/getpelican/pelican-plugins/issues/866
 
 https://github.com/getpelican/pelican-plugins/issues/651
 
-## Plugins 
+## Plugins
 
 [pelican-plugins](https://github.com/pelican-plugins)
 
@@ -39,4 +39,3 @@ https://pmbaumgartner.github.io/blog/jupyter-notebooks-for-pelican/
 https://www.peijun.me/blogging-with-jupyter-and-pelican.html
 
 [How to Create Your Data Science Blog with Pelican and Jupyter Notebooks](https://janakiev.com/blog/pelican-jupyter/)
-

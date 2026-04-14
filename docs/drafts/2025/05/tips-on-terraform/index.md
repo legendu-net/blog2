@@ -1,13 +1,13 @@
 ---
-title: "Tips on Terraform"
+title: Tips on Terraform
 created: 2025-05-08 15:58:29
-date: 2025-05-08 15:58:29
+date: 2026-04-13 23:14:21.278360
 authors:
   - bendu
 label: tips-on-terraform
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - cloud
   - Terraform

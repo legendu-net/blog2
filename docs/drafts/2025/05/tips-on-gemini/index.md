@@ -1,13 +1,13 @@
 ---
 title: Tips on Gemini
 created: 2025-05-06 15:04:36
-date: 2026-04-09 10:34:50.571423
+date: 2026-04-13 23:14:20.978849
 authors:
   - bendu
 label: tips-on-gemini
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - AI
   - Gemini
@@ -15,13 +15,14 @@ tags:
   - cookbook
   - prompt
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## General Tips
 
 1. Google Gemini saves conversations and apps you built so that you can revisit them later.
-    Notice that prompts (conversations) are also saved into 
-    the directory "My Drive/Google AI Studio" in your Google drive.
+   Notice that prompts (conversations) are also saved into
+   the directory "My Drive/Google AI Studio" in your Google drive.
 
 ## References
 
@@ -33,4 +34,4 @@ tags:
 
 - [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
 
-- [Tips on Google Gemini Cli]( https://www.legendu.net/misc/blog/tips-on-google-gemini-cli ) 
+- [Tips on Google Gemini Cli](https://www.legendu.net/misc/blog/tips-on-google-gemini-cli)

@@ -1,13 +1,13 @@
 ---
-title: "Tips on Protobuf"
+title: Tips on Protobuf
 created: 2022-11-12 14:31:12
-date: 2023-05-10 17:01:16
+date: 2026-04-13 23:14:41.106802
 authors:
   - bendu
 label: tips-on-protobuf
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - protobuf
   - protocol buffer
@@ -19,19 +19,21 @@ tags:
 
 Prefer to have oneof with a string field describing the specific type of oneof.
 
-    message A { // A here is the "interface".
-      string name = 1;
-      string a_type = 2; // Or an enum. See AIP-126 and AIP-143 for more information.
+```
+message A { // A here is the "interface".
+  string name = 1;
+  string a_type = 2; // Or an enum. See AIP-126 and AIP-143 for more information.
 
-      // .. Anything else that applies to all A's.
+  // .. Anything else that applies to all A's.
 
-      // Stuff that's specific to the concrete types.
-      oneof content {
-        B b = 3;
-        C c = 4;
-        // ...
-      }
-    }
+  // Stuff that's specific to the concrete types.
+  oneof content {
+    B b = 3;
+    C c = 4;
+    // ...
+  }
+}
+```
 
 ## References
 
@@ -45,6 +47,6 @@ Prefer to have oneof with a string field describing the specific type of oneof.
 
 - [Protobuf Overview](https://developers.google.com/protocol-buffers/docs/overview)
 
-- [Protobuf @ GitHub](https://github.com/protocolbuffers/protobuf) 
+- [Protobuf @ GitHub](https://github.com/protocolbuffers/protobuf)
 
 - [Protocol Buffers](https://developers.google.com/protocol-buffers/)

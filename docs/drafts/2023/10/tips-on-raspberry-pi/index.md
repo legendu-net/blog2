@@ -1,13 +1,13 @@
 ---
-title: "Tips on Raspberry Pi"
+title: Tips on Raspberry Pi
 created: 2023-10-11 16:20:45
-date: 2023-11-24 23:07:16
+date: 2026-04-13 23:14:26.283017
 authors:
   - bendu
 label: tips-on-raspberry-pi
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - hardware
   - Raspberry Pi
@@ -42,4 +42,3 @@ https://www.youtube.com/watch?v=79lquFD3oT4
 - [Raspberry Pi 5: Release Date, Specs, Price & Rumors](https://raspberryexpert.com/raspberry-pi-5-release-date-specs-price/)
 
 - [The best Raspberry Pi alternatives available right now](https://www.zdnet.com/article/best-raspberry-pi-alternative/)
-

@@ -1,13 +1,13 @@
 ---
-title: "Compress and Decompress Files in Rust"
+title: Compress and Decompress Files in Rust
 created: 2022-07-16 18:37:46
-date: 2022-07-23 19:47:00
+date: 2026-04-13 23:14:43.748337
 authors:
   - bendu
 label: compress-and-decompress-files-in-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - compress
@@ -25,7 +25,7 @@ Please refer to
 for details.
 It is suggested that you use the Rust crate
 [zstd](https://crates.io/crates/zstd)
-as 
+as
 [Zstandard](https://en.wikipedia.org/wiki/Zstd)
 is the best compression/decompression algorithm currently.
 For more discussions on this,
@@ -34,24 +34,22 @@ please refer to
 .
 
 1. [zstd](https://crates.io/crates/zstd)
-  is a rust binding for the 
-  [zstd compression library](https://github.com/facebook/zstd)
-  .
+   is a rust binding for the
+   [zstd compression library](https://github.com/facebook/zstd)
+   .
 
 1. [tar](https://crates.io/crates/tar)
-    is a Rust implementation of a TAR file reader and writer. 
-    This library does not currently handle compression, but it is abstract over all I/O readers and writers. 
-    Additionally, great lengths are taken to ensure that the entire contents are never required to be entirely resident in memory all at once.
+   is a Rust implementation of a TAR file reader and writer.
+   This library does not currently handle compression, but it is abstract over all I/O readers and writers.
+   Additionally, great lengths are taken to ensure that the entire contents are never required to be entirely resident in memory all at once.
 
-2. [flate2](https://crates.io/crates/flate2)
-    provides DEFLATE compression and decompression exposed as Read/BufRead/Write streams. 
-    Supports miniz_oxide and multiple zlib implementations. Supports zlib, gzip, and raw deflate streams.
+1. [flate2](https://crates.io/crates/flate2)
+   provides DEFLATE compression and decompression exposed as Read/BufRead/Write streams.
+   Supports miniz_oxide and multiple zlib implementations. Supports zlib, gzip, and raw deflate streams.
 
-2. [snap](https://crates.io/crates/snap)
-    is a pure Rust implementation of the Snappy compression algorithm 
-    including streaming compression and decompression.
+1. [snap](https://crates.io/crates/snap)
+   is a pure Rust implementation of the Snappy compression algorithm
+   including streaming compression and decompression.
 
-2. [zip](https://crates.io/crates/zip)
-    is a library to support the reading and writing of zip files.
-
-
+1. [zip](https://crates.io/crates/zip)
+   is a library to support the reading and writing of zip files.

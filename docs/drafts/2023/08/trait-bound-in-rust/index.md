@@ -1,13 +1,13 @@
 ---
-title: "Trait Bound in Rust"
+title: Trait Bound in Rust
 created: 2023-08-29 10:33:58
-date: 2023-08-29 10:33:58
+date: 2026-04-13 23:14:27.307540
 authors:
   - bendu
 label: trait-bound-in-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
 ---
 
@@ -16,7 +16,7 @@ tags:
 There has to be a way to bundle up those type declarations. Was it not possible to make driver a trait that contains all of the complicated type declarations?
 
 1. Avoid using complicated type bounds.
-    It is better to derive a trait which contains all the complicated type bounds.
+   It is better to derive a trait which contains all the complicated type bounds.
 
 First define a trait that has your other traits as super traits. e.g.
 
@@ -36,7 +36,7 @@ Rather than
 
 With a very long list of types and bounds, do:
 
-`trait Pack {
+\`trait Pack {
 
 type A where ...
 
@@ -116,7 +116,6 @@ Driver { db: self.db.clone() }
 Then, you could remove all where clauses from impls. Compiler starts yelling at you at individual spots, and you should specify trait bounds for individual methods/groups of methods, maybe in separate impls.
 
 Traits are about behavior. You provide behavior, if something has another behavior.
-
 
 ## References
 

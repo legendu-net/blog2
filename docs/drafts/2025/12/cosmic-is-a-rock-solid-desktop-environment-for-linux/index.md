@@ -1,13 +1,13 @@
 ---
-title: "COSMIC Is a Rock Solid Desktop Environment for Linux"
+title: COSMIC Is a Rock Solid Desktop Environment for Linux
 created: 2025-12-22 10:34:27
-date: 2025-12-22 17:42:56
+date: 2026-04-13 23:14:17.810348
 authors:
   - bendu
 label: cosmic-is-a-rock-solid-desktop-environment-for-linux
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Linux
   - desktop
@@ -19,6 +19,7 @@ tags:
 ## Auto Login
 
 /etc/greetd/cosmic-greeter.toml
+
 ```
 [terminal]
 vt = "1"
@@ -34,4 +35,5 @@ user = "cosmic-greeter"
 command = "start-cosmic"
 user = "username"
 ```
+
 https://github.com/pop-os/cosmic-greeter/issues/80

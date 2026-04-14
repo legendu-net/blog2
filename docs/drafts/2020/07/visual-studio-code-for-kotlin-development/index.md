@@ -1,23 +1,23 @@
 ---
 title: Visual Studio Code for Kotlin Development
 created: 2020-07-10 13:07:08
-date: 2026-04-05 19:42:37.793319
+date: 2026-04-13 23:15:19.138790
 authors:
-- bendu
+  - bendu
 label: visual-studio-code-for-kotlin-development
 license: CC-BY-4.0
 tags:
-- Computer Science
-- Kotlin
-- VSCode
-- Visual Studio Code
-- JVM
-- IDE
-- plugin
-- extension
+  - computer science
+  - Kotlin
+  - VSCode
+  - Visual Studio Code
+  - JVM
+  - IDE
+  - plugin
+  - extension
 ---
-**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Extensions
 
@@ -37,7 +37,7 @@ tags:
 
 - [TabNine VSCode](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 
-## References 
+## References
 
 [Kotlin Language Server](https://github.com/fwcd/kotlin-language-server)
 

@@ -1,13 +1,13 @@
 ---
-title: "Tips on the Dia Browser"
+title: Tips on the Dia Browser
 created: 2025-05-28 15:58:53
-date: 2025-05-28 15:58:53
+date: 2026-04-13 23:14:21.443227
 authors:
   - bendu
 label: tips-on-the-dia-browser
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Dia
   - AI
   - browser

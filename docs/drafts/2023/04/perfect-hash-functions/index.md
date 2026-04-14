@@ -1,13 +1,13 @@
 ---
-title: "Perfect Hash Functions"
+title: Perfect Hash Functions
 created: 2023-04-17 17:18:59
-date: 2023-04-17 17:18:59
+date: 2026-04-13 23:14:31.913266
 authors:
   - bendu
 label: perfect-hash-functions
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - hash
@@ -16,7 +16,6 @@ tags:
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
 
 [Faster than Rust and C++: the PERFECT hash table](https://www.youtube.com/watch?v=DMQ_HcNSOAI)
 

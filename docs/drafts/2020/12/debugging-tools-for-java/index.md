@@ -1,13 +1,13 @@
 ---
-title: "Debugging Tools for Java"
+title: Debugging Tools for Java
 created: 2020-12-20 11:43:43
-date: 2020-12-20 11:43:43
+date: 2026-04-13 23:15:08.954472
 authors:
   - bendu
 label: debugging-tools-for-java
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Java
   - JVM
   - debug
@@ -17,16 +17,18 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## [arthas](https://github.com/alibaba/arthas)
+
 [arthas](https://github.com/alibaba/arthas)
 
 ## JDK commands
-Thread dump: jstack jvm_pid > <file_name>     (use -F if not responding)
 
-Memory dump: jmap -dump:live,format=b,file=<file_name>.hprof jvm_pid
+Thread dump: jstack jvm_pid > \<file_name> (use -F if not responding)
 
-Heap status:  jmap -heap jvm_pid
+Memory dump: jmap -dump:live,format=b,file=\<file_name>.hprof jvm_pid
 
-GC status: jstat -gccause -h 50 -t jvm_pid 2s  (refresh every 2s, show header every 50 rows, show time stamp)
+Heap status: jmap -heap jvm_pid
+
+GC status: jstat -gccause -h 50 -t jvm_pid 2s (refresh every 2s, show header every 50 rows, show time stamp)
 
 You can use command jps to find out all pids of currently running jvm process.
 

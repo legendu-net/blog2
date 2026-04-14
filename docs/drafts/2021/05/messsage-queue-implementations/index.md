@@ -1,13 +1,13 @@
 ---
-title: "Messsage Queue Implementations"
+title: Messsage Queue Implementations
 created: 2021-05-26 10:32:39
-date: 2021-05-26 10:32:39
+date: 2026-04-13 23:15:02.548395
 authors:
   - bendu
 label: messsage-queue-implementations
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - message
   - queue
@@ -18,15 +18,17 @@ tags:
   - celery
   - memcached
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-Kafka seems to be the most popular message queue currently. 
-Redis and memcached are more suitaable for situations where you need cache in memory. 
+Kafka seems to be the most popular message queue currently.
+Redis and memcached are more suitaable for situations where you need cache in memory.
 
 ## Protocols
+
 [AMQP](https://www.amqp.org/)
-is the Advanced Message Queuing Protocol, 
-an open standard protocol for message orientation, queuing, routing, reliability and security. 
+is the Advanced Message Queuing Protocol,
+an open standard protocol for message orientation, queuing, routing, reliability and security.
 The RabbitMQ messaging server is the most popular implementation of AMQP.
 
 ## Servers
@@ -36,20 +38,22 @@ The RabbitMQ messaging server is the most popular implementation of AMQP.
 Kafka leverages ZooKeeper.
 
 ### [celery](https://github.com/celery/celery)
+
 [celery](https://github.com/celery/celery)
-is a simple, flexible, and reliable distributed system to process vast amounts of messages, 
+is a simple, flexible, and reliable distributed system to process vast amounts of messages,
 while providing operations with the tools required to maintain such a system.
 
 ### RabbitMQ
 
 ### Redis
 
-## Comparisons 
+## Comparisons
 
-### Kafka vs RabbitMQ 
-Kafka is an overkill when you need to process only a small amount of messages per day (up to several thousand). 
-Kafka is designed to cope with the high load. 
-Use traditional message queues like RabbitMQ when you don't have a lot of data. 
+### Kafka vs RabbitMQ
+
+Kafka is an overkill when you need to process only a small amount of messages per day (up to several thousand).
+Kafka is designed to cope with the high load.
+Use traditional message queues like RabbitMQ when you don't have a lot of data.
 
 ### Kafka vs Redis
 
@@ -58,23 +62,25 @@ Use traditional message queues like RabbitMQ when you don't have a lot of data.
 ## Clients
 
 ### [rq](https://github.com/rq/rq)
-[rq](https://github.com/rq/rq) (Redis Queue) is a simple Python library 
-for queueing jobs and processing them in the background with workers. 
-It is backed by Redis and it is designed to have a low barrier to entry. 
+
+[rq](https://github.com/rq/rq) (Redis Queue) is a simple Python library
+for queueing jobs and processing them in the background with workers.
+It is backed by Redis and it is designed to have a low barrier to entry.
 It should be integrated in your web stack easily.
 
 ### [kombu](https://github.com/celery/kombu)
+
 [kombu](https://github.com/celery/kombu)
-The aim of Kombu is to make messaging in Python as easy as possible 
-by providing an idiomatic high-level interface for the AMQ protocol, 
+The aim of Kombu is to make messaging in Python as easy as possible
+by providing an idiomatic high-level interface for the AMQ protocol,
 and also provide proven and tested solutions to common messaging problems.
 
 ### [pika](https://github.com/pika/pika)
+
 [pika](https://github.com/pika/pika)
 is a pure-Python implementation of the AMQP 0-9-1 protocol including RabbitMQ's extensions.
 
-
-## References 
+## References
 
 [Difference between Redis and Kafka](https://stackoverflow.com/questions/37990784/difference-between-redis-and-kafka)
 

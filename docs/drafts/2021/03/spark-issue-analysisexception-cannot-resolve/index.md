@@ -1,23 +1,23 @@
 ---
 title: 'Spark Issue: AnalysisException: Cannot Resolve'
 created: 2021-03-24 15:03:48
-date: 2026-04-05 19:42:37.765046
+date: 2026-04-13 23:15:07.434231
 authors:
-- bendu
+  - bendu
 label: spark-issue-analysisexception-cannot-resolve
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- Spark
-- issue
-- AnalysisException
-- cannot resolve
-- Spark issue
-- big data
+  - computer science
+  - programming
+  - Spark
+  - issue
+  - AnalysisException
+  - cannot resolve
+  - Spark issue
+  - big data
 ---
-**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Symptom
 

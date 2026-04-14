@@ -1,13 +1,13 @@
 ---
-title: "Engine and Runtime for JavaScript"
+title: Engine and Runtime for JavaScript
 created: 2022-06-12 17:56:00
-date: 2022-06-12 17:56:00
+date: 2026-04-13 23:14:46.024383
 authors:
   - bendu
 label: engine-and-runtime-for-javascript
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - JavaScript
   - engine
@@ -32,13 +32,13 @@ is a JS engine in Rust which focuses on performance rather than ensuring 100% sa
 ### [JerryScript](https://github.com/jerryscript-project/jerryscript)
 
 [JerryScript](https://github.com/jerryscript-project/jerryscript)
-is a lightweight JavaScript engine for resource-constrained devices such as microcontrollers. 
+is a lightweight JavaScript engine for resource-constrained devices such as microcontrollers.
 It can run on devices with less than 64 KB of RAM and less than 200 KB of flash memory.
 
 ### [boa](https://github.com/boa-dev/boa)
 
 [Boa](https://github.com/boa-dev/boa)
-is an embeddable and experimental Javascript engine written in Rust. 
+is an embeddable and experimental Javascript engine written in Rust.
 Currently, it has support for some of the language.
 
 ## JavaScript Runtimes
@@ -54,8 +54,9 @@ is an open-source, cross-platform, JavaScript runtime environment.
 is a modern runtime for JavaScript and TypeScript.
 
 ### [QuickJS](https://bellard.org/quickjs/)
+
 [QuickJS](https://bellard.org/quickjs/)
-is a small and embeddable Javascript engine. 
+is a small and embeddable Javascript engine.
 It supports the ES2020 specification including modules, asynchronous generators, proxies and BigInt.
 
 ## References
@@ -65,4 +66,3 @@ It supports the ES2020 specification including modules, asynchronous generators,
 - [BestOfJS](https://bestofjs.org/projects?tags=runtime)
 
 - [Uncover the JavaScript: Engine vs Runtime](https://medium.com/@misbahulalam/uncover-the-javascript-engine-vs-runtime-6556ef449634)
-

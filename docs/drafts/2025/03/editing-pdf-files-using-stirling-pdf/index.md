@@ -1,13 +1,13 @@
 ---
-title: "Editing PDF Files Using Stirling-PDF"
+title: Editing PDF Files Using Stirling-PDF
 created: 2025-03-06 08:18:50
-date: 2025-05-11 16:45:21
+date: 2026-04-13 23:14:22.978376
 authors:
   - bendu
 label: editing-pdf-files-using-stirling-pdf
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - PDF
   - editing
   - Stirling-PDF
@@ -15,13 +15,14 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-You can try Stirling-PDF at 
+You can try Stirling-PDF at
 <https://stirlingpdf.io/>
 .
 
 ## Start a Stirling-PDF Service Using Docker
 
 The following command starts a (local) service of Stirling-PDF at the port 6000.
+
 ```
 docker run -d \
   --name stirling-pdf \
@@ -35,7 +36,9 @@ docker run -d \
   -e LANGS=en_GB \
   stirlingtools/stirling-pdf:latest
 ```
+
 Use the following command if you'd like to enable security and login.
+
 ```
 docker run -d \
   --name stirling-pdf \
@@ -51,10 +54,9 @@ docker run -d \
   stirlingtools/stirling-pdf:latest
 ```
 
-Notice that there's also the Docker image 
+Notice that there's also the Docker image
 `stirlingtools/stirling-pdf:latest-fat` (with more fonts, etc) that you can use.
 
 ## References
 
 - [Stirling-PDF @ GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
-

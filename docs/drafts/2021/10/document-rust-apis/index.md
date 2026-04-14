@@ -1,13 +1,13 @@
 ---
-title: "Document Rust APIs"
+title: Document Rust APIs
 created: 2021-10-12 23:06:49
-date: 2021-10-13 20:41:03
+date: 2026-04-13 23:14:54.859768
 authors:
   - bendu
 label: document-rust-apis
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - doc

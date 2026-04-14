@@ -1,21 +1,22 @@
 ---
 title: The Label Widget in Tkinter
 created: 2020-04-12 09:53:35
-date: 2026-04-05 19:42:37.805512
+date: 2026-04-13 23:15:24.047391
 authors:
-- bendu
+  - bendu
 label: the-label-widget-in-tkinter
 license: CC-BY-4.0
 tags:
-- Computer Science
-- Python
-- programming
-- Tkinter
-- GUI
-- Label
-- text
-- config
+  - computer science
+  - Python
+  - programming
+  - Tkinter
+  - GUI
+  - Label
+  - text
+  - config
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## General Tips
@@ -29,28 +30,34 @@ there are 3 different approaches that you can change its text.
 
 ### Dict-like Access
 
-    :::python
-    label["text"] = "new text for the label"
+```
+:::python
+label["text"] = "new text for the label"
+```
 
 ### Via the `.config` Method
 
 This is the recommended way to update the text of a label in Tkinter.
 
-    :::python
-    label.config(text="new text for the label")
+```
+:::python
+label.config(text="new text for the label")
+```
 
 ### Via a StringVar
 
-This way is more complicated 
-and it requires that the a text variable is specified 
+This way is more complicated
+and it requires that the a text variable is specified
 when the label is created.
 
-    :::python
-    import tkinter as tk
-    var_text = tk.StringVar()
-    label = Label(root, textvariable=var_text)
-    label.pac()
-    var_text = "new text for the label"
+```
+:::python
+import tkinter as tk
+var_text = tk.StringVar()
+label = Label(root, textvariable=var_text)
+label.pac()
+var_text = "new text for the label"
+```
 
 Notice that if you have set `textvariable`
 when creating a label,
@@ -65,22 +72,26 @@ there are 2 ways you can change its image.
 
 ### Dict-like Access
 
-    :::python
-    label["image"] = some_photo_image_obj
+```
+:::python
+label["image"] = some_photo_image_obj
+```
 
 ### Via the `.config` Method
 
-    :::python
-    label.config(image=some_photo_image_obj)
+```
+:::python
+label.config(image=some_photo_image_obj)
+```
 
-Unlike the text of a Label object, 
+Unlike the text of a Label object,
 there is no `imagevariable` option for a Label.
 
-## Size 
+## Size
 
-If you don't specify a size, 
-the label is made just large enough to hold its contents. 
-You can also use the height and width options to explicitly set the size. 
-If you display text in the label, these options define the size of the label in text units. 
-If you display bitmaps or images instead, they define the size in pixels (or other screen units). 
+If you don't specify a size,
+the label is made just large enough to hold its contents.
+You can also use the height and width options to explicitly set the size.
+If you display text in the label, these options define the size of the label in text units.
+If you display bitmaps or images instead, they define the size in pixels (or other screen units).
 See the Button description for an example how to specify the size in pixels also for text labels.

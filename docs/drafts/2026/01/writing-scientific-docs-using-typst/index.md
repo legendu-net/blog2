@@ -1,13 +1,13 @@
 ---
-title: "Writing Scientific Docs Using Typst"
+title: Writing Scientific Docs Using Typst
 created: 2026-01-17 17:22:31
-date: 2026-01-18 16:58:38
+date: 2026-04-13 23:14:15.383721
 authors:
   - bendu
 label: writing-scientific-docs-using-typst
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - doc
   - documentation
@@ -20,13 +20,14 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 [Typst](https://typst.app/)
-is a modern, open-source, markup-based typesetting system 
+is a modern, open-source, markup-based typesetting system
 designed as a **user-friendly and powerful alternative to LaTeX**
-for creating high-quality documents, presentations, and equations, featuring fast compilation, integrated scripting, 
-and intuitive syntax that blends Markdown-like simplicity with rich formatting capabilities. 
-It handles complex tasks like math typesetting, 
-bibliography management, and automation, making it great for scientific papers, theses, and reports. 
+for creating high-quality documents, presentations, and equations, featuring fast compilation, integrated scripting,
+and intuitive syntax that blends Markdown-like simplicity with rich formatting capabilities.
+It handles complex tasks like math typesetting,
+bibliography management, and automation, making it great for scientific papers, theses, and reports.
 Below are key features of Typst.
+
 - Easy Syntax: Uses familiar markup similar to Markdown but adds powerful functions and a scripting language for advanced control.
 - Performance: Offers fast, incremental compilation and friendly error messages, improving workflow.
 - Versatility: Creates various content, from simple text and equations (including colored math) to diagrams, charts, and web pages.
@@ -41,7 +42,6 @@ pandoc your_notebook.ipynb -f ipynb -t typst -o output.typ
 quarto render your_notebook.ipynb --to typst
 ```
 
-
 [callisto](https://typst.app/universe/package/callisto/)
 is a Typst package for reading from Jupyter notebooks.
 It currently addresses the following use cases:
@@ -53,21 +53,23 @@ It currently addresses the following use cases:
 
 https://github.com/messense/typst-py
 
-    #import "@preview/pyrunner:0.3.0" as py
+````
+#import "@preview/pyrunner:0.3.0" as py
 
 
-    #let some_code = ```
-    a = 1.3;
-    b = 2.5;
-    c = a * b;
+#let some_code = ```
+a = 1.3;
+b = 2.5;
+c = a * b;
 
-    def values(v):
-      return globals().get(v)
-    ```
-    #let some_compiled = py.compile(some_code);
+def values(v):
+  return globals().get(v)
+```
+#let some_compiled = py.compile(some_code);
 
-    #let get(v) = {
-      float(py.call(some_compiled , "values", v))
-    }
+#let get(v) = {
+  float(py.call(some_compiled , "values", v))
+}
 
-    Using $A = get("a")$, $B = get("b")$, $c = get("c")$
+Using $A = get("a")$, $B = get("b")$, $c = get("c")$
+````

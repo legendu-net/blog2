@@ -1,13 +1,13 @@
 ---
-title: "Rust Backend Frameworks for gRPC APIs"
+title: Rust Backend Frameworks for gRPC APIs
 created: 2023-06-11 09:58:37
-date: 2023-06-11 09:58:37
+date: 2026-04-13 23:14:29.147147
 authors:
   - bendu
 label: rust-backend-frameworks-for-grpc-apis
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - backend
@@ -19,12 +19,12 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 ## [tonic](https://github.com/hyperium/tonic)
+
 [tonic](https://github.com/hyperium/tonic)
-is a gRPC over HTTP/2 implementation 
-focused on high performance, interoperability, and flexibility. 
-This library was created to have first class support of async/await 
+is a gRPC over HTTP/2 implementation
+focused on high performance, interoperability, and flexibility.
+This library was created to have first class support of async/await
 and to act as a core building block for production systems written in Rust.
 
 ## References

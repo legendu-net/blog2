@@ -1,13 +1,13 @@
 ---
-title: "Tips on NotebookLM"
+title: Tips on NotebookLM
 created: 2025-05-31 13:26:49
-date: 2025-05-31 17:41:17
+date: 2026-04-13 23:14:21.129220
 authors:
   - bendu
 label: tips-on-notebooklm
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - AI
   - LLM

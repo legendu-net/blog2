@@ -1,13 +1,13 @@
 ---
-title: "Customized Allocator in Rust"
+title: Customized Allocator in Rust
 created: 2023-05-26 10:42:01
-date: 2023-06-04 20:48:58
+date: 2026-04-13 23:14:30.324166
 authors:
   - bendu
 label: customized-allocator-in-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - allocator
@@ -22,4 +22,3 @@ tags:
 [Vec::new_in](https://doc.rust-lang.org/std/vec/struct.Vec.html#method.new_in)
 
 [Placement By Return](https://github.com/PoignardAzur/placement-by-return/blob/placement-by-return/text/0000-placement-by-return.md)
-

@@ -1,13 +1,13 @@
 ---
-title: "Tips on Prefect"
+title: Tips on Prefect
 created: 2020-10-06 23:23:56
-date: 2020-10-06 23:23:56
+date: 2026-04-13 23:15:14.194677
 authors:
   - bendu
 label: tips-on-prefect
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - workflow
   - Airflow
   - Prefect

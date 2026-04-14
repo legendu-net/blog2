@@ -1,13 +1,13 @@
 ---
-title: "Security Tools in Python"
+title: Security Tools in Python
 created: 2020-12-16 11:04:45
-date: 2022-05-21 21:56:55
+date: 2026-04-13 23:15:09.428691
 authors:
   - bendu
 label: security-tools-in-python
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - security
   - Python
   - PyArmor
@@ -17,16 +17,19 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## [bandit](https://github.com/PyCQA/bandit)
+
 [bandit](https://github.com/PyCQA/bandit)
 is a tool designed to find common security issues in Python code.
 
 ## [pyarmor](https://github.com/dashingsoft/pyarmor)
+
 [pyarmor](https://github.com/dashingsoft/pyarmor)
-is a tool used to obfuscate python scripts, 
+is a tool used to obfuscate python scripts,
 bind obfuscated scripts to fixed machine or expire obfuscated scripts.
 
 ## [markupsafe](https://github.com/pallets/markupsafe)
-MarkupSafe implements a text object that escapes characters 
-so it is safe to use in HTML and XML. 
-Characters that have special meanings are replaced so that they display as the actual characters. 
+
+MarkupSafe implements a text object that escapes characters
+so it is safe to use in HTML and XML.
+Characters that have special meanings are replaced so that they display as the actual characters.
 This mitigates injection attacks, meaning untrusted user input can safely be displayed on a page.

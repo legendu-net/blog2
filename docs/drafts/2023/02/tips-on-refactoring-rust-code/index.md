@@ -1,13 +1,13 @@
 ---
-title: "Tips on Refactoring Rust Code"
+title: Tips on Refactoring Rust Code
 created: 2023-02-02 14:15:04
-date: 2023-02-02 14:15:04
+date: 2026-04-13 23:14:33.131968
 authors:
   - bendu
 label: tips-on-refactoring-rust-code
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - code
@@ -18,14 +18,11 @@ tags:
 
 https://rust-analyzer.github.io/manual.html#structural-search-and-replace
 
-
 cargo clippy fix
 
 ## General Approach for Auto Refactoring
 
 1. use `cargo build` or `cargo clippy` to generate error msgs for a specific kind of issue
-2. for each line of error (best to do it backwards), identify the place that need updates
-3. update the code
-4. iterate 1-3 multiple times until all issues are fixed
-
-
+1. for each line of error (best to do it backwards), identify the place that need updates
+1. update the code
+1. iterate 1-3 multiple times until all issues are fixed

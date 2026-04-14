@@ -1,13 +1,13 @@
 ---
-title: "Useful Algorithms Implemented in Rust"
+title: Useful Algorithms Implemented in Rust
 created: 2023-01-13 16:58:06
-date: 2023-01-13 16:58:06
+date: 2026-04-13 23:14:36.063574
 authors:
   - bendu
 label: useful-algorithms-implemented-in-rust
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - algo
@@ -18,22 +18,24 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## [hdrhistogram](https://crates.io/crates/hdrhistogram)
+
 [hdrhistogram](https://crates.io/crates/hdrhistogram)
 is a port of HdrHistogram to Rust.
-
 
 ## Hash Algorithms
 
 ### [phf](https://crates.io/crates/phf)
+
 [phf](https://crates.io/crates/phf)
 provides runtime support for perfect hash function data structures
 
 ### [fnv](https://crates.io/crates/fnv)
+
 [fnv](https://crates.io/crates/fnv)
 is an implementation of the Fowler–Noll–Vo hash function.
 
 ### [hashbrown](https://crates.io/crates/hashbrown)
+
 [hashbrown](https://crates.io/crates/hashbrown)
-is a Rust port of Google's high-performance SwissTable hash map, 
+is a Rust port of Google's high-performance SwissTable hash map,
 adapted to make it a drop-in replacement for Rust's standard HashMap and HashSet types.
-    

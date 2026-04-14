@@ -1,13 +1,13 @@
 ---
-title: "Search Engine for Static Web Sites"
+title: Search Engine for Static Web Sites
 created: 2020-12-03 10:23:35
-date: 2022-06-09 09:01:58
+date: 2026-04-13 23:15:09.272189
 authors:
   - bendu
 label: search-engine-for-static-web-sites
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - search engine
   - search
   - static
@@ -18,7 +18,7 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-Below is a list of search engines which run on the client side. 
+Below is a list of search engines which run on the client side.
 
 ## [tinysearch](https://github.com/tinysearch/tinysearch)
 
@@ -42,11 +42,10 @@ A bit like Solr, but much smaller and not as bright.
 
 Next-Generation full text search library for Browser and Node.js
 
-## References 
+## References
 
 https://codewithhugo.com/hugo-lunrjs-search-index/
 
 https://matthewdaly.co.uk/blog/2015/04/18/how-i-added-search-to-my-site-with-lunr-dot-js/
 
 https://learn.cloudcannon.com/jekyll/jekyll-search-using-lunr-js/
-

@@ -1,13 +1,13 @@
 ---
-title: "Tips on Flatpak"
+title: Tips on Flatpak
 created: 2025-05-14 16:58:04
-date: 2025-05-27 11:56:27
+date: 2026-04-13 23:14:20.675525
 authors:
   - bendu
 label: tips-on-flatpak
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - flatpak
 ---

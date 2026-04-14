@@ -1,13 +1,13 @@
 ---
-title: "Use Tkinter to Build GUI Applications in Python"
+title: Use Tkinter to Build GUI Applications in Python
 created: 2020-03-09 09:41:03
-date: 2021-08-08 16:25:26
+date: 2026-04-13 23:15:26.485467
 authors:
   - bendu
 label: use-tkinter-to-build-gui-applications-in-python
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Python
   - Tkinter
   - GUI
@@ -15,114 +15,127 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-## Installation 
+## Installation
 
 Tkinter should be available by default after Python is installed.
 However,
 please continue read if you encounter the following error.
 
-> import _tkinter # If this fails your Python may not be configured for Tk
-> ImportError: No module named _tkinter
+> import \_tkinter # If this fails your Python may not be configured for Tk
+> ImportError: No module named \_tkinter
 
-1. On macOS, 
-    installing python-tk might fix the issue. 
+1. On macOS,
+   installing python-tk might fix the issue.
 
-        :::bash
-        brew install python-tk
+   ```
+    :::bash
+    brew install python-tk
+   ```
 
 ## General Tips
 
 1. You need to use multithreading to make GUI application more responsive
-    if any event triggers a long-run task.
-    Please refer to 
-    [Concurrency and Parallel Computing in Python](http://www.legendu.net/misc/blog/python-concurrency-parallel-computing/)
-    for more discussions. 
+   if any event triggers a long-run task.
+   Please refer to
+   [Concurrency and Parallel Computing in Python](http://www.legendu.net/misc/blog/python-concurrency-parallel-computing/)
+   for more discussions.
 
-2. When you develop a GUI application using Tkinter in Python, 
-    `root = tk.Tk()` must be the first statement after imports.
+1. When you develop a GUI application using Tkinter in Python,
+   `root = tk.Tk()` must be the first statement after imports.
 
-        :::python
-        import tkinter as tk
-        import ...
-        root = tk.Tk()
+   ```
+    :::python
+    import tkinter as tk
+    import ...
+    root = tk.Tk()
+    ...
+   ```
+
+1. It is suggested that you use the `ttk` module (Tk Themed Widgets) when possible.
+   It has more advanced and better looking widgets.
+   However, the `Text` widget is only available in `tk`.
+
+1. It is suggested that you name a widget using the `name` option
+   when creating it,
+   and use the name to refer to the widget later.
+   Avoid keeping referencing to widgets by yourself!
+
+   ```
+    :::python
+    root.nametowidget("name1.name2.name3")
+   ```
+
+1. A Button object has the option `command` to set a callback function when clicked
+   while a Label object does not have this option.
+
+   ```
+    :::python
+    def button_click():
         ...
 
-3. It is suggested that you use the `ttk` module (Tk Themed Widgets) when possible. 
-    It has more advanced and better looking widgets. 
-    However, the `Text` widget is only available in `tk`.
 
-4. It is suggested that you name a widget using the `name` option 
-    when creating it,
-    and use the name to refer to the widget later. 
-    Avoid keeping referencing to widgets by yourself!
+    Button(root, text="Scrrenshot", command=button_click)
+   ```
 
-        :::python
-        root.nametowidget("name1.name2.name3")
+   Nevertheless,
+   you can bind a callback function to any widget using the method `widget_obj.bind`.
 
-2. A Button object has the option `command` to set a callback function when clicked
-    while a Label object does not have this option.
-
-        :::python
-        def button_click():
-            ...
+   ```
+    :::python
+    import tkinter as tk
+    root = tk.Tk()
 
 
-        Button(root, text="Scrrenshot", command=button_click)
-
-    Nevertheless, 
-    you can bind a callback function to any widget using the method `widget_obj.bind`.
-
-        :::python
-        import tkinter as tk
-        root = tk.Tk()
+    def label_left_click(event):
+        ...
 
 
-        def label_left_click(event):
-            ...
+    label = tk.Label(root, text="my label")
+    label.bind("<Button-1>", label_left_click)
+   ```
 
+   A few things to keep in mind.
+   When you bind a callback function using the `command` option,
+   the callback function takes no argument.
+   However,
+   when you bind a call back function using the method `widget_obj.bind`,
+   the callback function takes an `Event` object as argument.
 
-        label = tk.Label(root, text="my label")
-        label.bind("<Button-1>", label_left_click)
+1. To make a label visible no matter there are text/image in it or not,
+   you can set a border to it.
 
-    A few things to keep in mind. 
-    When you bind a callback function using the `command` option,
-    the callback function takes no argument. 
-    However, 
-    when you bind a call back function using the method `widget_obj.bind`,
-    the callback function takes an `Event` object as argument.
+   ```
+    :::python
+    label = tk.Label(root, bd=1)
+   ```
 
-3. To make a label visible no matter there are text/image in it or not,
-    you can set a border to it.
+   You can ke it even more visible by giving a sunken effect.
 
-        :::python
-        label = tk.Label(root, bd=1)
+   ```
+    :::python
+    label = tk.Label(root, bd=1, relief=tk.SUNKEN)
+   ```
 
-    You can ke it even more visible by giving a sunken effect.
+1. A Frame object has its own grid.
+   This makes frames and grid the best combinations to manage the layout of your GUI application.
+   You can use frames to group components.
+   Inside each frame,
+   use grid to control the layout of widgets.
 
-        :::python
-        label = tk.Label(root, bd=1, relief=tk.SUNKEN)
+1. It seems to me that you must keep a reference to a PhotoImage object
+   in order to use it for a label.
+   A temporary PhotoImage object does not work.
+   The image object can then be used wherever an image option is supported by some widget (e.g. labels, buttons, menus). In these cases, Tk will not keep a reference to the image. When the last Python reference to the image object is deleted, the image data is deleted as well, and Tk will display an empty box wherever the image was used.
 
-4. A Frame object has its own grid.
-    This makes frames and grid the best combinations to manage the layout of your GUI application.
-    You can use frames to group components.
-    Inside each frame, 
-    use grid to control the layout of widgets. 
-
-5. It seems to me that you must keep a reference to a PhotoImage object
-    in order to use it for a label. 
-    A temporary PhotoImage object does not work.
-    The image object can then be used wherever an image option is supported by some widget (e.g. labels, buttons, menus). In these cases, Tk will not keep a reference to the image. When the last Python reference to the image object is deleted, the image data is deleted as well, and Tk will display an empty box wherever the image was used.
-
-6. There are 2 kinds of PhotoImage objects that you can use with Tkinter.
-    The first is `Tkinter.PhotoImage` 
-    while the second is `PIL.ImageTk.PhotoImage`.
-    The latter is preferred as it is more flexible,
-    supports more data format,
-    and is easier to use.
-    `Tkinter.PhotoImage` supports only GIF pictures 
-    if you use the `file` option to load an image,
-    and it seems to me that it does not accept `PIL.Image`.
-
+1. There are 2 kinds of PhotoImage objects that you can use with Tkinter.
+   The first is `Tkinter.PhotoImage`
+   while the second is `PIL.ImageTk.PhotoImage`.
+   The latter is preferred as it is more flexible,
+   supports more data format,
+   and is easier to use.
+   `Tkinter.PhotoImage` supports only GIF pictures
+   if you use the `file` option to load an image,
+   and it seems to me that it does not accept `PIL.Image`.
 
 ### Size of Widgets
 
@@ -132,12 +145,14 @@ https://stackoverflow.com/questions/17398926/how-to-set-a-widgets-size-in-tkinte
 
 Set minimum size of rows and columns of the grid.
 
-    :::python
-    col_count, row_count = root.grid_size()
-    for col in xrange(col_count):
-        root.grid_columnconfigure(col, minsize=20)
-    for row in xrange(row_count):
-        root.grid_rowconfigure(row, minsize=20)
+```
+:::python
+col_count, row_count = root.grid_size()
+for col in xrange(col_count):
+    root.grid_columnconfigure(col, minsize=20)
+for row in xrange(row_count):
+    root.grid_rowconfigure(row, minsize=20)
+```
 
 https://stackoverflow.com/questions/28019402/tkinter-grid-spacing-options
 
@@ -147,8 +162,10 @@ https://effbot.org/tkinterbook/tkinter-events-and-bindings.htm
 
 Keyboard events are sent to the focused widget.
 
-    :::python
-    widget.bind("<Key>", callback_func)
+```
+:::python
+widget.bind("<Key>", callback_func)
+```
 
 ## Tutorials
 

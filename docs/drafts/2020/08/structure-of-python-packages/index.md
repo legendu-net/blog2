@@ -1,13 +1,13 @@
 ---
-title: "Structure of Python Packages"
+title: Structure of Python Packages
 created: 2020-08-17 22:31:41
-date: 2020-08-17 22:31:41
+date: 2026-04-13 23:15:16.761741
 authors:
   - bendu
 label: structure-of-python-packages
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Python
   - library
   - package

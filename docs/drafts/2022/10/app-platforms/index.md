@@ -1,13 +1,13 @@
 ---
-title: "App Platforms"
+title: App Platforms
 created: 2022-10-08 14:30:32
-date: 2023-11-10 00:18:34
+date: 2026-04-13 23:14:41.398110
 authors:
   - bendu
 label: app-platforms
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - app
   - application
@@ -25,6 +25,7 @@ Firebase is an app development platform that helps you build and grow apps and g
 - cloud firestore
 
 ## [AWS Amplify](https://aws.amazon.com/amplify/)
+
 Build full-stack web and mobile apps in hours. Easy to start, easy to scale.
 
 - dynamodb
@@ -46,7 +47,7 @@ Build full-stack web and mobile apps in hours. Easy to start, easy to scale.
 - MariaDB
 - no GraphQL
 
-## [Shuttle]( https://www.legendu.net/misc/blog/tips-on-shuttle-for-deploying-rust-apps ) 
+## [Shuttle](https://www.legendu.net/misc/blog/tips-on-shuttle-for-deploying-rust-apps)
 
 ## References
 

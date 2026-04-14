@@ -1,13 +1,13 @@
 ---
-title: "Tips on Frontend Development"
+title: Tips on Frontend Development
 created: 2020-10-26 13:10:46
-date: 2023-01-11 11:54:25
+date: 2026-04-13 23:15:13.298283
 authors:
   - bendu
 label: tips-on-frontend-development
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - web
   - programming
   - frontend
@@ -26,19 +26,23 @@ has a good discussion about the state and trend of frontend technologies as of 2
 ## Useful Tools for Web Development
 
 1. [Rome](https://github.com/rome/tools)
-    provides unified developer tools for JavaScript, TypeScript, and the web.
-    It is designed to replace Babel, ESLint, webpack, Pretier, Jest and others.
-2. [turbo](https://github.com/vercel/turbo)
-    is an incremental bundler and build system 
-    optimized for JavaScript and TypeScript, 
-    written in Rust – including Turbopack and Turborepo.
-3. [swc](https://github.com/swc-project/swc)
-    (stands for Speedy Web Compiler) is a super-fast TypeScript / JavaScript compiler written in Rust. 
-    It's a library for Rust and JavaScript at the same time. 
+   provides unified developer tools for JavaScript, TypeScript, and the web.
+   It is designed to replace Babel, ESLint, webpack, Pretier, Jest and others.
 
-2. Eslint
-3. Prettier
-4. Webpack
+1. [turbo](https://github.com/vercel/turbo)
+   is an incremental bundler and build system
+   optimized for JavaScript and TypeScript,
+   written in Rust – including Turbopack and Turborepo.
+
+1. [swc](https://github.com/swc-project/swc)
+   (stands for Speedy Web Compiler) is a super-fast TypeScript / JavaScript compiler written in Rust.
+   It's a library for Rust and JavaScript at the same time.
+
+1. Eslint
+
+1. Prettier
+
+1. Webpack
 
 ## Misc
 
@@ -74,8 +78,9 @@ is a declarative, efficient, and flexible JavaScript library for building user i
 It is the most popular frontend framework currently.
 
 ### [Next](https://github.com/vercel/next.js/)
+
 [Next](https://github.com/vercel/next.js/)
-is frontend Framework (based on React) 
+is frontend Framework (based on React)
 to create a React application that supports universal rendering.
 
 ### [Vue](https://github.com/vuejs/vue)
@@ -84,6 +89,7 @@ to create a React application that supports universal rendering.
 is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
 ### [Nuxt](https://github.com/nuxt/nuxt.js)
+
 [Nuxt](https://github.com/nuxt/nuxt.js)
 is an intuitive Vue Framework,
 which makes web development simple and powerful.
@@ -91,7 +97,6 @@ which makes web development simple and powerful.
 ## CSS
 
 [Font Awesome](https://fontawesome.com/)
-
 
 [CSS Zen Garden](http://www.csszengarden.com/)
 A demonstration of what can be accomplished through CSS-based design. Select any style sheet from the list to load it into this page.
@@ -104,8 +109,7 @@ Bootstrap
 
 https://thrive.design/the-6-best-css-frameworks-for-2020/
 
-
-## New Technologies & Trends 
+## New Technologies & Trends
 
 - WebAssembly (WASM)
 
@@ -114,4 +118,3 @@ https://thrive.design/the-6-best-css-frameworks-for-2020/
 ## References
 
 - [Single-Page Applications vs Multi-Page Applications: The Battle of the Web Apps](https://themindstudios.com/blog/spa-vs-mpa/)
-

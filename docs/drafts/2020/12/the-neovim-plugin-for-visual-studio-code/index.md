@@ -1,13 +1,13 @@
 ---
-title: "The NeoVim Plugin for Visual Studio Code"
+title: The NeoVim Plugin for Visual Studio Code
 created: 2020-12-10 23:23:59
-date: 2022-09-26 10:52:47
+date: 2026-04-13 23:15:09.718686
 authors:
   - bendu
 label: the-neovim-plugin-for-visual-studio-code
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Software
   - NeoVim
   - IDE
@@ -21,47 +21,51 @@ tags:
 
 https://github.com/asvetliakov/vscode-neovim
 
-## Installation 
+## Installation
 
 1. Install NeoVim 0.5+ using [icon](https://github.com/legendu-net/icon).
 
-        :::bash
-        icon nvim -ic --ppa
+   ```
+    :::bash
+    icon nvim -ic --ppa
+   ```
 
-2. Install the NeoVim plugin from the extension market in VSCode or Code Server.
+1. Install the NeoVim plugin from the extension market in VSCode or Code Server.
 
-3. Set the path of NeoVim via the extension settings.
-    You can also do this by editing the settings file directly.
+1. Set the path of NeoVim via the extension settings.
+   You can also do this by editing the settings file directly.
 
-        :::json
-        {
-            "terminal.integrated.commandsToSkipShell": [
-                "-workbench.action.quickOpen"
-            ],
-            "editor.fontSize": 12,
-            "editor.detectIndentation": false,
-            "editor.suggestSelection": "first",
-            "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-            "autoDocstring.docstringFormat": "sphinx",
-            "keyboard.dispatch": "keyCode",
-            "workbench.startupEditor": "newUntitledFile",
-            "python.linting.mypyEnabled": false,
-            "python.linting.pylintArgs": [
-                "--extension-pkg-whitelist=numpy,cv2,pyspark",
-                "--generated-members=cv2.*,pyspark.*",
-                "--ignored-modules=pyspark.sql.functions"
-            ],
-            "extensions.autoUpdate": false,
-            "workbench.colorTheme": "Default Dark+",
-            "python.formatting.provider": "yapf",
-            "vscode-neovim.neovimPath": "/usr/bin/nvim"
-        }
+   ```
+    :::json
+    {
+        "terminal.integrated.commandsToSkipShell": [
+            "-workbench.action.quickOpen"
+        ],
+        "editor.fontSize": 12,
+        "editor.detectIndentation": false,
+        "editor.suggestSelection": "first",
+        "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+        "autoDocstring.docstringFormat": "sphinx",
+        "keyboard.dispatch": "keyCode",
+        "workbench.startupEditor": "newUntitledFile",
+        "python.linting.mypyEnabled": false,
+        "python.linting.pylintArgs": [
+            "--extension-pkg-whitelist=numpy,cv2,pyspark",
+            "--generated-members=cv2.*,pyspark.*",
+            "--ignored-modules=pyspark.sql.functions"
+        ],
+        "extensions.autoUpdate": false,
+        "workbench.colorTheme": "Default Dark+",
+        "python.formatting.provider": "yapf",
+        "vscode-neovim.neovimPath": "/usr/bin/nvim"
+    }
+   ```
 
-## Tips 
+## Tips
 
-1. There are various issues with the plugin current. 
-    It is suggested that you avoid using this plugin but use the Vim plugin instead.
+1. There are various issues with the plugin current.
+   It is suggested that you avoid using this plugin but use the Vim plugin instead.
 
-2. SpaceVim configuration works with this plugin. 
-    Once you have the VSCode NeoVim plugin installed,
-    you can install SpaceVim and you are ready to go.
+1. SpaceVim configuration works with this plugin.
+   Once you have the VSCode NeoVim plugin installed,
+   you can install SpaceVim and you are ready to go.

@@ -1,13 +1,13 @@
 ---
-title: "Magnitude of Numbers"
+title: Magnitude of Numbers
 created: 2023-05-11 18:30:35
-date: 2023-05-11 18:30:35
+date: 2026-04-13 23:14:30.765941
 authors:
   - bendu
 label: magnitude-of-numbers
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - number
   - magnitude
@@ -23,6 +23,7 @@ tags:
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
+
 <table class="tg">
 <thead>
   <tr>

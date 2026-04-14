@@ -1,13 +1,13 @@
 ---
-title: "Python for WeChat"
+title: Python for WeChat
 created: 2021-09-22 14:50:25
-date: 2021-09-22 14:50:25
+date: 2026-04-13 23:14:57.385592
 authors:
   - bendu
 label: python-for-wechat
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - WeChat
   - Python

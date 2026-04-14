@@ -1,13 +1,13 @@
 ---
-title: "Tips on Toolbx"
+title: Tips on Toolbx
 created: 2025-12-14 16:59:01
-date: 2025-12-22 18:38:50
+date: 2026-04-13 23:14:16.302185
 authors:
   - bendu
 label: tips-on-toolbx
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - toolbx
   - toolbox
@@ -23,31 +23,31 @@ I personally devoted effort on
 [Docker images](https://www.legendu.net/en/blog/my-docker-images/)
 which makes it easy to develop in Docker containers.
 
-- Create a user with same uid/gid as the user on the host on the fly 
-    so that permissions are handled seamlessly.
+- Create a user with same uid/gid as the user on the host on the fly
+  so that permissions are handled seamlessly.
 - Lots of useful tools are pre-installed and configured.
 
 Toolbx / DistroBox share similarities with my effort on Docker images.
-Of course, 
+Of course,
 Toolbx / DistroBox are superior in many ways.
 
 - Toolbx / DistroBox are NOT based on Docker but rather podman (which is more secure).
 - Toolbx / DistroBox have seamless integraito with the host.
-    Tools installed in Toolbx / DistroBox feel native.
+  Tools installed in Toolbx / DistroBox feel native.
 
-However, 
+However,
 my Docker images does have some advantages as well.
 
 - Lots of useful tools are pre-installed and configured.
-- Can create more users after launching the Docker container 
-    and thus allow multiple users to collaborated in the same Docker container.
+- Can create more users after launching the Docker container
+  and thus allow multiple users to collaborated in the same Docker container.
 - Have a built-in command-line tool
-    [icon](https://github.com/legendu-net/icon)
-    which makes it easy to install and configure tools (especially in Docker containers)
-    .
-    Of course,
-    icon can be used with Toolbx / DistroBox as well.
-  
+  [icon](https://github.com/legendu-net/icon)
+  which makes it easy to install and configure tools (especially in Docker containers)
+  .
+  Of course,
+  icon can be used with Toolbx / DistroBox as well.
+
 ## Toolbox
 
 https://github.com/containers/toolbox

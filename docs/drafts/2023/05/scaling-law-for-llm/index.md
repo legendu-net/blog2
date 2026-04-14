@@ -1,13 +1,13 @@
 ---
-title: "Scaling Law for LLM"
+title: Scaling Law for LLM
 created: 2023-05-10 14:06:11
-date: 2023-12-12 23:13:30
+date: 2026-04-13 23:14:30.985799
 authors:
   - bendu
 label: scaling-law-for-llm
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - AI
   - data science
   - machine learning
@@ -21,7 +21,6 @@ tags:
 
 [Beyond neural scaling laws – Paper Explained](https://www.youtube.com/watch?v=joZaCw5PxYs)
 
-
 Scaling Laws refer to the observed trend of some machine learning architectures (notably transformers) to scale their performance on predictable power law when given more compute, data, or parameters (model size), assuming they are not bottlenecked on one of the other resources. This has been observed as highly consistent over more than six orders of magnitude.
 
 Scaling Laws Literature Review
@@ -34,7 +33,7 @@ https://docs.google.com/spreadsheets/d/1XHU0uyCojH6daSWEq9d1SHnlrQVW7li8iqBMasaw
 
 - pruning
 
-- scaling 
+- scaling
 
 [Beyond neural scaling laws – Paper Explained](https://www.youtube.com/watch?v=joZaCw5PxYs)
 
@@ -49,5 +48,3 @@ https://docs.google.com/spreadsheets/d/1XHU0uyCojH6daSWEq9d1SHnlrQVW7li8iqBMasaw
 - [Beyond neural scaling laws: beating power law scaling via data pruning](https://arxiv.org/abs/2206.14486)
 
 - [WHY AND HOW OF SCALING LARGE LANGUAGE MODELS | NICHOLAS JOSEPH](https://www.youtube.com/watch?v=qscouq3lo0s)
-
-

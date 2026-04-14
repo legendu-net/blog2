@@ -1,13 +1,13 @@
 ---
-title: "Generating Completions Script Using crazy-complete"
+title: Generating Completions Script Using crazy-complete
 created: 2025-11-16 16:02:18
-date: 2025-11-18 03:23:46
+date: 2026-04-13 23:14:18.551236
 authors:
   - bendu
 label: generating-completions-script-using-crazy-complete
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - shell
   - bash
@@ -36,4 +36,3 @@ for a real example.
 ## References
 
 - [crazy-complete @ GitHub](https://github.com/crazy-complete/crazy-complete)
-

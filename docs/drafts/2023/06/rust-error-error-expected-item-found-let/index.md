@@ -1,13 +1,13 @@
 ---
 title: "Rust Error \"error: expected item, found 'let'\""
 created: 2023-06-17 11:36:33
-date: 2026-04-11 22:10:44.800727
+date: 2026-04-13 23:14:29.876863
 authors:
   - bendu
 label: rust-error-error-expected-item-found-let
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - error

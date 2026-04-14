@@ -1,13 +1,13 @@
 ---
-title: "Tips on visualize-sqlite"
+title: Tips on visualize-sqlite
 created: 2023-03-05 21:24:58
-date: 2023-03-05 23:11:15
+date: 2026-04-13 23:14:32.511384
 authors:
   - bendu
 label: tips-on-visualize-sqlite
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - programming
   - Rust
   - visualize
@@ -18,17 +18,19 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 [visualize-sqlite](https://github.com/UhhhWaitWhat/visualize-sqlite)
-is a Rust crate for creating simple visualizations 
+is a Rust crate for creating simple visualizations
 of SQLite databases in GraphViz dot format.
 
 ## Installation
 
-    sudo apt install libsqlite3-dev graphviz
-    cargo install visualize-sqlite
+```
+sudo apt install libsqlite3-dev graphviz
+cargo install visualize-sqlite
+```
 
 ## Usage
 
-    visualize-sqlite your_sqlite_database.db | dot -Tpng -Gfontname='Fira Mono' -Gfontcolor='#586e75' -Gbgcolor='#fdf6e3' -Nfontname='Fira Mono' -Nfontcolor='#586e75' -Efontname='Fira Mono' > output.png
-
+```
+visualize-sqlite your_sqlite_database.db | dot -Tpng -Gfontname='Fira Mono' -Gfontcolor='#586e75' -Gbgcolor='#fdf6e3' -Nfontname='Fira Mono' -Nfontcolor='#586e75' -Efontname='Fira Mono' > output.png
+```

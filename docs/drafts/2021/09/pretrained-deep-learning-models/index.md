@@ -1,13 +1,13 @@
 ---
-title: "Pretrained Deep Learning Models"
+title: Pretrained Deep Learning Models
 created: 2021-09-16 13:22:20
-date: 2021-09-16 13:22:20
+date: 2026-04-13 23:14:57.237907
 authors:
   - bendu
 label: pretrained-deep-learning-models
 license: CC-BY-4.0
 tags:
-  - Computer Science
+  - computer science
   - Deep Learning
   - AI
   - machine learning
@@ -18,5 +18,4 @@ tags:
 
 1. [torchvision pretrained models](https://pytorch.org/vision/stable/models.html)
 
-2. [Model Zoo](https://modelzoo.co/)
-
+1. [Model Zoo](https://modelzoo.co/)

@@ -1,42 +1,48 @@
 ---
 title: 'Spark Issue: RuntimeException: Unsupported Literal Type Class'
 created: 2022-01-15 14:36:45
-date: 2026-04-05 19:42:37.375347
+date: 2026-04-13 23:14:13.550587
 authors:
-- bendu
+  - bendu
 label: spark-issue-runtimeexception-unsupported-literal-type-class
 license: CC-BY-4.0
 tags:
-- Computer Science
-- programming
-- Spark
-- issue
-- Spark issue
-- big data
-- RuntimeException
-- type
-- unsupported
+  - computer science
+  - programming
+  - Spark
+  - issue
+  - Spark issue
+  - big data
+  - RuntimeException
+  - type
+  - unsupported
 ---
-## Symptom 
+
+## Symptom
 
 > java.lang.RuntimeException: Unsupported literal type class java.util.ArrayList [1]
 
 ## Possible Causes
 
-This happens in PySpark 
+This happens in PySpark
 when a Python list is provide where a scalar is required.
 Assuming `id0` is an integer column in the DataFrame `df`,
 the following code throws the above error.
 
+```
+:::python
+v = [1, 2, 3]
+df.filter(col("id0") == v)
+```
+
+## Possible Solutions
+
+1. Use a scalar value for `v` in the above code example.
+
+1. Use `isin` to check whether the value of `id0` is in the list `v`.
+
+   ```
     :::python
     v = [1, 2, 3]
-    df.filter(col("id0") == v)
-
-## Possible Solutions 
-
-1. Use a scalar value for `v` in the above code example. 
-2. Use `isin` to check whether the value of `id0` is in the list `v`. 
-    
-        :::python
-        v = [1, 2, 3]
-        df.filter(col("id0").isin(v))
+    df.filter(col("id0").isin(v))
+   ```
