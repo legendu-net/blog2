@@ -781,7 +781,7 @@ class Blogger:
             )
             for k,n in keys:
                 fout.write(f"## {' | '.join(ids[k])}\n")
-                fout.write("```{dropdown} " + f"Click to expand {n} links\n")
+                fout.write("```{dropdown} " + f"Click to expand/collapse {n} links\n")
                 for t in ids[k]:
                     for link in tags[t]:
                         fout.write(f"- {link}\n")

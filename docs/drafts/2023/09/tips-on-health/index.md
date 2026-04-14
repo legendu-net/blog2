@@ -18,6 +18,14 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+## Eye Drops
+
+- [Pataday](https://github.com/user-attachments/assets/7667ec30-677e-45d4-9d76-aad381de584a)
+
+## Arthritis Pain Reliever
+
+- [Voltaren](https://github.com/user-attachments/assets/a2f5342b-de3d-4760-95ba-ec6823d5fb1d)
+
 ## Immunization Records
 
 [Immunization Inforamtion System](https://app.myirmobile.com/auth/sign-in?state=WA)

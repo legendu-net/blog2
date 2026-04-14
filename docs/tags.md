@@ -5,7 +5,7 @@ site:
 ---
 
 ## programming | Programming
-```{dropdown} Click to expand 1028 links
+```{dropdown} Click to expand/collapse 1029 links
 - [Popen - Advanced Usage of subprocess](popen-advanced-usage-of-subprocess)
 - [Rust Error "error: expected item, found 'let'"](rust-error-error-expected-item-found-let)
 - [Automated Verizon Phone Bill (Continued)](automated-verizon-phone-bill-continued)
@@ -351,6 +351,7 @@ site:
 - [Constraints on Types in Rust](constraints-on-types-in-rust)
 - [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
 - [AI-first Programming Languages](ai-first-programming-languages)
+- [Tips on Google Firebase Studio](tips-on-google-firebase-studio)
 - [mkShell vs buildFHSUserEnv in Nix](mkshell-vs-buildfhsuserenv-in-nix)
 - [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
 - [Extracting PDF Pages Using the Python Package PyPDF](extracting-pdf-pages-using-the-python-package-pypdf)
@@ -435,8 +436,8 @@ site:
 - [Git Implementations and Bindings in Python](git-implementations-and-bindings-in-python)
 - [Tips on AstroNvim](tips-on-astronvim)
 - [Multi-Interpreter Computing in Python](multi-interpreter-computing-in-python)
-- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
 - [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
+- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 - [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
 - [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
@@ -560,8 +561,8 @@ site:
 - [Tips on Rust Clippy](tips-on-rust-clippy)
 - [Cell and RefCell in Rust](cell-and-refcell-in-rust)
 - [Amazon AWS EC2 Instances](amazon-aws-ec2-instances)
-- [Tips on ZetaSQL](tips-on-zetasql)
 - [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
+- [Tips on ZetaSQL](tips-on-zetasql)
 - [Const Generic in Rust](const-generic-in-rust)
 - [Embeddable Scriting Language](embeddable-scriting-language)
 - [Tips on rustc](tips-on-rustc)
@@ -636,10 +637,10 @@ site:
 - [Format Python Code Using Black](format-python-code-using-black)
 - [Read CSV Using Polars in Python](read-csv-using-polars-in-python)
 - [Implement a Singleton in Rust](implement-a-singleton-in-rust)
-- [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
-- [Polars Series in Rust](polars-series-in-rust)
-- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
 - [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
+- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
+- [Polars Series in Rust](polars-series-in-rust)
+- [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
 - [Read and Write Parquet Files in Rust](read-and-write-parquet-files-in-rust)
 - [Data Frame Implementations in Rust](data-frame-implementations-in-rust)
 - [Construct Polars DataFrames in Rust](construct-polars-dataframes-in-rust)
@@ -813,8 +814,8 @@ site:
 - [Tips on Pillow](tips-on-pillow)
 - [Hands on pathlib.Path](hands-on-pathlib.path)
 - [Understand Execuation of SQL Statements](understand-execuation-of-sql-statements)
-- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
 - [The Checkbutton Widget in Tkinter](the-checkbutton-widget-in-tkinter)
+- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
 - [Tips on Public Speech](tips-on-public-speech)
 - [Encoding and Decoding Base64 String in Python](encoding-and-decoding-base64-string-in-python)
 - [VirtualBox API](virtualbox-api)
@@ -871,9 +872,9 @@ site:
 - [Date and Time in Java and Scala](date-and-time-in-java-and-scala)
 - [Spark Issue: Task Not Serializable](spark-issue-task-not-serializable)
 - [Tips on Selenium](tips-on-selenium)
-- [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
-- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
 - [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
+- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
+- [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
 - [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
 - [Hands on the Python Library DeepDiff](hands-on-the-python-library-deepdiff)
 - [Replace Single Quotes With Double Quotes in Python Code](replace-single-quotes-with-double-quotes-in-python-code)
@@ -967,8 +968,8 @@ site:
 - [Use SnakeYaml in Scala](use-snakeyaml-in-scala)
 - [Hands on scala.math](hands-on-scala.math)
 - [Unpacking Assignment in Python](unpacking-assignment-in-python)
-- [Equality by Reference and Value in Python](equality-by-reference-and-value-in-python)
 - [Hands on Full-text Search in SQLite3](hands-on-full-text-search-in-sqlite3)
+- [Equality by Reference and Value in Python](equality-by-reference-and-value-in-python)
 - [Disable Jedi in IPython](disable-jedi-in-ipython)
 - [Print Colored Text in Terminal](print-colored-text-in-terminal)
 - [Runtime Paths in Python](runtime-paths-in-python)
@@ -1037,7 +1038,7 @@ site:
 ```
 
 ## Computer Science | computer science
-```{dropdown} Click to expand 753 links
+```{dropdown} Click to expand/collapse 754 links
 - [Shodan - Search Engine for IoT](shodan-search-engine-for-iot)
 - [Rust Error "error: expected item, found 'let'"](rust-error-error-expected-item-found-let)
 - [Equivalent of C++'s std::set_difference in Rust](equivalent-of-c++-s-std-set_difference-in-rust)
@@ -1146,6 +1147,7 @@ site:
 - [Constraints on Types in Rust](constraints-on-types-in-rust)
 - [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
 - [AI-first Programming Languages](ai-first-programming-languages)
+- [Tips on Google Firebase Studio](tips-on-google-firebase-studio)
 - [Nix and NixOS](nix-and-nixos)
 - [mkShell vs buildFHSUserEnv in Nix](mkshell-vs-buildfhsuserenv-in-nix)
 - [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
@@ -1186,8 +1188,8 @@ site:
 - [Tips on AstroNvim](tips-on-astronvim)
 - [User Printers and Scanners on Linux](user-printers-and-scanners-on-linux)
 - [Multi-Interpreter Computing in Python](multi-interpreter-computing-in-python)
-- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
 - [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
+- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
 - [Package Management for Debian and Ubuntu](package-management-for-debian-and-ubuntu)
 - [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
 - [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
@@ -1321,8 +1323,8 @@ site:
 - [Tips on Rust Clippy](tips-on-rust-clippy)
 - [Cell and RefCell in Rust](cell-and-refcell-in-rust)
 - [Amazon AWS EC2 Instances](amazon-aws-ec2-instances)
-- [Tips on ZetaSQL](tips-on-zetasql)
 - [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
+- [Tips on ZetaSQL](tips-on-zetasql)
 - [Const Generic in Rust](const-generic-in-rust)
 - [Embeddable Scriting Language](embeddable-scriting-language)
 - [Tips on rustc](tips-on-rustc)
@@ -1398,10 +1400,10 @@ site:
 - [Format Python Code Using Black](format-python-code-using-black)
 - [Read CSV Using Polars in Python](read-csv-using-polars-in-python)
 - [Implement a Singleton in Rust](implement-a-singleton-in-rust)
-- [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
-- [Polars Series in Rust](polars-series-in-rust)
-- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
 - [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
+- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
+- [Polars Series in Rust](polars-series-in-rust)
+- [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
 - [Read and Write Parquet Files in Rust](read-and-write-parquet-files-in-rust)
 - [Data Frame Implementations in Rust](data-frame-implementations-in-rust)
 - [Construct Polars DataFrames in Rust](construct-polars-dataframes-in-rust)
@@ -1549,8 +1551,8 @@ site:
 - [Tips on Rustfmt](tips-on-rustfmt)
 - [Rust and Spark](rust-and-spark)
 - [Yarn for Spark](yarn-for-spark)
-- [Tips on TinyProxy](tips-on-tinyproxy)
 - [Surf Web Anonymously](surf-web-anonymously)
+- [Tips on TinyProxy](tips-on-tinyproxy)
 - [Anonymouse Internet Surfing Using Tor](anonymouse-internet-surfing-using-tor)
 - [Terminal Multiplexers](terminal-multiplexers)
 - [Zellij Is the Best Terminal Multiplexer](zellij-is-the-best-terminal-multiplexer)
@@ -1601,9 +1603,9 @@ site:
 - [Debugging and Testing Tools for Windows](debugging-and-testing-tools-for-windows)
 - [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
 - [Tips on Windows Terminal](tips-on-windows-terminal)
-- [Use Tkinter to Build GUI Applications in Python](use-tkinter-to-build-gui-applications-in-python)
-- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
 - [The Checkbutton Widget in Tkinter](the-checkbutton-widget-in-tkinter)
+- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
+- [Use Tkinter to Build GUI Applications in Python](use-tkinter-to-build-gui-applications-in-python)
 - [Tips on Public Speech](tips-on-public-speech)
 - [Incognito Mode for Browsers](incognito-mode-for-browsers)
 - [Format a Flash Drive in a Linux Virtual Machine](format-a-flash-drive-in-a-linux-virtual-machine)
@@ -1794,7 +1796,7 @@ site:
 ```
 
 ## Python | python
-```{dropdown} Click to expand 355 links
+```{dropdown} Click to expand/collapse 355 links
 - [Format Markdown Using mdformat Python APIs](format-markdown-using-mdformat-python-apis)
 - [Popen - Advanced Usage of subprocess](popen-advanced-usage-of-subprocess)
 - [Get User's Information in Python](get-user-s-information-in-python)
@@ -2038,9 +2040,9 @@ site:
 - [Image Filters in OpenCV](image-filters-in-opencv)
 - [Python Tools for Linux Admins](python-tools-for-linux-admins)
 - [Hands on pathlib.Path](hands-on-pathlib.path)
-- [Use Tkinter to Build GUI Applications in Python](use-tkinter-to-build-gui-applications-in-python)
-- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
 - [The Checkbutton Widget in Tkinter](the-checkbutton-widget-in-tkinter)
+- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
+- [Use Tkinter to Build GUI Applications in Python](use-tkinter-to-build-gui-applications-in-python)
 - [Encoding and Decoding Base64 String in Python](encoding-and-decoding-base64-string-in-python)
 - [Tools for Audio Analysis](tools-for-audio-analysis)
 - [Packaging Python Dependencies for PySpark Using Pex](packaging-python-dependencies-for-pyspark-using-pex)
@@ -2091,8 +2093,8 @@ site:
 - [Tips on RustPython](tips-on-rustpython)
 - [Python in Browser](python-in-browser)
 - [Hands on the hashlib Module in Python](hands-on-the-hashlib-module-in-python)
-- [Java Interfaces for Python](java-interfaces-for-python)
 - [Call Java Using PyJNIus from Python](call-java-using-pyjnius-from-python)
+- [Java Interfaces for Python](java-interfaces-for-python)
 - [Tips on mkdocs](tips-on-mkdocs)
 - [Hands on the Zoneinfo Module in Python](hands-on-the-zoneinfo-module-in-python)
 - [Hands on the Graphlib Module in Python](hands-on-the-graphlib-module-in-python)
@@ -2153,7 +2155,7 @@ site:
 ```
 
 ## software | Software
-```{dropdown} Click to expand 200 links
+```{dropdown} Click to expand/collapse 200 links
 - [Backup Files Using "rsnapshot"](backup-files-using-rsnapshot)
 - [TeXstudio, Bravo!](texstudio-bravo)
 - [Creative Use of Keepassx -- Odd Skills?](creative-use-of-keepassx-odd-skills)
@@ -2294,9 +2296,9 @@ site:
 - [Speedup Docker Pulling and Pushing](speedup-docker-pulling-and-pushing)
 - [Save Docker Image in Another Location](save-docker-image-in-another-location)
 - [IntelliJ IDEA Tips](intellij-idea-tips)
-- [Docker Images for Zeppelin](docker-images-for-zeppelin)
-- [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
 - [Docker Images for Database](docker-images-for-database)
+- [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
+- [Docker Images for Zeppelin](docker-images-for-zeppelin)
 - [Use Git Behind a Proxy](use-git-behind-a-proxy)
 - [Fail to Install Packages into Python Virtual Environment in PyCharm on Windows](fail-to-install-packages-into-python-virtual-environment-in-pycharm-on-windows)
 - [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
@@ -2339,8 +2341,8 @@ site:
 - [Visual Studio Code Server](visual-studio-code-server)
 - [The Absolutely Best App for Taking Notes](the-absolutely-best-app-for-taking-notes)
 - [Tips on Git Submodule](tips-on-git-submodule)
-- [Tips on OpenFaaS](tips-on-openfaas)
 - [Tips on Microk8S](tips-on-microk8s)
+- [Tips on OpenFaaS](tips-on-openfaas)
 - [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
 - [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
 - [Network in Docker Containers](network-in-docker-containers)
@@ -2357,7 +2359,7 @@ site:
 ```
 
 ## Rust
-```{dropdown} Click to expand 189 links
+```{dropdown} Click to expand/collapse 189 links
 - [Rust Error "error: expected item, found 'let'"](rust-error-error-expected-item-found-let)
 - [Equivalent of C++'s std::set_difference in Rust](equivalent-of-c++-s-std-set_difference-in-rust)
 - [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
@@ -2480,10 +2482,10 @@ site:
 - [Useful Rust Crates for Bit Manipulations](useful-rust-crates-for-bit-manipulations)
 - [Memory Layout in Rust](memory-layout-in-rust)
 - [Implement a Singleton in Rust](implement-a-singleton-in-rust)
-- [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
-- [Polars Series in Rust](polars-series-in-rust)
-- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
 - [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
+- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
+- [Polars Series in Rust](polars-series-in-rust)
+- [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
 - [Read and Write Parquet Files in Rust](read-and-write-parquet-files-in-rust)
 - [Data Frame Implementations in Rust](data-frame-implementations-in-rust)
 - [Construct Polars DataFrames in Rust](construct-polars-dataframes-in-rust)
@@ -2550,7 +2552,7 @@ site:
 ```
 
 ## Linux | linux
-```{dropdown} Click to expand 140 links
+```{dropdown} Click to expand/collapse 140 links
 - [Watching Filesystem Changes Using "inotify"](watching-filesystem-changes-using-inotify)
 - [Creative Use of Keepassx -- Odd Skills?](creative-use-of-keepassx-odd-skills)
 - [Configure Fcitx5 for KDE Plasma](configure-fcitx5-for-kde-plasma)
@@ -2694,7 +2696,7 @@ site:
 ```
 
 ## AI | Ai
-```{dropdown} Click to expand 127 links
+```{dropdown} Click to expand/collapse 127 links
 - [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 - [Tips on Gemini](tips-on-gemini)
@@ -2746,8 +2748,8 @@ site:
 - [Tips on FeatureTools](tips-on-featuretools)
 - [Preparing Data for AI](preparing-data-for-ai)
 - [Entropy](entropy)
-- [Tips on LightGBM](tips-on-lightgbm)
 - [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
+- [Tips on LightGBM](tips-on-lightgbm)
 - [Handle Categorical Variables in LightGBM](handle-categorical-variables-in-lightgbm)
 - [Fake Face Using AI](fake-face-using-ai)
 - [Compute Vision Tasks](compute-vision-tasks)
@@ -2759,9 +2761,9 @@ site:
 - [Common Issues in PyTorch](common-issues-in-pytorch)
 - [Pretrained Deep Learning Models](pretrained-deep-learning-models)
 - [Benchmark of Popular Deep Learning Models](benchmark-of-popular-deep-learning-models)
-- [Tips on TensorFlow](tips-on-tensorflow)
 - [LightGBM on GPU](lightgbm-on-gpu)
 - [Use PyTorch on GPU](use-pytorch-on-gpu)
+- [Tips on TensorFlow](tips-on-tensorflow)
 - [Tips on Torchvision](tips-on-torchvision)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
 - [Data for NLP Research](data-for-nlp-research)
@@ -2825,7 +2827,7 @@ site:
 ```
 
 ## tips | TIPS
-```{dropdown} Click to expand 125 links
+```{dropdown} Click to expand/collapse 125 links
 - [Watching Filesystem Changes Using "inotify"](watching-filesystem-changes-using-inotify)
 - [Use OculiX to Automate Anything](use-oculix-to-automate-anything)
 - [Baidu Yun Tips](baidu-yun-tips)
@@ -2954,7 +2956,7 @@ site:
 ```
 
 ## Spark
-```{dropdown} Click to expand 115 links
+```{dropdown} Click to expand/collapse 115 links
 - [Spark Issue: java.lang.OutOfMemoryError](spark-issue-java.lang.outofmemoryerror)
 - [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args[0]-from-__newobj__-args-has-the-wrong-class)
 - [Unit Testing for Spark](unit-testing-for-spark)
@@ -3050,9 +3052,9 @@ site:
 - [Spark Issue: Table Not Found](spark-issue-table-not-found)
 - [Spark Issue: Task Not Serializable](spark-issue-task-not-serializable)
 - [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
-- [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
-- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
 - [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
+- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
+- [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
 - [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
 - [Select All Columns Except a Few from a Table](select-all-columns-except-a-few-from-a-table)
 - [Get Size of Tables on HDFS](get-size-of-tables-on-hdfs)
@@ -3073,7 +3075,7 @@ site:
 ```
 
 ## data science | Data Science
-```{dropdown} Click to expand 112 links
+```{dropdown} Click to expand/collapse 112 links
 - [Difference Between torch.nn.Module and torch.nn.functional](difference-between-torch.nn.module-and-torch.nn.functional)
 - [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
 - [Split a Dataset into Train and Test Datasets in Python](split-a-dataset-into-train-and-test-datasets-in-python)
@@ -3109,8 +3111,8 @@ site:
 - [Preparing Data for AI](preparing-data-for-ai)
 - [Entropy](entropy)
 - [Rule-base Image Process](rule-base-image-process)
-- [Tips on LightGBM](tips-on-lightgbm)
 - [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
+- [Tips on LightGBM](tips-on-lightgbm)
 - [Handle Categorical Variables in LightGBM](handle-categorical-variables-in-lightgbm)
 - [Fake Face Using AI](fake-face-using-ai)
 - [Compute Vision Tasks](compute-vision-tasks)
@@ -3122,9 +3124,9 @@ site:
 - [Common Issues in PyTorch](common-issues-in-pytorch)
 - [Pretrained Deep Learning Models](pretrained-deep-learning-models)
 - [Benchmark of Popular Deep Learning Models](benchmark-of-popular-deep-learning-models)
-- [Tips on TensorFlow](tips-on-tensorflow)
 - [LightGBM on GPU](lightgbm-on-gpu)
 - [Use PyTorch on GPU](use-pytorch-on-gpu)
+- [Tips on TensorFlow](tips-on-tensorflow)
 - [Tips on Torchvision](tips-on-torchvision)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
 - [Data for NLP Research](data-for-nlp-research)
@@ -3189,7 +3191,7 @@ site:
 ```
 
 ## machine learning
-```{dropdown} Click to expand 112 links
+```{dropdown} Click to expand/collapse 112 links
 - [Difference Between torch.nn.Module and torch.nn.functional](difference-between-torch.nn.module-and-torch.nn.functional)
 - [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
 - [Split a Dataset into Train and Test Datasets in Python](split-a-dataset-into-train-and-test-datasets-in-python)
@@ -3229,8 +3231,8 @@ site:
 - [Preparing Data for AI](preparing-data-for-ai)
 - [Entropy](entropy)
 - [Rule-base Image Process](rule-base-image-process)
-- [Tips on LightGBM](tips-on-lightgbm)
 - [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
+- [Tips on LightGBM](tips-on-lightgbm)
 - [Handle Categorical Variables in LightGBM](handle-categorical-variables-in-lightgbm)
 - [Training Deep Neural Networks](training-deep-neural-networks)
 - [Data for Computer Vision Research](data-for-computer-vision-research)
@@ -3240,9 +3242,9 @@ site:
 - [Common Issues in PyTorch](common-issues-in-pytorch)
 - [Pretrained Deep Learning Models](pretrained-deep-learning-models)
 - [Benchmark of Popular Deep Learning Models](benchmark-of-popular-deep-learning-models)
-- [Tips on TensorFlow](tips-on-tensorflow)
 - [LightGBM on GPU](lightgbm-on-gpu)
 - [Use PyTorch on GPU](use-pytorch-on-gpu)
+- [Tips on TensorFlow](tips-on-tensorflow)
 - [Tips on Torchvision](tips-on-torchvision)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
 - [Data for NLP Research](data-for-nlp-research)
@@ -3304,8 +3306,38 @@ site:
 - [Regression Classification ANOVA](regression-classification-anova)
 ```
 
-## life | Life
-```{dropdown} Click to expand 93 links
+## Life | life
+```{dropdown} Click to expand/collapse 94 links
+- [Tax in US](tax-in-us)
+- [Living in Shanghai](living-in-shanghai)
+- [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
+- [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
+- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
+- [Tips on RV](tips-on-rv)
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Shopping Smartly](shopping-smartly)
+- [Maintain Garage Doors](maintain-garage-doors)
+- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
+- [Replace a Bathroom Fan](replace-a-bathroom-fan)
+- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
+- [Tips on Mount Rainer](tips-on-mount-rainer)
+- [Tips on Moss Control](tips-on-moss-control)
+- [Tips on Tesla Model Y](tips-on-tesla-model-y)
+- [Tips on Dishwasher](tips-on-dishwasher)
+- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
+- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
+- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
+- [Tips on Car Seat](tips-on-car-seat)
+- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
+- [Good Resources of News](good-resources-of-news)
+- [Tips on Job Seeking](tips-on-job-seeking)
+- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
+- [Understand Terms of Service Quickly](understand-terms-of-service-quickly)
+- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
+- [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
+- [Stop Spam Phone Calls](stop-spam-phone-calls)
+- [Building Permit](building-permit)
+- [Shopping on Costco](shopping-on-costco)
 - [中国的公共交通服务](public-transportation-china)
 - [Misc Tips in Daily Life](misc-tips-in-daily-life)
 - [Tips on Smart Phone](tips-on-smart-phone)
@@ -3370,39 +3402,10 @@ site:
 - [Shopping At Homedepot](shopping-at-homedepot)
 - [Shunfeng Deliver](shunfeng-deliver)
 - [Saitek Rumble Force P2500](saitek-rumble-force-p2500)
-- [Living in Shanghai](living-in-shanghai)
-- [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
-- [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
-- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
-- [Tips on RV](tips-on-rv)
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Shopping Smartly](shopping-smartly)
-- [Maintain Garage Doors](maintain-garage-doors)
-- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
-- [Replace a Bathroom Fan](replace-a-bathroom-fan)
-- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
-- [Tips on Mount Rainer](tips-on-mount-rainer)
-- [Tips on Moss Control](tips-on-moss-control)
-- [Tips on Tesla Model Y](tips-on-tesla-model-y)
-- [Tips on Dishwasher](tips-on-dishwasher)
-- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
-- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
-- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
-- [Tips on Car Seat](tips-on-car-seat)
-- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
-- [Good Resources of News](good-resources-of-news)
-- [Tips on Job Seeking](tips-on-job-seeking)
-- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
-- [Understand Terms of Service Quickly](understand-terms-of-service-quickly)
-- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
-- [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
-- [Stop Spam Phone Calls](stop-spam-phone-calls)
-- [Building Permit](building-permit)
-- [Shopping on Costco](shopping-on-costco)
 ```
 
 ## Java
-```{dropdown} Click to expand 80 links
+```{dropdown} Click to expand/collapse 80 links
 - [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
 - [Hands on the sqlite3-jdbc library in Scala](hands-on-the-sqlite3-jdbc-library-in-scala)
 - [Good Third-party Math Libraries for Scala](good-third-party-math-libraries-for-scala)
@@ -3450,8 +3453,8 @@ site:
 - [Date and Time in Java and Scala](date-and-time-in-java-and-scala)
 - [Debugging Tools for Java](debugging-tools-for-java)
 - [Call Java Code Using JPype from Python](call-java-code-using-jpype-from-python)
-- [Java Interfaces for Python](java-interfaces-for-python)
 - [Call Java Using PyJNIus from Python](call-java-using-pyjnius-from-python)
+- [Java Interfaces for Python](java-interfaces-for-python)
 - [Collections in Java](collections-in-java)
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 - [Use LightGBM With Spark](use-lightgbm-with-spark)
@@ -3486,7 +3489,7 @@ site:
 ```
 
 ## DataFrame
-```{dropdown} Click to expand 78 links
+```{dropdown} Click to expand/collapse 78 links
 - [Pivot Table in pandas DataFrame](pivot-table-in-pandas-dataframe)
 - [Statistical Functions in Spark](statistical-functions-in-spark)
 - [Row Object in Spark](row-object-in-spark)
@@ -3546,9 +3549,9 @@ site:
 - [Python pandas Tips](python-pandas-tips)
 - [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
 - [Read CSV Using Polars in Python](read-csv-using-polars-in-python)
-- [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
-- [Polars Series in Rust](polars-series-in-rust)
 - [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
+- [Polars Series in Rust](polars-series-in-rust)
+- [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
 - [Data Frame Implementations in Rust](data-frame-implementations-in-rust)
 - [Construct Polars DataFrames in Rust](construct-polars-dataframes-in-rust)
 - [Read Parquet Files Using Polars in Rust](read-parquet-files-using-polars-in-rust)
@@ -3568,7 +3571,7 @@ site:
 ```
 
 ## big data
-```{dropdown} Click to expand 68 links
+```{dropdown} Click to expand/collapse 68 links
 - [Spark Issue: java.lang.OutOfMemoryError](spark-issue-java.lang.outofmemoryerror)
 - [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args[0]-from-__newobj__-args-has-the-wrong-class)
 - [Partition and Bucketing in Spark](partition-and-bucketing-in-spark)
@@ -3640,7 +3643,7 @@ site:
 ```
 
 ## Scala
-```{dropdown} Click to expand 63 links
+```{dropdown} Click to expand/collapse 63 links
 - [Hands on the sqlite3-jdbc library in Scala](hands-on-the-sqlite3-jdbc-library-in-scala)
 - [Good Third-party Math Libraries for Scala](good-third-party-math-libraries-for-scala)
 - [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
@@ -3707,7 +3710,7 @@ site:
 ```
 
 ## JVM
-```{dropdown} Click to expand 58 links
+```{dropdown} Click to expand/collapse 58 links
 - [Hands on the sqlite3-jdbc library in Scala](hands-on-the-sqlite3-jdbc-library-in-scala)
 - [Good Third-party Math Libraries for Scala](good-third-party-math-libraries-for-scala)
 - [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
@@ -3769,7 +3772,7 @@ site:
 ```
 
 ## web | Web
-```{dropdown} Click to expand 54 links
+```{dropdown} Click to expand/collapse 54 links
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 - [Web Automation](web-automation)
 - [Use OculiX to Automate Anything](use-oculix-to-automate-anything)
@@ -3827,7 +3830,7 @@ site:
 ```
 
 ## Docker | docker
-```{dropdown} Click to expand 52 links
+```{dropdown} Click to expand/collapse 52 links
 - [My Configuration Script for Docker Containers Based on dclong/jupyterhub-ds](my-configuration-script-for-docker-containers-based-on-dclong-jupyterhub-ds)
 - [General Tips for Docker](general-tips-for-docker)
 - [Docker Images for OS](docker-images-for-os)
@@ -3870,9 +3873,9 @@ site:
 - [Docker on Mac](docker-on-mac)
 - [User in Docker](user-in-docker)
 - [Use Snap Apps in Docker](use-snap-apps-in-docker)
-- [Docker Images for Zeppelin](docker-images-for-zeppelin)
-- [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
 - [Docker Images for Database](docker-images-for-database)
+- [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
+- [Docker Images for Zeppelin](docker-images-for-zeppelin)
 - [Docker Images for Visualization](docker-images-for-visualization)
 - [Docker Images for Synchronization](docker-images-for-synchronization)
 - [Environment Variables in Docker](environment-variables-in-docker)
@@ -3883,7 +3886,7 @@ site:
 ```
 
 ## issue
-```{dropdown} Click to expand 51 links
+```{dropdown} Click to expand/collapse 51 links
 - [Spark Issue: java.lang.OutOfMemoryError](spark-issue-java.lang.outofmemoryerror)
 - [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args[0]-from-__newobj__-args-has-the-wrong-class)
 - [Common Errors Encountered in Scala and Solutions](common-errors-encountered-in-scala-and-solutions)
@@ -3925,9 +3928,9 @@ site:
 - [Spark Issue: Table Not Found](spark-issue-table-not-found)
 - [Spark Issue: Task Not Serializable](spark-issue-task-not-serializable)
 - [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
-- [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
-- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
 - [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
+- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
+- [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
 - [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
 - [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
 - [Multiprocessing Issues in Docker](multiprocessing-issues-in-docker)
@@ -3938,7 +3941,7 @@ site:
 ```
 
 ## deep learning | Deep Learning
-```{dropdown} Click to expand 51 links
+```{dropdown} Click to expand/collapse 51 links
 - [Tensor Transformations in TorchVision](tensor-transformations-in-torchvision)
 - [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
 - [Pad a Sequence in Python](pad-a-sequence-in-python)
@@ -3993,7 +3996,7 @@ site:
 ```
 
 ## statistics | Statistics
-```{dropdown} Click to expand 47 links
+```{dropdown} Click to expand/collapse 47 links
 - [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
 - [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
 - [Chance to Take One's Own Seat?](chance-to-take-one-s-own-seat)
@@ -4044,7 +4047,7 @@ site:
 ```
 
 ## pandas
-```{dropdown} Click to expand 45 links
+```{dropdown} Click to expand/collapse 45 links
 - [Convert Between a Pandas.Series and a Dict-Like Object](convert-between-a-pandas.series-and-a-dict-like-object)
 - [Pivot Table in pandas DataFrame](pivot-table-in-pandas-dataframe)
 - [Options for the pandas Package in Python](options-for-the-pandas-package-in-python)
@@ -4093,7 +4096,7 @@ site:
 ```
 
 ## SQL
-```{dropdown} Click to expand 45 links
+```{dropdown} Click to expand/collapse 45 links
 - [Split String into Rows in SQL](split-string-into-rows-in-sql)
 - [General Tips on SQL](general-tips-on-sql)
 - [Questions on SQL](questions-on-sql)
@@ -4142,7 +4145,7 @@ site:
 ```
 
 ## OS | os
-```{dropdown} Click to expand 43 links
+```{dropdown} Click to expand/collapse 43 links
 - [Watching Filesystem Changes Using "inotify"](watching-filesystem-changes-using-inotify)
 - [Misc Tips on Ubuntu](misc-tips-on-ubuntu)
 - [Tips on Debian](tips-on-debian)
@@ -4189,7 +4192,7 @@ site:
 ```
 
 ## Spark issue | spark issue
-```{dropdown} Click to expand 43 links
+```{dropdown} Click to expand/collapse 43 links
 - [Spark Issue: java.lang.OutOfMemoryError](spark-issue-java.lang.outofmemoryerror)
 - [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args[0]-from-__newobj__-args-has-the-wrong-class)
 - [Spark Issue: Total Size of Serialized Results Is Bigger than spark.driver.maxResultSize](spark-issue-total-size-of-serialized-results-is-bigger-than-spark.driver.maxresultsize)
@@ -4227,16 +4230,16 @@ site:
 - [Spark Issue: Table Not Found](spark-issue-table-not-found)
 - [Spark Issue: Task Not Serializable](spark-issue-task-not-serializable)
 - [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
-- [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
-- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
 - [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
+- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
+- [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
 - [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
 - [Spark Issue: InvalidResourceRequestException](spark-issue-invalidresourcerequestexception)
 - [Spark Issue: UriSyntaxException](spark-issue-urisyntaxexception)
 ```
 
 ## shell | Shell
-```{dropdown} Click to expand 41 links
+```{dropdown} Click to expand/collapse 41 links
 - [Tips on the Shell command ps](tips-on-the-shell-command-ps)
 - [Useful Tools in Linux](useful-tools-in-linux)
 - [Transform Text Using sed](transform-text-using-sed)
@@ -4281,7 +4284,7 @@ site:
 ```
 
 ## error | ERROR
-```{dropdown} Click to expand 39 links
+```{dropdown} Click to expand/collapse 39 links
 - [Rust Error "error: expected item, found 'let'"](rust-error-error-expected-item-found-let)
 - [Spark Issue: java.lang.OutOfMemoryError](spark-issue-java.lang.outofmemoryerror)
 - [Rust Error: error[E0554]: `#![feature]` May Not Be Used on the Stable Release Channel](rust-error-error[e0554]-`#-[feature]`-may-not-be-used-on-the-stable-release-channel)
@@ -4313,8 +4316,8 @@ site:
 - [Spark Issue: Table Not Found](spark-issue-table-not-found)
 - [Spark Issue: Task Not Serializable](spark-issue-task-not-serializable)
 - [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
-- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
 - [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
+- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
 - [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
 - [The Python Quit Unexpectedly Error](the-python-quit-unexpectedly-error)
 - [Exception Error and Critical](exception-error-and-critical)
@@ -4324,7 +4327,7 @@ site:
 ```
 
 ## image | Image
-```{dropdown} Click to expand 35 links
+```{dropdown} Click to expand/collapse 35 links
 - [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
 - [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
 - [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
@@ -4363,7 +4366,7 @@ site:
 ```
 
 ## Golang | GoLANG | GoLang
-```{dropdown} Click to expand 31 links
+```{dropdown} Click to expand/collapse 31 links
 - [Manipulate Strings Using the `strings` Module in Golang](manipulate-strings-using-the-`strings`-module-in-golang)
 - [Get Directory Information in Golang](get-directory-information-in-golang)
 - [Ordered Map in Golang](ordered-map-in-golang)
@@ -4397,8 +4400,42 @@ site:
 - [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
 ```
 
+## IDE
+```{dropdown} Click to expand/collapse 30 links
+- [TeXstudio, Bravo!](texstudio-bravo)
+- [General Tips on SQL](general-tips-on-sql)
+- [Python Developing in PyCharm](python-developing-in-pycharm)
+- [Typing Chinese in Vim](typing-chinese-in-vim)
+- [Show Inferred Type in IntelliJ IDEA](show-inferred-type-in-intellij-idea)
+- [Tips on IDE](tips-on-ide)
+- [Tips on dbeaver](tips-on-dbeaver)
+- [IDEs for LaTeX](ides-for-latex)
+- [Tips on Visual Studio Code](tips-on-visual-studio-code)
+- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
+- [IDE for Rust](ide-for-rust)
+- [Tips on Google Firebase Studio](tips-on-google-firebase-studio)
+- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+- [Tips on AstroNvim](tips-on-astronvim)
+- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
+- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
+- [Tips on NeoVim](tips-on-neovim)
+- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
+- [Tips on the Zed IDE](tips-on-the-zed-ide)
+- [IDE for SQL](ide-for-sql)
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [Visual Studio Code Server](visual-studio-code-server)
+- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
+- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
+- [Tips on Python-Language-Server](tips-on-python-language-server)
+- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
+- [AI-based Code Completion Tools](ai-based-code-completion-tools)
+- [IntelliJ IDEA Tips](intellij-idea-tips)
+- [Start RStudio Server After Upgrading](start-rstudio-server-after-upgrading)
+```
+
 ## Kotlin
-```{dropdown} Click to expand 30 links
+```{dropdown} Click to expand/collapse 30 links
 - [String functions in Kotlin](string-functions-in-kotlin)
 - [Rounding Numbers in Kotlin](rounding-numbers-in-kotlin)
 - [Returns and Jumps in Kotlin](returns-and-jumps-in-kotlin)
@@ -4431,74 +4468,8 @@ site:
 - [Differences Between Kotlin and Java](differences-between-kotlin-and-java)
 ```
 
-## investment | Investment
-```{dropdown} Click to expand 29 links
-- [Tax in US](tax-in-us)
-- [Investment](investment)
-- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
-- [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
-- [Tips on Brokerage](tips-on-brokerage)
-- [Tips on Earnings Report](tips-on-earnings-report)
-- [Quant Trading](quant-trading)
-- [Shorting the Market](shorting-the-market)
-- [Tips on Investing in Structure Notes](tips-on-investing-in-structure-notes)
-- [Tips on Money Market Fund](tips-on-money-market-fund)
-- [Tips on Robinhood](tips-on-robinhood)
-- [Tips on Pattern Day Trading](tips-on-pattern-day-trading)
-- [Taxes on Investment Gains](taxes-on-investment-gains)
-- [Foreign Currency Investment](foreign-currency-investment)
-- [Diversified Investment](diversified-investment)
-- [Low Risk Investments](low-risk-investments)
-- [Tips on Fidelity](tips-on-fidelity)
-- [Tips on Wash Sale](tips-on-wash-sale)
-- [Tips on Certified Deposit](tips-on-certified-deposit)
-- [Rust for Financial Investment](rust-for-financial-investment)
-- [Tips on Retirement](tips-on-retirement)
-- [Tips on Charles Schwab](tips-on-charles-schwab)
-- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
-- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
-- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
-- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
-- [Tips on Lumibot](tips-on-lumibot)
-- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
-- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
-```
-
-## IDE
-```{dropdown} Click to expand 29 links
-- [TeXstudio, Bravo!](texstudio-bravo)
-- [General Tips on SQL](general-tips-on-sql)
-- [Python Developing in PyCharm](python-developing-in-pycharm)
-- [Typing Chinese in Vim](typing-chinese-in-vim)
-- [Show Inferred Type in IntelliJ IDEA](show-inferred-type-in-intellij-idea)
-- [Tips on IDE](tips-on-ide)
-- [Tips on dbeaver](tips-on-dbeaver)
-- [IDEs for LaTeX](ides-for-latex)
-- [Tips on Visual Studio Code](tips-on-visual-studio-code)
-- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
-- [IDE for Rust](ide-for-rust)
-- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
-- [Visual Studio Code for Python](visual-studio-code-for-python)
-- [Tips on AstroNvim](tips-on-astronvim)
-- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
-- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Tips on NeoVim](tips-on-neovim)
-- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
-- [Tips on the Zed IDE](tips-on-the-zed-ide)
-- [IDE for SQL](ide-for-sql)
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
-- [Visual Studio Code Server](visual-studio-code-server)
-- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
-- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
-- [Tips on Python-Language-Server](tips-on-python-language-server)
-- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
-- [AI-based Code Completion Tools](ai-based-code-completion-tools)
-- [IntelliJ IDEA Tips](intellij-idea-tips)
-- [Start RStudio Server After Upgrading](start-rstudio-server-after-upgrading)
-```
-
 ## network | Network
-```{dropdown} Click to expand 29 links
+```{dropdown} Click to expand/collapse 29 links
 - [Local Network Access on macOS](local-network-access-on-macos)
 - [Hands on the urllib Module in Python](hands-on-the-urllib-module-in-python)
 - [Download Files from the Internet in Python](download-files-from-the-internet-in-python)
@@ -4531,7 +4502,7 @@ site:
 ```
 
 ## string
-```{dropdown} Click to expand 29 links
+```{dropdown} Click to expand/collapse 29 links
 - [Tips for VB/VB.net](tips-for-vb-vb.net)
 - [Split String into Rows in SQL](split-string-into-rows-in-sql)
 - [String functions in Kotlin](string-functions-in-kotlin)
@@ -4564,7 +4535,7 @@ site:
 ```
 
 ## C++
-```{dropdown} Click to expand 28 links
+```{dropdown} Click to expand/collapse 28 links
 - [Equivalent of C++'s std::set_difference in Rust](equivalent-of-c++-s-std-set_difference-in-rust)
 - [Speed up Python Using Native Code](speed-up-python-using-native-code)
 - [Tips on C++ Compilers](tips-on-c++-compilers)
@@ -4596,7 +4567,7 @@ site:
 ```
 
 ## macOS
-```{dropdown} Click to expand 28 links
+```{dropdown} Click to expand/collapse 28 links
 - [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
 - [Local Network Access on macOS](local-network-access-on-macos)
 - [Tips on macOS](tips-on-macos)
@@ -4628,7 +4599,7 @@ site:
 ```
 
 ## JupyterLab
-```{dropdown} Click to expand 28 links
+```{dropdown} Click to expand/collapse 28 links
 - [Use Spark with the Almond Scala Kernel in JupyterLab](use-spark-with-the-almond-scala-kernel-in-jupyterlab)
 - [Specify Dependencies in the Almond Scala Kernel in JupyterLab](specify-dependencies-in-the-almond-scala-kernel-in-jupyterlab)
 - [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
@@ -4659,8 +4630,40 @@ site:
 - [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
 ```
 
+## investment | Investment
+```{dropdown} Click to expand/collapse 28 links
+- [Investment](investment)
+- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
+- [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
+- [Tips on Brokerage](tips-on-brokerage)
+- [Tips on Earnings Report](tips-on-earnings-report)
+- [Quant Trading](quant-trading)
+- [Shorting the Market](shorting-the-market)
+- [Tips on Investing in Structure Notes](tips-on-investing-in-structure-notes)
+- [Tips on Money Market Fund](tips-on-money-market-fund)
+- [Tips on Robinhood](tips-on-robinhood)
+- [Tips on Pattern Day Trading](tips-on-pattern-day-trading)
+- [Foreign Currency Investment](foreign-currency-investment)
+- [Diversified Investment](diversified-investment)
+- [Low Risk Investments](low-risk-investments)
+- [Tips on Fidelity](tips-on-fidelity)
+- [Tips on Certified Deposit](tips-on-certified-deposit)
+- [Rust for Financial Investment](rust-for-financial-investment)
+- [Tips on Retirement](tips-on-retirement)
+- [Tips on Charles Schwab](tips-on-charles-schwab)
+- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
+- [Taxes on Investment Gains](taxes-on-investment-gains)
+- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
+- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
+- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
+- [Tips on Wash Sale](tips-on-wash-sale)
+- [Tips on Lumibot](tips-on-lumibot)
+- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
+- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
+```
+
 ## fun problems
-```{dropdown} Click to expand 27 links
+```{dropdown} Click to expand/collapse 27 links
 - [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
 - [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
 - [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
@@ -4691,15 +4694,15 @@ site:
 ```
 
 ## API
-```{dropdown} Click to expand 26 links
+```{dropdown} Click to expand/collapse 26 links
 - [Format Markdown Using mdformat Python APIs](format-markdown-using-mdformat-python-apis)
 - [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
 - [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
 - [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
 - [gRPC GraphQL and RESTful APIs](grpc-graphql-and-restful-apis)
 - [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
-- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
 - [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
+- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 - [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
 - [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
@@ -4721,7 +4724,7 @@ site:
 ```
 
 ## PySpark
-```{dropdown} Click to expand 26 links
+```{dropdown} Click to expand/collapse 26 links
 - [Using Optimus for Data Profiling in PySpark](using-optimus-for-data-profiling-in-pyspark)
 - [Using Temporary Columns in Spark](using-temporary-columns-in-spark)
 - [Read/Write CSV in PySpark](read-write-csv-in-pyspark)
@@ -4751,7 +4754,7 @@ site:
 ```
 
 ## PyTorch | pytorch
-```{dropdown} Click to expand 25 links
+```{dropdown} Click to expand/collapse 25 links
 - [Difference Between torch.nn.Module and torch.nn.functional](difference-between-torch.nn.module-and-torch.nn.functional)
 - [Tensor Transformations in TorchVision](tensor-transformations-in-torchvision)
 - [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
@@ -4780,7 +4783,7 @@ site:
 ```
 
 ## internet
-```{dropdown} Click to expand 24 links
+```{dropdown} Click to expand/collapse 24 links
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 - [Save a Web Page as a Single File in Chrome](save-a-web-page-as-a-single-file-in-chrome)
 - [Baidu Yun Tips](baidu-yun-tips)
@@ -4808,7 +4811,7 @@ site:
 ```
 
 ## computer vision | Computer Vision
-```{dropdown} Click to expand 24 links
+```{dropdown} Click to expand/collapse 24 links
 - [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
 - [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
 - [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
@@ -4836,7 +4839,7 @@ site:
 ```
 
 ## GitHub
-```{dropdown} Click to expand 24 links
+```{dropdown} Click to expand/collapse 24 links
 - [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
 - [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
 - [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
@@ -4845,8 +4848,8 @@ site:
 - [Fix Authentication Error of GitHub Repositories on DockerHub](fix-authentication-error-of-github-repositories-on-dockerhub)
 - [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
 - [Batch GitHub Repository Operations Using GitHub Rest API](batch-github-repository-operations-using-github-rest-api)
-- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
 - [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
+- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 - [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
 - [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
@@ -4864,7 +4867,7 @@ site:
 ```
 
 ## money
-```{dropdown} Click to expand 24 links
+```{dropdown} Click to expand/collapse 24 links
 - [Investment](investment)
 - [Probability to Lose All Money](probability-to-lose-all-money)
 - [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
@@ -4892,7 +4895,7 @@ site:
 ```
 
 ## CV
-```{dropdown} Click to expand 23 links
+```{dropdown} Click to expand/collapse 23 links
 - [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
 - [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
 - [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
@@ -4919,7 +4922,7 @@ site:
 ```
 
 ## container
-```{dropdown} Click to expand 23 links
+```{dropdown} Click to expand/collapse 23 links
 - [For Loops in C++](for-loops-in-c++)
 - [General Tips for Docker](general-tips-for-docker)
 - [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
@@ -4946,7 +4949,7 @@ site:
 ```
 
 ## Ubuntu
-```{dropdown} Click to expand 22 links
+```{dropdown} Click to expand/collapse 22 links
 - [My Configuration Script for Docker Containers Based on dclong/jupyterhub-ds](my-configuration-script-for-docker-containers-based-on-dclong-jupyterhub-ds)
 - [Comparison of (Debian Series) Linux Distributions](comparison-of-debian-series-linux-distributions)
 - [Misc Tips on Ubuntu](misc-tips-on-ubuntu)
@@ -4972,7 +4975,7 @@ site:
 ```
 
 ## database | Database
-```{dropdown} Click to expand 22 links
+```{dropdown} Click to expand/collapse 22 links
 - [Tips on MongoDB](tips-on-mongodb)
 - [General Tips on SQL](general-tips-on-sql)
 - [Tips on JSON](tips-on-json)
@@ -4998,7 +5001,7 @@ site:
 ```
 
 ## JavaScript
-```{dropdown} Click to expand 21 links
+```{dropdown} Click to expand/collapse 21 links
 - [Run UserScripts in Browsers](run-userscripts-in-browsers)
 - [Tips on Web Development](tips-on-web-development)
 - [Tips on JavaScript](tips-on-javascript)
@@ -5023,7 +5026,7 @@ site:
 ```
 
 ## IO
-```{dropdown} Click to expand 20 links
+```{dropdown} Click to expand/collapse 20 links
 - [Parsing YAML in Python](parsing-yaml-in-python)
 - [The Source Class in Scala IO](the-source-class-in-scala-io)
 - [BufferedReader in Java IO](bufferedreader-in-java-io)
@@ -5047,7 +5050,7 @@ site:
 ```
 
 ## terminal
-```{dropdown} Click to expand 20 links
+```{dropdown} Click to expand/collapse 20 links
 - [Ghostty Is a Decent Terminal App](ghostty-is-a-decent-terminal-app)
 - [Useful Tools in Linux](useful-tools-in-linux)
 - [Tips on Hyper](tips-on-hyper)
@@ -5071,7 +5074,7 @@ site:
 ```
 
 ## visualization
-```{dropdown} Click to expand 20 links
+```{dropdown} Click to expand/collapse 20 links
 - [Scatter Plot Using HoloViews in Python](scatter-plot-using-holoviews-in-python)
 - [Plot Histogram Using HoloViews](plot-histogram-using-holoviews)
 - [Interactive Tools of Plots in HoloViews](interactive-tools-of-plots-in-holoviews)
@@ -5095,7 +5098,7 @@ site:
 ```
 
 ## tools
-```{dropdown} Click to expand 19 links
+```{dropdown} Click to expand/collapse 19 links
 - [Downloading Tools](downloading-tools)
 - [Editing PDF Files](editing-pdf-files)
 - [Useful Tools in Linux](useful-tools-in-linux)
@@ -5118,7 +5121,7 @@ site:
 ```
 
 ## file
-```{dropdown} Click to expand 19 links
+```{dropdown} Click to expand/collapse 19 links
 - [Read Multiple Files into a DataFrame in Spark](read-multiple-files-into-a-dataframe-in-spark)
 - [Read/Write Files/Tables in Spark](read-write-files-tables-in-spark)
 - [Download Files from the Internet in Python](download-files-from-the-internet-in-python)
@@ -5141,7 +5144,7 @@ site:
 ```
 
 ## memory
-```{dropdown} Click to expand 19 links
+```{dropdown} Click to expand/collapse 19 links
 - [Use pyarrow to Share Data in Memory in Python](use-pyarrow-to-share-data-in-memory-in-python)
 - [Hands on the psutil Module in Python](hands-on-the-psutil-module-in-python)
 - [Spark Issue: Container Killed by Yarn for Exceeding Memory Limits](spark-issue-container-killed-by-yarn-for-exceeding-memory-limits)
@@ -5164,7 +5167,7 @@ site:
 ```
 
 ## Windows | windows
-```{dropdown} Click to expand 19 links
+```{dropdown} Click to expand/collapse 19 links
 - [Software I Use in Windows System](software-i-use-in-windows-system)
 - [Convert MS Office Document to Text](convert-ms-office-document-to-text)
 - [Tips on WSL 2](tips-on-wsl-2)
@@ -5187,7 +5190,7 @@ site:
 ```
 
 ## command-line | command line
-```{dropdown} Click to expand 18 links
+```{dropdown} Click to expand/collapse 18 links
 - [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
 - [Copying Files in Linux](copying-files-in-linux)
 - [Useful Tools for Python Developing](useful-tools-for-python-developing)
@@ -5209,7 +5212,7 @@ site:
 ```
 
 ## GPU
-```{dropdown} Click to expand 18 links
+```{dropdown} Click to expand/collapse 18 links
 - [Tips on GPU Computing](tips-on-gpu-computing)
 - [Machine Learning Libraries, Computing Frames and Programming Languages](machine-learning-libraries-computing-frames-and-programming-languages)
 - [GPU Related Issues and Solutions](gpu-related-issues-and-solutions)
@@ -5221,9 +5224,9 @@ site:
 - [Tips on PyTorch](tips-on-pytorch)
 - [Docker for Nvidia GPU](docker-for-nvidia-gpu)
 - [Understand Memory Usage in PyTorch](understand-memory-usage-in-pytorch)
-- [Tips on TensorFlow](tips-on-tensorflow)
 - [LightGBM on GPU](lightgbm-on-gpu)
 - [Use PyTorch on GPU](use-pytorch-on-gpu)
+- [Tips on TensorFlow](tips-on-tensorflow)
 - [GPU for Web](gpu-for-web)
 - [GPU Computing in Python](gpu-computing-in-python)
 - [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
@@ -5231,7 +5234,7 @@ site:
 ```
 
 ## GUI
-```{dropdown} Click to expand 18 links
+```{dropdown} Click to expand/collapse 18 links
 - [Shortcuts in macOS](shortcuts-in-macos)
 - [Use Qt in Python](use-qt-in-python)
 - [GUI-based Mind Mapping Tools](gui-based-mind-mapping-tools)
@@ -5240,9 +5243,9 @@ site:
 - [Develop a GUI Application in Rust](develop-a-gui-application-in-rust)
 - [Tips on Dioxus](tips-on-dioxus)
 - [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
-- [Use Tkinter to Build GUI Applications in Python](use-tkinter-to-build-gui-applications-in-python)
-- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
 - [The Checkbutton Widget in Tkinter](the-checkbutton-widget-in-tkinter)
+- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
+- [Use Tkinter to Build GUI Applications in Python](use-tkinter-to-build-gui-applications-in-python)
 - [Python for Desktop Applications](python-for-desktop-applications)
 - [Tips on Electron](tips-on-electron)
 - [GUI Automation Tools in Python](gui-automation-tools-in-python)
@@ -5253,7 +5256,7 @@ site:
 ```
 
 ## LaTeX | Latex | LaTex
-```{dropdown} Click to expand 17 links
+```{dropdown} Click to expand/collapse 17 links
 - [TeXstudio, Bravo!](texstudio-bravo)
 - [Tips on LaTeX](tips-on-latex)
 - [Scientific References](scientific-references)
@@ -5274,7 +5277,7 @@ site:
 ```
 
 ## cloud | Cloud
-```{dropdown} Click to expand 17 links
+```{dropdown} Click to expand/collapse 17 links
 - [Baidu Yun Tips](baidu-yun-tips)
 - [Tips on Resilio Sync](tips-on-resilio-sync)
 - [Tips on TeamDrive](tips-on-teamdrive)
@@ -5295,7 +5298,7 @@ site:
 ```
 
 ## git | Git
-```{dropdown} Click to expand 17 links
+```{dropdown} Click to expand/collapse 17 links
 - [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
 - [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
 - [Mercurial for Git Users](mercurial-for-git-users)
@@ -5306,8 +5309,8 @@ site:
 - [Gitignore Examples](gitignore-examples)
 - [Git Implementations and Bindings in Python](git-implementations-and-bindings-in-python)
 - [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
-- [Reduce Size of Git Repository](reduce-size-of-git-repository)
 - [Tips on Git-Filter-Repo](tips-on-git-filter-repo)
+- [Reduce Size of Git Repository](reduce-size-of-git-repository)
 - [Software Version Management Tools](software-version-management-tools)
 - [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
 - [Tips on Git Submodule](tips-on-git-submodule)
@@ -5316,7 +5319,7 @@ site:
 ```
 
 ## hardware | Hardware
-```{dropdown} Click to expand 17 links
+```{dropdown} Click to expand/collapse 17 links
 - [Tips on Touchpad](tips-on-touchpad)
 - [Screen Resolution in macOS](screen-resolution-in-macos)
 - [Make Linux Run Faster](make-linux-run-faster)
@@ -5337,7 +5340,7 @@ site:
 ```
 
 ## house
-```{dropdown} Click to expand 17 links
+```{dropdown} Click to expand/collapse 17 links
 - [Tips on Plumbing](tips-on-plumbing)
 - [Anker Solix Home Backup Battery System](anker-solix-home-backup-battery-system)
 - [Use Dehumidifiers to Remove Dampness from Your House](use-dehumidifiers-to-remove-dampness-from-your-house)
@@ -5358,7 +5361,7 @@ site:
 ```
 
 ## array | Array
-```{dropdown} Click to expand 16 links
+```{dropdown} Click to expand/collapse 16 links
 - [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
 - [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
 - [Load Images into Pillow](load-images-into-pillow)
@@ -5378,7 +5381,7 @@ site:
 ```
 
 ## format
-```{dropdown} Click to expand 16 links
+```{dropdown} Click to expand/collapse 16 links
 - [Format String in Java](format-string-in-java)
 - [Date and Time in Rust](date-and-time-in-rust)
 - [Format a String in Python](format-a-string-in-python)
@@ -5398,7 +5401,7 @@ site:
 ```
 
 ## Jupyter | jupyter
-```{dropdown} Click to expand 16 links
+```{dropdown} Click to expand/collapse 16 links
 - [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
 - [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
 - [Tips on JupyterLab](tips-on-jupyterlab)
@@ -5418,7 +5421,7 @@ site:
 ```
 
 ## car | Car
-```{dropdown} Click to expand 16 links
+```{dropdown} Click to expand/collapse 16 links
 - [Tips on Insurance](tips-on-insurance)
 - [Tips on Car and Driving](tips-on-car-and-driving)
 - [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
@@ -5437,27 +5440,8 @@ site:
 - [Tips on Mercedes-Benz](tips-on-mercedes-benz)
 ```
 
-## finance | Finance
-```{dropdown} Click to expand 15 links
-- [Tax in US](tax-in-us)
-- [Tips on Empower](tips-on-empower)
-- [Investment](investment)
-- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Claim Your Forgotten Money](claim-your-forgotten-money)
-- [Tips on Credit Report](tips-on-credit-report)
-- [Tips on Buying a House](tips-on-buying-a-house)
-- [Tips on Brokerage](tips-on-brokerage)
-- [Understanding Paychecks](understanding-paychecks)
-- [Tips on eTrade](tips-on-etrade)
-- [Rust for Financial Investment](rust-for-financial-investment)
-- [Financial Data](financial-data)
-- [Tips on Certified Deposit](tips-on-certified-deposit)
-- [Good Accounting Tools](good-accounting-tools)
-```
-
 ## file system
-```{dropdown} Click to expand 15 links
+```{dropdown} Click to expand/collapse 15 links
 - [Watching Filesystem Changes Using "inotify"](watching-filesystem-changes-using-inotify)
 - [Hands on the Python submodule os.path](hands-on-the-python-submodule-os.path)
 - [Hands on the Python module glob](hands-on-the-python-module-glob)
@@ -5476,7 +5460,7 @@ site:
 ```
 
 ## probability
-```{dropdown} Click to expand 15 links
+```{dropdown} Click to expand/collapse 15 links
 - [Chance to Take One's Own Seat?](chance-to-take-one-s-own-seat)
 - [How Many People Stay in the Same Position?](how-many-people-stay-in-the-same-position)
 - [Number of Records?](number-of-records)
@@ -5495,7 +5479,7 @@ site:
 ```
 
 ## PDF
-```{dropdown} Click to expand 15 links
+```{dropdown} Click to expand/collapse 15 links
 - [Editing PDF Files](editing-pdf-files)
 - [File Converting and Generating Tools](file-converting-and-generating-tools)
 - [Convert PDF to Image Using Python](convert-pdf-to-image-using-python)
@@ -5514,7 +5498,7 @@ site:
 ```
 
 ## text
-```{dropdown} Click to expand 15 links
+```{dropdown} Click to expand/collapse 15 links
 - [Read/Write CSV in Spark](read-write-csv-in-spark)
 - [Read/Write TSV in Spark](read-write-tsv-in-spark)
 - [String functions in Kotlin](string-functions-in-kotlin)
@@ -5533,7 +5517,7 @@ site:
 ```
 
 ## HPC
-```{dropdown} Click to expand 15 links
+```{dropdown} Click to expand/collapse 15 links
 - [Hands on the Python module threading](hands-on-the-python-module-threading)
 - [Hands on the Python module Multiprocessing](hands-on-the-python-module-multiprocessing)
 - [Using Optimus for Data Profiling in PySpark](using-optimus-for-data-profiling-in-pyspark)
@@ -5552,7 +5536,7 @@ site:
 ```
 
 ## notebook
-```{dropdown} Click to expand 15 links
+```{dropdown} Click to expand/collapse 15 links
 - [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
 - [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
 - [Tips on Zeppelin](tips-on-zeppelin)
@@ -5571,7 +5555,7 @@ site:
 ```
 
 ## proxy
-```{dropdown} Click to expand 15 links
+```{dropdown} Click to expand/collapse 15 links
 - [Configure Proxy for Apt](configure-proxy-for-apt)
 - [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
 - [Speed Up sbt in China](speed-up-sbt-in-china)
@@ -5590,7 +5574,7 @@ site:
 ```
 
 ## Visual Studio Code
-```{dropdown} Click to expand 15 links
+```{dropdown} Click to expand/collapse 15 links
 - [Tips on Visual Studio Code](tips-on-visual-studio-code)
 - [Visual Studio Code for Java Development](visual-studio-code-for-java-development)
 - [Visual Studio Code for Scala Development](visual-studio-code-for-scala-development)
@@ -5609,7 +5593,7 @@ site:
 ```
 
 ## crate
-```{dropdown} Click to expand 15 links
+```{dropdown} Click to expand/collapse 15 links
 - [Rust Crates for Parallel, Concurrency, Async and Distributed Applications](rust-crates-for-parallel-concurrency-async-and-distributed-applications)
 - [Useful Rust Crates for Database](useful-rust-crates-for-database)
 - [Useful Rust Crates](useful-rust-crates)
@@ -5628,7 +5612,7 @@ site:
 ```
 
 ## Google
-```{dropdown} Click to expand 14 links
+```{dropdown} Click to expand/collapse 14 links
 - [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
 - [Tips on Gemini](tips-on-gemini)
 - [Nested Data Structures in Databases](nested-data-structures-in-databases)
@@ -5637,16 +5621,34 @@ site:
 - [Tips on GCP](tips-on-gcp)
 - [GCP Compute Engine VM Instances](gcp-compute-engine-vm-instances)
 - [Tips on BigQuery](tips-on-bigquery)
-- [Tips on ZetaSQL](tips-on-zetasql)
 - [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
+- [Tips on ZetaSQL](tips-on-zetasql)
 - [Use Python with Google Spreadsheet](use-python-with-google-spreadsheet)
 - [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
 - [Tips on Google Ads](tips-on-google-ads)
 - [Tips on Google Spreadsheet](tips-on-google-spreadsheet)
 ```
 
+## finance | Finance
+```{dropdown} Click to expand/collapse 14 links
+- [Tips on Empower](tips-on-empower)
+- [Investment](investment)
+- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Claim Your Forgotten Money](claim-your-forgotten-money)
+- [Tips on Credit Report](tips-on-credit-report)
+- [Tips on Buying a House](tips-on-buying-a-house)
+- [Tips on Brokerage](tips-on-brokerage)
+- [Understanding Paychecks](understanding-paychecks)
+- [Tips on eTrade](tips-on-etrade)
+- [Rust for Financial Investment](rust-for-financial-investment)
+- [Financial Data](financial-data)
+- [Tips on Certified Deposit](tips-on-certified-deposit)
+- [Good Accounting Tools](good-accounting-tools)
+```
+
 ## Pillow
-```{dropdown} Click to expand 14 links
+```{dropdown} Click to expand/collapse 14 links
 - [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
 - [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
 - [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
@@ -5664,7 +5666,7 @@ site:
 ```
 
 ## List | list
-```{dropdown} Click to expand 14 links
+```{dropdown} Click to expand/collapse 14 links
 - [List in Kotlin](list-in-kotlin)
 - [Sort a List in Kotlin](sort-a-list-in-kotlin)
 - [Collections in Kotlin](collections-in-kotlin)
@@ -5682,15 +5684,15 @@ site:
 ```
 
 ## Polars | polars
-```{dropdown} Click to expand 14 links
+```{dropdown} Click to expand/collapse 14 links
 - [DataFrame Implementations in Python](dataframe-implementations-in-python)
 - [Hands on the Polars Library in Python](hands-on-the-polars-library-in-python)
 - [Hands on the Polars Crate in Rust](hands-on-the-polars-crate-in-rust)
 - [Read CSV Using Polars in Python](read-csv-using-polars-in-python)
-- [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
-- [Polars Series in Rust](polars-series-in-rust)
-- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
 - [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
+- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
+- [Polars Series in Rust](polars-series-in-rust)
+- [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
 - [Read and Write Parquet Files in Rust](read-and-write-parquet-files-in-rust)
 - [Construct Polars DataFrames in Rust](construct-polars-dataframes-in-rust)
 - [Read Parquet Files Using Polars in Rust](read-parquet-files-using-polars-in-rust)
@@ -5700,14 +5702,14 @@ site:
 ```
 
 ## RESTful
-```{dropdown} Click to expand 14 links
+```{dropdown} Click to expand/collapse 14 links
 - [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
 - [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
 - [gRPC GraphQL and RESTful APIs](grpc-graphql-and-restful-apis)
 - [Deleting Docker Image Tags on DockerHub using the Python Module requests](deleting-docker-image-tags-on-dockerhub-using-the-python-module-requests)
 - [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
-- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
 - [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
+- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 - [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
 - [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
@@ -5718,7 +5720,7 @@ site:
 ```
 
 ## Vim | vim
-```{dropdown} Click to expand 14 links
+```{dropdown} Click to expand/collapse 14 links
 - [Tips on Vim](tips-on-vim)
 - [The Escape Key in Vim](the-escape-key-in-vim)
 - [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
@@ -5736,7 +5738,7 @@ site:
 ```
 
 ## exception
-```{dropdown} Click to expand 14 links
+```{dropdown} Click to expand/collapse 14 links
 - [Ensure Capturing Log of Applications](ensure-capturing-log-of-applications)
 - [ModuleNotFoundError: No Module Named _Ctypes in Python](modulenotfounderror-no-module-named-_ctypes-in-python)
 - [Spark Issue: Pure Python Code Errors](spark-issue-pure-python-code-errors)
@@ -5754,7 +5756,7 @@ site:
 ```
 
 ## vscode | VSCode
-```{dropdown} Click to expand 14 links
+```{dropdown} Click to expand/collapse 14 links
 - [Tips on Visual Studio Code](tips-on-visual-studio-code)
 - [Visual Studio Code for Java Development](visual-studio-code-for-java-development)
 - [Visual Studio Code for Scala Development](visual-studio-code-for-scala-development)
@@ -5772,7 +5774,7 @@ site:
 ```
 
 ## markdown | Markdown
-```{dropdown} Click to expand 13 links
+```{dropdown} Click to expand/collapse 13 links
 - [Format Markdown Using mdformat Python APIs](format-markdown-using-mdformat-python-apis)
 - [Mdformat Is An Extensible Markdown Formatter](mdformat-is-an-extensible-markdown-formatter)
 - [File Converting and Generating Tools](file-converting-and-generating-tools)
@@ -5789,7 +5791,7 @@ site:
 ```
 
 ## static
-```{dropdown} Click to expand 13 links
+```{dropdown} Click to expand/collapse 13 links
 - [Rust Error "error: expected item, found 'let'"](rust-error-error-expected-item-found-let)
 - [Object Oriented Programming in Java](object-oriented-programming-in-java)
 - [Define Variables in Rust](define-variables-in-rust)
@@ -5806,7 +5808,7 @@ site:
 ```
 
 ## command
-```{dropdown} Click to expand 13 links
+```{dropdown} Click to expand/collapse 13 links
 - [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
 - [Hands on the Python module subprocess](hands-on-the-python-module-subprocess)
 - [Spark Issue: Shell Related](spark-issue-shell-related)
@@ -5823,7 +5825,7 @@ site:
 ```
 
 ## application
-```{dropdown} Click to expand 13 links
+```{dropdown} Click to expand/collapse 13 links
 - [Manage AppImages on Linux](manage-appimages-on-linux)
 - [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
 - [Useful Tools in Linux](useful-tools-in-linux)
@@ -5840,7 +5842,7 @@ site:
 ```
 
 ## serialization
-```{dropdown} Click to expand 13 links
+```{dropdown} Click to expand/collapse 13 links
 - [Hands on the json Module in Python](hands-on-the-json-module-in-python)
 - [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args[0]-from-__newobj__-args-has-the-wrong-class)
 - [Tips on JSON](tips-on-json)
@@ -5857,7 +5859,7 @@ site:
 ```
 
 ## HoloViews
-```{dropdown} Click to expand 13 links
+```{dropdown} Click to expand/collapse 13 links
 - [Scatter Plot Using HoloViews in Python](scatter-plot-using-holoviews-in-python)
 - [Plot Histogram Using HoloViews](plot-histogram-using-holoviews)
 - [Interactive Tools of Plots in HoloViews](interactive-tools-of-plots-in-holoviews)
@@ -5874,7 +5876,7 @@ site:
 ```
 
 ## time
-```{dropdown} Click to expand 13 links
+```{dropdown} Click to expand/collapse 13 links
 - [Hands on the time Module in Python](hands-on-the-time-module-in-python)
 - [Date and Time in Python pandas](date-and-time-in-python-pandas)
 - [Hands on the datetime Module in Python](hands-on-the-datetime-module-in-python)
@@ -5891,7 +5893,7 @@ site:
 ```
 
 ## collection
-```{dropdown} Click to expand 13 links
+```{dropdown} Click to expand/collapse 13 links
 - [Sort Collections in Python](sort-collections-in-python)
 - [Count Frequencies of Elements Using collections.Counter in Python](count-frequencies-of-elements-using-collections.counter-in-python)
 - [Vector in Rust](vector-in-rust)
@@ -5908,7 +5910,7 @@ site:
 ```
 
 ## package
-```{dropdown} Click to expand 13 links
+```{dropdown} Click to expand/collapse 13 links
 - [Get the Dependencies of a Python Package Without Installing It](get-the-dependencies-of-a-python-package-without-installing-it)
 - [Good C++ Libraries](good-c++-libraries)
 - [Install Python Packages Using pip](install-python-packages-using-pip)
@@ -5925,7 +5927,7 @@ site:
 ```
 
 ## data
-```{dropdown} Click to expand 13 links
+```{dropdown} Click to expand/collapse 13 links
 - [Use pyarrow to Share Data in Memory in Python](use-pyarrow-to-share-data-in-memory-in-python)
 - [Compare Data Frames Using DataCompy in Python](compare-data-frames-using-datacompy-in-python)
 - [Abuse of Vector in R](abuse-of-vector-in-r)
@@ -5942,7 +5944,7 @@ site:
 ```
 
 ## CPU | cpu
-```{dropdown} Click to expand 13 links
+```{dropdown} Click to expand/collapse 13 links
 - [Hands on the psutil Module in Python](hands-on-the-psutil-module-in-python)
 - [SLIDE: Sub-Linear Deep Learning Engine](slide-sub-linear-deep-learning-engine)
 - [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
@@ -5959,7 +5961,7 @@ site:
 ```
 
 ## SSH | ssh
-```{dropdown} Click to expand 13 links
+```{dropdown} Click to expand/collapse 13 links
 - [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
 - [Operate Remote Servers Using SSH](operate-remote-servers-using-ssh)
 - [SSH Tunnel](ssh-tunnel)
@@ -5976,7 +5978,7 @@ site:
 ```
 
 ## Mathematica
-```{dropdown} Click to expand 12 links
+```{dropdown} Click to expand/collapse 12 links
 - [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
 - [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
 - [Probability to Get a Complete Deck of Cards?](probability-to-get-a-complete-deck-of-cards)
@@ -5992,7 +5994,7 @@ site:
 ```
 
 ## PIL
-```{dropdown} Click to expand 12 links
+```{dropdown} Click to expand/collapse 12 links
 - [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
 - [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
 - [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
@@ -6008,7 +6010,7 @@ site:
 ```
 
 ## collections
-```{dropdown} Click to expand 12 links
+```{dropdown} Click to expand/collapse 12 links
 - [Array in Scala](array-in-scala)
 - [OOP in Kotlin](oop-in-kotlin)
 - [List in Kotlin](list-in-kotlin)
@@ -6024,7 +6026,7 @@ site:
 ```
 
 ## class
-```{dropdown} Click to expand 12 links
+```{dropdown} Click to expand/collapse 12 links
 - [OOP in Kotlin](oop-in-kotlin)
 - [Implement Singleton in Java](implement-singleton-in-java)
 - [Object Oriented Programming in Java](object-oriented-programming-in-java)
@@ -6040,7 +6042,7 @@ site:
 ```
 
 ## Go | go
-```{dropdown} Click to expand 12 links
+```{dropdown} Click to expand/collapse 12 links
 - [Get Directory Information in Golang](get-directory-information-in-golang)
 - [Tips on Golang](tips-on-golang)
 - [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
@@ -6056,13 +6058,13 @@ site:
 ```
 
 ## REST
-```{dropdown} Click to expand 12 links
+```{dropdown} Click to expand/collapse 12 links
 - [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
 - [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
 - [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
 - [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
-- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
 - [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
+- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 - [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
 - [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
@@ -6072,7 +6074,7 @@ site:
 ```
 
 ## R
-```{dropdown} Click to expand 12 links
+```{dropdown} Click to expand/collapse 12 links
 - [Model Fitting in ANOVA Analysis](model-fitting-in-anova-analysis)
 - [Inverse of a Special Class of Matrices with High Dimensions](inverse-of-a-special-class-of-matrices-with-high-dimensions)
 - [Abuse of Vector in R](abuse-of-vector-in-r)
@@ -6088,7 +6090,7 @@ site:
 ```
 
 ## Debian
-```{dropdown} Click to expand 12 links
+```{dropdown} Click to expand/collapse 12 links
 - [Comparison of (Debian Series) Linux Distributions](comparison-of-debian-series-linux-distributions)
 - [Tips on Debian](tips-on-debian)
 - [Chinese Locale in Linux](chinese-locale-in-linux)
@@ -6103,8 +6105,24 @@ site:
 - [Install Firefox in Debian](install-firefox-in-debian)
 ```
 
+## development
+```{dropdown} Click to expand/collapse 12 links
+- [Tips on Web Development](tips-on-web-development)
+- [Debugging, Unit Testing and CICD in Python](debugging-unit-testing-and-cicd-in-python)
+- [Tips on Google Firebase Studio](tips-on-google-firebase-studio)
+- [Common Issues and Solutions for GitHub Actions](common-issues-and-solutions-for-github-actions)
+- [Use Docker Containers for GitHub Actions](use-docker-containers-for-github-actions)
+- [Self-hosted Runners for GitHub Actions](self-hosted-runners-for-github-actions)
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [Dev Tools for Rust](dev-tools-for-rust)
+- [App Platforms](app-platforms)
+- [Tips on Distributed Development](tips-on-distributed-development)
+- [Tips on Frontend Development](tips-on-frontend-development)
+- [Tips on Backend Development](tips-on-backend-development)
+```
+
 ## NLP
-```{dropdown} Click to expand 12 links
+```{dropdown} Click to expand/collapse 12 links
 - [Nature Language Processing Using NLTK](nature-language-processing-using-nltk)
 - [Keywords Extracting from Text](keywords-extracting-from-text)
 - [Terminologies and Concepts in NLP](terminologies-and-concepts-in-nlp)
@@ -6120,7 +6138,7 @@ site:
 ```
 
 ## math
-```{dropdown} Click to expand 11 links
+```{dropdown} Click to expand/collapse 11 links
 - [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
 - [Good Third-party Math Libraries for Scala](good-third-party-math-libraries-for-scala)
 - [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan)
@@ -6135,7 +6153,7 @@ site:
 ```
 
 ## App | app
-```{dropdown} Click to expand 11 links
+```{dropdown} Click to expand/collapse 11 links
 - [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
 - [Ghostty Is a Decent Terminal App](ghostty-is-a-decent-terminal-app)
 - [Use Streamlit to Build a Web App Quickly Using Python](use-streamlit-to-build-a-web-app-quickly-using-python)
@@ -6150,7 +6168,7 @@ site:
 ```
 
 ## deserialization
-```{dropdown} Click to expand 11 links
+```{dropdown} Click to expand/collapse 11 links
 - [Hands on the json Module in Python](hands-on-the-json-module-in-python)
 - [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args[0]-from-__newobj__-args-has-the-wrong-class)
 - [Tips on JSON](tips-on-json)
@@ -6165,7 +6183,7 @@ site:
 ```
 
 ## Map | map
-```{dropdown} Click to expand 11 links
+```{dropdown} Click to expand/collapse 11 links
 - [Collections in Kotlin](collections-in-kotlin)
 - [HashMap in Scala](hashmap-in-scala)
 - [Row-based Mapping and Filtering on DataFrames in Spark](row-based-mapping-and-filtering-on-dataframes-in-spark)
@@ -6180,7 +6198,7 @@ site:
 ```
 
 ## high performance computing
-```{dropdown} Click to expand 11 links
+```{dropdown} Click to expand/collapse 11 links
 - [Hands on the Python module threading](hands-on-the-python-module-threading)
 - [Hands on the Python module Multiprocessing](hands-on-the-python-module-multiprocessing)
 - [Using Optimus for Data Profiling in PySpark](using-optimus-for-data-profiling-in-pyspark)
@@ -6195,7 +6213,7 @@ site:
 ```
 
 ## date
-```{dropdown} Click to expand 11 links
+```{dropdown} Click to expand/collapse 11 links
 - [Date and Time in Python pandas](date-and-time-in-python-pandas)
 - [Hands on the datetime Module in Python](hands-on-the-datetime-module-in-python)
 - [Handling Timezone Correctly in Python](handling-timezone-correctly-in-python)
@@ -6210,7 +6228,7 @@ site:
 ```
 
 ## Spark SQL
-```{dropdown} Click to expand 11 links
+```{dropdown} Click to expand/collapse 11 links
 - [Rounding Functions in Spark](rounding-functions-in-spark)
 - [The Case Statement and the when Function in Spark](the-case-statement-and-the-when-function-in-spark)
 - [String Functions in Spark](string-functions-in-spark)
@@ -6225,7 +6243,7 @@ site:
 ```
 
 ## repository
-```{dropdown} Click to expand 11 links
+```{dropdown} Click to expand/collapse 11 links
 - [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
 - [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
 - [Speed Up sbt in China](speed-up-sbt-in-china)
@@ -6239,23 +6257,8 @@ site:
 - [Download a Single File from a GitHub Repository](download-a-single-file-from-a-github-repository)
 ```
 
-## development
-```{dropdown} Click to expand 11 links
-- [Tips on Web Development](tips-on-web-development)
-- [Debugging, Unit Testing and CICD in Python](debugging-unit-testing-and-cicd-in-python)
-- [Common Issues and Solutions for GitHub Actions](common-issues-and-solutions-for-github-actions)
-- [Use Docker Containers for GitHub Actions](use-docker-containers-for-github-actions)
-- [Self-hosted Runners for GitHub Actions](self-hosted-runners-for-github-actions)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
-- [Dev Tools for Rust](dev-tools-for-rust)
-- [App Platforms](app-platforms)
-- [Tips on Distributed Development](tips-on-distributed-development)
-- [Tips on Frontend Development](tips-on-frontend-development)
-- [Tips on Backend Development](tips-on-backend-development)
-```
-
 ## CICD
-```{dropdown} Click to expand 11 links
+```{dropdown} Click to expand/collapse 11 links
 - [Tips on GitHub](tips-on-github)
 - [CI/CD for Machine Learning](ci-cd-for-machine-learning)
 - [Tips on GitHub Actions](tips-on-github-actions)
@@ -6270,7 +6273,7 @@ site:
 ```
 
 ## Cargo | cargo
-```{dropdown} Click to expand 11 links
+```{dropdown} Click to expand/collapse 11 links
 - [Tips on Rust](tips-on-rust)
 - [Speed Up Rust Build With Cache](speed-up-rust-build-with-cache)
 - [Find Unused Rust Dependencies Using cargo-udeps](find-unused-rust-dependencies-using-cargo-udeps)
@@ -6285,7 +6288,7 @@ site:
 ```
 
 ## build
-```{dropdown} Click to expand 11 links
+```{dropdown} Click to expand/collapse 11 links
 - [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
 - [Cargo Build Script Add Wings to Cargo Build](cargo-build-script-add-wings-to-cargo-build)
 - [Compiler and Build Tools](compiler-and-build-tools)
@@ -6300,7 +6303,7 @@ site:
 ```
 
 ## vehicle | Vehicle
-```{dropdown} Click to expand 11 links
+```{dropdown} Click to expand/collapse 11 links
 - [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
 - [Proximity Locking on Rivian](proximity-locking-on-rivian)
 - [Tips on Electronic Vehicles](tips-on-electronic-vehicles)
@@ -6315,7 +6318,7 @@ site:
 ```
 
 ## cpp
-```{dropdown} Click to expand 10 links
+```{dropdown} Click to expand/collapse 10 links
 - [Equivalent of C++'s std::set_difference in Rust](equivalent-of-c++-s-std-set_difference-in-rust)
 - [Speed up Python Using Native Code](speed-up-python-using-native-code)
 - [Tips on C++ Compilers](tips-on-c++-compilers)
@@ -6329,7 +6332,7 @@ site:
 ```
 
 ## VirtualBox | virtualbox
-```{dropdown} Click to expand 10 links
+```{dropdown} Click to expand/collapse 10 links
 - [Windows Emulation on Linux](windows-emulation-on-linux)
 - [Android Emulators](android-emulators)
 - [Tips on VirtualBox](tips-on-virtualbox)
@@ -6343,7 +6346,7 @@ site:
 ```
 
 ## library
-```{dropdown} Click to expand 10 links
+```{dropdown} Click to expand/collapse 10 links
 - [Good Third-party Math Libraries for Scala](good-third-party-math-libraries-for-scala)
 - [Good C++ Libraries](good-c++-libraries)
 - [Python Modules for Visualization](python-modules-for-visualization)
@@ -6357,7 +6360,7 @@ site:
 ```
 
 ## video
-```{dropdown} Click to expand 10 links
+```{dropdown} Click to expand/collapse 10 links
 - [Python Scripting for Blender](python-scripting-for-blender)
 - [Tips on FFmpeg](tips-on-ffmpeg)
 - [Extract Images from Video Using OpenCV in Python](extract-images-from-video-using-opencv-in-python)
@@ -6371,7 +6374,7 @@ site:
 ```
 
 ## thread
-```{dropdown} Click to expand 10 links
+```{dropdown} Click to expand/collapse 10 links
 - [Hands on the Python module threading](hands-on-the-python-module-threading)
 - [Tips on C++ Compilers](tips-on-c++-compilers)
 - [Parallel Computing in Java](parallel-computing-in-java)
@@ -6385,7 +6388,7 @@ site:
 ```
 
 ## path | PATH | Path
-```{dropdown} Click to expand 10 links
+```{dropdown} Click to expand/collapse 10 links
 - [Path in Rust](path-in-rust)
 - [Get Directory Information in Golang](get-directory-information-in-golang)
 - [Check Whether a Path Exists in Golang](check-whether-a-path-exists-in-golang)
@@ -6399,7 +6402,7 @@ site:
 ```
 
 ## C/C++
-```{dropdown} Click to expand 10 links
+```{dropdown} Click to expand/collapse 10 links
 - [Operators in Different Programming Languages](operators-in-different-programming-languages)
 - [Parallel and Concurrency Programming in C++11](parallel-and-concurrency-programming-in-c++11)
 - [Lvalue Reference and Rvalue Reference](lvalue-reference-and-rvalue-reference)
@@ -6413,7 +6416,7 @@ site:
 ```
 
 ## Bash | bash
-```{dropdown} Click to expand 10 links
+```{dropdown} Click to expand/collapse 10 links
 - [Operators in Different Programming Languages](operators-in-different-programming-languages)
 - [Docker in WSL 2](docker-in-wsl-2)
 - [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
@@ -6427,7 +6430,7 @@ site:
 ```
 
 ## JS
-```{dropdown} Click to expand 10 links
+```{dropdown} Click to expand/collapse 10 links
 - [Tips on JavaScript](tips-on-javascript)
 - [Tips on NodeJS](tips-on-nodejs)
 - [Tips on Deno](tips-on-deno)
@@ -6441,7 +6444,7 @@ site:
 ```
 
 ## filesystem | FileSystem
-```{dropdown} Click to expand 10 links
+```{dropdown} Click to expand/collapse 10 links
 - [Hadoop Filesystem Tips](hadoop-filesystem-tips)
 - [Tips on rsync](tips-on-rsync)
 - [WSL2 Filesystem](wsl2-filesystem)
@@ -6455,7 +6458,7 @@ site:
 ```
 
 ## type
-```{dropdown} Click to expand 10 links
+```{dropdown} Click to expand/collapse 10 links
 - [Constraints on Types in Rust](constraints-on-types-in-rust)
 - [Types of Joins of Spark DataFrames](types-of-joins-of-spark-dataframes)
 - [Spark Issue: RuntimeException: Unsupported Literal Type Class](spark-issue-runtimeexception-unsupported-literal-type-class)
@@ -6469,7 +6472,7 @@ site:
 ```
 
 ## synchronization
-```{dropdown} Click to expand 9 links
+```{dropdown} Click to expand/collapse 9 links
 - [Backup Files Using "rsnapshot"](backup-files-using-rsnapshot)
 - [Tips on Resilio Sync](tips-on-resilio-sync)
 - [Tips on TeamDrive](tips-on-teamdrive)
@@ -6482,7 +6485,7 @@ site:
 ```
 
 ## tool
-```{dropdown} Click to expand 9 links
+```{dropdown} Click to expand/collapse 9 links
 - [Tips on MuMu App Player](tips-on-mumu-app-player)
 - [Linux Network Tools](linux-network-tools)
 - [Rip Is rm Improved](rip-is-rm-improved)
@@ -6495,7 +6498,7 @@ site:
 ```
 
 ## LLM
-```{dropdown} Click to expand 9 links
+```{dropdown} Click to expand/collapse 9 links
 - [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
 - [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 - [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
@@ -6508,7 +6511,7 @@ site:
 ```
 
 ## Series | series
-```{dropdown} Click to expand 9 links
+```{dropdown} Click to expand/collapse 9 links
 - [Convert Between a Pandas.Series and a Dict-Like Object](convert-between-a-pandas.series-and-a-dict-like-object)
 - [Hands on pandas.Series in Python](hands-on-pandas.series-in-python)
 - [Understand Index in pandas](understand-index-in-pandas)
@@ -6521,7 +6524,7 @@ site:
 ```
 
 ## version
-```{dropdown} Click to expand 9 links
+```{dropdown} Click to expand/collapse 9 links
 - [Get the Version of Python](get-the-version-of-python)
 - [Common Errors Encountered in Scala and Solutions](common-errors-encountered-in-scala-and-solutions)
 - [GitHub Alternatives](github-alternatives)
@@ -6534,7 +6537,7 @@ site:
 ```
 
 ## numpy
-```{dropdown} Click to expand 9 links
+```{dropdown} Click to expand/collapse 9 links
 - [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
 - [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
 - [Load Images into Pillow](load-images-into-pillow)
@@ -6547,7 +6550,7 @@ site:
 ```
 
 ## RNG
-```{dropdown} Click to expand 9 links
+```{dropdown} Click to expand/collapse 9 links
 - [Understand System.identityHashCode in Java](understand-system.identityhashcode-in-java)
 - [Hands on the Python module random](hands-on-the-python-module-random)
 - [Generating Random Numbers in Rust](generating-random-numbers-in-rust)
@@ -6560,7 +6563,7 @@ site:
 ```
 
 ## column
-```{dropdown} Click to expand 9 links
+```{dropdown} Click to expand/collapse 9 links
 - [Row-based Mapping and Filtering on DataFrames in Spark](row-based-mapping-and-filtering-on-dataframes-in-spark)
 - [Add Columns into a pandas DataFrame](add-columns-into-a-pandas-dataframe)
 - [Using Temporary Columns in Spark](using-temporary-columns-in-spark)
@@ -6573,7 +6576,7 @@ site:
 ```
 
 ## backend
-```{dropdown} Click to expand 9 links
+```{dropdown} Click to expand/collapse 9 links
 - [Tips on Web Development](tips-on-web-development)
 - [Tips on Shuttle for Deploying Rust Apps](tips-on-shuttle-for-deploying-rust-apps)
 - [Rust Backend Frameworks for Rest APIs](rust-backend-frameworks-for-rest-apis)
@@ -6586,7 +6589,7 @@ site:
 ```
 
 ## Apple
-```{dropdown} Click to expand 9 links
+```{dropdown} Click to expand/collapse 9 links
 - [Tips on macOS](tips-on-macos)
 - [Shortcuts in macOS](shortcuts-in-macos)
 - [Enable and Disable Key Repeating in macOS](enable-and-disable-key-repeating-in-macos)
@@ -6599,7 +6602,7 @@ site:
 ```
 
 ## NeoVim | neovim
-```{dropdown} Click to expand 9 links
+```{dropdown} Click to expand/collapse 9 links
 - [Typing Chinese in Vim](typing-chinese-in-vim)
 - [Tips on AstroNvim](tips-on-astronvim)
 - [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
@@ -6612,7 +6615,7 @@ site:
 ```
 
 ## travel
-```{dropdown} Click to expand 9 links
+```{dropdown} Click to expand/collapse 9 links
 - [Traveling Without Hassle](traveling-without-hassle)
 - [Tips on US Visas](tips-on-us-visas)
 - [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
@@ -6625,7 +6628,7 @@ site:
 ```
 
 ## GitHub Actions
-```{dropdown} Click to expand 9 links
+```{dropdown} Click to expand/collapse 9 links
 - [Tips on GitHub](tips-on-github)
 - [CI/CD for Machine Learning](ci-cd-for-machine-learning)
 - [Tips on GitHub Actions](tips-on-github-actions)
@@ -6638,33 +6641,33 @@ site:
 ```
 
 ## Kubernetes
-```{dropdown} Click to expand 9 links
+```{dropdown} Click to expand/collapse 9 links
 - [Tips on Kubernetes](tips-on-kubernetes)
 - [Tips on Minikube](tips-on-minikube)
 - [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
 - [Webassembly as An Alternative to Containers](webassembly-as-an-alternative-to-containers)
 - [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
 - [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
-- [Tips on OpenFaaS](tips-on-openfaas)
-- [Deploy Apache Ray](deploy-apache-ray)
 - [Tips on Microk8S](tips-on-microk8s)
+- [Deploy Apache Ray](deploy-apache-ray)
+- [Tips on OpenFaaS](tips-on-openfaas)
 ```
 
 ## k8s
-```{dropdown} Click to expand 9 links
+```{dropdown} Click to expand/collapse 9 links
 - [Tips on Kubernetes](tips-on-kubernetes)
 - [Tips on Minikube](tips-on-minikube)
 - [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
 - [Webassembly as An Alternative to Containers](webassembly-as-an-alternative-to-containers)
 - [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
 - [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
-- [Tips on OpenFaaS](tips-on-openfaas)
-- [Deploy Apache Ray](deploy-apache-ray)
 - [Tips on Microk8S](tips-on-microk8s)
+- [Deploy Apache Ray](deploy-apache-ray)
+- [Tips on OpenFaaS](tips-on-openfaas)
 ```
 
 ## EV
-```{dropdown} Click to expand 9 links
+```{dropdown} Click to expand/collapse 9 links
 - [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
 - [Tips on Rivian Electronic Vehicles](tips-on-rivian-electronic-vehicles)
 - [Tips on Electronic Vehicles](tips-on-electronic-vehicles)
@@ -6677,7 +6680,7 @@ site:
 ```
 
 ## trading
-```{dropdown} Click to expand 9 links
+```{dropdown} Click to expand/collapse 9 links
 - [Quant Trading](quant-trading)
 - [Tips on Charles Schwab](tips-on-charles-schwab)
 - [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
@@ -6690,7 +6693,7 @@ site:
 ```
 
 ## security
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Shodan - Search Engine for IoT](shodan-search-engine-for-iot)
 - [Package Capture on Phones](package-capture-on-phones)
 - [Tips on Security](tips-on-security)
@@ -6702,7 +6705,7 @@ site:
 ```
 
 ## pattern
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
 - [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
 - [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
@@ -6714,7 +6717,7 @@ site:
 ```
 
 ## sequence
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
 - [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
 - [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
@@ -6726,7 +6729,7 @@ site:
 ```
 
 ## desktop
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Manage AppImages on Linux](manage-appimages-on-linux)
 - [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
 - [Working Remotely in Linux](working-remotely-in-linux)
@@ -6738,7 +6741,7 @@ site:
 ```
 
 ## automation
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 - [Web Automation](web-automation)
 - [Use OculiX to Automate Anything](use-oculix-to-automate-anything)
@@ -6750,7 +6753,7 @@ site:
 ```
 
 ## plugin
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Useful Chrome Extensions](useful-chrome-extensions)
 - [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
 - [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
@@ -6762,7 +6765,7 @@ site:
 ```
 
 ## download
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Downloading Tools](downloading-tools)
 - [Download Files from the Internet in Python](download-files-from-the-internet-in-python)
 - [Use External Downloader for Firefox](use-external-downloader-for-firefox)
@@ -6774,7 +6777,7 @@ site:
 ```
 
 ## SQLite3
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Split String into Rows in SQL](split-string-into-rows-in-sql)
 - [Install Newer Version of SQLite3 on Debian Jessie](install-newer-version-of-sqlite3-on-debian-jessie)
 - [Tips on visualize-sqlite](tips-on-visualize-sqlite)
@@ -6786,7 +6789,7 @@ site:
 ```
 
 ## CSV
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Read/Write CSV in Spark](read-write-csv-in-spark)
 - [Read/Write CSV in Spark](read-write-csv-in-spark)
 - [Read/Write CSV in PySpark](read-write-csv-in-pyspark)
@@ -6798,7 +6801,7 @@ site:
 ```
 
 ## Parquet
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Read/Write Parquet Files in Spark](read-write-parquet-files-in-spark)
 - [Handling Complicated Data Types in Python and PySpark](handling-complicated-data-types-in-python-and-pyspark)
 - [Nested Data Structures in Databases](nested-data-structures-in-databases)
@@ -6810,7 +6813,7 @@ site:
 ```
 
 ## function
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Named Arguments in Kotlin](named-arguments-in-kotlin)
 - [Function in Rust](function-in-rust)
 - [Date Functions in Spark](date-functions-in-spark)
@@ -6822,7 +6825,7 @@ site:
 ```
 
 ## iterator
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Iterator in Kotlin](iterator-in-kotlin)
 - [Generator in Python](generator-in-python)
 - [Iterator in Rust](iterator-in-rust)
@@ -6834,7 +6837,7 @@ site:
 ```
 
 ## str
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [String vs Bytecode in Python](string-vs-bytecode-in-python)
 - [String in Rust](string-in-rust)
 - [Format a String in Python](format-a-string-in-python)
@@ -6846,7 +6849,7 @@ site:
 ```
 
 ## profile
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Performance Profiling of JVM Applications](performance-profiling-of-jvm-applications)
 - [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
 - [Profile Performance of Python Applications](profile-performance-of-python-applications)
@@ -6858,7 +6861,7 @@ site:
 ```
 
 ## Index | index
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Change the Index of a pandas DataFrame](change-the-index-of-a-pandas-dataframe)
 - [Reset the Index of a pandas DataFrame](reset-the-index-of-a-pandas-dataframe)
 - [Construct MultiIndexes in pandas](construct-multiindexes-in-pandas)
@@ -6870,7 +6873,7 @@ site:
 ```
 
 ## directory
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Iterate All Descendant Files in a Directory in Python](iterate-all-descendant-files-in-a-directory-in-python)
 - [Get Directory Information in Golang](get-directory-information-in-golang)
 - [Gitignore Examples](gitignore-examples)
@@ -6882,7 +6885,7 @@ site:
 ```
 
 ## logging
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Hands on the logging Module in Python](hands-on-the-logging-module-in-python)
 - [Ensure Capturing Log of Applications](ensure-capturing-log-of-applications)
 - [General Tips on Logging](general-tips-on-logging)
@@ -6894,7 +6897,7 @@ site:
 ```
 
 ## concurrency | Concurrency
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Parallel Computing in Java](parallel-computing-in-java)
 - [Parallel and Concurrency Programming in C++11](parallel-and-concurrency-programming-in-c++11)
 - [Rust Crates for Parallel, Concurrency, Async and Distributed Applications](rust-crates-for-parallel-concurrency-async-and-distributed-applications)
@@ -6906,7 +6909,7 @@ site:
 ```
 
 ## Firefox
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Tips on Firefox](tips-on-firefox)
 - [Use External Downloader for Firefox](use-external-downloader-for-firefox)
 - [Vim Keybindings in Firefox Using Tridactyl](vim-keybindings-in-firefox-using-tridactyl)
@@ -6918,7 +6921,7 @@ site:
 ```
 
 ## shopping
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Tips on Housing](tips-on-housing)
 - [Living in Charlotte](living-in-charlotte)
 - [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
@@ -6930,7 +6933,7 @@ site:
 ```
 
 ## graph | Graph
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Visualization Using Plotly](visualization-using-plotly)
 - [Inline Dot Graph in Docs](inline-dot-graph-in-docs)
 - [Multiple Lines on the Same Plot Using hvplot](multiple-lines-on-the-same-plot-using-hvplot)
@@ -6942,19 +6945,19 @@ site:
 ```
 
 ## docker image | Docker image
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Docker Images for OS](docker-images-for-os)
 - [Docker Images for Database](docker-images-for-database)
 - [Manage Docker Images and Containers](manage-docker-images-and-containers)
 - [My Docker Images](my-docker-images)
-- [Docker Images for Zeppelin](docker-images-for-zeppelin)
 - [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
+- [Docker Images for Zeppelin](docker-images-for-zeppelin)
 - [Docker Images for Visualization](docker-images-for-visualization)
 - [Docker Images for Synchronization](docker-images-for-synchronization)
 ```
 
 ## documentation
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Documentation Generating Tool for Python](documentation-generating-tool-for-python)
 - [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
 - [Markdown Tools Written in Rust](markdown-tools-written-in-rust)
@@ -6966,7 +6969,7 @@ site:
 ```
 
 ## profiling
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
 - [Tips on Great Expectations](tips-on-great-expectations)
 - [Profile Rust Applications](profile-rust-applications)
@@ -6978,7 +6981,7 @@ site:
 ```
 
 ## reference
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Lvalue Reference and Rvalue Reference](lvalue-reference-and-rvalue-reference)
 - [Scientific References](scientific-references)
 - [Linked List in Rust](linked-list-in-rust)
@@ -6990,7 +6993,7 @@ site:
 ```
 
 ## hash
-```{dropdown} Click to expand 8 links
+```{dropdown} Click to expand/collapse 8 links
 - [Perfect Hash Functions](perfect-hash-functions)
 - [Hands on the Rust Crate lru](hands-on-the-rust-crate-lru)
 - [Hash Password Using Python](hash-password-using-python)
@@ -7002,7 +7005,7 @@ site:
 ```
 
 ## work | Work
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Some Terminologies in Anti-money Laundering (AML)](some-terminologies-in-anti-money-laundering-aml)
 - [Tips on Career](tips-on-career)
 - [Culture of My Summer Intern Team](culture-of-my-summer-intern-team)
@@ -7013,7 +7016,7 @@ site:
 ```
 
 ## IoT | IOT
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Shodan - Search Engine for IoT](shodan-search-engine-for-iot)
 - [Tools for Drone](tools-for-drone)
 - [Rust for IoT](rust-for-iot)
@@ -7024,7 +7027,7 @@ site:
 ```
 
 ## variable
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Rust Error "error: expected item, found 'let'"](rust-error-error-expected-item-found-let)
 - [Define Variables in Rust](define-variables-in-rust)
 - [Environment Variables and Secure Path for sudo](environment-variables-and-secure-path-for-sudo)
@@ -7035,7 +7038,7 @@ site:
 ```
 
 ## module
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Rust Error "error: expected item, found 'let'"](rust-error-error-expected-item-found-let)
 - [Get the Dependencies of a Python Package Without Installing It](get-the-dependencies-of-a-python-package-without-installing-it)
 - [Tips on Python Module](tips-on-python-module)
@@ -7046,7 +7049,7 @@ site:
 ```
 
 ## vector | Vector
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Equivalent of C++'s std::set_difference in Rust](equivalent-of-c++-s-std-set_difference-in-rust)
 - [Differences Between Vector and ArrayList in Java](differences-between-vector-and-arraylist-in-java)
 - [Abuse of Vector in R](abuse-of-vector-in-r)
@@ -7057,7 +7060,7 @@ site:
 ```
 
 ## Chinese
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Chinese Input Methods](chinese-input-methods)
 - [Configure Fcitx5 for KDE Plasma](configure-fcitx5-for-kde-plasma)
 - [Typing Chinese in Vim](typing-chinese-in-vim)
@@ -7068,7 +7071,7 @@ site:
 ```
 
 ## KDE
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Configure Fcitx5 for KDE Plasma](configure-fcitx5-for-kde-plasma)
 - [Tips on Basket in KDE](tips-on-basket-in-kde)
 - [Manage Autostart Applications](manage-autostart-applications)
@@ -7079,7 +7082,7 @@ site:
 ```
 
 ## JSON | json
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Parsing YAML in Python](parsing-yaml-in-python)
 - [Tips on JSON](tips-on-json)
 - [Commonly Used File Formats for Configuration](commonly-used-file-formats-for-configuration)
@@ -7090,7 +7093,7 @@ site:
 ```
 
 ## browser
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 - [Run UserScripts in Browsers](run-userscripts-in-browsers)
 - [Selectively Disable Vimperator on Webpages](selectively-disable-vimperator-on-webpages)
@@ -7101,7 +7104,7 @@ site:
 ```
 
 ## HTML | html
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [File Converting and Generating Tools](file-converting-and-generating-tools)
 - [Tips on Web Development](tips-on-web-development)
 - [Tips on HTML](tips-on-html)
@@ -7112,7 +7115,7 @@ site:
 ```
 
 ## unit testing
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Unit Testing for Spark](unit-testing-for-spark)
 - [Debugging, Unit Testing and CICD in Python](debugging-unit-testing-and-cicd-in-python)
 - [CI/CD for Machine Learning](ci-cd-for-machine-learning)
@@ -7123,7 +7126,7 @@ site:
 ```
 
 ## sort
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Sort a List in Kotlin](sort-a-list-in-kotlin)
 - [Sort Collections in Python](sort-collections-in-python)
 - [Sort DataFrame in Spark](sort-dataframe-in-spark)
@@ -7134,7 +7137,7 @@ site:
 ```
 
 ## formatting
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Format String in Java](format-string-in-java)
 - [Round/Format Numbers in Java](round-format-numbers-in-java)
 - [Ruff Is An Extremely Fast Python Linter Written in Rust](ruff-is-an-extremely-fast-python-linter-written-in-rust)
@@ -7145,7 +7148,7 @@ site:
 ```
 
 ## test
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Best Way of Using HoloViews](best-way-of-using-holoviews)
 - [CI/CD for Machine Learning](ci-cd-for-machine-learning)
 - [Unit Test in Rust](unit-test-in-rust)
@@ -7156,7 +7159,7 @@ site:
 ```
 
 ## performance
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Performance Profiling of JVM Applications](performance-profiling-of-jvm-applications)
 - [Profile Performance of Python Applications](profile-performance-of-python-applications)
 - [Improve the Performance of Spark](improve-the-performance-of-spark)
@@ -7167,7 +7170,7 @@ site:
 ```
 
 ## datetime | DateTime
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Date and Time in Python pandas](date-and-time-in-python-pandas)
 - [Hands on the datetime Module in Python](hands-on-the-datetime-module-in-python)
 - [Handling Timezone Correctly in Python](handling-timezone-correctly-in-python)
@@ -7178,7 +7181,7 @@ site:
 ```
 
 ## dependency
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
 - [Get the Dependencies of a Python Package Without Installing It](get-the-dependencies-of-a-python-package-without-installing-it)
 - [Find Unused Rust Dependencies Using cargo-udeps](find-unused-rust-dependencies-using-cargo-udeps)
@@ -7189,7 +7192,7 @@ site:
 ```
 
 ## resource
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Hands on the psutil Module in Python](hands-on-the-psutil-module-in-python)
 - [Data Sources](data-sources)
 - [Bundle Resource Files into a Rust Application](bundle-resource-files-into-a-rust-application)
@@ -7200,7 +7203,7 @@ site:
 ```
 
 ## stack
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Numpy Arrays in Python](numpy-arrays-in-python)
 - [Debug Stack Overflow Issues in Rust](debug-stack-overflow-issues-in-rust)
 - [Memory Layout in Rust](memory-layout-in-rust)
@@ -7211,7 +7214,7 @@ site:
 ```
 
 ## remote
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Working Remotely in Linux](working-remotely-in-linux)
 - [Useful Tools in Linux](useful-tools-in-linux)
 - [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
@@ -7222,7 +7225,7 @@ site:
 ```
 
 ## compiler
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Tips on C++ Compilers](tips-on-c++-compilers)
 - [Tips on ANTLR4](tips-on-antlr4)
 - [General Tips for Gradle](general-tips-for-gradle)
@@ -7233,7 +7236,7 @@ site:
 ```
 
 ## parallel
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Parallel Computing in Java](parallel-computing-in-java)
 - [Parallel and Concurrency Programming in C++11](parallel-and-concurrency-programming-in-c++11)
 - [Async, Concurrency, Multithreading and Parallel Computing in Rust](async-concurrency-multithreading-and-parallel-computing-in-rust)
@@ -7244,7 +7247,7 @@ site:
 ```
 
 ## frontend
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Tips on Web Development](tips-on-web-development)
 - [Tips on JavaScript](tips-on-javascript)
 - [Tips on NodeJS](tips-on-nodejs)
@@ -7255,7 +7258,7 @@ site:
 ```
 
 ## VPN
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Tips on VPN](tips-on-vpn)
 - [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
 - [Proxy and VPN Services](proxy-and-vpn-services)
@@ -7266,7 +7269,7 @@ site:
 ```
 
 ## debug
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Debug C/C++ Code Using GDB](debug-c-c++-code-using-gdb)
 - [Debug a Rust Application](debug-a-rust-application)
 - [Common Mistakes in C++ Code and Ways to Debug](common-mistakes-in-c++-code-and-ways-to-debug)
@@ -7277,7 +7280,7 @@ site:
 ```
 
 ## Jupyter Notebook | Jupyter notebook
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
 - [Jupyter Notebook Kernels](jupyter-notebook-kernels)
 - [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
@@ -7288,7 +7291,7 @@ site:
 ```
 
 ## installation
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Install Kotlin](install-kotlin)
 - [Install Docker](install-docker)
 - [Things to Do After Installing Linux](things-to-do-after-installing-linux)
@@ -7299,7 +7302,7 @@ site:
 ```
 
 ## pip
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Could Not Build Wheels for Numpy Which Use Pep 517](could-not-build-wheels-for-numpy-which-use-pep-517)
 - [Install Python Packages Using pip](install-python-packages-using-pip)
 - [Tips on PyPy](tips-on-pypy)
@@ -7310,7 +7313,7 @@ site:
 ```
 
 ## screen
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Screen Resolution in macOS](screen-resolution-in-macos)
 - [Take Screenshot in Rust](take-screenshot-in-rust)
 - [Screen Reader Tools](screen-reader-tools)
@@ -7321,7 +7324,7 @@ site:
 ```
 
 ## Rivian
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Proximity Locking on Rivian](proximity-locking-on-rivian)
 - [Tips on Rivian Electronic Vehicles](tips-on-rivian-electronic-vehicles)
 - [Wheels and Tires for Rivian](wheels-and-tires-for-rivian)
@@ -7332,7 +7335,7 @@ site:
 ```
 
 ## parse
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Parse TOML Files in Python](parse-toml-files-in-python)
 - [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
 - [Shell Command Parser](shell-command-parser)
@@ -7343,7 +7346,7 @@ site:
 ```
 
 ## useful
-```{dropdown} Click to expand 7 links
+```{dropdown} Click to expand/collapse 7 links
 - [Useful Rust Crates](useful-rust-crates)
 - [Useful Rust Crates for Filesystem](useful-rust-crates-for-filesystem)
 - [Useful Rust Crates for Numeric Computation](useful-rust-crates-for-numeric-computation)
@@ -7354,7 +7357,7 @@ site:
 ```
 
 ## const
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Rust Error "error: expected item, found 'let'"](rust-error-error-expected-item-found-let)
 - [Define Variables in Rust](define-variables-in-rust)
 - [Const and Static Variables in C++](const-and-static-variables-in-c++)
@@ -7364,7 +7367,7 @@ site:
 ```
 
 ## Android
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Android Emulators](android-emulators)
 - [Tips on Smart Phone](tips-on-smart-phone)
 - [Tips on Android](tips-on-android)
@@ -7374,7 +7377,7 @@ site:
 ```
 
 ## public
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [中国的公共交通服务](public-transportation-china)
 - [Expose Local Services to Public Using ngrok](expose-local-services-to-public-using-ngrok)
 - [Expose Local Service to Public](expose-local-service-to-public)
@@ -7384,7 +7387,7 @@ site:
 ```
 
 ## install
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Manage AppImages on Linux](manage-appimages-on-linux)
 - [Install Kotlin](install-kotlin)
 - [Install Python Packages Using pip](install-python-packages-using-pip)
@@ -7394,7 +7397,7 @@ site:
 ```
 
 ## configuration
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
 - [Power Settings in Linux with GNOME Desktop](power-settings-in-linux-with-gnome-desktop)
 - [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
@@ -7404,7 +7407,7 @@ site:
 ```
 
 ## YAML
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Parsing YAML in Python](parsing-yaml-in-python)
 - [Handle Duplicated Keys in serde_yaml in Rust](handle-duplicated-keys-in-serde_yaml-in-rust)
 - [Tips on YAML](tips-on-yaml)
@@ -7414,7 +7417,7 @@ site:
 ```
 
 ## health
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [医保](health-insurance-in-china)
 - [Tips on Health](tips-on-health)
 - [Tips on Children Health](tips-on-children-health)
@@ -7424,7 +7427,7 @@ site:
 ```
 
 ## extension
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Useful Chrome Extensions](useful-chrome-extensions)
 - [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
 - [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
@@ -7434,7 +7437,7 @@ site:
 ```
 
 ## testing
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Web Automation and Testing Using PlayWright](web-automation-and-testing-using-playwright)
 - [Unit Testing and Formal Verification in Rust](unit-testing-and-formal-verification-in-rust)
 - [Tips on Great Expectations](tips-on-great-expectations)
@@ -7444,7 +7447,7 @@ site:
 ```
 
 ## mac | Mac
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
 - [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
 - [Map Keys in macOS](map-keys-in-macos)
@@ -7454,17 +7457,17 @@ site:
 ```
 
 ## filter
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Image Filters in Pillow](image-filters-in-pillow)
 - [Row-based Mapping and Filtering on DataFrames in Spark](row-based-mapping-and-filtering-on-dataframes-in-spark)
 - [The filter Function in Spark DataFrame](the-filter-function-in-spark-dataframe)
 - [Filter pandas DataFrames in Python](filter-pandas-dataframes-in-python)
-- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
 - [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
+- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
 ```
 
 ## OOP
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [OOP in Kotlin](oop-in-kotlin)
 - [Object Oriented Programming in Java](object-oriented-programming-in-java)
 - [Struct in Rust](struct-in-rust)
@@ -7474,7 +7477,7 @@ site:
 ```
 
 ## Set | set
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Collections in Kotlin](collections-in-kotlin)
 - [Set in Java](set-in-java)
 - [The set Collection in Python](the-set-collection-in-python)
@@ -7484,7 +7487,7 @@ site:
 ```
 
 ## group by
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Aggregation in pandas DataFrame](aggregation-in-pandas-dataframe)
 - [Aggregate DataFrames in Spark](aggregate-dataframes-in-spark)
 - [Group-by Plots in HoloViews](group-by-plots-in-holoviews)
@@ -7494,7 +7497,7 @@ site:
 ```
 
 ## character
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [String in Rust](string-in-rust)
 - [Char in Rust](char-in-rust)
 - [Special Characters to Avoid in Strings](special-characters-to-avoid-in-strings)
@@ -7504,7 +7507,7 @@ site:
 ```
 
 ## read
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Read Multiple Files into a DataFrame in Spark](read-multiple-files-into-a-dataframe-in-spark)
 - [Read/Write Files/Tables in Spark](read-write-files-tables-in-spark)
 - [Read Tensorboard Logs](read-tensorboard-logs)
@@ -7514,7 +7517,7 @@ site:
 ```
 
 ## Arrow | arrow
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Use pyarrow to Share Data in Memory in Python](use-pyarrow-to-share-data-in-memory-in-python)
 - [Spark Issue: Runtimeerror: Arrow Legacy IPC Format Is Not Supported](spark-issue-runtimeerror-arrow-legacy-ipc-format-is-not-supported)
 - [Read and Write Parquet Files in Rust](read-and-write-parquet-files-in-rust)
@@ -7524,7 +7527,7 @@ site:
 ```
 
 ## functions
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Rounding Functions in Spark](rounding-functions-in-spark)
 - [The Case Statement and the when Function in Spark](the-case-statement-and-the-when-function-in-spark)
 - [String Functions in Spark](string-functions-in-spark)
@@ -7534,7 +7537,7 @@ site:
 ```
 
 ## table
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Read/Write Files/Tables in Spark](read-write-files-tables-in-spark)
 - [Hands on the Python Library pdfplumber](hands-on-the-python-library-pdfplumber)
 - [Directly Initialize a Hashmap in Java](directly-initialize-a-hashmap-in-java)
@@ -7544,7 +7547,7 @@ site:
 ```
 
 ## partition
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Partition and Bucketing in Spark](partition-and-bucketing-in-spark)
 - [Spark Issue: InvalidInputException for Some Hive Data Partitions](spark-issue-invalidinputexception-for-some-hive-data-partitions)
 - [Format a Disk on Linux](format-a-disk-on-linux)
@@ -7554,7 +7557,7 @@ site:
 ```
 
 ## process
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Tips on the Shell command ps](tips-on-the-shell-command-ps)
 - [Hands on the psutil Module in Python](hands-on-the-psutil-module-in-python)
 - [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
@@ -7564,7 +7567,7 @@ site:
 ```
 
 ## TOML
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Hands on the Python Library tomlkit](hands-on-the-python-library-tomlkit)
 - [Hands on the Python Library toml](hands-on-the-python-library-toml)
 - [Parse TOML Files in Python](parse-toml-files-in-python)
@@ -7574,7 +7577,7 @@ site:
 ```
 
 ## Actions | actions
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
 - [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
 - [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
@@ -7584,7 +7587,7 @@ site:
 ```
 
 ## Research | research
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Optimization Algorithms](optimization-algorithms)
 - [Some Useful Properties of Modified Bessel Functions of the First Kind](some-useful-properties-of-modified-bessel-functions-of-the-first-kind)
 - [Good Ways to Do Scientific Computing](good-ways-to-do-scientific-computing)
@@ -7594,7 +7597,7 @@ site:
 ```
 
 ## Office | office
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Convert MS Office Document to Text](convert-ms-office-document-to-text)
 - [Convert LaTeX to Word](convert-latex-to-word)
 - [Tips on LibreOffice](tips-on-libreoffice)
@@ -7604,7 +7607,7 @@ site:
 ```
 
 ## distributed
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Tips on Git](tips-on-git)
 - [Rust Crates for Parallel, Concurrency, Async and Distributed Applications](rust-crates-for-parallel-concurrency-async-and-distributed-applications)
 - [Tips on Distributed Development](tips-on-distributed-development)
@@ -7614,7 +7617,7 @@ site:
 ```
 
 ## desktop environment
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [The Xfce Desktop Environment for Linux](the-xfce-desktop-environment-for-linux)
 - [Manage Autostart Applications](manage-autostart-applications)
 - [The Cinnamon Desktop Environment for Linux](the-cinnamon-desktop-environment-for-linux)
@@ -7624,7 +7627,7 @@ site:
 ```
 
 ## operating system
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Tips on Linux Mint](tips-on-linux-mint)
 - [Configure Debian Apt Source List](configure-debian-apt-source-list)
 - [Create a Temporary File in Linux](create-a-temporary-file-in-linux)
@@ -7634,7 +7637,7 @@ site:
 ```
 
 ## language
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Grammar Mistake](grammar-mistake)
 - [Embeddable Scriting Language](embeddable-scriting-language)
 - [Foreign Language Integration in Rust](foreign-language-integration-in-rust)
@@ -7644,7 +7647,7 @@ site:
 ```
 
 ## copy | Copy
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Tips on Android](tips-on-android)
 - [Tips on rsync](tips-on-rsync)
 - [Return a New Object Or Mutate the Existing Object](return-a-new-object-or-mutate-the-existing-object)
@@ -7654,7 +7657,7 @@ site:
 ```
 
 ## CentOS
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Maning Packages Using Yum in CentOS](maning-packages-using-yum-in-centos)
 - [The CentOS Linux Distribution](the-centos-linux-distribution)
 - [Docker Images for OS](docker-images-for-os)
@@ -7664,7 +7667,7 @@ site:
 ```
 
 ## apt
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Configure Proxy for Apt](configure-proxy-for-apt)
 - [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
 - [Configure Debian Apt Source List](configure-debian-apt-source-list)
@@ -7674,7 +7677,7 @@ site:
 ```
 
 ## SBT | sbt
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Scala Dependencies for SBT](scala-dependencies-for-sbt)
 - [Speed Up sbt in China](speed-up-sbt-in-china)
 - [Tips on sbt Assembly](tips-on-sbt-assembly)
@@ -7684,7 +7687,7 @@ site:
 ```
 
 ## zeppelin | Zeppelin
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Tips on Zeppelin](tips-on-zeppelin)
 - [Docker Images for Zeppelin](docker-images-for-zeppelin)
 - [Zeppelin Issues and Solutions](zeppelin-issues-and-solutions)
@@ -7694,7 +7697,7 @@ site:
 ```
 
 ## HTTP | http
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Speed Up sbt in China](speed-up-sbt-in-china)
 - [Tips on httpd](tips-on-httpd)
 - [Tips on Network Protocols](tips-on-network-protocols)
@@ -7704,7 +7707,7 @@ site:
 ```
 
 ## stock
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Investment](investment)
 - [Tips on Earnings Report](tips-on-earnings-report)
 - [Quant Trading](quant-trading)
@@ -7714,7 +7717,7 @@ site:
 ```
 
 ## game
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Games for Linux](games-for-linux)
 - [Rust for Game Development](rust-for-game-development)
 - [Python for Game Development](python-for-game-development)
@@ -7724,7 +7727,7 @@ site:
 ```
 
 ## compile
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [General Tips for Gradle](general-tips-for-gradle)
 - [LaTeX Commands for Compiling](latex-commands-for-compiling)
 - [Sorting At Compile Time in Rust](sorting-at-compile-time-in-rust)
@@ -7734,7 +7737,7 @@ site:
 ```
 
 ## TypeScript
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Tips on TypeScript](tips-on-typescript)
 - [Tips on TypeScript Compiler](tips-on-typescript-compiler)
 - [Tips on Deno](tips-on-deno)
@@ -7744,7 +7747,7 @@ site:
 ```
 
 ## gRPC
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [gRPC GraphQL and RESTful APIs](grpc-graphql-and-restful-apis)
 - [Rust for Backend Development](rust-for-backend-development)
 - [Rust Backend Frameworks for gRPC APIs](rust-backend-frameworks-for-grpc-apis)
@@ -7754,7 +7757,7 @@ site:
 ```
 
 ## Dropbox
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Windows Operating System](windows-operating-system)
 - [Synchronize Files Using Dropbox](synchronize-files-using-dropbox)
 - [Install Dropbox Using Flatpak](install-dropbox-using-flatpak)
@@ -7764,7 +7767,7 @@ site:
 ```
 
 ## linter
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Ruff Is An Extremely Fast Python Linter Written in Rust](ruff-is-an-extremely-fast-python-linter-written-in-rust)
 - [Useful Tools for Python Developing](useful-tools-for-python-developing)
 - [Tips on Sqlfluff](tips-on-sqlfluff)
@@ -7774,7 +7777,7 @@ site:
 ```
 
 ## atomic | Atomic
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Atomic Linux Distributions](atomic-linux-distributions)
 - [Managing Fedora Atomic Core System Using rpm-ostree](managing-fedora-atomic-core-system-using-rpm-ostree)
 - [Install VirtualBox Guest Additions](install-virtualbox-guest-additions)
@@ -7784,7 +7787,7 @@ site:
 ```
 
 ## brokerage
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
 - [Tips on Brokerage](tips-on-brokerage)
 - [Tips on Charles Schwab](tips-on-charles-schwab)
@@ -7794,7 +7797,7 @@ site:
 ```
 
 ## check
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
 - [GitHub Action Task Stuck At Expected](github-action-task-stuck-at-expected)
 - [Tips on Rust Clippy](tips-on-rust-clippy)
@@ -7804,7 +7807,7 @@ site:
 ```
 
 ## RPC
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [Rust for Backend Development](rust-for-backend-development)
 - [Rust Backend Frameworks for gRPC APIs](rust-backend-frameworks-for-grpc-apis)
 - [RPC Implementation in Rust](rpc-implementation-in-rust)
@@ -7814,7 +7817,7 @@ site:
 ```
 
 ## code
-```{dropdown} Click to expand 6 links
+```{dropdown} Click to expand/collapse 6 links
 - [GitHub Alternatives](github-alternatives)
 - [Tips on Refactoring Rust Code](tips-on-refactoring-rust-code)
 - [Format Python Code Using Black](format-python-code-using-black)
@@ -7824,7 +7827,7 @@ site:
 ```
 
 ## backup
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Backup Files Using "rsnapshot"](backup-files-using-rsnapshot)
 - [Tips on TeamDrive](tips-on-teamdrive)
 - [Synchronize Files Using Dropbox](synchronize-files-using-dropbox)
@@ -7833,7 +7836,7 @@ site:
 ```
 
 ## rsync
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Backup Files Using "rsnapshot"](backup-files-using-rsnapshot)
 - [Copying Files in Linux](copying-files-in-linux)
 - [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
@@ -7842,7 +7845,7 @@ site:
 ```
 
 ## phone
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Automated Verizon Phone Bill (Continued)](automated-verizon-phone-bill-continued)
 - [Automated Phone Bill Using Ruby Program](automated-phone-bill-using-ruby-program)
 - [Tips on Verizon](tips-on-verizon)
@@ -7851,7 +7854,7 @@ site:
 ```
 
 ## number
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [What are the Two Integers?](what-are-the-two-integers)
 - [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan)
 - [Magnitude of Numbers](magnitude-of-numbers)
@@ -7860,7 +7863,7 @@ site:
 ```
 
 ## equivalent
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Equivalent of C++'s std::set_difference in Rust](equivalent-of-c++-s-std-set_difference-in-rust)
 - [Regular Expression Equivalent](regular-expression-equivalent)
 - [RMarkdown Equivalent in Python](rmarkdown-equivalent-in-python)
@@ -7869,7 +7872,7 @@ site:
 ```
 
 ## China
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [中国的公共交通服务](public-transportation-china)
 - [医保](health-insurance-in-china)
 - [Living in Shanghai](living-in-shanghai)
@@ -7878,7 +7881,7 @@ site:
 ```
 
 ## find
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
 - [Tips on the find command in Linux](tips-on-the-find-command-in-linux)
 - [Tips on fd](tips-on-fd)
@@ -7887,7 +7890,7 @@ site:
 ```
 
 ## insurance
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [医保](health-insurance-in-china)
 - [Misc Tips in Daily Life](misc-tips-in-daily-life)
 - [Tips on Insurance](tips-on-insurance)
@@ -7896,7 +7899,7 @@ site:
 ```
 
 ## web browser
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Useful Chrome Extensions](useful-chrome-extensions)
 - [Tips on Firefox](tips-on-firefox)
 - [Use External Downloader for Firefox](use-external-downloader-for-firefox)
@@ -7905,7 +7908,7 @@ site:
 ```
 
 ## service
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Local Network Access on macOS](local-network-access-on-macos)
 - [Manage systemd Services and Units](manage-systemd-services-and-units)
 - [Proxy and VPN Services](proxy-and-vpn-services)
@@ -7914,7 +7917,7 @@ site:
 ```
 
 ## convert
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Editing PDF Files](editing-pdf-files)
 - [File Converting and Generating Tools](file-converting-and-generating-tools)
 - [Convert PDF to Image Using Python](convert-pdf-to-image-using-python)
@@ -7923,7 +7926,7 @@ site:
 ```
 
 ## regular expression
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Hands on the re.match object in Python](hands-on-the-re.match-object-in-python)
 - [Make A Dot Match Newline in the re Module in Python](make-a-dot-match-newline-in-the-re-module-in-python)
 - [Online Tools for Popular Programming Languages](online-tools-for-popular-programming-languages)
@@ -7932,7 +7935,7 @@ site:
 ```
 
 ## diff
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
 - [Tools for Differencing Text Files](tools-for-differencing-text-files)
 - [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
@@ -7941,7 +7944,7 @@ site:
 ```
 
 ## difference
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
 - [Subtle Differences Among Spark DataFrame and PySpark Dataframe](subtle-differences-among-spark-dataframe-and-pyspark-dataframe)
 - [The set Collection in Python](the-set-collection-in-python)
@@ -7950,7 +7953,7 @@ site:
 ```
 
 ## Apache
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
 - [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
 - [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
@@ -7959,7 +7962,7 @@ site:
 ```
 
 ## Hashmap | HashMap | hashmap
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Hashmap in Kotlin](hashmap-in-kotlin)
 - [Hands on the Rust Crate lru](hands-on-the-rust-crate-lru)
 - [HashMap in Scala](hashmap-in-scala)
@@ -7968,7 +7971,7 @@ site:
 ```
 
 ## range | Range
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Axis Range of Plots in HoloViews](axis-range-of-plots-in-holoviews)
 - [Create a Date Range in Python](create-a-date-range-in-python)
 - [For Loops in C++](for-loops-in-c++)
@@ -7977,7 +7980,7 @@ site:
 ```
 
 ## generator
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Generator in Python](generator-in-python)
 - [Documentation Generating Tool for Python](documentation-generating-tool-for-python)
 - [Generating Completions Script Using crazy-complete](generating-completions-script-using-crazy-complete)
@@ -7986,7 +7989,7 @@ site:
 ```
 
 ## tensor
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Tensor Transformations in TorchVision](tensor-transformations-in-torchvision)
 - [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
 - [Resize a Tensor in PyTorch](resize-a-tensor-in-pytorch)
@@ -7995,7 +7998,7 @@ site:
 ```
 
 ## information
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Get Information of Application Windows in Python](get-information-of-application-windows-in-python)
 - [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
 - [Get Information of User in Golang](get-information-of-user-in-golang)
@@ -8004,7 +8007,7 @@ site:
 ```
 
 ## reshape
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Drop Rows or Columns from a pandas DataFrame](drop-rows-or-columns-from-a-pandas-dataframe)
 - [Reshape a pandas DataFrame](reshape-a-pandas-dataframe)
 - [Rename Rows and Columns in a pandas DataFrame](rename-rows-and-columns-in-a-pandas-dataframe)
@@ -8013,7 +8016,7 @@ site:
 ```
 
 ## kernel
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
 - [PCIe BUS Error: Severity=Corrected, Type=Physical Layer](pcie-bus-error-severity-corrected-type-physical-layer)
 - [Jupyter Notebook Kernels](jupyter-notebook-kernels)
@@ -8022,7 +8025,7 @@ site:
 ```
 
 ## temporary
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Using Temporary Columns in Spark](using-temporary-columns-in-spark)
 - [Clean Temporary Files in Linux](clean-temporary-files-in-linux)
 - [Create a Temporary File in Linux](create-a-temporary-file-in-linux)
@@ -8031,7 +8034,7 @@ site:
 ```
 
 ## Scikit-learn | scikit-learn
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Linear Regression in Scikit-learn](linear-regression-in-scikit-learn)
 - [Tips on Scikit-Learn](tips-on-scikit-learn)
 - [Visualization of GBDT in scikit-learn](visualization-of-gbdt-in-scikit-learn)
@@ -8040,7 +8043,7 @@ site:
 ```
 
 ## Construct | construct
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Construct Simple Spark DataFrames Using Seq](construct-simple-spark-dataframes-using-seq)
 - [Conversion Between PySpark DataFrames and pandas DataFrames](conversion-between-pyspark-dataframes-and-pandas-dataframes)
 - [Construct MultiIndexes in pandas](construct-multiindexes-in-pandas)
@@ -8049,7 +8052,7 @@ site:
 ```
 
 ## join
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Broadcast Join in Spark](broadcast-join-in-spark)
 - [Types of Joins of Spark DataFrames](types-of-joins-of-spark-dataframes)
 - [Inner Join of Spark DataFrames](inner-join-of-spark-dataframes)
@@ -8058,7 +8061,7 @@ site:
 ```
 
 ## temp
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Hands on the tempfile Module in Python](hands-on-the-tempfile-module-in-python)
 - [Clean Temporary Files in Linux](clean-temporary-files-in-linux)
 - [Create a Temporary File in Linux](create-a-temporary-file-in-linux)
@@ -8067,7 +8070,7 @@ site:
 ```
 
 ## version control
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Hands on Dulwich](hands-on-dulwich)
 - [Tips on Git](tips-on-git)
 - [Git Errors and Solutions](git-errors-and-solutions)
@@ -8076,7 +8079,7 @@ site:
 ```
 
 ## keys
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Handle Duplicated Keys in serde_yaml in Rust](handle-duplicated-keys-in-serde_yaml-in-rust)
 - [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
 - [Map Keys in Linux](map-keys-in-linux)
@@ -8085,7 +8088,7 @@ site:
 ```
 
 ## bug
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Tips on Excel](tips-on-excel)
 - [A Bug in Mathematica](a-bug-in-mathematica)
 - [An IO Bug in R](an-io-bug-in-r)
@@ -8094,7 +8097,7 @@ site:
 ```
 
 ## virtualization
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Software I Use in Windows System](software-i-use-in-windows-system)
 - [Tips on VirtualBox](tips-on-virtualbox)
 - [Tips on Multipass](tips-on-multipass)
@@ -8103,7 +8106,7 @@ site:
 ```
 
 ## async
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Parallel and Concurrency Programming in C++11](parallel-and-concurrency-programming-in-c++11)
 - [Rust Crates for Parallel, Concurrency, Async and Distributed Applications](rust-crates-for-parallel-concurrency-async-and-distributed-applications)
 - [Async in Rust](async-in-rust)
@@ -8112,7 +8115,7 @@ site:
 ```
 
 ## model
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Model Fitting in ANOVA Analysis](model-fitting-in-anova-analysis)
 - [Experiment Design](experiment-design)
 - [Time Series Analysis](time-series-analysis)
@@ -8121,7 +8124,7 @@ site:
 ```
 
 ## data mining
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Clustering Algorithms in Machine Learning](clustering-algorithms-in-machine-learning)
 - [Nature Language Processing Using NLTK](nature-language-processing-using-nltk)
 - [Keywords Extracting from Text](keywords-extracting-from-text)
@@ -8130,7 +8133,7 @@ site:
 ```
 
 ## audio
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Tips on FFmpeg](tips-on-ffmpeg)
 - [Audio Tools](audio-tools)
 - [Fix Microphone Problem of Skype in Debian](fix-microphone-problem-of-skype-in-debian)
@@ -8139,7 +8142,7 @@ site:
 ```
 
 ## remote desktop
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Tips on VNC](tips-on-vnc)
 - [Remote Desktop Using Remmina](remote-desktop-using-remmina)
 - [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
@@ -8148,7 +8151,7 @@ site:
 ```
 
 ## algorithm
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Numeric Algorithms](numeric-algorithms)
 - [Sorting Algorithms in Rust](sorting-algorithms-in-rust)
 - [Computer Science Algorithms](computer-science-algorithms)
@@ -8157,7 +8160,7 @@ site:
 ```
 
 ## drive
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Tips on Car and Driving](tips-on-car-and-driving)
 - [Driving on Snow and Ice](driving-on-snow-and-ice)
 - [Autonomous Driving](autonomous-driving)
@@ -8166,7 +8169,7 @@ site:
 ```
 
 ## email
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Work More Efficiently with Email](work-more-efficiently-with-email)
 - [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
 - [Automated Phone Bill Using Ruby Program](automated-phone-bill-using-ruby-program)
@@ -8175,7 +8178,7 @@ site:
 ```
 
 ## English
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Grammar Mistake](grammar-mistake)
 - [English Writing](english-writing)
 - [English Learning](english-learning)
@@ -8184,7 +8187,7 @@ site:
 ```
 
 ## Pelican
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Generate Static Site Using Pelican](generate-static-site-using-pelican)
 - [Static Site Generators](static-site-generators)
 - [Use JupyterLab Notebooks in Pelican](use-jupyterlab-notebooks-in-pelican)
@@ -8193,7 +8196,7 @@ site:
 ```
 
 ## trip
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Traveling Without Hassle](traveling-without-hassle)
 - [Tips on US Visas](tips-on-us-visas)
 - [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
@@ -8202,7 +8205,7 @@ site:
 ```
 
 ## IntelliJ IDEA
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Vim Keybindings Using IdeaVim in IntelliJ IDEA](vim-keybindings-using-ideavim-in-intellij-idea)
 - [Show Inferred Type in IntelliJ IDEA](show-inferred-type-in-intellij-idea)
 - [Quickly Create a Scala Project Using Gradle in Intellij IDEA](quickly-create-a-scala-project-using-gradle-in-intellij-idea)
@@ -8211,7 +8214,7 @@ site:
 ```
 
 ## CD
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Investment](investment)
 - [Tips on GitHub](tips-on-github)
 - [Low Risk Investments](low-risk-investments)
@@ -8220,7 +8223,7 @@ site:
 ```
 
 ## debugging
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Debugging, Unit Testing and CICD in Python](debugging-unit-testing-and-cicd-in-python)
 - [Useful Tools for Python Developing](useful-tools-for-python-developing)
 - [General Tips on Debugging](general-tips-on-debugging)
@@ -8229,7 +8232,7 @@ site:
 ```
 
 ## Hyper | hyper
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Tips on Hyper](tips-on-hyper)
 - [Quickly Open a Directory in Terminal in Mac](quickly-open-a-directory-in-terminal-in-mac)
 - [Change Shell in Mac](change-shell-in-mac)
@@ -8238,7 +8241,7 @@ site:
 ```
 
 ## cache
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Clean Temporary Files in Linux](clean-temporary-files-in-linux)
 - [Persist and Checkpoint DataFrames in Spark](persist-and-checkpoint-dataframes-in-spark)
 - [Probability to Lose All Money](probability-to-lose-all-money)
@@ -8247,7 +8250,7 @@ site:
 ```
 
 ## remove
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Remove System Applications in macOS](remove-system-applications-in-macos)
 - [Spark Issue: Block Could Not Be Removed as It Was Not Found on Disk or in Memory](spark-issue-block-could-not-be-removed-as-it-was-not-found-on-disk-or-in-memory)
 - [Manage Docker Images and Containers](manage-docker-images-and-containers)
@@ -8256,7 +8259,7 @@ site:
 ```
 
 ## doc
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Documentation Generating Tool for Python](documentation-generating-tool-for-python)
 - [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
 - [Markdown Tools Written in Rust](markdown-tools-written-in-rust)
@@ -8265,7 +8268,7 @@ site:
 ```
 
 ## disk
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Spark Issue: Block Could Not Be Removed as It Was Not Found on Disk or in Memory](spark-issue-block-could-not-be-removed-as-it-was-not-found-on-disk-or-in-memory)
 - [Format a Disk on Linux](format-a-disk-on-linux)
 - [Get Hardware Information in Golang](get-hardware-information-in-golang)
@@ -8274,7 +8277,7 @@ site:
 ```
 
 ## runtime
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [WebAssembly Runtimes](webassembly-runtimes)
 - [Tips on WASM](tips-on-wasm)
 - [Tips on MetaCall](tips-on-metacall)
@@ -8283,7 +8286,7 @@ site:
 ```
 
 ## IPython | ipython
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Dot Is Not Recognized as An Internal or External Command](dot-is-not-recognized-as-an-internal-or-external-command)
 - [Python Alternatives to Shell](python-alternatives-to-shell)
 - [IPython Is the Best Shell](ipython-is-the-best-shell)
@@ -8292,7 +8295,7 @@ site:
 ```
 
 ## sudo
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Sudo: No TTY Present and No AskPass Program Specified](sudo-no-tty-present-and-no-askpass-program-specified)
 - [Add Users to a Group in Linux](add-users-to-a-group-in-linux)
 - [Environment Variables and Secure Path for sudo](environment-variables-and-secure-path-for-sudo)
@@ -8301,7 +8304,7 @@ site:
 ```
 
 ## data structure
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Garbage Collection for Rust](garbage-collection-for-rust)
 - [Hands on dict in Python](hands-on-dict-in-python)
 - [Differences Between Vector and ArrayList in Java](differences-between-vector-and-arraylist-in-java)
@@ -8310,7 +8313,7 @@ site:
 ```
 
 ## home | HOME
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Tips on RV](tips-on-rv)
 - [Tips on DIY](tips-on-diy)
 - [Tips on Buying a House](tips-on-buying-a-house)
@@ -8319,7 +8322,7 @@ site:
 ```
 
 ## OpenCV
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Extract Images from Video Using OpenCV in Python](extract-images-from-video-using-opencv-in-python)
 - [Convert Format of Videos Using Using Python](convert-format-of-videos-using-using-python)
 - [Tips on OpenCV](tips-on-opencv)
@@ -8328,7 +8331,7 @@ site:
 ```
 
 ## Spreadsheet | spreadsheet
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Working with Spreadsheet in Python](working-with-spreadsheet-in-python)
 - [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
 - [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
@@ -8337,7 +8340,7 @@ site:
 ```
 
 ## awk
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Advanced Use of head and tail](advanced-use-of-head-and-tail)
 - [Tips for AWK](tips-for-awk)
 - [Count Number of Fields in Each Line](count-number-of-fields-in-each-line)
@@ -8346,7 +8349,7 @@ site:
 ```
 
 ## user
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Add Users to a Group in Linux](add-users-to-a-group-in-linux)
 - [Get Information of User in Golang](get-information-of-user-in-golang)
 - [Access Control in Spark SQL](access-control-in-spark-sql)
@@ -8355,7 +8358,7 @@ site:
 ```
 
 ## portable
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Write Portable C++ Code](write-portable-c++-code)
 - [Make Your Life Easier with Portable Applications](make-your-life-easier-with-portable-applications)
 - [Packaging Python Dependencies for PySpark Using python-build-standalone](packaging-python-dependencies-for-pyspark-using-python-build-standalone)
@@ -8364,7 +8367,7 @@ site:
 ```
 
 ## lint
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Ruff Is An Extremely Fast Python Linter Written in Rust](ruff-is-an-extremely-fast-python-linter-written-in-rust)
 - [Useful Tools for Python Developing](useful-tools-for-python-developing)
 - [Tips on Rust Clippy](tips-on-rust-clippy)
@@ -8373,7 +8376,7 @@ site:
 ```
 
 ## Tesla
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Tips on Electronic Vehicles](tips-on-electronic-vehicles)
 - [Tips on Vancouver BC](tips-on-vancouver-bc)
 - [Tips on Tesla Superchargers](tips-on-tesla-superchargers)
@@ -8382,7 +8385,7 @@ site:
 ```
 
 ## VM
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Run Virtual Machines on Linux](run-virtual-machines-on-linux)
 - [Tips on QEMU](tips-on-qemu)
 - [GCP Compute Engine VM Instances](gcp-compute-engine-vm-instances)
@@ -8391,7 +8394,7 @@ site:
 ```
 
 ## editor
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
 - [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
 - [Vim as a Universal Editor](vim-as-a-universal-editor)
@@ -8400,7 +8403,7 @@ site:
 ```
 
 ## GCP
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Setup GitHub Actions Self-hosted Runners on GCP](setup-github-actions-self-hosted-runners-on-gcp)
 - [Tips on GCP](tips-on-gcp)
 - [Tips on GCP Compute Engine](tips-on-gcp-compute-engine)
@@ -8409,7 +8412,7 @@ site:
 ```
 
 ## design
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Design Pattern and Productivity for Rust](design-pattern-and-productivity-for-rust)
 - [Tools for Design and Prototyping](tools-for-design-and-prototyping)
 - [Tips on Code Design](tips-on-code-design)
@@ -8418,7 +8421,7 @@ site:
 ```
 
 ## binary
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Serialization and Deserialization in Rust](serialization-and-deserialization-in-rust)
 - [Binary Serialization Format](binary-serialization-format)
 - [A Text File Is Marked as a Binary File](a-text-file-is-marked-as-a-binary-file)
@@ -8427,7 +8430,7 @@ site:
 ```
 
 ## protobuf
-```{dropdown} Click to expand 5 links
+```{dropdown} Click to expand/collapse 5 links
 - [Tips on Protobuf](tips-on-protobuf)
 - [Rust Crates for RPC](rust-crates-for-rpc)
 - [Protobuf Implementations in Rust](protobuf-implementations-in-rust)
@@ -8435,8 +8438,16 @@ site:
 - [Tips on gRPC](tips-on-grpc)
 ```
 
+## encryption
+```{dropdown} Click to expand/collapse 4 links
+- [Age Is a Modern Alternative to GnuPG](age-is-a-modern-alternative-to-gnupg)
+- [Tips on GPG](tips-on-gpg)
+- [Algorithms and Tools for Encryption](algorithms-and-tools-for-encryption)
+- [Encryption in Rust](encryption-in-rust)
+```
+
 ## tax
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tax in US](tax-in-us)
 - [Hiring a Nanny](hiring-a-nanny)
 - [Taxes on Investment Gains](taxes-on-investment-gains)
@@ -8444,7 +8455,7 @@ site:
 ```
 
 ## subprocess
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Popen - Advanced Usage of subprocess](popen-advanced-usage-of-subprocess)
 - [Hands on the Python module subprocess](hands-on-the-python-module-subprocess)
 - [Rust and Spark](rust-and-spark)
@@ -8452,7 +8463,7 @@ site:
 ```
 
 ## Search Engine | search engine
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Shodan - Search Engine for IoT](shodan-search-engine-for-iot)
 - [Tips on Elasticsearch](tips-on-elasticsearch)
 - [Search Engine for Static Web Sites](search-engine-for-static-web-sites)
@@ -8460,7 +8471,7 @@ site:
 ```
 
 ## Markov chain
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
 - [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
 - [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
@@ -8468,7 +8479,7 @@ site:
 ```
 
 ## recursion
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Chance to Take One's Own Seat?](chance-to-take-one-s-own-seat)
 - [Probability to Get a Complete Deck of Cards?](probability-to-get-a-complete-deck-of-cards)
 - [Expected Gain of Tossing a Dice](expected-gain-of-tossing-a-dice)
@@ -8476,7 +8487,7 @@ site:
 ```
 
 ## poker | Poker
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Probability to Get a Complete Deck of Cards?](probability-to-get-a-complete-deck-of-cards)
 - [Implementation of Poker Games](implementation-of-poker-games)
 - [Poker Game in Casinos](poker-game-in-casinos)
@@ -8484,7 +8495,7 @@ site:
 ```
 
 ## puzzle
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [What are the Two Integers?](what-are-the-two-integers)
 - [The Unfair Wager Problem](the-unfair-wager-problem)
 - [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan)
@@ -8492,7 +8503,7 @@ site:
 ```
 
 ## random
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Randomly Select an Integer?!](randomly-select-an-integer)
 - [Hands on the Python module random](hands-on-the-python-module-random)
 - [Generating Random Numbers in Rust](generating-random-numbers-in-rust)
@@ -8500,7 +8511,7 @@ site:
 ```
 
 ## access
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Get User's Information in Python](get-user-s-information-in-python)
 - [Local Network Access on macOS](local-network-access-on-macos)
 - [Tips on Git](tips-on-git)
@@ -8508,7 +8519,7 @@ site:
 ```
 
 ## location
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
 - [Tips on VPN](tips-on-vpn)
 - [The Installation Location of Python Packages Using Pip](the-installation-location-of-python-packages-using-pip)
@@ -8516,7 +8527,7 @@ site:
 ```
 
 ## myst | MyST
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Mdformat Is An Extensible Markdown Formatter](mdformat-is-an-extensible-markdown-formatter)
 - [Markedly Structured Text](markedly-structured-text)
 - [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
@@ -8524,7 +8535,7 @@ site:
 ```
 
 ## Gemini
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 - [Tips on Gemini](tips-on-gemini)
@@ -8532,7 +8543,7 @@ site:
 ```
 
 ## OOM
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Spark Issue: java.lang.OutOfMemoryError](spark-issue-java.lang.outofmemoryerror)
 - [Spark Issue: Timeout When Communicate With Driver During Shuffle Caused by Driver OOM](spark-issue-timeout-when-communicate-with-driver-during-shuffle-caused-by-driver-oom)
 - [OOM in Rust](oom-in-rust)
@@ -8540,7 +8551,7 @@ site:
 ```
 
 ## feature
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Rust Error: error[E0554]: `#![feature]` May Not Be Used on the Stable Release Channel](rust-error-error[e0554]-`#-[feature]`-may-not-be-used-on-the-stable-release-channel)
 - [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
 - [Tips on FeatureTools](tips-on-featuretools)
@@ -8548,7 +8559,7 @@ site:
 ```
 
 ## similarity
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
 - [Compare Images Using Python](compare-images-using-python)
 - [Comparing Similarity of Two Different Clusterings](comparing-similarity-of-two-different-clusterings)
@@ -8556,7 +8567,7 @@ site:
 ```
 
 ## unit test
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Unit Testing for Spark](unit-testing-for-spark)
 - [Write Unit Tests Using unittest in Python](write-unit-tests-using-unittest-in-python)
 - [Unit Testing and Formal Verification in Rust](unit-testing-and-formal-verification-in-rust)
@@ -8564,7 +8575,7 @@ site:
 ```
 
 ## Hashtable | HashTable | hashtable
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Hashmap in Kotlin](hashmap-in-kotlin)
 - [HashMap in Scala](hashmap-in-scala)
 - [Map in Rust](map-in-rust)
@@ -8572,7 +8583,7 @@ site:
 ```
 
 ## dictionary
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Hashmap in Kotlin](hashmap-in-kotlin)
 - [HashMap in Scala](hashmap-in-scala)
 - [Map in Rust](map-in-rust)
@@ -8580,7 +8591,7 @@ site:
 ```
 
 ## bit
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Bitwise Operators in Kotlin](bitwise-operators-in-kotlin)
 - [Manipulate Bits in Rust](manipulate-bits-in-rust)
 - [Useful Rust Crates for Bit Manipulations](useful-rust-crates-for-bit-manipulations)
@@ -8588,7 +8599,7 @@ site:
 ```
 
 ## data profiling
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Using Optimus for Data Profiling in PySpark](using-optimus-for-data-profiling-in-pyspark)
 - [Data Profiling Tools](data-profiling-tools)
 - [Profiling Data Using ydata-profiling](profiling-data-using-ydata-profiling)
@@ -8596,7 +8607,7 @@ site:
 ```
 
 ## data frame
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Hands on krangl in Kotlin](hands-on-krangl-in-kotlin)
 - [Python pandas Tips](python-pandas-tips)
 - [Data Frame Implementations in Rust](data-frame-implementations-in-rust)
@@ -8604,7 +8615,7 @@ site:
 ```
 
 ## load
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Load Images into Pillow](load-images-into-pillow)
 - [Parse TOML Files in Python](parse-toml-files-in-python)
 - [Serialize and Deserialize Object Using Pickle in Python](serialize-and-deserialize-object-using-pickle-in-python)
@@ -8612,7 +8623,7 @@ site:
 ```
 
 ## tuple | Tuple
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Primitive Types in Rust](primitive-types-in-rust)
 - [Tuple in Golang](tuple-in-golang)
 - [Unpacking Assignment in Python](unpacking-assignment-in-python)
@@ -8620,7 +8631,7 @@ site:
 ```
 
 ## loop
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Loop in Rust](loop-in-rust)
 - [String in C++11](string-in-c++11)
 - [Loop in Golang](loop-in-golang)
@@ -8628,7 +8639,7 @@ site:
 ```
 
 ## enum | Enum
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Enum in Rust](enum-in-rust)
 - [Enum in Python](enum-in-python)
 - [Memory Layout of Enum in Rust](memory-layout-of-enum-in-rust)
@@ -8636,7 +8647,7 @@ site:
 ```
 
 ## device
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Move a Tensor to a Specific Device in PyTorch](move-a-tensor-to-a-specific-device-in-pytorch)
 - [Dual Boot Linux and Windows](dual-boot-linux-and-windows)
 - [Common Issues in PyTorch](common-issues-in-pytorch)
@@ -8644,7 +8655,7 @@ site:
 ```
 
 ## multiple
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Read Multiple Files into a DataFrame in Spark](read-multiple-files-into-a-dataframe-in-spark)
 - [Compress and Decompressing Archives in Linux](compress-and-decompressing-archives-in-linux)
 - [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
@@ -8652,7 +8663,7 @@ site:
 ```
 
 ## pyarrow | PyArrow
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Use pyarrow to Share Data in Memory in Python](use-pyarrow-to-share-data-in-memory-in-python)
 - [SQL Database Client-server Protocols](sql-database-client-server-protocols)
 - [Data Types in Different Programming Languages](data-types-in-different-programming-languages)
@@ -8660,7 +8671,7 @@ site:
 ```
 
 ## broadcast
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Broadcast Join in Spark](broadcast-join-in-spark)
 - [Spark Issue: Too Large Table for Auto BroadcastHashJoin](spark-issue-too-large-table-for-auto-broadcasthashjoin)
 - [Spark Issue: Could Not Execute Broadcast in 300S](spark-issue-could-not-execute-broadcast-in-300s)
@@ -8668,7 +8679,7 @@ site:
 ```
 
 ## psutil
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Hands on the psutil Module in Python](hands-on-the-psutil-module-in-python)
 - [Get Total Physical Memory in Python](get-total-physical-memory-in-python)
 - [Python Tools for Linux Admins](python-tools-for-linux-admins)
@@ -8676,7 +8687,7 @@ site:
 ```
 
 ## query
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Filter pandas DataFrames in Python](filter-pandas-dataframes-in-python)
 - [Tips on BigQuery](tips-on-bigquery)
 - [Query Hardware Information in Linux](query-hardware-information-in-linux)
@@ -8684,7 +8695,7 @@ site:
 ```
 
 ## Excel
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tips on Excel](tips-on-excel)
 - [Convert MS Office Document to Text](convert-ms-office-document-to-text)
 - [Working with Spreadsheet in Python](working-with-spreadsheet-in-python)
@@ -8692,7 +8703,7 @@ site:
 ```
 
 ## lock
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Parallel Computing in Java](parallel-computing-in-java)
 - [Proximity Locking on Rivian](proximity-locking-on-rivian)
 - [Avoid Database Lock in SQLite3](avoid-database-lock-in-sqlite3)
@@ -8700,7 +8711,7 @@ site:
 ```
 
 ## operator
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Operators in Different Programming Languages](operators-in-different-programming-languages)
 - [Define Operator in R](define-operator-in-r)
 - [The Walrus Operator in Python 3.8](the-walrus-operator-in-python-3.8)
@@ -8708,7 +8719,7 @@ site:
 ```
 
 ## modeling
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Least Square Estimates](least-square-estimates)
 - [Statistics](statistics)
 - [Effect of Duplicating Observations in Linear Models](effect-of-duplicating-observations-in-linear-models)
@@ -8716,7 +8727,7 @@ site:
 ```
 
 ## Word
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Convert MS Office Document to Text](convert-ms-office-document-to-text)
 - [Writing Doc Using Microsoft Word](writing-doc-using-microsoft-word)
 - [Convert PDF to Word](convert-pdf-to-word)
@@ -8724,7 +8735,7 @@ site:
 ```
 
 ## VNC | vnc
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tips on VNC](tips-on-vnc)
 - [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
 - [Remote Desktop Using NoMachine on Linux](remote-desktop-using-nomachine-on-linux)
@@ -8732,7 +8743,7 @@ site:
 ```
 
 ## text manipulation
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Transform Text Using sed](transform-text-using-sed)
 - [Advanced Use of head and tail](advanced-use-of-head-and-tail)
 - [Tips for AWK](tips-for-awk)
@@ -8740,7 +8751,7 @@ site:
 ```
 
 ## Nvidia
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tips on GPU Computing](tips-on-gpu-computing)
 - [Visualize Nvidia GPU Usage](visualize-nvidia-gpu-usage)
 - [Ubuntu Crashes When Opening Settings](ubuntu-crashes-when-opening-settings)
@@ -8748,7 +8759,7 @@ site:
 ```
 
 ## Microsoft
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Writing Doc Using Microsoft Word](writing-doc-using-microsoft-word)
 - [Convert PDF to Word](convert-pdf-to-word)
 - [Tips on Microsoft Graph APIs](tips-on-microsoft-graph-apis)
@@ -8756,7 +8767,7 @@ site:
 ```
 
 ## hadoop | Hadoop
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Hive SQL](hive-sql)
 - [Hadoop Filesystem Tips](hadoop-filesystem-tips)
 - [HDFS in Python](hdfs-in-python)
@@ -8764,7 +8775,7 @@ site:
 ```
 
 ## Hive
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Hive SQL](hive-sql)
 - [Spark SQL](spark-sql)
 - [Spark Issue: InvalidInputException for Some Hive Data Partitions](spark-issue-invalidinputexception-for-some-hive-data-partitions)
@@ -8772,7 +8783,7 @@ site:
 ```
 
 ## driving
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tips on Car and Driving](tips-on-car-and-driving)
 - [Playbook on Road Accident](playbook-on-road-accident)
 - [Tools for IOT](tools-for-iot)
@@ -8780,7 +8791,7 @@ site:
 ```
 
 ## GNOME
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Manage Autostart Applications](manage-autostart-applications)
 - [Power Settings in Linux with GNOME Desktop](power-settings-in-linux-with-gnome-desktop)
 - [Desktop Environments for Linux](desktop-environments-for-linux)
@@ -8788,7 +8799,7 @@ site:
 ```
 
 ## keyboard
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [The Escape Key in Vim](the-escape-key-in-vim)
 - [Enable and Disable Key Repeating in macOS](enable-and-disable-key-repeating-in-macos)
 - [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
@@ -8796,7 +8807,7 @@ site:
 ```
 
 ## blog
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Generate Static Site Using Pelican](generate-static-site-using-pelican)
 - [Tips on Jupyter-Book](tips-on-jupyter-book)
 - [Static Site Generators](static-site-generators)
@@ -8804,7 +8815,7 @@ site:
 ```
 
 ## shortcuts
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Shortcuts in macOS](shortcuts-in-macos)
 - [Show Inferred Type in IntelliJ IDEA](show-inferred-type-in-intellij-idea)
 - [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
@@ -8812,7 +8823,7 @@ site:
 ```
 
 ## solutions
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Git Errors and Solutions](git-errors-and-solutions)
 - [Spark Issue: Total Size of Serialized Results Is Bigger than spark.driver.maxResultSize](spark-issue-total-size-of-serialized-results-is-bigger-than-spark.driver.maxresultsize)
 - [GPU Related Issues and Solutions](gpu-related-issues-and-solutions)
@@ -8820,7 +8831,7 @@ site:
 ```
 
 ## issues
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Git Errors and Solutions](git-errors-and-solutions)
 - [Spark Issue: Total Size of Serialized Results Is Bigger than spark.driver.maxResultSize](spark-issue-total-size-of-serialized-results-is-bigger-than-spark.driver.maxresultsize)
 - [GPU Related Issues and Solutions](gpu-related-issues-and-solutions)
@@ -8828,7 +8839,7 @@ site:
 ```
 
 ## Maven
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tips on Maven](tips-on-maven)
 - [Building Tool for Scala](building-tool-for-scala)
 - [Build a Fat JAR Using Maven Without a Java Project](build-a-fat-jar-using-maven-without-a-java-project)
@@ -8836,7 +8847,7 @@ site:
 ```
 
 ## cloud IDE | Cloud IDE
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tips on Eclipse Che](tips-on-eclipse-che)
 - [Tips on Cloud9](tips-on-cloud9)
 - [Cloud IDE](cloud-ide)
@@ -8844,7 +8855,7 @@ site:
 ```
 
 ## package management
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Maning Packages Using Yum in CentOS](maning-packages-using-yum-in-centos)
 - [General Tips for Gradle](general-tips-for-gradle)
 - [Package Management in Linux](package-management-in-linux)
@@ -8852,7 +8863,7 @@ site:
 ```
 
 ## PPA
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Java PPA for Ubuntu](java-ppa-for-ubuntu)
 - [Tips on NeoVim](tips-on-neovim)
 - [Install the Latest Version of Software on Ubuntu](install-the-latest-version-of-software-on-ubuntu)
@@ -8860,7 +8871,7 @@ site:
 ```
 
 ## Ansible
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Cluster Management Made Easy with the Python Package Fabric](cluster-management-made-easy-with-the-python-package-fabric)
 - [Cluster Management Made Easy with Ansible](cluster-management-made-easy-with-ansible)
 - [Python Tools for Linux Admins](python-tools-for-linux-admins)
@@ -8868,7 +8879,7 @@ site:
 ```
 
 ## cli | CLI
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tools for Differencing Text Files](tools-for-differencing-text-files)
 - [Tips on Gh](tips-on-gh)
 - [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
@@ -8876,7 +8887,7 @@ site:
 ```
 
 ## permission
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
 - [Spark Issue: AccessControlException: Permission Denied](spark-issue-accesscontrolexception-permission-denied)
 - [Permission Issues when Installing Softwares in Linux](permission-issues-when-installing-softwares-in-linux)
@@ -8884,7 +8895,7 @@ site:
 ```
 
 ## parser
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tips on ANTLR4](tips-on-antlr4)
 - [Parser Generators](parser-generators)
 - [Popular General Purpose Language Parsers](popular-general-purpose-language-parsers)
@@ -8892,7 +8903,7 @@ site:
 ```
 
 ## nodejs | NodeJS
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tips on NodeJS](tips-on-nodejs)
 - [Tips on Backend Development](tips-on-backend-development)
 - [Tips on Electron](tips-on-electron)
@@ -8900,7 +8911,7 @@ site:
 ```
 
 ## career
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tips on Project Management](tips-on-project-management)
 - [Tips on Career](tips-on-career)
 - [Tips on Job Seeking](tips-on-job-seeking)
@@ -8908,7 +8919,7 @@ site:
 ```
 
 ## framework
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Hyper Parameter Tuning and Automatical Machine Learning](hyper-parameter-tuning-and-automatical-machine-learning)
 - [Tips on Backend Development](tips-on-backend-development)
 - [Tips on FastApi](tips-on-fastapi)
@@ -8916,7 +8927,7 @@ site:
 ```
 
 ## Elasticsearch
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tips on Elasticsearch](tips-on-elasticsearch)
 - [Popular Databases](popular-databases)
 - [Tips on Search Engines](tips-on-search-engines)
@@ -8924,7 +8935,7 @@ site:
 ```
 
 ## gradle | Gradle
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [General Tips for Gradle](general-tips-for-gradle)
 - [Quickly Create a Scala Project Using Gradle in Intellij IDEA](quickly-create-a-scala-project-using-gradle-in-intellij-idea)
 - [Gradle Kotlin DSL](gradle-kotlin-dsl)
@@ -8932,7 +8943,7 @@ site:
 ```
 
 ## dev
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Debugging, Unit Testing and CICD in Python](debugging-unit-testing-and-cicd-in-python)
 - [Useful Tools for Python Developing](useful-tools-for-python-developing)
 - [Dev Tools for Rust](dev-tools-for-rust)
@@ -8940,7 +8951,7 @@ site:
 ```
 
 ## plugins
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Write Unit Tests Using PyTest in Python](write-unit-tests-using-pytest-in-python)
 - [Useful Firefox Add-ons](useful-firefox-add-ons)
 - [Use JupyterLab Notebooks in Pelican](use-jupyterlab-notebooks-in-pelican)
@@ -8948,7 +8959,7 @@ site:
 ```
 
 ## log
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Ensure Capturing Log of Applications](ensure-capturing-log-of-applications)
 - [General Tips on Logging](general-tips-on-logging)
 - [Rust Crate Log](rust-crate-log)
@@ -8956,7 +8967,7 @@ site:
 ```
 
 ## shuffle
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Spark Issue: Timeout When Communicate With Driver During Shuffle Caused by Driver OOM](spark-issue-timeout-when-communicate-with-driver-during-shuffle-caused-by-driver-oom)
 - [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
 - [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
@@ -8964,7 +8975,7 @@ site:
 ```
 
 ## speech
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Audio Tools](audio-tools)
 - [Tips on Public Speech](tips-on-public-speech)
 - [Tips on Speechlogger](tips-on-speechlogger)
@@ -8972,15 +8983,15 @@ site:
 ```
 
 ## Tkinter
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [The Label Widget in Tkinter](the-label-widget-in-tkinter)
-- [Use Tkinter to Build GUI Applications in Python](use-tkinter-to-build-gui-applications-in-python)
-- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
 - [The Checkbutton Widget in Tkinter](the-checkbutton-widget-in-tkinter)
+- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
+- [Use Tkinter to Build GUI Applications in Python](use-tkinter-to-build-gui-applications-in-python)
 ```
 
 ## markup
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Markedly Structured Text](markedly-structured-text)
 - [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
 - [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
@@ -8988,7 +8999,7 @@ site:
 ```
 
 ## mkdocs
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Documentation Generating Tool for Python](documentation-generating-tool-for-python)
 - [Static Site Generators](static-site-generators)
 - [Write Documentation for Python Packages Using Sphinx](write-documentation-for-python-packages-using-sphinx)
@@ -8996,7 +9007,7 @@ site:
 ```
 
 ## YARN | yarn
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Spark Issue: Container Killed by Yarn for Exceeding Memory Limits](spark-issue-container-killed-by-yarn-for-exceeding-memory-limits)
 - [Yarn for Spark](yarn-for-spark)
 - [Tips on yarn](tips-on-yarn)
@@ -9004,7 +9015,7 @@ site:
 ```
 
 ## WebAssembly
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [WebAssembly Runtimes](webassembly-runtimes)
 - [Tips on WASM](tips-on-wasm)
 - [Good Webassembly Tools](good-webassembly-tools)
@@ -9012,7 +9023,7 @@ site:
 ```
 
 ## WASM
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [WebAssembly Runtimes](webassembly-runtimes)
 - [Tips on WASM](tips-on-wasm)
 - [Good Webassembly Tools](good-webassembly-tools)
@@ -9020,7 +9031,7 @@ site:
 ```
 
 ## Mojo | mojo
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [AI-first Programming Languages](ai-first-programming-languages)
 - [Tips on the Mojo Programming Language](tips-on-the-mojo-programming-language)
 - [IO in Mojo](io-in-mojo)
@@ -9028,15 +9039,15 @@ site:
 ```
 
 ## delete
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Deleting Docker Image Tags on DockerHub using the Python Module requests](deleting-docker-image-tags-on-dockerhub-using-the-python-module-requests)
-- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
 - [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
+- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
 - [Delete a Layer in a Pretrained Model in PyTorch](delete-a-layer-in-a-pretrained-model-in-pytorch)
 ```
 
 ## union
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Union DataFrames in Spark](union-dataframes-in-spark)
 - [The set Collection in Python](the-set-collection-in-python)
 - [Union RDDs in Spark](union-rdds-in-spark)
@@ -9044,7 +9055,7 @@ site:
 ```
 
 ## mapping
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Hands on dict in Python](hands-on-dict-in-python)
 - [Map Keys in Linux](map-keys-in-linux)
 - [Map Keys in macOS](map-keys-in-macos)
@@ -9052,7 +9063,7 @@ site:
 ```
 
 ## serde
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Hands on the Rust Library Serde](hands-on-the-rust-library-serde)
 - [Parse YAML in Rust](parse-yaml-in-rust)
 - [Parse TOML Files in Rust](parse-toml-files-in-rust)
@@ -9060,7 +9071,7 @@ site:
 ```
 
 ## search
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tips on the find command in Linux](tips-on-the-find-command-in-linux)
 - [Search Engine for Static Web Sites](search-engine-for-static-web-sites)
 - [The Elegant Theme for Pelican](the-elegant-theme-for-pelican)
@@ -9068,7 +9079,7 @@ site:
 ```
 
 ## management
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Manage Docker Images and Containers](manage-docker-images-and-containers)
 - [Manage Python Projects Using uv](manage-python-projects-using-uv)
 - [Package Management for Debian and Ubuntu](package-management-for-debian-and-ubuntu)
@@ -9076,7 +9087,7 @@ site:
 ```
 
 ## mount
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Mount NTFS Drive Manually on Mac](mount-ntfs-drive-manually-on-mac)
 - [Use Shared Folders in VirtualBox](use-shared-folders-in-virtualbox)
 - [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
@@ -9084,7 +9095,7 @@ site:
 ```
 
 ## pointer
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Pointers in C++](pointers-in-c++)
 - [Write Unsafe Code in Rust](write-unsafe-code-in-rust)
 - [Pointer, Reference and Ownership in Rust](pointer-reference-and-ownership-in-rust)
@@ -9092,7 +9103,7 @@ site:
 ```
 
 ## environment
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Packaging Python Dependencies for PySpark Using python-build-standalone](packaging-python-dependencies-for-pyspark-using-python-build-standalone)
 - [Environment Variables and Secure Path for sudo](environment-variables-and-secure-path-for-sudo)
 - [Dealing With Environment Variables in Python](dealing-with-environment-variables-in-python)
@@ -9100,7 +9111,7 @@ site:
 ```
 
 ## fish | Fish
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tips on the Fish Shell](tips-on-the-fish-shell)
 - [Check for Existence of Commands in the Fish Shell](check-for-existence-of-commands-in-the-fish-shell)
 - [Generating Completions Script Using crazy-complete](generating-completions-script-using-crazy-complete)
@@ -9108,7 +9119,7 @@ site:
 ```
 
 ## transfer
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 - [Tips on Network Protocols](tips-on-network-protocols)
 - [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
@@ -9116,7 +9127,7 @@ site:
 ```
 
 ## tire
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Repair a Flat Tire](repair-a-flat-tire)
 - [Flat Tire on Rivian](flat-tire-on-rivian)
 - [Tips on Car Tires](tips-on-car-tires)
@@ -9124,7 +9135,7 @@ site:
 ```
 
 ## template
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tips on nbconvert](tips-on-nbconvert)
 - [Template Engines in Rust](template-engines-in-rust)
 - [Tips on Jinja](tips-on-jinja)
@@ -9132,7 +9143,7 @@ site:
 ```
 
 ## quant
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Quant Trading](quant-trading)
 - [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
 - [Hands on pandas_market_calendars](hands-on-pandas_market_calendars)
@@ -9140,7 +9151,7 @@ site:
 ```
 
 ## ETF
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Quant Trading](quant-trading)
 - [Tips on Money Market Fund](tips-on-money-market-fund)
 - [Diversified Investment](diversified-investment)
@@ -9148,7 +9159,7 @@ site:
 ```
 
 ## line
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Useful Rust Crates for Developing Command Line Apps](useful-rust-crates-for-developing-command-line-apps)
 - [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
 - [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
@@ -9156,7 +9167,7 @@ site:
 ```
 
 ## Apache Ray
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [High Performance Computing in Python](high-performance-computing-in-python)
 - [Deploy Apache Ray](deploy-apache-ray)
 - [Tips on Apache Ray](tips-on-apache-ray)
@@ -9164,7 +9175,7 @@ site:
 ```
 
 ## protocol
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tips on Network Protocols](tips-on-network-protocols)
 - [Protobuf Implementations in Rust](protobuf-implementations-in-rust)
 - [SQL Database Client-server Protocols](sql-database-client-server-protocols)
@@ -9172,7 +9183,7 @@ site:
 ```
 
 ## size
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Reduce Size of Git Repository](reduce-size-of-git-repository)
 - [Memory Layout in Rust](memory-layout-in-rust)
 - [Get Size of Tables on HDFS](get-size-of-tables-on-hdfs)
@@ -9180,7 +9191,7 @@ site:
 ```
 
 ## protocol buffer | Protocol Buffer
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tips on Protobuf](tips-on-protobuf)
 - [Rust Crates for RPC](rust-crates-for-rpc)
 - [Tips on gRPC](tips-on-grpc)
@@ -9188,7 +9199,7 @@ site:
 ```
 
 ## system
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
 - [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
 - [Run System Command in Go](run-system-command-in-go)
@@ -9196,7 +9207,7 @@ site:
 ```
 
 ## virtual machine | Virtual Machine
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tips on Multipass](tips-on-multipass)
 - [Tips on crosvm](tips-on-crosvm)
 - [Format a Flash Drive in a Linux Virtual Machine](format-a-flash-drive-in-a-linux-virtual-machine)
@@ -9204,7 +9215,7 @@ site:
 ```
 
 ## LightGBM
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Tips on LightGBM](tips-on-lightgbm)
 - [Handle Categorical Variables in LightGBM](handle-categorical-variables-in-lightgbm)
 - [LightGBM on GPU](lightgbm-on-gpu)
@@ -9212,7 +9223,7 @@ site:
 ```
 
 ## packaging
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Packaging Python Dependencies for PySpark Using Pex](packaging-python-dependencies-for-pyspark-using-pex)
 - [Hands on the Python Module Packaging](hands-on-the-python-module-packaging)
 - [Python Build Tools](python-build-tools)
@@ -9220,7 +9231,7 @@ site:
 ```
 
 ## object
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Get Type Name of Variables in Rust](get-type-name-of-variables-in-rust)
 - [Hands on the Python Library DeepDiff](hands-on-the-python-library-deepdiff)
 - [Check Whether a Python Object Is Callable](check-whether-a-python-object-is-callable)
@@ -9228,7 +9239,7 @@ site:
 ```
 
 ## Static Site Generator | static site generator
-```{dropdown} Click to expand 4 links
+```{dropdown} Click to expand/collapse 4 links
 - [Use JupyterLab Notebooks in Pelican](use-jupyterlab-notebooks-in-pelican)
 - [Tips on mkdocs](tips-on-mkdocs)
 - [Tips on Gatsby](tips-on-gatsby)
@@ -9236,4224 +9247,4230 @@ site:
 ```
 
 ## credit card
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tax in US](tax-in-us)
 - [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
 - [Tips on Road Assistant](tips-on-road-assistant)
 ```
 
 ## include | include!
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Rust Error "error: expected item, found 'let'"](rust-error-error-expected-item-found-let)
 - [include! Is a Macro with Dark Power](include-is-a-macro-with-dark-power)
 - [include! Is a Macro with Dark Power](include-is-a-macro-with-dark-power)
 ```
 
 ## coin
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
 - [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
 - [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
 ```
 
 ## permutation
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [How Many People Stay in the Same Position?](how-many-people-stay-in-the-same-position)
 - [Number of Records?](number-of-records)
 - [Generate Combinations Using Itertools in Rust](generate-combinations-using-itertools-in-rust)
 ```
 
 ## verizon | Verizon
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Automated Verizon Phone Bill (Continued)](automated-verizon-phone-bill-continued)
 - [Automated Phone Bill Using Ruby Program](automated-phone-bill-using-ruby-program)
 - [Tips on Verizon](tips-on-verizon)
 ```
 
 ## Ruby
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Automated Verizon Phone Bill (Continued)](automated-verizon-phone-bill-continued)
 - [String in Different Programming Languages](string-in-different-programming-languages)
 - [Automated Phone Bill Using Ruby Program](automated-phone-bill-using-ruby-program)
 ```
 
 ## info
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Get User's Information in Python](get-user-s-information-in-python)
 - [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
 - [Get Information of User in Golang](get-information-of-user-in-golang)
 ```
 
 ## password
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Get User's Information in Python](get-user-s-information-in-python)
 - [Special Characters to Avoid in Strings](special-characters-to-avoid-in-strings)
 - [Hash Password Using Python](hash-password-using-python)
 ```
 
 ## linear regression
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Don't Do Statistics If You Don't Really Undestand It](don-t-do-statistics-if-you-don-t-really-undestand-it)
 - [Least Square Estimates](least-square-estimates)
 - [AR1X Process](ar1x-process)
 ```
 
 ## Wine | WINE
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Windows Emulation on Linux](windows-emulation-on-linux)
 - [Windows Emulation Using WINE](windows-emulation-using-wine)
 - [OneDrive in Linux](onedrive-in-linux)
 ```
 
 ## emulation
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Android Emulators](android-emulators)
 - [Tips on AnBox](tips-on-anbox)
 - [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
 ```
 
 ## Pinyin | pinyin
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Chinese Input Methods](chinese-input-methods)
 - [Configure Fcitx5 for KDE Plasma](configure-fcitx5-for-kde-plasma)
 - [Use Sogou Pinyin to Type Chinese](use-sogou-pinyin-to-type-chinese)
 ```
 
 ## input method
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Chinese Input Methods](chinese-input-methods)
 - [Configure Fcitx5 for KDE Plasma](configure-fcitx5-for-kde-plasma)
 - [Fcitx Tips](fcitx-tips)
 ```
 
 ## Chrome
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 - [Save a Web Page as a Single File in Chrome](save-a-web-page-as-a-single-file-in-chrome)
 - [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
 ```
 
 ## Selenium
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Web Automation](web-automation)
 - [Tips on Selenium](tips-on-selenium)
 - [Ways to Download Files Using Selenium Webdrive](ways-to-download-files-using-selenium-webdrive)
 ```
 
 ## add-on
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Useful Chrome Extensions](useful-chrome-extensions)
 - [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
 - [Vim Keybindings in Firefox Using Tridactyl](vim-keybindings-in-firefox-using-tridactyl)
 ```
 
 ## Homebrew
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
 - [Install Packages Using Homebrew on macOS and Linux](install-packages-using-homebrew-on-macos-and-linux)
 - [Install GNU Utils Using Homebrew](install-gnu-utils-using-homebrew)
 ```
 
 ## local
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Local Network Access on macOS](local-network-access-on-macos)
 - [Expose Local Services to Public Using ngrok](expose-local-services-to-public-using-ngrok)
 - [Expose Local Service to Public](expose-local-service-to-public)
 ```
 
 ## edit
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Editing PDF Files](editing-pdf-files)
 - [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
 - [Software for Editing Videos](software-for-editing-videos)
 ```
 
 ## dict
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Convert Between a Pandas.Series and a Dict-Like Object](convert-between-a-pandas.series-and-a-dict-like-object)
 - [Count Frequencies of Elements Using collections.Counter in Python](count-frequencies-of-elements-using-collections.counter-in-python)
 - [Hands on dict in Python](hands-on-dict-in-python)
 ```
 
 ## Pickle | pickle
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args[0]-from-__newobj__-args-has-the-wrong-class)
 - [Serialization and deserialization in Python](serialization-and-deserialization-in-python)
 - [Serialize and Deserialize Object Using Pickle in Python](serialize-and-deserialize-object-using-pickle-in-python)
 ```
 
 ## macro
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [include! Is a Macro with Dark Power](include-is-a-macro-with-dark-power)
 - [Develop Macros in Rust](develop-macros-in-rust)
 - [Generic and Specialization in Rust](generic-and-specialization-in-rust)
 ```
 
 ## rows
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Split String into Rows in SQL](split-string-into-rows-in-sql)
 - [Advanced Use of head and tail](advanced-use-of-head-and-tail)
 - [Print Rows from a Text File](print-rows-from-a-text-file)
 ```
 
 ## Commons Math
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
 - [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
 - [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
 ```
 
 ## pivot table
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Pivot Table in pandas DataFrame](pivot-table-in-pandas-dataframe)
 - [Tips on Google Spreadsheet](tips-on-google-spreadsheet)
 - [Pivot Table in SQL](pivot-table-in-sql)
 ```
 
 ## Blender
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Python Scripting for Blender](python-scripting-for-blender)
 - [Software for Editing Videos](software-for-editing-videos)
 - [Tips on Blender](tips-on-blender)
 ```
 
 ## round
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Rounding Numbers in Kotlin](rounding-numbers-in-kotlin)
 - [Rounding Functions in Spark](rounding-functions-in-spark)
 - [String Functions in Spark](string-functions-in-spark)
 ```
 
 ## rounding
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Rounding Numbers in Kotlin](rounding-numbers-in-kotlin)
 - [Round/Format Numbers in Java](round-format-numbers-in-java)
 - [Rounding Functions in Spark](rounding-functions-in-spark)
 ```
 
 ## return
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Returns and Jumps in Kotlin](returns-and-jumps-in-kotlin)
 - [The try/except/finally Block in Python](the-try-except-finally-block-in-python)
 - [Update a Line in Standard Output](update-a-line-in-standard-output)
 ```
 
 ## inheritance
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [OOP in Kotlin](oop-in-kotlin)
 - [Struct in Rust](struct-in-rust)
 - [Working with Class in C++](working-with-class-in-c++)
 ```
 
 ## address
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Understand System.identityHashCode in Java](understand-system.identityhashcode-in-java)
 - [Spark Issue: RuntimeException: Could not find any configured addresses for URI](spark-issue-runtimeexception-could-not-find-any-configured-addresses-for-uri)
 - [IP Address and Subnets](ip-address-and-subnets)
 ```
 
 ## reflection
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Example of Using Reflection in Java](example-of-using-reflection-in-java)
 - [Add Method to a Python Class](add-method-to-a-python-class)
 - [Java Reflection](java-reflection)
 ```
 
 ## private
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Example of Using Reflection in Java](example-of-using-reflection-in-java)
 - [Misc Tips on Java](misc-tips-on-java)
 - [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
 ```
 
 ## bytes
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Convert Between Byte Array and String in Java](convert-between-byte-array-and-string-in-java)
 - [Load Images into Pillow](load-images-into-pillow)
 - [String in Rust](string-in-rust)
 ```
 
 ## Source | source
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [The Source Class in Scala IO](the-source-class-in-scala-io)
 - [Food](food)
 - [Build Spark from Source](build-spark-from-source)
 ```
 
 ## groupby | GroupBy
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Aggregation in pandas DataFrame](aggregation-in-pandas-dataframe)
 - [Group-by Plots in HoloViews](group-by-plots-in-holoviews)
 - [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
 ```
 
 ## parallel computing
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Hands on the Python module Multiprocessing](hands-on-the-python-module-multiprocessing)
 - [Concurrency and Parallel Computing in Python](concurrency-and-parallel-computing-in-python)
 - [Parallel Computing in Shell](parallel-computing-in-shell)
 ```
 
 ## ArrayList
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [MutableList in Kotlin](mutablelist-in-kotlin)
 - [Differences Between Vector and ArrayList in Java](differences-between-vector-and-arraylist-in-java)
 - [Collections in Java](collections-in-java)
 ```
 
 ## AutoML
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
 - [Hyper Parameter Tuning and Automatical Machine Learning](hyper-parameter-tuning-and-automatical-machine-learning)
 - [Tips on AutoGluon](tips-on-autogluon)
 ```
 
 ## Almond
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Use Spark with the Almond Scala Kernel in JupyterLab](use-spark-with-the-almond-scala-kernel-in-jupyterlab)
 - [Specify Dependencies in the Almond Scala Kernel in JupyterLab](specify-dependencies-in-the-almond-scala-kernel-in-jupyterlab)
 - [Tips on the Almond Scala Kernel](tips-on-the-almond-scala-kernel)
 ```
 
 ## dependencies
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Specify Dependencies in the Almond Scala Kernel in JupyterLab](specify-dependencies-in-the-almond-scala-kernel-in-jupyterlab)
 - [Scala Dependencies for SBT](scala-dependencies-for-sbt)
 - [Maven Dependencies](maven-dependencies)
 ```
 
 ## screenshot
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Take Screenshots in Python](take-screenshots-in-python)
 - [Take Screenshot in Rust](take-screenshot-in-rust)
 - [Take Screenshot on Linux](take-screenshot-on-linux)
 ```
 
 ## TorchVision | torchvision
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tensor Transformations in TorchVision](tensor-transformations-in-torchvision)
 - [Tips on Torchvision](tips-on-torchvision)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
 ```
 
 ## mode
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Convert an Image to Differnt Modes Using Pillow in Python](convert-an-image-to-differnt-modes-using-pillow-in-python)
 - [Check Whether a File Is a Socket in Golang](check-whether-a-file-is-a-socket-in-golang)
 - [Incognito Mode for Browsers](incognito-mode-for-browsers)
 ```
 
 ## timezone
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Handling Timezone Correctly in Python](handling-timezone-correctly-in-python)
 - [Make Date Show Time of a Specific Timezone in Linux](make-date-show-time-of-a-specific-timezone-in-linux)
 - [Hands on the Zoneinfo Module in Python](hands-on-the-zoneinfo-module-in-python)
 ```
 
 ## method
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Struct in Rust](struct-in-rust)
 - [Shadow Parent Methods in Python](shadow-parent-methods-in-python)
 - [Add Method to a Python Class](add-method-to-a-python-class)
 ```
 
 ## char
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Char in Rust](char-in-rust)
 - [Special Characters to Avoid in Strings](special-characters-to-avoid-in-strings)
 - [String in C++11](string-in-c++11)
 ```
 
 ## numba
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Speed up Python Using Native Code](speed-up-python-using-native-code)
 - [Hands on the Python module numba](hands-on-the-python-module-numba)
 - [High Performance Computing in Python](high-performance-computing-in-python)
 ```
 
 ## profiler
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
 - [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
 - [Memory Profiler for Python](memory-profiler-for-python)
 ```
 
 ## drop
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Drop Rows or Columns from a pandas DataFrame](drop-rows-or-columns-from-a-pandas-dataframe)
 - [Rename and Drop Columns in Spark DataFrames](rename-and-drop-columns-in-spark-dataframes)
 - [Rename Rows and Columns in a pandas DataFrame](rename-rows-and-columns-in-a-pandas-dataframe)
 ```
 
 ## sklearn
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Linear Regression in Scikit-learn](linear-regression-in-scikit-learn)
 - [Tips on Scikit-Learn](tips-on-scikit-learn)
 - [Comparing Similarity of Two Different Clusterings](comparing-similarity-of-two-different-clusterings)
 ```
 
 ## None | none
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Handling Complicated Data Types in Python and PySpark](handling-complicated-data-types-in-python-and-pyspark)
 - [Null Values in Inner Join of Spark Dataframes](null-values-in-inner-join-of-spark-dataframes)
 - [Null, None and Alike in Scala](null-none-and-alike-in-scala)
 ```
 
 ## repeat
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Reshape a pandas DataFrame](reshape-a-pandas-dataframe)
 - [Tips on Vim](tips-on-vim)
 - [Reshape Numpy Arrays](reshape-numpy-arrays)
 ```
 
 ## argument
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Function in Rust](function-in-rust)
 - [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
 - [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
 ```
 
 ## MultiIndex
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Construct MultiIndexes in pandas](construct-multiindexes-in-pandas)
 - [Add level to a MultiIndexes in pandas](add-level-to-a-multiindexes-in-pandas)
 - [MultiIndexes in pandas](multiindexes-in-pandas)
 ```
 
 ## recursive
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Iterate All Descendant Files in a Directory in Python](iterate-all-descendant-files-in-a-directory-in-python)
 - [Probability to Lose All Money](probability-to-lose-all-money)
 - [Calculate Hash of a Directory in Python](calculate-hash-of-a-directory-in-python)
 ```
 
 ## write
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Read/Write Files/Tables in Spark](read-write-files-tables-in-spark)
 - [IO in Rust](io-in-rust)
 - [Pandas IO](pandas-io)
 ```
 
 ## requests
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Download Files from the Internet in Python](download-files-from-the-internet-in-python)
 - [Hands on the requests Module in Python](hands-on-the-requests-module-in-python)
 - [Deleting Docker Image Tags on DockerHub using the Python Module requests](deleting-docker-image-tags-on-dockerhub-using-the-python-module-requests)
 ```
 
 ## wget
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Download Files from the Internet in Python](download-files-from-the-internet-in-python)
 - [Tips on cURL and Wget](tips-on-curl-and-wget)
 - [Use wget with Proxy](use-wget-with-proxy)
 ```
 
 ## Dask | dask
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [DataFrame Implementations in Python](dataframe-implementations-in-python)
 - [Query Pandas Data Frames Using SQL](query-pandas-data-frames-using-sql)
 - [Hands on the Python module dask](hands-on-the-python-module-dask)
 ```
 
 ## random number generator
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Generating Random Numbers in Rust](generating-random-numbers-in-rust)
 - [Parallel RNGs With Rayon in Rust](parallel-rngs-with-rayon-in-rust)
 - [Seed Many RNGs in Rust](seed-many-rngs-in-rust)
 ```
 
 ## duplicate
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Handle Duplicated Keys in serde_yaml in Rust](handle-duplicated-keys-in-serde_yaml-in-rust)
 - [Effect of Duplicating Observations in Linear Models](effect-of-duplicating-observations-in-linear-models)
 - [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
 ```
 
 ## NoMachine
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Working Remotely in Linux](working-remotely-in-linux)
 - [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
 - [Remote Desktop Using NoMachine on Linux](remote-desktop-using-nomachine-on-linux)
 ```
 
 ## archive
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Software I Use in Windows System](software-i-use-in-windows-system)
 - [Compress and Decompressing Archives in Linux](compress-and-decompressing-archives-in-linux)
 - [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
 ```
 
 ## mutex
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Parallel Computing in Java](parallel-computing-in-java)
 - [Parallel and Concurrency Programming in C++11](parallel-and-concurrency-programming-in-c++11)
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 ```
 
 ## regex
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Online Tools for Popular Programming Languages](online-tools-for-popular-programming-languages)
 - [Regular Expression in Python](regular-expression-in-python)
 - [Regular Expression Equivalent](regular-expression-equivalent)
 ```
 
 ## formula
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Model Fitting in ANOVA Analysis](model-fitting-in-anova-analysis)
 - [Generate Static Site Using Pelican](generate-static-site-using-pelican)
 - [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
 ```
 
 ## regression
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Experiment Design](experiment-design)
 - [Classification](classification)
 - [Regression Classification ANOVA](regression-classification-anova)
 ```
 
 ## optimization
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Optimization Algorithms](optimization-algorithms)
 - [Make Linux Run Faster](make-linux-run-faster)
 - [Tips on rustc](tips-on-rustc)
 ```
 
 ## sed
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Transform Text Using sed](transform-text-using-sed)
 - [Advanced Use of head and tail](advanced-use-of-head-and-tail)
 - [Print Rows from a Text File](print-rows-from-a-text-file)
 ```
 
 ## questions
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Questions About Java](questions-about-java)
 - [Questions on SQL](questions-on-sql)
 - [WeChat Questions](wechat-questions)
 ```
 
-## encryption
-```{dropdown} Click to expand 3 links
-- [Tips on GPG](tips-on-gpg)
-- [Algorithms and Tools for Encryption](algorithms-and-tools-for-encryption)
-- [Encryption in Rust](encryption-in-rust)
-```
-
 ## distribution
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [The Tiny antiX Linux Distribution](the-tiny-antix-linux-distribution)
 - [Install Dropbox Using Flatpak](install-dropbox-using-flatpak)
 - [Thread Safe Random Number Generator](thread-safe-random-number-generator)
 ```
 
 ## Xfce
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [The Xfce Desktop Environment for Linux](the-xfce-desktop-environment-for-linux)
 - [Manage Autostart Applications](manage-autostart-applications)
 - [Desktop Environments for Linux](desktop-environments-for-linux)
 ```
 
 ## outlook | Outlook
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on Outlook](tips-on-outlook)
 - [Tips on Microsoft Graph APIs](tips-on-microsoft-graph-apis)
 - [Create a Distribution List in Outlook](create-a-distribution-list-in-outlook)
 ```
 
 ## safety
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on Car and Driving](tips-on-car-and-driving)
 - [Living in Safty](living-in-safty)
 - [Tips on Self Defense Firearms](tips-on-self-defense-firearms)
 ```
 
 ## escape | Escape
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [The Escape Key in Vim](the-escape-key-in-vim)
 - [Map Keys in Linux](map-keys-in-linux)
 - [Map Keys in Windows](map-keys-in-windows)
 ```
 
 ## Caps Lock
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [The Escape Key in Vim](the-escape-key-in-vim)
 - [Map Keys in Linux](map-keys-in-linux)
 - [Map Keys in Windows](map-keys-in-windows)
 ```
 
 ## todo
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [The Unfair Wager Problem](the-unfair-wager-problem)
 - [Stick Breaking Paradox](stick-breaking-paradox)
 - [Ratio of Boy to Girl](ratio-of-boy-to-girl)
 ```
 
 ## mistake
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Grammar Mistake](grammar-mistake)
 - [Easy-Made Mistake with C++ Iterator](easy-made-mistake-with-c++-iterator)
 - [Common Mistakes in C++ Code and Ways to Debug](common-mistakes-in-c++-code-and-ways-to-debug)
 ```
 
 ## scp
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on Android](tips-on-android)
 - [Copying Files in Linux](copying-files-in-linux)
 - [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
 ```
 
 ## photo
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
 - [Convert HEIC Images in Linux](convert-heic-images-in-linux)
 - [Tips on Preview in macOS](tips-on-preview-in-macos)
 ```
 
 ## UML
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Text-based Flowchart and UML Tools](text-based-flowchart-and-uml-tools)
 - [Tips on Code Design](tips-on-code-design)
 - [Tips on PlantUML](tips-on-plantuml)
 ```
 
 ## plotly
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Visualization Using Plotly](visualization-using-plotly)
 - [Python Modules for Visualization](python-modules-for-visualization)
 - [Dashboard Solutions](dashboard-solutions)
 ```
 
 ## rpm
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Maning Packages Using Yum in CentOS](maning-packages-using-yum-in-centos)
 - [Managing Fedora Atomic Core System Using rpm-ostree](managing-fedora-atomic-core-system-using-rpm-ostree)
 - [Install VirtualBox Guest Additions](install-virtualbox-guest-additions)
 ```
 
 ## RedHat
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Maning Packages Using Yum in CentOS](maning-packages-using-yum-in-centos)
 - [Package Management in Linux](package-management-in-linux)
 - [Install sbt on CentOS](install-sbt-on-centos)
 ```
 
 ## Flask | flask
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on Python Flask](tips-on-python-flask)
 - [Quickly Build a Restful Service](quickly-build-a-restful-service)
 - [Tips on Backend Development](tips-on-backend-development)
 ```
 
 ## MySQL
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on MySQL](tips-on-mysql)
 - [Popular Databases](popular-databases)
 - [Docker Images for Database](docker-images-for-database)
 ```
 
 ## environment variable
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Environment Variables in Docker](environment-variables-in-docker)
 - [Proxy for sudo](proxy-for-sudo)
 - [Shell in Docker](shell-in-docker)
 ```
 
 ## PyQT5 | PyQt5
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Use Qt in Python](use-qt-in-python)
 - [Tips on PyQt5](tips-on-pyqt5)
 - [Python for Desktop Applications](python-for-desktop-applications)
 ```
 
 ## WSL
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on WSL 2](tips-on-wsl-2)
 - [Docker in WSL 2](docker-in-wsl-2)
 - [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
 ```
 
 ## WSL 2
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on WSL 2](tips-on-wsl-2)
 - [Docker in WSL 2](docker-in-wsl-2)
 - [WSL2 Filesystem](wsl2-filesystem)
 ```
 
 ## socks
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Speed Up sbt in China](speed-up-sbt-in-china)
 - [Resolve the DNS Contamination Issue in Firefox](resolve-the-dns-contamination-issue-in-firefox)
 - [Run Docker Containers Inside a Docker Container](run-docker-containers-inside-a-docker-container)
 ```
 
 ## Project Management | project management
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Managing Projects Using ProjectLibre](managing-projects-using-projectlibre)
 - [Tips on Project Management](tips-on-project-management)
 - [Python Packaging Tools](python-packaging-tools)
 ```
 
 ## bond
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Investment](investment)
 - [Tips on Investing in Bonds](tips-on-investing-in-bonds)
 - [Low Risk Investments](low-risk-investments)
 ```
 
 ## name
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on Project Management](tips-on-project-management)
 - [Get Type Name of Variables in Rust](get-type-name-of-variables-in-rust)
 - [English Names](english-names)
 ```
 
 ## JDBC
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Connecting to Databases Using py4jdbc in Python](connecting-to-databases-using-py4jdbc-in-python)
 - [SQL Database Client-server Protocols](sql-database-client-server-protocols)
 - [Zeppelin Interpreter](zeppelin-interpreter)
 ```
 
 ## workflow
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Job Scheduling and Management Using Apache Airflow](job-scheduling-and-management-using-apache-airflow)
 - [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
 - [Tips on Prefect](tips-on-prefect)
 ```
 
 ## scheduling
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Job Scheduling and Management Using Apache Airflow](job-scheduling-and-management-using-apache-airflow)
 - [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
 - [Workflow Managing Tools](workflow-managing-tools)
 ```
 
 ## osquery
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Query and Monitor OS Information using osquery](query-and-monitor-os-information-using-osquery)
 - [Query Hardware Information in Linux](query-hardware-information-in-linux)
 - [The Best Way to Find Files and Manipulate Them](the-best-way-to-find-files-and-manipulate-them)
 ```
 
 ## CI | ci
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on GitHub](tips-on-github)
 - [CI/CD Tools and Frameworks](ci-cd-tools-and-frameworks)
 - [Construct Confidence Intervals Using Jackknife](construct-confidence-intervals-using-jackknife)
 ```
 
 ## authentication
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Fix Authentication Error of GitHub Repositories on DockerHub](fix-authentication-error-of-github-repositories-on-dockerhub)
 - [Tips on Two Factor Authentication](tips-on-two-factor-authentication)
 - [Tips on Kerberos](tips-on-kerberos)
 ```
 
 ## tuning
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Improve the Performance of Spark](improve-the-performance-of-spark)
 - [Fine-Tune LLM](fine-tune-llm)
 - [Tips on Optuna](tips-on-optuna)
 ```
 
 ## driver
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Spark Issue: Timeout When Communicate With Driver During Shuffle Caused by Driver OOM](spark-issue-timeout-when-communicate-with-driver-during-shuffle-caused-by-driver-oom)
 - [Tips on Brother Printers](tips-on-brother-printers)
 - [Ubuntu Crashes When Opening Settings](ubuntu-crashes-when-opening-settings)
 ```
 
 ## clean
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Clean Temporary Files in Linux](clean-temporary-files-in-linux)
 - [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
 - [Drain Cleaners](drain-cleaners)
 ```
 
 ## voice
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Audio Tools](audio-tools)
 - [Tips on Speechlogger](tips-on-speechlogger)
 - [Voice Recognition](voice-recognition)
 ```
 
 ## config
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [The Label Widget in Tkinter](the-label-widget-in-tkinter)
 - [Spark Configuration](spark-configuration)
 - [Tips on Omegaconf](tips-on-omegaconf)
 ```
 
 ## sphinx | Sphinx
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Documentation Generating Tool for Python](documentation-generating-tool-for-python)
 - [Static Site Generators](static-site-generators)
 - [Write Documentation for Python Packages Using Sphinx](write-documentation-for-python-packages-using-sphinx)
 ```
 
 ## ads | Ads
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on Facebook Ads](tips-on-facebook-ads)
 - [Tips on Google Ads](tips-on-google-ads)
 - [Ads Platforms](ads-platforms)
 ```
 
 ## AnalysisException
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Spark Issue: AnalysisException: Cannot Resolve](spark-issue-analysisexception-cannot-resolve)
 - [Spark Issue: AnalysisException: Path Does Not Exist](spark-issue-analysisexception-path-does-not-exist)
 - [Spark Issue: AnalysisException: Found Duplicated Columns](spark-issue-analysisexception-found-duplicated-columns)
 ```
 
 ## apt-get
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
 - [Configure Debian Apt Source List](configure-debian-apt-source-list)
 - [Package Management in Linux](package-management-in-linux)
 ```
 
 ## WASI
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [WebAssembly Runtimes](webassembly-runtimes)
 - [Tips on WASM](tips-on-wasm)
 - [Webassembly as An Alternative to Containers](webassembly-as-an-alternative-to-containers)
 ```
 
 ## analysis
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Unit Testing and Formal Verification in Rust](unit-testing-and-formal-verification-in-rust)
 - [Nested Data Structures in Databases](nested-data-structures-in-databases)
 - [Tools for Audio Analysis](tools-for-audio-analysis)
 ```
 
 ## Valgrind
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
 - [Tips on Valgrind](tips-on-valgrind)
 - [Profile C++ Code](profile-c++-code)
 ```
 
 ## FS | fs
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Spark Issue: IllegalArgumentException: Wrong FS](spark-issue-illegalargumentexception-wrong-fs)
 - [Useful Rust Crates for Filesystem](useful-rust-crates-for-filesystem)
 - [IO in Rust](io-in-rust)
 ```
 
 ## GraphQL
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [gRPC GraphQL and RESTful APIs](grpc-graphql-and-restful-apis)
 - [Rust Backend Frameworks for GraphQL APIs](rust-backend-frameworks-for-graphql-apis)
 - [Useful Rust Crates for GraphQL](useful-rust-crates-for-graphql)
 ```
 
 ## tar
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on the tar Command in Linux](tips-on-the-tar-command-in-linux)
 - [Compress and Decompressing Archives in Linux](compress-and-decompressing-archives-in-linux)
 - [Compress and Decompress Files in Rust](compress-and-decompress-files-in-rust)
 ```
 
 ## compress
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on the tar Command in Linux](tips-on-the-tar-command-in-linux)
 - [Compress and Decompressing Archives in Linux](compress-and-decompressing-archives-in-linux)
 - [Compress and Decompress Files in Rust](compress-and-decompress-files-in-rust)
 ```
 
 ## decompress
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on the tar Command in Linux](tips-on-the-tar-command-in-linux)
 - [Compress and Decompressing Archives in Linux](compress-and-decompressing-archives-in-linux)
 - [Compress and Decompress Files in Rust](compress-and-decompress-files-in-rust)
 ```
 
+## coding
+```{dropdown} Click to expand/collapse 3 links
+- [Tips on Google Firebase Studio](tips-on-google-firebase-studio)
+- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
+- [Compiler and Build Tools](compiler-and-build-tools)
+```
+
 ## Nix
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Nix and NixOS](nix-and-nixos)
 - [mkShell vs buildFHSUserEnv in Nix](mkshell-vs-buildfhsuserenv-in-nix)
 - [Set Up Nix for Python Development](set-up-nix-for-python-development)
 ```
 
 ## NixOS
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Nix and NixOS](nix-and-nixos)
 - [mkShell vs buildFHSUserEnv in Nix](mkshell-vs-buildfhsuserenv-in-nix)
 - [Set Up Nix for Python Development](set-up-nix-for-python-development)
 ```
 
 ## DIY
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Install a Nema 14-50 Outlet](install-a-nema-14-50-outlet)
 - [Tips on DIY](tips-on-diy)
 - [Replace a Bathroom Fan](replace-a-bathroom-fan)
 ```
 
 ## snow
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Chasing Freedom on Snowboards](chasing-freedom-on-snowboards)
 - [Tips on Car Tires](tips-on-car-tires)
 - [Driving on Snow and Ice](driving-on-snow-and-ice)
 ```
 
 ## comparison
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Compare Data Frames Using DataCompy in Python](compare-data-frames-using-datacompy-in-python)
 - [Arrays in Java](arrays-in-java)
 - [Differences Between Kotlin and Java](differences-between-kotlin-and-java)
 ```
 
 ## compare
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Compare Data Frames Using DataCompy in Python](compare-data-frames-using-datacompy-in-python)
 - [Hands on the Python Library DeepDiff](hands-on-the-python-library-deepdiff)
 - [Arrays in Java](arrays-in-java)
 ```
 
 ## inner join
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Types of Joins of Spark DataFrames](types-of-joins-of-spark-dataframes)
 - [Inner Join of Spark DataFrames](inner-join-of-spark-dataframes)
 - [Null Values in Inner Join of Spark Dataframes](null-values-in-inner-join-of-spark-dataframes)
 ```
 
 ## sum
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan)
 - [Sum Type in Rust](sum-type-in-rust)
 - [The Sum and Product Puzzle](the-sum-and-product-puzzle)
 ```
 
 ## matrix
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Inverse of a Special Class of Matrices with High Dimensions](inverse-of-a-special-class-of-matrices-with-high-dimensions)
 - [Abuse of Vector in R](abuse-of-vector-in-r)
 - [Matrix Decomposition](matrix-decomposition)
 ```
 
 ## head
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Advanced Use of head and tail](advanced-use-of-head-and-tail)
 - [Get Location of Max Value in a Pandas Series](get-location-of-max-value-in-a-pandas-series)
 - [Print Rows from a Text File](print-rows-from-a-text-file)
 ```
 
 ## type annotation
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Static Type Checking of Python Scripts Using pytype](static-type-checking-of-python-scripts-using-pytype)
 - [Type Annotation in Python](type-annotation-in-python)
 - [Use a Class in the Definition of the Class in Python](use-a-class-in-the-definition-of-the-class-in-python)
 ```
 
 ## standalone
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Install Rust Globally in Linux](install-rust-globally-in-linux)
 - [Packaging Python Dependencies for PySpark Using python-build-standalone](packaging-python-dependencies-for-pyspark-using-python-build-standalone)
 - [Tools for Packaging Python Executables](tools-for-packaging-python-executables)
 ```
 
 ## match
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Check Whether an Email Address Is Valid in Java](check-whether-an-email-address-is-valid-in-java)
 - [Pattern Matching in Rust](pattern-matching-in-rust)
 - [Hands on the Glob Crate in Rust](hands-on-the-glob-crate-in-rust)
 ```
 
 ## color
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
 - [Print Colored Text in Terminal in Rust](print-colored-text-in-terminal-in-rust)
 - [Print Colored Text in Terminal](print-colored-text-in-terminal)
 ```
 
 ## graphics | Graphics
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
 - [Graphics in LaTeX](graphics-in-latex)
 - [Convert PDF to EPS](convert-pdf-to-eps)
 ```
 
 ## apps
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Make Your Life Easier with Portable Applications](make-your-life-easier-with-portable-applications)
 - [GitHub Apps and Bot Accounts](github-apps-and-bot-accounts)
 - [Cool Mobile Apps](cool-mobile-apps)
 ```
 
 ## server
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
 - [Visual Studio Code Server](visual-studio-code-server)
 - [Make Your Linux Server Securer](make-your-linux-server-securer)
 ```
 
 ## biostatistics
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Estimation of False Discovery Rate using Sequential Permutation Pvalues](estimation-of-false-discovery-rate-using-sequential-permutation-pvalues)
 - [Variance and Dispersion Estimate in Genetics](variance-and-dispersion-estimate-in-genetics)
 - [Estimate FDR](estimate-fdr)
 ```
 
 ## power
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Power Settings in Linux with GNOME Desktop](power-settings-in-linux-with-gnome-desktop)
 - [Tips on Tesla Superchargers](tips-on-tesla-superchargers)
 - [Tools With Dark Power](tools-with-dark-power)
 ```
 
 ## SSD
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Make Linux Run Faster](make-linux-run-faster)
 - [Format a Disk on Linux](format-a-disk-on-linux)
 - [Some Reading Notes About SSD](some-reading-notes-about-ssd)
 ```
 
 ## python-build-standalone
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Packaging Python Dependencies for PySpark Using python-build-standalone](packaging-python-dependencies-for-pyspark-using-python-build-standalone)
 - [Tips on Python Build Standalone](tips-on-python-build-standalone)
 - [Tools for Packaging Python Executables](tools-for-packaging-python-executables)
 ```
 
 ## water
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on Plumbing](tips-on-plumbing)
 - [Hot Water in the House](hot-water-in-the-house)
 - [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
 ```
 
 ## writing
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
 - [Markdown Tools Written in Rust](markdown-tools-written-in-rust)
 - [English Writing](english-writing)
 ```
 
 ## blogging
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Static Site Generators](static-site-generators)
 - [Blogging Platforms](blogging-platforms)
 - [Tips on Blogging](tips-on-blogging)
 ```
 
 ## DE
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Desktop Environments for Linux](desktop-environments-for-linux)
 - [Dual Monitor for Linux Desktop](dual-monitor-for-linux-desktop)
 - [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
 ```
 
 ## key
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Enable and Disable Key Repeating in macOS](enable-and-disable-key-repeating-in-macos)
 - [Tips on ssh-keygen](tips-on-ssh-keygen)
 - [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
 ```
 
 ## plot
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on Matplotlib](tips-on-matplotlib)
 - [Multiple Lines on the Same Plot Using hvplot](multiple-lines-on-the-same-plot-using-hvplot)
 - [Stick Breaking Problems](stick-breaking-problems)
 ```
 
 ## pest
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on Pest and Rodent Control](tips-on-pest-and-rodent-control)
 - [Parser Generators](parser-generators)
 - [Popular General Purpose Language Parsers](popular-general-purpose-language-parsers)
 ```
 
 ## control
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on Pest and Rodent Control](tips-on-pest-and-rodent-control)
 - [Tips on Moss Control](tips-on-moss-control)
 - [User Access Control on Linux](user-access-control-on-linux)
 ```
 
 ## top
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Get Location of Max Value in a Pandas Series](get-location-of-max-value-in-a-pandas-series)
 - [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
 - [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
 ```
 
 ## Amazon
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Shopping on Amazon](shopping-on-amazon)
 - [Amazon AWS EC2 Instances](amazon-aws-ec2-instances)
 - [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
 ```
 
 ## Redis | redis
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Popular Databases](popular-databases)
 - [Messsage Queue Implementations](messsage-queue-implementations)
 - [Distributed Programming in Python](distributed-programming-in-python)
 ```
 
 ## alternative
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Great Command Line Tools Developed in Rust](great-command-line-tools-developed-in-rust)
 - [Tips on Podman](tips-on-podman)
 - [Alternatives to Docker Containers](alternatives-to-docker-containers)
 ```
 
 ## Washington
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on Children Health](tips-on-children-health)
 - [Tips on Fishing in the Washington State](tips-on-fishing-in-the-washington-state)
 - [Poker Game in Casinos](poker-game-in-casinos)
 ```
 
 ## money market fund
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on Money Market Fund](tips-on-money-market-fund)
 - [Diversified Investment](diversified-investment)
 - [Low Risk Investments](low-risk-investments)
 ```
 
 ## index fund
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on Money Market Fund](tips-on-money-market-fund)
 - [Diversified Investment](diversified-investment)
 - [Low Risk Investments](low-risk-investments)
 ```
 
 ## where
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [ifelse on Pandas Series](ifelse-on-pandas-series)
 - [Understand Execuation of SQL Statements](understand-execuation-of-sql-statements)
 - [Get Index of True Values of a Sequence in Python](get-index-of-true-values-of-a-sequence-in-python)
 ```
 
 ## algo
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Sorting Algorithms in Rust](sorting-algorithms-in-rust)
 - [Computer Science Algorithms](computer-science-algorithms)
 - [Useful Algorithms Implemented in Rust](useful-algorithms-implemented-in-rust)
 ```
 
 ## platform
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [App Platforms](app-platforms)
 - [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
 - [Ads Platforms](ads-platforms)
 ```
 
 ## speed
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Profile Rust Applications](profile-rust-applications)
 - [Test Internet Speed](test-internet-speed)
 - [Profile C++ Code](profile-c++-code)
 ```
 
 ## leetcode | LeetCode
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Computer Science Algorithms](computer-science-algorithms)
 - [Count Ones in the Binary Represeantion of Integers](count-ones-in-the-binary-represeantion-of-integers)
 - [Online Practices for SQL](online-practices-for-sql)
 ```
 
 ## TPU
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Hardware for AI](hardware-for-ai)
 - [Tips on Google Colab](tips-on-google-colab)
 - [Tips on TPU](tips-on-tpu)
 ```
 
 ## Trait | trait
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [The Deref Trait in Rust](the-deref-trait-in-rust)
 - [Trait in Rust](trait-in-rust)
 - [Sealed Trait in Rust](sealed-trait-in-rust)
 ```
 
 ## LXD
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on LXD](tips-on-lxd)
 - [Tips on Multipass](tips-on-multipass)
 - [Alternatives to Docker Containers](alternatives-to-docker-containers)
 ```
 
 ## generic
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Const Generic in Rust](const-generic-in-rust)
 - [Trait in Rust](trait-in-rust)
 - [Generic and Specialization in Rust](generic-and-specialization-in-rust)
 ```
 
 ## IP
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on Network Protocols](tips-on-network-protocols)
 - [Configure Static IP Using XFinity Router](configure-static-ip-using-xfinity-router)
 - [IP Address and Subnets](ip-address-and-subnets)
 ```
 
 ## slice
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Concatenate Static Arrays in Rust](concatenate-static-arrays-in-rust)
 - [Slice in Rust](slice-in-rust)
 - [Slicing of Pandas Dataframes](slicing-of-pandas-dataframes)
 ```
 
 ## sqlfluff
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [SQL Style And Formatter](sql-style-and-formatter)
 - [Extract Identifier Names from a SQL Query Using Sqlfluff](extract-identifier-names-from-a-sql-query-using-sqlfluff)
 - [Tips on Sqlfluff](tips-on-sqlfluff)
 ```
 
 ## dir
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
 - [Current Working Directory in Rust](current-working-directory-in-rust)
 - [Calculate Hash of a Directory in Python](calculate-hash-of-a-directory-in-python)
 ```
 
 ## fmt
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on Cargo](tips-on-cargo)
 - [Format Strings in Golang](format-strings-in-golang)
 - [The println Macro in Rust](the-println-macro-in-rust)
 ```
 
 ## rustfmt
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on Cargo](tips-on-cargo)
 - [Tips on rustup](tips-on-rustup)
 - [Tips on Rustfmt](tips-on-rustfmt)
 ```
 
 ## heap
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Memory Layout in Rust](memory-layout-in-rust)
 - [Memory Layout of Enum in Rust](memory-layout-of-enum-in-rust)
 - [Memory in JVM](memory-in-jvm)
 ```
 
 ## TinyProxy | tinyproxy
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Good Choices of Reverse Proxies](good-choices-of-reverse-proxies)
 - [Tips on TinyProxy](tips-on-tinyproxy)
 - [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
 ```
 
 ## Apache Arrow | apache arrow
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Read and Write Parquet Files in Rust](read-and-write-parquet-files-in-rust)
 - [Tips on Apache Arrow Flight SQL](tips-on-apache-arrow-flight-sql)
 - [Dataframe in JavaScript](dataframe-in-javascript)
 ```
 
 ## solution
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Docker Issues and Solutions](docker-issues-and-solutions)
 - [Issues in pip and Solutions](issues-in-pip-and-solutions)
 - [Zeppelin Issues and Solutions](zeppelin-issues-and-solutions)
 ```
 
 ## executable
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Absolute or Relative Path for Executables](absolute-or-relative-path-for-executables)
 - [Tools for Packaging Python Executables](tools-for-packaging-python-executables)
 - [Current Working Directory in Rust](current-working-directory-in-rust)
 ```
 
 ## VS Code
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Visual Studio Code Server](visual-studio-code-server)
 - [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
 - [Sort Python Imports Using isort](sort-python-imports-using-isort)
 ```
 
 ## immutable
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [How Much to Push for Functional Programming and Immutability](how-much-to-push-for-functional-programming-and-immutability)
 - [Equality by Reference and Value in Python](equality-by-reference-and-value-in-python)
 - [Immutable String vs Mutable String](immutable-string-vs-mutable-string)
 ```
 
 ## proxy server
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Tips on TinyProxy](tips-on-tinyproxy)
 - [Configure SSH to Use a Proxy Server](configure-ssh-to-use-a-proxy-server)
 - [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
 ```
 
 ## Tex Live | TeX Live
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Fonts for Linux](fonts-for-linux)
 - [LaTeX for Chinese](latex-for-chinese)
 - [Use LaTeX in Linux](use-latex-in-linux)
 ```
 
 ## pex | PEX
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Packaging Python Dependencies for PySpark Using Pex](packaging-python-dependencies-for-pyspark-using-pex)
 - [Tips on pex](tips-on-pex)
 - [Tools for Packaging Python Executables](tools-for-packaging-python-executables)
 ```
 
 ## JAR
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Build a Fat JAR Using Maven Without a Java Project](build-a-fat-jar-using-maven-without-a-java-project)
 - [Ways to To Run a Kotlin JAR](ways-to-to-run-a-kotlin-jar)
 - [Run JAR Applications](run-jar-applications)
 ```
 
 ## distributed computing
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Deploy Apache Ray](deploy-apache-ray)
 - [Tips on Apache Ray](tips-on-apache-ray)
 - [Distributed Training of Models on Spark](distributed-training-of-models-on-spark)
 ```
 
 ## loguru
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Python Logging](python-logging)
 - [Python Logging Made Stupidly Simple With Loguru](python-logging-made-stupidly-simple-with-loguru)
 - [Logging in PySpark](logging-in-pyspark)
 ```
 
 ## monitor
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Monitoring and Alerting Tools](monitoring-and-alerting-tools)
 - [Use the Watch Command to Monitor Running Applications](use-the-watch-command-to-monitor-running-applications)
 - [Dual Monitor for Linux Desktop](dual-monitor-for-linux-desktop)
 ```
 
 ## XGBoost
-```{dropdown} Click to expand 3 links
+```{dropdown} Click to expand/collapse 3 links
 - [Use XGBoost With Spark](use-xgboost-with-spark)
 - [Tips on XGBoost](tips-on-xgboost)
 - [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
 ```
 
+## GnuPG
+```{dropdown} Click to expand/collapse 2 links
+- [Age Is a Modern Alternative to GnuPG](age-is-a-modern-alternative-to-gnupg)
+- [Tips on GPG](tips-on-gpg)
+```
+
+## gpg | GPG
+```{dropdown} Click to expand/collapse 2 links
+- [Age Is a Modern Alternative to GnuPG](age-is-a-modern-alternative-to-gnupg)
+- [Tips on GPG](tips-on-gpg)
+```
+
 ## US
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tax in US](tax-in-us)
 - [Tips on US Visas](tips-on-us-visas)
 ```
 
 ## terminology
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Some Terminologies in Anti-money Laundering (AML)](some-terminologies-in-anti-money-laundering-aml)
 - [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
 ```
 
 ## Shodan
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Shodan - Search Engine for IoT](shodan-search-engine-for-iot)
 - [Tips on Security](tips-on-security)
 ```
 
 ## let
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Rust Error "error: expected item, found 'let'"](rust-error-error-expected-item-found-let)
 - [Define Variables in Rust](define-variables-in-rust)
 ```
 
 ## stochastic
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
 - [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
 ```
 
 ## martingale
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
 - [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
 ```
 
 ## interview
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
 - [Tips on US Visas](tips-on-us-visas)
 ```
 
 ## MATLAB
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
 - [Convert Math Formula and Table To LaTeX](convert-math-formula-and-table-to-latex)
 ```
 
 ## seat
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Chance to Take One's Own Seat?](chance-to-take-one-s-own-seat)
 - [Tips on Car Seat](tips-on-car-seat)
 ```
 
 ## ball
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [How Many Empty Boxes?](how-many-empty-boxes)
 - [Fewest Scalings to Identify the Fake Ball](fewest-scalings-to-identify-the-fake-ball)
 ```
 
 ## box | Box
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [How Many Empty Boxes?](how-many-empty-boxes)
 - [Hands on Box in Rust](hands-on-box-in-rust)
 ```
 
 ## Tex
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [TeXstudio, Bravo!](texstudio-bravo)
 - [IDEs for LaTeX](ides-for-latex)
 ```
 
 ## TeXstudio | TexStudio
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [TeXstudio, Bravo!](texstudio-bravo)
 - [IDEs for LaTeX](ides-for-latex)
 ```
 
 ## linear model
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Don't Do Statistics If You Don't Really Undestand It](don-t-do-statistics-if-you-don-t-really-undestand-it)
 - [Effect of Duplicating Observations in Linear Models](effect-of-duplicating-observations-in-linear-models)
 ```
 
 ## emulator
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Android Emulators](android-emulators)
 - [Tips on AnBox](tips-on-anbox)
 ```
 
 ## AnBox
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Android Emulators](android-emulators)
 - [Tips on AnBox](tips-on-anbox)
 ```
 
 ## commute
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [中国的公共交通服务](public-transportation-china)
 - [Living in Shanghai](living-in-shanghai)
 ```
 
 ## sogou
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Chinese Input Methods](chinese-input-methods)
 - [Use Sogou Pinyin to Type Chinese](use-sogou-pinyin-to-type-chinese)
 ```
 
 ## update
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Manage AppImages on Linux](manage-appimages-on-linux)
 - [Update a pandas DataFrame](update-a-pandas-dataframe)
 ```
 
 ## launching
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
 - [Manage Autostart Applications](manage-autostart-applications)
 ```
 
 ## formatter
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Mdformat Is An Extensible Markdown Formatter](mdformat-is-an-extensible-markdown-formatter)
 - [SQL Style And Formatter](sql-style-and-formatter)
 ```
 
 ## WealthFront
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Empower](tips-on-empower)
 - [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
 ```
 
 ## browsing
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 - [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 ```
 
 ## ScriptCat
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Run UserScripts in Browsers](run-userscripts-in-browsers)
 - [Downloading Tools](downloading-tools)
 ```
 
 ## playwright | PlayWright
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Web Automation](web-automation)
 - [Web Automation and Testing Using PlayWright](web-automation-and-testing-using-playwright)
 ```
 
 ## prompt
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Gemini](tips-on-gemini)
 - [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 ```
 
 ## care
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [医保](health-insurance-in-china)
 - [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
 ```
 
 ## addon
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Useful Chrome Extensions](useful-chrome-extensions)
 - [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
 ```
 
 ## visual
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Web Automation and Testing Using PlayWright](web-automation-and-testing-using-playwright)
 - [Visualization for AI Concepts](visualization-for-ai-concepts)
 ```
 
 ## UI
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Web Automation and Testing Using PlayWright](web-automation-and-testing-using-playwright)
 - [Tips on UI Vision](tips-on-ui-vision)
 ```
 
 ## JDK
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
 - [The JAVA_HOME Environment Variable](the-java_home-environment-variable)
 ```
 
 ## save
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Save a Web Page as a Single File in Chrome](save-a-web-page-as-a-single-file-in-chrome)
 - [Save and Load PyTorch Models](save-and-load-pytorch-models)
 ```
 
 ## Baidu Yun
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Baidu Yun Tips](baidu-yun-tips)
 - [Synchronization and Backup Solutions](synchronization-and-backup-solutions)
 ```
 
 ## pandoc
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [File Converting and Generating Tools](file-converting-and-generating-tools)
 - [Static Site Generators](static-site-generators)
 ```
 
 ## re
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Hands on the re.match object in Python](hands-on-the-re.match-object-in-python)
 - [Make A Dot Match Newline in the re Module in Python](make-a-dot-match-newline-in-the-re-module-in-python)
 ```
 
 ## dulwich | Dulwich
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
 - [Git Implementations and Bindings in Python](git-implementations-and-bindings-in-python)
 ```
 
 ## branch
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
 - [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
 ```
 
 ## stable
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Rust Error: error[E0554]: `#![feature]` May Not Be Used on the Stable Release Channel](rust-error-error[e0554]-`#-[feature]`-may-not-be-used-on-the-stable-release-channel)
 - [Tips on rustup](tips-on-rustup)
 ```
 
 ## release
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Rust Error: error[E0554]: `#![feature]` May Not Be Used on the Stable Release Channel](rust-error-error[e0554]-`#-[feature]`-may-not-be-used-on-the-stable-release-channel)
 - [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
 ```
 
 ## split
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Split String into Rows in SQL](split-string-into-rows-in-sql)
 - [Compress and Decompressing Archives in Linux](compress-and-decompressing-archives-in-linux)
 ```
 
 ## ImageStat
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
 - [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
 ```
 
 ## Java 8
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Hands on the Stream Object in Java 8](hands-on-the-stream-object-in-java-8)
 - [Install Java 8 on Ubuntu 14.04](install-java-8-on-ubuntu-14.04)
 ```
 
 ## Stream | stream
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Hands on the Stream Object in Java 8](hands-on-the-stream-object-in-java-8)
 - [The Source Class in Scala IO](the-source-class-in-scala-io)
 ```
 
 ## urllib
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Hands on the urllib Module in Python](hands-on-the-urllib-module-in-python)
 - [Download Files from the Internet in Python](download-files-from-the-internet-in-python)
 ```
 
 ## options
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Options for the pandas Package in Python](options-for-the-pandas-package-in-python)
 - [Options of Plots in HoloViews](options-of-plots-in-holoviews)
 ```
 
 ## overloading
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Named Arguments in Kotlin](named-arguments-in-kotlin)
 - [Define Operator in R](define-operator-in-r)
 ```
 
 ## sorting
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Sort a List in Kotlin](sort-a-list-in-kotlin)
 - [Sorting At Compile Time in Rust](sorting-at-compile-time-in-rust)
 ```
 
 ## bitwise operators
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Bitwise Operators in Kotlin](bitwise-operators-in-kotlin)
 - [Bitwise Operators in Java](bitwise-operators-in-java)
 ```
 
 ## approximate
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Statistical Functions in Spark](statistical-functions-in-spark)
 - [Approximate Nearest Neighbor Search](approximate-nearest-neighbor-search)
 ```
 
 ## case
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Case of Column Names in Spark DataFrames](case-of-column-names-in-spark-dataframes)
 - [The Case Statement and the when Function in Spark](the-case-statement-and-the-when-function-in-spark)
 ```
 
 ## cut
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Cut and qcut in pandas DataFrame](cut-and-qcut-in-pandas-dataframe)
 - [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
 ```
 
 ## aggregation
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Aggregation in pandas DataFrame](aggregation-in-pandas-dataframe)
 - [Aggregate DataFrames in Spark](aggregate-dataframes-in-spark)
 ```
 
 ## multiprocessing
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Hands on the Python module Multiprocessing](hands-on-the-python-module-multiprocessing)
 - [Multiprocessing Issues in Docker](multiprocessing-issues-in-docker)
 ```
 
 ## Jedi | jedi
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Use Jedi for Autocompletion in Python](use-jedi-for-autocompletion-in-python)
 - [Disable Jedi in IPython](disable-jedi-in-ipython)
 ```
 
 ## interactive tools
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Interactive Tools of Plots in HoloViews](interactive-tools-of-plots-in-holoviews)
 - [Best Way of Using HoloViews](best-way-of-using-holoviews)
 ```
 
 ## Optimus
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Using Optimus for Data Profiling in PySpark](using-optimus-for-data-profiling-in-pyspark)
 - [Data Profiling Tools](data-profiling-tools)
 ```
 
 ## Tablesaw
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Use Tablesaw with Kotlin](use-tablesaw-with-kotlin)
 - [Dataframe for JVM](dataframe-for-jvm)
 ```
 
 ## krangl
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Hands on krangl in Kotlin](hands-on-krangl-in-kotlin)
 - [Dataframe for JVM](dataframe-for-jvm)
 ```
 
 ## singleton
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Implement Singleton in Java](implement-singleton-in-java)
 - [Implement a Singleton in Rust](implement-a-singleton-in-rust)
 ```
 
 ## AutoGluon
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
 - [Tips on AutoGluon](tips-on-autogluon)
 ```
 
 ## Dataset
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Split a Dataset into Train and Test Datasets in Python](split-a-dataset-into-train-and-test-datasets-in-python)
 - [Tips on Dataset in PyTorch](tips-on-dataset-in-pytorch)
 ```
 
 ## schedule
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Schdule Jobs in Python](schdule-jobs-in-python)
 - [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
 ```
 
 ## job
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Schdule Jobs in Python](schdule-jobs-in-python)
 - [Tips on Job Seeking](tips-on-job-seeking)
 ```
 
 ## buffer
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Load Images into Pillow](load-images-into-pillow)
 - [Protobuf Implementations in Rust](protobuf-implementations-in-rust)
 ```
 
 ## TensorFlow
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Pad a Sequence in Python](pad-a-sequence-in-python)
 - [Tips on TensorFlow](tips-on-tensorflow)
 ```
 
 ## window
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Get Information of Application Windows in Python](get-information-of-application-windows-in-python)
 - [Ignore Nulls in the Analytical Window Function Lead in SQL](ignore-nulls-in-the-analytical-window-function-lead-in-sql)
 ```
 
 ## struct
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Struct in Rust](struct-in-rust)
 - [Constraints on Types in Rust](constraints-on-types-in-rust)
 ```
 
 ## for
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Loop in Rust](loop-in-rust)
 - [Loop in Golang](loop-in-golang)
 ```
 
 ## while
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Loop in Rust](loop-in-rust)
 - [Loop in Golang](loop-in-golang)
 ```
 
 ## enumeration
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Enum in Rust](enum-in-rust)
 - [Enumeration in Java](enumeration-in-java)
 ```
 
 ## vec | Vec
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Vector in Rust](vector-in-rust)
 - [Array in Rust](array-in-rust)
 ```
 
 ## C
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Speed up Python Using Native Code](speed-up-python-using-native-code)
 - [Debug C/C++ Code Using GDB](debug-c-c++-code-using-gdb)
 ```
 
 ## PyO3
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Speed up Python Using Native Code](speed-up-python-using-native-code)
 - [Calling Rust from Python](calling-rust-from-python)
 ```
 
 ## ctypes
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Speed up Python Using Native Code](speed-up-python-using-native-code)
 - [ModuleNotFoundError: No Module Named _Ctypes in Python](modulenotfounderror-no-module-named-_ctypes-in-python)
 ```
 
 ## pybind11
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Speed up Python Using Native Code](speed-up-python-using-native-code)
 - [High Performance Computing in Python](high-performance-computing-in-python)
 ```
 
 ## resize
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Resize a Tensor in PyTorch](resize-a-tensor-in-pytorch)
 - [Resizing Hard Disk of Guest Machine in Virtualbox](resizing-hard-disk-of-guest-machine-in-virtualbox)
 ```
 
 ## clone | Clone
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Resize a Tensor in PyTorch](resize-a-tensor-in-pytorch)
 - [Trait in Rust](trait-in-rust)
 ```
 
 ## replace
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Sort a pandas DataFrame](sort-a-pandas-dataframe)
 - [Replace Values in a pandas DataFrame](replace-values-in-a-pandas-dataframe)
 ```
 
 ## manipulate
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Manipulate pandas DataFrame](manipulate-pandas-dataframe)
 - [Manipulate Bits in Rust](manipulate-bits-in-rust)
 ```
 
 ## JIT
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Hands on the Python module numba](hands-on-the-python-module-numba)
 - [JIT and Domain Specific Compilers](jit-and-domain-specific-compilers)
 ```
 
 ## glob
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Hands on the Python module glob](hands-on-the-python-module-glob)
 - [Hands on the Glob Crate in Rust](hands-on-the-glob-crate-in-rust)
 ```
 
 ## StructType
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Handling Complicated Data Types in Python and PySpark](handling-complicated-data-types-in-python-and-pyspark)
 - [Collection Functions in Spark](collection-functions-in-spark)
 ```
 
 ## aiutil
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Get the Dependencies of a Python Package Without Installing It](get-the-dependencies-of-a-python-package-without-installing-it)
 - [Extracting PDF Pages Using the Python Package PyPDF](extracting-pdf-pages-using-the-python-package-pypdf)
 ```
 
 ## select
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [The select Function in Spark DataFrame](the-select-function-in-spark-dataframe)
 - [Select All Columns Except a Few from a Table](select-all-columns-except-a-few-from-a-table)
 ```
 
 ## repartition
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Coalesce and Repartition in Spark DataFrame](coalesce-and-repartition-in-spark-dataframe)
 - [Control Number of Partitions of a DataFrame in Spark](control-number-of-partitions-of-a-dataframe-in-spark)
 ```
 
 ## overload
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Function in Rust](function-in-rust)
 - [Template Meta Programming](template-meta-programming)
 ```
 
 ## rename
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Rename and Drop Columns in Spark DataFrames](rename-and-drop-columns-in-spark-dataframes)
 - [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
 ```
 
 ## files
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Iterate All Descendant Files in a Directory in Python](iterate-all-descendant-files-in-a-directory-in-python)
 - [Undelete Files in Linux](undelete-files-in-linux)
 ```
 
 ## sub
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Iterate All Descendant Files in a Directory in Python](iterate-all-descendant-files-in-a-directory-in-python)
 - [Multi-Interpreter Computing in Python](multi-interpreter-computing-in-python)
 ```
 
 ## UDF
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [UDF in Spark](udf-in-spark)
 - [User-defined Function (UDF) in PySpark](user-defined-function-udf-in-pyspark)
 ```
 
 ## modulus
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Collection Functions in Spark](collection-functions-in-spark)
 - [Arithmetic Functions and Operations in Spark](arithmetic-functions-and-operations-in-spark)
 ```
 
 ## func
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Collection Functions in Spark](collection-functions-in-spark)
 - [Column Functions and Operators in Spark](column-functions-and-operators-in-spark)
 ```
 
 ## fun
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Collection Functions in Spark](collection-functions-in-spark)
 - [Column Functions and Operators in Spark](column-functions-and-operators-in-spark)
 ```
 
 ## Unix
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on the Shell command ps](tips-on-the-shell-command-ps)
 - [Tips on the Redox Operating System](tips-on-the-redox-operating-system)
 ```
 
 ## Vaex | vaex
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [DataFrame Implementations in Python](dataframe-implementations-in-python)
 - [Tips on Vaex](tips-on-vaex)
 ```
 
 ## tomlkit
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Hands on the Python Library tomlkit](hands-on-the-python-library-tomlkit)
 - [Parse TOML Files in Python](parse-toml-files-in-python)
 ```
 
 ## try
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [The try/except/finally Block in Python](the-try-except-finally-block-in-python)
 - [Error Handling in Rust](error-handling-in-rust)
 ```
 
 ## except
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [The try/except/finally Block in Python](the-try-except-finally-block-in-python)
 - [Select All Columns Except a Few from a Table](select-all-columns-except-a-few-from-a-table)
 ```
 
 ## PRNG
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Generating Random Numbers in Rust](generating-random-numbers-in-rust)
 - [Parallel RNGs With Rayon in Rust](parallel-rngs-with-rayon-in-rust)
 ```
 
 ## serde_yaml
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Handle Duplicated Keys in serde_yaml in Rust](handle-duplicated-keys-in-serde_yaml-in-rust)
 - [Parse YAML in Rust](parse-yaml-in-rust)
 ```
 
 ## current
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Get Directory Information in Golang](get-directory-information-in-golang)
 - [Current Working Directory in Rust](current-working-directory-in-rust)
 ```
 
 ## latest
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
 - [Install Docker](install-docker)
 ```
 
 ## github_rest_api
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
 - [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
 ```
 
 ## interface
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Abstract Class and Interface in Java](abstract-class-and-interface-in-java)
 - [Java Interfaces for Python](java-interfaces-for-python)
 ```
 
 ## GCC | gcc
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on C++ Compilers](tips-on-c++-compilers)
 - [Foreign Language Integration in Rust](foreign-language-integration-in-rust)
 ```
 
 ## link
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on C++ Compilers](tips-on-c++-compilers)
 - [Tips on the Linux Command ln](tips-on-the-linux-command-ln)
 ```
 
 ## anti-virus
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Software I Use in Windows System](software-i-use-in-windows-system)
 - [Windows Operating System](windows-operating-system)
 ```
 
 ## Julia
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Operators in Different Programming Languages](operators-in-different-programming-languages)
 - [Rising of the Julia Programming Language](rising-of-the-julia-programming-language)
 ```
 
 ## online
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Online Tools for Popular Programming Languages](online-tools-for-popular-programming-languages)
 - [Online Practices for SQL](online-practices-for-sql)
 ```
 
 ## multithreading
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Parallel and Concurrency Programming in C++11](parallel-and-concurrency-programming-in-c++11)
 - [Concurrency and Parallel Computing in Python](concurrency-and-parallel-computing-in-python)
 ```
 
 ## gsl | GSL
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Good C++ Libraries](good-c++-libraries)
 - [Install the GSL Library](install-the-gsl-library)
 ```
 
 ## SAS
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Model Fitting in ANOVA Analysis](model-fitting-in-anova-analysis)
 - [Regular Expression Equivalent](regular-expression-equivalent)
 ```
 
 ## antiX
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Comparison of (Debian Series) Linux Distributions](comparison-of-debian-series-linux-distributions)
 - [The Tiny antiX Linux Distribution](the-tiny-antix-linux-distribution)
 ```
 
 ## Linux Mint
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Comparison of (Debian Series) Linux Distributions](comparison-of-debian-series-linux-distributions)
 - [Tips on Linux Mint](tips-on-linux-mint)
 ```
 
 ## clustering
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Clustering Algorithms in Machine Learning](clustering-algorithms-in-machine-learning)
 - [Comparing Similarity of Two Different Clusterings](comparing-similarity-of-two-different-clusterings)
 ```
 
 ## multimedia
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on FFmpeg](tips-on-ffmpeg)
 - [Useful Rust Crates for Multimedia](useful-rust-crates-for-multimedia)
 ```
 
 ## CSS
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Web Development](tips-on-web-development)
 - [Tips on Dioxus](tips-on-dioxus)
 ```
 
 ## IBus
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on IBus](tips-on-ibus)
 - [Fcitx Tips](fcitx-tips)
 ```
 
 ## token
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Git](tips-on-git)
 - [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
 ```
 
 ## links
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Some Links for General Stuff](some-links-for-general-stuff)
 - [Mind Map Links](mind-map-links)
 ```
 
 ## downloading
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on cURL and Wget](tips-on-curl-and-wget)
 - [Download Files Using Transmission](download-files-using-transmission)
 ```
 
 ## overflow
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Numeric Algorithms](numeric-algorithms)
 - [Debug Stack Overflow Issues in Rust](debug-stack-overflow-issues-in-rust)
 ```
 
 ## media
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Multimedia](tips-on-multimedia)
 - [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
 ```
 
 ## tag
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Multimedia](tips-on-multimedia)
 - [Deleting Docker Image Tags on DockerHub using the Python Module requests](deleting-docker-image-tags-on-dockerhub-using-the-python-module-requests)
 ```
 
 ## smart phone
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Smart Phone](tips-on-smart-phone)
 - [Proxy and VPN Services](proxy-and-vpn-services)
 ```
 
 ## iOS
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Smart Phone](tips-on-smart-phone)
 - [Convert HEIC Images in Linux](convert-heic-images-in-linux)
 ```
 
 ## email client
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Outlook](tips-on-outlook)
 - [Create a Distribution List in Outlook](create-a-distribution-list-in-outlook)
 ```
 
 ## sqldep
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [General Tips on SQL](general-tips-on-sql)
 - [SQL Logic Visualization](sql-logic-visualization)
 ```
 
 ## queryscope | queryScope
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [General Tips on SQL](general-tips-on-sql)
 - [SQL Logic Visualization](sql-logic-visualization)
 ```
 
 ## queryViz
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [General Tips on SQL](general-tips-on-sql)
 - [SQL Logic Visualization](sql-logic-visualization)
 ```
 
 ## SQLAlchemy
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [General Tips on SQL](general-tips-on-sql)
 - [SQL Translation Tools](sql-translation-tools)
 ```
 
 ## food
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Food](food)
 - [Living in Charlotte](living-in-charlotte)
 ```
 
 ## notes | Notes
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Basket in KDE](tips-on-basket-in-kde)
 - [Low Risk Investments](low-risk-investments)
 ```
 
 ## NFS | nfs
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on NFS](tips-on-nfs)
 - [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
 ```
 
 ## housing
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Housing](tips-on-housing)
 - [Property Line](property-line)
 ```
 
 ## rent
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Housing](tips-on-housing)
 - [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
 ```
 
 ## apartment
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Housing](tips-on-housing)
 - [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
 ```
 
 ## city
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Living in Charlotte](living-in-charlotte)
 - [Living in Shanghai](living-in-shanghai)
 ```
 
 ## AutoHotkey
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Typing Automatically Using AutoHotkey](typing-automatically-using-autohotkey)
 - [Auto Typing Tools](auto-typing-tools)
 ```
 
 ## teamdrive | TeamDrive
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on TeamDrive](tips-on-teamdrive)
 - [Synchronization and Backup Solutions](synchronization-and-backup-solutions)
 ```
 
 ## AutoKey
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Auto Typing Using AutoKey](auto-typing-using-autokey)
 - [Auto Typing Tools](auto-typing-tools)
 ```
 
 ## text mining
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Nature Language Processing Using NLTK](nature-language-processing-using-nltk)
 - [Keywords Extracting from Text](keywords-extracting-from-text)
 ```
 
 ## business
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Banking Account](banking-account)
 - [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
 ```
 
 ## sports
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Sports](tips-on-sports)
 - [Chasing Freedom on Snowboards](chasing-freedom-on-snowboards)
 ```
 
 ## tip
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Sports](tips-on-sports)
 - [Tips on PySimpleGUI](tips-on-pysimplegui)
 ```
 
 ## functional programming
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Function Programming in Python](function-programming-in-python)
 - [How Much to Push for Functional Programming and Immutability](how-much-to-push-for-functional-programming-and-immutability)
 ```
 
 ## apply
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Function Programming in Python](function-programming-in-python)
 - [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
 ```
 
 ## PyCharm
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Python Developing in PyCharm](python-developing-in-pycharm)
 - [Fail to Install Packages into Python Virtual Environment in PyCharm on Windows](fail-to-install-packages-into-python-virtual-environment-in-pycharm-on-windows)
 ```
 
 ## Cinnamon
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [The Cinnamon Desktop Environment for Linux](the-cinnamon-desktop-environment-for-linux)
 - [Map Keys in Linux](map-keys-in-linux)
 ```
 
 ## bus | Bus
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Living in Shanghai](living-in-shanghai)
 - [PCIe BUS Error: Severity=Corrected, Type=Physical Layer](pcie-bus-error-severity-corrected-type-physical-layer)
 ```
 
 ## PlantUML
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Text-based Flowchart and UML Tools](text-based-flowchart-and-uml-tools)
 - [Tips on PlantUML](tips-on-plantuml)
 ```
 
 ## flowchart
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Text-based Flowchart and UML Tools](text-based-flowchart-and-uml-tools)
 - [GUI-based Mind Mapping Tools](gui-based-mind-mapping-tools)
 ```
 
 ## diagram
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Text-based Flowchart and UML Tools](text-based-flowchart-and-uml-tools)
 - [Software for Charts](software-for-charts)
 ```
 
 ## disable
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Shortcuts in macOS](shortcuts-in-macos)
 - [Manage systemd Services and Units](manage-systemd-services-and-units)
 ```
 
 ## entrypoint
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [General Tips for Docker](general-tips-for-docker)
 - [Overwrite Entrypoint in Docker](overwrite-entrypoint-in-docker)
 ```
 
 ## Eclipse Che
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Eclipse Che](tips-on-eclipse-che)
 - [Cloud IDE](cloud-ide)
 ```
 
 ## cloud9 | Cloud9
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Cloud9](tips-on-cloud9)
 - [Cloud IDE](cloud-ide)
 ```
 
 ## snap
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Snappy Apps](snappy-apps)
 - [Install the Latest Version of Software on Ubuntu](install-the-latest-version-of-software-on-ubuntu)
 ```
 
 ## ODBC
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Connect to Databases Using pyodbc in Python](connect-to-databases-using-pyodbc-in-python)
 - [SQL Database Client-server Protocols](sql-database-client-server-protocols)
 ```
 
 ## Teradata
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Connect to Databases Using pyodbc in Python](connect-to-databases-using-pyodbc-in-python)
 - [Use Column Alias in SQL](use-column-alias-in-sql)
 ```
 
 ## source list
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Configure Proxy for Apt](configure-proxy-for-apt)
 - [Configure Debian Apt Source List](configure-debian-apt-source-list)
 ```
 
 ## ProxyChains
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
 - [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
 ```
 
 ## sshuttle
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
 - [Tips on sshuttle](tips-on-sshuttle)
 ```
 
 ## Fabric
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Cluster Management Made Easy with the Python Package Fabric](cluster-management-made-easy-with-the-python-package-fabric)
 - [Run Commands on Remote Machines](run-commands-on-remote-machines)
 ```
 
 ## null
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Null, None and Alike in Scala](null-none-and-alike-in-scala)
 - [Ignore Nulls in the Analytical Window Function Lead in SQL](ignore-nulls-in-the-analytical-window-function-lead-in-sql)
 ```
 
 ## QT | Qt
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Use Qt in Python](use-qt-in-python)
 - [Python for Desktop Applications](python-for-desktop-applications)
 ```
 
 ## PySide2
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Use Qt in Python](use-qt-in-python)
 - [Python for Desktop Applications](python-for-desktop-applications)
 ```
 
 ## BashOnWindows
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on WSL 2](tips-on-wsl-2)
 - [Docker in WSL 2](docker-in-wsl-2)
 ```
 
 ## Bash on Windows
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on WSL 2](tips-on-wsl-2)
 - [Docker in WSL 2](docker-in-wsl-2)
 ```
 
 ## MacPorts
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on MacPorts](tips-on-macports)
 - [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
 ```
 
 ## JupyterHub
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
 - [Tips on JupyterHub](tips-on-jupyterhub)
 ```
 
 ## nbdime
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
 - [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
 ```
 
 ## SAMBA
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Samba](tips-on-samba)
 - [Mount Samba on Mac](mount-samba-on-mac)
 ```
 
 ## ANTLR
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on ANTLR4](tips-on-antlr4)
 - [Popular General Purpose Language Parsers](popular-general-purpose-language-parsers)
 ```
 
 ## savings
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Investment](investment)
 - [Tips on Investing in Bonds](tips-on-investing-in-bonds)
 ```
 
 ## structure notes
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Investment](investment)
 - [Tips on Investing in Structure Notes](tips-on-investing-in-structure-notes)
 ```
 
 ## dbeaver
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on dbeaver](tips-on-dbeaver)
 - [IDE for SQL](ide-for-sql)
 ```
 
 ## project
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Project Management](tips-on-project-management)
 - [Manage Python Projects Using uv](manage-python-projects-using-uv)
 ```
 
 ## abbreviation
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Project Management](tips-on-project-management)
 - [English Names](english-names)
 ```
 
 ## memcached
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Serialization and Caching in Python](serialization-and-caching-in-python)
 - [Messsage Queue Implementations](messsage-queue-implementations)
 ```
 
 ## Optuna
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Hyper Parameter Tuning and Automatical Machine Learning](hyper-parameter-tuning-and-automatical-machine-learning)
 - [Tips on Optuna](tips-on-optuna)
 ```
 
 ## mind map
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [GUI-based Mind Mapping Tools](gui-based-mind-mapping-tools)
 - [Mind Map Links](mind-map-links)
 ```
 
 ## XMind
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [GUI-based Mind Mapping Tools](gui-based-mind-mapping-tools)
 - [Flow Chart Software](flow-chart-software)
 ```
 
 ## Apache AirFlow | Apache Airflow
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Job Scheduling and Management Using Apache Airflow](job-scheduling-and-management-using-apache-airflow)
 - [Workflow Managing Tools](workflow-managing-tools)
 ```
 
 ## scheduler
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Job Scheduling and Management Using Apache Airflow](job-scheduling-and-management-using-apache-airflow)
 - [Workflow Managing Tools](workflow-managing-tools)
 ```
 
 ## Groovy
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [General Tips for Gradle](general-tips-for-gradle)
 - [Argument Parsing in Groovy](argument-parsing-in-groovy)
 ```
 
 ## Qt5
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Developing GUI Applications Using Qt5](developing-gui-applications-using-qt5)
 - [Tips on PyQt5](tips-on-pyqt5)
 ```
 
 ## nbconvert
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
 - [Tips on nbconvert](tips-on-nbconvert)
 ```
 
 ## root
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Gitignore Examples](gitignore-examples)
 - [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
 ```
 
 ## HDFS
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [HDFS in Python](hdfs-in-python)
 - [Get Size of Tables on HDFS](get-size-of-tables-on-hdfs)
 ```
 
 ## pylint
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on pylint](tips-on-pylint)
 - [Useful Tools for Python Developing](useful-tools-for-python-developing)
 ```
 
 ## rustup
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Rust](tips-on-rust)
 - [Tips on rustup](tips-on-rustup)
 ```
 
 ## minikube | Minikube
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Kubernetes](tips-on-kubernetes)
 - [Tips on Minikube](tips-on-minikube)
 ```
 
 ## Microk8s
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Kubernetes](tips-on-kubernetes)
 - [Tips on Microk8S](tips-on-microk8s)
 ```
 
 ## timeout
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Spark Issue: Timeout When Communicate With Driver During Shuffle Caused by Driver OOM](spark-issue-timeout-when-communicate-with-driver-during-shuffle-caused-by-driver-oom)
 - [Reduce GRUB Timeout](reduce-grub-timeout)
 ```
 
 ## pipeline
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Scikit-Learn](tips-on-scikit-learn)
 - [CI/CD for Machine Learning](ci-cd-for-machine-learning)
 ```
 
 ## JAVA_HOME
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [The JAVA_HOME Environment Variable](the-java_home-environment-variable)
 - [PySpark Issue: Java Gateway Process Exited Before Sending the Driver Its Port Number](pyspark-issue-java-gateway-process-exited-before-sending-the-driver-its-port-number)
 ```
 
 ## systemd
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Manage systemd Services and Units](manage-systemd-services-and-units)
 - [Check Whether a Linux Is Using upstart, systemd or SysV](check-whether-a-linux-is-using-upstart-systemd-or-sysv)
 ```
 
 ## start
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Manage systemd Services and Units](manage-systemd-services-and-units)
 - [Tips on Dishwasher](tips-on-dishwasher)
 ```
 
 ## restart
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Manage systemd Services and Units](manage-systemd-services-and-units)
 - [Make Windows Restart Regularly](make-windows-restart-regularly)
 ```
 
 ## TableSample | TABLESAMPLE
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Use TableSample in SQL](use-tablesample-in-sql)
 - [Sample Rows from a Spark DataFrame](sample-rows-from-a-spark-dataframe)
 ```
 
 ## OpenInTerminal
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Quickly Open a Directory in Terminal in Mac](quickly-open-a-directory-in-terminal-in-mac)
 - [Add New Document to Right-Click Menu in Mac](add-new-document-to-right-click-menu-in-mac)
 ```
 
 ## symbolic computation
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tools for Symbolic Computation](tools-for-symbolic-computation)
 - [Do Calculus Using SageMath](do-calculus-using-sagemath)
 ```
 
 ## symbolic
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tools for Symbolic Computation](tools-for-symbolic-computation)
 - [Tips on the Linux Command ln](tips-on-the-linux-command-ln)
 ```
 
 ## SageMath
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tools for Symbolic Computation](tools-for-symbolic-computation)
 - [Do Calculus Using SageMath](do-calculus-using-sagemath)
 ```
 
 ## CI/CD
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [CI/CD for Machine Learning](ci-cd-for-machine-learning)
 - [CI/CD Tools and Frameworks](ci-cd-tools-and-frameworks)
 ```
 
 ## docstring
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Python Docstring Generator for Visual Studio Code](python-docstring-generator-for-visual-studio-code)
 - [Tips on Darglint](tips-on-darglint)
 ```
 
 ## notifiers
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
 - [Send Emails in Python](send-emails-in-python)
 ```
 
 ## reverse proxy
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
 - [Tips on Caddy](tips-on-caddy)
 ```
 
 ## DNS
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
 - [Network in Docker Containers](network-in-docker-containers)
 ```
 
 ## not found
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Spark Issue: Block Could Not Be Removed as It Was Not Found on Disk or in Memory](spark-issue-block-could-not-be-removed-as-it-was-not-found-on-disk-or-in-memory)
 - [Spark Issue Libc Not Found](spark-issue-libc-not-found)
 ```
 
 ## cell | Cell
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
 - [Cell and RefCell in Rust](cell-and-refcell-in-rust)
 ```
 
 ## IllegalArgumentException
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Spark Issue: IllegalArgumentException: System Memory Must Be At Least](spark-issue-illegalargumentexception-system-memory-must-be-at-least)
 - [Spark Issue: IllegalArgumentException: Wrong FS](spark-issue-illegalargumentexception-wrong-fs)
 ```
 
 ## multi-threading
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Async, Concurrency, Multithreading and Parallel Computing in Rust](async-concurrency-multithreading-and-parallel-computing-in-rust)
 - [Send and Sync in Rust](send-and-sync-in-rust)
 ```
 
 ## KCacheGrind | kcachegrind
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
 - [Profile C++ Code](profile-c++-code)
 ```
 
 ## RuntimeException
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Spark Issue: RuntimeException: Could not find any configured addresses for URI](spark-issue-runtimeexception-could-not-find-any-configured-addresses-for-uri)
 - [Spark Issue: RuntimeException: Unsupported Literal Type Class](spark-issue-runtimeexception-unsupported-literal-type-class)
 ```
 
 ## quota
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Spark Issue: GetQuotaUsage](spark-issue-getquotausage)
 - [Spark Issue: Namespace Quota Is Exceeded](spark-issue-namespace-quota-is-exceeded)
 ```
 
 ## ViewFs
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Spark Issue: ViewFs: Cannot Initialize: Empty Mount Table in Config](spark-issue-viewfs-cannot-initialize-empty-mount-table-in-config)
 - [Spark Issue: IllegalArgumentException: Wrong FS](spark-issue-illegalargumentexception-wrong-fs)
 ```
 
 ## scipy
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Could Not Build Wheels for Numpy Which Use Pep 517](could-not-build-wheels-for-numpy-which-use-pep-517)
 - [No BLAS or LAPACK Found When Installing Scipy](no-blas-or-lapack-found-when-installing-scipy)
 ```
 
 ## garbage collection
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Garbage Collection for Rust](garbage-collection-for-rust)
 - [Garbage Collection in Python](garbage-collection-in-python)
 ```
 
 ## laptop
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Screen Resolution in macOS](screen-resolution-in-macos)
 - [Functional Keys on Computers](functional-keys-on-computers)
 ```
 
 ## computer
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Screen Resolution in macOS](screen-resolution-in-macos)
 - [Functional Keys on Computers](functional-keys-on-computers)
 ```
 
 ## accessibility
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Screen Resolution in macOS](screen-resolution-in-macos)
 - [Screen Reader Tools](screen-reader-tools)
 ```
 
 ## Graphviz | GraphViz
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Inline Dot Graph in Docs](inline-dot-graph-in-docs)
 - [Tips on visualize-sqlite](tips-on-visualize-sqlite)
 ```
 
 ## DOT
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Inline Dot Graph in Docs](inline-dot-graph-in-docs)
 - [Tips on visualize-sqlite](tips-on-visualize-sqlite)
 ```
 
 ## out of memory | out-of-memory
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [OOM in Rust](oom-in-rust)
 - [The Non-Zero Exit Code 137 While Building a Docker Image](the-non-zero-exit-code-137-while-building-a-docker-image)
 ```
 
 ## constraint
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Constraints on Types in Rust](constraints-on-types-in-rust)
 - [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
 ```
 
 ## restriction
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Constraints on Types in Rust](constraints-on-types-in-rust)
 - [Hands on the Python Module Packaging](hands-on-the-python-module-packaging)
 ```
 
 ## Seattle
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
 - [Tips for Rainy Winter](tips-for-rainy-winter)
 ```
 
 ## camera
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
 - [Tools for IOT](tools-for-iot)
 ```
 
 ## auto
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on RV](tips-on-rv)
 - [String in C++11](string-in-c++11)
 ```
 
 ## mobile
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on RV](tips-on-rv)
 - [Cool Mobile Apps](cool-mobile-apps)
 ```
 
-## coding
-```{dropdown} Click to expand 2 links
-- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
-- [Compiler and Build Tools](compiler-and-build-tools)
-```
-
 ## completion
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
 - [Generating Completions Script Using crazy-complete](generating-completions-script-using-crazy-complete)
 ```
 
 ## electronic
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Install a Nema 14-50 Outlet](install-a-nema-14-50-outlet)
 - [Tips on Electronic Vehicles](tips-on-electronic-vehicles)
 ```
 
 ## electricity
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Install a Nema 14-50 Outlet](install-a-nema-14-50-outlet)
 - [Tips on PSE](tips-on-pse)
 ```
 
 ## pexpect
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Hands on the Python module subprocess](hands-on-the-python-module-subprocess)
 - [Hands on the Python Library pexpect](hands-on-the-python-library-pexpect)
 ```
 
 ## sample
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Sample Rows from a Spark DataFrame](sample-rows-from-a-spark-dataframe)
 - [Sample Lines from a File Using Command Line](sample-lines-from-a-file-using-command-line)
 ```
 
 ## pandas_udf
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [User-defined Function (UDF) in PySpark](user-defined-function-udf-in-pyspark)
 - [Rust and Spark](rust-and-spark)
 ```
 
 ## itertools
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Working with Iterators in Python](working-with-iterators-in-python)
 - [Generate Combinations Using Itertools in Rust](generate-combinations-using-itertools-in-rust)
 ```
 
 ## hash table
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Hands on dict in Python](hands-on-dict-in-python)
 - [Probability to Lose All Money](probability-to-lose-all-money)
 ```
 
 ## extract
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Auto Rename eTrade Employee Stock Plan Release Confirmations Using pdftotext](auto-rename-etrade-employee-stock-plan-release-confirmations-using-pdftotext)
 - [Extract Identifier Names from a SQL Query Using Sqlfluff](extract-identifier-names-from-a-sql-query-using-sqlfluff)
 ```
 
 ## product
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan)
 - [The Sum and Product Puzzle](the-sum-and-product-puzzle)
 ```
 
 ## locate
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on the find command in Linux](tips-on-the-find-command-in-linux)
 - [The Best Way to Find Files and Manipulate Them](the-best-way-to-find-files-and-manipulate-them)
 ```
 
 ## tail
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Advanced Use of head and tail](advanced-use-of-head-and-tail)
 - [Print Rows from a Text File](print-rows-from-a-text-file)
 ```
 
 ## lines
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Advanced Use of head and tail](advanced-use-of-head-and-tail)
 - [Print Rows from a Text File](print-rows-from-a-text-file)
 ```
 
 ## gpasswd
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Add Users to a Group in Linux](add-users-to-a-group-in-linux)
 - [Account Management in Linux](account-management-in-linux)
 ```
 
 ## socks proxy
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Convert a Socks Proxy to a HTTP Proxy](convert-a-socks-proxy-to-a-http-proxy)
 - [SSH Tunnel](ssh-tunnel)
 ```
 
 ## xonsh
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Python Alternatives to Shell](python-alternatives-to-shell)
 - [Tips on Xonsh](tips-on-xonsh)
 ```
 
 ## uv
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Install Python in macOS](install-python-in-macos)
 - [Manage Python Projects Using uv](manage-python-projects-using-uv)
 ```
 
 ## ExFAT | exFAT
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Mount NTFS Drive Manually on Mac](mount-ntfs-drive-manually-on-mac)
 - [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
 ```
 
 ## SQLite
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Install Newer Version of SQLite3 on Debian Jessie](install-newer-version-of-sqlite3-on-debian-jessie)
 - [Comparison of Embedded Databases](comparison-of-embedded-databases)
 ```
 
 ## panic
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Spark Issue: Rust Panic](spark-issue-rust-panic)
 - [Error Handling in Rust](error-handling-in-rust)
 ```
 
 ## multi-thread
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Parallel RNGs With Rayon in Rust](parallel-rngs-with-rayon-in-rust)
 - [Thread-Local Storage for Rayon](thread-local-storage-for-rayon)
 ```
 
 ## temperature
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Read CPU Temperature in Linux](read-cpu-temperature-in-linux)
 - [Tips on Biowind Register Fan](tips-on-biowind-register-fan)
 ```
 
 ## zip
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Compress and Decompressing Archives in Linux](compress-and-decompressing-archives-in-linux)
 - [Compress and Decompress Files in Rust](compress-and-decompress-files-in-rust)
 ```
 
 ## bibliography
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
 - [Common Errors in Bibliographies](common-errors-in-bibliographies)
 ```
 
 ## MT
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Summary on Random Number Generators](summary-on-random-number-generators)
 - [Thread Safe Random Number Generator](thread-safe-random-number-generator)
 ```
 
 ## simulation
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Probability to Lose All Money](probability-to-lose-all-money)
 - [Bayesian vs Frequentist](bayesian-vs-frequentist)
 ```
 
 ## condition
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Probability to Lose All Money](probability-to-lose-all-money)
 - [Basketball Player](basketball-player)
 ```
 
 ## eclipse | Eclipse
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Make Eclipse Support C++11](make-eclipse-support-c++11)
 - [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
 ```
 
 ## override
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Working with Class in C++](working-with-class-in-c++)
 - [Define Operator in R](define-operator-in-r)
 ```
 
 ## boolean
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Boolean Values in C++](boolean-values-in-c++)
 - [Boolean Column Operators and Functions in Spark](boolean-column-operators-and-functions-in-spark)
 ```
 
 ## task
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
 - [GitHub Action Task Stuck At Expected](github-action-task-stuck-at-expected)
 ```
 
 ## crontab
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
 - [Schedule Cron Tasks in a Docker Container](schedule-cron-tasks-in-a-docker-container)
 ```
 
 ## AirFlow | Airflow
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
 - [Tips on Prefect](tips-on-prefect)
 ```
 
 ## FDR
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Estimation of False Discovery Rate using Sequential Permutation Pvalues](estimation-of-false-discovery-rate-using-sequential-permutation-pvalues)
 - [Estimate FDR](estimate-fdr)
 ```
 
 ## battery
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Power Settings in Linux with GNOME Desktop](power-settings-in-linux-with-gnome-desktop)
 - [Anker Solix Home Backup Battery System](anker-solix-home-backup-battery-system)
 ```
 
 ## credit risk
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
 - [Generating YYYYMM Formatted Dates Using Python](generating-yyyymm-formatted-dates-using-python)
 ```
 
 ## bank
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
 - [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
 ```
 
 ## speedup
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Make Linux Run Faster](make-linux-run-faster)
 - [Speedup Docker Pulling and Pushing](speedup-docker-pulling-and-pushing)
 ```
 
 ## fast
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Make Linux Run Faster](make-linux-run-faster)
 - [CICD for Rust](cicd-for-rust)
 ```
 
 ## flash drive
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Ways to Make a Bootable Flash Drive in Linux](ways-to-make-a-bootable-flash-drive-in-linux)
 - [Format a Flash Drive in a Linux Virtual Machine](format-a-flash-drive-in-a-linux-virtual-machine)
 ```
 
 ## grep
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Regular Expression Equivalent](regular-expression-equivalent)
 - [Search for Files in Command-line Using grep](search-for-files-in-command-line-using-grep)
 ```
 
 ## egrep
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Regular Expression Equivalent](regular-expression-equivalent)
 - [Search for Files in Command-line Using grep](search-for-files-in-command-line-using-grep)
 ```
 
 ## sync | Sync
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Synchronize Files Using Dropbox](synchronize-files-using-dropbox)
 - [Send and Sync in Rust](send-and-sync-in-rust)
 ```
 
 ## dump
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Parse TOML Files in Python](parse-toml-files-in-python)
 - [Serialize and Deserialize Object Using Pickle in Python](serialize-and-deserialize-object-using-pickle-in-python)
 ```
 
 ## batch
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Batch GitHub Repository Operations Using GitHub Rest API](batch-github-repository-operations-using-github-rest-api)
 - [Tips on Apache Beam](tips-on-apache-beam)
 ```
 
 ## operation
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Batch GitHub Repository Operations Using GitHub Rest API](batch-github-repository-operations-using-github-rest-api)
 - [Useful Rust Crates for Bit Manipulations](useful-rust-crates-for-bit-manipulations)
 ```
 
 ## plumbing
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Plumbing](tips-on-plumbing)
 - [Tips on Washing Machine](tips-on-washing-machine)
 ```
 
 ## hot
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Plumbing](tips-on-plumbing)
 - [Hot Water in the House](hot-water-in-the-house)
 ```
 
 ## pressure
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Plumbing](tips-on-plumbing)
 - [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
 ```
 
 ## road
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Playbook on Road Accident](playbook-on-road-accident)
 - [Tips on Mount Rainer](tips-on-mount-rainer)
 ```
 
 ## children
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Child Education](tips-on-child-education)
 - [Tips on Children Health](tips-on-children-health)
 ```
 
 ## discount
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
 - [Get Deals for Traveling](get-deals-for-traveling)
 ```
 
 ## Universal Blue
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Atomic Linux Distributions](atomic-linux-distributions)
 - [Universal Blue Atomic Linux Distributions](universal-blue-atomic-linux-distributions)
 ```
 
 ## Aurora
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Atomic Linux Distributions](atomic-linux-distributions)
 - [Universal Blue Atomic Linux Distributions](universal-blue-atomic-linux-distributions)
 ```
 
 ## streaming
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Useful Rust Crates for Database](useful-rust-crates-for-database)
 - [Tips on Apache Beam](tips-on-apache-beam)
 ```
 
 ## wezterm
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on WezTerm](tips-on-wezterm)
 - [Good Terminal Apps](good-terminal-apps)
 ```
 
 ## kitty
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Good Terminal Apps](good-terminal-apps)
 - [Show Image in Terminal](show-image-in-terminal)
 ```
 
 ## classification
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Classification](classification)
 - [Regression Classification ANOVA](regression-classification-anova)
 ```
 
 ## gatsby | Gatsby
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Static Site Generators](static-site-generators)
 - [Tips on Gatsby](tips-on-gatsby)
 ```
 
 ## docusaurus
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Static Site Generators](static-site-generators)
 - [Static Site Generators](static-site-generators)
 ```
 
 ## printer
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [User Printers and Scanners on Linux](user-printers-and-scanners-on-linux)
 - [Tips on Brother Printers](tips-on-brother-printers)
 ```
 
 ## interpreter
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Multi-Interpreter Computing in Python](multi-interpreter-computing-in-python)
 - [Zeppelin Interpreter](zeppelin-interpreter)
 ```
 
 ## main
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Multi-Interpreter Computing in Python](multi-interpreter-computing-in-python)
 - [Run JAR Applications](run-jar-applications)
 ```
 
 ## dpkg
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Package Management in Linux](package-management-in-linux)
 - [Fix Package Installation Issue in Linux](fix-package-installation-issue-in-linux)
 ```
 
 ## grub | GRUB
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Dual Boot Linux and Windows](dual-boot-linux-and-windows)
 - [Reduce GRUB Timeout](reduce-grub-timeout)
 ```
 
 ## env | ENV
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Environment Variables and Secure Path for sudo](environment-variables-and-secure-path-for-sudo)
 - [Shell in Docker](shell-in-docker)
 ```
 
 ## KVM
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Run Virtual Machines on Linux](run-virtual-machines-on-linux)
 - [Tips on QEMU](tips-on-qemu)
 ```
 
 ## virtual
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Run Virtual Machines on Linux](run-virtual-machines-on-linux)
 - [Tips on QEMU](tips-on-qemu)
 ```
 
 ## machine
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Run Virtual Machines on Linux](run-virtual-machines-on-linux)
 - [Tips on QEMU](tips-on-qemu)
 ```
 
 ## QEMU
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Run Virtual Machines on Linux](run-virtual-machines-on-linux)
 - [Tips on QEMU](tips-on-qemu)
 ```
 
 ## Fedora
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Universal Blue Atomic Linux Distributions](universal-blue-atomic-linux-distributions)
 - [Managing Fedora Atomic Core System Using rpm-ostree](managing-fedora-atomic-core-system-using-rpm-ostree)
 ```
 
 ## family
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Verizon](tips-on-verizon)
 - [Ratio of Boy to Girl](ratio-of-boy-to-girl)
 ```
 
 ## Dia
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Web Browsers](tips-on-web-browsers)
 - [Tips on the Dia Browser](tips-on-the-dia-browser)
 ```
 
 ## Homedepot | HomeDepot
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Shopping Smartly](shopping-smartly)
 - [Shopping At Homedepot](shopping-at-homedepot)
 ```
 
 ## Costco
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Shopping Smartly](shopping-smartly)
 - [Shopping on Costco](shopping-on-costco)
 ```
 
 ## exist
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
 - [Check Whether a Path Exists in Golang](check-whether-a-path-exists-in-golang)
 ```
 
 ## flatpak
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Install Dropbox Using Flatpak](install-dropbox-using-flatpak)
 - [Tips on Flatpak](tips-on-flatpak)
 ```
 
 ## shared
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Use Shared Folders in VirtualBox](use-shared-folders-in-virtualbox)
 - [Pointer, Reference and Ownership in Rust](pointer-reference-and-ownership-in-rust)
 ```
 
 ## folder
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Use Shared Folders in VirtualBox](use-shared-folders-in-virtualbox)
 - [Compare Two Directories on Linux](compare-two-directories-on-linux)
 ```
 
 ## zsh
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Change Shell in Mac](change-shell-in-mac)
 - [Generating Completions Script Using crazy-complete](generating-completions-script-using-crazy-complete)
 ```
 
 ## ostree
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Managing Fedora Atomic Core System Using rpm-ostree](managing-fedora-atomic-core-system-using-rpm-ostree)
 - [Install VirtualBox Guest Additions](install-virtualbox-guest-additions)
 ```
 
 ## SSH tunnel
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [SSH Tunnel](ssh-tunnel)
 - [Tips on sshuttle](tips-on-sshuttle)
 ```
 
 ## reverse
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [SSH Tunnel](ssh-tunnel)
 - [Good Choices of Reverse Proxies](good-choices-of-reverse-proxies)
 ```
 
 ## self-hosted
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Self-hosted Runners for GitHub Actions](self-hosted-runners-for-github-actions)
 - [Setup GitHub Actions Self-hosted Runners on GCP](setup-github-actions-self-hosted-runners-on-gcp)
 ```
 
 ## runner
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Self-hosted Runners for GitHub Actions](self-hosted-runners-for-github-actions)
 - [Setup GitHub Actions Self-hosted Runners on GCP](setup-github-actions-self-hosted-runners-on-gcp)
 ```
 
 ## matplotlib
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Matplotlib](tips-on-matplotlib)
 - [Python Modules for Visualization](python-modules-for-visualization)
 ```
 
 ## furnace
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Furnace and Heat Pump](tips-on-furnace-and-heat-pump)
 - [Tips on Ecobee Thermostat](tips-on-ecobee-thermostat)
 ```
 
 ## charger
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Vancouver BC](tips-on-vancouver-bc)
 - [Fast DC Charging in WA](fast-dc-charging-in-wa)
 ```
 
 ## road hazard
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Road Assistant](tips-on-road-assistant)
 - [Repair a Flat Tire](repair-a-flat-tire)
 ```
 
 ## purchase
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Buying a House](tips-on-buying-a-house)
 - [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
 ```
 
 ## flat
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Repair a Flat Tire](repair-a-flat-tire)
 - [Flat Tire on Rivian](flat-tire-on-rivian)
 ```
 
 ## erase
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Maintain Garage Doors](maintain-garage-doors)
 - [Erase Elements of a Container Using Iterator in C++](erase-elements-of-a-container-using-iterator-in-c++)
 ```
 
 ## ChatGPT
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Extracting Data from PDF Files](extracting-data-from-pdf-files)
 - [Tips on Large Language Models](tips-on-large-language-models)
 ```
 
 ## large language model
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Large Language Models](tips-on-large-language-models)
 - [LLM in Rust](llm-in-rust)
 ```
 
 ## bat
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [The fzf Command Is a Great Alternative to find](the-fzf-command-is-a-great-alternative-to-find)
 - [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
 ```
 
 ## preview
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [The fzf Command Is a Great Alternative to find](the-fzf-command-is-a-great-alternative-to-find)
 - [Tips on Preview in macOS](tips-on-preview-in-macos)
 ```
 
 ## pdb
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Useful Tools for Python Developing](useful-tools-for-python-developing)
 - [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
 ```
 
 ## static type
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Pyrefly](tips-on-pyrefly)
 - [ty Is a New Modern Static Type Checking and Language Server for Python](ty-is-a-new-modern-static-type-checking-and-language-server-for-python)
 ```
 
 ## FireNVim
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Vim as a Universal Editor](vim-as-a-universal-editor)
 - [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
 ```
 
 ## manipulation
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Useful Rust Crates for String](useful-rust-crates-for-string)
 - [Useful Rust Crates for Bit Manipulations](useful-rust-crates-for-bit-manipulations)
 ```
 
 ## embedded
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Comparison of Embedded Databases](comparison-of-embedded-databases)
 - [Rust for Robots](rust-for-robots)
 ```
 
 ## TiDB
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Popular Databases](popular-databases)
 - [Popular Databases](popular-databases)
 ```
 
 ## editing
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
 - [Editing PDF Files Using Stirling-PDF](editing-pdf-files-using-stirling-pdf)
 ```
 
 ## compute engine
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on GCP Compute Engine](tips-on-gcp-compute-engine)
 - [GCP Compute Engine VM Instances](gcp-compute-engine-vm-instances)
 ```
 
 ## spot
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [GCP Compute Engine VM Instances](gcp-compute-engine-vm-instances)
 - [Amazon AWS EC2 Instances](amazon-aws-ec2-instances)
 ```
 
 ## Tauri
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Develop a GUI Application in Rust](develop-a-gui-application-in-rust)
 - [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
 ```
 
 ## capture
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Take Screenshot in Rust](take-screenshot-in-rust)
 - [Package Capture on Phones](package-capture-on-phones)
 ```
 
 ## fan
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Replace a Bathroom Fan](replace-a-bathroom-fan)
 - [Tips on Biowind Register Fan](tips-on-biowind-register-fan)
 ```
 
 ## XFinity
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on XFinity](tips-on-xfinity)
 - [Configure Static IP Using XFinity Router](configure-static-ip-using-xfinity-router)
 ```
 
 ## coolant
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Mercedes-Benz](tips-on-mercedes-benz)
 - [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
 ```
 
 ## Alpaca
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Quant Trading](quant-trading)
 - [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
 ```
 
 ## Charles Schwab
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Charles Schwab](tips-on-charles-schwab)
 - [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
 ```
 
 ## market
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Shorting the Market](shorting-the-market)
 - [Hands on pandas_market_calendars](hands-on-pandas_market_calendars)
 ```
 
 ## MMF
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Money Market Fund](tips-on-money-market-fund)
 - [Diversified Investment](diversified-investment)
 ```
 
 ## diversified investment
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Money Market Fund](tips-on-money-market-fund)
 - [Diversified Investment](diversified-investment)
 ```
 
 ## drain
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Drain Guard for Downspout](drain-guard-for-downspout)
 - [Drain Cleaners](drain-cleaners)
 ```
 
 ## IRS
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Taxes on Investment Gains](taxes-on-investment-gains)
 - [Tips on Wash Sale](tips-on-wash-sale)
 ```
 
 ## foreign
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Foreign Currency Investment](foreign-currency-investment)
 - [Foreign Language Integration in Rust](foreign-language-integration-in-rust)
 ```
 
 ## BigQuery
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on BigQuery](tips-on-bigquery)
 - [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
 ```
 
 ## kitchen
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Dishwasher](tips-on-dishwasher)
 - [Drain Cleaners](drain-cleaners)
 ```
 
 ## treasury
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Investing in Bonds](tips-on-investing-in-bonds)
 - [Low Risk Investments](low-risk-investments)
 ```
 
 ## price
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Calculate the Price of Stocks](calculate-the-price-of-stocks)
 - [Amazon AWS EC2 Instances](amazon-aws-ec2-instances)
 ```
 
 ## robot
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [LLM and Robotics](llm-and-robotics)
 - [Rust for Robots](rust-for-robots)
 ```
 
 ## backyard
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
 - [Tips for Gardening](tips-for-gardening)
 ```
 
 ## bootstrap
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Bootstrap Resampling in Python](bootstrap-resampling-in-python)
 - [Make Inference Using Bootstrap](make-inference-using-bootstrap)
 ```
 
 ## password management
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Password Management](password-management)
 - [Tips on KeepassXC](tips-on-keepassxc)
 ```
 
 ## KeePassXC
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Password Management](password-management)
 - [Tips on KeepassXC](tips-on-keepassxc)
 ```
 
 ## deploy
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Shuttle for Deploying Rust Apps](tips-on-shuttle-for-deploying-rust-apps)
 - [Deploy Apache Ray](deploy-apache-ray)
 ```
 
 ## drone
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tools for Drone](tools-for-drone)
 - [Tools for IOT](tools-for-iot)
 ```
 
 ## benchmark
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Benchmark a Rust App](benchmark-a-rust-app)
 - [Benchmark Your Linux Machine Using phoronix-test-suite](benchmark-your-linux-machine-using-phoronix-test-suite)
 ```
 
 ## HTTPS
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Expose Local Services to Public Using ngrok](expose-local-services-to-public-using-ngrok)
 - [Tips on HTTP](tips-on-http)
 ```
 
 ## ngrok
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Expose Local Services to Public Using ngrok](expose-local-services-to-public-using-ngrok)
 - [Expose Local Service to Public](expose-local-service-to-public)
 ```
 
 ## mdBook
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Markdown Tools Written in Rust](markdown-tools-written-in-rust)
 - [Tips on mdBook](tips-on-mdbook)
 ```
 
 ## encoding
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Serialization and Deserialization in Rust](serialization-and-deserialization-in-rust)
 - [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
 ```
 
 ## FlameGraph | flamegraph
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Profile Rust Applications](profile-rust-applications)
 - [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
 ```
 
 ## ByteHound | Bytehound
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Profile Rust Applications](profile-rust-applications)
 - [Tips on Bytehound](tips-on-bytehound)
 ```
 
 ## pandas-profiling
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Data Profiling Tools](data-profiling-tools)
 - [Profiling Data Using ydata-profiling](profiling-data-using-ydata-profiling)
 ```
 
 ## smart pointer
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [The Deref Trait in Rust](the-deref-trait-in-rust)
 - [Hands on Box in Rust](hands-on-box-in-rust)
 ```
 
 ## bot
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Rust for Robots](rust-for-robots)
 - [GitHub Apps and Bot Accounts](github-apps-and-bot-accounts)
 ```
 
 ## free
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Free High Performance Computing Resouces](free-high-performance-computing-resouces)
 - [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
 ```
 
 ## LXC
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on LXD](tips-on-lxd)
 - [Alternatives to Docker Containers](alternatives-to-docker-containers)
 ```
 
 ## Clippy | clippy
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Rust Clippy](tips-on-rust-clippy)
 - [Speed Up Rust Compile Time](speed-up-rust-compile-time)
 ```
 
 ## borrow checker
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Cell and RefCell in Rust](cell-and-refcell-in-rust)
 - [Pointer, Reference and Ownership in Rust](pointer-reference-and-ownership-in-rust)
 ```
 
 ## AWS
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Amazon AWS EC2 Instances](amazon-aws-ec2-instances)
 - [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
 ```
 
 ## ZetaSQL
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on ZetaSQL](tips-on-zetasql)
 - [Unified SQL Syntax](unified-sql-syntax)
 ```
 
 ## parameter
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Const Generic in Rust](const-generic-in-rust)
 - [Tips on Optuna](tips-on-optuna)
 ```
 
 ## script
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Embeddable Scriting Language](embeddable-scriting-language)
 - [Cargo Build Script Add Wings to Cargo Build](cargo-build-script-add-wings-to-cargo-build)
 ```
 
 ## Lua | LUA
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Embeddable Scriting Language](embeddable-scriting-language)
 - [Lua Bindings for Rust](lua-bindings-for-rust)
 ```
 
 ## FTP
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Network Protocols](tips-on-network-protocols)
 - [FTP on Linux](ftp-on-linux)
 ```
 
 ## categorical
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Categorical Data in Pandas](categorical-data-in-pandas)
 - [Handle Categorical Variables in LightGBM](handle-categorical-variables-in-lightgbm)
 ```
 
 ## category
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Categorical Data in Pandas](categorical-data-in-pandas)
 - [Handle Categorical Variables in LightGBM](handle-categorical-variables-in-lightgbm)
 ```
 
 ## algebra
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Useful Rust Crates for Numeric Computation](useful-rust-crates-for-numeric-computation)
 - [Matrix Decomposition](matrix-decomposition)
 ```
 
 ## ffi | FFI
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Foreign Language Integration in Rust](foreign-language-integration-in-rust)
 - [Rust ABI](rust-abi)
 ```
 
 ## ABI
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Foreign Language Integration in Rust](foreign-language-integration-in-rust)
 - [Rust ABI](rust-abi)
 ```
 
 ## style
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [SQL Style And Formatter](sql-style-and-formatter)
 - [Java Programming Style](java-programming-style)
 ```
 
 ## pyenv
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Software Version Management Tools](software-version-management-tools)
 - [Tips on pyenv](tips-on-pyenv)
 ```
 
 ## surf
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 - [Surf Web Anonymously](surf-web-anonymously)
 ```
 
 ## progress
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Progress Bar in Rust](progress-bar-in-rust)
 - [Hands on the Rust Crate Indicatif](hands-on-the-rust-crate-indicatif)
 ```
 
 ## bar
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Progress Bar in Rust](progress-bar-in-rust)
 - [Hands on the Rust Crate Indicatif](hands-on-the-rust-crate-indicatif)
 ```
 
 ## indicatif
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Progress Bar in Rust](progress-bar-in-rust)
 - [Hands on the Rust Crate Indicatif](hands-on-the-rust-crate-indicatif)
 ```
 
 ## tmp | TMP
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
 - [Template Meta Programming](template-meta-programming)
 ```
 
 ## XML
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Commonly Used File Formats for Configuration](commonly-used-file-formats-for-configuration)
 - [Parse Xml in Python](parse-xml-in-python)
 ```
 
 ## refactor
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Refactoring Rust Code](tips-on-refactoring-rust-code)
 - [Tips on Code Design](tips-on-code-design)
 ```
 
 ## autonomous
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tools for IOT](tools-for-iot)
 - [Autonomous Driving](autonomous-driving)
 ```
 
 ## tracing
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Rust Crates for Tracing and Logging](rust-crates-for-tracing-and-logging)
 - [Hands on the Tracing Crate in Rust](hands-on-the-tracing-crate-in-rust)
 ```
 
 ## financial
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Rust for Financial Investment](rust-for-financial-investment)
 - [Financial Data](financial-data)
 ```
 
 ## layout
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Memory Layout in Rust](memory-layout-in-rust)
 - [Memory Layout of Enum in Rust](memory-layout-of-enum-in-rust)
 ```
 
 ## RESTful API
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Frontend Development](tips-on-frontend-development)
 - [Quickly Build a Restful Service](quickly-build-a-restful-service)
 ```
 
 ## nginx
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Good Choices of Reverse Proxies](good-choices-of-reverse-proxies)
 - [Tips on Caddy](tips-on-caddy)
 ```
 
 ## caddy
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Good Choices of Reverse Proxies](good-choices-of-reverse-proxies)
 - [Tips on Caddy](tips-on-caddy)
 ```
 
 ## assignment
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Implement a Singleton in Rust](implement-a-singleton-in-rust)
 - [Unpacking Assignment in Python](unpacking-assignment-in-python)
 ```
 
 ## ChunkedArray
-```{dropdown} Click to expand 2 links
-- [Polars Series in Rust](polars-series-in-rust)
+```{dropdown} Click to expand/collapse 2 links
 - [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
+- [Polars Series in Rust](polars-series-in-rust)
 ```
 
 ## MetaCall
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Polyglot Runtimes](polyglot-runtimes)
 - [Tips on MetaCall](tips-on-metacall)
 ```
 
 ## FaaS
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Polyglot Runtimes](polyglot-runtimes)
 - [Tips on MetaCall](tips-on-metacall)
 ```
 
 ## OpenFaaS
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Polyglot Runtimes](polyglot-runtimes)
 - [Tips on OpenFaaS](tips-on-openfaas)
 ```
 
 ## embed
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Bundle Resource Files into a Rust Application](bundle-resource-files-into-a-rust-application)
 - [Embed File in Golang Binary](embed-file-in-golang-binary)
 ```
 
 ## gh
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [GitHub API](github-api)
 - [Tips on Gh](tips-on-gh)
 ```
 
 ## ghapi
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [GitHub API](github-api)
 - [Hands on ghapi](hands-on-ghapi)
 ```
 
 ## entry | Entry
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Directly Initialize a Hashmap in Java](directly-initialize-a-hashmap-in-java)
 - [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
 ```
 
 ## django | Django
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Backend Development](tips-on-backend-development)
 - [Tips on Django](tips-on-django)
 ```
 
 ## semantic
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
 - [Hands on the Python Module Packaging](hands-on-the-python-module-packaging)
 ```
 
 ## ext4
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Format a Disk on Linux](format-a-disk-on-linux)
 - [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
 ```
 
 ## mkfs
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Format a Disk on Linux](format-a-disk-on-linux)
 - [Format a Flash Drive in a Linux Virtual Machine](format-a-flash-drive-in-a-linux-virtual-machine)
 ```
 
 ## swap
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Map Keys in Linux](map-keys-in-linux)
 - [Map Keys in Windows](map-keys-in-windows)
 ```
 
 ## single
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Download a Single File from a GitHub Repository](download-a-single-file-from-a-github-repository)
 - [Replace Single Quotes With Double Quotes in Python Code](replace-single-quotes-with-double-quotes-in-python-code)
 ```
 
 ## flag
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
 - [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
 ```
 
 ## engine
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Engine and Runtime for JavaScript](engine-and-runtime-for-javascript)
 - [Template Engines in Rust](template-engines-in-rust)
 ```
 
 ## client
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Search Engine for Static Web Sites](search-engine-for-static-web-sites)
 - [Docker APIs](docker-apis)
 ```
 
 ## opensource
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Understand Opensource Licenses](understand-opensource-licenses)
 - [Side Projects for Money](side-projects-for-money)
 ```
 
 ## WeChat
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [WeChat Questions](wechat-questions)
 - [Python for WeChat](python-for-wechat)
 ```
 
 ## dashboard
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Dashboard Solutions](dashboard-solutions)
 - [Tips on Redash](tips-on-redash)
 ```
 
 ## Redash
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Dashboard Solutions](dashboard-solutions)
 - [Tips on Redash](tips-on-redash)
 ```
 
 ## image processing
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Rule-base Image Process](rule-base-image-process)
 - [Models for Computer Vision](models-for-computer-vision)
 ```
 
 ## BytesIO
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Hands on Python IO](hands-on-python-io)
 - [Pandas IO](pandas-io)
 ```
 
 ## mutable
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [How Much to Push for Functional Programming and Immutability](how-much-to-push-for-functional-programming-and-immutability)
 - [Immutable String vs Mutable String](immutable-string-vs-mutable-string)
 ```
 
 ## privacy
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Surf Web Anonymously](surf-web-anonymously)
 - [Anonymouse Internet Surfing Using Tor](anonymouse-internet-surfing-using-tor)
 ```
 
 ## Zellij | zellij
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Terminal Multiplexers](terminal-multiplexers)
 - [Zellij Is the Best Terminal Multiplexer](zellij-is-the-best-terminal-multiplexer)
 ```
 
 ## header
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Read and Write CSV Files in Rust](read-and-write-csv-files-in-rust)
 - [Header Files in Linux](header-files-in-linux)
 ```
 
 ## equal
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Hash in Rust](hash-in-rust)
 - [Equality by Reference and Value in Python](equality-by-reference-and-value-in-python)
 ```
 
 ## structure
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Make a Rust Project Both a Library and a Binary](make-a-rust-project-both-a-library-and-a-binary)
 - [Structure of Python Packages](structure-of-python-packages)
 ```
 
 ## fake
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Fake Face Using AI](fake-face-using-ai)
 - [Fewest Scalings to Identify the Fake Ball](fewest-scalings-to-identify-the-fake-ball)
 ```
 
 ## learning to rank
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Learning to Rank](learning-to-rank)
 - [Data for Learning to Rank](data-for-learning-to-rank)
 ```
 
 ## MLR
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Learning to Rank](learning-to-rank)
 - [Data for Learning to Rank](data-for-learning-to-rank)
 ```
 
 ## create
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Creating Docker Images](tips-on-creating-docker-images)
 - [Create Videos from Scratch](create-videos-from-scratch)
 ```
 
 ## fonts
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Fonts for Linux](fonts-for-linux)
 - [LaTeX for Chinese](latex-for-chinese)
 ```
 
 ## Cygwin
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Comparision of Linux Emulation Solutions on Windows](comparision-of-linux-emulation-solutions-on-windows)
 - [Cygwin Portable](cygwin-portable)
 ```
 
 ## data manipulation
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Count Number of Fields in Each Line](count-number-of-fields-in-each-line)
 - [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
 ```
 
 ## field
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Count Number of Fields in Each Line](count-number-of-fields-in-each-line)
 - [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
 ```
 
 ## text file
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Count Number of Fields in Each Line](count-number-of-fields-in-each-line)
 - [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
 ```
 
 ## notes taking
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [The Absolutely Best App for Taking Notes](the-absolutely-best-app-for-taking-notes)
 - [Notes Taking Solutions](notes-taking-solutions)
 ```
 
 ## neural network
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Visualization for AI Concepts](visualization-for-ai-concepts)
 - [Models for Computer Vision](models-for-computer-vision)
 ```
 
 ## buildah
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Build Docker Images Using Kaniko](build-docker-images-using-kaniko)
 - [Tips on Podman](tips-on-podman)
 ```
 
 ## parallel-ssh
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Python Tools for Linux Admins](python-tools-for-linux-admins)
 - [Run Commands on Remote Machines](run-commands-on-remote-machines)
 ```
 
 ## mask
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Pillow](tips-on-pillow)
 - [IP Address and Subnets](ip-address-and-subnets)
 ```
 
 ## pathlib
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Hands on pathlib.Path](hands-on-pathlib.path)
 - [The Best Way to Find Files and Manipulate Them](the-best-way-to-find-files-and-manipulate-them)
 ```
 
 ## PyInstaller | pyinstaller
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tools for Packaging Python Executables](tools-for-packaging-python-executables)
 - [Python Packaging Tools](python-packaging-tools)
 ```
 
 ## contact
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Apps for Contacts](apps-for-contacts)
 - [Create a Distribution List in Outlook](create-a-distribution-list-in-outlook)
 ```
 
 ## cluster
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Deploy Apache Ray](deploy-apache-ray)
 - [Comparing Similarity of Two Different Clusterings](comparing-similarity-of-two-different-clusterings)
 ```
 
 ## queue
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Messsage Queue Implementations](messsage-queue-implementations)
 - [Distributed Programming in Python](distributed-programming-in-python)
 ```
 
 ## combination
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Generate Combinations Using Itertools in Rust](generate-combinations-using-itertools-in-rust)
 - [Hands on the Num Crate in Rust](hands-on-the-num-crate-in-rust)
 ```
 
 ## merge
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
 - [Merge/Join pandas DataFrames](merge-join-pandas-dataframes)
 ```
 
 ## specialization
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Generic and Specialization in Rust](generic-and-specialization-in-rust)
 - [Template Meta Programming](template-meta-programming)
 ```
 
 ## Electron
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Python for Desktop Applications](python-for-desktop-applications)
 - [Tips on Electron](tips-on-electron)
 ```
 
 ## Home Assistant | home assistant
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Python for IOT](python-for-iot)
 - [Tips on Home Assistant](tips-on-home-assistant)
 ```
 
 ## smart home
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Python for IOT](python-for-iot)
 - [Tips on Home Assistant](tips-on-home-assistant)
 ```
 
 ## docker-py
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Docker APIs](docker-apis)
 - [Tips on docker-py Library](tips-on-docker-py-library)
 ```
 
 ## virtual environment
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on pex](tips-on-pex)
 - [Python Virtual Environment](python-virtual-environment)
 ```
 
 ## data skew
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
 - [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
 ```
 
 ## data type
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Data Types in Different Programming Languages](data-types-in-different-programming-languages)
 - [Use the Blob Data Type in Sqlite3](use-the-blob-data-type-in-sqlite3)
 ```
 
 ## cgroup
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Check the CPU Limit of a Docker Container](check-the-cpu-limit-of-a-docker-container)
 - [Check the Memory Limit of a Docker Container](check-the-memory-limit-of-a-docker-container)
 ```
 
 ## resources
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Machine Learning Resources](machine-learning-resources)
 - [Get Resources in Java](get-resources-in-java)
 ```
 
 ## JPype | jpype
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Call Java Code Using JPype from Python](call-java-code-using-jpype-from-python)
 - [Java Interfaces for Python](java-interfaces-for-python)
 ```
 
 ## PyJNIus
-```{dropdown} Click to expand 2 links
-- [Java Interfaces for Python](java-interfaces-for-python)
+```{dropdown} Click to expand/collapse 2 links
 - [Call Java Using PyJNIus from Python](call-java-using-pyjnius-from-python)
+- [Java Interfaces for Python](java-interfaces-for-python)
 ```
 
 ## layer
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Structure of Python Packages](structure-of-python-packages)
 - [Delete a Layer in a Pretrained Model in PyTorch](delete-a-layer-in-a-pretrained-model-in-pytorch)
 ```
 
 ## Shortcut | shortcut
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Software for Editing Videos](software-for-editing-videos)
 - [Useful Windows Shortcuts](useful-windows-shortcuts)
 ```
 
 ## md5sum
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Calculate Hash of a Directory in Python](calculate-hash-of-a-directory-in-python)
 - [Compare Two Directories on Linux](compare-two-directories-on-linux)
 ```
 
 ## pivot
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Google Spreadsheet](tips-on-google-spreadsheet)
 - [Pivot Table in SQL](pivot-table-in-sql)
 ```
 
 ## dependency management
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Maven Dependencies](maven-dependencies)
 - [A JNI Error Has Occured](a-jni-error-has-occured)
 ```
 
 ## learning
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Learning Resources](learning-resources)
 - [English Learning](english-learning)
 ```
 
 ## recognition
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on Speechlogger](tips-on-speechlogger)
 - [Voice Recognition](voice-recognition)
 ```
 
 ## right-click menu
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Add New Document to Right-Click Menu in Mac](add-new-document-to-right-click-menu-in-mac)
 - [Add an Entry into the Right-click Menu in Windows](add-an-entry-into-the-right-click-menu-in-windows)
 ```
 
 ## BERT
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on the Transformers Python Library for NLP](tips-on-the-transformers-python-library-for-nlp)
 - [The Bert Model in NLP](the-bert-model-in-nlp)
 ```
 
 ## GPT-2
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Tips on the Transformers Python Library for NLP](tips-on-the-transformers-python-library-for-nlp)
 - [The GPT-2 Model in NLP](the-gpt-2-model-in-nlp)
 ```
 
 ## group
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [User Access Control on Linux](user-access-control-on-linux)
 - [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
 ```
 
 ## iPad
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Mirroring Screen from iPhone or iPad to Macbook](mirroring-screen-from-iphone-or-ipad-to-macbook)
 - [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
 ```
 
 ## transformer | Transformer
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [The GPT-2 Model in NLP](the-gpt-2-model-in-nlp)
 - [The Bert Model in NLP](the-bert-model-in-nlp)
 ```
 
 ## Switch | switch
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Activation Functions in Neural Network](activation-functions-in-neural-network)
 - [Java Features](java-features)
 ```
 
 ## scale
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Feature Scaling in Machine Learning](feature-scaling-in-machine-learning)
 - [Fewest Scalings to Identify the Fake Ball](fewest-scalings-to-identify-the-fake-ball)
 ```
 
 ## JNA
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Calling Rust from Java](calling-rust-from-java)
 - [Java Native Access](java-native-access)
 ```
 
 ## equality
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Implementing Equality and Hash Methods in Python](implementing-equality-and-hash-methods-in-python)
 - [Equality by Reference and Value in Python](equality-by-reference-and-value-in-python)
 ```
 
 ## Vocabulary | vocabulary
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [English Learning](english-learning)
 - [English Vocabulary](english-vocabulary)
 ```
 
 ## getent
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Account Management in Linux](account-management-in-linux)
 - [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
 ```
 
 ## Mac OSX
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
 - [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
 ```
 
 ## estimation
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Variance and Dispersion Estimate in Genetics](variance-and-dispersion-estimate-in-genetics)
 - [Estimate FDR](estimate-fdr)
 ```
 
 ## stick breaking
-```{dropdown} Click to expand 2 links
+```{dropdown} Click to expand/collapse 2 links
 - [Stick Breaking Problems](stick-breaking-problems)
 - [Stick Breaking Paradox](stick-breaking-paradox)
 ```
