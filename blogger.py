@@ -166,6 +166,7 @@ def _label(title: str) -> str:
         "'",
         "“",
         "”",
+        hyphen * 4,
         hyphen * 3,
         hyphen * 2,
     ]
