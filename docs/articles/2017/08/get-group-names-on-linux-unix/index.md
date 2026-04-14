@@ -1,14 +1,14 @@
 ---
-title: "Get Group Names on Linux/Unix"
+title: Get Group Names on Linux/Unix
 created: 2017-08-22 12:37:19
-date: 2017-10-22 12:37:19
+date: 2026-04-13 22:58:12.270377
 authors:
   - bendu
 label: get-group-names-on-linux-unix
 license: CC-BY-4.0
 tags:
   - Linux
-  - Mac OSX
+  - macOS
   - group
   - python
   - getent
@@ -19,63 +19,82 @@ tags:
 
 1. Get information of the `staff` group.
 
-        $ getent group staff
-        staff:x:20:
+   ```
+    $ getent group staff
+    staff:x:20:
+   ```
 
-2. Get group ID of the `staff` group.
+1. Get group ID of the `staff` group.
 
-        $ getent group staff | cut -d: -f3
-        20
+   ```
+    $ getent group staff | cut -d: -f3
+    20
+   ```
 
 ## Mac
 
 1. Get information of the `staff` group.
 
-        $ dscl . -read /Groups/staff 
+   ```
+    $ dscl . -read /Groups/staff 
+   ```
 
-2. Get group ID of the `staff` group.
+1. Get group ID of the `staff` group.
 
-        $ dscl . -read /Groups/staff | awk '($1 == "PrimaryGroupID:") { print $2 }'
-        20
+   ```
+    $ dscl . -read /Groups/staff | awk '($1 == "PrimaryGroupID:") { print $2 }'
+    20
+   ```
 
-As a matter of fact, 
+As a matter of fact,
 `dscl` in Mac is the equivalence of `getent` in Linux.
-Both of them can be used to query user information as well. 
+Both of them can be used to query user information as well.
 
 1. Querying user information using `getent`.
 
-        getent passwd <uid>
+   ```
+    getent passwd <uid>
+   ```
 
-2. Querying user information using `dscl`.
+1. Querying user information using `dscl`.
 
-        dscl . -search /Users UniqueID <uid>
+   ```
+    dscl . -search /Users UniqueID <uid>
+   ```
 
-In both cases, 
-you then need to parse the output to get the username. 
+In both cases,
+you then need to parse the output to get the username.
 The output of `getent` is standard /etc/passwd format, something like this:
 
-    zamboni:x:1005:1005:Diego Zamboni,,,:/home/zamboni:/bin/bash
+```
+zamboni:x:1005:1005:Diego Zamboni,,,:/home/zamboni:/bin/bash
+```
 
 This is very easy to parse (using awk, for example) and gives you the full record at once.
 `dscl` only provides the field you searched for, something like this:
 
-    zamboni              UniqueID = (
-        501
-    )
+```
+zamboni              UniqueID = (
+    501
+)
+```
 
 So if you want to get the full record, you would need to get the username and then query for it, like this:
 
-    dscl . -read /Users/zamboni
+```
+dscl . -read /Users/zamboni
+```
 
-The output is harder to parse, 
-in "keyword: value" form, 
-but with many multiline values. 
+The output is harder to parse,
+in "keyword: value" form,
+but with many multiline values.
 You can also use the -plist option to get it in Apple's plist format, which could be easier to parse.
 
 ## Cross-platform Ways
 
 You can also get group information using the `grp` module in Python.
 
-    import grp
-    print(grp.getgrnam("staff").gr_gid)
-
+```
+import grp
+print(grp.getgrnam("staff").gr_gid)
+```

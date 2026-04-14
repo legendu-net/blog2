@@ -75,7 +75,7 @@ brew install wdiff --with-gettext
 brew install wget
 ```
 
-# OS X ships a GNU version, but too old
+# macOS ships a GNU version, but too old
 
 ```bash
 brew install bash
@@ -102,7 +102,3 @@ brew install macvim --override-system-vim --custom-system-icons
 brew install neovim --override-sytem-vim
 brew install zsh
 ```
-
-# References
-
-[Install and Use GNU Command Line Tools in Mac OSX](https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/)

@@ -86,24 +86,6 @@ def option_num(subparser):
     )
 
 
-def option_from(subparser):
-    """Add the option --from.
-
-    :param subparser: A sub parser for command-line options.
-    """
-    subparser.add_argument(
-        "--from", dest="from", default="", help="The tag to change from."
-    )
-
-
-def option_to(subparser):
-    """Add the option --to.
-
-    :param subparser: A sub parser for command-line options.
-    """
-    subparser.add_argument("--to", dest="to", default="", help="The tag to change to.")
-
-
 def option_full_path(subparser):
     """Add the option --full-path.
 
@@ -371,16 +353,19 @@ def add(blogger, args):
 
 
 def update_tags(blogger, args):
+    if len(args.tags) % 2:
+        raise ValueError("Tags for update must be in pairs.")
+    kvs = dict(it.batched(args.tags, 2))
     _resolve_files(args)
     if args.files:
         for file in args.files:
-            blogger.update_tags(file, args.from_tag, args.to_tag)
+            blogger.update_tags(file, kvs)
     else:
         for file in blogger.path(
             blogger.POSTS,
             where=f"tags LIKE '%{TAG_SEPARATOR}{args.from_tag}{TAG_SEPARATOR}%'",
         ):
-            blogger.update_tags(file, args.from_tag, args.to_tag)
+            blogger.update_tags(file, kvs)
     blogger.commit()
 
 
@@ -479,7 +464,7 @@ def _subparse_clean_db(subparsers):
     subparser_clean_db.set_defaults(func=clean_db)
 
 
-def _subparse_utag(subparsers):
+def _subparse_update_tags(subparsers):
     desc = "update tags of posts."
     subparser_utag = subparsers.add_parser(
         "update_tags",
@@ -489,8 +474,13 @@ def _subparse_utag(subparsers):
     )
     option_indexes(subparser_utag)
     option_files(subparser_utag)
-    option_from(subparser_utag)
-    option_to(subparser_utag)
+    subparser_utag.add_argument(
+        "-t",
+        "--tags",
+        dest="tags",
+        nargs="+",
+        help="Tag pairs in the format o1 n1 o2 n2...",
+    )
     subparser_utag.set_defaults(func=update_tags)
 
 
@@ -904,7 +894,7 @@ def parse_args(args=None, namespace=None) -> Namespace:
     """
     parser = ArgumentParser(description="Write blog in command line.")
     subparsers = parser.add_subparsers(dest="sub_cmd", help="Sub commands.")
-    _subparse_utag(subparsers)
+    _subparse_update_tags(subparsers)
     _subparse_tags(subparsers)
     _subparse_reload_posts(subparsers)
     _subparse_list(subparsers)

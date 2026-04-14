@@ -4433,6 +4433,40 @@ site:
 - [Start RStudio Server After Upgrading](start-rstudio-server-after-upgrading)
 ```
 
+## macOS
+```{dropdown} Click to expand/collapse 30 links
+- [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
+- [Local Network Access on macOS](local-network-access-on-macos)
+- [Tips on macOS](tips-on-macos)
+- [Shortcuts in macOS](shortcuts-in-macos)
+- [Tips on MacPorts](tips-on-macports)
+- [Install Packages Using Homebrew on macOS and Linux](install-packages-using-homebrew-on-macos-and-linux)
+- [Remove System Applications in macOS](remove-system-applications-in-macos)
+- [Quickly Open a Directory in Terminal in Mac](quickly-open-a-directory-in-terminal-in-mac)
+- [Install Python in macOS](install-python-in-macos)
+- [Mount NTFS Drive Manually on Mac](mount-ntfs-drive-manually-on-mac)
+- [Change Shell in Mac](change-shell-in-mac)
+- [Enable and Disable Key Repeating in macOS](enable-and-disable-key-repeating-in-macos)
+- [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
+- [Tips on Preview in macOS](tips-on-preview-in-macos)
+- [Install GNU Utils Using Homebrew](install-gnu-utils-using-homebrew)
+- [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
+- [Things to Do After Reimaging Mac](things-to-do-after-reimaging-mac)
+- [Map Keys in macOS](map-keys-in-macos)
+- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
+- [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
+- [Get the Number of Cores in macOS](get-the-number-of-cores-in-macos)
+- [Add New Document to Right-Click Menu in Mac](add-new-document-to-right-click-menu-in-mac)
+- [Get Coordinates of Points on a Screen or Image](get-coordinates-of-points-on-a-screen-or-image)
+- [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
+- [Mirroring Screen from iPhone or iPad to Macbook](mirroring-screen-from-iphone-or-ipad-to-macbook)
+- [Fix Xcrun Error in Mac](fix-xcrun-error-in-mac)
+- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
+- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
+- [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
+- [Mount Samba on Mac](mount-samba-on-mac)
+```
+
 ## Kotlin
 ```{dropdown} Click to expand/collapse 30 links
 - [String functions in Kotlin](string-functions-in-kotlin)
@@ -4596,38 +4630,6 @@ site:
 - [Profile C++ Code](profile-c++-code)
 - [Erase Elements of a Container Using Iterator in C++](erase-elements-of-a-container-using-iterator-in-c++)
 - [Template Meta Programming](template-meta-programming)
-```
-
-## macOS
-```{dropdown} Click to expand/collapse 28 links
-- [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
-- [Local Network Access on macOS](local-network-access-on-macos)
-- [Tips on macOS](tips-on-macos)
-- [Shortcuts in macOS](shortcuts-in-macos)
-- [Tips on MacPorts](tips-on-macports)
-- [Install Packages Using Homebrew on macOS and Linux](install-packages-using-homebrew-on-macos-and-linux)
-- [Remove System Applications in macOS](remove-system-applications-in-macos)
-- [Quickly Open a Directory in Terminal in Mac](quickly-open-a-directory-in-terminal-in-mac)
-- [Install Python in macOS](install-python-in-macos)
-- [Mount NTFS Drive Manually on Mac](mount-ntfs-drive-manually-on-mac)
-- [Change Shell in Mac](change-shell-in-mac)
-- [Enable and Disable Key Repeating in macOS](enable-and-disable-key-repeating-in-macos)
-- [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
-- [Tips on Preview in macOS](tips-on-preview-in-macos)
-- [Install GNU Utils Using Homebrew](install-gnu-utils-using-homebrew)
-- [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
-- [Things to Do After Reimaging Mac](things-to-do-after-reimaging-mac)
-- [Map Keys in macOS](map-keys-in-macos)
-- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
-- [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
-- [Get the Number of Cores in macOS](get-the-number-of-cores-in-macos)
-- [Add New Document to Right-Click Menu in Mac](add-new-document-to-right-click-menu-in-mac)
-- [Get Coordinates of Points on a Screen or Image](get-coordinates-of-points-on-a-screen-or-image)
-- [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
-- [Mirroring Screen from iPhone or iPad to Macbook](mirroring-screen-from-iphone-or-ipad-to-macbook)
-- [Fix Xcrun Error in Mac](fix-xcrun-error-in-mac)
-- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
-- [Mount Samba on Mac](mount-samba-on-mac)
 ```
 
 ## JupyterLab
@@ -13456,12 +13458,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Account Management in Linux](account-management-in-linux)
 - [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
-```
-
-## Mac OSX
-```{dropdown} Click to expand/collapse 2 links
-- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
-- [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
 ```
 
 ## estimation

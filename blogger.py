@@ -355,11 +355,10 @@ class Post:
         )
         self._write()
 
-    def update_tags(self, from_tag: str, to_tag: str) -> bool:
-        tags = self.metadata["tags"]
-        if not (from_tag in tags or "" in tags):
+    def update_tags(self, kvs: dict[str, str]) -> bool:
+        tags = [tag for t in self.metadata["tags"] if (tag := kvs.get(t, t))]
+        if tags == self.metadata["tags"]:
             return False
-        tags = [t for tag in tags if (t := to_tag if tag == from_tag else tag)]
         self.update_meta_field(metadata={"tags": tags})
         return True
 
@@ -590,13 +589,13 @@ class Blogger:
         kvs["match"] = 1
         self.update_records(table=self.POSTS, paths=path_old, kvs=kvs)
 
-    def update_tags(self, post: str | Post, from_tag: str, to_tag: str) -> None:
+    def update_tags(self, post: str | Post, kvs: dict[str, str]) -> None:
         if isinstance(post, str):
             path = post
             post = Post(path).parse()
         else:
             path = str(post.path)
-        if post.update_tags(from_tag, to_tag):
+        if post.update_tags(kvs):
             self.update_records(
                 table=self.POSTS,
                 paths=path,
@@ -755,7 +754,7 @@ class Blogger:
         return [row[0] for row in self._conn.execute(sql, params)]
 
     def gen_tags_md(self) -> None:
-        
+
         def _num_links(k: str) -> int:
             return sum(len(tags[t]) for t in ids[k])
 
@@ -768,18 +767,12 @@ class Blogger:
             k = "tag-" + _label(tag)
             ids.setdefault(k, [])
             ids[k].append(tag)
-        keys = [(k, n) for k in ids if (n:=_num_links(k)) > 1]
+        keys = [(k, n) for k in ids if (n := _num_links(k)) > 1]
         keys.sort(key=lambda pair: pair[1], reverse=True)
         # write into tags.md
         with Path(BASE_DIR / "docs/tags.md").open("w", encoding="utf-8") as fout:
-            fout.write(
-                "---\n"
-                "title: Tags\n"
-                "site:\n"
-                "  hide_outline: true\n"
-                "---\n\n"
-            )
-            for k,n in keys:
+            fout.write("---\ntitle: Tags\nsite:\n  hide_outline: true\n---\n\n")
+            for k, n in keys:
                 fout.write(f"## {' | '.join(ids[k])}\n")
                 fout.write("```{dropdown} " + f"Click to expand/collapse {n} links\n")
                 for t in ids[k]:
