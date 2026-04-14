@@ -1,7 +1,7 @@
 ---
 title: Get Group Names on Linux/Unix
 created: 2017-08-22 12:37:19
-date: 2026-04-13 22:58:12.270377
+date: 2026-04-13 23:27:57.589850
 authors:
   - bendu
 label: get-group-names-on-linux-unix
@@ -10,7 +10,7 @@ tags:
   - Linux
   - macOS
   - group
-  - python
+  - Python
   - getent
   - dscl
 ---

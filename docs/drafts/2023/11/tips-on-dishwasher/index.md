@@ -1,13 +1,13 @@
 ---
-title: "Tips on Dishwasher"
+title: Tips on Dishwasher
 created: 2023-11-05 11:29:01
-date: 2024-03-03 22:45:56
+date: 2026-04-13 23:30:32.504274
 authors:
   - bendu
 label: tips-on-dishwasher
 license: CC-BY-4.0
 tags:
-  - Life
+  - life
   - dishwasher
   - kitchen
   - house
@@ -30,7 +30,7 @@ tags:
 
 [✨ MIELE DISHWASHER - EASY CONTROLLER REPLACEMENT ✨](https://www.youtube.com/watch?v=E3Ai6V5LKn4)
 
-[How to fix dishwasher for $20 (replacing control board)](https://www.youtube.com/watch?v=VXP4OZ_3YI0)
+[How to fix dishwasher for \$20 (replacing control board)](https://www.youtube.com/watch?v=VXP4OZ_3YI0)
 
 [Replacing the Electronic Control Board on a Dishwasher](https://www.youtube.com/watch?v=Oe5v-IA5Cyo)
 
@@ -41,4 +41,3 @@ tags:
 https://www.salinapp.com.au/miele-dishwasher-main-printed-circuit-board-power
 
 https://picclick.com/Popular/miele-dishwasher-control-board
-

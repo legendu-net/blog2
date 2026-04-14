@@ -1,13 +1,13 @@
 ---
-title: "Tips on Blender"
+title: Tips on Blender
 created: 2020-02-14 12:39:10
-date: 2020-02-14 12:39:10
+date: 2026-04-13 23:27:59.931298
 authors:
   - bendu
 label: tips-on-blender
 license: CC-BY-4.0
 tags:
-  - Software
+  - software
   - Blender
   - tips
   - Python

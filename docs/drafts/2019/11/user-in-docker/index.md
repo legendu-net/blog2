@@ -1,13 +1,13 @@
 ---
-title: "User in Docker"
+title: User in Docker
 created: 2019-11-20 21:21:08
-date: 2019-11-20 21:21:08
+date: 2026-04-13 23:28:00.582045
 authors:
   - bendu
 label: user-in-docker
 license: CC-BY-4.0
 tags:
-  - Software
+  - software
   - Docker
   - user
   - container
@@ -15,19 +15,18 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 ## User switching in Docker
 
 1. `USER some_user` in Dockerfile, some_user has to exists
-2. `su` in Dockerfile or shell scripts
-3. `docker run --user some_user`
-
+1. `su` in Dockerfile or shell scripts
+1. `docker run --user some_user`
 
 @pedrolucasoliva
 i am docker specialist i give you a little hint the --user flag
 
 docker run --user $(id):$(id) -d -p 0.0.0.0:8000:8080 --name codeserver -v "/home/dev/codeserver/.local/share/code-server:/home/coder/.local/share/code-server" -v "/home/dev/projects:/home/coder/project" codercom/code-server:v2
 the --user $(id):$(id) will switch the user id of the coder user to your user id and group :)
+
 ```
 
 use --user root
@@ -37,6 +36,7 @@ https://medium.com/redbubble/running-a-docker-container-as-a-non-root-user-7d2e0
 https://stackoverflow.com/questions/41100333/difference-between-docker-run-user-and-group-add-parameters
 
 ```
+
 USER
 root (id = 0) is the default user within a container. The image developer can create additional users. Those users are accessible by name. When passing a numeric ID, the user does not have to exist in the container.
 
@@ -47,5 +47,6 @@ The developer can set a default user to run the first process with the Dockerfil
 The followings examples are all valid:
 --user=[ user | user:group | uid | uid:gid | user:gid | uid:group ]
 Note: if you pass a numeric uid, it must be in the range of 0-2147483647.
+
 ```
-https://jtreminio.com/blog/running-docker-containers-as-current-host-user/
+https://jtreminio.com/blog/running-docker-containers-as-current-host-user/```

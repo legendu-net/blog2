@@ -1,13 +1,13 @@
 ---
-title: "Replace a Bathroom Fan"
+title: Replace a Bathroom Fan
 created: 2023-11-26 09:23:39
-date: 2024-12-25 10:36:19
+date: 2026-04-13 23:30:32.196842
 authors:
   - bendu
 label: replace-a-bathroom-fan
 license: CC-BY-4.0
 tags:
-  - Life
+  - life
   - bathroom
   - house
   - fan

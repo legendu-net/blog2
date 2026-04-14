@@ -1,19 +1,20 @@
 ---
 title: Tips on Kubernetes
 created: 2019-04-10 09:39:25
-date: 2026-04-05 19:42:37.891990
+date: 2026-04-13 23:28:01.986583
 authors:
-- bendu
+  - bendu
 label: tips-on-kubernetes
 license: CC-BY-4.0
 tags:
-- Software
-- Kubernetes
-- k8s
-- minikube
-- kubectl
-- Microk8s
+  - software
+  - Kubernetes
+  - k8s
+  - minikube
+  - kubectl
+  - Microk8s
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Tutorials
@@ -34,7 +35,7 @@ Microk8s seems like a good option.
 
 - Docker for Mac/Windows - Docker's Desktop edition has an option to run a local Kubernetes cluster
 
-## Authentication 
+## Authentication
 
 [Pull an Image from a Private Registry](https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/)
 
@@ -43,7 +44,7 @@ Microk8s seems like a good option.
 [Define a Command and Arguments for a Container](https://kubernetes.io/docs/tasks/inject-data-application/define-command-argument-container/)
 
 Define `command` as `["/busybox/sh", "-c", "tail -f /dev/null"]`
-instead of 
+instead of
 `["/busybox/sh", "-c", "tail", "-f", "/dev/null"]`
 .
 
@@ -51,7 +52,7 @@ instead of
 
 [Running one-time jobs during Kubernetes deployments](https://gaunacode.com/deploying-onetime-jobs-to-kubernetes)
 
-## Request Resource 
+## Request Resource
 
 https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-best-practices-resource-requests-and-limits
 
@@ -61,14 +62,12 @@ https://kubernetes.io/docs/tasks/configure-pod-container/assign-cpu-resource/
 
 [Configure Quality of Service for Pods](https://kubernetes.io/docs/tasks/configure-pod-container/quality-service-pod/)
 
-
-
-
 ## Kubertenes Deployment
 
 [Kubertenes Deployment](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
 
 Below is an example YAML configuration file.
+
 ```
 ---
 apiVersion: v1
@@ -108,14 +107,12 @@ spec:
         - containerPort: 80
 
 ```
-Another good example is to 
+
+Another good example is to
 [Deploy Apache Ray on Kubernetes](https://ray.readthedocs.io/en/latest/deploy-on-kubernetes.html)
 .
 
-
 in you namespace, you can run `kubectl get resourcequota` to check your quota
-
-
 
 kubectl version list
 
@@ -135,15 +132,15 @@ kubectl get rc,pod,svc -n your_namespace
 
 Run command in a pod.
 
-  kubectl exec -it pod_name -n your_namespace -- /bin/bash
+kubectl exec -it pod_name -n your_namespace -- /bin/bash
 
 Copy files to a pod.
 
-  kubectl -n your_namespace cp local_path_1 ... local_path_n pod_name:/destination/dir/
+kubectl -n your_namespace cp local_path_1 ... local_path_n pod_name:/destination/dir/
 
 Copy files to a pod.
 
-  kubectl -n your_namespace cp pod_name:/some/path/1 pod_name:/some/path/2 /local/destination/dir
+kubectl -n your_namespace cp pod_name:/some/path/1 pod_name:/some/path/2 /local/destination/dir
 
 Delete a pod.
 Notice that a new pod will be created to replace the deleted pod
@@ -151,15 +148,15 @@ if there's no enough replicas.
 If you want to delete a pod completely (without replacement),
 you have to delete the corresponding deployment instead.
 
-  kubectl -n your_namespace delete pods pod_name
+kubectl -n your_namespace delete pods pod_name
 
 List deployments in a namespace.
 
-  kubectl -n ms get deployments
+kubectl -n ms get deployments
 
 Delete a deployment.
 
-  kubectl -n your_namespace delete deployment deployment_name 
+kubectl -n your_namespace delete deployment deployment_name
 
 ## References
 

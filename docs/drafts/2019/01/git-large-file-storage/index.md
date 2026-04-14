@@ -1,40 +1,41 @@
 ---
 title: Git Large File Storage
 created: 2019-01-08 13:46:55
-date: 2026-04-05 19:42:37.963010
+date: 2026-04-13 23:28:02.197522
 authors:
-- bendu
+  - bendu
 label: git-large-file-storage
 license: CC-BY-4.0
 tags:
-- Software
-- Git
-- version control
-- large file storage
-- LFS
+  - software
+  - Git
+  - version control
+  - large file storage
+  - LFS
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Installation
 
-Please refer to 
+Please refer to
 [git-lfs Installation](https://github.com/git-lfs/git-lfs/wiki/Installation)
 for instructions on how to install git-lfs.
-
 
 ## Tips and Traps
 
 1. Track a large file.
 
-        :::bash
-        git lfs track "*.pickle"
+   ```
+    :::bash
+    git lfs track "*.pickle"
+   ```
 
 1. It seems to be that git-lfs automatically tracks large files now if it is installed and enabled,
-    which makes things more convenient.
-
-
+   which makes things more convenient.
 
 ## Large File
+
 https://stackoverflow.com/questions/20002557/how-to-remove-a-too-large-file-in-a-commit-when-my-branch-is-ahead-of-master-by
 
 https://rtyley.github.io/bfg-repo-cleaner/
@@ -60,4 +61,3 @@ https://help.github.com/articles/configuring-git-large-file-storage/
 https://help.github.com/articles/removing-files-from-git-large-file-storage/
 
 https://stackoverflow.com/questions/42597408/git-lfs-what-is-locking-support-and-should-i-enable-it
-

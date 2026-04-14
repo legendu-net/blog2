@@ -1,33 +1,35 @@
 ---
 title: Recommendation of Credit Card Usage
 created: 2022-10-09 16:34:06
-date: 2026-04-03 19:05:28.693360
+date: 2026-04-13 23:30:33.915477
 authors:
-- bendu
+  - bendu
 label: recommendation-of-credit-card-usage
 license: CC-BY-4.0
 tags:
-- Life
-- shopping
-- discount
-- credit card
-- coupon
-- money
-- finance
+  - life
+  - shopping
+  - discount
+  - credit card
+  - coupon
+  - money
+  - finance
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Tips and Traps
 
 1. Avoid AMEX as it is nutorious for closing many customers' credit cards without valid reasons.
 
-2. Costco is a wholesale. It is not considered as a grocery or supermarket for cashback bonus purposes.
+1. Costco is a wholesale. It is not considered as a grocery or supermarket for cashback bonus purposes.
 
-3. When multiple credit cards provide 3% cashback, 
-    prefer other cards to Robinhood Gold card
-    as
-    - 1 point worths only 0.7 cent in Robinhood Gold Card if you do auto redeem
-    - no discount on gift cards when purchased using Robinhood Gold Card points 
+1. When multiple credit cards provide 3% cashback,
+   prefer other cards to Robinhood Gold card
+   as
+
+   - 1 point worths only 0.7 cent in Robinhood Gold Card if you do auto redeem
+   - no discount on gift cards when purchased using Robinhood Gold Card points
 
 ## Glossory
 
@@ -370,20 +372,20 @@ tags:
 </tbody>
 </table>
 
-- [1]: 5% (credit card) + 10% (member rewards)
-- [2]: On eligible travel purchases only
-- [3]: Amazon Prime membership is required to enjoy the discount.
-- [4]: Robinhood Gold Card gives you 5% cash back 
-    when you book travel through the all-new Robinhood travel portal.
-    For more details,
-    please refer to
-    [Robinhood Gold Card waitlist](https://robinhood.com/us/en/support/articles/robinhood-gold-card-waitlist/)
-    .
-- [5]: For purchases through Chase Travel.
-    And points are worth 25% more when redeemed for travel through Chase Travel.
-- [6]: For online grocery purchases excluding Walmart, Target and wholesale clubs.
-- [7]: Earn up to $50 in statement credits each account anniversary year for hotel stays purchased through Chase Travel.
-- [8]: The card comes with trip cancellation and interruption insurance, lost luggage reimbursement, auto rental coverage, etc.
+- \[1\]: 5% (credit card) + 10% (member rewards)
+- \[2\]: On eligible travel purchases only
+- \[3\]: Amazon Prime membership is required to enjoy the discount.
+- \[4\]: Robinhood Gold Card gives you 5% cash back
+  when you book travel through the all-new Robinhood travel portal.
+  For more details,
+  please refer to
+  [Robinhood Gold Card waitlist](https://robinhood.com/us/en/support/articles/robinhood-gold-card-waitlist/)
+  .
+- \[5\]: For purchases through Chase Travel.
+  And points are worth 25% more when redeemed for travel through Chase Travel.
+- \[6\]: For online grocery purchases excluding Walmart, Target and wholesale clubs.
+- \[7\]: Earn up to \$50 in statement credits each account anniversary year for hotel stays purchased through Chase Travel.
+- \[8\]: The card comes with trip cancellation and interruption insurance, lost luggage reimbursement, auto rental coverage, etc.
 
 ## Offers
 
@@ -395,4 +397,3 @@ tags:
 - Chase Sapphire Card
 - Verizon Visa Card
 - Costco Anywhere Visa Card
-

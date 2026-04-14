@@ -1,13 +1,13 @@
 ---
-title: "Docker Issues and Solutions"
+title: Docker Issues and Solutions
 created: 2020-03-14 09:56:34
-date: 2022-06-02 16:53:37
+date: 2026-04-13 23:27:59.277345
 authors:
   - bendu
 label: docker-issues-and-solutions
 license: CC-BY-4.0
 tags:
-  - Software
+  - software
   - Docker
   - issue
   - solution
@@ -21,34 +21,42 @@ tags:
 
 [What to Do When Docker on the Mac Runs Out of Space](https://rmoff.net/post/what-to-do-when-docker-runs-out-of-space/)
 
-## Docker fail to register layer  ... no such file or directory
+## Docker fail to register layer ... no such file or directory
 
 1. Remove `/var/lib/docker/*`.
 
-        :::bash
-        sudo rm -rf /var/lib/docker/*
+   ```
+    :::bash
+    sudo rm -rf /var/lib/docker/*
+   ```
 
-    If you have a non-standard Docker location configured,
-    then rmeove that location instead.
+   If you have a non-standard Docker location configured,
+   then rmeove that location instead.
 
-2. Restart Docker.
+1. Restart Docker.
 
-        :::bash
-        sudo service docker restart
+   ```
+    :::bash
+    sudo service docker restart
+   ```
 
-## Error response from daemon: failed to start shim: exec: "docker-containerd-shim": executable file not found in $PATH: unknown.
+## Error response from daemon: failed to start shim: exec: "docker-containerd-shim": executable file not found in \$PATH: unknown.
 
 Restart docker resolves the issue.
 
-    :::bash
-    sudo service docker restart
+```
+:::bash
+sudo service docker restart
+```
 
 ## Error saving credentials: error storing credentials in Ubuntu 18.04 LTS
 
 Installing `gnupg2` and `pass` fixes the issue.
 
-    :::bash
-    sudo apt install gnupg2 pass
+```
+:::bash
+sudo apt install gnupg2 pass
+```
 
 ## Container exits with non-zero exit code 137
 
@@ -58,20 +66,26 @@ for more details.
 
 ## Debuging Docker Container Exit
 
-1. List Docker container IDs. 
+1. List Docker container IDs.
 
-        :::bash
-        docker ps -a
+   ```
+    :::bash
+    docker ps -a
+   ```
 
-2. Check logs of a Docker container.
+1. Check logs of a Docker container.
 
-        :::bash
-        docker logs container_id
+   ```
+    :::bash
+    docker logs container_id
+   ```
 
-3. Inspect a Docker container.
+1. Inspect a Docker container.
 
-        :::bash
-        docker inspect container_id
+   ```
+    :::bash
+    docker inspect container_id
+   ```
 
 If the above does not help you identify the cause of Docker container exit,
 you can inspect the logs of the Docker daemon.
@@ -80,7 +94,7 @@ The StackOverflow question
 has a good discussion on where/how to find Docker daemon logs.
 In case you need to figure out which init system your Linux OS is using,
 please refer to the post
-[Check Whether a Linux Is Using Upstart Systemd or SysV](http://www.legendu.net/misc/blog/check-whether-a-linux-is-using-upstart-systemd-or-sysv)            
+[Check Whether a Linux Is Using Upstart Systemd or SysV](http://www.legendu.net/misc/blog/check-whether-a-linux-is-using-upstart-systemd-or-sysv)\
 .
 
 [Why Does My Docker Container Stop?](https://www.tutorialworks.com/why-containers-stop/)

@@ -1,13 +1,13 @@
 ---
-title: "Tips on Coolant for Mercdes-Benz Vehicles"
+title: Tips on Coolant for Mercdes-Benz Vehicles
 created: 2023-11-11 15:24:50
-date: 2023-11-11 15:44:23
+date: 2026-04-13 23:30:32.351134
 authors:
   - bendu
 label: tips-on-coolant-for-mercdes-benz-vehicles
 license: CC-BY-4.0
 tags:
-  - Life
+  - life
   - car
   - vehicle
   - Mercdes
@@ -19,31 +19,31 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 Note: Mercedes-Benz dealships might provide free coolant top off as a courtsy service.
-You'd better call the service department of your Mercedes-Benz dealship to confirm this 
+You'd better call the service department of your Mercedes-Benz dealship to confirm this
 before you purchase coolant and top off it by yourself.
 
-## Tips 
+## Tips
 
 1. After April of 2014,
-    Mercedes-Benz started using the pink-violet MB 325.5 or MB 325.6 coolant specification. 
-    If in doubt,
-    call the parts department of your Mercedes-Benz dealshiper for help.
-    MB 325.5 or MB 325.6 coolant can be purchased 
-    from a local Mercedes-Benz dealership 
-    or 
-    [online](https://www.mbpartscenter.com/oem-parts/mercedes-benz-mb-325-6-g40-anti-freeze-1-gallon-1-gal-9896807090109)
-    .
+   Mercedes-Benz started using the pink-violet MB 325.5 or MB 325.6 coolant specification.
+   If in doubt,
+   call the parts department of your Mercedes-Benz dealshiper for help.
+   MB 325.5 or MB 325.6 coolant can be purchased
+   from a local Mercedes-Benz dealership
+   or
+   [online](https://www.mbpartscenter.com/oem-parts/mercedes-benz-mb-325-6-g40-anti-freeze-1-gallon-1-gal-9896807090109)
+   .
 
-2. MB 325.5 and MB 325.6 coolant typically last for 15 years or 150,000 miles
-    before a flush is needed.
+1. MB 325.5 and MB 325.6 coolant typically last for 15 years or 150,000 miles
+   before a flush is needed.
 
-2. MB 325.5 and MB 325.6 coolant need to be diluted 1:1 using distilled water.
-    However, 
-    it is OK to top off a little MB 325.5 or MB 325.6 into the coolant tank 
-    without dilution.
-    If in emergency,
-    you can also top off tap water into the coolant tank
-    and drive to a Mercdes-Benz dealership for help.
+1. MB 325.5 and MB 325.6 coolant need to be diluted 1:1 using distilled water.
+   However,
+   it is OK to top off a little MB 325.5 or MB 325.6 into the coolant tank
+   without dilution.
+   If in emergency,
+   you can also top off tap water into the coolant tank
+   and drive to a Mercdes-Benz dealership for help.
 
 ## References
 

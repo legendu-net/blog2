@@ -1,26 +1,26 @@
 ---
 title: Tips on the Seattle-Tacoma International Airport
 created: 2023-08-21 20:50:50
-date: 2026-04-05 19:42:37.639506
+date: 2026-04-13 23:30:33.282889
 authors:
-- bendu
+  - bendu
 label: tips-on-the-seattle-tacoma-international-airport
 license: CC-BY-4.0
 tags:
-- Life
-- airport
-- travel
-- trip
-- Seattle
-- Tacoma
-- Bellevue
+  - life
+  - airport
+  - travel
+  - trip
+  - Seattle
+  - Tacoma
+  - Bellevue
 ---
-**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## SEA-TAC Visitor Pass
 
-You can apply for a 
+You can apply for a
 [visitor pass](https://www.portseattle.org/page/sea-visitor-pass-program)
 for the next 7 days.
 
@@ -34,9 +34,9 @@ for the next 7 days.
 
 1. Free EV charging is available at floor 7 (general parking) and floor 4 (reserved parking).
 
-2. Parking fee applies.
+1. Parking fee applies.
 
-3. Hard to find a EV charging SPOT generally speaking.
+1. Hard to find a EV charging SPOT generally speaking.
 
 For more inforamtion,
 plese refer to

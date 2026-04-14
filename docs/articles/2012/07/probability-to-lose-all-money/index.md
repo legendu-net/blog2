@@ -1,76 +1,76 @@
 ---
 title: Probability to Lose All Money
 created: 2012-07-22 03:56:28
-date: 2026-04-05 19:42:37.337524
+date: 2026-04-13 23:33:06.362675
 authors:
-- bendu
+  - bendu
 label: probability-to-lose-all-money
 license: CC-BY-4.0
 tags:
-- cache
-- C++
-- simulation
-- statistics
-- map
-- probability
-- recursive
-- condition
-- fun problems
-- hash table
-- money
-- lose
+  - cache
+  - C++
+  - simulation
+  - Statistics
+  - map
+  - probability
+  - recursive
+  - condition
+  - fun problems
+  - hash table
+  - money
+  - lose
 ---
-[mitbbs]: http://www.mitbbs.com/
 
 <img src="/media/object/money-1.jpeg"
 width="240" height="200" align="right" />
 
-A few days ago I found someone asking an interview questions on [mitbbs][].
-The question is as follows. 
-A gambler plays a fair game and bet 1 dollar each time. 
-If he lose all his money, 
-the game stops. 
-Suppose he has 10 dollars and is only allowed to play 50 rounds at most, 
+A few days ago I found someone asking an interview questions on [mitbbs].
+The question is as follows.
+A gambler plays a fair game and bet 1 dollar each time.
+If he lose all his money,
+the game stops.
+Suppose he has 10 dollars and is only allowed to play 50 rounds at most,
 what is the probability that he lose all his money?
 
-This is a problem of random work. 
-I am pretty sure that there are very neat solutions to 
-this problem using *reflection*. 
-However, 
-as I mentioned in my book *Statistics Thinkings*, 
-there is a universal way to solve this kind of problems. 
-The key is to find a recursive forumula using conditional expectation/probability. 
-First, 
-we can generalize the problem to the following one. 
-A gamber palys a fair game and bet 1 dollar each time. 
-If he lose all his money, 
-the game stops. 
+This is a problem of random work.
+I am pretty sure that there are very neat solutions to
+this problem using *reflection*.
+However,
+as I mentioned in my book *Statistics Thinkings*,
+there is a universal way to solve this kind of problems.
+The key is to find a recursive forumula using conditional expectation/probability.
+First,
+we can generalize the problem to the following one.
+A gamber palys a fair game and bet 1 dollar each time.
+If he lose all his money,
+the game stops.
 Suppoe he has $m_0$ dollars and is only allowed to play $k$ rounds at most,
 what is the probability that he end up with $m$ dollars?
 
-Let's use $P_{n,m}$ to stand the probability 
-that the player end up with $m$ dollars after $n$ steps. 
-Conditioning on step $n-1$, 
+Let's use $P_{n,m}$ to stand the probability
+that the player end up with $m$ dollars after $n$ steps.
+Conditioning on step $n-1$,
 we have
-$$
+\$$
 P_{n,m} = 0.5 P_{n-1,m+1} + 0.5 P_{n-1,m-1} I(m>1)
 $$
-with initial condition 
+with initial condition
 $$
 P_{0,m} = I(m=m_0),
 $$
-where $I$ is the indicator function. 
+where $I$ is the indicator function.
 As I mentioned in my book *Statistics Thinkings* and other similar posts on my blog,
-there are several ways (e.g., moment generating function) to solve for $P_{n,m}$. 
-A pratical way is write a program to do this. 
+there are several ways (e.g., moment generating function) to solve for $P\_{n,m}\$.
+A pratical way is write a program to do this.
 
-I recently learned C++11, so I wrote a program in C++11 to solve this problem just for practice. 
-The core code is just a recursive function. 
-Though recursive algorithms are convenient, they are usually not efficient. 
-A simple way to improve the speed of recursive algorithm is to use cache. 
-In my code, I used a ordered map to store previous calculated probabilities 
-to avoid duplicated computations. Since the code uses the standard library of C++11, 
-it has to be compiled with option `-std=c++0x`. 
+I recently learned C++11, so I wrote a program in C++11 to solve this problem just for practice.
+The core code is just a recursive function.
+Though recursive algorithms are convenient, they are usually not efficient.
+A simple way to improve the speed of recursive algorithm is to use cache.
+In my code, I used a ordered map to store previous calculated probabilities
+to avoid duplicated computations. Since the code uses the standard library of C++11,
+it has to be compiled with option `-std=c++0x`.
+
 ```C++
 #include<iostream>
 #include<string>
@@ -124,3 +124,5 @@ int main(){
     cout<<"The probablity to lose all money is: "<<p<<endl;
 }
 ```
+
+[mitbbs]: http://www.mitbbs.com/

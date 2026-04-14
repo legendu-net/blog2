@@ -1,21 +1,22 @@
 ---
 title: Tips on RV
 created: 2023-10-19 11:31:45
-date: 2026-04-05 19:42:37.634272
+date: 2026-04-13 23:30:32.807392
 authors:
-- bendu
+  - bendu
 label: tips-on-rv
 license: CC-BY-4.0
 tags:
-- Life
-- travel
-- RV
-- auto
-- mobile
-- home
-- car
-- vehilce
+  - life
+  - travel
+  - RV
+  - auto
+  - mobile
+  - home
+  - car
+  - vehilce
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 https://www.youtube.com/watch?v=8O-IODLU5pc
@@ -33,23 +34,23 @@ https://weretherussos.com/class-b-rv-manufacturers-list-camper-vans/
 ## General Tips on Camping
 
 1. Watch weather.
-    Avoid flood. Don't be too close to river.
+   Avoid flood. Don't be too close to river.
 
-2. [10 Camping Safety Tips That Could Save Your Life!](https://www.youtube.com/watch?v=9C8hRt2UEng)
+1. [10 Camping Safety Tips That Could Save Your Life!](https://www.youtube.com/watch?v=9C8hRt2UEng)
 
 ## Tips and Traps
 
 1. For rentals,
-    Class B/B+ (best with top popups) or small class C RVs are good choices.
-    Class A RVs are too challenge to drive.
-    For owning an RV,
-    pickup + truck camper / fifth wheel / trailer are good options.
+   Class B/B+ (best with top popups) or small class C RVs are good choices.
+   Class A RVs are too challenge to drive.
+   For owning an RV,
+   pickup + truck camper / fifth wheel / trailer are good options.
 
 ## Good Features to Have
 
 1. auto jacks & auto leveling
 1. diesel heater
-2. AC
+1. AC
 
 ## Towing Capability
 
@@ -61,8 +62,9 @@ https://www.youtube.com/watch?v=M0r16IfWlsE
 
 ## RV Rental
 
-- CampStar 
-    - corporate discount available
+- CampStar
+
+  - corporate discount available
 
 - [Outdoorsy](https://www.outdoorsy.com/?cam=g772079689&subcam=42156283353_aud-453410158481:kwd-66011529946&gclid=Cj0KCQjw4bipBhCyARIsAFsieCznj37k3oJQP2tjQ9I1rXe4OtNv1mDGT-UmX19oXnkoJd5Eb7C8nokaAuokEALw_wcB)
 
@@ -71,18 +73,20 @@ https://www.youtube.com/watch?v=M0r16IfWlsE
 Below are some tips for renting an RV.
 
 https://www.youtube.com/watch?v=sjT9SAsH8xg
+
 1. budget
-2. what are your must-haves and what are not?
-    - restroom / bathroom, size?
-    - bed? --> two twin beds sounds like a good one
-    - oven, propane or electric?
-3. test drive
-4. walk through and recording
+1. what are your must-haves and what are not?
+   - restroom / bathroom, size?
+   - bed? --> two twin beds sounds like a good one
+   - oven, propane or electric?
+1. test drive
+1. walk through and recording
 
 Must-have features
+
 1. solar panels
-2. Hold 4 adults + 2 kids without issues
-3. 
+1. Hold 4 adults + 2 kids without issues
+1.
 
 ## Some Good RVs
 
@@ -108,10 +112,9 @@ https://www.youtube.com/watch?v=CYs0lUsSczo
 
 https://roadtrippers.com/magazine/find-safe-rv-parking-over-night/
 
-https://www.reddit.com/r/RVLiving/comments/14vhn3t/where_yall_parking/ 
+https://www.reddit.com/r/RVLiving/comments/14vhn3t/where_yall_parking/
 
 https://www.quora.com/What-is-the-safest-place-to-park-an-RV-overnight-while-traveling-full-time
-
 
 ### Camping Host
 
@@ -132,8 +135,8 @@ https://www.reddit.com/r/Washington/comments/11bqmvl/difficulty_of_reserving_a_c
 ## To Learn
 
 1. How to refill propane?
-2. How to refill water?
-3. How to dump toilet waste?
+1. How to refill water?
+1. How to dump toilet waste?
 
 ## References
 
@@ -151,10 +154,6 @@ https://campaddict.com/motorhome-classes/
 
 https://www.thewaywardhome.com/class-b-vs-class-c-rvs/
 
-
 https://blog.campersinn.com/blog/which-type-of-motorhome-is-right-for-you-class-a-c-or-b
 
-
 https://www.youtube.com/watch?v=DzgWXJptuOg
-
-

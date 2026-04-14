@@ -1,13 +1,13 @@
 ---
-title: "Tips on Job Seeking"
+title: Tips on Job Seeking
 created: 2022-12-09 10:30:39
-date: 2022-12-09 10:30:39
+date: 2026-04-13 23:30:33.762399
 authors:
   - bendu
 label: tips-on-job-seeking
 license: CC-BY-4.0
 tags:
-  - Life
+  - life
   - job
   - career
   - company
@@ -29,7 +29,6 @@ tags:
 - [LinkedIn](https://www.linkedin.com/)
 - [Blind](https://www.teamblind.com/)
 - [GlassDoor](http://www.glassdoor.com/index.htm)
-
 
 ## Review of Companies / Teams
 

@@ -1,13 +1,13 @@
 ---
-title: "Sharing Files Between Linux and iPad"
+title: Sharing Files Between Linux and iPad
 created: 2017-04-22 22:09:13
-date: 2017-04-22 22:09:13
+date: 2026-04-13 23:28:03.323597
 authors:
   - bendu
 label: sharing-files-between-linux-and-ipad
 license: CC-BY-4.0
 tags:
-  - Software
+  - software
   - Linux
   - iPad
   - Apple
@@ -23,10 +23,13 @@ Install a sycnhronization software on both your computer and iPad.
 ## Connecting Using USB
 
 Install libimobiledevice-utils and ifuse on your Linux computer.
+
 ```bash
 sudo apt-get install libimobiledevice-utils ifuse
 ```
+
 And then run the following commands to pair your iPad.
+
 ```bash
 idevicepair unpair 
 idevicepair pair
@@ -42,10 +45,10 @@ For example:
 
 ## VLC
 
-If you just want to sharing video/audio between you computer and iPad, 
+If you just want to sharing video/audio between you computer and iPad,
 you can install the VLC app on you iPad.
-VLC supports sharing via wifi. 
-Just type in the VLC web URL in your browser on your computer, 
+VLC supports sharing via wifi.
+Just type in the VLC web URL in your browser on your computer,
 you will be able to upload/download video/audio files to/from your iPad.
 
 You can also stream media from your computer to iPad using VLC if you like.

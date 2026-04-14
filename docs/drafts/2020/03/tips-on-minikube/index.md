@@ -1,48 +1,56 @@
 ---
 title: Tips on Minikube
 created: 2020-03-10 09:39:25
-date: 2026-04-05 19:42:37.815229
+date: 2026-04-13 23:27:59.607981
 authors:
-- bendu
+  - bendu
 label: tips-on-minikube
 license: CC-BY-4.0
 tags:
-- Software
-- Minikube
-- k8s
-- Kubernetes
+  - software
+  - Minikube
+  - k8s
+  - Kubernetes
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-Microk8s is a more lightweight solution than Minikube 
+Microk8s is a more lightweight solution than Minikube
 (even thought Microk8s is only for Linux.)
-
 
 ## Installation
 
 1. [Install kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 
-3. [Install Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
+1. [Install Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
 
-4. Start minikube. 
-	
-		:::bash
-		minikube start --vm-driver=hyperkit
+1. Start minikube.
 
-5. Check status of minikube.
+   ```
+    :::bash
+    minikube start --vm-driver=hyperkit
+   ```
 
-		:::bash
-		minikube status
+1. Check status of minikube.
 
-6. Launch minikube dashboard.
+   ```
+    :::bash
+    minikube status
+   ```
 
-		:::bash
-		minikube dashboard
+1. Launch minikube dashboard.
 
-7. Show minikube IP.
+   ```
+    :::bash
+    minikube dashboard
+   ```
 
-		:::bash
-		minikube ip
+1. Show minikube IP.
+
+   ```
+    :::bash
+    minikube ip
+   ```
 
 ## References
 

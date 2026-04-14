@@ -1,7 +1,7 @@
 ---
-title: "Tips on Investing in Bonds"
+title: Tips on Investing in Bonds
 created: 2023-12-12 23:36:11
-date: 2024-02-03 15:21:43
+date: 2026-04-13 23:27:58.062958
 authors:
   - bendu
 label: tips-on-investing-in-bonds
@@ -12,7 +12,7 @@ tags:
   - bill
   - note
   - bond
-  - TIPS
+  - tips
   - money
   - savings
 ---
@@ -23,11 +23,11 @@ tags:
 - Treasury Notes (middle-term)
 - Treasury Bills (T-Bills) (short-term)
 - Treasury TIPS
-- US Treasury Savings Bonds 
-    - EE Bonds
-    - I Bonds (Inflation-linked Bonds)
+- US Treasury Savings Bonds
+  - EE Bonds
+  - I Bonds (Inflation-linked Bonds)
 
-It is suggested that you invest in ETF or Money Market Fund alternatives 
+It is suggested that you invest in ETF or Money Market Fund alternatives
 instead of treasury securities directly
 as ETF and Money Market Fund provides better liquidity.
 For more discussion,

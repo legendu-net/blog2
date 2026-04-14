@@ -10,7 +10,6 @@ from blogger import (
     ARTICLES,
     DRAFTS,
     OUTDATED,
-    TAG_SEPARATOR,
     Blogger,
     add_spells as _add_spells,
     get_vim,

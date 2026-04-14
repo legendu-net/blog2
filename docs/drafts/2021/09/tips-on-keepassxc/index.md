@@ -1,13 +1,13 @@
 ---
-title: "Tips on KeepassXC"
+title: Tips on KeepassXC
 created: 2021-09-27 10:45:11
-date: 2022-06-11 15:05:34
+date: 2026-04-13 23:27:58.368354
 authors:
   - bendu
 label: tips-on-keepassxc
 license: CC-BY-4.0
 tags:
-  - Software
+  - software
   - tool
   - KeePassXC
   - password management
@@ -16,10 +16,9 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 1. you can make a entry a refer to another one
-    just clone an entry and check the checkbox ...
+   just clone an entry and check the checkbox ...
 
-
-    [Support linking user name and password from another record #5598](https://github.com/keepassxreboot/keepassxc/issues/5598)
+   [Support linking user name and password from another record #5598](https://github.com/keepassxreboot/keepassxc/issues/5598)
 
 ## References
 

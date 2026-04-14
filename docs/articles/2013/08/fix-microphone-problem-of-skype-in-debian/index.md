@@ -1,41 +1,46 @@
 ---
 title: Fix Microphone Problem of Skype in Debian
 created: 2013-08-21 00:00:00
-date: 2026-04-05 19:40:19.895457
+date: 2026-04-13 23:27:56.874963
 authors:
-- bendu
+  - bendu
 label: fix-microphone-problem-of-skype-in-debian
 license: CC-BY-4.0
 tags:
-- audio
-- Software
-- Linux
+  - audio
+  - software
+  - Linux
 ---
-Install Pulseaudio if you only have ALSA. 
-ALSA alone does NOT work with skype whatever people 
+
+Install Pulseaudio if you only have ALSA.
+ALSA alone does NOT work with skype whatever people
 on the #Debian channel might think and tell you.
 
-    sudo apt-get install pulseaudio
+```
+sudo apt-get install pulseaudio
+```
 
 Install pulseaudio volume control
 
-    sudo apt-get install pavucontrol
+```
+sudo apt-get install pavucontrol
+```
 
 Run Skype.
 
-Go to the Sound devices sections. 
-Click on the Open PulseAudio Volume Control button. 
+Go to the Sound devices sections.
+Click on the Open PulseAudio Volume Control button.
 pavucontrol will open.
 
 In every tab maximize ALL the volume sliders.
-Go to the configuration tab. Mine has two sections. 
-One is called RV710/730. 
+Go to the configuration tab. Mine has two sections.
+One is called RV710/730.
 Turn this off in the dropdown menu below it.
-The other one is called "Internal Audio". 
+The other one is called "Internal Audio".
 Choose "Analog Stereo Duplex" in the dropdown menu.
-When you go back to the "Input Devices" tab now, 
-you will see that there is an setting for "Internal Audio Analog Stereo". 
+When you go back to the "Input Devices" tab now,
+you will see that there is an setting for "Internal Audio Analog Stereo".
 Crank this to 100%.
-In the "Output Devices" tab, 
-choose the "Analog Output" port from the dropdown menu. 
+In the "Output Devices" tab,
+choose the "Analog Output" port from the dropdown menu.
 Crank the front left as well as front right channel to the max 100%.

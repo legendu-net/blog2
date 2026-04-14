@@ -1,13 +1,13 @@
 ---
 title: Chance to Take One's Own Seat?
 created: 2012-07-10 13:13:46
-date: 2026-04-11 22:10:44.123715
+date: 2026-04-13 23:33:07.497938
 authors:
   - bendu
 label: chance-to-take-one-s-own-seat
 license: CC-BY-4.0
 tags:
-  - statistics
+  - Statistics
   - recursion
   - probability
   - fun problems

@@ -1,13 +1,13 @@
 ---
 title: Number of Records?
 created: 2012-07-10 00:00:00
-date: 2026-04-11 22:10:43.811431
+date: 2026-04-13 23:33:07.164809
 authors:
   - bendu
 label: number-of-records
 license: CC-BY-4.0
 tags:
-  - statistics
+  - Statistics
   - records
   - probability
   - permutation

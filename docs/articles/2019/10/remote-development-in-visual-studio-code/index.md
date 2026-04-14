@@ -1,13 +1,13 @@
 ---
-title: "Remote Development in Visual Studio Code"
+title: Remote Development in Visual Studio Code
 created: 2019-10-10 13:07:08
-date: 2021-03-10 13:07:08
+date: 2026-04-13 23:27:57.413164
 authors:
   - bendu
 label: remote-development-in-visual-studio-code
 license: CC-BY-4.0
 tags:
-  - Software
+  - software
   - Visual Studio Code
   - vscode
   - VS Code
@@ -19,23 +19,22 @@ tags:
 There are 2 approaches to develop remotely in Visual Studio Code.
 The first way is to leverage the extension pack
 [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack).
-For more details, 
-please refer to 
+For more details,
+please refer to
 [Remote Development with VS Code](https://code.visualstudio.com/blogs/2019/05/02/remote-development)
 and
 [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview).
 
-
-The second (prefered) approach is to leverage 
+The second (prefered) approach is to leverage
 [cdr/code-server](https://github.com/cdr/code-server).
-For more details, 
-please refer to 
+For more details,
+please refer to
 [Visual Studio Code Server](http://www.legendu.net/misc/blog/visual-studio-code-server/).
-Visual Studio Code Server is prefer to the Remote Development extension pack 
+Visual Studio Code Server is prefer to the Remote Development extension pack
 as Visual Studio Code Server requires no installation or configuration on the client machine.
 A browser is all your need to use Visual Studio Code Server once it is setup.
 
-## References 
+## References
 
 - [Developing inside a Container](https://code.visualstudio.com/docs/remote/containers)
 

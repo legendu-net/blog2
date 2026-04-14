@@ -1,27 +1,25 @@
 ---
-title: "Basketball Player"
+title: Basketball Player
 created: 2012-07-28 21:56:16
-date: 2014-07-28 21:56:16
+date: 2026-04-13 23:33:06.038802
 authors:
   - bendu
 label: basketball-player
 license: CC-BY-4.0
 tags:
-  - statistics
+  - Statistics
   - condition
   - probability
   - fun problems
   - basket ball player
 ---
 
-[Table 1]: /media/basketball-player/table.pdf
-
-<img src="/media/basketball-player/basketball.jpg" 
+<img src="/media/basketball-player/basketball.jpg"
 height="200" width="240" align="right"/>
 
 Suppose a basketball player make $N$ shots,
 and we know that in the first $n(\le N)$ shots he sinked $m(\le n)$ shots.
-If from the $(n+1)^{th}$ shot, 
+If from the $(n+1)^{th}$ shot,
 his ratio of sink a shot is his accumulative ratio before the shot,
 e.g., suppose he sinked 40 shots in the first 50 shots,
 then his ratio of sink the next shot is 80%.
@@ -46,7 +44,7 @@ i.e., the number of sinked shots $M$ is uniformly distributed on its support
 given that the player only sinked 1 shot in the first 2 shots.
 
 Let $X_k, n\le k\le N$ be the number of shots the player sinks in the first $k$ shots,
-then the distribution of $X_{k+1}$ conditioning on $X_{k}$ is given in [Table 1][].
+then the distribution of $X_{k+1}$ conditioning on $X_{k}$ is given in [Table 1].
 Using the similar method as we've done in the first 3 problems,
 we can easily find the first and second moment of $X_k$ which are given below:
 
@@ -68,17 +66,18 @@ From the above formulas, we can know that the expectation and variance
 of the number of sinked shots are linear quadratic functions of $k$ respectively,
 and both of them increase as $k$ increases.
 This makes it hard for us to predict $X_k$ when $k$ is big.
-The 2-$\sigma$ intervals for $X_k$ is shown in the follow figure. 
+The 2-$\sigma$ intervals for $X_k$ is shown in the follow figure.
 
-<img src="/media/basketball-player/interval.png" 
+<img src="/media/basketball-player/interval.png"
 height="200" width="240" align="middle"/>
+
 <!---
 ![a picture](/media/basketball-player/interval.png) 
 -->
 
-Since we know the distribution of the number of sinked shots 
+Since we know the distribution of the number of sinked shots
 given that the player sinked $m$ shots in the first $n$ shots,
-we can calculate the first and second moments directly, 
+we can calculate the first and second moments directly,
 which yields the following equations:
 
 $$
@@ -92,3 +91,5 @@ $$
 $$
 \sum_M M^2\frac{ {N-M-1 \choose n-m-1} }{ {N-1 \choose n-1} }=(k+1)k\frac{(m+1)m}{(n+1)n}-k\frac{m}{n}.
 $$
+
+[table 1]: /media/basketball-player/table.pdf

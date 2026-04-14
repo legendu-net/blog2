@@ -1,16 +1,17 @@
 ---
 title: Managing Projects Using ProjectLibre
 created: 2018-04-22 15:14:06
-date: 2026-04-05 19:42:38.024207
+date: 2026-04-13 23:28:02.547725
 authors:
-- bendu
+  - bendu
 label: managing-projects-using-projectlibre
 license: CC-BY-4.0
 tags:
-- Software
-- Project Management
-- ProjectLibre
+  - software
+  - Project Management
+  - ProjectLibre
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ProjectLibre sounds better than the one that I used before ...

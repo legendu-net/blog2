@@ -1,7 +1,7 @@
 ---
 title: Which One Is the Best Strategy?
 created: 2010-05-20 10:54:32
-date: 2026-04-11 22:10:44.309156
+date: 2026-04-13 23:33:08.492909
 authors:
   - bendu
 label: which-one-is-the-best-strategy
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - pattern
   - Markov chain
-  - statistics
+  - Statistics
   - sequence
   - coin
   - stochastic

@@ -1,7 +1,7 @@
 ---
 title: GPU for Web
 created: 2021-05-12 09:26:51
-date: 2026-04-13 23:15:02.396190
+date: 2026-04-13 23:33:09.262194
 authors:
   - bendu
 label: gpu-for-web
@@ -10,7 +10,7 @@ tags:
   - computer science
   - programming
   - GPU
-  - Web
+  - web
   - gpuweb
   - wgpu
 ---

@@ -1,13 +1,13 @@
 ---
-title: "Build a Fence in the Backyard"
+title: Build a Fence in the Backyard
 created: 2023-12-10 11:29:03
-date: 2023-12-10 11:29:03
+date: 2026-04-13 23:30:32.043732
 authors:
   - bendu
 label: build-a-fence-in-the-backyard
 license: CC-BY-4.0
 tags:
-  - Life
+  - life
   - house
   - fense
   - backyard

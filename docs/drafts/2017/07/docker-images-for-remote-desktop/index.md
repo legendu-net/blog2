@@ -1,14 +1,14 @@
 ---
-title: "Docker Images for Remote Desktop"
+title: Docker Images for Remote Desktop
 created: 2017-07-27 12:16:56
-date: 2021-12-11 14:05:51
+date: 2026-04-13 23:33:10.005116
 authors:
   - bendu
 label: docker-images-for-remote-desktop
 license: CC-BY-4.0
 tags:
   - software
-  - docker
+  - Docker
   - remote desktop
   - KDE
   - Ubuntu
@@ -22,14 +22,14 @@ tags:
 ## Tips and Traps
 
 1. [x11docker](https://github.com/mviereck/x11docker)
-    runs GUI applications and desktops in docker and podman containers. 
+   runs GUI applications and desktops in docker and podman containers.
 
-2. [NoMachine](http://www.legendu.net/misc/blog/remote-desktop-using-nomachine-on-linux)
-    is recommended for remote Desktop.
+1. [NoMachine](http://www.legendu.net/misc/blog/remote-desktop-using-nomachine-on-linux)
+   is recommended for remote Desktop.
 
-2. If VNC is used for accessing remote desktop environment in a Docker container,
-    you might haveto manually set the resolution while starting the docker container 
-    so that you get the best experience.
+1. If VNC is used for accessing remote desktop environment in a Docker container,
+   you might haveto manually set the resolution while starting the docker container
+   so that you get the best experience.
 
 ### KDE Plasma
 
@@ -39,28 +39,28 @@ tags:
 
 1. [dclong/lubuntu](https://hub.docker.com/r/dclong/lubuntu/)
 
-
 1. [consol/ubuntu-xfce-vnc](https://store.docker.com/community/images/consol/ubuntu-xfce-vnc)
 
-    works well, seems like a good choice
-    ```bash
-    docker run -it -p 5901:5901 -p 6901:6901 -e VNC_RESOLUTION=800x600 consol/ubuntu-xfce-vnc
-    ```
+   works well, seems like a good choice
 
-2. [dorowu/ubuntu-desktop-lxqt-vnc](https://store.docker.com/community/images/dorowu/ubuntu-desktop-lxde-vnc)
+   ```bash
+   docker run -it -p 5901:5901 -p 6901:6901 -e VNC_RESOLUTION=800x600 consol/ubuntu-xfce-vnc
+   ```
 
-    works, novnc in HTML doesn't scale very well
-    password: ubuntu
+1. [dorowu/ubuntu-desktop-lxqt-vnc](https://store.docker.com/community/images/dorowu/ubuntu-desktop-lxde-vnc)
 
-3. [dorowu/ubuntu-desktop-lxde-vnc](https://store.docker.com/community/images/dorowu/ubuntu-desktop-lxde-vnc)
+   works, novnc in HTML doesn't scale very well
+   password: ubuntu
 
-    works, novnc in HTML doesn't scale very well
-    password: ubuntu
+1. [dorowu/ubuntu-desktop-lxde-vnc](https://store.docker.com/community/images/dorowu/ubuntu-desktop-lxde-vnc)
+
+   works, novnc in HTML doesn't scale very well
+   password: ubuntu
 
 1. [ensky/ubuntu-nxserver-xfce](https://store.docker.com/community/images/ensky/ubuntu-nxserver-xfce)
 
-    Works, free NX client is a little bit ugly
-    had to create a new user, don't know the password
+   Works, free NX client is a little bit ugly
+   had to create a new user, don't know the password
 
 ## Deepin
 

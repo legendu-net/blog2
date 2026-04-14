@@ -1,7 +1,7 @@
 ---
 title: How Long Does It Take to Observe a Sequence?
 created: 2010-05-04 02:30:19
-date: 2026-04-11 22:10:44.611813
+date: 2026-04-13 23:33:08.645491
 authors:
   - bendu
 label: how-long-does-it-take-to-observe-a-sequence
@@ -10,7 +10,7 @@ tags:
   - Mathematica
   - pattern
   - Markov chain
-  - statistics
+  - Statistics
   - sequence
   - coin
   - stochastic

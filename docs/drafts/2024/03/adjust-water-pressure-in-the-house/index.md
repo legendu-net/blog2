@@ -1,13 +1,13 @@
 ---
-title: "Adjust Water Pressure in the House"
+title: Adjust Water Pressure in the House
 created: 2024-03-01 19:42:56
-date: 2024-03-01 19:42:56
+date: 2026-04-13 23:30:31.747850
 authors:
   - bendu
 label: adjust-water-pressure-in-the-house
 license: CC-BY-4.0
 tags:
-  - Life
+  - life
   - house
   - water
   - pressure
@@ -17,5 +17,5 @@ tags:
 
 [How to Increase Adjust Your Home Water Pressure. Increase Your House Water PSI!](https://www.youtube.com/watch?v=-qTk8_cGzHs)
 
-Normal psi for a home pipe system is between 30 and 80 psi. While you don't want the psi to be too low, 
+Normal psi for a home pipe system is between 30 and 80 psi. While you don't want the psi to be too low,
 it violates code to be above 80. Instead, you should aim for a psi that's between 60 and 70.

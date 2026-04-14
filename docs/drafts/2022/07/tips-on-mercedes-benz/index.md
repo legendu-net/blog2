@@ -1,13 +1,13 @@
 ---
-title: "Tips on Mercedes-Benz"
+title: Tips on Mercedes-Benz
 created: 2022-07-23 21:15:27
-date: 2024-09-11 23:06:41
+date: 2026-04-13 23:30:34.220820
 authors:
   - bendu
 label: tips-on-mercedes-benz
 license: CC-BY-4.0
 tags:
-  - Life
+  - life
   - Car
   - Mercedes-Benz
   - recall
@@ -17,7 +17,6 @@ tags:
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
 
 ## References
 
@@ -32,4 +31,3 @@ tags:
 - [Top 10 Useful Mercedes-Benz GLE Hidden Features](https://www.youtube.com/watch?v=0wl3QIGNLHA)
 
 - [TOP 10 Mercedes DON'Ts 🛑 Tips & Tricks!](https://www.youtube.com/watch?v=xr-pvouO6ms)
-

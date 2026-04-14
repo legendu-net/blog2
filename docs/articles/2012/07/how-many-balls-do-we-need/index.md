@@ -1,13 +1,13 @@
 ---
 title: How Many Balls Do We Need?
 created: 2012-07-10 00:00:00
-date: 2026-04-11 22:10:43.516513
+date: 2026-04-13 23:33:07.016064
 authors:
   - bendu
 label: how-many-balls-do-we-need
 license: CC-BY-4.0
 tags:
-  - statistics
+  - Statistics
   - probability
   - fun problems
 ---

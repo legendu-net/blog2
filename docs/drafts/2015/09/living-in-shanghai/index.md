@@ -1,13 +1,13 @@
 ---
 title: Living in Shanghai
 created: 2015-09-22 14:22:28
-date: 2026-04-05 19:42:38.164273
+date: 2026-04-13 23:30:36.196638
 authors:
   - bendu
 label: living-in-shanghai
 license: CC-BY-4.0
 tags:
-  - Life
+  - life
   - Shanghai
   - city
   - China

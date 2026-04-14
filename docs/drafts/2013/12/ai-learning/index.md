@@ -1,7 +1,7 @@
 ---
-title: "AI Learning"
+title: AI Learning
 created: 2013-12-08 23:07:57
-date: 2021-01-08 23:07:57
+date: 2026-04-13 23:33:11.443977
 authors:
   - bendu
 label: ai-learning
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - AI
   - machine learning
-  - statistics
+  - Statistics
   - data science
 ---
 
@@ -30,27 +30,24 @@ The picture comes from [Machine Learning Algorithms Mindmap](https://jixta.wordp
 
 [Libraries for Gradient Boosting](http://www.legendu.net/misc/blog/libraries-for-gradient-boosting/)
 
-
-
 ### Big-data (Spark) Friendly Frameworks
 
 https://mmlspark.blob.core.windows.net/website/index.html
 
 ## [AutoML](http://www.legendu.net/misc/blog/automl-tips/)
 
-
 ## Questions
 
 ### Random Forest
 
 1. Is discrete variables easier to handle than continous variables (in random forest)?
-    Is there any advantage of discretize variables?
-    The eseential question is how is categorical varialbes handled in RF?
-    Does RF use category variables directly or does it have to convert it to numerical somehow?
+   Is there any advantage of discretize variables?
+   The eseential question is how is categorical varialbes handled in RF?
+   Does RF use category variables directly or does it have to convert it to numerical somehow?
 
-2. Random forest has a way to impute missing values.
-    What if I treat missing values in categorical predictors and a new class?
-    It sounds like a good ...
+1. Random forest has a way to impute missing values.
+   What if I treat missing values in categorical predictors and a new class?
+   It sounds like a good ...
 
 ## Imputation
 
@@ -66,7 +63,7 @@ https://mmlspark.blob.core.windows.net/website/index.html
 
 https://openai.com/blog/dall-e/
 
-## References 
+## References
 
 - https://github.com/academic/awesome-datascience
 

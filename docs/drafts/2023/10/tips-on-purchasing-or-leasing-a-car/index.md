@@ -1,22 +1,22 @@
 ---
 title: Tips on Purchasing or Leasing a Car
 created: 2023-10-17 11:55:34
-date: 2026-04-05 19:42:37.636788
+date: 2026-04-13 23:30:32.972022
 authors:
-- bendu
+  - bendu
 label: tips-on-purchasing-or-leasing-a-car
 license: CC-BY-4.0
 tags:
-- Life
-- vehicle
-- car
-- SUV
-- EV
-- feature
-- camera
+  - life
+  - vehicle
+  - car
+  - SUV
+  - EV
+  - feature
+  - camera
 ---
-**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Must-have Featuers
 
@@ -29,49 +29,52 @@ tags:
 - 6-seater configuration if 3-row
 
 ## For EVs
+
 - able to switch between E-pedal and gas mode?
 - Is level I charing supported?
 
 ## SUV
+
 - side steps
 
 ## For Leasing
 
 1. Guidence on good deals.
-    - no money down
-    - 10k miles minimum
-    - 1% of MSRP = good deal
-    - 0.8% of MSRP = great deal
-    - less than 0.8% of MSRP = amazing deal
 
-2. Check for general good deals at 
-    [Leasehackr](https://leasehackr.com/)
-    .
+   - no money down
+   - 10k miles minimum
+   - 1% of MSRP = good deal
+   - 0.8% of MSRP = great deal
+   - less than 0.8% of MSRP = amazing deal
 
-3. Ask what free services come with the lease.
-    Generally speaking, 
-    there are pre-paid maintenance services come with a lease.
-    
-4. Ask about disposal fee at the end of the lease.
+1. Check for general good deals at
+   [Leasehackr](https://leasehackr.com/)
+   .
 
-5. Ask what MF (`APR / 2400`) is for the lease. 
+1. Ask what free services come with the lease.
+   Generally speaking,
+   there are pre-paid maintenance services come with a lease.
 
+1. Ask about disposal fee at the end of the lease.
+
+1. Ask what MF (`APR / 2400`) is for the lease.
 
 ### Rivian Specific
 
 Please refer to
-[Tips on Rivian Electronic Vehicles]( https://www.legendu.net/misc/blog/tips-on-rivian-electronic-vehicles )
+[Tips on Rivian Electronic Vehicles](https://www.legendu.net/misc/blog/tips-on-rivian-electronic-vehicles)
 for discussions.
 
 ### Return a Leased Car
 
 1. schedule your pre-return vehicle inspection
-2. decide if you want to make repairs
-3. make a vehicle-return appointment with the dealer
-4. complete a federal odometer/lease termination statement at the dealer
-5. satisy any lease liability fees/charges
+1. decide if you want to make repairs
+1. make a vehicle-return appointment with the dealer
+1. complete a federal odometer/lease termination statement at the dealer
+1. satisy any lease liability fees/charges
 
 ### End-of-lease Checklist
+
 - vehicle inspection report
 - replace original equipment that many have been removed from the vehicle after lease inception
 - all sets of keys present
@@ -80,9 +83,10 @@ for discussions.
 - SD navigation card in place
 
 ### Vehicle Return Checklist
+
 - remove toll/EZ tags
 - remove all personal items, e.g., auxilary cords, glasses, etc
 - license plates
 - delete information from the vehicle
 - cancel all electronic payments
-- 
+-

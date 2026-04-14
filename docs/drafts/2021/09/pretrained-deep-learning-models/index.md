@@ -1,14 +1,14 @@
 ---
 title: Pretrained Deep Learning Models
 created: 2021-09-16 13:22:20
-date: 2026-04-13 23:14:57.237907
+date: 2026-04-13 23:33:09.067821
 authors:
   - bendu
 label: pretrained-deep-learning-models
 license: CC-BY-4.0
 tags:
   - computer science
-  - Deep Learning
+  - deep learning
   - AI
   - machine learning
   - data science

@@ -1,20 +1,21 @@
 ---
 title: Tips on IDE
 created: 2018-04-18 19:35:55
-date: 2026-04-05 19:42:38.014127
+date: 2026-04-13 23:28:02.379946
 authors:
-- bendu
+  - bendu
 label: tips-on-ide
 license: CC-BY-4.0
 tags:
-- Software
-- IDE
-- Cloud IDE
-- Java
-- C++
-- Python
-- Latex
+  - software
+  - IDE
+  - Cloud IDE
+  - Java
+  - C++
+  - Python
+  - Latex
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## [Cloud IDEs](http://www.legendu.net/misc/blog/cloud-ide/)
@@ -22,50 +23,49 @@ tags:
 ## IDEs with AI Coding Assists
 
 See
-[IDEs With AI Coding Assists]( https://www.legendu.net/misc/blog/IDEs-with-AI-coding-Assists ) 
+[IDEs With AI Coding Assists](https://www.legendu.net/misc/blog/IDEs-with-AI-coding-Assists)
 .
 
 ## General Purpose IDEs
 
-1. [Visual Studio Code]( https://www.legendu.net/misc/blog/vscode-tips ) 
+1. [Visual Studio Code](https://www.legendu.net/misc/blog/vscode-tips)
 
-2. [SpaceVim]( https://www.legendu.net/misc/blog/spacevim-tips ) 
+1. [SpaceVim](https://www.legendu.net/misc/blog/spacevim-tips)
 
-4. [Zed]( https://www.legendu.net/misc/blog/tips-on-the-zed-ide ) 
+1. [Zed](https://www.legendu.net/misc/blog/tips-on-the-zed-ide)
 
-3. [Lapce](https://github.com/lapce/lapce)
+1. [Lapce](https://github.com/lapce/lapce)
 
 ## JVM Languages
 
 1. IntelliJ IDEA (community edition available)
 
-## [IDEs for Rust]( https://www.legendu.net/misc/blog/IDE-for-Rust ) 
+## [IDEs for Rust](https://www.legendu.net/misc/blog/IDE-for-Rust)
 
-See [IDE for Rust]( https://www.legendu.net/misc/blog/IDE-for-Rust ) 
+See [IDE for Rust](https://www.legendu.net/misc/blog/IDE-for-Rust)
 .
 
 ## Python
 
 1. Visual Studio Code
 
-    The best IDE for Python so far.
+   The best IDE for Python so far.
 
-2. JupyterLab
+1. JupyterLab
 
-3. [NeoVim](https://www.legendu.net/misc/blog/tips-on-neovim) (with AstroNvim)
+1. [NeoVim](https://www.legendu.net/misc/blog/tips-on-neovim) (with AstroNvim)
 
-2. PyCharm
+1. PyCharm
 
-    A great IDE for Python.
-    A open source community edition is available for users.
-
+   A great IDE for Python.
+   A open source community edition is available for users.
 
 ## C++
 
 1. MS Visual Studio
-2. KDevelop
-3. Qt Creator
-4. Eclipse (with CDT)
+1. KDevelop
+1. Qt Creator
+1. Eclipse (with CDT)
 
 ## R
 
@@ -75,9 +75,9 @@ See [IDE for Rust]( https://www.legendu.net/misc/blog/IDE-for-Rust )
 
 1. VS Code
 
-4. ReText (Markdown, reStructuredText)
+1. ReText (Markdown, reStructuredText)
 
-5. Markable (on-line Markdown editor)
+1. Markable (on-line Markdown editor)
 
 ## Julia
 

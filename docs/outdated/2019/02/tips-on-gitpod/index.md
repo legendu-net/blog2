@@ -1,36 +1,36 @@
 ---
 title: Tips on Gitpod
 created: 2019-02-20 09:49:30
-date: 2026-04-05 19:42:39.153886
+date: 2026-04-13 23:28:04.721657
 authors:
-- bendu
+  - bendu
 label: tips-on-gitpod
 license: CC-BY-4.0
 tags:
-- Software
-- programming
-- GitPod
-- GitHub
-- Theia IDE
+  - software
+  - programming
+  - GitPod
+  - GitHub
+  - Theia IDE
 ---
+
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-
 1. GitPod is a great web IDE for GitHub repositories.
-    It supports both IDE and terminal environment via Docker,
-    so a whole lot can be done if you are creative!
+   It supports both IDE and terminal environment via Docker,
+   so a whole lot can be done if you are creative!
 
-2. customized layers are supported
+1. customized layers are supported
 
-3. browser plugins are available for Chrome, Firefox, etc.
+1. browser plugins are available for Chrome, Firefox, etc.
 
-4. support installling VS Code extensions (*.vsix) by drag and drop.
-    Installing from VS Code Marketplace is not supported at this time.
-    
-5. Cloning multiple repositories into one workspace is supported.
-    Please refer to
-    [Multi-repo Workspaces](https://www.gitpod.io/docs/multi-repo-workspaces)
-    for detailed discussions. 
+1. support installling VS Code extensions (\*.vsix) by drag and drop.
+   Installing from VS Code Marketplace is not supported at this time.
+
+1. Cloning multiple repositories into one workspace is supported.
+   Please refer to
+   [Multi-repo Workspaces](https://www.gitpod.io/docs/multi-repo-workspaces)
+   for detailed discussions.
 
 ## Fix Permission Issues
 

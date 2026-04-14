@@ -1,13 +1,13 @@
 ---
-title: "Make Inference Using Bootstrap"
+title: Make Inference Using Bootstrap
 created: 2016-03-05 20:04:20
-date: 2016-03-05 20:04:20
+date: 2026-04-13 23:33:10.492810
 authors:
   - bendu
 label: make-inference-using-bootstrap
 license: CC-BY-4.0
 tags:
-  - statistics
+  - Statistics
   - bootstrap
   - inference
   - resample

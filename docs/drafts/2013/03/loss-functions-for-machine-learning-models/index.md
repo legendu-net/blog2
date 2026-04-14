@@ -1,32 +1,33 @@
 ---
 title: Loss Functions for Machine Learning Models
 created: 2013-03-07 11:12:36
-date: 2026-04-05 19:42:38.401528
+date: 2026-04-13 23:33:13.292180
 authors:
-- bendu
+  - bendu
 label: loss-functions-for-machine-learning-models
 license: CC-BY-4.0
 tags:
-- AI
-- loss function
-- statistics
-- machine learning
-- cross entry
-- log likelihood
+  - AI
+  - loss function
+  - Statistics
+  - machine learning
+  - cross entry
+  - log likelihood
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
- 
+
 ## Tips and Traps
 
-1. A Loss function is always non-negative. 
-    If you get a negative loss when training a model,
-    there must be something wrong with the code. 
-    For example, 
-    maybe you chosed a loss function incorrectly.
+1. A Loss function is always non-negative.
+   If you get a negative loss when training a model,
+   there must be something wrong with the code.
+   For example,
+   maybe you chosed a loss function incorrectly.
 
 ## Loss Functions
 
-### 0-1 Loss 
+### 0-1 Loss
 
 Or sometimes called binary loss function.
 
@@ -46,22 +47,22 @@ for detailed discussions.
 
 ### MSE (L2 Loss) vs L1 Loss
 
-MSE is a L2 loss function. 
+MSE is a L2 loss function.
 Both L1 and L2 loss functions are special cases of $L_p$ ($p>0$) loss functions.
 $L_p$ loss functions are typicall used for regression problems.
-Compared to L1 loss, 
+Compared to L1 loss,
 L2 loss gives larger weights on larger (absolute) errors.
-In many real applications, 
+In many real applications,
 we often observe the following 2 phenomena.
-    1. Real/training data is not uniformly distribution across all scenarios.
-        There are often a lot more samples which generate small respoonse values. 
-    2. During training, large response values often have larger errors.
+1\. Real/training data is not uniformly distribution across all scenarios.
+There are often a lot more samples which generate small respoonse values.
+2\. During training, large response values often have larger errors.
 If samples generating larger response values (errors)
 are not important (or can be treated as outliers)
 then a L1 loss (or even $L_p$ where $0<p<1$) is a better choice than a L2 loss.
 If samples generating larger response values (errors)
-cannot be treated as outliers 
-or even more important, 
+cannot be treated as outliers
+or even more important,
 then a L2 loss (or even $L_p$ where $p>1$) is better than a L1 loss.
 
 ## Loss Functions in PyTorch
@@ -85,4 +86,3 @@ https://pytorch.org/docs/stable/nn.html
 https://gombru.github.io/2019/04/03/ranking_loss/
 
 https://discuss.pytorch.org/t/writing-warp-loss-layer/3715
-

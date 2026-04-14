@@ -1,13 +1,13 @@
 ---
-title: "Good Resources of News"
+title: Good Resources of News
 created: 2022-12-09 10:46:58
-date: 2022-12-09 10:46:58
+date: 2026-04-13 23:30:33.616914
 authors:
   - bendu
 label: good-resources-of-news
 license: CC-BY-4.0
 tags:
-  - Life
+  - life
   - news
 ---
 

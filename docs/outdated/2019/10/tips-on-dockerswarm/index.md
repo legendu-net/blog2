@@ -1,13 +1,13 @@
 ---
-title: "Tips on Dockerswarm"
+title: Tips on Dockerswarm
 created: 2019-10-10 09:32:40
-date: 2021-06-10 09:32:40
+date: 2026-04-13 23:28:04.566011
 authors:
   - bendu
 label: tips-on-dockerswarm
 license: CC-BY-4.0
 tags:
-  - Software
+  - software
   - Docker
   - Docker Swarm
 ---
@@ -18,12 +18,14 @@ https://ender74.github.io/Sharing-Volumes-With-Docker-Swarm/
 
 ## Volume
 
-    :::bash
-    docker service create \
-        --name nginx \
-        --mount type=bind,source=`pwd`/static-site,target=/usr/share/nginx/html \
-        -p 80:80 nginx
-        https://boxboat.com/2016/08/12/mounting-volumes-docker-swarm-1-12/
+```
+:::bash
+docker service create \
+    --name nginx \
+    --mount type=bind,source=`pwd`/static-site,target=/usr/share/nginx/html \
+    -p 80:80 nginx
+    https://boxboat.com/2016/08/12/mounting-volumes-docker-swarm-1-12/
+```
 
 https://stackoverflow.com/questions/42672171/volume-is-not-shared-between-nodes-of-docker-swarm
 
@@ -32,7 +34,6 @@ Volumes created in docker swarm via default driver are local to the node. So if 
 Now in order to achieve bind mounts/volumes across multiple nodes you have these options:
 
 Use a cluster filesystem like glusterfs, ceph and ... across swarm nodes, then use bind mounts in your service defenition pointing to shared fs.
-
 
 Switch to Kubernetes and take advantage of automated volume provisioning using multiple backends via Storage classes and claims.
 http://storidge.com/blog/persistence-for-docker-swarm/

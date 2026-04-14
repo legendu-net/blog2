@@ -1,14 +1,14 @@
 ---
 title: The NeoVim Plugin for Visual Studio Code
 created: 2020-12-10 23:23:59
-date: 2026-04-13 23:15:09.718686
+date: 2026-04-13 23:27:58.874835
 authors:
   - bendu
 label: the-neovim-plugin-for-visual-studio-code
 license: CC-BY-4.0
 tags:
   - computer science
-  - Software
+  - software
   - NeoVim
   - IDE
   - Visual Studio Code

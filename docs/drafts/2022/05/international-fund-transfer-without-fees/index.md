@@ -1,13 +1,13 @@
 ---
-title: "International Fund Transfer Without Fees"
+title: International Fund Transfer Without Fees
 created: 2022-05-12 11:36:40
-date: 2022-05-12 11:36:40
+date: 2026-04-13 23:30:34.527039
 authors:
   - bendu
 label: international-fund-transfer-without-fees
 license: CC-BY-4.0
 tags:
-  - Life
+  - life
   - bank
   - fee
   - fund

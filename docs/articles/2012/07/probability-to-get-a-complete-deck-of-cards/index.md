@@ -1,13 +1,13 @@
 ---
 title: Probability to Get a Complete Deck of Cards?
 created: 2012-07-17 17:54:37
-date: 2026-04-11 22:10:43.363312
+date: 2026-04-13 23:33:06.845790
 authors:
   - bendu
 label: probability-to-get-a-complete-deck-of-cards
 license: CC-BY-4.0
 tags:
-  - statistics
+  - Statistics
   - recursion
   - probability
   - Mathematica

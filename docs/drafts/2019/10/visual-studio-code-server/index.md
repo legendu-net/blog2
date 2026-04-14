@@ -1,13 +1,13 @@
 ---
-title: "Visual Studio Code Server"
+title: Visual Studio Code Server
 created: 2019-10-24 11:28:44
-date: 2022-03-12 17:54:05
+date: 2026-04-13 23:28:01.344396
 authors:
   - bendu
 label: visual-studio-code-server
 license: CC-BY-4.0
 tags:
-  - Software
+  - software
   - Visual Studio Code
   - server
   - VS Code
@@ -18,19 +18,17 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
-
 ## Advanced Tips
 
-1. The option `--link`                 
-    allows you to securely bind code-server via Coder Cloud with the passed name. 
-    You'll get a URL like https://myname.coder-cloud.com 
-    at which you can easily access your code-server instance.
-    Authorization is done via GitHub.
+1. The option `--link`\
+   allows you to securely bind code-server via Coder Cloud with the passed name.
+   You'll get a URL like https://myname.coder-cloud.com
+   at which you can easily access your code-server instance.
+   Authorization is done via GitHub.
 
-2. [Hashed Password](https://github.com/cdr/code-server/blob/v3.8.0/doc/FAQ.md#can-i-store-my-password-hashed)
+1. [Hashed Password](https://github.com/cdr/code-server/blob/v3.8.0/doc/FAQ.md#can-i-store-my-password-hashed)
 
-3. [dclong/docker-vscode-server](https://github.com/dclong/docker-vscode-server)
+1. [dclong/docker-vscode-server](https://github.com/dclong/docker-vscode-server)
 
 ## Format Source Code
 
@@ -41,7 +39,7 @@ and
 [How do you format code on save in VS Code](https://stackoverflow.com/questions/39494277/how-do-you-format-code-on-save-in-vs-code)
 for more discussions.
 
-## Auto Activate Python Virtual Environment 
+## Auto Activate Python Virtual Environment
 
 [Auto activate virtual environment in Visual Studio Code](https://stackoverflow.com/questions/58433333/auto-activate-virtual-environment-in-visual-studio-code)
 
@@ -55,10 +53,9 @@ https://github.com/cdr/code-server/issues/965
 
 https://github.com/cdr/code-server/issues/148
 
-
 ## Extensions
 
-Please refer to 
+Please refer to
 [Useful Visual Studio Code Extensions](http://www.legendu.net/en/blog/useful-visual-studio-code-extensions)
 .
 

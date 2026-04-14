@@ -1,13 +1,13 @@
 ---
-title: "Tips on Tesla Model Y"
+title: Tips on Tesla Model Y
 created: 2024-04-15 10:38:43
-date: 2024-04-15 10:38:43
+date: 2026-04-13 23:30:31.593131
 authors:
   - bendu
 label: tips-on-tesla-model-y
 license: CC-BY-4.0
 tags:
-  - Life
+  - life
   - vehicle
   - car
   - sleep

@@ -1,13 +1,13 @@
 ---
-title: "Network in Docker Containers"
+title: Network in Docker Containers
 created: 2019-06-20 23:52:35
-date: 2020-10-20 23:52:35
+date: 2026-04-13 23:28:01.519128
 authors:
   - bendu
 label: network-in-docker-containers
 license: CC-BY-4.0
 tags:
-  - Software
+  - software
   - Docker container
   - network
   - DNS
@@ -16,20 +16,18 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-1. DNS is a common issue in Docker containers, 
-  especially behind a corporate firewall.
-  While the Linux way of handling DNS is to configure the file `/etc/resolv.conf` 
-  (or via other related configuration files or tools),
-  the Docker way is to pass DNS servers via the option `--dns`
-  (which will be added to `/etc/resolv.conf`) 
-  when starting the Docker container.
-  Multiple DNS servers can be passed using multiple `--dsn` options.
+1. DNS is a common issue in Docker containers,
+   especially behind a corporate firewall.
+   While the Linux way of handling DNS is to configure the file `/etc/resolv.conf`
+   (or via other related configuration files or tools),
+   the Docker way is to pass DNS servers via the option `--dns`
+   (which will be added to `/etc/resolv.conf`)
+   when starting the Docker container.
+   Multiple DNS servers can be passed using multiple `--dsn` options.
 
-
-2. Due to possible DNS issues in Docker containers, 
-  it is suggested that you use IP addresses instead of URL names where possible. 
-  Notably, `127.0.0.1` is preferred over `localhost` in various configure files (e.g., ProxyChains).
-
+1. Due to possible DNS issues in Docker containers,
+   it is suggested that you use IP addresses instead of URL names where possible.
+   Notably, `127.0.0.1` is preferred over `localhost` in various configure files (e.g., ProxyChains).
 
 ## Configure Proxy for Docker Containers
 
@@ -41,7 +39,7 @@ https://stackoverflow.com/questions/23111631/cannot-download-docker-images-behin
 
 https://docs.docker.com/config/daemon/systemd/
 
-If you set up http_proxy, https_proxy and restart the Docker daemon, 
+If you set up http_proxy, https_proxy and restart the Docker daemon,
 it should work.
 
 ## Docker Networks
@@ -51,8 +49,6 @@ it should work.
 [Docker Networking 101 – Host mode](http://www.dasblinkenlichten.com/docker-networking-101-host-mode/)
 
 [Use host networking](https://docs.docker.com/network/host/)
-
-
 
 ## References
 

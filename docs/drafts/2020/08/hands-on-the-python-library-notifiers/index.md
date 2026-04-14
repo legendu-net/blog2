@@ -1,14 +1,14 @@
 ---
 title: Hands on the Python Library notifiers
 created: 2020-08-03 15:46:20
-date: 2026-04-13 23:15:17.805167
+date: 2026-04-13 23:27:59.070236
 authors:
   - bendu
 label: hands-on-the-python-library-notifiers
 license: CC-BY-4.0
 tags:
   - computer science
-  - python
+  - Python
   - notifiers
   - notification
   - email

@@ -1,13 +1,13 @@
 ---
-title: "Tips on OpenFaaS"
+title: Tips on OpenFaaS
 created: 2020-02-10 09:39:25
-date: 2021-06-10 09:39:25
+date: 2026-04-13 23:28:00.077017
 authors:
   - bendu
 label: tips-on-openfaas
 license: CC-BY-4.0
 tags:
-  - Software
+  - software
   - Kubernetes
   - k8s
   - OpenFaaS
@@ -16,6 +16,7 @@ tags:
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+
 ## Tutorials
 
 https://blog.alexellis.io/quickstart-openfaas-cli/
@@ -34,14 +35,17 @@ Log in, deploy a function, and try out the UI.
 
 ### Install OpenFaaS CLI
 
-	:::bash
-	curl -sL https://cli.openfaas.com | sudo sh
+```
+:::bash
+curl -sL https://cli.openfaas.com | sudo sh
+```
 
 You can also use the following command to install faas-cli on macOS.
 
-	:::bash
-	brew install faas-cli
-
+```
+:::bash
+brew install faas-cli
+```
 
 faas-cli --help
 

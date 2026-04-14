@@ -1,13 +1,13 @@
 ---
-title: "Tips on Moss Control"
+title: Tips on Moss Control
 created: 2024-04-15 10:40:13
-date: 2024-04-15 10:40:13
+date: 2026-04-13 23:30:31.450184
 authors:
   - bendu
 label: tips-on-moss-control
 license: CC-BY-4.0
 tags:
-  - Life
+  - life
   - moss
   - control
   - baking soda

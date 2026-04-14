@@ -1,7 +1,7 @@
 ---
-title: "Low Risk Investments"
+title: Low Risk Investments
 created: 2024-01-23 01:07:54
-date: 2024-01-23 01:07:54
+date: 2026-04-13 23:27:57.895619
 authors:
   - bendu
 label: low-risk-investments
@@ -14,7 +14,7 @@ tags:
   - CD
   - treasury
   - T-Bills
-  - TIPS
+  - tips
   - Notes
   - bond
   - index fund
@@ -23,14 +23,13 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 ## Some (Almost) Risk-free Investments
 
-- [Money Market Fund]( https://www.legendu.net/misc/blog/diversified-investment#money-market-fund )
-    and ETF alternatives
-- [CDs]( https://www.legendu.net/misc/blog/tips-on-certified-deposit )
-- [Treasury T-Bills, TIPS, Notes, Bonds, Savings Bonds]( https://www.legendu.net/misc/blog/tips-on-investing-in-bonds )  
-    - I-bonds is desirable
+- [Money Market Fund](https://www.legendu.net/misc/blog/diversified-investment#money-market-fund)
+  and ETF alternatives
+- [CDs](https://www.legendu.net/misc/blog/tips-on-certified-deposit)
+- [Treasury T-Bills, TIPS, Notes, Bonds, Savings Bonds](https://www.legendu.net/misc/blog/tips-on-investing-in-bonds)
+  - I-bonds is desirable
 - High-yield Savings Accounts
 
 ## Some Low Risk Investments
@@ -38,4 +37,3 @@ tags:
 - Structure Notes
 - Index Fund
 - ETF
-

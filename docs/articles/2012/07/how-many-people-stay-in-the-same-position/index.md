@@ -1,14 +1,14 @@
 ---
 title: How Many People Stay in the Same Position?
 created: 2012-07-17 15:16:03
-date: 2026-04-11 22:10:43.960288
+date: 2026-04-13 23:33:07.319580
 authors:
   - bendu
 label: how-many-people-stay-in-the-same-position
 license: CC-BY-4.0
 tags:
   - same position
-  - statistics
+  - Statistics
   - probability
   - linear recursion
   - fun problems

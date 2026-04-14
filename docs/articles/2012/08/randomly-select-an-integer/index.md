@@ -1,14 +1,14 @@
 ---
 title: Randomly Select an Integer?!
 created: 2012-08-29 17:23:24
-date: 2026-04-11 22:09:15.297282
+date: 2026-04-13 23:33:05.886492
 authors:
   - bendu
 label: randomly-select-an-integer
 license: CC-BY-4.0
 tags:
   - random
-  - statistics
+  - Statistics
   - nature number
   - probability
   - relatively prime

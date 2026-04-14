@@ -1,13 +1,13 @@
 ---
-title: "Shopping Smartly"
+title: Shopping Smartly
 created: 2022-05-21 21:35:27
-date: 2025-12-17 12:26:40
+date: 2026-04-13 23:30:34.825143
 authors:
   - bendu
 label: shopping-smartly
 license: CC-BY-4.0
 tags:
-  - Life
+  - life
   - shop
   - shopping
   - smart
@@ -28,9 +28,9 @@ tags:
 ## General Tips
 
 1. ask for referral
-2. use rebate website such as [BeFrugal](https://www.befrugal.com/)
-3. look for discount code or coupons
-4. use credit card with cashback
+1. use rebate website such as [BeFrugal](https://www.befrugal.com/)
+1. look for discount code or coupons
+1. use credit card with cashback
 
 ## Discount
 
@@ -48,7 +48,7 @@ ASK WHETHER THEY PROVIDE ANY DISCOUNT!!!
 
 - [CamelCamelCamel - Amazon Price Tracker](https://camelcamelcamel.com/)
 
-## Shopping Assistants 
+## Shopping Assistants
 
 - [CapitalOne Shopping](https://capitaloneshopping.com/)
 
@@ -74,9 +74,13 @@ provides configurable laptops and desktops.
 ## Popular E-commerce Websites
 
 ### [Temu](Temu.com)
+
 ### [Amazon](www.amazon.com/)
+
 ### [Wayfair](https://www.wayfair.com/)
+
 ### [eBay](http://www.ebay.com/)
+
 [eBay Refurbished](https://www.ebay.com/b/Certified-Refurbished/bn_7040708936?_trkparms=%26clkid%3D2259258771560524076)
 
 ## References

@@ -1,13 +1,13 @@
 ---
-title: "Maintain Garage Doors"
+title: Maintain Garage Doors
 created: 2022-05-08 20:56:48
-date: 2025-07-31 11:09:51
+date: 2026-04-13 23:30:34.673027
 authors:
   - bendu
 label: maintain-garage-doors
 license: CC-BY-4.0
 tags:
-  - Life
+  - life
   - garage
   - door
   - lubricant
@@ -19,16 +19,14 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 [How To Lube A Garage Door](https://www.youtube.com/watch?v=Hy9RfXChbTw)
-
 
 Garage Door Lubricant
 
 ## Garage Door Opens But Won't Close
 
 1. clean sensors
-2. try to align sensors
+1. try to align sensors
 
 make sure that sensors show solid green lights
 
@@ -52,7 +50,6 @@ https://kaisergarage.com/garage-door-parts/
 
 https://www.garagedoorguys.biz/garage-door-parts
 
-## Reduce Dampness in Garage 
+## Reduce Dampness in Garage
 
 - [How to Reduce Condensation In Your Garage](https://www.garageliving.com/blog/how-to-reduce-condensation-in-your-garage)
-

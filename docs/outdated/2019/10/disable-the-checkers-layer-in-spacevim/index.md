@@ -1,13 +1,13 @@
 ---
-title: "Disable the Checkers Layer in SpaceVim"
+title: Disable the Checkers Layer in SpaceVim
 created: 2019-10-20 21:35:44
-date: 2025-04-25 03:42:52
+date: 2026-04-13 23:28:04.267587
 authors:
   - bendu
 label: disable-the-checkers-layer-in-spacevim
 license: CC-BY-4.0
 tags:
-  - Software
+  - software
   - SpaceVim
   - Vim
   - checkers
@@ -23,17 +23,21 @@ Check AstroVim instead.
 
 You can use the following command in SpaceVim to disable the `checkers` layer temporarily.
 
-    :::vim
-    let g:spacevim_lint_on_save = 0
+```
+:::vim
+let g:spacevim_lint_on_save = 0
+```
 
 If you want to disable the `checkers` layer permanently,
 add the following lines into your `init.toml` file.
 
-    [[layers]]
-    name = "checkers"
-    enable = false
+```
+[[layers]]
+name = "checkers"
+enable = false
+```
 
-It is suggested that you disable the `checkers` layer permanently 
+It is suggested that you disable the `checkers` layer permanently
 and use language server protocol (LSP) plugins instead
 as LSP plugins are better alternatives to the `checkers` layer.
 

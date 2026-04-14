@@ -1,14 +1,14 @@
 ---
 title: Build Docker Images on Kubernetes
 created: 2021-09-14 18:12:30
-date: 2026-04-13 23:14:10.634068
+date: 2026-04-13 23:27:56.719572
 authors:
   - bendu
 label: build-docker-images-on-kubernetes
 license: CC-BY-4.0
 tags:
   - computer science
-  - Software
+  - software
   - tools
   - Kubernetes
   - k8s
