@@ -23,7 +23,7 @@ tags:
 
 ### Tax Filing Tools
 
-[FreeTaxUsa](https://www.freetaxusa.com/),
+1. [FreeTaxUsa](https://www.freetaxusa.com/),
 [TurboTax](https://turbotax.intuit.com)
 and
 [HR Block](https://www.hrblock.com/)
@@ -33,6 +33,12 @@ According to
 ,
 [FreeTaxUsa](https://www.freetaxusa.com/)
 is a great choice.
+
+1. Some tax filing tools (e.g., TurboTax) support importing tax docs directly from users' financial accounts.
+  For more discussions,
+  please refer to
+  [How do I import my tax information into TurboTax or similar applications?](https://support.wealthfront.com/hc/en-us/articles/209367786-How-do-I-import-my-tax-information-into-TurboTax-or-similar-applications)
+  .
 
 ### Tax Deductions
 

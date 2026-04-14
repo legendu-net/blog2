@@ -3306,38 +3306,8 @@ site:
 - [Regression Classification ANOVA](regression-classification-anova)
 ```
 
-## Life | life
-```{dropdown} Click to expand/collapse 94 links
-- [Tax in US](tax-in-us)
-- [Living in Shanghai](living-in-shanghai)
-- [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
-- [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
-- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
-- [Tips on RV](tips-on-rv)
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Shopping Smartly](shopping-smartly)
-- [Maintain Garage Doors](maintain-garage-doors)
-- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
-- [Replace a Bathroom Fan](replace-a-bathroom-fan)
-- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
-- [Tips on Mount Rainer](tips-on-mount-rainer)
-- [Tips on Moss Control](tips-on-moss-control)
-- [Tips on Tesla Model Y](tips-on-tesla-model-y)
-- [Tips on Dishwasher](tips-on-dishwasher)
-- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
-- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
-- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
-- [Tips on Car Seat](tips-on-car-seat)
-- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
-- [Good Resources of News](good-resources-of-news)
-- [Tips on Job Seeking](tips-on-job-seeking)
-- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
-- [Understand Terms of Service Quickly](understand-terms-of-service-quickly)
-- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
-- [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
-- [Stop Spam Phone Calls](stop-spam-phone-calls)
-- [Building Permit](building-permit)
-- [Shopping on Costco](shopping-on-costco)
+## life | Life
+```{dropdown} Click to expand/collapse 93 links
 - [中国的公共交通服务](public-transportation-china)
 - [Misc Tips in Daily Life](misc-tips-in-daily-life)
 - [Tips on Smart Phone](tips-on-smart-phone)
@@ -3402,6 +3372,35 @@ site:
 - [Shopping At Homedepot](shopping-at-homedepot)
 - [Shunfeng Deliver](shunfeng-deliver)
 - [Saitek Rumble Force P2500](saitek-rumble-force-p2500)
+- [Living in Shanghai](living-in-shanghai)
+- [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
+- [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
+- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
+- [Tips on RV](tips-on-rv)
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Shopping Smartly](shopping-smartly)
+- [Maintain Garage Doors](maintain-garage-doors)
+- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
+- [Replace a Bathroom Fan](replace-a-bathroom-fan)
+- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
+- [Tips on Mount Rainer](tips-on-mount-rainer)
+- [Tips on Moss Control](tips-on-moss-control)
+- [Tips on Tesla Model Y](tips-on-tesla-model-y)
+- [Tips on Dishwasher](tips-on-dishwasher)
+- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
+- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
+- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
+- [Tips on Car Seat](tips-on-car-seat)
+- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
+- [Good Resources of News](good-resources-of-news)
+- [Tips on Job Seeking](tips-on-job-seeking)
+- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
+- [Understand Terms of Service Quickly](understand-terms-of-service-quickly)
+- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
+- [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
+- [Stop Spam Phone Calls](stop-spam-phone-calls)
+- [Building Permit](building-permit)
+- [Shopping on Costco](shopping-on-costco)
 ```
 
 ## Java
@@ -4468,6 +4467,39 @@ site:
 - [Differences Between Kotlin and Java](differences-between-kotlin-and-java)
 ```
 
+## investment | Investment
+```{dropdown} Click to expand/collapse 29 links
+- [Tax in US](tax-in-us)
+- [Investment](investment)
+- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
+- [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
+- [Tips on Brokerage](tips-on-brokerage)
+- [Tips on Earnings Report](tips-on-earnings-report)
+- [Quant Trading](quant-trading)
+- [Shorting the Market](shorting-the-market)
+- [Tips on Investing in Structure Notes](tips-on-investing-in-structure-notes)
+- [Tips on Money Market Fund](tips-on-money-market-fund)
+- [Tips on Robinhood](tips-on-robinhood)
+- [Tips on Pattern Day Trading](tips-on-pattern-day-trading)
+- [Foreign Currency Investment](foreign-currency-investment)
+- [Diversified Investment](diversified-investment)
+- [Low Risk Investments](low-risk-investments)
+- [Tips on Fidelity](tips-on-fidelity)
+- [Tips on Certified Deposit](tips-on-certified-deposit)
+- [Rust for Financial Investment](rust-for-financial-investment)
+- [Tips on Retirement](tips-on-retirement)
+- [Tips on Charles Schwab](tips-on-charles-schwab)
+- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
+- [Taxes on Investment Gains](taxes-on-investment-gains)
+- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
+- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
+- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
+- [Tips on Wash Sale](tips-on-wash-sale)
+- [Tips on Lumibot](tips-on-lumibot)
+- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
+- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
+```
+
 ## network | Network
 ```{dropdown} Click to expand/collapse 29 links
 - [Local Network Access on macOS](local-network-access-on-macos)
@@ -4628,38 +4660,6 @@ site:
 - [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
 - [Tips on Jupyter Binder](tips-on-jupyter-binder)
 - [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
-```
-
-## investment | Investment
-```{dropdown} Click to expand/collapse 28 links
-- [Investment](investment)
-- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
-- [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
-- [Tips on Brokerage](tips-on-brokerage)
-- [Tips on Earnings Report](tips-on-earnings-report)
-- [Quant Trading](quant-trading)
-- [Shorting the Market](shorting-the-market)
-- [Tips on Investing in Structure Notes](tips-on-investing-in-structure-notes)
-- [Tips on Money Market Fund](tips-on-money-market-fund)
-- [Tips on Robinhood](tips-on-robinhood)
-- [Tips on Pattern Day Trading](tips-on-pattern-day-trading)
-- [Foreign Currency Investment](foreign-currency-investment)
-- [Diversified Investment](diversified-investment)
-- [Low Risk Investments](low-risk-investments)
-- [Tips on Fidelity](tips-on-fidelity)
-- [Tips on Certified Deposit](tips-on-certified-deposit)
-- [Rust for Financial Investment](rust-for-financial-investment)
-- [Tips on Retirement](tips-on-retirement)
-- [Tips on Charles Schwab](tips-on-charles-schwab)
-- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
-- [Taxes on Investment Gains](taxes-on-investment-gains)
-- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
-- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
-- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
-- [Tips on Wash Sale](tips-on-wash-sale)
-- [Tips on Lumibot](tips-on-lumibot)
-- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
-- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
 ```
 
 ## fun problems
@@ -5440,6 +5440,25 @@ site:
 - [Tips on Mercedes-Benz](tips-on-mercedes-benz)
 ```
 
+## finance | Finance
+```{dropdown} Click to expand/collapse 15 links
+- [Tax in US](tax-in-us)
+- [Tips on Empower](tips-on-empower)
+- [Investment](investment)
+- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Claim Your Forgotten Money](claim-your-forgotten-money)
+- [Tips on Credit Report](tips-on-credit-report)
+- [Tips on Buying a House](tips-on-buying-a-house)
+- [Tips on Brokerage](tips-on-brokerage)
+- [Understanding Paychecks](understanding-paychecks)
+- [Tips on eTrade](tips-on-etrade)
+- [Rust for Financial Investment](rust-for-financial-investment)
+- [Financial Data](financial-data)
+- [Tips on Certified Deposit](tips-on-certified-deposit)
+- [Good Accounting Tools](good-accounting-tools)
+```
+
 ## file system
 ```{dropdown} Click to expand/collapse 15 links
 - [Watching Filesystem Changes Using "inotify"](watching-filesystem-changes-using-inotify)
@@ -5627,24 +5646,6 @@ site:
 - [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
 - [Tips on Google Ads](tips-on-google-ads)
 - [Tips on Google Spreadsheet](tips-on-google-spreadsheet)
-```
-
-## finance | Finance
-```{dropdown} Click to expand/collapse 14 links
-- [Tips on Empower](tips-on-empower)
-- [Investment](investment)
-- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Claim Your Forgotten Money](claim-your-forgotten-money)
-- [Tips on Credit Report](tips-on-credit-report)
-- [Tips on Buying a House](tips-on-buying-a-house)
-- [Tips on Brokerage](tips-on-brokerage)
-- [Understanding Paychecks](understanding-paychecks)
-- [Tips on eTrade](tips-on-etrade)
-- [Rust for Financial Investment](rust-for-financial-investment)
-- [Financial Data](financial-data)
-- [Tips on Certified Deposit](tips-on-certified-deposit)
-- [Good Accounting Tools](good-accounting-tools)
 ```
 
 ## Pillow
