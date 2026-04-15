@@ -25,7 +25,8 @@ import yaml
 AnyPath: TypeAlias = str | Path
 Number: TypeAlias = int | float
 BASE_DIR = Path(__file__).resolve().parent
-SPELLS = BASE_DIR / "spells.yml"
+SPELLS_TITLE = BASE_DIR / "spells_title.yml"
+SPELLS_TAG = BASE_DIR / "spells_tag.yml"
 ARTICLES = "articles"
 DRAFTS = "drafts"
 OUTDATED = "outdated"
@@ -52,16 +53,24 @@ Record = namedtuple("Record", POSTS_COLS)
 
 
 @cache
-def read_spells() -> dict[str, str]:
-    with SPELLS.open("r", encoding="utf-8") as fin:
+def _read_spells(path: Path) -> dict[str, str]:
+    with path.open("r", encoding="utf-8") as fin:
         return yaml.load(fin, Loader=yaml.FullLoader)
 
 
-def add_spells(pairs: Iterable[tuple[str, str]]) -> None:
-    spells = list(read_spells().items())
+def read_spells_title() -> dict[str, str]:
+    return _read_spells(SPELLS_TITLE)
+
+
+def read_spells_tag() -> dict[str, str]:
+    return _read_spells(SPELLS_TAG)
+
+
+def add_spells_title(pairs: Iterable[tuple[str, str]]) -> None:
+    spells = list(read_spells_title().items())
     spells.extend(pairs)
     spells.sort(key=lambda x: x[0])
-    with SPELLS.open("w", encoding="utf-8") as fout:
+    with SPELLS_TITLE.open("w", encoding="utf-8") as fout:
         yaml.dump(dict(spells), fout)
 
 
@@ -127,7 +136,7 @@ def format_title(title):
     # it sounds better to use regex.
     # Easier to just update words.json to use regex.
     title = title.title()
-    for origin, replace in read_spells().items():
+    for origin, replace in read_spells_title().items():
         title = title.replace(f" {origin} ", f" {replace} ")
         if title.startswith(origin + " "):
             title = title.replace(origin + " ", replace + " ")
@@ -284,7 +293,21 @@ class Post:
     def mdformat(self):
         sp.run(f"uv run mdformat {self.path}", shell=True)
 
+    def _reg_tags(self) -> None:
+        kvs = read_spells_tag()
+        tags = []
+        for t in self.metadata["tags"]:
+            if not t:
+                continue
+            tag = kvs.get(t, t)
+            if isinstance(tag, list):
+                tags.extend(tag)
+            else:
+                tags.append(tag)
+        self.update_meta_field({"tags": tags})
+
     def _write(self):
+        self._reg_tags()
         if self.is_markdown:
             with self.path.open("w", encoding="utf-8") as fout:
                 fout.writelines(self._metadata_lines())
@@ -331,11 +354,11 @@ class Post:
         """Check whether the post is essentially empty."""
         return all(line.strip() == "" for line in self.lines)
 
-    def format_tags(self) -> str:
+    def concat_tags(self) -> str:
         return TAG_SEPARATOR + TAG_SEPARATOR.join(self.metadata["tags"]) + TAG_SEPARATOR
 
     def record(self) -> Record:
-        tags = self.format_tags()
+        tags = self.concat_tags()
         content = self.metadata["title"] + "\n" + tags + "\n" + "".join(self.lines)
         return Record(
             str(self.path),
@@ -604,7 +627,7 @@ class Blogger:
             self.update_records(
                 table=self.POSTS,
                 paths=path,
-                kvs={"tags": post.format_tags()},
+                kvs={"tags": post.concat_tags()},
             )
 
     def insert_records(

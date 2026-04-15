@@ -11,7 +11,7 @@ from blogger import (
     DRAFTS,
     OUTDATED,
     Blogger,
-    add_spells as _add_spells,
+    add_spells_title as _add_spells_title,
     get_vim,
     get_code,
     get_editor,
@@ -299,10 +299,10 @@ def edit(blogger, args):
     blogger.commit()
 
 
-def add_spells(_, args):
+def add_spells_title(_, args):
     if len(args.words) % 2:
         raise ValueError("Words for spell corrections must be in pairs.")
-    _add_spells(it.batched(args.words, 2))
+    _add_spells_title(it.batched(args.words, 2))
 
 
 def add_refs(blogger, args):
@@ -678,18 +678,18 @@ def _subparse_edit(subparsers):
     subparser_edit.set_defaults(func=edit)
 
 
-def _subparse_add_spells(subparsers):
+def _subparse_add_spells_title(subparsers):
     desc = "Add spell corrections."
-    subparser_add_spells = subparsers.add_parser(
-        "add_spells",
-        aliases=["as"],
+    subparser_add_spells_title = subparsers.add_parser(
+        "add_spells_title",
+        aliases=["ast"],
         help=desc,
         description=desc,
     )
-    subparser_add_spells.add_argument(
+    subparser_add_spells_title.add_argument(
         "words", nargs="+", help="Word pairs in the format w1 c1 w2 c2..."
     )
-    subparser_add_spells.set_defaults(func=add_spells)
+    subparser_add_spells_title.set_defaults(func=add_spells_title)
 
 
 def _subparse_add_refs(subparsers):
@@ -899,7 +899,7 @@ def parse_args(args=None, namespace=None) -> Namespace:
     _subparse_add(subparsers)
     _subparse_edit(subparsers)
     _subparse_add_refs(subparsers)
-    _subparse_add_spells(subparsers)
+    _subparse_add_spells_title(subparsers)
     _subparse_vim(subparsers)
     _subparse_move(subparsers)
     _subparse_auto(subparsers)
