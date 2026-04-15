@@ -62,8 +62,10 @@ def read_spells_title() -> dict[str, str]:
     return _read_spells(SPELLS_TITLE)
 
 
-def read_spells_tag() -> dict[str, str]:
-    return _read_spells(SPELLS_TAG)
+def read_spells_tag() -> dict[str, str] | dict[str, str | list[str]]:
+    kvs = _read_spells(SPELLS_TITLE)
+    kvs.update(_read_spells(SPELLS_TAG))
+    return kvs
 
 
 def add_spells_title(pairs: Iterable[tuple[str, str]]) -> None:

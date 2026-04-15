@@ -13,13 +13,13 @@ Latex: LaTeX
 LaTex: LaTeX
 git: Git 
 Hardware: hardware
-"command-line": "command line"
+'command-line': 'command line'
 Database: database 
 windows: Windows
 Network: network 
 Investment: investment 
 pytorch: PyTorch 
-"Computer Vision": "computer vision"
+'Computer Vision': 'computer vision'
 os: OS 
 Shell: shell 
 ERROR: error 
@@ -29,15 +29,168 @@ GoLANG: golang
 GoLang: golang
 Web: web 
 docker: Docker 
-"Deep Learning": "deep learning" 
+'Deep Learning': 'deep learning' 
 statistics: Statistics
-"Data Science": "data science" 
+'Data Science': 'data science' 
 Life: life
 python: Python 
 Software: software 
 linux: Linux 
 Ai: AI 
 TIPS: tips
-"Computer Science": "computer science"
+'Computer Science': 'computer science'
 Programming: programming
 'Mac OSX': macOS
+'Spark issue': [Spark, issue]
+'spark issue': [Spark, issue]
+ssh: SSH
+Go: golang 
+go: golang
+Map: map 
+Vehicle: vehicle 
+cargo: Cargo
+App: app 
+bash: Bash
+PATH: path
+Path: path
+virtualbox: VirtualBox
+FileSystem: filesystem
+Series: series
+NeoVim: Neovim
+Graph: graph
+Index: index
+Concurrency: concurrency
+'docker image': [Docker, image]
+'Docker image': [Docker, image]
+'Jupyter Notebook': [Jupyter, notebook]
+'Jupyter notebook': [Jupyter, notebook]
+Work: work
+html: HTML
+json: JSON
+Vector: vector
+IOT: IoT
+DateTime: datetime
+zeppelin: Zeppelin
+Office: office
+Mac: macOS
+mac: macOS
+Copy: copy
+Set: set
+http: HTTP
+actions: Actions
+arrow: Arrow
+Atomic: atomic
+Research: research
+SBT: sbt
+HOME: home
+Spreadsheet: spreadsheet
+Hyper: hyper
+Range: range
+Construct: construct
+Hashmap: hashmap
+HashMap: hashmap
+Scikit-learn: scikit-learn
+ipython: IPython
+vnc: VNC
+Poker: poker
+'cloud IDE': [Cloud, IDE]
+'Cloud IDE': [Cloud, IDE]
+Enum: enum
+Tuple: tuple
+Hashtable: hashtable
+HashTable: hashtable
+'Static Site Generator': 'static site generator'
+myst: MyST
+nodejs: NodeJS
+yarn: YARN
+pyarrow: PyArrow
+Search Engine: search engine
+Virtual Machine: virtual machine
+cli: CLI
+protocol buffer: Protocol Buffer
+mojo: Mojo
+Fish: fish
+hadoop: Hadoop
+gradle: Gradle
+Project Management: project management
+pickle: Pickle
+torchvision: TorchVision
+dask: Dask
+none: None
+fs: filesystem
+FS: filesystem
+Trait: trait
+leetcode: LeetCode
+GroupBy: "group by"
+groupby: "group by"
+'include!': include
+Ads: ads
+sphinx: Sphinx
+pex: PEX
+TinyProxy: tinyproxy
+flask: Flask
+redis: Redis
+ci: CI
+apache arrow: Apache Arrow
+outlook: Outlook
+verizon: Verizon
+Wine: WINE
+pinyin: Pinyin
+Source: source
+escape: Escape
+PyQT5: PyQt5
+Graphics: graphics
+Tex Live: TeX Live
+Bus: bus
+Homedepot: 'Home Depot'
+HomeDepot: 'Home Depot'
+Cloud9: cloud9
+Minikube: minikube
+Notes: notes
+AirFlow: Airflow
+vaex: Vaex
+Clone: clone
+Box: box
+Sync: sync
+Entry: entry
+TMP: tmp
+jpype: JPype
+env: ENV
+pyinstaller: PyInstaller
+gatsby: Gatsby
+django: Django
+Home Assistant: home assistant
+dulwich: Dulwich
+Cell: cell
+grub: GRUB
+zellij: Zellij
+ffi: FFI
+flamegraph: FlameGraph
+ByteHound: Bytehound
+kcachegrind: KCachegrind
+LUA: Lua
+clippy: Clippy
+GraphViz: Graphviz
+gcc: GCC
+out of memory: out-of-memory
+gpg: GPG
+TexStudio: TeXstudio
+playwright: PlayWright
+Stream: stream
+jedi: Jedi
+vec: Vec
+gsl: GSL
+queryscope: QueryScope
+queryScope: QueryScope
+nfs: NFS
+teamdrive: TeamDrive
+QT: Qt
+'Apache AirFlow': [Apache, Airflow]
+'Apache Airflow': [Apache, Airflow]
+TableSample: TABLESAMPLE
+ExFAT: exFAT
+eclipse: Eclipse
+Shortcut: shortcut
+transformer: Transformer
+Switch: switch
+Vocabulary: vocabulary

@@ -6,6 +6,72 @@ site:
 
 ## programming
 ```{dropdown} Click to expand/collapse 1028 links
+- [List in Kotlin](list-in-kotlin)
+- [Sort a List in Kotlin](sort-a-list-in-kotlin)
+- [Collections in Kotlin](collections-in-kotlin)
+- [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
+- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
+- [Writing Docs Using Markdown](writing-docs-using-markdown)
+- [Visual Studio Code for Java Development](visual-studio-code-for-java-development)
+- [Visual Studio Code for Scala Development](visual-studio-code-for-scala-development)
+- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
+- [Tips on Valgrind](tips-on-valgrind)
+- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+- [Array in Scala](array-in-scala)
+- [Array in Kotlin](array-in-kotlin)
+- [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
+- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
+- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
+- [Mercurial for Git Users](mercurial-for-git-users)
+- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
+- [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
+- [Parsing Command-line Arguments in Rust](parsing-command-line-arguments-in-rust)
+- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
+- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [Show Image in Terminal](show-image-in-terminal)
+- [Great Command Line Tools Developed in Rust](great-command-line-tools-developed-in-rust)
+- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
+- [Tips on MySQL](tips-on-mysql)
+- [Configure Log4J for Spark](configure-log4j-for-spark)
+- [Manipulate Strings Using the `strings` Module in Golang](manipulate-strings-using-the-strings-module-in-golang)
+- [Tips on Golang](tips-on-golang)
+- [Strings in Golang Are UTF-8](strings-in-golang-are-utf-8)
+- [String in Golang](string-in-golang)
+- [Run System Command in Go](run-system-command-in-go)
+- [Hands on the Standard Library HTTP in Golang](hands-on-the-standard-library-http-in-golang)
+- [Hands on Array in Golang](hands-on-array-in-golang)
+- [Get Information of User in Golang](get-information-of-user-in-golang)
+- [Format Strings in Golang](format-strings-in-golang)
+- [Embed File in Golang Binary](embed-file-in-golang-binary)
+- [Get Directory Information in Golang](get-directory-information-in-golang)
+- [Tuple in Golang](tuple-in-golang)
+- [Set in Golang](set-in-golang)
+- [Serialize and Deserialize JSON in Golang](serialize-and-deserialize-json-in-golang)
+- [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
+- [Map in Golang](map-in-golang)
+- [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
+- [Loop in Golang](loop-in-golang)
+- [Hands on the filepath Library in Golang](hands-on-the-filepath-library-in-golang)
+- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
+- [Get the Type of OS in Golang](get-the-type-of-os-in-golang)
+- [Get Hardware Information in Golang](get-hardware-information-in-golang)
+- [Check Whether a Path Exists in Golang](check-whether-a-path-exists-in-golang)
+- [Check Whether a File Is a Socket in Golang](check-whether-a-file-is-a-socket-in-golang)
+- [Parse TOML Files in Golang](parse-toml-files-in-golang)
+- [Ordered Map in Golang](ordered-map-in-golang)
+- [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
+- [Run Commands on Remote Machines](run-commands-on-remote-machines)
+- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
+- [Parallel Computing in Shell](parallel-computing-in-shell)
+- [Use the Watch Command to Monitor Running Applications](use-the-watch-command-to-monitor-running-applications)
+- [Rust and Spark](rust-and-spark)
+- [Sudo: No TTY Present and No AskPass Program Specified](sudo-no-tty-present-and-no-askpass-program-specified)
+- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
+- [Useful Golang Packages](useful-golang-packages)
+- [IPython Is the Best Shell](ipython-is-the-best-shell)
+- [Special Characters to Avoid in Strings](special-characters-to-avoid-in-strings)
 - [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
 - [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
 - [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
@@ -13,7 +79,6 @@ site:
 - [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
 - [GPU for Web](gpu-for-web)
 - [Rust Error: error[E0554]: `#![feature]` May Not Be Used on the Stable Release Channel](rust-error-error-e0554-feature-may-not-be-used-on-the-stable-release-channel)
-- [Manipulate Strings Using the `strings` Module in Golang](manipulate-strings-using-the-strings-module-in-golang)
 - [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args-0-from-__newobj__-args-has-the-wrong-class)
 - [SQL Style And Formatter](sql-style-and-formatter)
 - [Hands on the psutil Module in Python](hands-on-the-psutil-module-in-python)
@@ -73,7 +138,6 @@ site:
 - [Rust Crate Log](rust-crate-log)
 - [Hands on the Tracing Crate in Rust](hands-on-the-tracing-crate-in-rust)
 - [Hands on the Python Library pdfplumber](hands-on-the-python-library-pdfplumber)
-- [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
 - [Special Numbers in Python](special-numbers-in-python)
 - [Multiple Lines on the Same Plot Using hvplot](multiple-lines-on-the-same-plot-using-hvplot)
 - [Generating Random Numbers in Rust](generating-random-numbers-in-rust)
@@ -82,10 +146,8 @@ site:
 - [Tips on Datafusion](tips-on-datafusion)
 - [Reshape Numpy Arrays](reshape-numpy-arrays)
 - [Read and Write CSV Files in Rust](read-and-write-csv-files-in-rust)
-- [Parsing Command-line Arguments in Rust](parsing-command-line-arguments-in-rust)
 - [Hands on the Polars Crate in Rust](hands-on-the-polars-crate-in-rust)
 - [Use of Mock Values in Rust](use-of-mock-values-in-rust)
-- [Configure Log4J for Spark](configure-log4j-for-spark)
 - [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
 - [Hands on the Deque Collection in Python](hands-on-the-deque-collection-in-python)
 - [Handle Categorical Variables in LightGBM](handle-categorical-variables-in-lightgbm)
@@ -104,41 +166,14 @@ site:
 - [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
 - [Count Ones in the Binary Represeantion of Integers](count-ones-in-the-binary-represeantion-of-integers)
 - [Construct Polars DataFrames in Rust](construct-polars-dataframes-in-rust)
-- [Tips on Golang](tips-on-golang)
-- [Strings in Golang Are UTF-8](strings-in-golang-are-utf-8)
-- [String in Golang](string-in-golang)
-- [Run System Command in Go](run-system-command-in-go)
-- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
-- [Hands on the Standard Library HTTP in Golang](hands-on-the-standard-library-http-in-golang)
-- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
 - [Hands on JavaScript](hands-on-javascript)
-- [Hands on Array in Golang](hands-on-array-in-golang)
-- [Get Information of User in Golang](get-information-of-user-in-golang)
-- [Format Strings in Golang](format-strings-in-golang)
-- [Embed File in Golang Binary](embed-file-in-golang-binary)
 - [Handle Duplicated Keys in serde_yaml in Rust](handle-duplicated-keys-in-serde_yaml-in-rust)
-- [Get Directory Information in Golang](get-directory-information-in-golang)
-- [Tuple in Golang](tuple-in-golang)
-- [Set in Golang](set-in-golang)
-- [Serialize and Deserialize JSON in Golang](serialize-and-deserialize-json-in-golang)
 - [Send and Sync in Rust](send-and-sync-in-rust)
 - [Run Shell Command in Rust](run-shell-command-in-rust)
 - [Print Colored Text in Terminal in Rust](print-colored-text-in-terminal-in-rust)
-- [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
-- [Map in Golang](map-in-golang)
-- [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
-- [Loop in Golang](loop-in-golang)
 - [Integers in Golang](integers-in-golang)
 - [Hands on the Glob Crate in Rust](hands-on-the-glob-crate-in-rust)
-- [Hands on the filepath Library in Golang](hands-on-the-filepath-library-in-golang)
-- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
-- [Get the Type of OS in Golang](get-the-type-of-os-in-golang)
-- [Get Hardware Information in Golang](get-hardware-information-in-golang)
-- [Check Whether a Path Exists in Golang](check-whether-a-path-exists-in-golang)
-- [Check Whether a File Is a Socket in Golang](check-whether-a-file-is-a-socket-in-golang)
 - [Cast Types of Columns in Pandas](cast-types-of-columns-in-pandas)
-- [Parse TOML Files in Golang](parse-toml-files-in-golang)
-- [Ordered Map in Golang](ordered-map-in-golang)
 - [Common Type of Iterators in Rust](common-type-of-iterators-in-rust)
 - [Rustdef Makes It Dead Simple to Call Rust in Python Notebook](rustdef-makes-it-dead-simple-to-call-rust-in-python-notebook)
 - [Memory Layout of Enum in Rust](memory-layout-of-enum-in-rust)
@@ -152,8 +187,6 @@ site:
 - [Read CSV Files Using Polars in Rust](read-csv-files-using-polars-in-rust)
 - [Memory Layout in Rust](memory-layout-in-rust)
 - [Hash Password Using Python](hash-password-using-python)
-- [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
-- [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
 - [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
 - [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
 - [Hands on the Rust Crate lru](hands-on-the-rust-crate-lru)
@@ -165,7 +198,6 @@ site:
 - [Visualization of GBDT in scikit-learn](visualization-of-gbdt-in-scikit-learn)
 - [fit_transform vs transform in scikit-learn](fit_transform-vs-transform-in-scikit-learn)
 - [Categorical Data in Pandas](categorical-data-in-pandas)
-- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
 - [Amazon AWS EC2 Instances](amazon-aws-ec2-instances)
 - [Convert PDF to Image Using Python](convert-pdf-to-image-using-python)
 - [Tips on the jupyter-ai Extension](tips-on-the-jupyter-ai-extension)
@@ -249,12 +281,10 @@ site:
 - [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
 - [Tips on Rustfmt](tips-on-rustfmt)
 - [Tips on Pytorch-Lightning](tips-on-pytorch-lightning)
-- [Rust and Spark](rust-and-spark)
 - [Python Modules for Date and Time](python-modules-for-date-and-time)
 - [General Tips on Debugging](general-tips-on-debugging)
 - [Document Rust APIs](document-rust-apis)
 - [Benchmark a Rust App](benchmark-a-rust-app)
-- [Sudo: No TTY Present and No AskPass Program Specified](sudo-no-tty-present-and-no-askpass-program-specified)
 - [Zellij Is the Best Terminal Multiplexer](zellij-is-the-best-terminal-multiplexer)
 - [Yarn for Spark](yarn-for-spark)
 - [Summary of Collections in Rust](summary-of-collections-in-rust)
@@ -304,7 +334,6 @@ site:
 - [Website for Making Profile Pictures](website-for-making-profile-pictures)
 - [Unit Test in Rust](unit-test-in-rust)
 - [Tips on crosvm](tips-on-crosvm)
-- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
 - [Lua Bindings for Rust](lua-bindings-for-rust)
 - [Global Data in Rust](global-data-in-rust)
 - [Engine and Runtime for JavaScript](engine-and-runtime-for-javascript)
@@ -313,7 +342,6 @@ site:
 - [Tips on ValeLang](tips-on-valelang)
 - [Get OS and Architecture Information in Shell](get-os-and-architecture-information-in-shell)
 - [Garbage Collection for Rust](garbage-collection-for-rust)
-- [Useful Golang Packages](useful-golang-packages)
 - [Tips on Two Factor Authentication](tips-on-two-factor-authentication)
 - [Tips on BigQuery](tips-on-bigquery)
 - [Shell Command Parser](shell-command-parser)
@@ -342,7 +370,6 @@ site:
 - [Tips on Apache Beam](tips-on-apache-beam)
 - [Rust for Backend Development](rust-for-backend-development)
 - [Protobuf Implementations in Rust](protobuf-implementations-in-rust)
-- [Mercurial for Git Users](mercurial-for-git-users)
 - [Verify Rust Code](verify-rust-code)
 - [Tools for Design and Prototyping](tools-for-design-and-prototyping)
 - [Tips on WASM](tips-on-wasm)
@@ -352,8 +379,6 @@ site:
 - [Popular General Purpose Language Parsers](popular-general-purpose-language-parsers)
 - [Popular Answer Engines](popular-answer-engines)
 - [Polyglot Runtimes](polyglot-runtimes)
-- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
-- [Great Command Line Tools Developed in Rust](great-command-line-tools-developed-in-rust)
 - [Good Webassembly Tools](good-webassembly-tools)
 - [Good Tech Blogs](good-tech-blogs)
 - [Good Choices of Reverse Proxies](good-choices-of-reverse-proxies)
@@ -371,7 +396,6 @@ site:
 - [Useful Rust Crates for Bit Manipulations](useful-rust-crates-for-bit-manipulations)
 - [Useful Algorithms Implemented in Rust](useful-algorithms-implemented-in-rust)
 - [Tools for Drone](tools-for-drone)
-- [Tips on Valgrind](tips-on-valgrind)
 - [Speed Up Rust Compile Time](speed-up-rust-compile-time)
 - [Serialization and Deserialization in Rust](serialization-and-deserialization-in-rust)
 - [Rust for Robots](rust-for-robots)
@@ -379,7 +403,6 @@ site:
 - [Rust for Financial Investment](rust-for-financial-investment)
 - [Rust Crates for Tracing and Logging](rust-crates-for-tracing-and-logging)
 - [Rust Crates for RPC](rust-crates-for-rpc)
-- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
 - [Parser Generators](parser-generators)
 - [Format Python Code Using Black](format-python-code-using-black)
 - [Foreign Language Integration in Rust](foreign-language-integration-in-rust)
@@ -487,14 +510,12 @@ site:
 - [Install Dropbox Using Flatpak](install-dropbox-using-flatpak)
 - [Use Shared Folders in VirtualBox](use-shared-folders-in-virtualbox)
 - [Universal Blue Atomic Linux Distributions](universal-blue-atomic-linux-distributions)
-- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
 - [Tips on Toolbx](tips-on-toolbx)
 - [Managing Fedora Atomic Core System Using rpm-ostree](managing-fedora-atomic-core-system-using-rpm-ostree)
 - [Install VirtualBox Guest Additions](install-virtualbox-guest-additions)
 - [Check for Existence of Commands in the Fish Shell](check-for-existence-of-commands-in-the-fish-shell)
 - [Change the Default Shell in Linux](change-the-default-shell-in-linux)
 - [Atomic Linux Distributions](atomic-linux-distributions)
-- [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
 - [Extracting PDF Pages Using the Python Package PyPDF](extracting-pdf-pages-using-the-python-package-pypdf)
 - [Unpacking Assignment in Python](unpacking-assignment-in-python)
 - [Work with Long Strings in Python](work-with-long-strings-in-python)
@@ -538,7 +559,6 @@ site:
 - [Hands on the re.match object in Python](hands-on-the-re.match-object-in-python)
 - [Hands on the Python submodule os.path](hands-on-the-python-submodule-os.path)
 - [Hands on the json Module in Python](hands-on-the-json-module-in-python)
-- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
 - [Spark Issue: java.lang.OutOfMemoryError](spark-issue-java.lang.outofmemoryerror)
 - [Tips for VB/VB.net](tips-for-vb-vb.net)
 - [Split String into Rows in SQL](split-string-into-rows-in-sql)
@@ -558,7 +578,6 @@ site:
 - [Read/Write CSV in Spark](read-write-csv-in-spark)
 - [Read/Write TSV in Spark](read-write-tsv-in-spark)
 - [Read/Write Parquet Files in Spark](read-write-parquet-files-in-spark)
-- [Array in Scala](array-in-scala)
 - [Hands on the urllib Module in Python](hands-on-the-urllib-module-in-python)
 - [Pivot Table in pandas DataFrame](pivot-table-in-pandas-dataframe)
 - [Options for the pandas Package in Python](options-for-the-pandas-package-in-python)
@@ -571,13 +590,9 @@ site:
 - [OOP in Kotlin](oop-in-kotlin)
 - [Named Arguments in Kotlin](named-arguments-in-kotlin)
 - [Misc Tips on Kotlin](misc-tips-on-kotlin)
-- [List in Kotlin](list-in-kotlin)
-- [Sort a List in Kotlin](sort-a-list-in-kotlin)
 - [Iterator in Kotlin](iterator-in-kotlin)
 - [Hashmap in Kotlin](hashmap-in-kotlin)
-- [Collections in Kotlin](collections-in-kotlin)
 - [Bitwise Operators in Kotlin](bitwise-operators-in-kotlin)
-- [Array in Kotlin](array-in-kotlin)
 - [Format String in Java](format-string-in-java)
 - [Set in Java](set-in-java)
 - [Round/Format Numbers in Java](round-format-numbers-in-java)
@@ -718,7 +733,6 @@ site:
 - [Operators in Different Programming Languages](operators-in-different-programming-languages)
 - [Online Tools for Popular Programming Languages](online-tools-for-popular-programming-languages)
 - [Parallel and Concurrency Programming in C++11](parallel-and-concurrency-programming-in-c++11)
-- [Writing Docs Using Markdown](writing-docs-using-markdown)
 - [Good C++ Libraries](good-c++-libraries)
 - [Const and Static Variables in C++](const-and-static-variables-in-c++)
 - [Tips on FFmpeg](tips-on-ffmpeg)
@@ -748,7 +762,6 @@ site:
 - [Scala Dependencies for SBT](scala-dependencies-for-sbt)
 - [Tips on Python Flask](tips-on-python-flask)
 - [Connect to MySQL Using PyMySQL](connect-to-mysql-using-pymysql)
-- [Tips on MySQL](tips-on-mysql)
 - [Cluster Management Made Easy with the Python Package Fabric](cluster-management-made-easy-with-the-python-package-fabric)
 - [Null, None and Alike in Scala](null-none-and-alike-in-scala)
 - [Use Qt in Python](use-qt-in-python)
@@ -779,7 +792,6 @@ site:
 - [Ensure Capturing Log of Applications](ensure-capturing-log-of-applications)
 - [Tips on Rust](tips-on-rust)
 - [General Tips on Logging](general-tips-on-logging)
-- [Visual Studio Code for Java Development](visual-studio-code-for-java-development)
 - [Spark Issue: Unable to Find Encoder Type](spark-issue-unable-to-find-encoder-type)
 - [Spark Issue: Too Large Table for Auto BroadcastHashJoin](spark-issue-too-large-table-for-auto-broadcasthashjoin)
 - [Spark Issue: Timeout When Communicate With Driver During Shuffle Caused by Driver OOM](spark-issue-timeout-when-communicate-with-driver-during-shuffle-caused-by-driver-oom)
@@ -788,7 +800,6 @@ site:
 - [Spark Issue: InvalidInputException for Some Hive Data Partitions](spark-issue-invalidinputexception-for-some-hive-data-partitions)
 - [Tips on PyQt5](tips-on-pyqt5)
 - [Return a New Object Or Mutate the Existing Object](return-a-new-object-or-mutate-the-existing-object)
-- [Visual Studio Code for Scala Development](visual-studio-code-for-scala-development)
 - [Install Kotlin](install-kotlin)
 - [RecurssionError in Python](recurssionerror-in-python)
 - [The JAVA_HOME Environment Variable](the-java_home-environment-variable)
@@ -820,14 +831,11 @@ site:
 - [Concurrency and Parallel Computing in Python](concurrency-and-parallel-computing-in-python)
 - [Union RDDs in Spark](union-rdds-in-spark)
 - [Install Python Packages Using pip](install-python-packages-using-pip)
-- [Special Characters to Avoid in Strings](special-characters-to-avoid-in-strings)
 - [Quickly Create a Scala Project Using Gradle in Intellij IDEA](quickly-create-a-scala-project-using-gradle-in-intellij-idea)
 - [Python Alternatives to Shell](python-alternatives-to-shell)
-- [Visual Studio Code for Python](visual-studio-code-for-python)
 - [Differences Between Vector and ArrayList in Java](differences-between-vector-and-arraylist-in-java)
 - [Check Whether an Email Address Is Valid in Java](check-whether-an-email-address-is-valid-in-java)
 - [Abuse of Vector in R](abuse-of-vector-in-r)
-- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
 - [Lvalue Reference and Rvalue Reference](lvalue-reference-and-rvalue-reference)
 - [An IO Bug in R](an-io-bug-in-r)
 - [String in C++11](string-in-c++11)
@@ -852,9 +860,7 @@ site:
 - [Batch GitHub Repository Operations Using GitHub Rest API](batch-github-repository-operations-using-github-rest-api)
 - [WaveTerm Is the Best Terminal App](waveterm-is-the-best-terminal-app)
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
-- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
 - [Tips on Matplotlib](tips-on-matplotlib)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
 - [Tips on npm](tips-on-npm)
 - [Python Tips and Traps](python-tips-and-traps)
 - [Python Distribution](python-distribution)
@@ -867,7 +873,6 @@ site:
 - [Software Version Management Tools](software-version-management-tools)
 - [Commonly Used File Formats for Configuration](commonly-used-file-formats-for-configuration)
 - [Python Modules for Visualization](python-modules-for-visualization)
-- [IPython Is the Best Shell](ipython-is-the-best-shell)
 - [Set Environment Varibles in IPython](set-environment-varibles-in-ipython)
 - [SQL Database Client-server Protocols](sql-database-client-server-protocols)
 - [SQL Equivalent](sql-equivalent)
@@ -889,7 +894,6 @@ site:
 - [VirtualBox API](virtualbox-api)
 - [Packaging Python Dependencies for PySpark Using Pex](packaging-python-dependencies-for-pyspark-using-pex)
 - [Deploy Apache Ray](deploy-apache-ray)
-- [Show Image in Terminal](show-image-in-terminal)
 - [Exception and Error Handling in Python](exception-and-error-handling-in-python)
 - [Python for Desktop Applications](python-for-desktop-applications)
 - [Tips on Apache Ray](tips-on-apache-ray)
@@ -907,8 +911,6 @@ site:
 - [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
 - [String in Python](string-in-python)
 - [Python Logging](python-logging)
-- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
-- [Run Commands on Remote Machines](run-commands-on-remote-machines)
 - [Hands on SQLite3](hands-on-sqlite3)
 - [Data for Testing](data-for-testing)
 - [A Collection of Cheatsheets](a-collection-of-cheatsheets)
@@ -933,7 +935,6 @@ site:
 - [Use the ulimit Command to Control the Stack Size](use-the-ulimit-command-to-control-the-stack-size)
 - [Tips on Darknet and Yolo](tips-on-darknet-and-yolo)
 - [Build Spark from Source](build-spark-from-source)
-- [Use the Watch Command to Monitor Running Applications](use-the-watch-command-to-monitor-running-applications)
 - [Python Build Tools](python-build-tools)
 - [Tips on VirtualVM](tips-on-virtualvm)
 - [Tips on Kaggle](tips-on-kaggle)
@@ -990,7 +991,6 @@ site:
 - [Tips on Spark MLlib](tips-on-spark-mllib)
 - [Deep Learning Tools and Apps](deep-learning-tools-and-apps)
 - [Check Whether a File Exists in Spark](check-whether-a-file-exists-in-spark)
-- [Parallel Computing in Shell](parallel-computing-in-shell)
 - [General Tips for LaTeX](general-tips-for-latex)
 - [Make a Business Card](make-a-business-card)
 - [Add Method to a Python Class](add-method-to-a-python-class)
@@ -1038,6 +1038,56 @@ site:
 
 ## computer science
 ```{dropdown} Click to expand/collapse 753 links
+- [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
+- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
+- [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
+- [Tips on Jupyter-Book](tips-on-jupyter-book)
+- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
+- [Tips on Valgrind](tips-on-valgrind)
+- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
+- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
+- [Tips on Deno](tips-on-deno)
+- [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
+- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
+- [Mercurial for Git Users](mercurial-for-git-users)
+- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
+- [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
+- [Parsing Command-line Arguments in Rust](parsing-command-line-arguments-in-rust)
+- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
+- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
+- [Great Command Line Tools Developed in Rust](great-command-line-tools-developed-in-rust)
+- [Configure Log4J for Spark](configure-log4j-for-spark)
+- [Manipulate Strings Using the `strings` Module in Golang](manipulate-strings-using-the-strings-module-in-golang)
+- [Tips on Golang](tips-on-golang)
+- [Strings in Golang Are UTF-8](strings-in-golang-are-utf-8)
+- [String in Golang](string-in-golang)
+- [Run System Command in Go](run-system-command-in-go)
+- [Hands on the Standard Library HTTP in Golang](hands-on-the-standard-library-http-in-golang)
+- [Hands on Array in Golang](hands-on-array-in-golang)
+- [Get Information of User in Golang](get-information-of-user-in-golang)
+- [Format Strings in Golang](format-strings-in-golang)
+- [Embed File in Golang Binary](embed-file-in-golang-binary)
+- [Get Directory Information in Golang](get-directory-information-in-golang)
+- [Tuple in Golang](tuple-in-golang)
+- [Set in Golang](set-in-golang)
+- [Serialize and Deserialize JSON in Golang](serialize-and-deserialize-json-in-golang)
+- [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
+- [Map in Golang](map-in-golang)
+- [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
+- [Loop in Golang](loop-in-golang)
+- [Hands on the filepath Library in Golang](hands-on-the-filepath-library-in-golang)
+- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
+- [Get the Type of OS in Golang](get-the-type-of-os-in-golang)
+- [Get Hardware Information in Golang](get-hardware-information-in-golang)
+- [Check Whether a Path Exists in Golang](check-whether-a-path-exists-in-golang)
+- [Check Whether a File Is a Socket in Golang](check-whether-a-file-is-a-socket-in-golang)
+- [Parse TOML Files in Golang](parse-toml-files-in-golang)
+- [Ordered Map in Golang](ordered-map-in-golang)
+- [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
+- [Rust and Spark](rust-and-spark)
+- [Sudo: No TTY Present and No AskPass Program Specified](sudo-no-tty-present-and-no-askpass-program-specified)
+- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
+- [Useful Golang Packages](useful-golang-packages)
 - [GPU for Web](gpu-for-web)
 - [Pretrained Deep Learning Models](pretrained-deep-learning-models)
 - [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
@@ -1046,7 +1096,6 @@ site:
 - [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
 - [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
 - [Rust Error: error[E0554]: `#![feature]` May Not Be Used on the Stable Release Channel](rust-error-error-e0554-feature-may-not-be-used-on-the-stable-release-channel)
-- [Manipulate Strings Using the `strings` Module in Golang](manipulate-strings-using-the-strings-module-in-golang)
 - [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args-0-from-__newobj__-args-has-the-wrong-class)
 - [Convert Web Pages to PDF Using Python](convert-web-pages-to-pdf-using-python)
 - [Speed up Python Using Native Code](speed-up-python-using-native-code)
@@ -1152,7 +1201,6 @@ site:
 - [Rust Crate Log](rust-crate-log)
 - [Hands on the Tracing Crate in Rust](hands-on-the-tracing-crate-in-rust)
 - [Hands on the Python Library pdfplumber](hands-on-the-python-library-pdfplumber)
-- [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
 - [Rip Is rm Improved](rip-is-rm-improved)
 - [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
 - [Special Numbers in Python](special-numbers-in-python)
@@ -1163,10 +1211,8 @@ site:
 - [Tips on Datafusion](tips-on-datafusion)
 - [Reshape Numpy Arrays](reshape-numpy-arrays)
 - [Read and Write CSV Files in Rust](read-and-write-csv-files-in-rust)
-- [Parsing Command-line Arguments in Rust](parsing-command-line-arguments-in-rust)
 - [Hands on the Polars Crate in Rust](hands-on-the-polars-crate-in-rust)
 - [Use of Mock Values in Rust](use-of-mock-values-in-rust)
-- [Configure Log4J for Spark](configure-log4j-for-spark)
 - [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
 - [Hands on the Deque Collection in Python](hands-on-the-deque-collection-in-python)
 - [Handle Categorical Variables in LightGBM](handle-categorical-variables-in-lightgbm)
@@ -1185,41 +1231,14 @@ site:
 - [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
 - [Count Ones in the Binary Represeantion of Integers](count-ones-in-the-binary-represeantion-of-integers)
 - [Construct Polars DataFrames in Rust](construct-polars-dataframes-in-rust)
-- [Tips on Golang](tips-on-golang)
-- [Strings in Golang Are UTF-8](strings-in-golang-are-utf-8)
-- [String in Golang](string-in-golang)
-- [Run System Command in Go](run-system-command-in-go)
-- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
-- [Hands on the Standard Library HTTP in Golang](hands-on-the-standard-library-http-in-golang)
-- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
 - [Hands on JavaScript](hands-on-javascript)
-- [Hands on Array in Golang](hands-on-array-in-golang)
-- [Get Information of User in Golang](get-information-of-user-in-golang)
-- [Format Strings in Golang](format-strings-in-golang)
-- [Embed File in Golang Binary](embed-file-in-golang-binary)
 - [Handle Duplicated Keys in serde_yaml in Rust](handle-duplicated-keys-in-serde_yaml-in-rust)
-- [Get Directory Information in Golang](get-directory-information-in-golang)
-- [Tuple in Golang](tuple-in-golang)
-- [Set in Golang](set-in-golang)
-- [Serialize and Deserialize JSON in Golang](serialize-and-deserialize-json-in-golang)
 - [Send and Sync in Rust](send-and-sync-in-rust)
 - [Run Shell Command in Rust](run-shell-command-in-rust)
 - [Print Colored Text in Terminal in Rust](print-colored-text-in-terminal-in-rust)
-- [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
-- [Map in Golang](map-in-golang)
-- [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
-- [Loop in Golang](loop-in-golang)
 - [Integers in Golang](integers-in-golang)
 - [Hands on the Glob Crate in Rust](hands-on-the-glob-crate-in-rust)
-- [Hands on the filepath Library in Golang](hands-on-the-filepath-library-in-golang)
-- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
-- [Get the Type of OS in Golang](get-the-type-of-os-in-golang)
-- [Get Hardware Information in Golang](get-hardware-information-in-golang)
-- [Check Whether a Path Exists in Golang](check-whether-a-path-exists-in-golang)
-- [Check Whether a File Is a Socket in Golang](check-whether-a-file-is-a-socket-in-golang)
 - [Cast Types of Columns in Pandas](cast-types-of-columns-in-pandas)
-- [Parse TOML Files in Golang](parse-toml-files-in-golang)
-- [Ordered Map in Golang](ordered-map-in-golang)
 - [Common Type of Iterators in Rust](common-type-of-iterators-in-rust)
 - [Rustdef Makes It Dead Simple to Call Rust in Python Notebook](rustdef-makes-it-dead-simple-to-call-rust-in-python-notebook)
 - [Memory Layout of Enum in Rust](memory-layout-of-enum-in-rust)
@@ -1233,8 +1252,6 @@ site:
 - [Read CSV Files Using Polars in Rust](read-csv-files-using-polars-in-rust)
 - [Memory Layout in Rust](memory-layout-in-rust)
 - [Hash Password Using Python](hash-password-using-python)
-- [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
-- [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
 - [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
 - [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
 - [Hands on the Rust Crate lru](hands-on-the-rust-crate-lru)
@@ -1246,7 +1263,6 @@ site:
 - [Visualization of GBDT in scikit-learn](visualization-of-gbdt-in-scikit-learn)
 - [fit_transform vs transform in scikit-learn](fit_transform-vs-transform-in-scikit-learn)
 - [Categorical Data in Pandas](categorical-data-in-pandas)
-- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
 - [Amazon AWS EC2 Instances](amazon-aws-ec2-instances)
 - [Convert PDF to Image Using Python](convert-pdf-to-image-using-python)
 - [Tips on the jupyter-ai Extension](tips-on-the-jupyter-ai-extension)
@@ -1294,7 +1310,6 @@ site:
 - [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
 - [Upgrade Release of Ubuntu](upgrade-release-of-ubuntu)
 - [Tips on Google Ads](tips-on-google-ads)
-- [Tips on Deno](tips-on-deno)
 - [Tips on Delta Lake](tips-on-delta-lake)
 - [Tips on Blogging](tips-on-blogging)
 - [JIT and Domain Specific Compilers](jit-and-domain-specific-compilers)
@@ -1310,7 +1325,6 @@ site:
 - [Tips on XFinity](tips-on-xfinity)
 - [Shell in Docker](shell-in-docker)
 - [Online Practices for SQL](online-practices-for-sql)
-- [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
 - [Logging in PySpark](logging-in-pyspark)
 - [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
 - [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
@@ -1337,7 +1351,6 @@ site:
 - [Ads Platforms](ads-platforms)
 - [Tips on Facebook Ads](tips-on-facebook-ads)
 - [Tips on pre-commit](tips-on-pre-commit)
-- [Tips on Jupyter-Book](tips-on-jupyter-book)
 - [Tips on GitHub Actions](tips-on-github-actions)
 - [Serialization and deserialization in Python](serialization-and-deserialization-in-python)
 - [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
@@ -1462,7 +1475,6 @@ site:
 - [Benchmark of Popular Deep Learning Models](benchmark-of-popular-deep-learning-models)
 - [Tips on Rustfmt](tips-on-rustfmt)
 - [Tips on Pytorch-Lightning](tips-on-pytorch-lightning)
-- [Rust and Spark](rust-and-spark)
 - [Python Modules for Date and Time](python-modules-for-date-and-time)
 - [General Tips on Debugging](general-tips-on-debugging)
 - [FTP on Linux](ftp-on-linux)
@@ -1470,7 +1482,6 @@ site:
 - [Document Rust APIs](document-rust-apis)
 - [Data for Learning to Rank](data-for-learning-to-rank)
 - [Benchmark a Rust App](benchmark-a-rust-app)
-- [Sudo: No TTY Present and No AskPass Program Specified](sudo-no-tty-present-and-no-askpass-program-specified)
 - [Zellij Is the Best Terminal Multiplexer](zellij-is-the-best-terminal-multiplexer)
 - [Yarn for Spark](yarn-for-spark)
 - [Summary of Collections in Rust](summary-of-collections-in-rust)
@@ -1522,7 +1533,6 @@ site:
 - [Website for Making Profile Pictures](website-for-making-profile-pictures)
 - [Unit Test in Rust](unit-test-in-rust)
 - [Tips on crosvm](tips-on-crosvm)
-- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
 - [Lua Bindings for Rust](lua-bindings-for-rust)
 - [Global Data in Rust](global-data-in-rust)
 - [Expose Local Service to Public](expose-local-service-to-public)
@@ -1532,7 +1542,6 @@ site:
 - [Tips on ValeLang](tips-on-valelang)
 - [Get OS and Architecture Information in Shell](get-os-and-architecture-information-in-shell)
 - [Garbage Collection for Rust](garbage-collection-for-rust)
-- [Useful Golang Packages](useful-golang-packages)
 - [Tips on Two Factor Authentication](tips-on-two-factor-authentication)
 - [Tips on BigQuery](tips-on-bigquery)
 - [Shell Command Parser](shell-command-parser)
@@ -1565,7 +1574,6 @@ site:
 - [Screen Reader Tools](screen-reader-tools)
 - [Rust for Backend Development](rust-for-backend-development)
 - [Protobuf Implementations in Rust](protobuf-implementations-in-rust)
-- [Mercurial for Git Users](mercurial-for-git-users)
 - [Verify Rust Code](verify-rust-code)
 - [Tools for Design and Prototyping](tools-for-design-and-prototyping)
 - [Tips on WASM](tips-on-wasm)
@@ -1575,8 +1583,6 @@ site:
 - [Popular General Purpose Language Parsers](popular-general-purpose-language-parsers)
 - [Popular Answer Engines](popular-answer-engines)
 - [Polyglot Runtimes](polyglot-runtimes)
-- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
-- [Great Command Line Tools Developed in Rust](great-command-line-tools-developed-in-rust)
 - [Good Webassembly Tools](good-webassembly-tools)
 - [Good Tech Blogs](good-tech-blogs)
 - [Good Choices of Reverse Proxies](good-choices-of-reverse-proxies)
@@ -1594,7 +1600,6 @@ site:
 - [Useful Rust Crates for Bit Manipulations](useful-rust-crates-for-bit-manipulations)
 - [Useful Algorithms Implemented in Rust](useful-algorithms-implemented-in-rust)
 - [Tools for Drone](tools-for-drone)
-- [Tips on Valgrind](tips-on-valgrind)
 - [Speed Up Rust Compile Time](speed-up-rust-compile-time)
 - [Serialization and Deserialization in Rust](serialization-and-deserialization-in-rust)
 - [Rust for Robots](rust-for-robots)
@@ -1602,7 +1607,6 @@ site:
 - [Rust for Financial Investment](rust-for-financial-investment)
 - [Rust Crates for Tracing and Logging](rust-crates-for-tracing-and-logging)
 - [Rust Crates for RPC](rust-crates-for-rpc)
-- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
 - [Parser Generators](parser-generators)
 - [Format Python Code Using Black](format-python-code-using-black)
 - [Foreign Language Integration in Rust](foreign-language-integration-in-rust)
@@ -1685,7 +1689,6 @@ site:
 - [Tips on AstroNvim](tips-on-astronvim)
 - [The fzf Command Is a Great Alternative to find](the-fzf-command-is-a-great-alternative-to-find)
 - [Set Up Nix for Python Development](set-up-nix-for-python-development)
-- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
 - [Manage Python Projects Using uv](manage-python-projects-using-uv)
 - [Tips on the Dia Browser](tips-on-the-dia-browser)
 - [Tips on Terraform](tips-on-terraform)
@@ -1720,14 +1723,12 @@ site:
 - [Install Dropbox Using Flatpak](install-dropbox-using-flatpak)
 - [Use Shared Folders in VirtualBox](use-shared-folders-in-virtualbox)
 - [Universal Blue Atomic Linux Distributions](universal-blue-atomic-linux-distributions)
-- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
 - [Tips on Toolbx](tips-on-toolbx)
 - [Managing Fedora Atomic Core System Using rpm-ostree](managing-fedora-atomic-core-system-using-rpm-ostree)
 - [Install VirtualBox Guest Additions](install-virtualbox-guest-additions)
 - [Check for Existence of Commands in the Fish Shell](check-for-existence-of-commands-in-the-fish-shell)
 - [Change the Default Shell in Linux](change-the-default-shell-in-linux)
 - [Atomic Linux Distributions](atomic-linux-distributions)
-- [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
 - [User Printers and Scanners on Linux](user-printers-and-scanners-on-linux)
 - [Extracting PDF Pages Using the Python Package PyPDF](extracting-pdf-pages-using-the-python-package-pypdf)
 - [Unpacking Assignment in Python](unpacking-assignment-in-python)
@@ -1784,7 +1785,6 @@ site:
 - [Web Automation and Testing Using PlayWright](web-automation-and-testing-using-playwright)
 - [Save a Web Page as a Single File in Chrome](save-a-web-page-as-a-single-file-in-chrome)
 - [Local Network Access on macOS](local-network-access-on-macos)
-- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
 - [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
 - [Batch GitHub Repository Operations Using GitHub Rest API](batch-github-repository-operations-using-github-rest-api)
 - [Convert PDF to Word](convert-pdf-to-word)
@@ -1795,12 +1795,21 @@ site:
 
 ## Python
 ```{dropdown} Click to expand/collapse 355 links
+- [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+- [Tips on IDE](tips-on-ide)
+- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
+- [Tips on MySQL](tips-on-mysql)
+- [Run Commands on Remote Machines](run-commands-on-remote-machines)
+- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
+- [IPython Is the Best Shell](ipython-is-the-best-shell)
 - [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
 - [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
 - [Summary on Random Number Generators](summary-on-random-number-generators)
 - [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
 - [Cluster Management Made Easy with Ansible](cluster-management-made-easy-with-ansible)
-- [Tips on IDE](tips-on-ide)
 - [Tips on Blender](tips-on-blender)
 - [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
 - [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
@@ -1865,7 +1874,6 @@ site:
 - [Dealing With Environment Variables in Python](dealing-with-environment-variables-in-python)
 - [Read CSV Using Polars in Python](read-csv-using-polars-in-python)
 - [Hash Password Using Python](hash-password-using-python)
-- [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
 - [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
 - [Tree-Based Models in scikit-learn](tree-based-models-in-scikit-learn)
 - [Get Location of Max Value in a Pandas Series](get-location-of-max-value-in-a-pandas-series)
@@ -1958,7 +1966,6 @@ site:
 - [Hands on the re.match object in Python](hands-on-the-re.match-object-in-python)
 - [Hands on the Python submodule os.path](hands-on-the-python-submodule-os.path)
 - [Hands on the json Module in Python](hands-on-the-json-module-in-python)
-- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
 - [Get the Version of Python](get-the-version-of-python)
 - [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
 - [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
@@ -2054,7 +2061,6 @@ site:
 - [Connect to Databases Using pyodbc in Python](connect-to-databases-using-pyodbc-in-python)
 - [Tips on Python Flask](tips-on-python-flask)
 - [Connect to MySQL Using PyMySQL](connect-to-mysql-using-pymysql)
-- [Tips on MySQL](tips-on-mysql)
 - [Cluster Management Made Easy with the Python Package Fabric](cluster-management-made-easy-with-the-python-package-fabric)
 - [Use Qt in Python](use-qt-in-python)
 - [Tips on ANTLR4](tips-on-antlr4)
@@ -2090,20 +2096,16 @@ site:
 - [Install Python Packages Using pip](install-python-packages-using-pip)
 - [Python Alternatives to Shell](python-alternatives-to-shell)
 - [Install Python in macOS](install-python-in-macos)
-- [Visual Studio Code for Python](visual-studio-code-for-python)
 - [String in Different Programming Languages](string-in-different-programming-languages)
 - [Automated Phone Bill Using Ruby Program](automated-phone-bill-using-ruby-program)
 - [Regular Expression Equivalent](regular-expression-equivalent)
 - [Process Big Data Using PySpark](process-big-data-using-pyspark)
-- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
 - [Tips on Matplotlib](tips-on-matplotlib)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
 - [Python Tips and Traps](python-tips-and-traps)
 - [Bootstrap Resampling in Python](bootstrap-resampling-in-python)
 - [Python pandas Tips](python-pandas-tips)
 - [High Performance Computing in Python](high-performance-computing-in-python)
 - [Python Modules for Visualization](python-modules-for-visualization)
-- [IPython Is the Best Shell](ipython-is-the-best-shell)
 - [SQL Database Client-server Protocols](sql-database-client-server-protocols)
 - [Calling Rust from Python](calling-rust-from-python)
 - [Tips on PyTorch](tips-on-pytorch)
@@ -2116,8 +2118,6 @@ site:
 - [Tips on pex](tips-on-pex)
 - [String in Python](string-in-python)
 - [Python Logging](python-logging)
-- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
-- [Run Commands on Remote Machines](run-commands-on-remote-machines)
 - [Python in Browser](python-in-browser)
 - [Java Interfaces for Python](java-interfaces-for-python)
 - [The eval Function in Python](the-eval-function-in-python)
@@ -2154,6 +2154,13 @@ site:
 
 ## software
 ```{dropdown} Click to expand/collapse 200 links
+- [Tips on Visual Studio Code](tips-on-visual-studio-code)
+- [Visual Studio Code Server](visual-studio-code-server)
+- [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
+- [Tips on IDE](tips-on-ide)
+- [IDEs for LaTeX](ides-for-latex)
+- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
+- [Convert PDF to EPS](convert-pdf-to-eps)
 - [Tips on Excel](tips-on-excel)
 - [Firebug Is Awsome](firebug-is-awsome)
 - [Environment Variables in Docker](environment-variables-in-docker)
@@ -2170,13 +2177,11 @@ site:
 - [Docker on Mac](docker-on-mac)
 - [Linux Network Tools](linux-network-tools)
 - [Managing Projects Using ProjectLibre](managing-projects-using-projectlibre)
-- [Tips on IDE](tips-on-ide)
 - [Git Large File Storage](git-large-file-storage)
 - [Tips on Kubernetes](tips-on-kubernetes)
 - [The Absolutely Best App for Taking Notes](the-absolutely-best-app-for-taking-notes)
 - [Online Image Storage](online-image-storage)
 - [Network in Docker Containers](network-in-docker-containers)
-- [Visual Studio Code Server](visual-studio-code-server)
 - [Tips on Jupyter Binder](tips-on-jupyter-binder)
 - [Tips on Google Colab](tips-on-google-colab)
 - [Tips on Git Submodule](tips-on-git-submodule)
@@ -2194,7 +2199,6 @@ site:
 - [Tips on MuMu App Player](tips-on-mumu-app-player)
 - [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
 - [Tips on KeepassXC](tips-on-keepassxc)
-- [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
 - [Trust a JupyterLab Notebook](trust-a-jupyterlab-notebook)
 - [Fix Microphone Problem of Skype in Debian](fix-microphone-problem-of-skype-in-debian)
 - [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
@@ -2267,7 +2271,6 @@ site:
 - [Tips on httpd](tips-on-httpd)
 - [Tips on dbeaver](tips-on-dbeaver)
 - [Application Tracking Using OpenCats](application-tracking-using-opencats)
-- [IDEs for LaTeX](ides-for-latex)
 - [Games for Linux](games-for-linux)
 - [Tips on Elasticsearch](tips-on-elasticsearch)
 - [Docker Images for OS](docker-images-for-os)
@@ -2278,7 +2281,6 @@ site:
 - [Tips on GetPocket](tips-on-getpocket)
 - [Generating a Self-Signed SSL](generating-a-self-signed-ssl)
 - [Install Packages Using Homebrew on macOS and Linux](install-packages-using-homebrew-on-macos-and-linux)
-- [Tips on Visual Studio Code](tips-on-visual-studio-code)
 - [Use wget with Proxy](use-wget-with-proxy)
 - [Block JavaScript in Browsers Using NoScript](block-javascript-in-browsers-using-noscript)
 - [Selectively Disable Vimperator on Webpages](selectively-disable-vimperator-on-webpages)
@@ -2307,7 +2309,6 @@ site:
 - [Video Conference Tools](video-conference-tools)
 - [WeChat Questions](wechat-questions)
 - [Dashboard Solutions](dashboard-solutions)
-- [Convert PDF to EPS](convert-pdf-to-eps)
 - [Schedule Cron Tasks in a Docker Container](schedule-cron-tasks-in-a-docker-container)
 - [The Non-Zero Exit Code 137 While Building a Docker Image](the-non-zero-exit-code-137-while-building-a-docker-image)
 - [Tips on Creating Docker Images](tips-on-creating-docker-images)
@@ -2337,7 +2338,6 @@ site:
 - [Docker Images for Zeppelin](docker-images-for-zeppelin)
 - [Use Git Behind a Proxy](use-git-behind-a-proxy)
 - [Fail to Install Packages into Python Virtual Environment in PyCharm on Windows](fail-to-install-packages-into-python-virtual-environment-in-pycharm-on-windows)
-- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
 - [Cool Mobile Apps](cool-mobile-apps)
 - [Docker Images for Visualization](docker-images-for-visualization)
 - [Docker Images for Synchronization](docker-images-for-synchronization)
@@ -2358,6 +2358,12 @@ site:
 
 ## Rust
 ```{dropdown} Click to expand/collapse 189 links
+- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
+- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
+- [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
+- [Parsing Command-line Arguments in Rust](parsing-command-line-arguments-in-rust)
+- [Great Command Line Tools Developed in Rust](great-command-line-tools-developed-in-rust)
+- [Rust and Spark](rust-and-spark)
 - [Rust Error: error[E0554]: `#![feature]` May Not Be Used on the Stable Release Channel](rust-error-error-e0554-feature-may-not-be-used-on-the-stable-release-channel)
 - [Speed up Python Using Native Code](speed-up-python-using-native-code)
 - [Rust for Frontend Development](rust-for-frontend-development)
@@ -2385,14 +2391,12 @@ site:
 - [Sealed Trait in Rust](sealed-trait-in-rust)
 - [Rust Crate Log](rust-crate-log)
 - [Hands on the Tracing Crate in Rust](hands-on-the-tracing-crate-in-rust)
-- [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
 - [Rip Is rm Improved](rip-is-rm-improved)
 - [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
 - [Generating Random Numbers in Rust](generating-random-numbers-in-rust)
 - [Hands on the Polars Library in Python](hands-on-the-polars-library-in-python)
 - [Tips on Datafusion](tips-on-datafusion)
 - [Read and Write CSV Files in Rust](read-and-write-csv-files-in-rust)
-- [Parsing Command-line Arguments in Rust](parsing-command-line-arguments-in-rust)
 - [Hands on the Polars Crate in Rust](hands-on-the-polars-crate-in-rust)
 - [Use of Mock Values in Rust](use-of-mock-values-in-rust)
 - [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
@@ -2417,7 +2421,6 @@ site:
 - [Hands on the Rust Crate lru](hands-on-the-rust-crate-lru)
 - [Cow in Rust](cow-in-rust)
 - [include! Is a Macro with Dark Power](include-is-a-macro-with-dark-power)
-- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
 - [Tips on RustPython](tips-on-rustpython)
 - [Develop a GUI Application in Rust](develop-a-gui-application-in-rust)
 - [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
@@ -2439,7 +2442,6 @@ site:
 - [Database Clients for Rust](database-clients-for-rust)
 - [Rust for Game Development](rust-for-game-development)
 - [Tips on Rustfmt](tips-on-rustfmt)
-- [Rust and Spark](rust-and-spark)
 - [Document Rust APIs](document-rust-apis)
 - [Benchmark a Rust App](benchmark-a-rust-app)
 - [Zellij Is the Best Terminal Multiplexer](zellij-is-the-best-terminal-multiplexer)
@@ -2469,7 +2471,6 @@ site:
 - [Verify Rust Code](verify-rust-code)
 - [Tips on Rust Clippy](tips-on-rust-clippy)
 - [Tips on mdBook](tips-on-mdbook)
-- [Great Command Line Tools Developed in Rust](great-command-line-tools-developed-in-rust)
 - [Good Webassembly Tools](good-webassembly-tools)
 - [CICD for Rust](cicd-for-rust)
 - [Async in Rust](async-in-rust)
@@ -2490,7 +2491,6 @@ site:
 - [Rust for Financial Investment](rust-for-financial-investment)
 - [Rust Crates for Tracing and Logging](rust-crates-for-tracing-and-logging)
 - [Rust Crates for RPC](rust-crates-for-rpc)
-- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
 - [Foreign Language Integration in Rust](foreign-language-integration-in-rust)
 - [Dev Tools for Rust](dev-tools-for-rust)
 - [Design Pattern and Productivity for Rust](design-pattern-and-productivity-for-rust)
@@ -2551,8 +2551,11 @@ site:
 
 ## Linux
 ```{dropdown} Click to expand/collapse 140 links
-- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
+- [Ways to Make a Bootable Flash Drive in Linux](ways-to-make-a-bootable-flash-drive-in-linux)
 - [Copying Files in Linux](copying-files-in-linux)
+- [Use the Watch Command to Monitor Running Applications](use-the-watch-command-to-monitor-running-applications)
+- [Convert PDF to EPS](convert-pdf-to-eps)
+- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
 - [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
 - [Linux Network Tools](linux-network-tools)
 - [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
@@ -2642,7 +2645,6 @@ site:
 - [Power Settings in Linux with GNOME Desktop](power-settings-in-linux-with-gnome-desktop)
 - [Tips on Installing Debian Series of Linux Distributions](tips-on-installing-debian-series-of-linux-distributions)
 - [Make Linux Run Faster](make-linux-run-faster)
-- [Ways to Make a Bootable Flash Drive in Linux](ways-to-make-a-bootable-flash-drive-in-linux)
 - [Operate Remote Servers Using SSH](operate-remote-servers-using-ssh)
 - [Create a Temporary File in Linux](create-a-temporary-file-in-linux)
 - [PCIe BUS Error: Severity=Corrected, Type=Physical Layer](pcie-bus-error-severity-corrected-type-physical-layer)
@@ -2654,7 +2656,6 @@ site:
 - [Reduce GRUB Timeout](reduce-grub-timeout)
 - [Benchmark Your Linux Machine Using phoronix-test-suite](benchmark-your-linux-machine-using-phoronix-test-suite)
 - [Things to Do After Installing Linux](things-to-do-after-installing-linux)
-- [Convert PDF to EPS](convert-pdf-to-eps)
 - [Install the Latest Version of Python in Ubuntu](install-the-latest-version-of-python-in-ubuntu)
 - [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
 - [Fonts for Linux](fonts-for-linux)
@@ -2671,7 +2672,6 @@ site:
 - [Remote Desktop Using NoMachine on Linux](remote-desktop-using-nomachine-on-linux)
 - [User Access Control on Linux](user-access-control-on-linux)
 - [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
-- [Use the Watch Command to Monitor Running Applications](use-the-watch-command-to-monitor-running-applications)
 - [Tips on Kerberos](tips-on-kerberos)
 - [Hands on the highlight command](hands-on-the-highlight-command)
 - [Compare Two Directories on Linux](compare-two-directories-on-linux)
@@ -2695,6 +2695,8 @@ site:
 
 ## AI
 ```{dropdown} Click to expand/collapse 127 links
+- [Tips on Torchvision](tips-on-torchvision)
+- [Data for Computer Vision Research](data-for-computer-vision-research)
 - [Experiment Design](experiment-design)
 - [Loss Functions for Machine Learning Models](loss-functions-for-machine-learning-models)
 - [Ensemble Machine Learning Models](ensemble-machine-learning-models)
@@ -2765,13 +2767,11 @@ site:
 - [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
 - [Tips on LightGBM](tips-on-lightgbm)
 - [Training Deep Neural Networks](training-deep-neural-networks)
-- [Data for Computer Vision Research](data-for-computer-vision-research)
 - [Learning to Rank](learning-to-rank)
 - [Common Issues in PyTorch](common-issues-in-pytorch)
 - [LightGBM on GPU](lightgbm-on-gpu)
 - [Use PyTorch on GPU](use-pytorch-on-gpu)
 - [Tips on TensorFlow](tips-on-tensorflow)
-- [Tips on Torchvision](tips-on-torchvision)
 - [Data for NLP Research](data-for-nlp-research)
 - [Tips on Feature Engineering for Machine Learning](tips-on-feature-engineering-for-machine-learning)
 - [Tips on Reinforcement Learning](tips-on-reinforcement-learning)
@@ -2826,10 +2826,13 @@ site:
 
 ## tips
 ```{dropdown} Click to expand/collapse 125 links
+- [Tips on Visual Studio Code](tips-on-visual-studio-code)
+- [Tips on MySQL](tips-on-mysql)
+- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
+- [IPython Is the Best Shell](ipython-is-the-best-shell)
 - [Tips on Excel](tips-on-excel)
 - [Statistics](statistics)
 - [Tips on Blender](tips-on-blender)
-- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
 - [Low Risk Investments](low-risk-investments)
 - [String in Mojo](string-in-mojo)
 - [Watching Filesystem Changes Using "inotify"](watching-filesystem-changes-using-inotify)
@@ -2904,7 +2907,6 @@ site:
 - [The CentOS Linux Distribution](the-centos-linux-distribution)
 - [Tips on AnBox](tips-on-anbox)
 - [Connect to MySQL Using PyMySQL](connect-to-mysql-using-pymysql)
-- [Tips on MySQL](tips-on-mysql)
 - [Tips on WSL 2](tips-on-wsl-2)
 - [Tips on MacPorts](tips-on-macports)
 - [Tips on NodeJS](tips-on-nodejs)
@@ -2926,7 +2928,6 @@ site:
 - [Tips on GetPocket](tips-on-getpocket)
 - [Tips on TypeScript](tips-on-typescript)
 - [Tips on Rust](tips-on-rust)
-- [Tips on Visual Studio Code](tips-on-visual-studio-code)
 - [Property Line](property-line)
 - [Tips on the find command in Linux](tips-on-the-find-command-in-linux)
 - [Block JavaScript in Browsers Using NoScript](block-javascript-in-browsers-using-noscript)
@@ -2942,7 +2943,6 @@ site:
 - [Python Tips and Traps](python-tips-and-traps)
 - [Tips on YAML](tips-on-yaml)
 - [Python pandas Tips](python-pandas-tips)
-- [IPython Is the Best Shell](ipython-is-the-best-shell)
 - [Process Big Data Using Spark](process-big-data-using-spark)
 - [Tips on PyTorch](tips-on-pytorch)
 - [Tips on OpenCV](tips-on-opencv)
@@ -2955,6 +2955,8 @@ site:
 
 ## Spark
 ```{dropdown} Click to expand/collapse 115 links
+- [Configure Log4J for Spark](configure-log4j-for-spark)
+- [Rust and Spark](rust-and-spark)
 - [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args-0-from-__newobj__-args-has-the-wrong-class)
 - [Window Functions in Spark](window-functions-in-spark)
 - [Spark Configuration](spark-configuration)
@@ -2964,7 +2966,6 @@ site:
 - [Get Size of Tables on HDFS](get-size-of-tables-on-hdfs)
 - [Select All Columns Except a Few from a Table](select-all-columns-except-a-few-from-a-table)
 - [Boolean Column Operators and Functions in Spark](boolean-column-operators-and-functions-in-spark)
-- [Configure Log4J for Spark](configure-log4j-for-spark)
 - [Improve the Performance of Spark](improve-the-performance-of-spark)
 - [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
 - [Use Spark With Apache Toree Kernel in Juptyerlab](use-spark-with-apache-toree-kernel-in-juptyerlab)
@@ -2981,7 +2982,6 @@ site:
 - [Spark Issue: Pure Python Code Errors](spark-issue-pure-python-code-errors)
 - [Work With Multiple Spark Installations](work-with-multiple-spark-installations)
 - [Spark Issue: Max Number of Executor Failures Reached](spark-issue-max-number-of-executor-failures-reached)
-- [Rust and Spark](rust-and-spark)
 - [Yarn for Spark](yarn-for-spark)
 - [Spark Issue Libc Not Found](spark-issue-libc-not-found)
 - [Spark Issue: TypeError WithReplacement](spark-issue-typeerror-withreplacement)
@@ -3072,8 +3072,126 @@ site:
 - [Check Whether a File Exists in Spark](check-whether-a-file-exists-in-spark)
 ```
 
+## data science
+```{dropdown} Click to expand/collapse 112 links
+- [Tips on Torchvision](tips-on-torchvision)
+- [Data for Computer Vision Research](data-for-computer-vision-research)
+- [Ensemble Machine Learning Models](ensemble-machine-learning-models)
+- [Entropy](entropy)
+- [AI Learning](ai-learning)
+- [Time Series Analysis](time-series-analysis)
+- [Pretrained Deep Learning Models](pretrained-deep-learning-models)
+- [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
+- [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
+- [Ways to Enable and Disable Gradient in PyTorch](ways-to-enable-and-disable-gradient-in-pytorch)
+- [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
+- [Delete a Layer in a Pretrained Model in PyTorch](delete-a-layer-in-a-pretrained-model-in-pytorch)
+- [Adaptive Pooling in PyTorch](adaptive-pooling-in-pytorch)
+- [Reduce Memory Needed to Train Deep Learning Models](reduce-memory-needed-to-train-deep-learning-models)
+- [Tips on Optuna](tips-on-optuna)
+- [Handle Categorical Variables in LightGBM](handle-categorical-variables-in-lightgbm)
+- [Tree-Based Models in scikit-learn](tree-based-models-in-scikit-learn)
+- [Visualization of GBDT in scikit-learn](visualization-of-gbdt-in-scikit-learn)
+- [fit_transform vs transform in scikit-learn](fit_transform-vs-transform-in-scikit-learn)
+- [Preparing Data for AI](preparing-data-for-ai)
+- [Tips on Deep Graph Learning](tips-on-deep-graph-learning)
+- [Save and Load PyTorch Models](save-and-load-pytorch-models)
+- [Rule-base Image Process](rule-base-image-process)
+- [JIT and Domain Specific Compilers](jit-and-domain-specific-compilers)
+- [CI/CD for Machine Learning](ci-cd-for-machine-learning)
+- [Visualization for AI Concepts](visualization-for-ai-concepts)
+- [Deep Learning Libraries for Dialog Systems and Chatbots](deep-learning-libraries-for-dialog-systems-and-chatbots)
+- [Study Notes on Knowledge Graph](study-notes-on-knowledge-graph)
+- [Compute Vision Tasks](compute-vision-tasks)
+- [Benchmark of Popular Deep Learning Models](benchmark-of-popular-deep-learning-models)
+- [Fake Face Using AI](fake-face-using-ai)
+- [Tips on the Mojo Programming Language](tips-on-the-mojo-programming-language)
+- [Scaling Law for LLM](scaling-law-for-llm)
+- [Double Dipping in Machine Learning](double-dipping-in-machine-learning)
+- [Difference Between torch.nn.Module and torch.nn.functional](difference-between-torch.nn.module-and-torch.nn.functional)
+- [Split a Dataset into Train and Test Datasets in Python](split-a-dataset-into-train-and-test-datasets-in-python)
+- [Tensor Transformations in TorchVision](tensor-transformations-in-torchvision)
+- [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
+- [Pad a Sequence in Python](pad-a-sequence-in-python)
+- [Resize a Tensor in PyTorch](resize-a-tensor-in-pytorch)
+- [Move a Tensor to a Specific Device in PyTorch](move-a-tensor-to-a-specific-device-in-pytorch)
+- [Linear Regression in Scikit-learn](linear-regression-in-scikit-learn)
+- [Tips on Dataset in PyTorch](tips-on-dataset-in-pytorch)
+- [Hands on Tensor in PyTorch](hands-on-tensor-in-pytorch)
+- [Clustering Algorithms in Machine Learning](clustering-algorithms-in-machine-learning)
+- [Cross Validation in Machine Learning](cross-validation-in-machine-learning)
+- [Nature Language Processing Using NLTK](nature-language-processing-using-nltk)
+- [Keywords Extracting from Text](keywords-extracting-from-text)
+- [Tips on Scikit-Learn](tips-on-scikit-learn)
+- [Machine Learning Libraries, Computing Frames and Programming Languages](machine-learning-libraries-computing-frames-and-programming-languages)
+- [Terminologies and Concepts in NLP](terminologies-and-concepts-in-nlp)
+- [SLIDE: Sub-Linear Deep Learning Engine](slide-sub-linear-deep-learning-engine)
+- [Rust for Machine Learning](rust-for-machine-learning)
+- [Hardware for AI](hardware-for-ai)
+- [Tips on FeatureTools](tips-on-featuretools)
+- [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
+- [Tips on LightGBM](tips-on-lightgbm)
+- [Training Deep Neural Networks](training-deep-neural-networks)
+- [Learning to Rank](learning-to-rank)
+- [Common Issues in PyTorch](common-issues-in-pytorch)
+- [LightGBM on GPU](lightgbm-on-gpu)
+- [Use PyTorch on GPU](use-pytorch-on-gpu)
+- [Tips on TensorFlow](tips-on-tensorflow)
+- [Data for NLP Research](data-for-nlp-research)
+- [Tips on Feature Engineering for Machine Learning](tips-on-feature-engineering-for-machine-learning)
+- [Tips on Reinforcement Learning](tips-on-reinforcement-learning)
+- [Tips on NLP](tips-on-nlp)
+- [Machine Learning Resources](machine-learning-resources)
+- [A Collection of Cheatsheets](a-collection-of-cheatsheets)
+- [Data Science Version Control and Continuous Delivery](data-science-version-control-and-continuous-delivery)
+- [Monitoring and Alerting Tools](monitoring-and-alerting-tools)
+- [Device Managment in PyTorch](device-managment-in-pytorch)
+- [Make Your Model Training Reproducible in PyTorch](make-your-model-training-reproducible-in-pytorch)
+- [Distance and Similarity for Machine Learning](distance-and-similarity-for-machine-learning)
+- [Use XGBoost With Spark](use-xgboost-with-spark)
+- [Tips on the Transformers Python Library for NLP](tips-on-the-transformers-python-library-for-nlp)
+- [Tokenization in NLP](tokenization-in-nlp)
+- [Subword Algorithms for NLP](subword-algorithms-for-nlp)
+- [Difference Between forward and __call__ Methods of a Module in PyTorch](difference-between-forward-and-__call__-methods-of-a-module-in-pytorch)
+- [Representation of Machine Learning Models](representation-of-machine-learning-models)
+- [Use LightGBM With Spark](use-lightgbm-with-spark)
+- [Voice Recognition](voice-recognition)
+- [Popular and Useful Modules and Functions in PyTorch](popular-and-useful-modules-and-functions-in-pytorch)
+- [Number Precision in Deep Learning](number-precision-in-deep-learning)
+- [Tips on TVM](tips-on-tvm)
+- [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
+- [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
+- [Tips on AutoGluon](tips-on-autogluon)
+- [Resizing and Padding for Image Recognition](resizing-and-padding-for-image-recognition)
+- [Convolutional Neural Networks](convolutional-neural-networks)
+- [Handle Imbalanced Data in Machine Learning](handle-imbalanced-data-in-machine-learning)
+- [Tips on LSTM](tips-on-lstm)
+- [POS Tagging in NLP](pos-tagging-in-nlp)
+- [The GPT-2 Model in NLP](the-gpt-2-model-in-nlp)
+- [The Bert Model in NLP](the-bert-model-in-nlp)
+- [Tips on Recommendation Systems](tips-on-recommendation-systems)
+- [Activation Functions in Neural Network](activation-functions-in-neural-network)
+- [Tips on Transformer in NLP](tips-on-transformer-in-nlp)
+- [Feature Scaling in Machine Learning](feature-scaling-in-machine-learning)
+- [Understand Attention in NLP](understand-attention-in-nlp)
+- [Tips on Word2Vec](tips-on-word2vec)
+- [Compresion of Deep Learning Models](compresion-of-deep-learning-models)
+- [Log Softmax vs Softmax](log-softmax-vs-softmax)
+- [Models for Computer Vision](models-for-computer-vision)
+- [Interpretation of Neural Networks](interpretation-of-neural-networks)
+- [Distributed Training of Models on Spark](distributed-training-of-models-on-spark)
+- [Metrics for Machine Learning](metrics-for-machine-learning)
+- [Tips on TPU](tips-on-tpu)
+- [Regularization in Machine Learning Models](regularization-in-machine-learning-models)
+- [Optimization Method in Machine Learning](optimization-method-in-machine-learning)
+- [Tips on XGBoost](tips-on-xgboost)
+- [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
+```
+
 ## machine learning
 ```{dropdown} Click to expand/collapse 112 links
+- [Tips on Torchvision](tips-on-torchvision)
+- [Data for Computer Vision Research](data-for-computer-vision-research)
 - [Loss Functions for Machine Learning Models](loss-functions-for-machine-learning-models)
 - [Ensemble Machine Learning Models](ensemble-machine-learning-models)
 - [Classification](classification)
@@ -3132,13 +3250,11 @@ site:
 - [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
 - [Tips on LightGBM](tips-on-lightgbm)
 - [Training Deep Neural Networks](training-deep-neural-networks)
-- [Data for Computer Vision Research](data-for-computer-vision-research)
 - [Learning to Rank](learning-to-rank)
 - [Common Issues in PyTorch](common-issues-in-pytorch)
 - [LightGBM on GPU](lightgbm-on-gpu)
 - [Use PyTorch on GPU](use-pytorch-on-gpu)
 - [Tips on TensorFlow](tips-on-tensorflow)
-- [Tips on Torchvision](tips-on-torchvision)
 - [Data for NLP Research](data-for-nlp-research)
 - [Tips on Feature Engineering for Machine Learning](tips-on-feature-engineering-for-machine-learning)
 - [Tips on Reinforcement Learning](tips-on-reinforcement-learning)
@@ -3188,124 +3304,9 @@ site:
 - [Tips on Spark MLlib](tips-on-spark-mllib)
 ```
 
-## data science
-```{dropdown} Click to expand/collapse 112 links
-- [Ensemble Machine Learning Models](ensemble-machine-learning-models)
-- [Entropy](entropy)
-- [AI Learning](ai-learning)
-- [Time Series Analysis](time-series-analysis)
-- [Pretrained Deep Learning Models](pretrained-deep-learning-models)
-- [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
-- [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
-- [Ways to Enable and Disable Gradient in PyTorch](ways-to-enable-and-disable-gradient-in-pytorch)
-- [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
-- [Delete a Layer in a Pretrained Model in PyTorch](delete-a-layer-in-a-pretrained-model-in-pytorch)
-- [Adaptive Pooling in PyTorch](adaptive-pooling-in-pytorch)
-- [Reduce Memory Needed to Train Deep Learning Models](reduce-memory-needed-to-train-deep-learning-models)
-- [Tips on Optuna](tips-on-optuna)
-- [Handle Categorical Variables in LightGBM](handle-categorical-variables-in-lightgbm)
-- [Tree-Based Models in scikit-learn](tree-based-models-in-scikit-learn)
-- [Visualization of GBDT in scikit-learn](visualization-of-gbdt-in-scikit-learn)
-- [fit_transform vs transform in scikit-learn](fit_transform-vs-transform-in-scikit-learn)
-- [Preparing Data for AI](preparing-data-for-ai)
-- [Tips on Deep Graph Learning](tips-on-deep-graph-learning)
-- [Save and Load PyTorch Models](save-and-load-pytorch-models)
-- [Rule-base Image Process](rule-base-image-process)
-- [JIT and Domain Specific Compilers](jit-and-domain-specific-compilers)
-- [CI/CD for Machine Learning](ci-cd-for-machine-learning)
-- [Visualization for AI Concepts](visualization-for-ai-concepts)
-- [Deep Learning Libraries for Dialog Systems and Chatbots](deep-learning-libraries-for-dialog-systems-and-chatbots)
-- [Study Notes on Knowledge Graph](study-notes-on-knowledge-graph)
-- [Compute Vision Tasks](compute-vision-tasks)
-- [Benchmark of Popular Deep Learning Models](benchmark-of-popular-deep-learning-models)
-- [Fake Face Using AI](fake-face-using-ai)
-- [Tips on the Mojo Programming Language](tips-on-the-mojo-programming-language)
-- [Scaling Law for LLM](scaling-law-for-llm)
-- [Double Dipping in Machine Learning](double-dipping-in-machine-learning)
-- [Difference Between torch.nn.Module and torch.nn.functional](difference-between-torch.nn.module-and-torch.nn.functional)
-- [Split a Dataset into Train and Test Datasets in Python](split-a-dataset-into-train-and-test-datasets-in-python)
-- [Tensor Transformations in TorchVision](tensor-transformations-in-torchvision)
-- [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
-- [Pad a Sequence in Python](pad-a-sequence-in-python)
-- [Resize a Tensor in PyTorch](resize-a-tensor-in-pytorch)
-- [Move a Tensor to a Specific Device in PyTorch](move-a-tensor-to-a-specific-device-in-pytorch)
-- [Linear Regression in Scikit-learn](linear-regression-in-scikit-learn)
-- [Tips on Dataset in PyTorch](tips-on-dataset-in-pytorch)
-- [Hands on Tensor in PyTorch](hands-on-tensor-in-pytorch)
-- [Clustering Algorithms in Machine Learning](clustering-algorithms-in-machine-learning)
-- [Cross Validation in Machine Learning](cross-validation-in-machine-learning)
-- [Nature Language Processing Using NLTK](nature-language-processing-using-nltk)
-- [Keywords Extracting from Text](keywords-extracting-from-text)
-- [Tips on Scikit-Learn](tips-on-scikit-learn)
-- [Machine Learning Libraries, Computing Frames and Programming Languages](machine-learning-libraries-computing-frames-and-programming-languages)
-- [Terminologies and Concepts in NLP](terminologies-and-concepts-in-nlp)
-- [SLIDE: Sub-Linear Deep Learning Engine](slide-sub-linear-deep-learning-engine)
-- [Rust for Machine Learning](rust-for-machine-learning)
-- [Hardware for AI](hardware-for-ai)
-- [Tips on FeatureTools](tips-on-featuretools)
-- [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
-- [Tips on LightGBM](tips-on-lightgbm)
-- [Training Deep Neural Networks](training-deep-neural-networks)
-- [Data for Computer Vision Research](data-for-computer-vision-research)
-- [Learning to Rank](learning-to-rank)
-- [Common Issues in PyTorch](common-issues-in-pytorch)
-- [LightGBM on GPU](lightgbm-on-gpu)
-- [Use PyTorch on GPU](use-pytorch-on-gpu)
-- [Tips on TensorFlow](tips-on-tensorflow)
-- [Tips on Torchvision](tips-on-torchvision)
-- [Data for NLP Research](data-for-nlp-research)
-- [Tips on Feature Engineering for Machine Learning](tips-on-feature-engineering-for-machine-learning)
-- [Tips on Reinforcement Learning](tips-on-reinforcement-learning)
-- [Tips on NLP](tips-on-nlp)
-- [Machine Learning Resources](machine-learning-resources)
-- [A Collection of Cheatsheets](a-collection-of-cheatsheets)
-- [Data Science Version Control and Continuous Delivery](data-science-version-control-and-continuous-delivery)
-- [Monitoring and Alerting Tools](monitoring-and-alerting-tools)
-- [Device Managment in PyTorch](device-managment-in-pytorch)
-- [Make Your Model Training Reproducible in PyTorch](make-your-model-training-reproducible-in-pytorch)
-- [Distance and Similarity for Machine Learning](distance-and-similarity-for-machine-learning)
-- [Use XGBoost With Spark](use-xgboost-with-spark)
-- [Tips on the Transformers Python Library for NLP](tips-on-the-transformers-python-library-for-nlp)
-- [Tokenization in NLP](tokenization-in-nlp)
-- [Subword Algorithms for NLP](subword-algorithms-for-nlp)
-- [Difference Between forward and __call__ Methods of a Module in PyTorch](difference-between-forward-and-__call__-methods-of-a-module-in-pytorch)
-- [Representation of Machine Learning Models](representation-of-machine-learning-models)
-- [Use LightGBM With Spark](use-lightgbm-with-spark)
-- [Voice Recognition](voice-recognition)
-- [Popular and Useful Modules and Functions in PyTorch](popular-and-useful-modules-and-functions-in-pytorch)
-- [Number Precision in Deep Learning](number-precision-in-deep-learning)
-- [Tips on TVM](tips-on-tvm)
-- [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
-- [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
-- [Tips on AutoGluon](tips-on-autogluon)
-- [Resizing and Padding for Image Recognition](resizing-and-padding-for-image-recognition)
-- [Convolutional Neural Networks](convolutional-neural-networks)
-- [Handle Imbalanced Data in Machine Learning](handle-imbalanced-data-in-machine-learning)
-- [Tips on LSTM](tips-on-lstm)
-- [POS Tagging in NLP](pos-tagging-in-nlp)
-- [The GPT-2 Model in NLP](the-gpt-2-model-in-nlp)
-- [The Bert Model in NLP](the-bert-model-in-nlp)
-- [Tips on Recommendation Systems](tips-on-recommendation-systems)
-- [Activation Functions in Neural Network](activation-functions-in-neural-network)
-- [Tips on Transformer in NLP](tips-on-transformer-in-nlp)
-- [Feature Scaling in Machine Learning](feature-scaling-in-machine-learning)
-- [Understand Attention in NLP](understand-attention-in-nlp)
-- [Tips on Word2Vec](tips-on-word2vec)
-- [Compresion of Deep Learning Models](compresion-of-deep-learning-models)
-- [Log Softmax vs Softmax](log-softmax-vs-softmax)
-- [Models for Computer Vision](models-for-computer-vision)
-- [Interpretation of Neural Networks](interpretation-of-neural-networks)
-- [Distributed Training of Models on Spark](distributed-training-of-models-on-spark)
-- [Metrics for Machine Learning](metrics-for-machine-learning)
-- [Tips on TPU](tips-on-tpu)
-- [Regularization in Machine Learning Models](regularization-in-machine-learning-models)
-- [Optimization Method in Machine Learning](optimization-method-in-machine-learning)
-- [Tips on XGBoost](tips-on-xgboost)
-- [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
-```
-
 ## life
 ```{dropdown} Click to expand/collapse 93 links
+- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
 - [Living in Shanghai](living-in-shanghai)
 - [Shopping on Costco](shopping-on-costco)
 - [Stop Spam Phone Calls](stop-spam-phone-calls)
@@ -3315,7 +3316,6 @@ site:
 - [Maintain Garage Doors](maintain-garage-doors)
 - [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
 - [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
-- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
 - [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
 - [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
 - [Tips on Job Seeking](tips-on-job-seeking)
@@ -3403,11 +3403,12 @@ site:
 
 ## Java
 ```{dropdown} Click to expand/collapse 80 links
+- [Visual Studio Code for Java Development](visual-studio-code-for-java-development)
+- [Tips on IDE](tips-on-ide)
 - [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
 - [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
 - [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
 - [Summary on Random Number Generators](summary-on-random-number-generators)
-- [Tips on IDE](tips-on-ide)
 - [Directly Initialize a Hashmap in Java](directly-initialize-a-hashmap-in-java)
 - [Tips on JSON](tips-on-json)
 - [Call Java Code Using JPype from Python](call-java-code-using-jpype-from-python)
@@ -3443,7 +3444,6 @@ site:
 - [Tips on Maven](tips-on-maven)
 - [Java PPA for Ubuntu](java-ppa-for-ubuntu)
 - [General Tips for Gradle](general-tips-for-gradle)
-- [Visual Studio Code for Java Development](visual-studio-code-for-java-development)
 - [The JAVA_HOME Environment Variable](the-java_home-environment-variable)
 - [Differences Between Vector and ArrayList in Java](differences-between-vector-and-arraylist-in-java)
 - [Check Whether an Email Address Is Valid in Java](check-whether-an-email-address-is-valid-in-java)
@@ -3487,6 +3487,8 @@ site:
 
 ## DataFrame
 ```{dropdown} Click to expand/collapse 78 links
+- [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
+- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
 - [Query Pandas Data Frames Using SQL](query-pandas-data-frames-using-sql)
 - [Null Values in Inner Join of Spark Dataframes](null-values-in-inner-join-of-spark-dataframes)
 - [New Features in Spark 3](new-features-in-spark-3)
@@ -3506,8 +3508,6 @@ site:
 - [Read Parquet Files Using Polars in Rust](read-parquet-files-using-polars-in-rust)
 - [Read CSV Using Polars in Python](read-csv-using-polars-in-python)
 - [Read CSV Files Using Polars in Rust](read-csv-files-using-polars-in-rust)
-- [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
-- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
 - [Data Frame Implementations in Rust](data-frame-implementations-in-rust)
 - [Compare Data Frames Using DataCompy in Python](compare-data-frames-using-datacompy-in-python)
 - [Types of Joins of Spark DataFrames](types-of-joins-of-spark-dataframes)
@@ -3569,6 +3569,7 @@ site:
 
 ## big data
 ```{dropdown} Click to expand/collapse 68 links
+- [Rust and Spark](rust-and-spark)
 - [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args-0-from-__newobj__-args-has-the-wrong-class)
 - [Window Functions in Spark](window-functions-in-spark)
 - [Spark Configuration](spark-configuration)
@@ -3593,7 +3594,6 @@ site:
 - [Spark Issue: Pure Python Code Errors](spark-issue-pure-python-code-errors)
 - [Work With Multiple Spark Installations](work-with-multiple-spark-installations)
 - [Spark Issue: Max Number of Executor Failures Reached](spark-issue-max-number-of-executor-failures-reached)
-- [Rust and Spark](rust-and-spark)
 - [Yarn for Spark](yarn-for-spark)
 - [Spark Issue Libc Not Found](spark-issue-libc-not-found)
 - [Spark Issue: SIGBUS](spark-issue-sigbus)
@@ -3641,6 +3641,8 @@ site:
 
 ## Scala
 ```{dropdown} Click to expand/collapse 63 links
+- [Visual Studio Code for Scala Development](visual-studio-code-for-scala-development)
+- [Array in Scala](array-in-scala)
 - [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
 - [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
 - [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
@@ -3652,7 +3654,6 @@ site:
 - [Read/Write CSV in Spark](read-write-csv-in-spark)
 - [Read/Write TSV in Spark](read-write-tsv-in-spark)
 - [Read/Write Parquet Files in Spark](read-write-parquet-files-in-spark)
-- [Array in Scala](array-in-scala)
 - [Statistical Functions in Spark](statistical-functions-in-spark)
 - [Row Object in Spark](row-object-in-spark)
 - [Row-based Mapping and Filtering on DataFrames in Spark](row-based-mapping-and-filtering-on-dataframes-in-spark)
@@ -3684,7 +3685,6 @@ site:
 - [Common Errors Encountered in Scala and Solutions](common-errors-encountered-in-scala-and-solutions)
 - [Tips on sbt Assembly](tips-on-sbt-assembly)
 - [Building Tool for Scala](building-tool-for-scala)
-- [Visual Studio Code for Scala Development](visual-studio-code-for-scala-development)
 - [Union DataFrames in Spark](union-dataframes-in-spark)
 - [Persist and Checkpoint DataFrames in Spark](persist-and-checkpoint-dataframes-in-spark)
 - [Column Functions and Operators in Spark](column-functions-and-operators-in-spark)
@@ -3708,6 +3708,11 @@ site:
 
 ## JVM
 ```{dropdown} Click to expand/collapse 58 links
+- [List in Kotlin](list-in-kotlin)
+- [Sort a List in Kotlin](sort-a-list-in-kotlin)
+- [Collections in Kotlin](collections-in-kotlin)
+- [Array in Scala](array-in-scala)
+- [Array in Kotlin](array-in-kotlin)
 - [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
 - [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
 - [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
@@ -3720,19 +3725,14 @@ site:
 - [Hands on the sqlite3-jdbc library in Scala](hands-on-the-sqlite3-jdbc-library-in-scala)
 - [Good Third-party Math Libraries for Scala](good-third-party-math-libraries-for-scala)
 - [Hands on the Stream Object in Java 8](hands-on-the-stream-object-in-java-8)
-- [Array in Scala](array-in-scala)
 - [String functions in Kotlin](string-functions-in-kotlin)
 - [Rounding Numbers in Kotlin](rounding-numbers-in-kotlin)
 - [Returns and Jumps in Kotlin](returns-and-jumps-in-kotlin)
 - [OOP in Kotlin](oop-in-kotlin)
 - [Named Arguments in Kotlin](named-arguments-in-kotlin)
 - [Misc Tips on Kotlin](misc-tips-on-kotlin)
-- [List in Kotlin](list-in-kotlin)
-- [Sort a List in Kotlin](sort-a-list-in-kotlin)
 - [Iterator in Kotlin](iterator-in-kotlin)
 - [Hashmap in Kotlin](hashmap-in-kotlin)
-- [Collections in Kotlin](collections-in-kotlin)
-- [Array in Kotlin](array-in-kotlin)
 - [Format String in Java](format-string-in-java)
 - [Set in Java](set-in-java)
 - [Round/Format Numbers in Java](round-format-numbers-in-java)
@@ -3770,11 +3770,11 @@ site:
 
 ## web
 ```{dropdown} Click to expand/collapse 54 links
+- [Visual Studio Code Server](visual-studio-code-server)
 - [Firebug Is Awsome](firebug-is-awsome)
 - [GPU for Web](gpu-for-web)
 - [Ways to Download Files Using Selenium Webdrive](ways-to-download-files-using-selenium-webdrive)
 - [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
-- [Visual Studio Code Server](visual-studio-code-server)
 - [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
 - [Convert Web Pages to PDF Using Python](convert-web-pages-to-pdf-using-python)
 - [Rust for Frontend Development](rust-for-frontend-development)
@@ -3884,6 +3884,7 @@ site:
 
 ## deep learning
 ```{dropdown} Click to expand/collapse 51 links
+- [Data for Computer Vision Research](data-for-computer-vision-research)
 - [Entropy](entropy)
 - [Pretrained Deep Learning Models](pretrained-deep-learning-models)
 - [Ways to Enable and Disable Gradient in PyTorch](ways-to-enable-and-disable-gradient-in-pytorch)
@@ -3917,7 +3918,6 @@ site:
 - [Rust for Machine Learning](rust-for-machine-learning)
 - [Hardware for AI](hardware-for-ai)
 - [Training Deep Neural Networks](training-deep-neural-networks)
-- [Data for Computer Vision Research](data-for-computer-vision-research)
 - [Common Issues in PyTorch](common-issues-in-pytorch)
 - [Use PyTorch on GPU](use-pytorch-on-gpu)
 - [Data for NLP Research](data-for-nlp-research)
@@ -4141,53 +4141,6 @@ site:
 - [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
 ```
 
-## Spark issue | spark issue
-```{dropdown} Click to expand/collapse 43 links
-- [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args-0-from-__newobj__-args-has-the-wrong-class)
-- [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
-- [A Comprehensive List of Common Issues in Spark Applications](a-comprehensive-list-of-common-issues-in-spark-applications)
-- [Spark Issue: Container Killed by Yarn for Exceeding Memory Limits](spark-issue-container-killed-by-yarn-for-exceeding-memory-limits)
-- [Spark Issue: AnalysisException: Cannot Resolve](spark-issue-analysisexception-cannot-resolve)
-- [Spark Issue: AnalysisException: Path Does Not Exist](spark-issue-analysisexception-path-does-not-exist)
-- [Spark Issue: Block Could Not Be Removed as It Was Not Found on Disk or in Memory](spark-issue-block-could-not-be-removed-as-it-was-not-found-on-disk-or-in-memory)
-- [Spark Issue: InsertOperationConflictException: Failed to Hold Insert Operation Lock](spark-issue-insertoperationconflictexception-failed-to-hold-insert-operation-lock)
-- [Spark Issue: AccessControlException: Permission Denied](spark-issue-accesscontrolexception-permission-denied)
-- [Spark Issue: Pure Python Code Errors](spark-issue-pure-python-code-errors)
-- [Spark Issue: Max Number of Executor Failures Reached](spark-issue-max-number-of-executor-failures-reached)
-- [Spark Issue: IllegalArgumentException: System Memory Must Be At Least](spark-issue-illegalargumentexception-system-memory-must-be-at-least)
-- [Spark Issue: SIGBUS](spark-issue-sigbus)
-- [Spark Issue: Could Not Execute Broadcast in 300S](spark-issue-could-not-execute-broadcast-in-300s)
-- [Spark Issue: RuntimeException: Could not find any configured addresses for URI](spark-issue-runtimeexception-could-not-find-any-configured-addresses-for-uri)
-- [Spark Issue: GetQuotaUsage](spark-issue-getquotausage)
-- [Spark Issue: ViewFs: Cannot Initialize: Empty Mount Table in Config](spark-issue-viewfs-cannot-initialize-empty-mount-table-in-config)
-- [Spark Issue: Runtimeerror: Arrow Legacy IPC Format Is Not Supported](spark-issue-runtimeerror-arrow-legacy-ipc-format-is-not-supported)
-- [Spark Issue: IllegalArgumentException: Wrong FS](spark-issue-illegalargumentexception-wrong-fs)
-- [Spark Issue: ArrowTypeError: Expect a Type but Got a Different Type](spark-issue-arrowtypeerror-expect-a-type-but-got-a-different-type)
-- [Spark Issue: AnalysisException: Found Duplicated Columns](spark-issue-analysisexception-found-duplicated-columns)
-- [Spark Issue: Shell Related](spark-issue-shell-related)
-- [Spark Issue: Rust Panic](spark-issue-rust-panic)
-- [Spark Issue: Namespace Quota Is Exceeded](spark-issue-namespace-quota-is-exceeded)
-- [Spark Issue: RuntimeException: Unsupported Literal Type Class](spark-issue-runtimeexception-unsupported-literal-type-class)
-- [Spark Issue: java.lang.OutOfMemoryError](spark-issue-java.lang.outofmemoryerror)
-- [Spark Issue: Total Size of Serialized Results Is Bigger than spark.driver.maxResultSize](spark-issue-total-size-of-serialized-results-is-bigger-than-spark.driver.maxresultsize)
-- [Spark Issue: Unable to Find Encoder Type](spark-issue-unable-to-find-encoder-type)
-- [Spark Issue: Too Large Table for Auto BroadcastHashJoin](spark-issue-too-large-table-for-auto-broadcasthashjoin)
-- [Spark Issue: Timeout When Communicate With Driver During Shuffle Caused by Driver OOM](spark-issue-timeout-when-communicate-with-driver-during-shuffle-caused-by-driver-oom)
-- [Spark Issue: java.io.FileNotFoundException](spark-issue-java.io.filenotfoundexception)
-- [Spark Issue: Spark Application Submission Is Not Finished](spark-issue-spark-application-submission-is-not-finished)
-- [Spark Issue: InvalidInputException for Some Hive Data Partitions](spark-issue-invalidinputexception-for-some-hive-data-partitions)
-- [Spark Issue: Mac spark-shell Error Initializing SparkContext](spark-issue-mac-spark-shell-error-initializing-sparkcontext)
-- [Spark Issue: High Disk and Memory Spill When Doing Shuffle](spark-issue-high-disk-and-memory-spill-when-doing-shuffle)
-- [Spark Issue: Table Not Found](spark-issue-table-not-found)
-- [Spark Issue: Task Not Serializable](spark-issue-task-not-serializable)
-- [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
-- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
-- [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
-- [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
-- [Spark Issue: InvalidResourceRequestException](spark-issue-invalidresourcerequestexception)
-- [Spark Issue: UriSyntaxException](spark-issue-urisyntaxexception)
-```
-
 ## OS
 ```{dropdown} Click to expand/collapse 43 links
 - [Run System Command in Go](run-system-command-in-go)
@@ -4235,16 +4188,69 @@ site:
 - [Turn on Remote Login in Mac](turn-on-remote-login-in-mac)
 ```
 
+## Spark issue | spark issue
+```{dropdown} Click to expand/collapse 43 links
+- [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args-0-from-__newobj__-args-has-the-wrong-class)
+- [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
+- [A Comprehensive List of Common Issues in Spark Applications](a-comprehensive-list-of-common-issues-in-spark-applications)
+- [Spark Issue: Container Killed by Yarn for Exceeding Memory Limits](spark-issue-container-killed-by-yarn-for-exceeding-memory-limits)
+- [Spark Issue: AnalysisException: Cannot Resolve](spark-issue-analysisexception-cannot-resolve)
+- [Spark Issue: AnalysisException: Path Does Not Exist](spark-issue-analysisexception-path-does-not-exist)
+- [Spark Issue: Block Could Not Be Removed as It Was Not Found on Disk or in Memory](spark-issue-block-could-not-be-removed-as-it-was-not-found-on-disk-or-in-memory)
+- [Spark Issue: InsertOperationConflictException: Failed to Hold Insert Operation Lock](spark-issue-insertoperationconflictexception-failed-to-hold-insert-operation-lock)
+- [Spark Issue: AccessControlException: Permission Denied](spark-issue-accesscontrolexception-permission-denied)
+- [Spark Issue: Pure Python Code Errors](spark-issue-pure-python-code-errors)
+- [Spark Issue: Max Number of Executor Failures Reached](spark-issue-max-number-of-executor-failures-reached)
+- [Spark Issue: IllegalArgumentException: System Memory Must Be At Least](spark-issue-illegalargumentexception-system-memory-must-be-at-least)
+- [Spark Issue: SIGBUS](spark-issue-sigbus)
+- [Spark Issue: Could Not Execute Broadcast in 300S](spark-issue-could-not-execute-broadcast-in-300s)
+- [Spark Issue: RuntimeException: Could not find any configured addresses for URI](spark-issue-runtimeexception-could-not-find-any-configured-addresses-for-uri)
+- [Spark Issue: GetQuotaUsage](spark-issue-getquotausage)
+- [Spark Issue: ViewFs: Cannot Initialize: Empty Mount Table in Config](spark-issue-viewfs-cannot-initialize-empty-mount-table-in-config)
+- [Spark Issue: Runtimeerror: Arrow Legacy IPC Format Is Not Supported](spark-issue-runtimeerror-arrow-legacy-ipc-format-is-not-supported)
+- [Spark Issue: IllegalArgumentException: Wrong FS](spark-issue-illegalargumentexception-wrong-fs)
+- [Spark Issue: ArrowTypeError: Expect a Type but Got a Different Type](spark-issue-arrowtypeerror-expect-a-type-but-got-a-different-type)
+- [Spark Issue: AnalysisException: Found Duplicated Columns](spark-issue-analysisexception-found-duplicated-columns)
+- [Spark Issue: Shell Related](spark-issue-shell-related)
+- [Spark Issue: Rust Panic](spark-issue-rust-panic)
+- [Spark Issue: Namespace Quota Is Exceeded](spark-issue-namespace-quota-is-exceeded)
+- [Spark Issue: RuntimeException: Unsupported Literal Type Class](spark-issue-runtimeexception-unsupported-literal-type-class)
+- [Spark Issue: java.lang.OutOfMemoryError](spark-issue-java.lang.outofmemoryerror)
+- [Spark Issue: Total Size of Serialized Results Is Bigger than spark.driver.maxResultSize](spark-issue-total-size-of-serialized-results-is-bigger-than-spark.driver.maxresultsize)
+- [Spark Issue: Unable to Find Encoder Type](spark-issue-unable-to-find-encoder-type)
+- [Spark Issue: Too Large Table for Auto BroadcastHashJoin](spark-issue-too-large-table-for-auto-broadcasthashjoin)
+- [Spark Issue: Timeout When Communicate With Driver During Shuffle Caused by Driver OOM](spark-issue-timeout-when-communicate-with-driver-during-shuffle-caused-by-driver-oom)
+- [Spark Issue: java.io.FileNotFoundException](spark-issue-java.io.filenotfoundexception)
+- [Spark Issue: Spark Application Submission Is Not Finished](spark-issue-spark-application-submission-is-not-finished)
+- [Spark Issue: InvalidInputException for Some Hive Data Partitions](spark-issue-invalidinputexception-for-some-hive-data-partitions)
+- [Spark Issue: Mac spark-shell Error Initializing SparkContext](spark-issue-mac-spark-shell-error-initializing-sparkcontext)
+- [Spark Issue: High Disk and Memory Spill When Doing Shuffle](spark-issue-high-disk-and-memory-spill-when-doing-shuffle)
+- [Spark Issue: Table Not Found](spark-issue-table-not-found)
+- [Spark Issue: Task Not Serializable](spark-issue-task-not-serializable)
+- [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
+- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
+- [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
+- [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
+- [Spark Issue: InvalidResourceRequestException](spark-issue-invalidresourcerequestexception)
+- [Spark Issue: UriSyntaxException](spark-issue-urisyntaxexception)
+```
+
 ## shell
 ```{dropdown} Click to expand/collapse 41 links
+- [Run Commands on Remote Machines](run-commands-on-remote-machines)
+- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
+- [Parallel Computing in Shell](parallel-computing-in-shell)
+- [Use the Watch Command to Monitor Running Applications](use-the-watch-command-to-monitor-running-applications)
+- [Rust and Spark](rust-and-spark)
+- [Sudo: No TTY Present and No AskPass Program Specified](sudo-no-tty-present-and-no-askpass-program-specified)
+- [IPython Is the Best Shell](ipython-is-the-best-shell)
+- [Special Characters to Avoid in Strings](special-characters-to-avoid-in-strings)
 - [Using Bash in Docker](using-bash-in-docker)
 - [Tips on the Shell command ps](tips-on-the-shell-command-ps)
 - [Run Shell Command in Rust](run-shell-command-in-rust)
 - [Shell in Docker](shell-in-docker)
 - [Tips on Windows Terminal](tips-on-windows-terminal)
 - [Dot Is Not Recognized as An Internal or External Command](dot-is-not-recognized-as-an-internal-or-external-command)
-- [Rust and Spark](rust-and-spark)
-- [Sudo: No TTY Present and No AskPass Program Specified](sudo-no-tty-present-and-no-askpass-program-specified)
 - [Get OS and Architecture Information in Shell](get-os-and-architecture-information-in-shell)
 - [Shell Command Parser](shell-command-parser)
 - [Tips on fd](tips-on-fd)
@@ -4258,35 +4264,29 @@ site:
 - [Transform Text Using sed](transform-text-using-sed)
 - [Hands on the Python module subprocess](hands-on-the-python-module-subprocess)
 - [Advanced Use of head and tail](advanced-use-of-head-and-tail)
-- [Special Characters to Avoid in Strings](special-characters-to-avoid-in-strings)
 - [Python Alternatives to Shell](python-alternatives-to-shell)
 - [Advanced Use of ls in Linux](advanced-use-of-ls-in-linux)
 - [WaveTerm Is the Best Terminal App](waveterm-is-the-best-terminal-app)
-- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
 - [Change Shell in Mac](change-shell-in-mac)
-- [IPython Is the Best Shell](ipython-is-the-best-shell)
 - [JavaScript Alternatives to Shell](javascript-alternatives-to-shell)
 - [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
 - [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
-- [Run Commands on Remote Machines](run-commands-on-remote-machines)
 - [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
 - [Print Rows from a Text File](print-rows-from-a-text-file)
-- [Use the Watch Command to Monitor Running Applications](use-the-watch-command-to-monitor-running-applications)
 - [Hands on the highlight command](hands-on-the-highlight-command)
 - [Tips on Xonsh](tips-on-xonsh)
 - [Calling Shell from Python](calling-shell-from-python)
-- [Parallel Computing in Shell](parallel-computing-in-shell)
 - [Preferred Python Version in Shebang](preferred-python-version-in-shebang)
 - [Sample Lines from a File Using Command Line](sample-lines-from-a-file-using-command-line)
 ```
 
 ## error
 ```{dropdown} Click to expand/collapse 39 links
+- [Configure Log4J for Spark](configure-log4j-for-spark)
 - [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
 - [Rust Error: error[E0554]: `#![feature]` May Not Be Used on the Stable Release Channel](rust-error-error-e0554-feature-may-not-be-used-on-the-stable-release-channel)
 - [Tips on Sqlfluff](tips-on-sqlfluff)
 - [Error Handling in Rust](error-handling-in-rust)
-- [Configure Log4J for Spark](configure-log4j-for-spark)
 - [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
 - [ModuleNotFoundError: No Module Named _Ctypes in Python](modulenotfounderror-no-module-named-_ctypes-in-python)
 - [A Comprehensive List of Common Issues in Spark Applications](a-comprehensive-list-of-common-issues-in-spark-applications)
@@ -4325,6 +4325,8 @@ site:
 
 ## image
 ```{dropdown} Click to expand/collapse 35 links
+- [Show Image in Terminal](show-image-in-terminal)
+- [Convert PDF to EPS](convert-pdf-to-eps)
 - [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
 - [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
 - [Tips on Preview in macOS](tips-on-preview-in-macos)
@@ -4355,23 +4357,21 @@ site:
 - [Extract Images from Video Using OpenCV in Python](extract-images-from-video-using-opencv-in-python)
 - [Deleting Docker Image Tags on DockerHub using the Python Module requests](deleting-docker-image-tags-on-dockerhub-using-the-python-module-requests)
 - [Tips on Matplotlib](tips-on-matplotlib)
-- [Convert PDF to EPS](convert-pdf-to-eps)
 - [Tips on Creating Docker Images](tips-on-creating-docker-images)
 - [Tips on Pillow](tips-on-pillow)
-- [Show Image in Terminal](show-image-in-terminal)
 - [Graphics in LaTeX](graphics-in-latex)
 ```
 
 ## golang
 ```{dropdown} Click to expand/collapse 31 links
+- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
+- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
 - [Manipulate Strings Using the `strings` Module in Golang](manipulate-strings-using-the-strings-module-in-golang)
 - [Tips on Golang](tips-on-golang)
 - [Strings in Golang Are UTF-8](strings-in-golang-are-utf-8)
 - [String in Golang](string-in-golang)
 - [Run System Command in Go](run-system-command-in-go)
-- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
 - [Hands on the Standard Library HTTP in Golang](hands-on-the-standard-library-http-in-golang)
-- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
 - [Hands on Array in Golang](hands-on-array-in-golang)
 - [Get Information of User in Golang](get-information-of-user-in-golang)
 - [Format Strings in Golang](format-strings-in-golang)
@@ -4397,8 +4397,43 @@ site:
 - [Useful Golang Packages](useful-golang-packages)
 ```
 
+## Kotlin
+```{dropdown} Click to expand/collapse 30 links
+- [List in Kotlin](list-in-kotlin)
+- [Sort a List in Kotlin](sort-a-list-in-kotlin)
+- [Collections in Kotlin](collections-in-kotlin)
+- [Array in Kotlin](array-in-kotlin)
+- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
+- [Develop GUI Applications Using Kotlin](develop-gui-applications-using-kotlin)
+- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
+- [Understand DSL in Kotlin](understand-dsl-in-kotlin)
+- [String functions in Kotlin](string-functions-in-kotlin)
+- [Rounding Numbers in Kotlin](rounding-numbers-in-kotlin)
+- [Returns and Jumps in Kotlin](returns-and-jumps-in-kotlin)
+- [OOP in Kotlin](oop-in-kotlin)
+- [Named Arguments in Kotlin](named-arguments-in-kotlin)
+- [Misc Tips on Kotlin](misc-tips-on-kotlin)
+- [Iterator in Kotlin](iterator-in-kotlin)
+- [Hashmap in Kotlin](hashmap-in-kotlin)
+- [Bitwise Operators in Kotlin](bitwise-operators-in-kotlin)
+- [Use Tablesaw with Kotlin](use-tablesaw-with-kotlin)
+- [MutableList in Kotlin](mutablelist-in-kotlin)
+- [Hands on krangl in Kotlin](hands-on-krangl-in-kotlin)
+- [Performance Profiling of JVM Applications](performance-profiling-of-jvm-applications)
+- [Install Kotlin](install-kotlin)
+- [Use Kotlin in a Scala Project](use-kotlin-in-a-scala-project)
+- [Ways to To Run a Kotlin JAR](ways-to-to-run-a-kotlin-jar)
+- [Using Kotlin With Gradle](using-kotlin-with-gradle)
+- [Kotlin IO](kotlin-io)
+- [Kotlin vs Scala](kotlin-vs-scala)
+- [Kotlin Unit Testing](kotlin-unit-testing)
+- [Use Kotlin as a Scripting Language](use-kotlin-as-a-scripting-language)
+- [Differences Between Kotlin and Java](differences-between-kotlin-and-java)
+```
+
 ## macOS
 ```{dropdown} Click to expand/collapse 30 links
+- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
 - [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
 - [Tips on Preview in macOS](tips-on-preview-in-macos)
 - [Get Coordinates of Points on a Screen or Image](get-coordinates-of-points-on-a-screen-or-image)
@@ -4427,46 +4462,78 @@ site:
 - [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
 - [Mirroring Screen from iPhone or iPad to Macbook](mirroring-screen-from-iphone-or-ipad-to-macbook)
 - [Fix Xcrun Error in Mac](fix-xcrun-error-in-mac)
-- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
 - [Mount Samba on Mac](mount-samba-on-mac)
 ```
 
-## Kotlin
-```{dropdown} Click to expand/collapse 30 links
-- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
-- [Develop GUI Applications Using Kotlin](develop-gui-applications-using-kotlin)
+## IDE
+```{dropdown} Click to expand/collapse 29 links
+- [Tips on Visual Studio Code](tips-on-visual-studio-code)
+- [Visual Studio Code Server](visual-studio-code-server)
+- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+- [Tips on IDE](tips-on-ide)
+- [IDEs for LaTeX](ides-for-latex)
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [AI-based Code Completion Tools](ai-based-code-completion-tools)
 - [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
-- [Understand DSL in Kotlin](understand-dsl-in-kotlin)
-- [String functions in Kotlin](string-functions-in-kotlin)
-- [Rounding Numbers in Kotlin](rounding-numbers-in-kotlin)
-- [Returns and Jumps in Kotlin](returns-and-jumps-in-kotlin)
-- [OOP in Kotlin](oop-in-kotlin)
-- [Named Arguments in Kotlin](named-arguments-in-kotlin)
-- [Misc Tips on Kotlin](misc-tips-on-kotlin)
-- [List in Kotlin](list-in-kotlin)
-- [Sort a List in Kotlin](sort-a-list-in-kotlin)
-- [Iterator in Kotlin](iterator-in-kotlin)
-- [Hashmap in Kotlin](hashmap-in-kotlin)
-- [Collections in Kotlin](collections-in-kotlin)
-- [Bitwise Operators in Kotlin](bitwise-operators-in-kotlin)
-- [Array in Kotlin](array-in-kotlin)
-- [Use Tablesaw with Kotlin](use-tablesaw-with-kotlin)
-- [MutableList in Kotlin](mutablelist-in-kotlin)
-- [Hands on krangl in Kotlin](hands-on-krangl-in-kotlin)
-- [Performance Profiling of JVM Applications](performance-profiling-of-jvm-applications)
-- [Install Kotlin](install-kotlin)
-- [Use Kotlin in a Scala Project](use-kotlin-in-a-scala-project)
-- [Ways to To Run a Kotlin JAR](ways-to-to-run-a-kotlin-jar)
-- [Using Kotlin With Gradle](using-kotlin-with-gradle)
-- [Kotlin IO](kotlin-io)
-- [Kotlin vs Scala](kotlin-vs-scala)
-- [Kotlin Unit Testing](kotlin-unit-testing)
-- [Use Kotlin as a Scripting Language](use-kotlin-as-a-scripting-language)
-- [Differences Between Kotlin and Java](differences-between-kotlin-and-java)
+- [Tips on Python-Language-Server](tips-on-python-language-server)
+- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
+- [IDE for Rust](ide-for-rust)
+- [Tips on NeoVim](tips-on-neovim)
+- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
+- [Tips on the Zed IDE](tips-on-the-zed-ide)
+- [Tips on AstroNvim](tips-on-astronvim)
+- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
+- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
+- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
+- [TeXstudio, Bravo!](texstudio-bravo)
+- [General Tips on SQL](general-tips-on-sql)
+- [Python Developing in PyCharm](python-developing-in-pycharm)
+- [Typing Chinese in Vim](typing-chinese-in-vim)
+- [Show Inferred Type in IntelliJ IDEA](show-inferred-type-in-intellij-idea)
+- [Tips on dbeaver](tips-on-dbeaver)
+- [IDE for SQL](ide-for-sql)
+- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
+- [IntelliJ IDEA Tips](intellij-idea-tips)
+- [Start RStudio Server After Upgrading](start-rstudio-server-after-upgrading)
+```
+
+## investment
+```{dropdown} Click to expand/collapse 29 links
+- [Tips on Certified Deposit](tips-on-certified-deposit)
+- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
+- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
+- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
+- [Tips on Retirement](tips-on-retirement)
+- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
+- [Tips on Lumibot](tips-on-lumibot)
+- [Tips on Charles Schwab](tips-on-charles-schwab)
+- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
+- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
+- [Low Risk Investments](low-risk-investments)
+- [Rust for Financial Investment](rust-for-financial-investment)
+- [Tax in US](tax-in-us)
+- [Investment](investment)
+- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
+- [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
+- [Tips on Brokerage](tips-on-brokerage)
+- [Tips on Earnings Report](tips-on-earnings-report)
+- [Quant Trading](quant-trading)
+- [Shorting the Market](shorting-the-market)
+- [Tips on Investing in Structure Notes](tips-on-investing-in-structure-notes)
+- [Tips on Money Market Fund](tips-on-money-market-fund)
+- [Tips on Robinhood](tips-on-robinhood)
+- [Tips on Pattern Day Trading](tips-on-pattern-day-trading)
+- [Taxes on Investment Gains](taxes-on-investment-gains)
+- [Foreign Currency Investment](foreign-currency-investment)
+- [Diversified Investment](diversified-investment)
+- [Tips on Fidelity](tips-on-fidelity)
+- [Tips on Wash Sale](tips-on-wash-sale)
 ```
 
 ## network
 ```{dropdown} Click to expand/collapse 29 links
+- [Proxy for sudo](proxy-for-sudo)
 - [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
 - [Linux Network Tools](linux-network-tools)
 - [Network in Docker Containers](network-in-docker-containers)
@@ -4490,7 +4557,6 @@ site:
 - [Hands on the requests Module in Python](hands-on-the-requests-module-in-python)
 - [Tips on Network](tips-on-network)
 - [Convert a Socks Proxy to a HTTP Proxy](convert-a-socks-proxy-to-a-http-proxy)
-- [Proxy for sudo](proxy-for-sudo)
 - [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
 - [Escape from the Great Firewall of China](escape-from-the-great-firewall-of-china)
 - [Quickly Build a Restful Service](quickly-build-a-restful-service)
@@ -4498,79 +4564,13 @@ site:
 - [A Secure Way to Use Vino in Debian](a-secure-way-to-use-vino-in-debian)
 ```
 
-## IDE
-```{dropdown} Click to expand/collapse 29 links
-- [Tips on IDE](tips-on-ide)
-- [Visual Studio Code Server](visual-studio-code-server)
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
-- [AI-based Code Completion Tools](ai-based-code-completion-tools)
-- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
-- [Tips on Python-Language-Server](tips-on-python-language-server)
-- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
-- [IDE for Rust](ide-for-rust)
-- [Tips on NeoVim](tips-on-neovim)
-- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
-- [Tips on the Zed IDE](tips-on-the-zed-ide)
-- [Tips on AstroNvim](tips-on-astronvim)
-- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
-- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
-- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
-- [TeXstudio, Bravo!](texstudio-bravo)
-- [General Tips on SQL](general-tips-on-sql)
-- [Python Developing in PyCharm](python-developing-in-pycharm)
-- [Typing Chinese in Vim](typing-chinese-in-vim)
-- [Show Inferred Type in IntelliJ IDEA](show-inferred-type-in-intellij-idea)
-- [Tips on dbeaver](tips-on-dbeaver)
-- [IDEs for LaTeX](ides-for-latex)
-- [Tips on Visual Studio Code](tips-on-visual-studio-code)
-- [Visual Studio Code for Python](visual-studio-code-for-python)
-- [IDE for SQL](ide-for-sql)
-- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
-- [IntelliJ IDEA Tips](intellij-idea-tips)
-- [Start RStudio Server After Upgrading](start-rstudio-server-after-upgrading)
-```
-
-## investment
-```{dropdown} Click to expand/collapse 29 links
-- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
-- [Low Risk Investments](low-risk-investments)
-- [Rust for Financial Investment](rust-for-financial-investment)
-- [Tax in US](tax-in-us)
-- [Investment](investment)
-- [Tips on Retirement](tips-on-retirement)
-- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
-- [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
-- [Tips on Brokerage](tips-on-brokerage)
-- [Tips on Earnings Report](tips-on-earnings-report)
-- [Quant Trading](quant-trading)
-- [Tips on Charles Schwab](tips-on-charles-schwab)
-- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
-- [Shorting the Market](shorting-the-market)
-- [Tips on Investing in Structure Notes](tips-on-investing-in-structure-notes)
-- [Tips on Money Market Fund](tips-on-money-market-fund)
-- [Tips on Robinhood](tips-on-robinhood)
-- [Tips on Pattern Day Trading](tips-on-pattern-day-trading)
-- [Taxes on Investment Gains](taxes-on-investment-gains)
-- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
-- [Foreign Currency Investment](foreign-currency-investment)
-- [Diversified Investment](diversified-investment)
-- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
-- [Tips on Fidelity](tips-on-fidelity)
-- [Tips on Wash Sale](tips-on-wash-sale)
-- [Tips on Lumibot](tips-on-lumibot)
-- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
-- [Tips on Certified Deposit](tips-on-certified-deposit)
-- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
-```
-
 ## string
 ```{dropdown} Click to expand/collapse 29 links
 - [Manipulate Strings Using the `strings` Module in Golang](manipulate-strings-using-the-strings-module-in-golang)
-- [Hands on the textwrap Module in Python](hands-on-the-textwrap-module-in-python)
 - [Strings in Golang Are UTF-8](strings-in-golang-are-utf-8)
 - [String in Golang](string-in-golang)
 - [Format Strings in Golang](format-strings-in-golang)
+- [Hands on the textwrap Module in Python](hands-on-the-textwrap-module-in-python)
 - [Useful Rust Crates for String](useful-rust-crates-for-string)
 - [String in Mojo](string-in-mojo)
 - [Work with Long Strings in Python](work-with-long-strings-in-python)
@@ -4597,10 +4597,42 @@ site:
 - [Java Features](java-features)
 ```
 
+## JupyterLab
+```{dropdown} Click to expand/collapse 28 links
+- [Tips on Jupyter-Book](tips-on-jupyter-book)
+- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
+- [Tips on Jupyter Binder](tips-on-jupyter-binder)
+- [Tips on Google Colab](tips-on-google-colab)
+- [Trust a JupyterLab Notebook](trust-a-jupyterlab-notebook)
+- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
+- [Use Spark With Apache Toree Kernel in Juptyerlab](use-spark-with-apache-toree-kernel-in-juptyerlab)
+- [Tips on the Almond Scala Kernel](tips-on-the-almond-scala-kernel)
+- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
+- [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
+- [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
+- [Tips on nbconvert](tips-on-nbconvert)
+- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
+- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
+- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
+- [Use Spark with the Almond Scala Kernel in JupyterLab](use-spark-with-the-almond-scala-kernel-in-jupyterlab)
+- [Specify Dependencies in the Almond Scala Kernel in JupyterLab](specify-dependencies-in-the-almond-scala-kernel-in-jupyterlab)
+- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
+- [Tips on JupyterLab](tips-on-jupyterlab)
+- [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
+- [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
+- [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
+- [My Docker Images](my-docker-images)
+- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
+- [Dashboard Solutions](dashboard-solutions)
+- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
+- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
+- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
+```
+
 ## C++
 ```{dropdown} Click to expand/collapse 28 links
-- [Probability to Lose All Money](probability-to-lose-all-money)
 - [Tips on IDE](tips-on-ide)
+- [Probability to Lose All Money](probability-to-lose-all-money)
 - [Speed up Python Using Native Code](speed-up-python-using-native-code)
 - [Equivalent of C++'s std::set_difference in Rust](equivalent-of-c++-s-std-set_difference-in-rust)
 - [Tips on JSON](tips-on-json)
@@ -4627,38 +4659,6 @@ site:
 - [Profile C++ Code](profile-c++-code)
 - [Erase Elements of a Container Using Iterator in C++](erase-elements-of-a-container-using-iterator-in-c++)
 - [Template Meta Programming](template-meta-programming)
-```
-
-## JupyterLab
-```{dropdown} Click to expand/collapse 28 links
-- [Tips on Jupyter Binder](tips-on-jupyter-binder)
-- [Tips on Google Colab](tips-on-google-colab)
-- [Trust a JupyterLab Notebook](trust-a-jupyterlab-notebook)
-- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
-- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
-- [Use Spark With Apache Toree Kernel in Juptyerlab](use-spark-with-apache-toree-kernel-in-juptyerlab)
-- [Tips on the Almond Scala Kernel](tips-on-the-almond-scala-kernel)
-- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
-- [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
-- [Tips on Jupyter-Book](tips-on-jupyter-book)
-- [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
-- [Tips on nbconvert](tips-on-nbconvert)
-- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
-- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
-- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
-- [Use Spark with the Almond Scala Kernel in JupyterLab](use-spark-with-the-almond-scala-kernel-in-jupyterlab)
-- [Specify Dependencies in the Almond Scala Kernel in JupyterLab](specify-dependencies-in-the-almond-scala-kernel-in-jupyterlab)
-- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
-- [Tips on JupyterLab](tips-on-jupyterlab)
-- [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
-- [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
-- [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
-- [My Docker Images](my-docker-images)
-- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
-- [Dashboard Solutions](dashboard-solutions)
-- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
-- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
-- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
 ```
 
 ## fun problems
@@ -4692,6 +4692,36 @@ site:
 - [Ratio of Boy to Girl](ratio-of-boy-to-girl)
 ```
 
+## PySpark
+```{dropdown} Click to expand/collapse 26 links
+- [Configure Log4J for Spark](configure-log4j-for-spark)
+- [Rust and Spark](rust-and-spark)
+- [New Features in Spark 3](new-features-in-spark-3)
+- [DataFrame Implementations in Python](dataframe-implementations-in-python)
+- [Select All Columns Except a Few from a Table](select-all-columns-except-a-few-from-a-table)
+- [Boolean Column Operators and Functions in Spark](boolean-column-operators-and-functions-in-spark)
+- [Logging in PySpark](logging-in-pyspark)
+- [Spark Issue: TypeError WithReplacement](spark-issue-typeerror-withreplacement)
+- [Spark Issue: Runtimeerror: Arrow Legacy IPC Format Is Not Supported](spark-issue-runtimeerror-arrow-legacy-ipc-format-is-not-supported)
+- [Types of Joins of Spark DataFrames](types-of-joins-of-spark-dataframes)
+- [Inner Join of Spark DataFrames](inner-join-of-spark-dataframes)
+- [Control Number of Partitions of a DataFrame in Spark](control-number-of-partitions-of-a-dataframe-in-spark)
+- [PySpark Issue: Java Gateway Process Exited Before Sending the Driver Its Port Number](pyspark-issue-java-gateway-process-exited-before-sending-the-driver-its-port-number)
+- [Using Optimus for Data Profiling in PySpark](using-optimus-for-data-profiling-in-pyspark)
+- [Using Temporary Columns in Spark](using-temporary-columns-in-spark)
+- [Read/Write CSV in PySpark](read-write-csv-in-pyspark)
+- [Handling Complicated Data Types in Python and PySpark](handling-complicated-data-types-in-python-and-pyspark)
+- [Conversion Between PySpark DataFrames and pandas DataFrames](conversion-between-pyspark-dataframes-and-pandas-dataframes)
+- [Broadcast Join in Spark](broadcast-join-in-spark)
+- [Koalas is pandas API on PySpark](koalas-is-pandas-api-on-pyspark)
+- [Subtle Differences Among Spark DataFrame and PySpark Dataframe](subtle-differences-among-spark-dataframe-and-pyspark-dataframe)
+- [Sample Rows from a Spark DataFrame](sample-rows-from-a-spark-dataframe)
+- [User-defined Function (UDF) in PySpark](user-defined-function-udf-in-pyspark)
+- [Date Functions in Spark](date-functions-in-spark)
+- [Process Big Data Using PySpark](process-big-data-using-pyspark)
+- [Packaging Python Dependencies for PySpark Using Pex](packaging-python-dependencies-for-pyspark-using-pex)
+```
+
 ## API
 ```{dropdown} Click to expand/collapse 26 links
 - [Use Python with Google Spreadsheet](use-python-with-google-spreadsheet)
@@ -4722,38 +4752,9 @@ site:
 - [VirtualBox API](virtualbox-api)
 ```
 
-## PySpark
-```{dropdown} Click to expand/collapse 26 links
-- [New Features in Spark 3](new-features-in-spark-3)
-- [DataFrame Implementations in Python](dataframe-implementations-in-python)
-- [Select All Columns Except a Few from a Table](select-all-columns-except-a-few-from-a-table)
-- [Boolean Column Operators and Functions in Spark](boolean-column-operators-and-functions-in-spark)
-- [Configure Log4J for Spark](configure-log4j-for-spark)
-- [Logging in PySpark](logging-in-pyspark)
-- [Rust and Spark](rust-and-spark)
-- [Spark Issue: TypeError WithReplacement](spark-issue-typeerror-withreplacement)
-- [Spark Issue: Runtimeerror: Arrow Legacy IPC Format Is Not Supported](spark-issue-runtimeerror-arrow-legacy-ipc-format-is-not-supported)
-- [Types of Joins of Spark DataFrames](types-of-joins-of-spark-dataframes)
-- [Inner Join of Spark DataFrames](inner-join-of-spark-dataframes)
-- [Control Number of Partitions of a DataFrame in Spark](control-number-of-partitions-of-a-dataframe-in-spark)
-- [PySpark Issue: Java Gateway Process Exited Before Sending the Driver Its Port Number](pyspark-issue-java-gateway-process-exited-before-sending-the-driver-its-port-number)
-- [Using Optimus for Data Profiling in PySpark](using-optimus-for-data-profiling-in-pyspark)
-- [Using Temporary Columns in Spark](using-temporary-columns-in-spark)
-- [Read/Write CSV in PySpark](read-write-csv-in-pyspark)
-- [Handling Complicated Data Types in Python and PySpark](handling-complicated-data-types-in-python-and-pyspark)
-- [Conversion Between PySpark DataFrames and pandas DataFrames](conversion-between-pyspark-dataframes-and-pandas-dataframes)
-- [Broadcast Join in Spark](broadcast-join-in-spark)
-- [Koalas is pandas API on PySpark](koalas-is-pandas-api-on-pyspark)
-- [Subtle Differences Among Spark DataFrame and PySpark Dataframe](subtle-differences-among-spark-dataframe-and-pyspark-dataframe)
-- [Sample Rows from a Spark DataFrame](sample-rows-from-a-spark-dataframe)
-- [User-defined Function (UDF) in PySpark](user-defined-function-udf-in-pyspark)
-- [Date Functions in Spark](date-functions-in-spark)
-- [Process Big Data Using PySpark](process-big-data-using-pyspark)
-- [Packaging Python Dependencies for PySpark Using Pex](packaging-python-dependencies-for-pyspark-using-pex)
-```
-
 ## PyTorch
 ```{dropdown} Click to expand/collapse 25 links
+- [Tips on Torchvision](tips-on-torchvision)
 - [Ways to Enable and Disable Gradient in PyTorch](ways-to-enable-and-disable-gradient-in-pytorch)
 - [Multiprocessing Issues in Docker](multiprocessing-issues-in-docker)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
@@ -4773,7 +4774,6 @@ site:
 - [Tips on PyTorch](tips-on-pytorch)
 - [Common Issues in PyTorch](common-issues-in-pytorch)
 - [Use PyTorch on GPU](use-pytorch-on-gpu)
-- [Tips on Torchvision](tips-on-torchvision)
 - [Device Managment in PyTorch](device-managment-in-pytorch)
 - [Make Your Model Training Reproducible in PyTorch](make-your-model-training-reproducible-in-pytorch)
 - [Difference Between forward and __call__ Methods of a Module in PyTorch](difference-between-forward-and-__call__-methods-of-a-module-in-pytorch)
@@ -4781,8 +4781,37 @@ site:
 - [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
 ```
 
+## money
+```{dropdown} Click to expand/collapse 24 links
+- [Tips on Certified Deposit](tips-on-certified-deposit)
+- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
+- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
+- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
+- [Tips on Lumibot](tips-on-lumibot)
+- [Tips on Charles Schwab](tips-on-charles-schwab)
+- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
+- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
+- [Probability to Lose All Money](probability-to-lose-all-money)
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Side Projects for Money](side-projects-for-money)
+- [Investment](investment)
+- [Claim Your Forgotten Money](claim-your-forgotten-money)
+- [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
+- [Tips on Brokerage](tips-on-brokerage)
+- [Tips on Earnings Report](tips-on-earnings-report)
+- [Quant Trading](quant-trading)
+- [Understanding Paychecks](understanding-paychecks)
+- [Shorting the Market](shorting-the-market)
+- [Tips on Investing in Structure Notes](tips-on-investing-in-structure-notes)
+- [Tips on Robinhood](tips-on-robinhood)
+- [Tips on Pattern Day Trading](tips-on-pattern-day-trading)
+- [Taxes on Investment Gains](taxes-on-investment-gains)
+- [Tips on eTrade](tips-on-etrade)
+```
+
 ## computer vision
 ```{dropdown} Click to expand/collapse 24 links
+- [Data for Computer Vision Research](data-for-computer-vision-research)
 - [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
 - [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
 - [Rule-base Image Process](rule-base-image-process)
@@ -4803,38 +4832,9 @@ site:
 - [Extract Images from Video Using OpenCV in Python](extract-images-from-video-using-opencv-in-python)
 - [Convert Format of Videos Using Using Python](convert-format-of-videos-using-using-python)
 - [Manipulate Videos Using MoviePy in Python](manipulate-videos-using-moviepy-in-python)
-- [Data for Computer Vision Research](data-for-computer-vision-research)
 - [Tips on OpenCV](tips-on-opencv)
 - [Computer Vision Tools](computer-vision-tools)
 - [Models for Computer Vision](models-for-computer-vision)
-```
-
-## money
-```{dropdown} Click to expand/collapse 24 links
-- [Probability to Lose All Money](probability-to-lose-all-money)
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
-- [Side Projects for Money](side-projects-for-money)
-- [Investment](investment)
-- [Claim Your Forgotten Money](claim-your-forgotten-money)
-- [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
-- [Tips on Brokerage](tips-on-brokerage)
-- [Tips on Earnings Report](tips-on-earnings-report)
-- [Quant Trading](quant-trading)
-- [Tips on Charles Schwab](tips-on-charles-schwab)
-- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
-- [Understanding Paychecks](understanding-paychecks)
-- [Shorting the Market](shorting-the-market)
-- [Tips on Investing in Structure Notes](tips-on-investing-in-structure-notes)
-- [Tips on Robinhood](tips-on-robinhood)
-- [Tips on Pattern Day Trading](tips-on-pattern-day-trading)
-- [Taxes on Investment Gains](taxes-on-investment-gains)
-- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
-- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
-- [Tips on Lumibot](tips-on-lumibot)
-- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
-- [Tips on eTrade](tips-on-etrade)
-- [Tips on Certified Deposit](tips-on-certified-deposit)
 ```
 
 ## internet
@@ -4895,6 +4895,7 @@ site:
 
 ## CV
 ```{dropdown} Click to expand/collapse 23 links
+- [Data for Computer Vision Research](data-for-computer-vision-research)
 - [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
 - [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
 - [Rule-base Image Process](rule-base-image-process)
@@ -4915,7 +4916,6 @@ site:
 - [Extract Images from Video Using OpenCV in Python](extract-images-from-video-using-opencv-in-python)
 - [Convert Format of Videos Using Using Python](convert-format-of-videos-using-using-python)
 - [Manipulate Videos Using MoviePy in Python](manipulate-videos-using-moviepy-in-python)
-- [Data for Computer Vision Research](data-for-computer-vision-research)
 - [Tips on OpenCV](tips-on-opencv)
 - [Computer Vision Tools](computer-vision-tools)
 ```
@@ -4947,6 +4947,32 @@ site:
 - [Erase Elements of a Container Using Iterator in C++](erase-elements-of-a-container-using-iterator-in-c++)
 ```
 
+## database
+```{dropdown} Click to expand/collapse 22 links
+- [Tips on MySQL](tips-on-mysql)
+- [Query Pandas Data Frames Using SQL](query-pandas-data-frames-using-sql)
+- [Extract Identifier Names from a SQL Query Using Sqlfluff](extract-identifier-names-from-a-sql-query-using-sqlfluff)
+- [Tips on JSON](tips-on-json)
+- [Improve the Performance of Spark](improve-the-performance-of-spark)
+- [Comparison of Embedded Databases](comparison-of-embedded-databases)
+- [Popular Databases](popular-databases)
+- [Database Clients for Rust](database-clients-for-rust)
+- [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
+- [Tips on BigQuery](tips-on-bigquery)
+- [Useful Rust Crates for Database](useful-rust-crates-for-database)
+- [Nested Data Structures in Databases](nested-data-structures-in-databases)
+- [Avoid Database Lock in SQLite3](avoid-database-lock-in-sqlite3)
+- [Tips on MongoDB](tips-on-mongodb)
+- [General Tips on SQL](general-tips-on-sql)
+- [Connect to Databases Using pyodbc in Python](connect-to-databases-using-pyodbc-in-python)
+- [Tips on Elasticsearch](tips-on-elasticsearch)
+- [SQL Database Client-server Protocols](sql-database-client-server-protocols)
+- [SQL Equivalent](sql-equivalent)
+- [Data Quality](data-quality)
+- [Tips on Graph Database](tips-on-graph-database)
+- [Docker Images for Database](docker-images-for-database)
+```
+
 ## Ubuntu
 ```{dropdown} Click to expand/collapse 22 links
 - [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
@@ -4973,45 +4999,19 @@ site:
 - [Tips on Kerberos](tips-on-kerberos)
 ```
 
-## database
-```{dropdown} Click to expand/collapse 22 links
-- [Query Pandas Data Frames Using SQL](query-pandas-data-frames-using-sql)
-- [Extract Identifier Names from a SQL Query Using Sqlfluff](extract-identifier-names-from-a-sql-query-using-sqlfluff)
-- [Tips on JSON](tips-on-json)
-- [Improve the Performance of Spark](improve-the-performance-of-spark)
-- [Comparison of Embedded Databases](comparison-of-embedded-databases)
-- [Popular Databases](popular-databases)
-- [Database Clients for Rust](database-clients-for-rust)
-- [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
-- [Tips on BigQuery](tips-on-bigquery)
-- [Useful Rust Crates for Database](useful-rust-crates-for-database)
-- [Nested Data Structures in Databases](nested-data-structures-in-databases)
-- [Avoid Database Lock in SQLite3](avoid-database-lock-in-sqlite3)
-- [Tips on MongoDB](tips-on-mongodb)
-- [General Tips on SQL](general-tips-on-sql)
-- [Connect to Databases Using pyodbc in Python](connect-to-databases-using-pyodbc-in-python)
-- [Tips on MySQL](tips-on-mysql)
-- [Tips on Elasticsearch](tips-on-elasticsearch)
-- [SQL Database Client-server Protocols](sql-database-client-server-protocols)
-- [SQL Equivalent](sql-equivalent)
-- [Data Quality](data-quality)
-- [Tips on Graph Database](tips-on-graph-database)
-- [Docker Images for Database](docker-images-for-database)
-```
-
 ## JavaScript
 ```{dropdown} Click to expand/collapse 21 links
+- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
+- [Tips on Deno](tips-on-deno)
 - [Firebug Is Awsome](firebug-is-awsome)
 - [Hands on JavaScript](hands-on-javascript)
 - [Tips on JSON](tips-on-json)
-- [Tips on Deno](tips-on-deno)
 - [Tips on Gatsby](tips-on-gatsby)
 - [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
 - [Tips on Electron](tips-on-electron)
 - [Tips on yarn](tips-on-yarn)
 - [Engine and Runtime for JavaScript](engine-and-runtime-for-javascript)
 - [Embeddable Scriting Language](embeddable-scriting-language)
-- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
 - [Run UserScripts in Browsers](run-userscripts-in-browsers)
 - [Tips on Web Development](tips-on-web-development)
 - [Tips on JavaScript](tips-on-javascript)
@@ -5022,6 +5022,30 @@ site:
 - [Dataframe in JavaScript](dataframe-in-javascript)
 - [Python in Browser](python-in-browser)
 - [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
+```
+
+## terminal
+```{dropdown} Click to expand/collapse 20 links
+- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
+- [Show Image in Terminal](show-image-in-terminal)
+- [Print Colored Text in Terminal in Rust](print-colored-text-in-terminal-in-rust)
+- [Quickly Open a Directory in Terminal in Mac](quickly-open-a-directory-in-terminal-in-mac)
+- [Good Terminal Apps](good-terminal-apps)
+- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
+- [Tips on Windows Terminal](tips-on-windows-terminal)
+- [Zellij Is the Best Terminal Multiplexer](zellij-is-the-best-terminal-multiplexer)
+- [Tips on Gh](tips-on-gh)
+- [Tips on WezTerm](tips-on-wezterm)
+- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
+- [Hands on the Python Library pexpect](hands-on-the-python-library-pexpect)
+- [Terminal Multiplexers](terminal-multiplexers)
+- [Ghostty Is a Decent Terminal App](ghostty-is-a-decent-terminal-app)
+- [Useful Tools in Linux](useful-tools-in-linux)
+- [Tips on Hyper](tips-on-hyper)
+- [WaveTerm Is the Best Terminal App](waveterm-is-the-best-terminal-app)
+- [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
+- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
+- [Print Colored Text in Terminal](print-colored-text-in-terminal)
 ```
 
 ## visualization
@@ -5072,32 +5096,32 @@ site:
 - [Kotlin IO](kotlin-io)
 ```
 
-## terminal
-```{dropdown} Click to expand/collapse 20 links
-- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
-- [Print Colored Text in Terminal in Rust](print-colored-text-in-terminal-in-rust)
-- [Quickly Open a Directory in Terminal in Mac](quickly-open-a-directory-in-terminal-in-mac)
-- [Good Terminal Apps](good-terminal-apps)
-- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
-- [Tips on Windows Terminal](tips-on-windows-terminal)
-- [Zellij Is the Best Terminal Multiplexer](zellij-is-the-best-terminal-multiplexer)
-- [Tips on Gh](tips-on-gh)
-- [Tips on WezTerm](tips-on-wezterm)
-- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Hands on the Python Library pexpect](hands-on-the-python-library-pexpect)
-- [Terminal Multiplexers](terminal-multiplexers)
-- [Ghostty Is a Decent Terminal App](ghostty-is-a-decent-terminal-app)
-- [Useful Tools in Linux](useful-tools-in-linux)
-- [Tips on Hyper](tips-on-hyper)
-- [WaveTerm Is the Best Terminal App](waveterm-is-the-best-terminal-app)
-- [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
-- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
-- [Show Image in Terminal](show-image-in-terminal)
-- [Print Colored Text in Terminal](print-colored-text-in-terminal)
+## memory
+```{dropdown} Click to expand/collapse 19 links
+- [Tips on Valgrind](tips-on-valgrind)
+- [Get Hardware Information in Golang](get-hardware-information-in-golang)
+- [Reduce Memory Needed to Train Deep Learning Models](reduce-memory-needed-to-train-deep-learning-models)
+- [Memory Profiler for Python](memory-profiler-for-python)
+- [Hands on the psutil Module in Python](hands-on-the-psutil-module-in-python)
+- [Hands on the Resource Module in Python](hands-on-the-resource-module-in-python)
+- [Get Total Physical Memory in Python](get-total-physical-memory-in-python)
+- [Memory Layout of Enum in Rust](memory-layout-of-enum-in-rust)
+- [Memory Layout in Rust](memory-layout-in-rust)
+- [Spark Issue: Container Killed by Yarn for Exceeding Memory Limits](spark-issue-container-killed-by-yarn-for-exceeding-memory-limits)
+- [Spark Issue: Block Could Not Be Removed as It Was Not Found on Disk or in Memory](spark-issue-block-could-not-be-removed-as-it-was-not-found-on-disk-or-in-memory)
+- [Understand Memory Usage in PyTorch](understand-memory-usage-in-pytorch)
+- [Profile Rust Applications](profile-rust-applications)
+- [Spark Issue: IllegalArgumentException: System Memory Must Be At Least](spark-issue-illegalargumentexception-system-memory-must-be-at-least)
+- [Tips on Bytehound](tips-on-bytehound)
+- [Use pyarrow to Share Data in Memory in Python](use-pyarrow-to-share-data-in-memory-in-python)
+- [Memory in JVM](memory-in-jvm)
+- [Spark Issue: High Disk and Memory Spill When Doing Shuffle](spark-issue-high-disk-and-memory-spill-when-doing-shuffle)
+- [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
 ```
 
 ## Windows
 ```{dropdown} Click to expand/collapse 19 links
+- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
 - [Convert MS Office Document to Text](convert-ms-office-document-to-text)
 - [Tips on Windows Terminal](tips-on-windows-terminal)
 - [Debugging and Testing Tools for Windows](debugging-and-testing-tools-for-windows)
@@ -5113,10 +5137,32 @@ site:
 - [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
 - [Make Windows Restart Regularly](make-windows-restart-regularly)
 - [Map Keys in Windows](map-keys-in-windows)
-- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
 - [Cygwin Portable](cygwin-portable)
 - [Useful Windows Shortcuts](useful-windows-shortcuts)
 - [Add an Entry into the Right-click Menu in Windows](add-an-entry-into-the-right-click-menu-in-windows)
+```
+
+## file
+```{dropdown} Click to expand/collapse 19 links
+- [Embed File in Golang Binary](embed-file-in-golang-binary)
+- [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
+- [Hands on the filepath Library in Golang](hands-on-the-filepath-library-in-golang)
+- [Check Whether a Path Exists in Golang](check-whether-a-path-exists-in-golang)
+- [Check Whether a File Is a Socket in Golang](check-whether-a-file-is-a-socket-in-golang)
+- [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
+- [IO in Rust](io-in-rust)
+- [Bundle Resource Files into a Rust Application](bundle-resource-files-into-a-rust-application)
+- [Hands on the Glob Crate in Rust](hands-on-the-glob-crate-in-rust)
+- [Header Files in Linux](header-files-in-linux)
+- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
+- [A Text File Is Marked as a Binary File](a-text-file-is-marked-as-a-binary-file)
+- [Download a Single File from a GitHub Repository](download-a-single-file-from-a-github-repository)
+- [Read Tensorboard Logs](read-tensorboard-logs)
+- [Read Multiple Files into a DataFrame in Spark](read-multiple-files-into-a-dataframe-in-spark)
+- [Read/Write Files/Tables in Spark](read-write-files-tables-in-spark)
+- [Download Files from the Internet in Python](download-files-from-the-internet-in-python)
+- [Clean Temporary Files in Linux](clean-temporary-files-in-linux)
+- [Create a Temporary File in Linux](create-a-temporary-file-in-linux)
 ```
 
 ## tools
@@ -5142,50 +5188,26 @@ site:
 - [Deep Learning Tools and Apps](deep-learning-tools-and-apps)
 ```
 
-## memory
-```{dropdown} Click to expand/collapse 19 links
-- [Reduce Memory Needed to Train Deep Learning Models](reduce-memory-needed-to-train-deep-learning-models)
-- [Memory Profiler for Python](memory-profiler-for-python)
-- [Hands on the psutil Module in Python](hands-on-the-psutil-module-in-python)
-- [Hands on the Resource Module in Python](hands-on-the-resource-module-in-python)
-- [Get Total Physical Memory in Python](get-total-physical-memory-in-python)
-- [Get Hardware Information in Golang](get-hardware-information-in-golang)
-- [Memory Layout of Enum in Rust](memory-layout-of-enum-in-rust)
-- [Memory Layout in Rust](memory-layout-in-rust)
-- [Spark Issue: Container Killed by Yarn for Exceeding Memory Limits](spark-issue-container-killed-by-yarn-for-exceeding-memory-limits)
-- [Spark Issue: Block Could Not Be Removed as It Was Not Found on Disk or in Memory](spark-issue-block-could-not-be-removed-as-it-was-not-found-on-disk-or-in-memory)
-- [Understand Memory Usage in PyTorch](understand-memory-usage-in-pytorch)
-- [Profile Rust Applications](profile-rust-applications)
-- [Spark Issue: IllegalArgumentException: System Memory Must Be At Least](spark-issue-illegalargumentexception-system-memory-must-be-at-least)
-- [Tips on Valgrind](tips-on-valgrind)
-- [Tips on Bytehound](tips-on-bytehound)
-- [Use pyarrow to Share Data in Memory in Python](use-pyarrow-to-share-data-in-memory-in-python)
-- [Memory in JVM](memory-in-jvm)
-- [Spark Issue: High Disk and Memory Spill When Doing Shuffle](spark-issue-high-disk-and-memory-spill-when-doing-shuffle)
-- [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
-```
-
-## file
-```{dropdown} Click to expand/collapse 19 links
-- [IO in Rust](io-in-rust)
-- [Bundle Resource Files into a Rust Application](bundle-resource-files-into-a-rust-application)
-- [Embed File in Golang Binary](embed-file-in-golang-binary)
-- [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
-- [Hands on the Glob Crate in Rust](hands-on-the-glob-crate-in-rust)
-- [Hands on the filepath Library in Golang](hands-on-the-filepath-library-in-golang)
-- [Check Whether a Path Exists in Golang](check-whether-a-path-exists-in-golang)
-- [Check Whether a File Is a Socket in Golang](check-whether-a-file-is-a-socket-in-golang)
-- [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
-- [Header Files in Linux](header-files-in-linux)
-- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
-- [A Text File Is Marked as a Binary File](a-text-file-is-marked-as-a-binary-file)
-- [Download a Single File from a GitHub Repository](download-a-single-file-from-a-github-repository)
-- [Read Tensorboard Logs](read-tensorboard-logs)
-- [Read Multiple Files into a DataFrame in Spark](read-multiple-files-into-a-dataframe-in-spark)
-- [Read/Write Files/Tables in Spark](read-write-files-tables-in-spark)
-- [Download Files from the Internet in Python](download-files-from-the-internet-in-python)
-- [Clean Temporary Files in Linux](clean-temporary-files-in-linux)
-- [Create a Temporary File in Linux](create-a-temporary-file-in-linux)
+## command line
+```{dropdown} Click to expand/collapse 18 links
+- [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
+- [Parsing Command-line Arguments in Rust](parsing-command-line-arguments-in-rust)
+- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
+- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
+- [Copying Files in Linux](copying-files-in-linux)
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [Show Image in Terminal](show-image-in-terminal)
+- [Great Command Line Tools Developed in Rust](great-command-line-tools-developed-in-rust)
+- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
+- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
+- [Ghostty Is a Decent Terminal App](ghostty-is-a-decent-terminal-app)
+- [Tools for Differencing Text Files](tools-for-differencing-text-files)
+- [Advanced Use of head and tail](advanced-use-of-head-and-tail)
+- [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
+- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
+- [Print Rows from a Text File](print-rows-from-a-text-file)
+- [Hands on the highlight command](hands-on-the-highlight-command)
+- [Sample Lines from a File Using Command Line](sample-lines-from-a-file-using-command-line)
 ```
 
 ## GPU
@@ -5210,28 +5232,6 @@ site:
 - [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
 ```
 
-## command line
-```{dropdown} Click to expand/collapse 18 links
-- [Copying Files in Linux](copying-files-in-linux)
-- [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
-- [Parsing Command-line Arguments in Rust](parsing-command-line-arguments-in-rust)
-- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
-- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
-- [Great Command Line Tools Developed in Rust](great-command-line-tools-developed-in-rust)
-- [Ghostty Is a Decent Terminal App](ghostty-is-a-decent-terminal-app)
-- [Tools for Differencing Text Files](tools-for-differencing-text-files)
-- [Advanced Use of head and tail](advanced-use-of-head-and-tail)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
-- [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
-- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
-- [Show Image in Terminal](show-image-in-terminal)
-- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
-- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
-- [Print Rows from a Text File](print-rows-from-a-text-file)
-- [Hands on the highlight command](hands-on-the-highlight-command)
-- [Sample Lines from a File Using Command Line](sample-lines-from-a-file-using-command-line)
-```
-
 ## GUI
 ```{dropdown} Click to expand/collapse 18 links
 - [GUI-based Mind Mapping Tools](gui-based-mind-mapping-tools)
@@ -5254,8 +5254,93 @@ site:
 - [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
 ```
 
+## LaTeX
+```{dropdown} Click to expand/collapse 17 links
+- [Tips on IDE](tips-on-ide)
+- [IDEs for LaTeX](ides-for-latex)
+- [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
+- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
+- [TeXstudio, Bravo!](texstudio-bravo)
+- [Tips on LaTeX](tips-on-latex)
+- [Scientific References](scientific-references)
+- [LaTeX Commands for Compiling](latex-commands-for-compiling)
+- [Fonts for Linux](fonts-for-linux)
+- [General Tips for LaTeX](general-tips-for-latex)
+- [Use LaTeX in Linux](use-latex-in-linux)
+- [Common Errors in Bibliographies](common-errors-in-bibliographies)
+- [Convert Math Formula and Table To LaTeX](convert-math-formula-and-table-to-latex)
+- [Set Line Space in LaTeX](set-line-space-in-latex)
+- [LaTeX for Chinese](latex-for-chinese)
+- [Graphics in LaTeX](graphics-in-latex)
+- [Convert LaTeX to Word](convert-latex-to-word)
+```
+
+## cloud
+```{dropdown} Click to expand/collapse 17 links
+- [Tips on Amazon AWS](tips-on-amazon-aws)
+- [Tips on GCP](tips-on-gcp)
+- [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
+- [Tips on BigQuery](tips-on-bigquery)
+- [Cloud Object Storage](cloud-object-storage)
+- [App Platforms](app-platforms)
+- [GCP Compute Engine VM Instances](gcp-compute-engine-vm-instances)
+- [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
+- [Tips on Terraform](tips-on-terraform)
+- [Tips on GCP Compute Engine](tips-on-gcp-compute-engine)
+- [Setup GitHub Actions Self-hosted Runners on GCP](setup-github-actions-self-hosted-runners-on-gcp)
+- [Baidu Yun Tips](baidu-yun-tips)
+- [Tips on Resilio Sync](tips-on-resilio-sync)
+- [Tips on TeamDrive](tips-on-teamdrive)
+- [Synchronize Files Using Dropbox](synchronize-files-using-dropbox)
+- [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
+- [Cloud VMs Tips](cloud-vms-tips)
+```
+
+## Git
+```{dropdown} Click to expand/collapse 17 links
+- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
+- [Mercurial for Git Users](mercurial-for-git-users)
+- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
+- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
+- [Git Large File Storage](git-large-file-storage)
+- [Tips on Git Submodule](tips-on-git-submodule)
+- [Hands on Dulwich](hands-on-dulwich)
+- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
+- [Git Implementations and Bindings in Python](git-implementations-and-bindings-in-python)
+- [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
+- [Tips on Git-Filter-Repo](tips-on-git-filter-repo)
+- [Tips on Git](tips-on-git)
+- [Git Errors and Solutions](git-errors-and-solutions)
+- [Gitignore Examples](gitignore-examples)
+- [Reduce Size of Git Repository](reduce-size-of-git-repository)
+- [Software Version Management Tools](software-version-management-tools)
+- [Use Git Behind a Proxy](use-git-behind-a-proxy)
+```
+
+## hardware
+```{dropdown} Click to expand/collapse 17 links
+- [Some Reading Notes About SSD](some-reading-notes-about-ssd)
+- [Booting to the Boot Menu and BIOS](booting-to-the-boot-menu-and-bios)
+- [Ways to Make a Bootable Flash Drive in Linux](ways-to-make-a-bootable-flash-drive-in-linux)
+- [Get Hardware Information in Golang](get-hardware-information-in-golang)
+- [Tools for IOT](tools-for-iot)
+- [Query Hardware Information in Linux](query-hardware-information-in-linux)
+- [Autonomous Driving](autonomous-driving)
+- [Format a Disk on Linux](format-a-disk-on-linux)
+- [Screen Resolution in macOS](screen-resolution-in-macos)
+- [Rust for Robots](rust-for-robots)
+- [Rust for IoT](rust-for-iot)
+- [Tips on Raspberry Pi](tips-on-raspberry-pi)
+- [User Printers and Scanners on Linux](user-printers-and-scanners-on-linux)
+- [Tips on Touchpad](tips-on-touchpad)
+- [Make Linux Run Faster](make-linux-run-faster)
+- [Hardware for AI](hardware-for-ai)
+- [Functional Keys on Computers](functional-keys-on-computers)
+```
+
 ## house
 ```{dropdown} Click to expand/collapse 17 links
+- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
 - [Tips on Dishwasher](tips-on-dishwasher)
 - [Replace a Bathroom Fan](replace-a-bathroom-fan)
 - [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
@@ -5271,104 +5356,39 @@ site:
 - [Tips on Washing Machine](tips-on-washing-machine)
 - [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
 - [Drain Guard for Downspout](drain-guard-for-downspout)
-- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
 - [Shopping At Homedepot](shopping-at-homedepot)
 ```
 
-## LaTeX
-```{dropdown} Click to expand/collapse 17 links
-- [Tips on IDE](tips-on-ide)
-- [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
-- [TeXstudio, Bravo!](texstudio-bravo)
-- [Tips on LaTeX](tips-on-latex)
-- [IDEs for LaTeX](ides-for-latex)
-- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
-- [Scientific References](scientific-references)
-- [LaTeX Commands for Compiling](latex-commands-for-compiling)
-- [Fonts for Linux](fonts-for-linux)
-- [General Tips for LaTeX](general-tips-for-latex)
-- [Use LaTeX in Linux](use-latex-in-linux)
-- [Common Errors in Bibliographies](common-errors-in-bibliographies)
-- [Convert Math Formula and Table To LaTeX](convert-math-formula-and-table-to-latex)
-- [Set Line Space in LaTeX](set-line-space-in-latex)
-- [LaTeX for Chinese](latex-for-chinese)
-- [Graphics in LaTeX](graphics-in-latex)
-- [Convert LaTeX to Word](convert-latex-to-word)
-```
-
-## Git
-```{dropdown} Click to expand/collapse 17 links
-- [Git Large File Storage](git-large-file-storage)
-- [Tips on Git Submodule](tips-on-git-submodule)
-- [Hands on Dulwich](hands-on-dulwich)
-- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
-- [Git Implementations and Bindings in Python](git-implementations-and-bindings-in-python)
-- [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
-- [Mercurial for Git Users](mercurial-for-git-users)
-- [Tips on Git-Filter-Repo](tips-on-git-filter-repo)
-- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
-- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
-- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
-- [Tips on Git](tips-on-git)
-- [Git Errors and Solutions](git-errors-and-solutions)
-- [Gitignore Examples](gitignore-examples)
-- [Reduce Size of Git Repository](reduce-size-of-git-repository)
-- [Software Version Management Tools](software-version-management-tools)
-- [Use Git Behind a Proxy](use-git-behind-a-proxy)
-```
-
-## hardware
-```{dropdown} Click to expand/collapse 17 links
-- [Get Hardware Information in Golang](get-hardware-information-in-golang)
-- [Tools for IOT](tools-for-iot)
-- [Query Hardware Information in Linux](query-hardware-information-in-linux)
-- [Autonomous Driving](autonomous-driving)
-- [Format a Disk on Linux](format-a-disk-on-linux)
-- [Screen Resolution in macOS](screen-resolution-in-macos)
-- [Rust for Robots](rust-for-robots)
-- [Rust for IoT](rust-for-iot)
-- [Tips on Raspberry Pi](tips-on-raspberry-pi)
-- [User Printers and Scanners on Linux](user-printers-and-scanners-on-linux)
-- [Tips on Touchpad](tips-on-touchpad)
-- [Make Linux Run Faster](make-linux-run-faster)
-- [Ways to Make a Bootable Flash Drive in Linux](ways-to-make-a-bootable-flash-drive-in-linux)
-- [Hardware for AI](hardware-for-ai)
-- [Booting to the Boot Menu and BIOS](booting-to-the-boot-menu-and-bios)
-- [Functional Keys on Computers](functional-keys-on-computers)
-- [Some Reading Notes About SSD](some-reading-notes-about-ssd)
-```
-
-## cloud
-```{dropdown} Click to expand/collapse 17 links
-- [Tips on GCP](tips-on-gcp)
-- [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
-- [Tips on BigQuery](tips-on-bigquery)
-- [Cloud Object Storage](cloud-object-storage)
-- [App Platforms](app-platforms)
-- [GCP Compute Engine VM Instances](gcp-compute-engine-vm-instances)
-- [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
-- [Tips on Terraform](tips-on-terraform)
-- [Tips on GCP Compute Engine](tips-on-gcp-compute-engine)
-- [Setup GitHub Actions Self-hosted Runners on GCP](setup-github-actions-self-hosted-runners-on-gcp)
-- [Baidu Yun Tips](baidu-yun-tips)
-- [Tips on Resilio Sync](tips-on-resilio-sync)
-- [Tips on TeamDrive](tips-on-teamdrive)
-- [Synchronize Files Using Dropbox](synchronize-files-using-dropbox)
-- [Tips on Amazon AWS](tips-on-amazon-aws)
-- [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
-- [Cloud VMs Tips](cloud-vms-tips)
+## array
+```{dropdown} Click to expand/collapse 16 links
+- [Collections in Kotlin](collections-in-kotlin)
+- [Array in Scala](array-in-scala)
+- [Array in Kotlin](array-in-kotlin)
+- [Hands on Array in Golang](hands-on-array-in-golang)
+- [Broadcast Arrays in Numpy](broadcast-arrays-in-numpy)
+- [Concatenate Static Arrays in Rust](concatenate-static-arrays-in-rust)
+- [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
+- [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
+- [Load Images into Pillow](load-images-into-pillow)
+- [Pad a Sequence in Python](pad-a-sequence-in-python)
+- [Array in Rust](array-in-rust)
+- [Numpy Arrays in Python](numpy-arrays-in-python)
+- [Misc Tips on Java](misc-tips-on-java)
+- [Copy Arrays in Java](copy-arrays-in-java)
+- [Collections in Java](collections-in-java)
+- [Arrays in Java](arrays-in-java)
 ```
 
 ## Jupyter
 ```{dropdown} Click to expand/collapse 16 links
+- [Tips on Jupyter-Book](tips-on-jupyter-book)
+- [Tips on Deno](tips-on-deno)
+- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
 - [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
 - [Tips on Jupyter Binder](tips-on-jupyter-binder)
 - [Tips on Google Colab](tips-on-google-colab)
 - [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
-- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
-- [Tips on Deno](tips-on-deno)
 - [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
-- [Tips on Jupyter-Book](tips-on-jupyter-book)
 - [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
 - [Tips on nbconvert](tips-on-nbconvert)
 - [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
@@ -5399,33 +5419,14 @@ site:
 - [Driving on Snow and Ice](driving-on-snow-and-ice)
 ```
 
-## array
-```{dropdown} Click to expand/collapse 16 links
-- [Broadcast Arrays in Numpy](broadcast-arrays-in-numpy)
-- [Hands on Array in Golang](hands-on-array-in-golang)
-- [Concatenate Static Arrays in Rust](concatenate-static-arrays-in-rust)
-- [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
-- [Array in Scala](array-in-scala)
-- [Collections in Kotlin](collections-in-kotlin)
-- [Array in Kotlin](array-in-kotlin)
-- [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
-- [Load Images into Pillow](load-images-into-pillow)
-- [Pad a Sequence in Python](pad-a-sequence-in-python)
-- [Array in Rust](array-in-rust)
-- [Numpy Arrays in Python](numpy-arrays-in-python)
-- [Misc Tips on Java](misc-tips-on-java)
-- [Copy Arrays in Java](copy-arrays-in-java)
-- [Collections in Java](collections-in-java)
-- [Arrays in Java](arrays-in-java)
-```
-
 ## format
 ```{dropdown} Click to expand/collapse 16 links
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [Format Strings in Golang](format-strings-in-golang)
 - [SQL Style And Formatter](sql-style-and-formatter)
 - [Tips on Sqlfluff](tips-on-sqlfluff)
 - [The println Macro in Rust](the-println-macro-in-rust)
 - [Convert Pandas DataFrame to Other Format](convert-pandas-dataframe-to-other-format)
-- [Format Strings in Golang](format-strings-in-golang)
 - [Tips on Cargo](tips-on-cargo)
 - [Format a Flash Drive in a Linux Virtual Machine](format-a-flash-drive-in-a-linux-virtual-machine)
 - [Tips on Rustfmt](tips-on-rustfmt)
@@ -5436,7 +5437,120 @@ site:
 - [Date and Time in Rust](date-and-time-in-rust)
 - [Format a String in Python](format-a-string-in-python)
 - [Format Date and Time in Python](format-date-and-time-in-python)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+```
+
+## Visual Studio Code
+```{dropdown} Click to expand/collapse 15 links
+- [Tips on Visual Studio Code](tips-on-visual-studio-code)
+- [Visual Studio Code for Java Development](visual-studio-code-for-java-development)
+- [Visual Studio Code Server](visual-studio-code-server)
+- [Visual Studio Code for Scala Development](visual-studio-code-for-scala-development)
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+- [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [Sort Python Imports Using isort](sort-python-imports-using-isort)
+- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
+- [Python Docstring Generator for Visual Studio Code](python-docstring-generator-for-visual-studio-code)
+- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
+- [Debug a Rust Application](debug-a-rust-application)
+- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
+- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
+- [Vim as a Universal Editor](vim-as-a-universal-editor)
+```
+
+## notebook
+```{dropdown} Click to expand/collapse 15 links
+- [Tips on Jupyter-Book](tips-on-jupyter-book)
+- [Tips on Deno](tips-on-deno)
+- [Docker Images for Notebooks](docker-images-for-notebooks)
+- [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
+- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
+- [Tips on nbconvert](tips-on-nbconvert)
+- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
+- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
+- [Format Python Code Using Black](format-python-code-using-black)
+- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
+- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
+- [Tips on Zeppelin](tips-on-zeppelin)
+- [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
+- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
+- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
+```
+
+## finance
+```{dropdown} Click to expand/collapse 15 links
+- [Good Accounting Tools](good-accounting-tools)
+- [Tips on Certified Deposit](tips-on-certified-deposit)
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Financial Data](financial-data)
+- [Rust for Financial Investment](rust-for-financial-investment)
+- [Tax in US](tax-in-us)
+- [Tips on Empower](tips-on-empower)
+- [Investment](investment)
+- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
+- [Claim Your Forgotten Money](claim-your-forgotten-money)
+- [Tips on Credit Report](tips-on-credit-report)
+- [Tips on Buying a House](tips-on-buying-a-house)
+- [Tips on Brokerage](tips-on-brokerage)
+- [Understanding Paychecks](understanding-paychecks)
+- [Tips on eTrade](tips-on-etrade)
+```
+
+## proxy
+```{dropdown} Click to expand/collapse 15 links
+- [Proxy for sudo](proxy-for-sudo)
+- [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
+- [Network in Docker Containers](network-in-docker-containers)
+- [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
+- [Tips on TinyProxy](tips-on-tinyproxy)
+- [Proxy and VPN Services](proxy-and-vpn-services)
+- [Good Choices of Reverse Proxies](good-choices-of-reverse-proxies)
+- [Configure Proxy for Apt](configure-proxy-for-apt)
+- [Speed Up sbt in China](speed-up-sbt-in-china)
+- [Use wget with Proxy](use-wget-with-proxy)
+- [Install Python Packages Behind Firewall](install-python-packages-behind-firewall)
+- [Resolve the DNS Contamination Issue in Firefox](resolve-the-dns-contamination-issue-in-firefox)
+- [Escape from the Great Firewall of China](escape-from-the-great-firewall-of-china)
+- [Use Git Behind a Proxy](use-git-behind-a-proxy)
+- [Find Out Proxy in Use](find-out-proxy-in-use)
+```
+
+## file system
+```{dropdown} Click to expand/collapse 15 links
+- [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
+- [Make a Rust Project Both a Library and a Binary](make-a-rust-project-both-a-library-and-a-binary)
+- [WSL2 Filesystem](wsl2-filesystem)
+- [Watching Filesystem Changes Using "inotify"](watching-filesystem-changes-using-inotify)
+- [Hands on the Python submodule os.path](hands-on-the-python-submodule-os.path)
+- [Hands on the Python module glob](hands-on-the-python-module-glob)
+- [Hands on the Python module shutil](hands-on-the-python-module-shutil)
+- [Hadoop Filesystem Tips](hadoop-filesystem-tips)
+- [Tips on NFS](tips-on-nfs)
+- [Tips on rsync](tips-on-rsync)
+- [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
+- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
+- [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
+- [Check Whether a File Exists in Spark](check-whether-a-file-exists-in-spark)
+- [Change File Permission on Linux](change-file-permission-on-linux)
+```
+
+## PDF
+```{dropdown} Click to expand/collapse 15 links
+- [Convert PDF to EPS](convert-pdf-to-eps)
+- [Convert Web Pages to PDF Using Python](convert-web-pages-to-pdf-using-python)
+- [Hands on the Python Library pdfplumber](hands-on-the-python-library-pdfplumber)
+- [Convert PDF to Image Using Python](convert-pdf-to-image-using-python)
+- [Extracting Data from PDF Files](extracting-data-from-pdf-files)
+- [Editing PDF Files Using Stirling-PDF](editing-pdf-files-using-stirling-pdf)
+- [Extracting PDF Pages Using the Python Package PyPDF](extracting-pdf-pages-using-the-python-package-pypdf)
+- [Auto Rename eTrade Employee Stock Plan Release Confirmations Using pdftotext](auto-rename-etrade-employee-stock-plan-release-confirmations-using-pdftotext)
+- [Editing PDF Files](editing-pdf-files)
+- [File Converting and Generating Tools](file-converting-and-generating-tools)
+- [Useful Tools in Linux](useful-tools-in-linux)
+- [Tips on LibreOffice](tips-on-libreoffice)
+- [View and Edit PDF Documents Using Okular](view-and-edit-pdf-documents-using-okular)
+- [Use pdftk to Manipulating PDF Files](use-pdftk-to-manipulating-pdf-files)
+- [Convert PDF to Word](convert-pdf-to-word)
 ```
 
 ## probability
@@ -5456,101 +5570,6 @@ site:
 - [Randomly Select an Integer?!](randomly-select-an-integer)
 - [Calculate Covariance Between Multinomial Categories by Hand](calculate-covariance-between-multinomial-categories-by-hand)
 - [How Many Empty Boxes?](how-many-empty-boxes)
-```
-
-## notebook
-```{dropdown} Click to expand/collapse 15 links
-- [Docker Images for Notebooks](docker-images-for-notebooks)
-- [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
-- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
-- [Tips on Deno](tips-on-deno)
-- [Tips on Jupyter-Book](tips-on-jupyter-book)
-- [Tips on nbconvert](tips-on-nbconvert)
-- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
-- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
-- [Format Python Code Using Black](format-python-code-using-black)
-- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
-- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
-- [Tips on Zeppelin](tips-on-zeppelin)
-- [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
-- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
-- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
-```
-
-## finance
-```{dropdown} Click to expand/collapse 15 links
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Financial Data](financial-data)
-- [Rust for Financial Investment](rust-for-financial-investment)
-- [Tax in US](tax-in-us)
-- [Tips on Empower](tips-on-empower)
-- [Investment](investment)
-- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
-- [Claim Your Forgotten Money](claim-your-forgotten-money)
-- [Tips on Credit Report](tips-on-credit-report)
-- [Tips on Buying a House](tips-on-buying-a-house)
-- [Tips on Brokerage](tips-on-brokerage)
-- [Understanding Paychecks](understanding-paychecks)
-- [Tips on eTrade](tips-on-etrade)
-- [Tips on Certified Deposit](tips-on-certified-deposit)
-- [Good Accounting Tools](good-accounting-tools)
-```
-
-## proxy
-```{dropdown} Click to expand/collapse 15 links
-- [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
-- [Network in Docker Containers](network-in-docker-containers)
-- [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
-- [Tips on TinyProxy](tips-on-tinyproxy)
-- [Proxy and VPN Services](proxy-and-vpn-services)
-- [Good Choices of Reverse Proxies](good-choices-of-reverse-proxies)
-- [Configure Proxy for Apt](configure-proxy-for-apt)
-- [Speed Up sbt in China](speed-up-sbt-in-china)
-- [Use wget with Proxy](use-wget-with-proxy)
-- [Install Python Packages Behind Firewall](install-python-packages-behind-firewall)
-- [Proxy for sudo](proxy-for-sudo)
-- [Resolve the DNS Contamination Issue in Firefox](resolve-the-dns-contamination-issue-in-firefox)
-- [Escape from the Great Firewall of China](escape-from-the-great-firewall-of-china)
-- [Use Git Behind a Proxy](use-git-behind-a-proxy)
-- [Find Out Proxy in Use](find-out-proxy-in-use)
-```
-
-## Visual Studio Code
-```{dropdown} Click to expand/collapse 15 links
-- [Visual Studio Code Server](visual-studio-code-server)
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
-- [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
-- [Sort Python Imports Using isort](sort-python-imports-using-isort)
-- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
-- [Python Docstring Generator for Visual Studio Code](python-docstring-generator-for-visual-studio-code)
-- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
-- [Debug a Rust Application](debug-a-rust-application)
-- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
-- [Tips on Visual Studio Code](tips-on-visual-studio-code)
-- [Visual Studio Code for Java Development](visual-studio-code-for-java-development)
-- [Visual Studio Code for Scala Development](visual-studio-code-for-scala-development)
-- [Visual Studio Code for Python](visual-studio-code-for-python)
-- [Vim as a Universal Editor](vim-as-a-universal-editor)
-```
-
-## PDF
-```{dropdown} Click to expand/collapse 15 links
-- [Convert Web Pages to PDF Using Python](convert-web-pages-to-pdf-using-python)
-- [Hands on the Python Library pdfplumber](hands-on-the-python-library-pdfplumber)
-- [Convert PDF to Image Using Python](convert-pdf-to-image-using-python)
-- [Extracting Data from PDF Files](extracting-data-from-pdf-files)
-- [Editing PDF Files Using Stirling-PDF](editing-pdf-files-using-stirling-pdf)
-- [Extracting PDF Pages Using the Python Package PyPDF](extracting-pdf-pages-using-the-python-package-pypdf)
-- [Auto Rename eTrade Employee Stock Plan Release Confirmations Using pdftotext](auto-rename-etrade-employee-stock-plan-release-confirmations-using-pdftotext)
-- [Editing PDF Files](editing-pdf-files)
-- [File Converting and Generating Tools](file-converting-and-generating-tools)
-- [Useful Tools in Linux](useful-tools-in-linux)
-- [Tips on LibreOffice](tips-on-libreoffice)
-- [View and Edit PDF Documents Using Okular](view-and-edit-pdf-documents-using-okular)
-- [Use pdftk to Manipulating PDF Files](use-pdftk-to-manipulating-pdf-files)
-- [Convert PDF to Word](convert-pdf-to-word)
-- [Convert PDF to EPS](convert-pdf-to-eps)
 ```
 
 ## text
@@ -5591,25 +5610,6 @@ site:
 - [Rust Crates for RPC](rust-crates-for-rpc)
 ```
 
-## file system
-```{dropdown} Click to expand/collapse 15 links
-- [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
-- [Make a Rust Project Both a Library and a Binary](make-a-rust-project-both-a-library-and-a-binary)
-- [WSL2 Filesystem](wsl2-filesystem)
-- [Watching Filesystem Changes Using "inotify"](watching-filesystem-changes-using-inotify)
-- [Hands on the Python submodule os.path](hands-on-the-python-submodule-os.path)
-- [Hands on the Python module glob](hands-on-the-python-module-glob)
-- [Hands on the Python module shutil](hands-on-the-python-module-shutil)
-- [Hadoop Filesystem Tips](hadoop-filesystem-tips)
-- [Tips on NFS](tips-on-nfs)
-- [Tips on rsync](tips-on-rsync)
-- [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
-- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
-- [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
-- [Check Whether a File Exists in Spark](check-whether-a-file-exists-in-spark)
-- [Change File Permission on Linux](change-file-permission-on-linux)
-```
-
 ## HPC
 ```{dropdown} Click to expand/collapse 15 links
 - [Free High Performance Computing Resouces](free-high-performance-computing-resouces)
@@ -5629,6 +5629,78 @@ site:
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 ```
 
+## list
+```{dropdown} Click to expand/collapse 14 links
+- [List in Kotlin](list-in-kotlin)
+- [Sort a List in Kotlin](sort-a-list-in-kotlin)
+- [Collections in Kotlin](collections-in-kotlin)
+- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
+- [Hands on Box in Rust](hands-on-box-in-rust)
+- [Query Hardware Information in Linux](query-hardware-information-in-linux)
+- [Linked List in Rust](linked-list-in-rust)
+- [Unpacking Assignment in Python](unpacking-assignment-in-python)
+- [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
+- [Handling Complicated Data Types in Python and PySpark](handling-complicated-data-types-in-python-and-pyspark)
+- [The list Collection in Python](the-list-collection-in-python)
+- [Collections and Iterators in C++](collections-and-iterators-in-c++)
+- [General Tips for LaTeX](general-tips-for-latex)
+- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
+```
+
+## Polars
+```{dropdown} Click to expand/collapse 14 links
+- [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
+- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
+- [DataFrame Implementations in Python](dataframe-implementations-in-python)
+- [Hands on the Polars Library in Python](hands-on-the-polars-library-in-python)
+- [Hands on the Polars Crate in Rust](hands-on-the-polars-crate-in-rust)
+- [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
+- [Polars Series in Rust](polars-series-in-rust)
+- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
+- [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
+- [Construct Polars DataFrames in Rust](construct-polars-dataframes-in-rust)
+- [Read Parquet Files Using Polars in Rust](read-parquet-files-using-polars-in-rust)
+- [Read CSV Using Polars in Python](read-csv-using-polars-in-python)
+- [Read CSV Files Using Polars in Rust](read-csv-files-using-polars-in-rust)
+- [Read and Write Parquet Files in Rust](read-and-write-parquet-files-in-rust)
+```
+
+## VSCode
+```{dropdown} Click to expand/collapse 14 links
+- [Tips on Visual Studio Code](tips-on-visual-studio-code)
+- [Visual Studio Code for Java Development](visual-studio-code-for-java-development)
+- [Visual Studio Code Server](visual-studio-code-server)
+- [Visual Studio Code for Scala Development](visual-studio-code-for-scala-development)
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+- [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
+- [Python Docstring Generator for Visual Studio Code](python-docstring-generator-for-visual-studio-code)
+- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
+- [Debug a Rust Application](debug-a-rust-application)
+- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
+- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
+- [Vim as a Universal Editor](vim-as-a-universal-editor)
+```
+
+## Vim
+```{dropdown} Click to expand/collapse 14 links
+- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
+- [Vim Keybindings Using IdeaVim in IntelliJ IDEA](vim-keybindings-using-ideavim-in-intellij-idea)
+- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
+- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
+- [Tips on AstroNvim](tips-on-astronvim)
+- [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
+- [Tips on Vim](tips-on-vim)
+- [The Escape Key in Vim](the-escape-key-in-vim)
+- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
+- [Typing Chinese in Vim](typing-chinese-in-vim)
+- [Selectively Disable Vimperator on Webpages](selectively-disable-vimperator-on-webpages)
+- [Interact with System Clipboard in Vim](interact-with-system-clipboard-in-vim)
+- [Vim as a Universal Editor](vim-as-a-universal-editor)
+- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
+```
+
 ## Pillow
 ```{dropdown} Click to expand/collapse 14 links
 - [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
@@ -5645,24 +5717,6 @@ site:
 - [Load Images into Pillow](load-images-into-pillow)
 - [Tips on Pillow](tips-on-pillow)
 - [Computer Vision Tools](computer-vision-tools)
-```
-
-## VSCode
-```{dropdown} Click to expand/collapse 14 links
-- [Visual Studio Code Server](visual-studio-code-server)
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
-- [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
-- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
-- [Python Docstring Generator for Visual Studio Code](python-docstring-generator-for-visual-studio-code)
-- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
-- [Debug a Rust Application](debug-a-rust-application)
-- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
-- [Tips on Visual Studio Code](tips-on-visual-studio-code)
-- [Visual Studio Code for Java Development](visual-studio-code-for-java-development)
-- [Visual Studio Code for Scala Development](visual-studio-code-for-scala-development)
-- [Visual Studio Code for Python](visual-studio-code-for-python)
-- [Vim as a Universal Editor](vim-as-a-universal-editor)
 ```
 
 ## exception
@@ -5701,42 +5755,6 @@ site:
 - [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
 ```
 
-## Polars
-```{dropdown} Click to expand/collapse 14 links
-- [DataFrame Implementations in Python](dataframe-implementations-in-python)
-- [Hands on the Polars Library in Python](hands-on-the-polars-library-in-python)
-- [Hands on the Polars Crate in Rust](hands-on-the-polars-crate-in-rust)
-- [Hands on the Rust Crate Parquet](hands-on-the-rust-crate-parquet)
-- [Polars Series in Rust](polars-series-in-rust)
-- [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
-- [Filter a Polars DataFrame in Rust](filter-a-polars-dataframe-in-rust)
-- [Construct Polars DataFrames in Rust](construct-polars-dataframes-in-rust)
-- [Read Parquet Files Using Polars in Rust](read-parquet-files-using-polars-in-rust)
-- [Read CSV Using Polars in Python](read-csv-using-polars-in-python)
-- [Read CSV Files Using Polars in Rust](read-csv-files-using-polars-in-rust)
-- [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
-- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
-- [Read and Write Parquet Files in Rust](read-and-write-parquet-files-in-rust)
-```
-
-## list
-```{dropdown} Click to expand/collapse 14 links
-- [Hands on Box in Rust](hands-on-box-in-rust)
-- [Query Hardware Information in Linux](query-hardware-information-in-linux)
-- [Linked List in Rust](linked-list-in-rust)
-- [Unpacking Assignment in Python](unpacking-assignment-in-python)
-- [List in Kotlin](list-in-kotlin)
-- [Sort a List in Kotlin](sort-a-list-in-kotlin)
-- [Collections in Kotlin](collections-in-kotlin)
-- [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
-- [Handling Complicated Data Types in Python and PySpark](handling-complicated-data-types-in-python-and-pyspark)
-- [The list Collection in Python](the-list-collection-in-python)
-- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
-- [Collections and Iterators in C++](collections-and-iterators-in-c++)
-- [General Tips for LaTeX](general-tips-for-latex)
-- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
-```
-
 ## RESTful
 ```{dropdown} Click to expand/collapse 14 links
 - [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
@@ -5755,22 +5773,123 @@ site:
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 ```
 
-## Vim
-```{dropdown} Click to expand/collapse 14 links
-- [Vim Keybindings Using IdeaVim in IntelliJ IDEA](vim-keybindings-using-ideavim-in-intellij-idea)
-- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
-- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
-- [Tips on AstroNvim](tips-on-astronvim)
-- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
-- [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
-- [Tips on Vim](tips-on-vim)
-- [The Escape Key in Vim](the-escape-key-in-vim)
-- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
-- [Typing Chinese in Vim](typing-chinese-in-vim)
-- [Selectively Disable Vimperator on Webpages](selectively-disable-vimperator-on-webpages)
-- [Interact with System Clipboard in Vim](interact-with-system-clipboard-in-vim)
-- [Vim as a Universal Editor](vim-as-a-universal-editor)
-- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
+## markdown
+```{dropdown} Click to expand/collapse 13 links
+- [Writing Docs Using Markdown](writing-docs-using-markdown)
+- [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
+- [Tips on Jupyter-Book](tips-on-jupyter-book)
+- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
+- [Use JupyterLab Notebooks in Pelican](use-jupyterlab-notebooks-in-pelican)
+- [RMarkdown Equivalent in Python](rmarkdown-equivalent-in-python)
+- [Write Slides in Markdown](write-slides-in-markdown)
+- [Tips on mdBook](tips-on-mdbook)
+- [Markdown Tools Written in Rust](markdown-tools-written-in-rust)
+- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
+- [Format Markdown Using mdformat Python APIs](format-markdown-using-mdformat-python-apis)
+- [Mdformat Is An Extensible Markdown Formatter](mdformat-is-an-extensible-markdown-formatter)
+- [File Converting and Generating Tools](file-converting-and-generating-tools)
+```
+
+## CPU
+```{dropdown} Click to expand/collapse 13 links
+- [Tips on Valgrind](tips-on-valgrind)
+- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
+- [Get Hardware Information in Golang](get-hardware-information-in-golang)
+- [Hands on the psutil Module in Python](hands-on-the-psutil-module-in-python)
+- [Hands on the Resource Module in Python](hands-on-the-resource-module-in-python)
+- [Check the CPU Limit of a Docker Container](check-the-cpu-limit-of-a-docker-container)
+- [PackageKitD Uses Too Much CPU or Disk IO](packagekitd-uses-too-much-cpu-or-disk-io)
+- [Profile Rust Applications](profile-rust-applications)
+- [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
+- [SLIDE: Sub-Linear Deep Learning Engine](slide-sub-linear-deep-learning-engine)
+- [Read CPU Temperature in Linux](read-cpu-temperature-in-linux)
+- [Device Managment in PyTorch](device-managment-in-pytorch)
+- [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
+```
+
+## package
+```{dropdown} Click to expand/collapse 13 links
+- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
+- [Useful Golang Packages](useful-golang-packages)
+- [Get the Dependencies of a Python Package Without Installing It](get-the-dependencies-of-a-python-package-without-installing-it)
+- [Hands on the Python Module Packaging](hands-on-the-python-module-packaging)
+- [The Installation Location of Python Packages Using Pip](the-installation-location-of-python-packages-using-pip)
+- [Structure of Python Packages](structure-of-python-packages)
+- [Useful Java Libraries](useful-java-libraries)
+- [Package Capture on Phones](package-capture-on-phones)
+- [Package Management for Debian and Ubuntu](package-management-for-debian-and-ubuntu)
+- [Good C++ Libraries](good-c++-libraries)
+- [Install Python Packages Using pip](install-python-packages-using-pip)
+- [Estimation of False Discovery Rate using Sequential Permutation Pvalues](estimation-of-false-discovery-rate-using-sequential-permutation-pvalues)
+- [My List of Python Modules](my-list-of-python-modules)
+```
+
+## command
+```{dropdown} Click to expand/collapse 13 links
+- [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
+- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
+- [Run System Command in Go](run-system-command-in-go)
+- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
+- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
+- [Run Shell Command in Rust](run-shell-command-in-rust)
+- [Tips on Gh](tips-on-gh)
+- [Shell Command Parser](shell-command-parser)
+- [Check for Existence of Commands in the Fish Shell](check-for-existence-of-commands-in-the-fish-shell)
+- [Hands on the Python Library pexpect](hands-on-the-python-library-pexpect)
+- [Spark Issue: Shell Related](spark-issue-shell-related)
+- [Useful Rust Crates for Developing Command Line Apps](useful-rust-crates-for-developing-command-line-apps)
+- [Hands on the Python module subprocess](hands-on-the-python-module-subprocess)
+```
+
+## data
+```{dropdown} Click to expand/collapse 13 links
+- [Data for Computer Vision Research](data-for-computer-vision-research)
+- [Financial Data](financial-data)
+- [Data for Learning to Rank](data-for-learning-to-rank)
+- [Global Data in Rust](global-data-in-rust)
+- [Tips on Great Expectations](tips-on-great-expectations)
+- [Package Capture on Phones](package-capture-on-phones)
+- [Extracting Data from PDF Files](extracting-data-from-pdf-files)
+- [Compare Data Frames Using DataCompy in Python](compare-data-frames-using-datacompy-in-python)
+- [Use pyarrow to Share Data in Memory in Python](use-pyarrow-to-share-data-in-memory-in-python)
+- [Abuse of Vector in R](abuse-of-vector-in-r)
+- [Data Sources](data-sources)
+- [Data for NLP Research](data-for-nlp-research)
+- [Data for Testing](data-for-testing)
+```
+
+## serialization
+```{dropdown} Click to expand/collapse 13 links
+- [Serialize and Deserialize JSON in Golang](serialize-and-deserialize-json-in-golang)
+- [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args-0-from-__newobj__-args-has-the-wrong-class)
+- [Read and Write CSV Files in Rust](read-and-write-csv-files-in-rust)
+- [Parse TOML Files in Rust](parse-toml-files-in-rust)
+- [Tips on JSON](tips-on-json)
+- [Save and Load PyTorch Models](save-and-load-pytorch-models)
+- [Serialization and deserialization in Python](serialization-and-deserialization-in-python)
+- [Binary Serialization Format](binary-serialization-format)
+- [Serialization and Deserialization in Rust](serialization-and-deserialization-in-rust)
+- [Hands on the Rust Library Serde](hands-on-the-rust-library-serde)
+- [Serialize and Deserialize Object Using Pickle in Python](serialize-and-deserialize-object-using-pickle-in-python)
+- [Hands on the json Module in Python](hands-on-the-json-module-in-python)
+- [Representation of Machine Learning Models](representation-of-machine-learning-models)
+```
+
+## SSH | ssh
+```{dropdown} Click to expand/collapse 13 links
+- [Run Commands on Remote Machines](run-commands-on-remote-machines)
+- [Tips on sshuttle](tips-on-sshuttle)
+- [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
+- [Tips on ssh-keygen](tips-on-ssh-keygen)
+- [Terminal Multiplexers](terminal-multiplexers)
+- [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
+- [Operate Remote Servers Using SSH](operate-remote-servers-using-ssh)
+- [SSH Tunnel](ssh-tunnel)
+- [Python Tools for Linux Admins](python-tools-for-linux-admins)
+- [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
+- [Configure SSH to Use a Proxy Server](configure-ssh-to-use-a-proxy-server)
+- [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
+- [Compare Two Directories on Linux](compare-two-directories-on-linux)
 ```
 
 ## application
@@ -5788,57 +5907,6 @@ site:
 - [Useful Tools in Linux](useful-tools-in-linux)
 - [Manage Autostart Applications](manage-autostart-applications)
 - [Make Your Life Easier with Portable Applications](make-your-life-easier-with-portable-applications)
-```
-
-## serialization
-```{dropdown} Click to expand/collapse 13 links
-- [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args-0-from-__newobj__-args-has-the-wrong-class)
-- [Read and Write CSV Files in Rust](read-and-write-csv-files-in-rust)
-- [Parse TOML Files in Rust](parse-toml-files-in-rust)
-- [Serialize and Deserialize JSON in Golang](serialize-and-deserialize-json-in-golang)
-- [Tips on JSON](tips-on-json)
-- [Save and Load PyTorch Models](save-and-load-pytorch-models)
-- [Serialization and deserialization in Python](serialization-and-deserialization-in-python)
-- [Binary Serialization Format](binary-serialization-format)
-- [Serialization and Deserialization in Rust](serialization-and-deserialization-in-rust)
-- [Hands on the Rust Library Serde](hands-on-the-rust-library-serde)
-- [Serialize and Deserialize Object Using Pickle in Python](serialize-and-deserialize-object-using-pickle-in-python)
-- [Hands on the json Module in Python](hands-on-the-json-module-in-python)
-- [Representation of Machine Learning Models](representation-of-machine-learning-models)
-```
-
-## package
-```{dropdown} Click to expand/collapse 13 links
-- [Get the Dependencies of a Python Package Without Installing It](get-the-dependencies-of-a-python-package-without-installing-it)
-- [Hands on the Python Module Packaging](hands-on-the-python-module-packaging)
-- [The Installation Location of Python Packages Using Pip](the-installation-location-of-python-packages-using-pip)
-- [Structure of Python Packages](structure-of-python-packages)
-- [Useful Java Libraries](useful-java-libraries)
-- [Useful Golang Packages](useful-golang-packages)
-- [Package Capture on Phones](package-capture-on-phones)
-- [Package Management for Debian and Ubuntu](package-management-for-debian-and-ubuntu)
-- [Good C++ Libraries](good-c++-libraries)
-- [Install Python Packages Using pip](install-python-packages-using-pip)
-- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
-- [Estimation of False Discovery Rate using Sequential Permutation Pvalues](estimation-of-false-discovery-rate-using-sequential-permutation-pvalues)
-- [My List of Python Modules](my-list-of-python-modules)
-```
-
-## CPU
-```{dropdown} Click to expand/collapse 13 links
-- [Hands on the psutil Module in Python](hands-on-the-psutil-module-in-python)
-- [Hands on the Resource Module in Python](hands-on-the-resource-module-in-python)
-- [Get Hardware Information in Golang](get-hardware-information-in-golang)
-- [Check the CPU Limit of a Docker Container](check-the-cpu-limit-of-a-docker-container)
-- [PackageKitD Uses Too Much CPU or Disk IO](packagekitd-uses-too-much-cpu-or-disk-io)
-- [Profile Rust Applications](profile-rust-applications)
-- [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
-- [Tips on Valgrind](tips-on-valgrind)
-- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
-- [SLIDE: Sub-Linear Deep Learning Engine](slide-sub-linear-deep-learning-engine)
-- [Read CPU Temperature in Linux](read-cpu-temperature-in-linux)
-- [Device Managment in PyTorch](device-managment-in-pytorch)
-- [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
 ```
 
 ## time
@@ -5892,23 +5960,6 @@ site:
 - [Collections and Iterators in C++](collections-and-iterators-in-c++)
 ```
 
-## command
-```{dropdown} Click to expand/collapse 13 links
-- [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
-- [Run System Command in Go](run-system-command-in-go)
-- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
-- [Run Shell Command in Rust](run-shell-command-in-rust)
-- [Tips on Gh](tips-on-gh)
-- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
-- [Shell Command Parser](shell-command-parser)
-- [Check for Existence of Commands in the Fish Shell](check-for-existence-of-commands-in-the-fish-shell)
-- [Hands on the Python Library pexpect](hands-on-the-python-library-pexpect)
-- [Spark Issue: Shell Related](spark-issue-shell-related)
-- [Useful Rust Crates for Developing Command Line Apps](useful-rust-crates-for-developing-command-line-apps)
-- [Hands on the Python module subprocess](hands-on-the-python-module-subprocess)
-- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
-```
-
 ## HoloViews
 ```{dropdown} Click to expand/collapse 13 links
 - [Multiple Lines on the Same Plot Using hvplot](multiple-lines-on-the-same-plot-using-hvplot)
@@ -5926,55 +5977,36 @@ site:
 - [Python Modules for Visualization](python-modules-for-visualization)
 ```
 
-## markdown
-```{dropdown} Click to expand/collapse 13 links
-- [Use JupyterLab Notebooks in Pelican](use-jupyterlab-notebooks-in-pelican)
-- [RMarkdown Equivalent in Python](rmarkdown-equivalent-in-python)
-- [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
-- [Tips on Jupyter-Book](tips-on-jupyter-book)
-- [Write Slides in Markdown](write-slides-in-markdown)
-- [Tips on mdBook](tips-on-mdbook)
-- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
-- [Markdown Tools Written in Rust](markdown-tools-written-in-rust)
-- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
-- [Format Markdown Using mdformat Python APIs](format-markdown-using-mdformat-python-apis)
-- [Mdformat Is An Extensible Markdown Formatter](mdformat-is-an-extensible-markdown-formatter)
-- [File Converting and Generating Tools](file-converting-and-generating-tools)
-- [Writing Docs Using Markdown](writing-docs-using-markdown)
+## collections
+```{dropdown} Click to expand/collapse 12 links
+- [List in Kotlin](list-in-kotlin)
+- [Sort a List in Kotlin](sort-a-list-in-kotlin)
+- [Collections in Kotlin](collections-in-kotlin)
+- [Array in Scala](array-in-scala)
+- [Array in Kotlin](array-in-kotlin)
+- [Dataclass vs namedtuple in Python](dataclass-vs-namedtuple-in-python)
+- [OOP in Kotlin](oop-in-kotlin)
+- [Iterator in Kotlin](iterator-in-kotlin)
+- [Hashmap in Kotlin](hashmap-in-kotlin)
+- [Collections in Kotlin](collections-in-kotlin)
+- [MutableList in Kotlin](mutablelist-in-kotlin)
+- [Collections in Java](collections-in-java)
 ```
 
-## SSH | ssh
-```{dropdown} Click to expand/collapse 13 links
-- [Tips on sshuttle](tips-on-sshuttle)
-- [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
-- [Tips on ssh-keygen](tips-on-ssh-keygen)
-- [Terminal Multiplexers](terminal-multiplexers)
-- [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
-- [Operate Remote Servers Using SSH](operate-remote-servers-using-ssh)
-- [SSH Tunnel](ssh-tunnel)
-- [Python Tools for Linux Admins](python-tools-for-linux-admins)
-- [Run Commands on Remote Machines](run-commands-on-remote-machines)
-- [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
-- [Configure SSH to Use a Proxy Server](configure-ssh-to-use-a-proxy-server)
-- [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
-- [Compare Two Directories on Linux](compare-two-directories-on-linux)
-```
-
-## data
-```{dropdown} Click to expand/collapse 13 links
-- [Financial Data](financial-data)
-- [Data for Learning to Rank](data-for-learning-to-rank)
-- [Global Data in Rust](global-data-in-rust)
-- [Tips on Great Expectations](tips-on-great-expectations)
-- [Package Capture on Phones](package-capture-on-phones)
-- [Extracting Data from PDF Files](extracting-data-from-pdf-files)
-- [Compare Data Frames Using DataCompy in Python](compare-data-frames-using-datacompy-in-python)
-- [Use pyarrow to Share Data in Memory in Python](use-pyarrow-to-share-data-in-memory-in-python)
-- [Abuse of Vector in R](abuse-of-vector-in-r)
-- [Data Sources](data-sources)
-- [Data for Computer Vision Research](data-for-computer-vision-research)
-- [Data for NLP Research](data-for-nlp-research)
-- [Data for Testing](data-for-testing)
+## Go | go
+```{dropdown} Click to expand/collapse 12 links
+- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
+- [Tips on Golang](tips-on-golang)
+- [String in Golang](string-in-golang)
+- [Run System Command in Go](run-system-command-in-go)
+- [Embed File in Golang Binary](embed-file-in-golang-binary)
+- [Get Directory Information in Golang](get-directory-information-in-golang)
+- [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
+- [Hands on the filepath Library in Golang](hands-on-the-filepath-library-in-golang)
+- [Get the Type of OS in Golang](get-the-type-of-os-in-golang)
+- [Get Hardware Information in Golang](get-hardware-information-in-golang)
+- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
+- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
 ```
 
 ## PIL
@@ -6041,38 +6073,6 @@ site:
 - [Add Method to a Python Class](add-method-to-a-python-class)
 ```
 
-## collections
-```{dropdown} Click to expand/collapse 12 links
-- [Dataclass vs namedtuple in Python](dataclass-vs-namedtuple-in-python)
-- [Array in Scala](array-in-scala)
-- [OOP in Kotlin](oop-in-kotlin)
-- [List in Kotlin](list-in-kotlin)
-- [Sort a List in Kotlin](sort-a-list-in-kotlin)
-- [Iterator in Kotlin](iterator-in-kotlin)
-- [Hashmap in Kotlin](hashmap-in-kotlin)
-- [Collections in Kotlin](collections-in-kotlin)
-- [Array in Kotlin](array-in-kotlin)
-- [Collections in Kotlin](collections-in-kotlin)
-- [MutableList in Kotlin](mutablelist-in-kotlin)
-- [Collections in Java](collections-in-java)
-```
-
-## Go | go
-```{dropdown} Click to expand/collapse 12 links
-- [Tips on Golang](tips-on-golang)
-- [String in Golang](string-in-golang)
-- [Run System Command in Go](run-system-command-in-go)
-- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
-- [Embed File in Golang Binary](embed-file-in-golang-binary)
-- [Get Directory Information in Golang](get-directory-information-in-golang)
-- [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
-- [Hands on the filepath Library in Golang](hands-on-the-filepath-library-in-golang)
-- [Get the Type of OS in Golang](get-the-type-of-os-in-golang)
-- [Get Hardware Information in Golang](get-hardware-information-in-golang)
-- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
-- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
-```
-
 ## REST
 ```{dropdown} Click to expand/collapse 12 links
 - [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
@@ -6121,34 +6121,19 @@ site:
 - [Understand Attention in NLP](understand-attention-in-nlp)
 ```
 
-## math
+## Map | map
 ```{dropdown} Click to expand/collapse 11 links
-- [Matrix Decomposition](matrix-decomposition)
-- [Inverse of a Special Class of Matrices with High Dimensions](inverse-of-a-special-class-of-matrices-with-high-dimensions)
-- [The Power of Generating Functions](the-power-of-generating-functions)
-- [Do Calculus Using SageMath](do-calculus-using-sagemath)
-- [Useful Rust Crates for Numeric Computation](useful-rust-crates-for-numeric-computation)
-- [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
-- [Good Third-party Math Libraries for Scala](good-third-party-math-libraries-for-scala)
-- [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan)
-- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
-- [Hands on scala.math](hands-on-scala.math)
-- [The Sum and Product Puzzle](the-sum-and-product-puzzle)
-```
-
-## map | Map
-```{dropdown} Click to expand/collapse 11 links
-- [Probability to Lose All Money](probability-to-lose-all-money)
+- [Collections in Kotlin](collections-in-kotlin)
+- [HashMap in Scala](hashmap-in-scala)
+- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
 - [Map in Golang](map-in-golang)
 - [Ordered Map in Golang](ordered-map-in-golang)
+- [Probability to Lose All Money](probability-to-lose-all-money)
 - [Directly Initialize a Hashmap in Java](directly-initialize-a-hashmap-in-java)
 - [Hands on the Rust Crate lru](hands-on-the-rust-crate-lru)
-- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
 - [Row-based Mapping and Filtering on DataFrames in Spark](row-based-mapping-and-filtering-on-dataframes-in-spark)
 - [Function Programming in Python](function-programming-in-python)
 - [Collections and Iterators in C++](collections-and-iterators-in-c++)
-- [Collections in Kotlin](collections-in-kotlin)
-- [HashMap in Scala](hashmap-in-scala)
 ```
 
 ## vehicle | Vehicle
@@ -6166,6 +6151,66 @@ site:
 - [Flat Tire on Rivian](flat-tire-on-rivian)
 ```
 
+## math
+```{dropdown} Click to expand/collapse 11 links
+- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
+- [Matrix Decomposition](matrix-decomposition)
+- [Inverse of a Special Class of Matrices with High Dimensions](inverse-of-a-special-class-of-matrices-with-high-dimensions)
+- [The Power of Generating Functions](the-power-of-generating-functions)
+- [Do Calculus Using SageMath](do-calculus-using-sagemath)
+- [Useful Rust Crates for Numeric Computation](useful-rust-crates-for-numeric-computation)
+- [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
+- [Good Third-party Math Libraries for Scala](good-third-party-math-libraries-for-scala)
+- [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan)
+- [Hands on scala.math](hands-on-scala.math)
+- [The Sum and Product Puzzle](the-sum-and-product-puzzle)
+```
+
+## repository
+```{dropdown} Click to expand/collapse 11 links
+- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
+- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
+- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
+- [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
+- [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
+- [Download a Single File from a GitHub Repository](download-a-single-file-from-a-github-repository)
+- [Speed Up sbt in China](speed-up-sbt-in-china)
+- [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
+- [Batch GitHub Repository Operations Using GitHub Rest API](batch-github-repository-operations-using-github-rest-api)
+- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
+- [Reduce Size of Git Repository](reduce-size-of-git-repository)
+```
+
+## development
+```{dropdown} Click to expand/collapse 11 links
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [Tips on Frontend Development](tips-on-frontend-development)
+- [Tips on Backend Development](tips-on-backend-development)
+- [App Platforms](app-platforms)
+- [Dev Tools for Rust](dev-tools-for-rust)
+- [Tips on Distributed Development](tips-on-distributed-development)
+- [Use Docker Containers for GitHub Actions](use-docker-containers-for-github-actions)
+- [Self-hosted Runners for GitHub Actions](self-hosted-runners-for-github-actions)
+- [Common Issues and Solutions for GitHub Actions](common-issues-and-solutions-for-github-actions)
+- [Tips on Web Development](tips-on-web-development)
+- [Debugging, Unit Testing and CICD in Python](debugging-unit-testing-and-cicd-in-python)
+```
+
+## deserialization
+```{dropdown} Click to expand/collapse 11 links
+- [Serialize and Deserialize JSON in Golang](serialize-and-deserialize-json-in-golang)
+- [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args-0-from-__newobj__-args-has-the-wrong-class)
+- [Read and Write CSV Files in Rust](read-and-write-csv-files-in-rust)
+- [Parse TOML Files in Rust](parse-toml-files-in-rust)
+- [Tips on JSON](tips-on-json)
+- [Save and Load PyTorch Models](save-and-load-pytorch-models)
+- [Serialization and deserialization in Python](serialization-and-deserialization-in-python)
+- [Serialization and Deserialization in Rust](serialization-and-deserialization-in-rust)
+- [Hands on the Rust Library Serde](hands-on-the-rust-library-serde)
+- [Serialize and Deserialize Object Using Pickle in Python](serialize-and-deserialize-object-using-pickle-in-python)
+- [Hands on the json Module in Python](hands-on-the-json-module-in-python)
+```
+
 ## build
 ```{dropdown} Click to expand/collapse 11 links
 - [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
@@ -6179,21 +6224,6 @@ site:
 - [Build Docker Images Using Kaniko](build-docker-images-using-kaniko)
 - [Tips on Creating Docker Images](tips-on-creating-docker-images)
 - [Build Spark from Source](build-spark-from-source)
-```
-
-## deserialization
-```{dropdown} Click to expand/collapse 11 links
-- [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args-0-from-__newobj__-args-has-the-wrong-class)
-- [Read and Write CSV Files in Rust](read-and-write-csv-files-in-rust)
-- [Parse TOML Files in Rust](parse-toml-files-in-rust)
-- [Serialize and Deserialize JSON in Golang](serialize-and-deserialize-json-in-golang)
-- [Tips on JSON](tips-on-json)
-- [Save and Load PyTorch Models](save-and-load-pytorch-models)
-- [Serialization and deserialization in Python](serialization-and-deserialization-in-python)
-- [Serialization and Deserialization in Rust](serialization-and-deserialization-in-rust)
-- [Hands on the Rust Library Serde](hands-on-the-rust-library-serde)
-- [Serialize and Deserialize Object Using Pickle in Python](serialize-and-deserialize-object-using-pickle-in-python)
-- [Hands on the json Module in Python](hands-on-the-json-module-in-python)
 ```
 
 ## date
@@ -6241,21 +6271,6 @@ site:
 - [Tips on Rust](tips-on-rust)
 ```
 
-## repository
-```{dropdown} Click to expand/collapse 11 links
-- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
-- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
-- [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
-- [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
-- [Download a Single File from a GitHub Repository](download-a-single-file-from-a-github-repository)
-- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
-- [Speed Up sbt in China](speed-up-sbt-in-china)
-- [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
-- [Batch GitHub Repository Operations Using GitHub Rest API](batch-github-repository-operations-using-github-rest-api)
-- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
-- [Reduce Size of Git Repository](reduce-size-of-git-repository)
-```
-
 ## app | App
 ```{dropdown} Click to expand/collapse 11 links
 - [Use Streamlit to Build a Web App Quickly Using Python](use-streamlit-to-build-a-web-app-quickly-using-python)
@@ -6286,21 +6301,6 @@ site:
 - [Tips on GitHub](tips-on-github)
 ```
 
-## development
-```{dropdown} Click to expand/collapse 11 links
-- [Tips on Frontend Development](tips-on-frontend-development)
-- [Tips on Backend Development](tips-on-backend-development)
-- [App Platforms](app-platforms)
-- [Dev Tools for Rust](dev-tools-for-rust)
-- [Tips on Distributed Development](tips-on-distributed-development)
-- [Use Docker Containers for GitHub Actions](use-docker-containers-for-github-actions)
-- [Self-hosted Runners for GitHub Actions](self-hosted-runners-for-github-actions)
-- [Common Issues and Solutions for GitHub Actions](common-issues-and-solutions-for-github-actions)
-- [Tips on Web Development](tips-on-web-development)
-- [Debugging, Unit Testing and CICD in Python](debugging-unit-testing-and-cicd-in-python)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
-```
-
 ## high performance computing
 ```{dropdown} Click to expand/collapse 11 links
 - [Hands on the Python module threading](hands-on-the-python-module-threading)
@@ -6316,18 +6316,74 @@ site:
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 ```
 
-## bash | Bash
+## JS
 ```{dropdown} Click to expand/collapse 10 links
+- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
+- [Tips on Deno](tips-on-deno)
+- [Hands on JavaScript](hands-on-javascript)
+- [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
+- [Tips on Electron](tips-on-electron)
+- [Tips on yarn](tips-on-yarn)
+- [Engine and Runtime for JavaScript](engine-and-runtime-for-javascript)
+- [Tips on JavaScript](tips-on-javascript)
+- [Tips on NodeJS](tips-on-nodejs)
+- [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
+```
+
+## type
+```{dropdown} Click to expand/collapse 10 links
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [Get Type Name of Variables in Rust](get-type-name-of-variables-in-rust)
+- [Cast Types of Columns in Pandas](cast-types-of-columns-in-pandas)
+- [Memory Layout in Rust](memory-layout-in-rust)
+- [Data Types in Different Programming Languages](data-types-in-different-programming-languages)
+- [Sum Type in Rust](sum-type-in-rust)
+- [Constraints on Types in Rust](constraints-on-types-in-rust)
+- [Check for Existence of Commands in the Fish Shell](check-for-existence-of-commands-in-the-fish-shell)
+- [Types of Joins of Spark DataFrames](types-of-joins-of-spark-dataframes)
+- [Spark Issue: RuntimeException: Unsupported Literal Type Class](spark-issue-runtimeexception-unsupported-literal-type-class)
+```
+
+## path | PATH | Path
+```{dropdown} Click to expand/collapse 10 links
+- [Get Directory Information in Golang](get-directory-information-in-golang)
+- [Hands on the filepath Library in Golang](hands-on-the-filepath-library-in-golang)
+- [Check Whether a Path Exists in Golang](check-whether-a-path-exists-in-golang)
+- [Path in Rust](path-in-rust)
+- [Absolute or Relative Path for Executables](absolute-or-relative-path-for-executables)
+- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
+- [Current Working Directory in Rust](current-working-directory-in-rust)
+- [Dealing With Environment Variables in Python](dealing-with-environment-variables-in-python)
+- [Environment Variables and Secure Path for sudo](environment-variables-and-secure-path-for-sudo)
+- [Hands on pathlib.Path](hands-on-pathlib.path)
+```
+
+## Bash | bash
+```{dropdown} Click to expand/collapse 10 links
+- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
+- [Operators in Different Programming Languages](operators-in-different-programming-languages)
+- [Docker in WSL 2](docker-in-wsl-2)
+- [Change Shell in Mac](change-shell-in-mac)
 - [Using Bash in Docker](using-bash-in-docker)
 - [Shell in Docker](shell-in-docker)
 - [Get OS and Architecture Information in Shell](get-os-and-architecture-information-in-shell)
 - [Generating Completions Script Using crazy-complete](generating-completions-script-using-crazy-complete)
 - [Python Alternatives to Shell](python-alternatives-to-shell)
 - [String in Different Programming Languages](string-in-different-programming-languages)
-- [Operators in Different Programming Languages](operators-in-different-programming-languages)
-- [Docker in WSL 2](docker-in-wsl-2)
-- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
-- [Change Shell in Mac](change-shell-in-mac)
+```
+
+## library
+```{dropdown} Click to expand/collapse 10 links
+- [Useful Golang Packages](useful-golang-packages)
+- [Data Structure and Libraries for Real-time Collaboration](data-structure-and-libraries-for-real-time-collaboration)
+- [Structure of Python Packages](structure-of-python-packages)
+- [Deep Learning Libraries for Dialog Systems and Chatbots](deep-learning-libraries-for-dialog-systems-and-chatbots)
+- [Useful Java Libraries](useful-java-libraries)
+- [Make a Rust Project Both a Library and a Binary](make-a-rust-project-both-a-library-and-a-binary)
+- [Good Third-party Math Libraries for Scala](good-third-party-math-libraries-for-scala)
+- [Good C++ Libraries](good-c++-libraries)
+- [Python Modules for Visualization](python-modules-for-visualization)
+- [Tips on the Transformers Python Library for NLP](tips-on-the-transformers-python-library-for-nlp)
 ```
 
 ## cpp
@@ -6344,48 +6400,6 @@ site:
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 ```
 
-## path | PATH | Path
-```{dropdown} Click to expand/collapse 10 links
-- [Path in Rust](path-in-rust)
-- [Get Directory Information in Golang](get-directory-information-in-golang)
-- [Hands on the filepath Library in Golang](hands-on-the-filepath-library-in-golang)
-- [Check Whether a Path Exists in Golang](check-whether-a-path-exists-in-golang)
-- [Absolute or Relative Path for Executables](absolute-or-relative-path-for-executables)
-- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
-- [Current Working Directory in Rust](current-working-directory-in-rust)
-- [Dealing With Environment Variables in Python](dealing-with-environment-variables-in-python)
-- [Environment Variables and Secure Path for sudo](environment-variables-and-secure-path-for-sudo)
-- [Hands on pathlib.Path](hands-on-pathlib.path)
-```
-
-## type
-```{dropdown} Click to expand/collapse 10 links
-- [Get Type Name of Variables in Rust](get-type-name-of-variables-in-rust)
-- [Cast Types of Columns in Pandas](cast-types-of-columns-in-pandas)
-- [Memory Layout in Rust](memory-layout-in-rust)
-- [Data Types in Different Programming Languages](data-types-in-different-programming-languages)
-- [Sum Type in Rust](sum-type-in-rust)
-- [Constraints on Types in Rust](constraints-on-types-in-rust)
-- [Check for Existence of Commands in the Fish Shell](check-for-existence-of-commands-in-the-fish-shell)
-- [Types of Joins of Spark DataFrames](types-of-joins-of-spark-dataframes)
-- [Spark Issue: RuntimeException: Unsupported Literal Type Class](spark-issue-runtimeexception-unsupported-literal-type-class)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
-```
-
-## JS
-```{dropdown} Click to expand/collapse 10 links
-- [Hands on JavaScript](hands-on-javascript)
-- [Tips on Deno](tips-on-deno)
-- [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
-- [Tips on Electron](tips-on-electron)
-- [Tips on yarn](tips-on-yarn)
-- [Engine and Runtime for JavaScript](engine-and-runtime-for-javascript)
-- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
-- [Tips on JavaScript](tips-on-javascript)
-- [Tips on NodeJS](tips-on-nodejs)
-- [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
-```
-
 ## thread
 ```{dropdown} Click to expand/collapse 10 links
 - [Send and Sync in Rust](send-and-sync-in-rust)
@@ -6398,20 +6412,6 @@ site:
 - [Differences Between Vector and ArrayList in Java](differences-between-vector-and-arraylist-in-java)
 - [Thread Safe Random Number Generator](thread-safe-random-number-generator)
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
-```
-
-## library
-```{dropdown} Click to expand/collapse 10 links
-- [Data Structure and Libraries for Real-time Collaboration](data-structure-and-libraries-for-real-time-collaboration)
-- [Structure of Python Packages](structure-of-python-packages)
-- [Deep Learning Libraries for Dialog Systems and Chatbots](deep-learning-libraries-for-dialog-systems-and-chatbots)
-- [Useful Java Libraries](useful-java-libraries)
-- [Make a Rust Project Both a Library and a Binary](make-a-rust-project-both-a-library-and-a-binary)
-- [Useful Golang Packages](useful-golang-packages)
-- [Good Third-party Math Libraries for Scala](good-third-party-math-libraries-for-scala)
-- [Good C++ Libraries](good-c++-libraries)
-- [Python Modules for Visualization](python-modules-for-visualization)
-- [Tips on the Transformers Python Library for NLP](tips-on-the-transformers-python-library-for-nlp)
 ```
 
 ## video
@@ -6468,6 +6468,58 @@ site:
 - [Collections and Iterators in C++](collections-and-iterators-in-c++)
 - [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
+```
+
+## column
+```{dropdown} Click to expand/collapse 9 links
+- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
+- [Boolean Column Operators and Functions in Spark](boolean-column-operators-and-functions-in-spark)
+- [Extract Identifier Names from a SQL Query Using Sqlfluff](extract-identifier-names-from-a-sql-query-using-sqlfluff)
+- [Row-based Mapping and Filtering on DataFrames in Spark](row-based-mapping-and-filtering-on-dataframes-in-spark)
+- [Add Columns into a pandas DataFrame](add-columns-into-a-pandas-dataframe)
+- [Using Temporary Columns in Spark](using-temporary-columns-in-spark)
+- [Rename and Drop Columns in Spark DataFrames](rename-and-drop-columns-in-spark-dataframes)
+- [Column Functions and Operators in Spark](column-functions-and-operators-in-spark)
+- [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
+```
+
+## neovim | NeoVim
+```{dropdown} Click to expand/collapse 9 links
+- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
+- [Tips on NeoVim](tips-on-neovim)
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
+- [Tips on AstroNvim](tips-on-astronvim)
+- [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
+- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
+- [Typing Chinese in Vim](typing-chinese-in-vim)
+- [Vim as a Universal Editor](vim-as-a-universal-editor)
+```
+
+## trading
+```{dropdown} Click to expand/collapse 9 links
+- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
+- [Tips on Lumibot](tips-on-lumibot)
+- [Tips on Charles Schwab](tips-on-charles-schwab)
+- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
+- [Hands on pandas_market_calendars](hands-on-pandas_market_calendars)
+- [Rust for Financial Investment](rust-for-financial-investment)
+- [Quant Trading](quant-trading)
+- [Tips on Robinhood](tips-on-robinhood)
+- [Tips on Wash Sale](tips-on-wash-sale)
+```
+
+## version
+```{dropdown} Click to expand/collapse 9 links
+- [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
+- [Pandas IO](pandas-io)
+- [Hands on the Python Module Packaging](hands-on-the-python-module-packaging)
+- [Spark Issue Libc Not Found](spark-issue-libc-not-found)
+- [GitHub Alternatives](github-alternatives)
+- [Get CentOS Version](get-centos-version)
+- [Get the Version of Python](get-the-version-of-python)
+- [Common Errors Encountered in Scala and Solutions](common-errors-encountered-in-scala-and-solutions)
+- [Preferred Python Version in Shebang](preferred-python-version-in-shebang)
 ```
 
 ## series | Series
@@ -6574,19 +6626,6 @@ site:
 - [Deploy Apache Ray](deploy-apache-ray)
 ```
 
-## NeoVim | neovim
-```{dropdown} Click to expand/collapse 9 links
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
-- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
-- [Tips on AstroNvim](tips-on-astronvim)
-- [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
-- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
-- [Typing Chinese in Vim](typing-chinese-in-vim)
-- [Vim as a Universal Editor](vim-as-a-universal-editor)
-- [Tips on NeoVim](tips-on-neovim)
-- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
-```
-
 ## numpy
 ```{dropdown} Click to expand/collapse 9 links
 - [Get Index of True Values of a Sequence in Python](get-index-of-true-values-of-a-sequence-in-python)
@@ -6598,45 +6637,6 @@ site:
 - [Load Images into Pillow](load-images-into-pillow)
 - [Pad a Sequence in Python](pad-a-sequence-in-python)
 - [Numpy Arrays in Python](numpy-arrays-in-python)
-```
-
-## version
-```{dropdown} Click to expand/collapse 9 links
-- [Pandas IO](pandas-io)
-- [Hands on the Python Module Packaging](hands-on-the-python-module-packaging)
-- [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
-- [Spark Issue Libc Not Found](spark-issue-libc-not-found)
-- [GitHub Alternatives](github-alternatives)
-- [Get CentOS Version](get-centos-version)
-- [Get the Version of Python](get-the-version-of-python)
-- [Common Errors Encountered in Scala and Solutions](common-errors-encountered-in-scala-and-solutions)
-- [Preferred Python Version in Shebang](preferred-python-version-in-shebang)
-```
-
-## column
-```{dropdown} Click to expand/collapse 9 links
-- [Boolean Column Operators and Functions in Spark](boolean-column-operators-and-functions-in-spark)
-- [Extract Identifier Names from a SQL Query Using Sqlfluff](extract-identifier-names-from-a-sql-query-using-sqlfluff)
-- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
-- [Row-based Mapping and Filtering on DataFrames in Spark](row-based-mapping-and-filtering-on-dataframes-in-spark)
-- [Add Columns into a pandas DataFrame](add-columns-into-a-pandas-dataframe)
-- [Using Temporary Columns in Spark](using-temporary-columns-in-spark)
-- [Rename and Drop Columns in Spark DataFrames](rename-and-drop-columns-in-spark-dataframes)
-- [Column Functions and Operators in Spark](column-functions-and-operators-in-spark)
-- [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
-```
-
-## trading
-```{dropdown} Click to expand/collapse 9 links
-- [Hands on pandas_market_calendars](hands-on-pandas_market_calendars)
-- [Rust for Financial Investment](rust-for-financial-investment)
-- [Quant Trading](quant-trading)
-- [Tips on Charles Schwab](tips-on-charles-schwab)
-- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
-- [Tips on Robinhood](tips-on-robinhood)
-- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
-- [Tips on Wash Sale](tips-on-wash-sale)
-- [Tips on Lumibot](tips-on-lumibot)
 ```
 
 ## GitHub Actions
@@ -6689,6 +6689,66 @@ site:
 - [Synchronization and Backup Solutions](synchronization-and-backup-solutions)
 - [Docker Images for Synchronization](docker-images-for-synchronization)
 - [Synchronize System Time in Debian](synchronize-system-time-in-debian)
+```
+
+## documentation
+```{dropdown} Click to expand/collapse 8 links
+- [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
+- [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
+- [Write Documentation for Python Packages Using Sphinx](write-documentation-for-python-packages-using-sphinx)
+- [Documentation Generating Tool for Python](documentation-generating-tool-for-python)
+- [Tips on mkdocs](tips-on-mkdocs)
+- [Tips on Darglint](tips-on-darglint)
+- [Document Rust APIs](document-rust-apis)
+- [Markdown Tools Written in Rust](markdown-tools-written-in-rust)
+```
+
+## profiling
+```{dropdown} Click to expand/collapse 8 links
+- [Tips on Valgrind](tips-on-valgrind)
+- [Profile Rust Applications](profile-rust-applications)
+- [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
+- [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
+- [Tips on Great Expectations](tips-on-great-expectations)
+- [Tips on Bytehound](tips-on-bytehound)
+- [Tips on VirtualVM](tips-on-virtualvm)
+- [Profile C++ Code](profile-c++-code)
+```
+
+## logging
+```{dropdown} Click to expand/collapse 8 links
+- [Configure Log4J for Spark](configure-log4j-for-spark)
+- [Python Logging Made Stupidly Simple With Loguru](python-logging-made-stupidly-simple-with-loguru)
+- [Logging in PySpark](logging-in-pyspark)
+- [Rust Crates for Tracing and Logging](rust-crates-for-tracing-and-logging)
+- [Hands on the logging Module in Python](hands-on-the-logging-module-in-python)
+- [Ensure Capturing Log of Applications](ensure-capturing-log-of-applications)
+- [General Tips on Logging](general-tips-on-logging)
+- [Python Logging](python-logging)
+```
+
+## str
+```{dropdown} Click to expand/collapse 8 links
+- [String in Golang](string-in-golang)
+- [Hands on the textwrap Module in Python](hands-on-the-textwrap-module-in-python)
+- [Useful Rust Crates for String](useful-rust-crates-for-string)
+- [Work with Long Strings in Python](work-with-long-strings-in-python)
+- [String vs Bytecode in Python](string-vs-bytecode-in-python)
+- [String in Rust](string-in-rust)
+- [Format a String in Python](format-a-string-in-python)
+- [String in Python](string-in-python)
+```
+
+## directory
+```{dropdown} Click to expand/collapse 8 links
+- [Get Directory Information in Golang](get-directory-information-in-golang)
+- [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
+- [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
+- [Calculate Hash of a Directory in Python](calculate-hash-of-a-directory-in-python)
+- [Current Working Directory in Rust](current-working-directory-in-rust)
+- [Iterate All Descendant Files in a Directory in Python](iterate-all-descendant-files-in-a-directory-in-python)
+- [Gitignore Examples](gitignore-examples)
+- [Compare Two Directories on Linux](compare-two-directories-on-linux)
 ```
 
 ## pattern
@@ -6835,18 +6895,6 @@ site:
 - [Profile C++ Code](profile-c++-code)
 ```
 
-## logging
-```{dropdown} Click to expand/collapse 8 links
-- [Python Logging Made Stupidly Simple With Loguru](python-logging-made-stupidly-simple-with-loguru)
-- [Configure Log4J for Spark](configure-log4j-for-spark)
-- [Logging in PySpark](logging-in-pyspark)
-- [Rust Crates for Tracing and Logging](rust-crates-for-tracing-and-logging)
-- [Hands on the logging Module in Python](hands-on-the-logging-module-in-python)
-- [Ensure Capturing Log of Applications](ensure-capturing-log-of-applications)
-- [General Tips on Logging](general-tips-on-logging)
-- [Python Logging](python-logging)
-```
-
 ## SQLite3
 ```{dropdown} Click to expand/collapse 8 links
 - [Use the Blob Data Type in Sqlite3](use-the-blob-data-type-in-sqlite3)
@@ -6871,18 +6919,6 @@ site:
 - [Handling Complicated Data Types in Python and PySpark](handling-complicated-data-types-in-python-and-pyspark)
 ```
 
-## directory
-```{dropdown} Click to expand/collapse 8 links
-- [Calculate Hash of a Directory in Python](calculate-hash-of-a-directory-in-python)
-- [Current Working Directory in Rust](current-working-directory-in-rust)
-- [Get Directory Information in Golang](get-directory-information-in-golang)
-- [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
-- [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
-- [Iterate All Descendant Files in a Directory in Python](iterate-all-descendant-files-in-a-directory-in-python)
-- [Gitignore Examples](gitignore-examples)
-- [Compare Two Directories on Linux](compare-two-directories-on-linux)
-```
-
 ## hash
 ```{dropdown} Click to expand/collapse 8 links
 - [Calculate Hash of a Directory in Python](calculate-hash-of-a-directory-in-python)
@@ -6893,18 +6929,6 @@ site:
 - [Hands on the Rust Crate lru](hands-on-the-rust-crate-lru)
 - [Perfect Hash Functions](perfect-hash-functions)
 - [Implementing Equality and Hash Methods in Python](implementing-equality-and-hash-methods-in-python)
-```
-
-## str
-```{dropdown} Click to expand/collapse 8 links
-- [Hands on the textwrap Module in Python](hands-on-the-textwrap-module-in-python)
-- [String in Golang](string-in-golang)
-- [Useful Rust Crates for String](useful-rust-crates-for-string)
-- [Work with Long Strings in Python](work-with-long-strings-in-python)
-- [String vs Bytecode in Python](string-vs-bytecode-in-python)
-- [String in Rust](string-in-rust)
-- [Format a String in Python](format-a-string-in-python)
-- [String in Python](string-in-python)
 ```
 
 ## reference
@@ -6943,18 +6967,6 @@ site:
 - [Thread Safe Random Number Generator](thread-safe-random-number-generator)
 ```
 
-## documentation
-```{dropdown} Click to expand/collapse 8 links
-- [Write Documentation for Python Packages Using Sphinx](write-documentation-for-python-packages-using-sphinx)
-- [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
-- [Documentation Generating Tool for Python](documentation-generating-tool-for-python)
-- [Tips on mkdocs](tips-on-mkdocs)
-- [Tips on Darglint](tips-on-darglint)
-- [Document Rust APIs](document-rust-apis)
-- [Markdown Tools Written in Rust](markdown-tools-written-in-rust)
-- [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
-```
-
 ## desktop
 ```{dropdown} Click to expand/collapse 8 links
 - [Tips on Fbs](tips-on-fbs)
@@ -6965,18 +6977,6 @@ site:
 - [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
 - [Working Remotely in Linux](working-remotely-in-linux)
 - [Manage Autostart Applications](manage-autostart-applications)
-```
-
-## profiling
-```{dropdown} Click to expand/collapse 8 links
-- [Profile Rust Applications](profile-rust-applications)
-- [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
-- [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
-- [Tips on Valgrind](tips-on-valgrind)
-- [Tips on Great Expectations](tips-on-great-expectations)
-- [Tips on Bytehound](tips-on-bytehound)
-- [Tips on VirtualVM](tips-on-virtualvm)
-- [Profile C++ Code](profile-c++-code)
 ```
 
 ## Firefox
@@ -7003,6 +7003,83 @@ site:
 - [Docker Images for Synchronization](docker-images-for-synchronization)
 ```
 
+## sort
+```{dropdown} Click to expand/collapse 7 links
+- [Sort a List in Kotlin](sort-a-list-in-kotlin)
+- [Get Location of Max Value in a Pandas Series](get-location-of-max-value-in-a-pandas-series)
+- [Sorting Algorithms in Rust](sorting-algorithms-in-rust)
+- [Sorting At Compile Time in Rust](sorting-at-compile-time-in-rust)
+- [Sort Collections in Python](sort-collections-in-python)
+- [Sort DataFrame in Spark](sort-dataframe-in-spark)
+- [Sorting Functions in C++](sorting-functions-in-c++)
+```
+
+## Jupyter notebook | Jupyter Notebook
+```{dropdown} Click to expand/collapse 7 links
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+- [Docker Images for Notebooks](docker-images-for-notebooks)
+- [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
+- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
+- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
+- [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
+- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
+```
+
+## formatting
+```{dropdown} Click to expand/collapse 7 links
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [SQL Style And Formatter](sql-style-and-formatter)
+- [The println Macro in Rust](the-println-macro-in-rust)
+- [Ruff Is An Extremely Fast Python Linter Written in Rust](ruff-is-an-extremely-fast-python-linter-written-in-rust)
+- [Format String in Java](format-string-in-java)
+- [Round/Format Numbers in Java](round-format-numbers-in-java)
+- [Format Java Code](format-java-code)
+```
+
+## parse
+```{dropdown} Click to expand/collapse 7 links
+- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
+- [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
+- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
+- [Parse Xml in Python](parse-xml-in-python)
+- [Parse YAML in Rust](parse-yaml-in-rust)
+- [Shell Command Parser](shell-command-parser)
+- [Parse TOML Files in Python](parse-toml-files-in-python)
+```
+
+## JSON | json
+```{dropdown} Click to expand/collapse 7 links
+- [Serialize and Deserialize JSON in Golang](serialize-and-deserialize-json-in-golang)
+- [Parsing YAML in Python](parsing-yaml-in-python)
+- [Tips on JSON](tips-on-json)
+- [Serialization and deserialization in Python](serialization-and-deserialization-in-python)
+- [Commonly Used File Formats for Configuration](commonly-used-file-formats-for-configuration)
+- [Tips on JSON](tips-on-json)
+- [Hands on the json Module in Python](hands-on-the-json-module-in-python)
+```
+
+## remote
+```{dropdown} Click to expand/collapse 7 links
+- [Run Commands on Remote Machines](run-commands-on-remote-machines)
+- [Maintain Garage Doors](maintain-garage-doors)
+- [Tips and sshfs and fuse](tips-and-sshfs-and-fuse)
+- [Working Remotely in Linux](working-remotely-in-linux)
+- [Useful Tools in Linux](useful-tools-in-linux)
+- [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
+- [Operate Remote Servers Using SSH](operate-remote-servers-using-ssh)
+```
+
+## useful
+```{dropdown} Click to expand/collapse 7 links
+- [Useful Golang Packages](useful-golang-packages)
+- [Useful Rust Crates](useful-rust-crates)
+- [Useful Rust Crates for Testing](useful-rust-crates-for-testing)
+- [Useful Rust Crates for Numeric Computation](useful-rust-crates-for-numeric-computation)
+- [Useful Rust Crates for Filesystem](useful-rust-crates-for-filesystem)
+- [Useful Rust Crates for Bit Manipulations](useful-rust-crates-for-bit-manipulations)
+- [Useful Docker Images](useful-docker-images)
+```
+
 ## KDE
 ```{dropdown} Click to expand/collapse 7 links
 - [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
@@ -7012,28 +7089,6 @@ site:
 - [View and Edit PDF Documents Using Okular](view-and-edit-pdf-documents-using-okular)
 - [Desktop Environments for Linux](desktop-environments-for-linux)
 - [Shortcuts for KDE](shortcuts-for-kde)
-```
-
-## Jupyter Notebook | Jupyter notebook
-```{dropdown} Click to expand/collapse 7 links
-- [Docker Images for Notebooks](docker-images-for-notebooks)
-- [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
-- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
-- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
-- [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
-- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
-- [Visual Studio Code for Python](visual-studio-code-for-python)
-```
-
-## remote
-```{dropdown} Click to expand/collapse 7 links
-- [Maintain Garage Doors](maintain-garage-doors)
-- [Tips and sshfs and fuse](tips-and-sshfs-and-fuse)
-- [Working Remotely in Linux](working-remotely-in-linux)
-- [Useful Tools in Linux](useful-tools-in-linux)
-- [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
-- [Operate Remote Servers Using SSH](operate-remote-servers-using-ssh)
-- [Run Commands on Remote Machines](run-commands-on-remote-machines)
 ```
 
 ## work | Work
@@ -7113,28 +7168,6 @@ site:
 - [Convert LaTeX to Word](convert-latex-to-word)
 ```
 
-## formatting
-```{dropdown} Click to expand/collapse 7 links
-- [SQL Style And Formatter](sql-style-and-formatter)
-- [The println Macro in Rust](the-println-macro-in-rust)
-- [Ruff Is An Extremely Fast Python Linter Written in Rust](ruff-is-an-extremely-fast-python-linter-written-in-rust)
-- [Format String in Java](format-string-in-java)
-- [Round/Format Numbers in Java](round-format-numbers-in-java)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
-- [Format Java Code](format-java-code)
-```
-
-## JSON | json
-```{dropdown} Click to expand/collapse 7 links
-- [Parsing YAML in Python](parsing-yaml-in-python)
-- [Serialize and Deserialize JSON in Golang](serialize-and-deserialize-json-in-golang)
-- [Tips on JSON](tips-on-json)
-- [Serialization and deserialization in Python](serialization-and-deserialization-in-python)
-- [Commonly Used File Formats for Configuration](commonly-used-file-formats-for-configuration)
-- [Tips on JSON](tips-on-json)
-- [Hands on the json Module in Python](hands-on-the-json-module-in-python)
-```
-
 ## resource
 ```{dropdown} Click to expand/collapse 7 links
 - [Hands on the psutil Module in Python](hands-on-the-psutil-module-in-python)
@@ -7144,17 +7177,6 @@ site:
 - [Data Sources](data-sources)
 - [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
 - [Learning Resources](learning-resources)
-```
-
-## parse
-```{dropdown} Click to expand/collapse 7 links
-- [Parse Xml in Python](parse-xml-in-python)
-- [Parse YAML in Rust](parse-yaml-in-rust)
-- [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
-- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
-- [Shell Command Parser](shell-command-parser)
-- [Parse TOML Files in Python](parse-toml-files-in-python)
-- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
 ```
 
 ## vector | Vector
@@ -7188,17 +7210,6 @@ site:
 - [Numpy Arrays in Python](numpy-arrays-in-python)
 - [Memory in JVM](memory-in-jvm)
 - [Use the ulimit Command to Control the Stack Size](use-the-ulimit-command-to-control-the-stack-size)
-```
-
-## sort
-```{dropdown} Click to expand/collapse 7 links
-- [Get Location of Max Value in a Pandas Series](get-location-of-max-value-in-a-pandas-series)
-- [Sorting Algorithms in Rust](sorting-algorithms-in-rust)
-- [Sorting At Compile Time in Rust](sorting-at-compile-time-in-rust)
-- [Sort a List in Kotlin](sort-a-list-in-kotlin)
-- [Sort Collections in Python](sort-collections-in-python)
-- [Sort DataFrame in Spark](sort-dataframe-in-spark)
-- [Sorting Functions in C++](sorting-functions-in-c++)
 ```
 
 ## parallel
@@ -7300,17 +7311,6 @@ site:
 - [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
 ```
 
-## useful
-```{dropdown} Click to expand/collapse 7 links
-- [Useful Rust Crates](useful-rust-crates)
-- [Useful Golang Packages](useful-golang-packages)
-- [Useful Rust Crates for Testing](useful-rust-crates-for-testing)
-- [Useful Rust Crates for Numeric Computation](useful-rust-crates-for-numeric-computation)
-- [Useful Rust Crates for Filesystem](useful-rust-crates-for-filesystem)
-- [Useful Rust Crates for Bit Manipulations](useful-rust-crates-for-bit-manipulations)
-- [Useful Docker Images](useful-docker-images)
-```
-
 ## browser
 ```{dropdown} Click to expand/collapse 7 links
 - [Incognito Mode for Browsers](incognito-mode-for-browsers)
@@ -7353,6 +7353,136 @@ site:
 - [Service Your Rivian Car](service-your-rivian-car)
 - [Flat Tire on Rivian](flat-tire-on-rivian)
 - [Fast DC Charging in WA](fast-dc-charging-in-wa)
+```
+
+## Set | set
+```{dropdown} Click to expand/collapse 6 links
+- [Collections in Kotlin](collections-in-kotlin)
+- [Set in Java](set-in-java)
+- [Set in Golang](set-in-golang)
+- [Set in Rust](set-in-rust)
+- [The set Collection in Python](the-set-collection-in-python)
+- [Collections and Iterators in C++](collections-and-iterators-in-c++)
+```
+
+## group by
+```{dropdown} Click to expand/collapse 6 links
+- [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
+- [Aggregation in pandas DataFrame](aggregation-in-pandas-dataframe)
+- [Aggregate DataFrames in Spark](aggregate-dataframes-in-spark)
+- [Group-by Plots in HoloViews](group-by-plots-in-holoviews)
+- [Understand Execuation of SQL Statements](understand-execuation-of-sql-statements)
+- [Group by vs Over Partition in SQL](group-by-vs-over-partition-in-sql)
+```
+
+## process
+```{dropdown} Click to expand/collapse 6 links
+- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
+- [Tips on the Shell command ps](tips-on-the-shell-command-ps)
+- [Hands on the psutil Module in Python](hands-on-the-psutil-module-in-python)
+- [Check Resources Used by Processes Using Python](check-resources-used-by-processes-using-python)
+- [Run Shell Command in Rust](run-shell-command-in-rust)
+- [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
+```
+
+## TypeScript
+```{dropdown} Click to expand/collapse 6 links
+- [Tips on Deno](tips-on-deno)
+- [Tips on TypeScript](tips-on-typescript)
+- [Tips on TypeScript Compiler](tips-on-typescript-compiler)
+- [Tips on npm](tips-on-npm)
+- [Named Parameters in TypeScript](named-parameters-in-typescript)
+- [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
+```
+
+## check
+```{dropdown} Click to expand/collapse 6 links
+- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
+- [Query Hardware Information in Linux](query-hardware-information-in-linux)
+- [Debugging and Testing Tools for Windows](debugging-and-testing-tools-for-windows)
+- [Tips on Rust Clippy](tips-on-rust-clippy)
+- [Speed Up Rust Compile Time](speed-up-rust-compile-time)
+- [GitHub Action Task Stuck At Expected](github-action-task-stuck-at-expected)
+```
+
+## linter
+```{dropdown} Click to expand/collapse 6 links
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [Sort Python Imports Using isort](sort-python-imports-using-isort)
+- [Tips on Sqlfluff](tips-on-sqlfluff)
+- [Use Flake8 to Lint Python Scripts](use-flake8-to-lint-python-scripts)
+- [Tips on Darglint](tips-on-darglint)
+- [Ruff Is An Extremely Fast Python Linter Written in Rust](ruff-is-an-extremely-fast-python-linter-written-in-rust)
+```
+
+## stock
+```{dropdown} Click to expand/collapse 6 links
+- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
+- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
+- [Investment](investment)
+- [Tips on Earnings Report](tips-on-earnings-report)
+- [Quant Trading](quant-trading)
+- [Tips on eTrade](tips-on-etrade)
+```
+
+## brokerage
+```{dropdown} Click to expand/collapse 6 links
+- [Tips on Charles Schwab](tips-on-charles-schwab)
+- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
+- [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
+- [Tips on Brokerage](tips-on-brokerage)
+- [Tips on Robinhood](tips-on-robinhood)
+- [Tips on Fidelity](tips-on-fidelity)
+```
+
+## HTTP | http
+```{dropdown} Click to expand/collapse 6 links
+- [Hands on the Standard Library HTTP in Golang](hands-on-the-standard-library-http-in-golang)
+- [Tips on Network Protocols](tips-on-network-protocols)
+- [Tips on HTTP](tips-on-http)
+- [Speed Up sbt in China](speed-up-sbt-in-china)
+- [Tips on httpd](tips-on-httpd)
+- [Hands on the Standard Library HTTP in Golang](hands-on-the-standard-library-http-in-golang)
+```
+
+## operating system
+```{dropdown} Click to expand/collapse 6 links
+- [Get the Type of OS in Golang](get-the-type-of-os-in-golang)
+- [Debugging and Testing Tools for Windows](debugging-and-testing-tools-for-windows)
+- [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
+- [Tips on Linux Mint](tips-on-linux-mint)
+- [Configure Debian Apt Source List](configure-debian-apt-source-list)
+- [Create a Temporary File in Linux](create-a-temporary-file-in-linux)
+```
+
+## TOML
+```{dropdown} Click to expand/collapse 6 links
+- [Parse TOML Files in Golang](parse-toml-files-in-golang)
+- [Hands on the Python Library tomlkit](hands-on-the-python-library-tomlkit)
+- [Parse TOML Files in Rust](parse-toml-files-in-rust)
+- [Hands on the Python Library toml](hands-on-the-python-library-toml)
+- [Parse TOML Files in Python](parse-toml-files-in-python)
+- [Commonly Used File Formats for Configuration](commonly-used-file-formats-for-configuration)
+```
+
+## distributed
+```{dropdown} Click to expand/collapse 6 links
+- [Rust and Spark](rust-and-spark)
+- [Distributed Programming in Python](distributed-programming-in-python)
+- [Rust Crates for Parallel, Concurrency, Async and Distributed Applications](rust-crates-for-parallel-concurrency-async-and-distributed-applications)
+- [Tips on Distributed Development](tips-on-distributed-development)
+- [Tips on Git](tips-on-git)
+- [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
+```
+
+## character
+```{dropdown} Click to expand/collapse 6 links
+- [Special Characters to Avoid in Strings](special-characters-to-avoid-in-strings)
+- [Work with Long Strings in Python](work-with-long-strings-in-python)
+- [String in Rust](string-in-rust)
+- [Char in Rust](char-in-rust)
+- [String in Python](string-in-python)
+- [String in Java](string-in-java)
 ```
 
 ## Zeppelin | zeppelin
@@ -7425,16 +7555,6 @@ site:
 - [Resizing Hard Disk of Guest Machine in Virtualbox](resizing-hard-disk-of-guest-machine-in-virtualbox)
 ```
 
-## linter
-```{dropdown} Click to expand/collapse 6 links
-- [Sort Python Imports Using isort](sort-python-imports-using-isort)
-- [Tips on Sqlfluff](tips-on-sqlfluff)
-- [Use Flake8 to Lint Python Scripts](use-flake8-to-lint-python-scripts)
-- [Tips on Darglint](tips-on-darglint)
-- [Ruff Is An Extremely Fast Python Linter Written in Rust](ruff-is-an-extremely-fast-python-linter-written-in-rust)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
-```
-
 ## OOP
 ```{dropdown} Click to expand/collapse 6 links
 - [Use a Class in the Definition of the Class in Python](use-a-class-in-the-definition-of-the-class-in-python)
@@ -7465,16 +7585,6 @@ site:
 - [Use SnakeYaml in Scala](use-snakeyaml-in-scala)
 ```
 
-## process
-```{dropdown} Click to expand/collapse 6 links
-- [Tips on the Shell command ps](tips-on-the-shell-command-ps)
-- [Hands on the psutil Module in Python](hands-on-the-psutil-module-in-python)
-- [Check Resources Used by Processes Using Python](check-resources-used-by-processes-using-python)
-- [Run Shell Command in Rust](run-shell-command-in-rust)
-- [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
-- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
-```
-
 ## table
 ```{dropdown} Click to expand/collapse 6 links
 - [Get Size of Tables on HDFS](get-size-of-tables-on-hdfs)
@@ -7483,16 +7593,6 @@ site:
 - [Directly Initialize a Hashmap in Java](directly-initialize-a-hashmap-in-java)
 - [Read/Write Files/Tables in Spark](read-write-files-tables-in-spark)
 - [Convert Math Formula and Table To LaTeX](convert-math-formula-and-table-to-latex)
-```
-
-## TOML
-```{dropdown} Click to expand/collapse 6 links
-- [Hands on the Python Library tomlkit](hands-on-the-python-library-tomlkit)
-- [Parse TOML Files in Rust](parse-toml-files-in-rust)
-- [Parse TOML Files in Golang](parse-toml-files-in-golang)
-- [Hands on the Python Library toml](hands-on-the-python-library-toml)
-- [Parse TOML Files in Python](parse-toml-files-in-python)
-- [Commonly Used File Formats for Configuration](commonly-used-file-formats-for-configuration)
 ```
 
 ## Copy | copy
@@ -7505,16 +7605,6 @@ site:
 - [Copy Arrays in Java](copy-arrays-in-java)
 ```
 
-## set | Set
-```{dropdown} Click to expand/collapse 6 links
-- [Set in Rust](set-in-rust)
-- [Set in Golang](set-in-golang)
-- [The set Collection in Python](the-set-collection-in-python)
-- [Collections and Iterators in C++](collections-and-iterators-in-c++)
-- [Collections in Kotlin](collections-in-kotlin)
-- [Set in Java](set-in-java)
-```
-
 ## filter
 ```{dropdown} Click to expand/collapse 6 links
 - [Filter a Polars LazyFrame in Rust](filter-a-polars-lazyframe-in-rust)
@@ -7525,26 +7615,6 @@ site:
 - [Filter pandas DataFrames in Python](filter-pandas-dataframes-in-python)
 ```
 
-## HTTP | http
-```{dropdown} Click to expand/collapse 6 links
-- [Hands on the Standard Library HTTP in Golang](hands-on-the-standard-library-http-in-golang)
-- [Tips on Network Protocols](tips-on-network-protocols)
-- [Tips on HTTP](tips-on-http)
-- [Speed Up sbt in China](speed-up-sbt-in-china)
-- [Tips on httpd](tips-on-httpd)
-- [Hands on the Standard Library HTTP in Golang](hands-on-the-standard-library-http-in-golang)
-```
-
-## operating system
-```{dropdown} Click to expand/collapse 6 links
-- [Get the Type of OS in Golang](get-the-type-of-os-in-golang)
-- [Debugging and Testing Tools for Windows](debugging-and-testing-tools-for-windows)
-- [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
-- [Tips on Linux Mint](tips-on-linux-mint)
-- [Configure Debian Apt Source List](configure-debian-apt-source-list)
-- [Create a Temporary File in Linux](create-a-temporary-file-in-linux)
-```
-
 ## actions | Actions
 ```{dropdown} Click to expand/collapse 6 links
 - [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
@@ -7553,26 +7623,6 @@ site:
 - [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
 - [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
 - [GitHub Action Task Stuck At Expected](github-action-task-stuck-at-expected)
-```
-
-## group by
-```{dropdown} Click to expand/collapse 6 links
-- [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
-- [Aggregation in pandas DataFrame](aggregation-in-pandas-dataframe)
-- [Aggregate DataFrames in Spark](aggregate-dataframes-in-spark)
-- [Group-by Plots in HoloViews](group-by-plots-in-holoviews)
-- [Understand Execuation of SQL Statements](understand-execuation-of-sql-statements)
-- [Group by vs Over Partition in SQL](group-by-vs-over-partition-in-sql)
-```
-
-## TypeScript
-```{dropdown} Click to expand/collapse 6 links
-- [Tips on Deno](tips-on-deno)
-- [Tips on TypeScript](tips-on-typescript)
-- [Tips on TypeScript Compiler](tips-on-typescript-compiler)
-- [Tips on npm](tips-on-npm)
-- [Named Parameters in TypeScript](named-parameters-in-typescript)
-- [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
 ```
 
 ## compile
@@ -7593,16 +7643,6 @@ site:
 - [Use pyarrow to Share Data in Memory in Python](use-pyarrow-to-share-data-in-memory-in-python)
 - [Data Types in Different Programming Languages](data-types-in-different-programming-languages)
 - [Python Modules for Date and Time](python-modules-for-date-and-time)
-```
-
-## distributed
-```{dropdown} Click to expand/collapse 6 links
-- [Distributed Programming in Python](distributed-programming-in-python)
-- [Rust and Spark](rust-and-spark)
-- [Rust Crates for Parallel, Concurrency, Async and Distributed Applications](rust-crates-for-parallel-concurrency-async-and-distributed-applications)
-- [Tips on Distributed Development](tips-on-distributed-development)
-- [Tips on Git](tips-on-git)
-- [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
 ```
 
 ## apt
@@ -7665,16 +7705,6 @@ site:
 - [中国的公共交通服务](public-transportation-china)
 ```
 
-## check
-```{dropdown} Click to expand/collapse 6 links
-- [Query Hardware Information in Linux](query-hardware-information-in-linux)
-- [Debugging and Testing Tools for Windows](debugging-and-testing-tools-for-windows)
-- [Tips on Rust Clippy](tips-on-rust-clippy)
-- [Speed Up Rust Compile Time](speed-up-rust-compile-time)
-- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
-- [GitHub Action Task Stuck At Expected](github-action-task-stuck-at-expected)
-```
-
 ## Android
 ```{dropdown} Click to expand/collapse 6 links
 - [Tips on crosvm](tips-on-crosvm)
@@ -7733,16 +7763,6 @@ site:
 - [Managing Fedora Atomic Core System Using rpm-ostree](managing-fedora-atomic-core-system-using-rpm-ostree)
 - [Install VirtualBox Guest Additions](install-virtualbox-guest-additions)
 - [Atomic Linux Distributions](atomic-linux-distributions)
-```
-
-## character
-```{dropdown} Click to expand/collapse 6 links
-- [Work with Long Strings in Python](work-with-long-strings-in-python)
-- [String in Rust](string-in-rust)
-- [Char in Rust](char-in-rust)
-- [Special Characters to Avoid in Strings](special-characters-to-avoid-in-strings)
-- [String in Python](string-in-python)
-- [String in Java](string-in-java)
 ```
 
 ## CentOS
@@ -7805,24 +7825,202 @@ site:
 - [Install sbt on CentOS](install-sbt-on-centos)
 ```
 
-## stock
-```{dropdown} Click to expand/collapse 6 links
-- [Investment](investment)
-- [Tips on Earnings Report](tips-on-earnings-report)
-- [Quant Trading](quant-trading)
-- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
-- [Tips on eTrade](tips-on-etrade)
-- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
+## information
+```{dropdown} Click to expand/collapse 5 links
+- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
+- [Get Information of User in Golang](get-information-of-user-in-golang)
+- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
+- [Query Hardware Information in Linux](query-hardware-information-in-linux)
+- [Get Information of Application Windows in Python](get-information-of-application-windows-in-python)
 ```
 
-## brokerage
-```{dropdown} Click to expand/collapse 6 links
-- [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
-- [Tips on Brokerage](tips-on-brokerage)
-- [Tips on Charles Schwab](tips-on-charles-schwab)
-- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
-- [Tips on Robinhood](tips-on-robinhood)
-- [Tips on Fidelity](tips-on-fidelity)
+## editor
+```{dropdown} Click to expand/collapse 5 links
+- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
+- [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
+- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
+- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
+- [Vim as a Universal Editor](vim-as-a-universal-editor)
+```
+
+## CD
+```{dropdown} Click to expand/collapse 5 links
+- [Tips on Certified Deposit](tips-on-certified-deposit)
+- [Low Risk Investments](low-risk-investments)
+- [CI/CD Tools and Frameworks](ci-cd-tools-and-frameworks)
+- [Investment](investment)
+- [Tips on GitHub](tips-on-github)
+```
+
+## doc
+```{dropdown} Click to expand/collapse 5 links
+- [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
+- [Documentation Generating Tool for Python](documentation-generating-tool-for-python)
+- [Tips on Darglint](tips-on-darglint)
+- [Document Rust APIs](document-rust-apis)
+- [Markdown Tools Written in Rust](markdown-tools-written-in-rust)
+```
+
+## diff
+```{dropdown} Click to expand/collapse 5 links
+- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
+- [Hands on the Python Library DeepDiff](hands-on-the-python-library-deepdiff)
+- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
+- [Tools for Differencing Text Files](tools-for-differencing-text-files)
+- [Compare Two Directories on Linux](compare-two-directories-on-linux)
+```
+
+## difference
+```{dropdown} Click to expand/collapse 5 links
+- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
+- [Subtle Differences Among Spark DataFrame and PySpark Dataframe](subtle-differences-among-spark-dataframe-and-pyspark-dataframe)
+- [The set Collection in Python](the-set-collection-in-python)
+- [Differences Between Kotlin and Java](differences-between-kotlin-and-java)
+- [Compare Two Directories on Linux](compare-two-directories-on-linux)
+```
+
+## find
+```{dropdown} Click to expand/collapse 5 links
+- [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
+- [The Best Way to Find Files and Manipulate Them](the-best-way-to-find-files-and-manipulate-them)
+- [The fzf Command Is a Great Alternative to find](the-fzf-command-is-a-great-alternative-to-find)
+- [Tips on fd](tips-on-fd)
+- [Tips on the find command in Linux](tips-on-the-find-command-in-linux)
+```
+
+## rsync
+```{dropdown} Click to expand/collapse 5 links
+- [Copying Files in Linux](copying-files-in-linux)
+- [Tips on the Linux Command ln](tips-on-the-linux-command-ln)
+- [Backup Files Using "rsnapshot"](backup-files-using-rsnapshot)
+- [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
+- [Tips on rsync](tips-on-rsync)
+```
+
+## debugging
+```{dropdown} Click to expand/collapse 5 links
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [Debugging Tools for Java](debugging-tools-for-java)
+- [General Tips on Debugging](general-tips-on-debugging)
+- [Debugging, Unit Testing and CICD in Python](debugging-unit-testing-and-cicd-in-python)
+- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
+```
+
+## lint
+```{dropdown} Click to expand/collapse 5 links
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [Tips on Sqlfluff](tips-on-sqlfluff)
+- [Tips on Darglint](tips-on-darglint)
+- [Tips on Rust Clippy](tips-on-rust-clippy)
+- [Ruff Is An Extremely Fast Python Linter Written in Rust](ruff-is-an-extremely-fast-python-linter-written-in-rust)
+```
+
+## remote desktop
+```{dropdown} Click to expand/collapse 5 links
+- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
+- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
+- [Tips on VNC](tips-on-vnc)
+- [Remote Desktop Using Remmina](remote-desktop-using-remmina)
+- [Remote Desktop Using NoMachine on Linux](remote-desktop-using-nomachine-on-linux)
+```
+
+## sudo
+```{dropdown} Click to expand/collapse 5 links
+- [Proxy for sudo](proxy-for-sudo)
+- [Sudo: No TTY Present and No AskPass Program Specified](sudo-no-tty-present-and-no-askpass-program-specified)
+- [Environment Variables and Secure Path for sudo](environment-variables-and-secure-path-for-sudo)
+- [Add Users to a Group in Linux](add-users-to-a-group-in-linux)
+- [User Access Control on Linux](user-access-control-on-linux)
+```
+
+## China
+```{dropdown} Click to expand/collapse 5 links
+- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
+- [Living in Shanghai](living-in-shanghai)
+- [中国的公共交通服务](public-transportation-china)
+- [医保](health-insurance-in-china)
+- [Speed Up sbt in China](speed-up-sbt-in-china)
+```
+
+## user
+```{dropdown} Click to expand/collapse 5 links
+- [Get Information of User in Golang](get-information-of-user-in-golang)
+- [User in Docker](user-in-docker)
+- [Access Control in Spark SQL](access-control-in-spark-sql)
+- [Add Users to a Group in Linux](add-users-to-a-group-in-linux)
+- [User Access Control on Linux](user-access-control-on-linux)
+```
+
+## hashmap | Hashmap | HashMap
+```{dropdown} Click to expand/collapse 5 links
+- [Map in Golang](map-in-golang)
+- [Hands on the Rust Crate lru](hands-on-the-rust-crate-lru)
+- [Hashmap in Kotlin](hashmap-in-kotlin)
+- [HashMap in Scala](hashmap-in-scala)
+- [Map in Rust](map-in-rust)
+```
+
+## remove
+```{dropdown} Click to expand/collapse 5 links
+- [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
+- [Remove System Applications in macOS](remove-system-applications-in-macos)
+- [Spark Issue: Block Could Not Be Removed as It Was Not Found on Disk or in Memory](spark-issue-block-could-not-be-removed-as-it-was-not-found-on-disk-or-in-memory)
+- [Manage Docker Images and Containers](manage-docker-images-and-containers)
+- [Drain Cleaners](drain-cleaners)
+```
+
+## kernel
+```{dropdown} Click to expand/collapse 5 links
+- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
+- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
+- [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
+- [PCIe BUS Error: Severity=Corrected, Type=Physical Layer](pcie-bus-error-severity-corrected-type-physical-layer)
+- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
+```
+
+## runtime
+```{dropdown} Click to expand/collapse 5 links
+- [Get the Type of OS in Golang](get-the-type-of-os-in-golang)
+- [WebAssembly Runtimes](webassembly-runtimes)
+- [Engine and Runtime for JavaScript](engine-and-runtime-for-javascript)
+- [Tips on WASM](tips-on-wasm)
+- [Tips on MetaCall](tips-on-metacall)
+```
+
+## disk
+```{dropdown} Click to expand/collapse 5 links
+- [Get Hardware Information in Golang](get-hardware-information-in-golang)
+- [Spark Issue: Block Could Not Be Removed as It Was Not Found on Disk or in Memory](spark-issue-block-could-not-be-removed-as-it-was-not-found-on-disk-or-in-memory)
+- [PackageKitD Uses Too Much CPU or Disk IO](packagekitd-uses-too-much-cpu-or-disk-io)
+- [Format a Disk on Linux](format-a-disk-on-linux)
+- [Spark Issue: High Disk and Memory Spill When Doing Shuffle](spark-issue-high-disk-and-memory-spill-when-doing-shuffle)
+```
+
+## temp
+```{dropdown} Click to expand/collapse 5 links
+- [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
+- [Current Working Directory in Rust](current-working-directory-in-rust)
+- [Hands on the tempfile Module in Python](hands-on-the-tempfile-module-in-python)
+- [Clean Temporary Files in Linux](clean-temporary-files-in-linux)
+- [Create a Temporary File in Linux](create-a-temporary-file-in-linux)
+```
+
+## temporary
+```{dropdown} Click to expand/collapse 5 links
+- [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
+- [Current Working Directory in Rust](current-working-directory-in-rust)
+- [Using Temporary Columns in Spark](using-temporary-columns-in-spark)
+- [Clean Temporary Files in Linux](clean-temporary-files-in-linux)
+- [Create a Temporary File in Linux](create-a-temporary-file-in-linux)
+```
+
+## IPython | ipython
+```{dropdown} Click to expand/collapse 5 links
+- [IPython Is the Best Shell](ipython-is-the-best-shell)
+- [Dot Is Not Recognized as An Internal or External Command](dot-is-not-recognized-as-an-internal-or-external-command)
+- [Python Alternatives to Shell](python-alternatives-to-shell)
+- [Set Environment Varibles in IPython](set-environment-varibles-in-ipython)
+- [Disable Jedi in IPython](disable-jedi-in-ipython)
 ```
 
 ## Apache
@@ -7861,15 +8059,6 @@ site:
 - [Keywords Extracting from Text](keywords-extracting-from-text)
 ```
 
-## remote desktop
-```{dropdown} Click to expand/collapse 5 links
-- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
-- [Tips on VNC](tips-on-vnc)
-- [Remote Desktop Using Remmina](remote-desktop-using-remmina)
-- [Remote Desktop Using NoMachine on Linux](remote-desktop-using-nomachine-on-linux)
-- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
-```
-
 ## cache
 ```{dropdown} Click to expand/collapse 5 links
 - [Probability to Lose All Money](probability-to-lose-all-money)
@@ -7879,15 +8068,6 @@ site:
 - [Persist and Checkpoint DataFrames in Spark](persist-and-checkpoint-dataframes-in-spark)
 ```
 
-## China
-```{dropdown} Click to expand/collapse 5 links
-- [Living in Shanghai](living-in-shanghai)
-- [中国的公共交通服务](public-transportation-china)
-- [医保](health-insurance-in-china)
-- [Speed Up sbt in China](speed-up-sbt-in-china)
-- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
-```
-
 ## phone
 ```{dropdown} Click to expand/collapse 5 links
 - [Stop Spam Phone Calls](stop-spam-phone-calls)
@@ -7895,15 +8075,6 @@ site:
 - [Automated Verizon Phone Bill (Continued)](automated-verizon-phone-bill-continued)
 - [Automated Phone Bill Using Ruby Program](automated-phone-bill-using-ruby-program)
 - [Tips on Verizon](tips-on-verizon)
-```
-
-## information
-```{dropdown} Click to expand/collapse 5 links
-- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
-- [Get Information of User in Golang](get-information-of-user-in-golang)
-- [Query Hardware Information in Linux](query-hardware-information-in-linux)
-- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
-- [Get Information of Application Windows in Python](get-information-of-application-windows-in-python)
 ```
 
 ## insurance
@@ -7942,15 +8113,6 @@ site:
 - [Fast DC Charging in WA](fast-dc-charging-in-wa)
 ```
 
-## rsync
-```{dropdown} Click to expand/collapse 5 links
-- [Copying Files in Linux](copying-files-in-linux)
-- [Tips on the Linux Command ln](tips-on-the-linux-command-ln)
-- [Backup Files Using "rsnapshot"](backup-files-using-rsnapshot)
-- [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
-- [Tips on rsync](tips-on-rsync)
-```
-
 ## version control
 ```{dropdown} Click to expand/collapse 5 links
 - [Git Large File Storage](git-large-file-storage)
@@ -7958,15 +8120,6 @@ site:
 - [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
 - [Tips on Git](tips-on-git)
 - [Git Errors and Solutions](git-errors-and-solutions)
-```
-
-## user
-```{dropdown} Click to expand/collapse 5 links
-- [User in Docker](user-in-docker)
-- [Get Information of User in Golang](get-information-of-user-in-golang)
-- [Access Control in Spark SQL](access-control-in-spark-sql)
-- [Add Users to a Group in Linux](add-users-to-a-group-in-linux)
-- [User Access Control on Linux](user-access-control-on-linux)
 ```
 
 ## email
@@ -7978,15 +8131,6 @@ site:
 - [Send Emails in Python](send-emails-in-python)
 ```
 
-## CD
-```{dropdown} Click to expand/collapse 5 links
-- [Low Risk Investments](low-risk-investments)
-- [CI/CD Tools and Frameworks](ci-cd-tools-and-frameworks)
-- [Investment](investment)
-- [Tips on GitHub](tips-on-github)
-- [Tips on Certified Deposit](tips-on-certified-deposit)
-```
-
 ## audio
 ```{dropdown} Click to expand/collapse 5 links
 - [Fix Microphone Problem of Skype in Debian](fix-microphone-problem-of-skype-in-debian)
@@ -7994,15 +8138,6 @@ site:
 - [Tools for Audio Analysis](tools-for-audio-analysis)
 - [Useful Rust Crates for Multimedia](useful-rust-crates-for-multimedia)
 - [Tips on FFmpeg](tips-on-ffmpeg)
-```
-
-## kernel
-```{dropdown} Click to expand/collapse 5 links
-- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
-- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
-- [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
-- [PCIe BUS Error: Severity=Corrected, Type=Physical Layer](pcie-bus-error-severity-corrected-type-physical-layer)
-- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
 ```
 
 ## spreadsheet | Spreadsheet
@@ -8068,33 +8203,6 @@ site:
 - [Change Shell in Mac](change-shell-in-mac)
 ```
 
-## lint
-```{dropdown} Click to expand/collapse 5 links
-- [Tips on Sqlfluff](tips-on-sqlfluff)
-- [Tips on Darglint](tips-on-darglint)
-- [Tips on Rust Clippy](tips-on-rust-clippy)
-- [Ruff Is An Extremely Fast Python Linter Written in Rust](ruff-is-an-extremely-fast-python-linter-written-in-rust)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
-```
-
-## diff
-```{dropdown} Click to expand/collapse 5 links
-- [Hands on the Python Library DeepDiff](hands-on-the-python-library-deepdiff)
-- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
-- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
-- [Tools for Differencing Text Files](tools-for-differencing-text-files)
-- [Compare Two Directories on Linux](compare-two-directories-on-linux)
-```
-
-## find
-```{dropdown} Click to expand/collapse 5 links
-- [The Best Way to Find Files and Manipulate Them](the-best-way-to-find-files-and-manipulate-them)
-- [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
-- [The fzf Command Is a Great Alternative to find](the-fzf-command-is-a-great-alternative-to-find)
-- [Tips on fd](tips-on-fd)
-- [Tips on the find command in Linux](tips-on-the-find-command-in-linux)
-```
-
 ## equivalent
 ```{dropdown} Click to expand/collapse 5 links
 - [Equivalent of C++'s std::set_difference in Rust](equivalent-of-c++-s-std-set_difference-in-rust)
@@ -8102,24 +8210,6 @@ site:
 - [Data Types in Different Programming Languages](data-types-in-different-programming-languages)
 - [Regular Expression Equivalent](regular-expression-equivalent)
 - [SQL Equivalent](sql-equivalent)
-```
-
-## temp
-```{dropdown} Click to expand/collapse 5 links
-- [Current Working Directory in Rust](current-working-directory-in-rust)
-- [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
-- [Hands on the tempfile Module in Python](hands-on-the-tempfile-module-in-python)
-- [Clean Temporary Files in Linux](clean-temporary-files-in-linux)
-- [Create a Temporary File in Linux](create-a-temporary-file-in-linux)
-```
-
-## temporary
-```{dropdown} Click to expand/collapse 5 links
-- [Current Working Directory in Rust](current-working-directory-in-rust)
-- [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
-- [Using Temporary Columns in Spark](using-temporary-columns-in-spark)
-- [Clean Temporary Files in Linux](clean-temporary-files-in-linux)
-- [Create a Temporary File in Linux](create-a-temporary-file-in-linux)
 ```
 
 ## range | Range
@@ -8156,42 +8246,6 @@ site:
 - [Map Keys in Linux](map-keys-in-linux)
 - [Map Keys in macOS](map-keys-in-macos)
 - [Map Keys in Windows](map-keys-in-windows)
-```
-
-## hashmap | Hashmap | HashMap
-```{dropdown} Click to expand/collapse 5 links
-- [Map in Golang](map-in-golang)
-- [Hands on the Rust Crate lru](hands-on-the-rust-crate-lru)
-- [Hashmap in Kotlin](hashmap-in-kotlin)
-- [HashMap in Scala](hashmap-in-scala)
-- [Map in Rust](map-in-rust)
-```
-
-## remove
-```{dropdown} Click to expand/collapse 5 links
-- [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
-- [Remove System Applications in macOS](remove-system-applications-in-macos)
-- [Spark Issue: Block Could Not Be Removed as It Was Not Found on Disk or in Memory](spark-issue-block-could-not-be-removed-as-it-was-not-found-on-disk-or-in-memory)
-- [Manage Docker Images and Containers](manage-docker-images-and-containers)
-- [Drain Cleaners](drain-cleaners)
-```
-
-## runtime
-```{dropdown} Click to expand/collapse 5 links
-- [Get the Type of OS in Golang](get-the-type-of-os-in-golang)
-- [WebAssembly Runtimes](webassembly-runtimes)
-- [Engine and Runtime for JavaScript](engine-and-runtime-for-javascript)
-- [Tips on WASM](tips-on-wasm)
-- [Tips on MetaCall](tips-on-metacall)
-```
-
-## disk
-```{dropdown} Click to expand/collapse 5 links
-- [Get Hardware Information in Golang](get-hardware-information-in-golang)
-- [Spark Issue: Block Could Not Be Removed as It Was Not Found on Disk or in Memory](spark-issue-block-could-not-be-removed-as-it-was-not-found-on-disk-or-in-memory)
-- [PackageKitD Uses Too Much CPU or Disk IO](packagekitd-uses-too-much-cpu-or-disk-io)
-- [Format a Disk on Linux](format-a-disk-on-linux)
-- [Spark Issue: High Disk and Memory Spill When Doing Shuffle](spark-issue-high-disk-and-memory-spill-when-doing-shuffle)
 ```
 
 ## scikit-learn | Scikit-learn
@@ -8257,15 +8311,6 @@ site:
 - [Generator in Python](generator-in-python)
 ```
 
-## doc
-```{dropdown} Click to expand/collapse 5 links
-- [Documentation Generating Tool for Python](documentation-generating-tool-for-python)
-- [Tips on Darglint](tips-on-darglint)
-- [Document Rust APIs](document-rust-apis)
-- [Markdown Tools Written in Rust](markdown-tools-written-in-rust)
-- [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
-```
-
 ## design
 ```{dropdown} Click to expand/collapse 5 links
 - [Visualization for AI Concepts](visualization-for-ai-concepts)
@@ -8275,15 +8320,6 @@ site:
 - [Understand the Design of Python](understand-the-design-of-python)
 ```
 
-## debugging
-```{dropdown} Click to expand/collapse 5 links
-- [Debugging Tools for Java](debugging-tools-for-java)
-- [General Tips on Debugging](general-tips-on-debugging)
-- [Debugging, Unit Testing and CICD in Python](debugging-unit-testing-and-cicd-in-python)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
-- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
-```
-
 ## service
 ```{dropdown} Click to expand/collapse 5 links
 - [Proxy and VPN Services](proxy-and-vpn-services)
@@ -8291,24 +8327,6 @@ site:
 - [Local Network Access on macOS](local-network-access-on-macos)
 - [Manage systemd Services and Units](manage-systemd-services-and-units)
 - [Service Your Rivian Car](service-your-rivian-car)
-```
-
-## IPython | ipython
-```{dropdown} Click to expand/collapse 5 links
-- [Dot Is Not Recognized as An Internal or External Command](dot-is-not-recognized-as-an-internal-or-external-command)
-- [Python Alternatives to Shell](python-alternatives-to-shell)
-- [IPython Is the Best Shell](ipython-is-the-best-shell)
-- [Set Environment Varibles in IPython](set-environment-varibles-in-ipython)
-- [Disable Jedi in IPython](disable-jedi-in-ipython)
-```
-
-## sudo
-```{dropdown} Click to expand/collapse 5 links
-- [Sudo: No TTY Present and No AskPass Program Specified](sudo-no-tty-present-and-no-askpass-program-specified)
-- [Environment Variables and Secure Path for sudo](environment-variables-and-secure-path-for-sudo)
-- [Add Users to a Group in Linux](add-users-to-a-group-in-linux)
-- [Proxy for sudo](proxy-for-sudo)
-- [User Access Control on Linux](user-access-control-on-linux)
 ```
 
 ## portable
@@ -8365,15 +8383,6 @@ site:
 - [Count Number of Fields in Each Line](count-number-of-fields-in-each-line)
 ```
 
-## editor
-```{dropdown} Click to expand/collapse 5 links
-- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
-- [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
-- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
-- [Vim as a Universal Editor](vim-as-a-universal-editor)
-```
-
 ## web browser
 ```{dropdown} Click to expand/collapse 5 links
 - [Tips on Web Browsers](tips-on-web-browsers)
@@ -8401,15 +8410,6 @@ site:
 - [Regular Expression Equivalent](regular-expression-equivalent)
 ```
 
-## difference
-```{dropdown} Click to expand/collapse 5 links
-- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
-- [Subtle Differences Among Spark DataFrame and PySpark Dataframe](subtle-differences-among-spark-dataframe-and-pyspark-dataframe)
-- [The set Collection in Python](the-set-collection-in-python)
-- [Differences Between Kotlin and Java](differences-between-kotlin-and-java)
-- [Compare Two Directories on Linux](compare-two-directories-on-linux)
-```
-
 ## tensor
 ```{dropdown} Click to expand/collapse 5 links
 - [Tensor Transformations in TorchVision](tensor-transformations-in-torchvision)
@@ -8435,6 +8435,142 @@ site:
 - [Count Number of Fields in Each Line](count-number-of-fields-in-each-line)
 - [Print Rows from a Text File](print-rows-from-a-text-file)
 - [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
+```
+
+## multiple
+```{dropdown} Click to expand/collapse 4 links
+- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
+- [Work With Multiple Spark Installations](work-with-multiple-spark-installations)
+- [Read Multiple Files into a DataFrame in Spark](read-multiple-files-into-a-dataframe-in-spark)
+- [Compress and Decompressing Archives in Linux](compress-and-decompressing-archives-in-linux)
+```
+
+## markup
+```{dropdown} Click to expand/collapse 4 links
+- [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
+- [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
+- [Markedly Structured Text](markedly-structured-text)
+- [LaTeX for Chinese](latex-for-chinese)
+```
+
+## MyST | myst
+```{dropdown} Click to expand/collapse 4 links
+- [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
+- [Markedly Structured Text](markedly-structured-text)
+- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
+- [Mdformat Is An Extensible Markdown Formatter](mdformat-is-an-extensible-markdown-formatter)
+```
+
+## blog
+```{dropdown} Click to expand/collapse 4 links
+- [Tips on Jupyter-Book](tips-on-jupyter-book)
+- [Tips on Blogging](tips-on-blogging)
+- [Static Site Generators](static-site-generators)
+- [Generate Static Site Using Pelican](generate-static-site-using-pelican)
+```
+
+## system
+```{dropdown} Click to expand/collapse 4 links
+- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
+- [Run System Command in Go](run-system-command-in-go)
+- [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
+- [Check Resources Used by Processes Using Python](check-resources-used-by-processes-using-python)
+```
+
+## Cloud IDE | cloud IDE
+```{dropdown} Click to expand/collapse 4 links
+- [Tips on IDE](tips-on-ide)
+- [Cloud IDE](cloud-ide)
+- [Tips on Eclipse Che](tips-on-eclipse-che)
+- [Tips on Cloud9](tips-on-cloud9)
+```
+
+## line
+```{dropdown} Click to expand/collapse 4 links
+- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
+- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
+- [Useful Rust Crates for Developing Command Line Apps](useful-rust-crates-for-developing-command-line-apps)
+- [Set Line Space in LaTeX](set-line-space-in-latex)
+```
+
+## dev
+```{dropdown} Click to expand/collapse 4 links
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [Tips on Frontend Development](tips-on-frontend-development)
+- [Dev Tools for Rust](dev-tools-for-rust)
+- [Debugging, Unit Testing and CICD in Python](debugging-unit-testing-and-cicd-in-python)
+```
+
+## cli | CLI
+```{dropdown} Click to expand/collapse 4 links
+- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
+- [Tips on Gh](tips-on-gh)
+- [Tools for Differencing Text Files](tools-for-differencing-text-files)
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+```
+
+## quant
+```{dropdown} Click to expand/collapse 4 links
+- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
+- [Hands on pandas_market_calendars](hands-on-pandas_market_calendars)
+- [Quant Trading](quant-trading)
+- [Tips on Wash Sale](tips-on-wash-sale)
+```
+
+## tuple | Tuple
+```{dropdown} Click to expand/collapse 4 links
+- [Tuple in Golang](tuple-in-golang)
+- [Unpacking Assignment in Python](unpacking-assignment-in-python)
+- [Primitive Types in Rust](primitive-types-in-rust)
+- [Tuple in Rust](tuple-in-rust)
+```
+
+## hashtable | Hashtable | HashTable
+```{dropdown} Click to expand/collapse 4 links
+- [Map in Golang](map-in-golang)
+- [Hashmap in Kotlin](hashmap-in-kotlin)
+- [HashMap in Scala](hashmap-in-scala)
+- [Map in Rust](map-in-rust)
+```
+
+## loop
+```{dropdown} Click to expand/collapse 4 links
+- [Loop in Golang](loop-in-golang)
+- [Loop in Rust](loop-in-rust)
+- [String in C++11](string-in-c++11)
+- [Loops in Java](loops-in-java)
+```
+
+## bit
+```{dropdown} Click to expand/collapse 4 links
+- [Check Whether a File Is a Socket in Golang](check-whether-a-file-is-a-socket-in-golang)
+- [Manipulate Bits in Rust](manipulate-bits-in-rust)
+- [Useful Rust Crates for Bit Manipulations](useful-rust-crates-for-bit-manipulations)
+- [Bitwise Operators in Kotlin](bitwise-operators-in-kotlin)
+```
+
+## Ansible
+```{dropdown} Click to expand/collapse 4 links
+- [Run Commands on Remote Machines](run-commands-on-remote-machines)
+- [Cluster Management Made Easy with Ansible](cluster-management-made-easy-with-ansible)
+- [Cluster Management Made Easy with the Python Package Fabric](cluster-management-made-easy-with-the-python-package-fabric)
+- [Python Tools for Linux Admins](python-tools-for-linux-admins)
+```
+
+## Fish | fish
+```{dropdown} Click to expand/collapse 4 links
+- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
+- [Tips on the Fish Shell](tips-on-the-fish-shell)
+- [Generating Completions Script Using crazy-complete](generating-completions-script-using-crazy-complete)
+- [Check for Existence of Commands in the Fish Shell](check-for-existence-of-commands-in-the-fish-shell)
+```
+
+## subprocess
+```{dropdown} Click to expand/collapse 4 links
+- [Rust and Spark](rust-and-spark)
+- [Popen - Advanced Usage of subprocess](popen-advanced-usage-of-subprocess)
+- [Hands on the Python module subprocess](hands-on-the-python-module-subprocess)
+- [Calling Shell from Python](calling-shell-from-python)
 ```
 
 ## Excel
@@ -8525,28 +8661,12 @@ site:
 - [Feature Scaling in Machine Learning](feature-scaling-in-machine-learning)
 ```
 
-## cloud IDE | Cloud IDE
-```{dropdown} Click to expand/collapse 4 links
-- [Cloud IDE](cloud-ide)
-- [Tips on Eclipse Che](tips-on-eclipse-che)
-- [Tips on Cloud9](tips-on-cloud9)
-- [Tips on IDE](tips-on-ide)
-```
-
 ## Word
 ```{dropdown} Click to expand/collapse 4 links
 - [Convert MS Office Document to Text](convert-ms-office-document-to-text)
 - [Writing Doc Using Microsoft Word](writing-doc-using-microsoft-word)
 - [Convert PDF to Word](convert-pdf-to-word)
 - [Convert LaTeX to Word](convert-latex-to-word)
-```
-
-## Ansible
-```{dropdown} Click to expand/collapse 4 links
-- [Cluster Management Made Easy with Ansible](cluster-management-made-easy-with-ansible)
-- [Cluster Management Made Easy with the Python Package Fabric](cluster-management-made-easy-with-the-python-package-fabric)
-- [Python Tools for Linux Admins](python-tools-for-linux-admins)
-- [Run Commands on Remote Machines](run-commands-on-remote-machines)
 ```
 
 ## ETF
@@ -8603,14 +8723,6 @@ site:
 - [Check Resources Used by Processes Using Python](check-resources-used-by-processes-using-python)
 - [Get Total Physical Memory in Python](get-total-physical-memory-in-python)
 - [Python Tools for Linux Admins](python-tools-for-linux-admins)
-```
-
-## system
-```{dropdown} Click to expand/collapse 4 links
-- [Check Resources Used by Processes Using Python](check-resources-used-by-processes-using-python)
-- [Run System Command in Go](run-system-command-in-go)
-- [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
-- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
 ```
 
 ## packaging
@@ -8701,68 +8813,12 @@ site:
 - [Use LightGBM With Spark](use-lightgbm-with-spark)
 ```
 
-## line
-```{dropdown} Click to expand/collapse 4 links
-- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
-- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
-- [Useful Rust Crates for Developing Command Line Apps](useful-rust-crates-for-developing-command-line-apps)
-- [Set Line Space in LaTeX](set-line-space-in-latex)
-```
-
-## tuple | Tuple
-```{dropdown} Click to expand/collapse 4 links
-- [Tuple in Golang](tuple-in-golang)
-- [Unpacking Assignment in Python](unpacking-assignment-in-python)
-- [Primitive Types in Rust](primitive-types-in-rust)
-- [Tuple in Rust](tuple-in-rust)
-```
-
-## hashtable | Hashtable | HashTable
-```{dropdown} Click to expand/collapse 4 links
-- [Map in Golang](map-in-golang)
-- [Hashmap in Kotlin](hashmap-in-kotlin)
-- [HashMap in Scala](hashmap-in-scala)
-- [Map in Rust](map-in-rust)
-```
-
-## loop
-```{dropdown} Click to expand/collapse 4 links
-- [Loop in Golang](loop-in-golang)
-- [Loop in Rust](loop-in-rust)
-- [String in C++11](string-in-c++11)
-- [Loops in Java](loops-in-java)
-```
-
-## bit
-```{dropdown} Click to expand/collapse 4 links
-- [Check Whether a File Is a Socket in Golang](check-whether-a-file-is-a-socket-in-golang)
-- [Manipulate Bits in Rust](manipulate-bits-in-rust)
-- [Useful Rust Crates for Bit Manipulations](useful-rust-crates-for-bit-manipulations)
-- [Bitwise Operators in Kotlin](bitwise-operators-in-kotlin)
-```
-
 ## union
 ```{dropdown} Click to expand/collapse 4 links
 - [Memory Layout of Enum in Rust](memory-layout-of-enum-in-rust)
 - [Union DataFrames in Spark](union-dataframes-in-spark)
 - [The set Collection in Python](the-set-collection-in-python)
 - [Union RDDs in Spark](union-rdds-in-spark)
-```
-
-## multiple
-```{dropdown} Click to expand/collapse 4 links
-- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
-- [Work With Multiple Spark Installations](work-with-multiple-spark-installations)
-- [Read Multiple Files into a DataFrame in Spark](read-multiple-files-into-a-dataframe-in-spark)
-- [Compress and Decompressing Archives in Linux](compress-and-decompressing-archives-in-linux)
-```
-
-## quant
-```{dropdown} Click to expand/collapse 4 links
-- [Hands on pandas_market_calendars](hands-on-pandas_market_calendars)
-- [Quant Trading](quant-trading)
-- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
-- [Tips on Wash Sale](tips-on-wash-sale)
 ```
 
 ## plugins
@@ -8829,36 +8885,12 @@ site:
 - [Unit Testing for Spark](unit-testing-for-spark)
 ```
 
-## blog
-```{dropdown} Click to expand/collapse 4 links
-- [Tips on Blogging](tips-on-blogging)
-- [Static Site Generators](static-site-generators)
-- [Tips on Jupyter-Book](tips-on-jupyter-book)
-- [Generate Static Site Using Pelican](generate-static-site-using-pelican)
-```
-
 ## search
 ```{dropdown} Click to expand/collapse 4 links
 - [Approximate Nearest Neighbor Search](approximate-nearest-neighbor-search)
 - [The Elegant Theme for Pelican](the-elegant-theme-for-pelican)
 - [Search Engine for Static Web Sites](search-engine-for-static-web-sites)
 - [Tips on the find command in Linux](tips-on-the-find-command-in-linux)
-```
-
-## MyST | myst
-```{dropdown} Click to expand/collapse 4 links
-- [Markedly Structured Text](markedly-structured-text)
-- [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
-- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
-- [Mdformat Is An Extensible Markdown Formatter](mdformat-is-an-extensible-markdown-formatter)
-```
-
-## markup
-```{dropdown} Click to expand/collapse 4 links
-- [Markedly Structured Text](markedly-structured-text)
-- [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
-- [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
-- [LaTeX for Chinese](latex-for-chinese)
 ```
 
 ## mkdocs
@@ -8883,14 +8915,6 @@ site:
 - [Protobuf Implementations in Rust](protobuf-implementations-in-rust)
 - [SQL Database Client-server Protocols](sql-database-client-server-protocols)
 - [Use Git Behind a Proxy](use-git-behind-a-proxy)
-```
-
-## dev
-```{dropdown} Click to expand/collapse 4 links
-- [Tips on Frontend Development](tips-on-frontend-development)
-- [Dev Tools for Rust](dev-tools-for-rust)
-- [Debugging, Unit Testing and CICD in Python](debugging-unit-testing-and-cicd-in-python)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
 ```
 
 ## framework
@@ -8989,14 +9013,6 @@ site:
 - [Device Managment in PyTorch](device-managment-in-pytorch)
 ```
 
-## subprocess
-```{dropdown} Click to expand/collapse 4 links
-- [Rust and Spark](rust-and-spark)
-- [Popen - Advanced Usage of subprocess](popen-advanced-usage-of-subprocess)
-- [Hands on the Python module subprocess](hands-on-the-python-module-subprocess)
-- [Calling Shell from Python](calling-shell-from-python)
-```
-
 ## encryption
 ```{dropdown} Click to expand/collapse 4 links
 - [Encryption in Rust](encryption-in-rust)
@@ -9011,14 +9027,6 @@ site:
 - [Visualize Nvidia GPU Usage](visualize-nvidia-gpu-usage)
 - [Tips on GPU Computing](tips-on-gpu-computing)
 - [Docker for Nvidia GPU](docker-for-nvidia-gpu)
-```
-
-## cli | CLI
-```{dropdown} Click to expand/collapse 4 links
-- [Tips on Gh](tips-on-gh)
-- [Tools for Differencing Text Files](tools-for-differencing-text-files)
-- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 ```
 
 ## parser
@@ -9083,14 +9091,6 @@ site:
 - [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 - [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
-```
-
-## fish | Fish
-```{dropdown} Click to expand/collapse 4 links
-- [Tips on the Fish Shell](tips-on-the-fish-shell)
-- [Generating Completions Script Using crazy-complete](generating-completions-script-using-crazy-complete)
-- [Check for Existence of Commands in the Fish Shell](check-for-existence-of-commands-in-the-fish-shell)
-- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
 ```
 
 ## keyboard
@@ -9245,18 +9245,186 @@ site:
 - [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
 ```
 
+## GroupBy | groupby
+```{dropdown} Click to expand/collapse 3 links
+- [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
+- [Aggregation in pandas DataFrame](aggregation-in-pandas-dataframe)
+- [Group-by Plots in HoloViews](group-by-plots-in-holoviews)
+```
+
+## server
+```{dropdown} Click to expand/collapse 3 links
+- [Visual Studio Code Server](visual-studio-code-server)
+- [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
+- [Make Your Linux Server Securer](make-your-linux-server-securer)
+```
+
+## VS Code
+```{dropdown} Click to expand/collapse 3 links
+- [Visual Studio Code Server](visual-studio-code-server)
+- [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
+- [Sort Python Imports Using isort](sort-python-imports-using-isort)
+```
+
+## workflow
+```{dropdown} Click to expand/collapse 3 links
+- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
+- [Tips on Prefect](tips-on-prefect)
+- [Job Scheduling and Management Using Apache Airflow](job-scheduling-and-management-using-apache-airflow)
+```
+
+## Valgrind
+```{dropdown} Click to expand/collapse 3 links
+- [Tips on Valgrind](tips-on-valgrind)
+- [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
+- [Profile C++ Code](profile-c++-code)
+```
+
+## info
+```{dropdown} Click to expand/collapse 3 links
+- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
+- [Get Information of User in Golang](get-information-of-user-in-golang)
+- [Get User's Information in Python](get-user-s-information-in-python)
+```
+
+## writing
+```{dropdown} Click to expand/collapse 3 links
+- [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
+- [Markdown Tools Written in Rust](markdown-tools-written-in-rust)
+- [English Writing](english-writing)
+```
+
+## color
+```{dropdown} Click to expand/collapse 3 links
+- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
+- [Print Colored Text in Terminal in Rust](print-colored-text-in-terminal-in-rust)
+- [Print Colored Text in Terminal](print-colored-text-in-terminal)
+```
+
+## formula
+```{dropdown} Click to expand/collapse 3 links
+- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
+- [Model Fitting in ANOVA Analysis](model-fitting-in-anova-analysis)
+- [Generate Static Site Using Pelican](generate-static-site-using-pelican)
+```
+
+## graphics | Graphics
+```{dropdown} Click to expand/collapse 3 links
+- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
+- [Graphics in LaTeX](graphics-in-latex)
+- [Convert PDF to EPS](convert-pdf-to-eps)
+```
+
+## SSD
+```{dropdown} Click to expand/collapse 3 links
+- [Some Reading Notes About SSD](some-reading-notes-about-ssd)
+- [Format a Disk on Linux](format-a-disk-on-linux)
+- [Make Linux Run Faster](make-linux-run-faster)
+```
+
+## scp
+```{dropdown} Click to expand/collapse 3 links
+- [Copying Files in Linux](copying-files-in-linux)
+- [Tips on Android](tips-on-android)
+- [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
+```
+
+## alternative
+```{dropdown} Click to expand/collapse 3 links
+- [Great Command Line Tools Developed in Rust](great-command-line-tools-developed-in-rust)
+- [Alternatives to Docker Containers](alternatives-to-docker-containers)
+- [Tips on Podman](tips-on-podman)
+```
+
+## argument
+```{dropdown} Click to expand/collapse 3 links
+- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
+- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
+- [Function in Rust](function-in-rust)
+```
+
+## MySQL
+```{dropdown} Click to expand/collapse 3 links
+- [Tips on MySQL](tips-on-mysql)
+- [Popular Databases](popular-databases)
+- [Docker Images for Database](docker-images-for-database)
+```
+
+## environment variable
+```{dropdown} Click to expand/collapse 3 links
+- [Proxy for sudo](proxy-for-sudo)
+- [Environment Variables in Docker](environment-variables-in-docker)
+- [Shell in Docker](shell-in-docker)
+```
+
+## torchvision | TorchVision
+```{dropdown} Click to expand/collapse 3 links
+- [Tips on Torchvision](tips-on-torchvision)
+- [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
+- [Tensor Transformations in TorchVision](tensor-transformations-in-torchvision)
+```
+
+## bond
+```{dropdown} Click to expand/collapse 3 links
+- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
+- [Low Risk Investments](low-risk-investments)
+- [Investment](investment)
+```
+
+## fmt
+```{dropdown} Click to expand/collapse 3 links
+- [Format Strings in Golang](format-strings-in-golang)
+- [The println Macro in Rust](the-println-macro-in-rust)
+- [Tips on Cargo](tips-on-cargo)
+```
+
+## mode
+```{dropdown} Click to expand/collapse 3 links
+- [Check Whether a File Is a Socket in Golang](check-whether-a-file-is-a-socket-in-golang)
+- [Incognito Mode for Browsers](incognito-mode-for-browsers)
+- [Convert an Image to Differnt Modes Using Pillow in Python](convert-an-image-to-differnt-modes-using-pillow-in-python)
+```
+
+## dir
+```{dropdown} Click to expand/collapse 3 links
+- [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
+- [Calculate Hash of a Directory in Python](calculate-hash-of-a-directory-in-python)
+- [Current Working Directory in Rust](current-working-directory-in-rust)
+```
+
+## parallel computing
+```{dropdown} Click to expand/collapse 3 links
+- [Parallel Computing in Shell](parallel-computing-in-shell)
+- [Hands on the Python module Multiprocessing](hands-on-the-python-module-multiprocessing)
+- [Concurrency and Parallel Computing in Python](concurrency-and-parallel-computing-in-python)
+```
+
+## monitor
+```{dropdown} Click to expand/collapse 3 links
+- [Use the Watch Command to Monitor Running Applications](use-the-watch-command-to-monitor-running-applications)
+- [Monitoring and Alerting Tools](monitoring-and-alerting-tools)
+- [Dual Monitor for Linux Desktop](dual-monitor-for-linux-desktop)
+```
+
+## password
+```{dropdown} Click to expand/collapse 3 links
+- [Special Characters to Avoid in Strings](special-characters-to-avoid-in-strings)
+- [Hash Password Using Python](hash-password-using-python)
+- [Get User's Information in Python](get-user-s-information-in-python)
+```
+
+## char
+```{dropdown} Click to expand/collapse 3 links
+- [Special Characters to Avoid in Strings](special-characters-to-avoid-in-strings)
+- [Char in Rust](char-in-rust)
+- [String in C++11](string-in-c++11)
+```
+
 ## Commons Math
 ```{dropdown} Click to expand/collapse 3 links
 - [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
 - [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
 - [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
-```
-
-## formula
-```{dropdown} Click to expand/collapse 3 links
-- [Model Fitting in ANOVA Analysis](model-fitting-in-anova-analysis)
-- [Generate Static Site Using Pelican](generate-static-site-using-pelican)
-- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
 ```
 
 ## regression
@@ -9299,13 +9467,6 @@ site:
 - [AR1X Process](ar1x-process)
 - [Don't Do Statistics If You Don't Really Undestand It](don-t-do-statistics-if-you-don-t-really-undestand-it)
 - [Least Square Estimates](least-square-estimates)
-```
-
-## environment variable
-```{dropdown} Click to expand/collapse 3 links
-- [Environment Variables in Docker](environment-variables-in-docker)
-- [Shell in Docker](shell-in-docker)
-- [Proxy for sudo](proxy-for-sudo)
 ```
 
 ## NoMachine
@@ -9392,32 +9553,11 @@ site:
 - [Tips on AutoGluon](tips-on-autogluon)
 ```
 
-## scp
-```{dropdown} Click to expand/collapse 3 links
-- [Copying Files in Linux](copying-files-in-linux)
-- [Tips on Android](tips-on-android)
-- [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
-```
-
 ## Project Management | project management
 ```{dropdown} Click to expand/collapse 3 links
 - [Managing Projects Using ProjectLibre](managing-projects-using-projectlibre)
 - [Tips on Project Management](tips-on-project-management)
 - [Python Packaging Tools](python-packaging-tools)
-```
-
-## server
-```{dropdown} Click to expand/collapse 3 links
-- [Visual Studio Code Server](visual-studio-code-server)
-- [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
-- [Make Your Linux Server Securer](make-your-linux-server-securer)
-```
-
-## VS Code
-```{dropdown} Click to expand/collapse 3 links
-- [Visual Studio Code Server](visual-studio-code-server)
-- [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
-- [Sort Python Imports Using isort](sort-python-imports-using-isort)
 ```
 
 ## TPU
@@ -9446,13 +9586,6 @@ site:
 - [Docker Issues and Solutions](docker-issues-and-solutions)
 - [Issues in pip and Solutions](issues-in-pip-and-solutions)
 - [Zeppelin Issues and Solutions](zeppelin-issues-and-solutions)
-```
-
-## bond
-```{dropdown} Click to expand/collapse 3 links
-- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
-- [Low Risk Investments](low-risk-investments)
-- [Investment](investment)
 ```
 
 ## money market fund
@@ -9495,13 +9628,6 @@ site:
 - [Tips on Google Spreadsheet](tips-on-google-spreadsheet)
 - [Pivot Table in SQL](pivot-table-in-sql)
 - [Pivot Table in pandas DataFrame](pivot-table-in-pandas-dataframe)
-```
-
-## torchvision | TorchVision
-```{dropdown} Click to expand/collapse 3 links
-- [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
-- [Tips on Torchvision](tips-on-torchvision)
-- [Tensor Transformations in TorchVision](tensor-transformations-in-torchvision)
 ```
 
 ## where
@@ -9588,13 +9714,6 @@ site:
 - [Read/Write Files/Tables in Spark](read-write-files-tables-in-spark)
 ```
 
-## dir
-```{dropdown} Click to expand/collapse 3 links
-- [Calculate Hash of a Directory in Python](calculate-hash-of-a-directory-in-python)
-- [Current Working Directory in Rust](current-working-directory-in-rust)
-- [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
-```
-
 ## timezone
 ```{dropdown} Click to expand/collapse 3 links
 - [Hands on the Zoneinfo Module in Python](hands-on-the-zoneinfo-module-in-python)
@@ -9649,13 +9768,6 @@ site:
 - [Trait in Rust](trait-in-rust)
 - [Generic and Specialization in Rust](generic-and-specialization-in-rust)
 - [Const Generic in Rust](const-generic-in-rust)
-```
-
-## fmt
-```{dropdown} Click to expand/collapse 3 links
-- [The println Macro in Rust](the-println-macro-in-rust)
-- [Format Strings in Golang](format-strings-in-golang)
-- [Tips on Cargo](tips-on-cargo)
 ```
 
 ## match
@@ -9714,46 +9826,11 @@ site:
 - [Computer Science Algorithms](computer-science-algorithms)
 ```
 
-## info
-```{dropdown} Click to expand/collapse 3 links
-- [Get Information of User in Golang](get-information-of-user-in-golang)
-- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
-- [Get User's Information in Python](get-user-s-information-in-python)
-```
-
-## color
-```{dropdown} Click to expand/collapse 3 links
-- [Print Colored Text in Terminal in Rust](print-colored-text-in-terminal-in-rust)
-- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
-- [Print Colored Text in Terminal](print-colored-text-in-terminal)
-```
-
-## mode
-```{dropdown} Click to expand/collapse 3 links
-- [Check Whether a File Is a Socket in Golang](check-whether-a-file-is-a-socket-in-golang)
-- [Incognito Mode for Browsers](incognito-mode-for-browsers)
-- [Convert an Image to Differnt Modes Using Pillow in Python](convert-an-image-to-differnt-modes-using-pillow-in-python)
-```
-
 ## heap
 ```{dropdown} Click to expand/collapse 3 links
 - [Memory Layout of Enum in Rust](memory-layout-of-enum-in-rust)
 - [Memory Layout in Rust](memory-layout-in-rust)
 - [Memory in JVM](memory-in-jvm)
-```
-
-## password
-```{dropdown} Click to expand/collapse 3 links
-- [Hash Password Using Python](hash-password-using-python)
-- [Get User's Information in Python](get-user-s-information-in-python)
-- [Special Characters to Avoid in Strings](special-characters-to-avoid-in-strings)
-```
-
-## GroupBy | groupby
-```{dropdown} Click to expand/collapse 3 links
-- [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
-- [Aggregation in pandas DataFrame](aggregation-in-pandas-dataframe)
-- [Group-by Plots in HoloViews](group-by-plots-in-holoviews)
 ```
 
 ## top
@@ -9803,13 +9880,6 @@ site:
 - [Tips on LXD](tips-on-lxd)
 - [Alternatives to Docker Containers](alternatives-to-docker-containers)
 - [Tips on Multipass](tips-on-multipass)
-```
-
-## alternative
-```{dropdown} Click to expand/collapse 3 links
-- [Alternatives to Docker Containers](alternatives-to-docker-containers)
-- [Tips on Podman](tips-on-podman)
-- [Great Command Line Tools Developed in Rust](great-command-line-tools-developed-in-rust)
 ```
 
 ## UML
@@ -9880,13 +9950,6 @@ site:
 - [Tips on TinyProxy](tips-on-tinyproxy)
 - [Good Choices of Reverse Proxies](good-choices-of-reverse-proxies)
 - [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
-```
-
-## workflow
-```{dropdown} Click to expand/collapse 3 links
-- [Tips on Prefect](tips-on-prefect)
-- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
-- [Job Scheduling and Management Using Apache Airflow](job-scheduling-and-management-using-apache-airflow)
 ```
 
 ## IP
@@ -9987,13 +10050,6 @@ site:
 - [Software for Editing Videos](software-for-editing-videos)
 ```
 
-## MySQL
-```{dropdown} Click to expand/collapse 3 links
-- [Popular Databases](popular-databases)
-- [Tips on MySQL](tips-on-mysql)
-- [Docker Images for Database](docker-images-for-database)
-```
-
 ## power
 ```{dropdown} Click to expand/collapse 3 links
 - [Tools With Dark Power](tools-with-dark-power)
@@ -10019,13 +10075,6 @@ site:
 ```{dropdown} Click to expand/collapse 3 links
 - [Profile Rust Applications](profile-rust-applications)
 - [Test Internet Speed](test-internet-speed)
-- [Profile C++ Code](profile-c++-code)
-```
-
-## Valgrind
-```{dropdown} Click to expand/collapse 3 links
-- [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
-- [Tips on Valgrind](tips-on-valgrind)
 - [Profile C++ Code](profile-c++-code)
 ```
 
@@ -10057,13 +10106,6 @@ site:
 - [Dataframe in JavaScript](dataframe-in-javascript)
 ```
 
-## argument
-```{dropdown} Click to expand/collapse 3 links
-- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
-- [Function in Rust](function-in-rust)
-- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
-```
-
 ## local
 ```{dropdown} Click to expand/collapse 3 links
 - [Expose Local Service to Public](expose-local-service-to-public)
@@ -10076,13 +10118,6 @@ site:
 - [Tips on Two Factor Authentication](tips-on-two-factor-authentication)
 - [Fix Authentication Error of GitHub Repositories on DockerHub](fix-authentication-error-of-github-repositories-on-dockerhub)
 - [Tips on Kerberos](tips-on-kerberos)
-```
-
-## SSD
-```{dropdown} Click to expand/collapse 3 links
-- [Format a Disk on Linux](format-a-disk-on-linux)
-- [Make Linux Run Faster](make-linux-run-faster)
-- [Some Reading Notes About SSD](some-reading-notes-about-ssd)
 ```
 
 ## emulation
@@ -10139,13 +10174,6 @@ site:
 - [GitHub Apps and Bot Accounts](github-apps-and-bot-accounts)
 - [Make Your Life Easier with Portable Applications](make-your-life-easier-with-portable-applications)
 - [Cool Mobile Apps](cool-mobile-apps)
-```
-
-## writing
-```{dropdown} Click to expand/collapse 3 links
-- [Markdown Tools Written in Rust](markdown-tools-written-in-rust)
-- [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
-- [English Writing](english-writing)
 ```
 
 ## Outlook | outlook
@@ -10323,13 +10351,6 @@ site:
 - [Build Spark from Source](build-spark-from-source)
 ```
 
-## parallel computing
-```{dropdown} Click to expand/collapse 3 links
-- [Hands on the Python module Multiprocessing](hands-on-the-python-module-multiprocessing)
-- [Concurrency and Parallel Computing in Python](concurrency-and-parallel-computing-in-python)
-- [Parallel Computing in Shell](parallel-computing-in-shell)
-```
-
 ## ArrayList
 ```{dropdown} Click to expand/collapse 3 links
 - [MutableList in Kotlin](mutablelist-in-kotlin)
@@ -10342,13 +10363,6 @@ site:
 - [Specify Dependencies in the Almond Scala Kernel in JupyterLab](specify-dependencies-in-the-almond-scala-kernel-in-jupyterlab)
 - [Scala Dependencies for SBT](scala-dependencies-for-sbt)
 - [Maven Dependencies](maven-dependencies)
-```
-
-## char
-```{dropdown} Click to expand/collapse 3 links
-- [Char in Rust](char-in-rust)
-- [Special Characters to Avoid in Strings](special-characters-to-avoid-in-strings)
-- [String in C++11](string-in-c++11)
 ```
 
 ## drop
@@ -10491,13 +10505,6 @@ site:
 - [Driving on Snow and Ice](driving-on-snow-and-ice)
 ```
 
-## graphics | Graphics
-```{dropdown} Click to expand/collapse 3 links
-- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
-- [Graphics in LaTeX](graphics-in-latex)
-- [Convert PDF to EPS](convert-pdf-to-eps)
-```
-
 ## DE
 ```{dropdown} Click to expand/collapse 3 links
 - [Desktop Environments for Linux](desktop-environments-for-linux)
@@ -10519,18 +10526,191 @@ site:
 - [Distributed Training of Models on Spark](distributed-training-of-models-on-spark)
 ```
 
-## monitor
-```{dropdown} Click to expand/collapse 3 links
-- [Monitoring and Alerting Tools](monitoring-and-alerting-tools)
-- [Use the Watch Command to Monitor Running Applications](use-the-watch-command-to-monitor-running-applications)
-- [Dual Monitor for Linux Desktop](dual-monitor-for-linux-desktop)
-```
-
 ## XGBoost
 ```{dropdown} Click to expand/collapse 3 links
 - [Use XGBoost With Spark](use-xgboost-with-spark)
 - [Tips on XGBoost](tips-on-xgboost)
 - [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
+```
+
+## sorting
+```{dropdown} Click to expand/collapse 2 links
+- [Sort a List in Kotlin](sort-a-list-in-kotlin)
+- [Sorting At Compile Time in Rust](sorting-at-compile-time-in-rust)
+```
+
+## apply
+```{dropdown} Click to expand/collapse 2 links
+- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
+- [Function Programming in Python](function-programming-in-python)
+```
+
+## coolant
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
+- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
+```
+
+## Tex
+```{dropdown} Click to expand/collapse 2 links
+- [IDEs for LaTeX](ides-for-latex)
+- [TeXstudio, Bravo!](texstudio-bravo)
+```
+
+## TexStudio | TeXstudio
+```{dropdown} Click to expand/collapse 2 links
+- [IDEs for LaTeX](ides-for-latex)
+- [TeXstudio, Bravo!](texstudio-bravo)
+```
+
+## bibliography
+```{dropdown} Click to expand/collapse 2 links
+- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
+- [Common Errors in Bibliographies](common-errors-in-bibliographies)
+```
+
+## dulwich | Dulwich
+```{dropdown} Click to expand/collapse 2 links
+- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
+- [Git Implementations and Bindings in Python](git-implementations-and-bindings-in-python)
+```
+
+## branch
+```{dropdown} Click to expand/collapse 2 links
+- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
+- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
+```
+
+## flash drive
+```{dropdown} Click to expand/collapse 2 links
+- [Ways to Make a Bootable Flash Drive in Linux](ways-to-make-a-bootable-flash-drive-in-linux)
+- [Format a Flash Drive in a Linux Virtual Machine](format-a-flash-drive-in-a-linux-virtual-machine)
+```
+
+## flag
+```{dropdown} Click to expand/collapse 2 links
+- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
+- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
+```
+
+## pylint
+```{dropdown} Click to expand/collapse 2 links
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [Tips on pylint](tips-on-pylint)
+```
+
+## pdb
+```{dropdown} Click to expand/collapse 2 links
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
+```
+
+## kitty
+```{dropdown} Click to expand/collapse 2 links
+- [Show Image in Terminal](show-image-in-terminal)
+- [Good Terminal Apps](good-terminal-apps)
+```
+
+## Alpaca
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
+- [Quant Trading](quant-trading)
+```
+
+## treasury
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
+- [Low Risk Investments](low-risk-investments)
+```
+
+## savings
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
+- [Investment](investment)
+```
+
+## Charles Schwab
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Charles Schwab](tips-on-charles-schwab)
+- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
+```
+
+## price
+```{dropdown} Click to expand/collapse 2 links
+- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
+- [Amazon AWS EC2 Instances](amazon-aws-ec2-instances)
+```
+
+## embed
+```{dropdown} Click to expand/collapse 2 links
+- [Embed File in Golang Binary](embed-file-in-golang-binary)
+- [Bundle Resource Files into a Rust Application](bundle-resource-files-into-a-rust-application)
+```
+
+## current
+```{dropdown} Click to expand/collapse 2 links
+- [Get Directory Information in Golang](get-directory-information-in-golang)
+- [Current Working Directory in Rust](current-working-directory-in-rust)
+```
+
+## semantic
+```{dropdown} Click to expand/collapse 2 links
+- [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
+- [Hands on the Python Module Packaging](hands-on-the-python-module-packaging)
+```
+
+## constraint
+```{dropdown} Click to expand/collapse 2 links
+- [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
+- [Constraints on Types in Rust](constraints-on-types-in-rust)
+```
+
+## rename
+```{dropdown} Click to expand/collapse 2 links
+- [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
+- [Rename and Drop Columns in Spark DataFrames](rename-and-drop-columns-in-spark-dataframes)
+```
+
+## for
+```{dropdown} Click to expand/collapse 2 links
+- [Loop in Golang](loop-in-golang)
+- [Loop in Rust](loop-in-rust)
+```
+
+## while
+```{dropdown} Click to expand/collapse 2 links
+- [Loop in Golang](loop-in-golang)
+- [Loop in Rust](loop-in-rust)
+```
+
+## exist
+```{dropdown} Click to expand/collapse 2 links
+- [Check Whether a Path Exists in Golang](check-whether-a-path-exists-in-golang)
+- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
+```
+
+## tmp | TMP
+```{dropdown} Click to expand/collapse 2 links
+- [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
+- [Template Meta Programming](template-meta-programming)
+```
+
+## Fabric
+```{dropdown} Click to expand/collapse 2 links
+- [Run Commands on Remote Machines](run-commands-on-remote-machines)
+- [Cluster Management Made Easy with the Python Package Fabric](cluster-management-made-easy-with-the-python-package-fabric)
+```
+
+## parallel-ssh
+```{dropdown} Click to expand/collapse 2 links
+- [Run Commands on Remote Machines](run-commands-on-remote-machines)
+- [Python Tools for Linux Admins](python-tools-for-linux-admins)
+```
+
+## pandas_udf
+```{dropdown} Click to expand/collapse 2 links
+- [Rust and Spark](rust-and-spark)
+- [User-defined Function (UDF) in PySpark](user-defined-function-udf-in-pyspark)
 ```
 
 ## ImageStat
@@ -10675,12 +10855,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
 - [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
-```
-
-## coolant
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
-- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
 ```
 
 ## care
@@ -10857,18 +11031,6 @@ site:
 - [Password Management](password-management)
 ```
 
-## treasury
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
-- [Low Risk Investments](low-risk-investments)
-```
-
-## savings
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
-- [Investment](investment)
-```
-
 ## Notes | notes
 ```{dropdown} Click to expand/collapse 2 links
 - [Low Risk Investments](low-risk-investments)
@@ -11025,12 +11187,6 @@ site:
 - [Tips on Vaex](tips-on-vaex)
 ```
 
-## semantic
-```{dropdown} Click to expand/collapse 2 links
-- [Hands on the Python Module Packaging](hands-on-the-python-module-packaging)
-- [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
-```
-
 ## restriction
 ```{dropdown} Click to expand/collapse 2 links
 - [Hands on the Python Module Packaging](hands-on-the-python-module-packaging)
@@ -11127,12 +11283,6 @@ site:
 - [Generate Combinations Using Itertools in Rust](generate-combinations-using-itertools-in-rust)
 ```
 
-## embed
-```{dropdown} Click to expand/collapse 2 links
-- [Bundle Resource Files into a Rust Application](bundle-resource-files-into-a-rust-application)
-- [Embed File in Golang Binary](embed-file-in-golang-binary)
-```
-
 ## singleton
 ```{dropdown} Click to expand/collapse 2 links
 - [Implement a Singleton in Rust](implement-a-singleton-in-rust)
@@ -11155,12 +11305,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Error Handling in Rust](error-handling-in-rust)
 - [Spark Issue: Rust Panic](spark-issue-rust-panic)
-```
-
-## current
-```{dropdown} Click to expand/collapse 2 links
-- [Current Working Directory in Rust](current-working-directory-in-rust)
-- [Get Directory Information in Golang](get-directory-information-in-golang)
 ```
 
 ## itertools
@@ -11277,12 +11421,6 @@ site:
 - [GitHub API](github-api)
 ```
 
-## flag
-```{dropdown} Click to expand/collapse 2 links
-- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
-- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
-```
-
 ## Sync | sync
 ```{dropdown} Click to expand/collapse 2 links
 - [Send and Sync in Rust](send-and-sync-in-rust)
@@ -11295,40 +11433,10 @@ site:
 - [Async, Concurrency, Multithreading and Parallel Computing in Rust](async-concurrency-multithreading-and-parallel-computing-in-rust)
 ```
 
-## constraint
-```{dropdown} Click to expand/collapse 2 links
-- [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
-- [Constraints on Types in Rust](constraints-on-types-in-rust)
-```
-
-## rename
-```{dropdown} Click to expand/collapse 2 links
-- [Manipulate Filesystem in Golang](manipulate-filesystem-in-golang)
-- [Rename and Drop Columns in Spark DataFrames](rename-and-drop-columns-in-spark-dataframes)
-```
-
-## for
-```{dropdown} Click to expand/collapse 2 links
-- [Loop in Golang](loop-in-golang)
-- [Loop in Rust](loop-in-rust)
-```
-
-## while
-```{dropdown} Click to expand/collapse 2 links
-- [Loop in Golang](loop-in-golang)
-- [Loop in Rust](loop-in-rust)
-```
-
 ## glob
 ```{dropdown} Click to expand/collapse 2 links
 - [Hands on the Glob Crate in Rust](hands-on-the-glob-crate-in-rust)
 - [Hands on the Python module glob](hands-on-the-python-module-glob)
-```
-
-## exist
-```{dropdown} Click to expand/collapse 2 links
-- [Check Whether a Path Exists in Golang](check-whether-a-path-exists-in-golang)
-- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
 ```
 
 ## layout
@@ -11343,24 +11451,6 @@ site:
 - [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
 ```
 
-## tmp | TMP
-```{dropdown} Click to expand/collapse 2 links
-- [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
-- [Template Meta Programming](template-meta-programming)
-```
-
-## branch
-```{dropdown} Click to expand/collapse 2 links
-- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
-- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
-```
-
-## apply
-```{dropdown} Click to expand/collapse 2 links
-- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
-- [Function Programming in Python](function-programming-in-python)
-```
-
 ## AWS
 ```{dropdown} Click to expand/collapse 2 links
 - [Amazon AWS EC2 Instances](amazon-aws-ec2-instances)
@@ -11371,12 +11461,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Amazon AWS EC2 Instances](amazon-aws-ec2-instances)
 - [GCP Compute Engine VM Instances](gcp-compute-engine-vm-instances)
-```
-
-## price
-```{dropdown} Click to expand/collapse 2 links
-- [Amazon AWS EC2 Instances](amazon-aws-ec2-instances)
-- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
 ```
 
 ## market
@@ -11871,18 +11955,6 @@ site:
 - [Tips on WezTerm](tips-on-wezterm)
 ```
 
-## kitty
-```{dropdown} Click to expand/collapse 2 links
-- [Good Terminal Apps](good-terminal-apps)
-- [Show Image in Terminal](show-image-in-terminal)
-```
-
-## Dulwich | dulwich
-```{dropdown} Click to expand/collapse 2 links
-- [Git Implementations and Bindings in Python](git-implementations-and-bindings-in-python)
-- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
-```
-
 ## cell | Cell
 ```{dropdown} Click to expand/collapse 2 links
 - [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
@@ -11899,12 +11971,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Popular Databases](popular-databases)
 - [Popular Databases](popular-databases)
-```
-
-## flash drive
-```{dropdown} Click to expand/collapse 2 links
-- [Format a Flash Drive in a Linux Virtual Machine](format-a-flash-drive-in-a-linux-virtual-machine)
-- [Ways to Make a Bootable Flash Drive in Linux](ways-to-make-a-bootable-flash-drive-in-linux)
 ```
 
 ## mkfs
@@ -11935,12 +12001,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
 - [Tips on Git](tips-on-git)
-```
-
-## pandas_udf
-```{dropdown} Click to expand/collapse 2 links
-- [Rust and Spark](rust-and-spark)
-- [User-defined Function (UDF) in PySpark](user-defined-function-udf-in-pyspark)
 ```
 
 ## fake
@@ -12309,12 +12369,6 @@ site:
 - [Define Variables in Rust](define-variables-in-rust)
 ```
 
-## sorting
-```{dropdown} Click to expand/collapse 2 links
-- [Sorting At Compile Time in Rust](sorting-at-compile-time-in-rust)
-- [Sort a List in Kotlin](sort-a-list-in-kotlin)
-```
-
 ## multi-thread
 ```{dropdown} Click to expand/collapse 2 links
 - [Thread-Local Storage for Rayon](thread-local-storage-for-rayon)
@@ -12553,18 +12607,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [How Many Empty Boxes?](how-many-empty-boxes)
 - [Fewest Scalings to Identify the Fake Ball](fewest-scalings-to-identify-the-fake-ball)
-```
-
-## Tex
-```{dropdown} Click to expand/collapse 2 links
-- [TeXstudio, Bravo!](texstudio-bravo)
-- [IDEs for LaTeX](ides-for-latex)
-```
-
-## TeXstudio | TexStudio
-```{dropdown} Click to expand/collapse 2 links
-- [TeXstudio, Bravo!](texstudio-bravo)
-- [IDEs for LaTeX](ides-for-latex)
 ```
 
 ## emulator
@@ -13005,12 +13047,6 @@ site:
 - [Configure Debian Apt Source List](configure-debian-apt-source-list)
 ```
 
-## Fabric
-```{dropdown} Click to expand/collapse 2 links
-- [Cluster Management Made Easy with the Python Package Fabric](cluster-management-made-easy-with-the-python-package-fabric)
-- [Run Commands on Remote Machines](run-commands-on-remote-machines)
-```
-
 ## QT | Qt
 ```{dropdown} Click to expand/collapse 2 links
 - [Use Qt in Python](use-qt-in-python)
@@ -13095,12 +13131,6 @@ site:
 - [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
 ```
 
-## pylint
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on pylint](tips-on-pylint)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
-```
-
 ## timeout
 ```{dropdown} Click to expand/collapse 2 links
 - [Spark Issue: Timeout When Communicate With Driver During Shuffle Caused by Driver OOM](spark-issue-timeout-when-communicate-with-driver-during-shuffle-caused-by-driver-oom)
@@ -13183,12 +13213,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Read CPU Temperature in Linux](read-cpu-temperature-in-linux)
 - [Tips on Biowind Register Fan](tips-on-biowind-register-fan)
-```
-
-## bibliography
-```{dropdown} Click to expand/collapse 2 links
-- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
-- [Common Errors in Bibliographies](common-errors-in-bibliographies)
 ```
 
 ## eclipse | Eclipse
@@ -13293,24 +13317,6 @@ site:
 - [Flat Tire on Rivian](flat-tire-on-rivian)
 ```
 
-## pdb
-```{dropdown} Click to expand/collapse 2 links
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
-- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
-```
-
-## Alpaca
-```{dropdown} Click to expand/collapse 2 links
-- [Quant Trading](quant-trading)
-- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
-```
-
-## Charles Schwab
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Charles Schwab](tips-on-charles-schwab)
-- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
-```
-
 ## MMF
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Money Market Fund](tips-on-money-market-fund)
@@ -13375,12 +13381,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Count Number of Fields in Each Line](count-number-of-fields-in-each-line)
 - [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
-```
-
-## parallel-ssh
-```{dropdown} Click to expand/collapse 2 links
-- [Python Tools for Linux Admins](python-tools-for-linux-admins)
-- [Run Commands on Remote Machines](run-commands-on-remote-machines)
 ```
 
 ## contact
