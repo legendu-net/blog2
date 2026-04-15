@@ -304,6 +304,7 @@ class Post:
                 tags.extend(tag)
             else:
                 tags.append(tag)
+        tags = list(dict.fromkeys(tags))
         self.update_meta_field({"tags": tags})
 
     def _write(self):
