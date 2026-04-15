@@ -6,6 +6,12 @@ site:
 
 ## programming
 ```{dropdown} Click to expand/collapse 1028 links
+- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
+- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
+- [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
+- [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
+- [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
+- [GPU for Web](gpu-for-web)
 - [Rust Error: error[E0554]: `#![feature]` May Not Be Used on the Stable Release Channel](rust-error-error-e0554-feature-may-not-be-used-on-the-stable-release-channel)
 - [Manipulate Strings Using the `strings` Module in Golang](manipulate-strings-using-the-strings-module-in-golang)
 - [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args-0-from-__newobj__-args-has-the-wrong-class)
@@ -217,7 +223,6 @@ site:
 - [Tips on Search Engines](tips-on-search-engines)
 - [Tips on QEMU](tips-on-qemu)
 - [Messsage Queue Implementations](messsage-queue-implementations)
-- [GPU for Web](gpu-for-web)
 - [Git Implementations and Bindings in Python](git-implementations-and-bindings-in-python)
 - [Spark Issue: Max Number of Executor Failures Reached](spark-issue-max-number-of-executor-failures-reached)
 - [Debug a Rust Application](debug-a-rust-application)
@@ -542,16 +547,11 @@ site:
 - [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
 - [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
 - [Compare Images Using Python](compare-images-using-python)
-- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
 - [Rotate an Image Using Pillow in Python](rotate-an-image-using-pillow-in-python)
-- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
 - [Image Filters in Pillow](image-filters-in-pillow)
 - [Hands-on the ImageChops class in Pillow in Python](hands-on-the-imagechops-class-in-pillow-in-python)
 - [Hands on the sqlite3-jdbc library in Scala](hands-on-the-sqlite3-jdbc-library-in-scala)
 - [Good Third-party Math Libraries for Scala](good-third-party-math-libraries-for-scala)
-- [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
-- [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
-- [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
 - [Make A Dot Match Newline in the re Module in Python](make-a-dot-match-newline-in-the-re-module-in-python)
 - [Hands on the Stream Object in Java 8](hands-on-the-stream-object-in-java-8)
 - [Unit Testing for Spark](unit-testing-for-spark)
@@ -1038,6 +1038,13 @@ site:
 
 ## computer science
 ```{dropdown} Click to expand/collapse 753 links
+- [GPU for Web](gpu-for-web)
+- [Pretrained Deep Learning Models](pretrained-deep-learning-models)
+- [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [Tips on MuMu App Player](tips-on-mumu-app-player)
+- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
+- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
 - [Rust Error: error[E0554]: `#![feature]` May Not Be Used on the Stable Release Channel](rust-error-error-e0554-feature-may-not-be-used-on-the-stable-release-channel)
 - [Manipulate Strings Using the `strings` Module in Golang](manipulate-strings-using-the-strings-module-in-golang)
 - [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args-0-from-__newobj__-args-has-the-wrong-class)
@@ -1315,7 +1322,6 @@ site:
 - [Data Profiling Tools](data-profiling-tools)
 - [Comparison of Embedded Databases](comparison-of-embedded-databases)
 - [Access Control in Spark SQL](access-control-in-spark-sql)
-- [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
 - [Documentation Generating Tool for Python](documentation-generating-tool-for-python)
 - [ModuleNotFoundError: No Module Named _Ctypes in Python](modulenotfounderror-no-module-named-_ctypes-in-python)
 - [A Comprehensive List of Common Issues in Spark Applications](a-comprehensive-list-of-common-issues-in-spark-applications)
@@ -1368,7 +1374,6 @@ site:
 - [Useful Java Libraries](useful-java-libraries)
 - [Tips on Podman](tips-on-podman)
 - [Tips on Darglint](tips-on-darglint)
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
 - [SQL Translation Tools](sql-translation-tools)
 - [Security Tools in Python](security-tools-in-python)
 - [Search Engine for Static Web Sites](search-engine-for-static-web-sites)
@@ -1416,7 +1421,6 @@ site:
 - [Tips on Search Engines](tips-on-search-engines)
 - [Tips on QEMU](tips-on-qemu)
 - [Messsage Queue Implementations](messsage-queue-implementations)
-- [GPU for Web](gpu-for-web)
 - [Good Terminal Apps](good-terminal-apps)
 - [Git Implementations and Bindings in Python](git-implementations-and-bindings-in-python)
 - [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
@@ -1436,13 +1440,11 @@ site:
 - [Tools With Dark Power](tools-with-dark-power)
 - [Tips on Windows Terminal](tips-on-windows-terminal)
 - [Tips on Public Speech](tips-on-public-speech)
-- [Tips on MuMu App Player](tips-on-mumu-app-player)
 - [Query Hardware Information in Linux](query-hardware-information-in-linux)
 - [Incognito Mode for Browsers](incognito-mode-for-browsers)
 - [Format a Flash Drive in a Linux Virtual Machine](format-a-flash-drive-in-a-linux-virtual-machine)
 - [Debugging and Testing Tools for Windows](debugging-and-testing-tools-for-windows)
 - [Database Clients for Rust](database-clients-for-rust)
-- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
 - [Dot Is Not Recognized as An Internal or External Command](dot-is-not-recognized-as-an-internal-or-external-command)
 - [ImportError: Attempted Relative Import With No Known Parent Package](importerror-attempted-relative-import-with-no-known-parent-package)
 - [Understand Memory Usage in PyTorch](understand-memory-usage-in-pytorch)
@@ -1450,7 +1452,6 @@ site:
 - [Study Notes on Knowledge Graph](study-notes-on-knowledge-graph)
 - [Rust for Game Development](rust-for-game-development)
 - [Python for WeChat](python-for-wechat)
-- [Pretrained Deep Learning Models](pretrained-deep-learning-models)
 - [PackageKitD Uses Too Much CPU or Disk IO](packagekitd-uses-too-much-cpu-or-disk-io)
 - [Overwrite Entrypoint in Docker](overwrite-entrypoint-in-docker)
 - [Object Detection Using Deep Learning](object-detection-using-deep-learning)
@@ -1772,7 +1773,6 @@ site:
 - [Run Docker Containers Inside a Docker Container](run-docker-containers-inside-a-docker-container)
 - [GitHub Action Task Stuck At Expected](github-action-task-stuck-at-expected)
 - [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
-- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
 - [PySpark Issue: Java Gateway Process Exited Before Sending the Driver Its Port Number](pyspark-issue-java-gateway-process-exited-before-sending-the-driver-its-port-number)
 - [Check Whether a Linux Is Using upstart, systemd or SysV](check-whether-a-linux-is-using-upstart-systemd-or-sysv)
 - [Build Docker Images Using Kaniko](build-docker-images-using-kaniko)
@@ -1795,6 +1795,15 @@ site:
 
 ## Python
 ```{dropdown} Click to expand/collapse 355 links
+- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
+- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
+- [Summary on Random Number Generators](summary-on-random-number-generators)
+- [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
+- [Cluster Management Made Easy with Ansible](cluster-management-made-easy-with-ansible)
+- [Tips on IDE](tips-on-ide)
+- [Tips on Blender](tips-on-blender)
+- [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
+- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
 - [Convert Web Pages to PDF Using Python](convert-web-pages-to-pdf-using-python)
 - [Speed up Python Using Native Code](speed-up-python-using-native-code)
 - [Image Filters in OpenCV](image-filters-in-opencv)
@@ -1886,7 +1895,6 @@ site:
 - [Tips on RustPython](tips-on-rustpython)
 - [Tips on Nox](tips-on-nox)
 - [Tips on Fbs](tips-on-fbs)
-- [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
 - [Documentation Generating Tool for Python](documentation-generating-tool-for-python)
 - [ModuleNotFoundError: No Module Named _Ctypes in Python](modulenotfounderror-no-module-named-_ctypes-in-python)
 - [Use Flake8 to Lint Python Scripts](use-flake8-to-lint-python-scripts)
@@ -1944,7 +1952,6 @@ site:
 - [Parse TOML Files in Python](parse-toml-files-in-python)
 - [Replace Single Quotes With Double Quotes in Python Code](replace-single-quotes-with-double-quotes-in-python-code)
 - [PySpark Issue: Java Gateway Process Exited Before Sending the Driver Its Port Number](pyspark-issue-java-gateway-process-exited-before-sending-the-driver-its-port-number)
-- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
 - [Format Markdown Using mdformat Python APIs](format-markdown-using-mdformat-python-apis)
 - [Popen - Advanced Usage of subprocess](popen-advanced-usage-of-subprocess)
 - [Get User's Information in Python](get-user-s-information-in-python)
@@ -1957,9 +1964,7 @@ site:
 - [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
 - [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
 - [Compare Images Using Python](compare-images-using-python)
-- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
 - [Rotate an Image Using Pillow in Python](rotate-an-image-using-pillow-in-python)
-- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
 - [Image Filters in Pillow](image-filters-in-pillow)
 - [Hands-on the ImageChops class in Pillow in Python](hands-on-the-imagechops-class-in-pillow-in-python)
 - [Make A Dot Match Newline in the re Module in Python](make-a-dot-match-newline-in-the-re-module-in-python)
@@ -1990,7 +1995,6 @@ site:
 - [Group-by Plots in HoloViews](group-by-plots-in-holoviews)
 - [Hands on the Python module random](hands-on-the-python-module-random)
 - [Hands on pandas.Series in Python](hands-on-pandas.series-in-python)
-- [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
 - [Split a Dataset into Train and Test Datasets in Python](split-a-dataset-into-train-and-test-datasets-in-python)
 - [Sort Collections in Python](sort-collections-in-python)
 - [Take Screenshots in Python](take-screenshots-in-python)
@@ -2053,9 +2057,7 @@ site:
 - [Tips on MySQL](tips-on-mysql)
 - [Cluster Management Made Easy with the Python Package Fabric](cluster-management-made-easy-with-the-python-package-fabric)
 - [Use Qt in Python](use-qt-in-python)
-- [Cluster Management Made Easy with Ansible](cluster-management-made-easy-with-ansible)
 - [Tips on ANTLR4](tips-on-antlr4)
-- [Tips on IDE](tips-on-ide)
 - [Serialization and Caching in Python](serialization-and-caching-in-python)
 - [Connecting to Databases Using py4jdbc in Python](connecting-to-databases-using-py4jdbc-in-python)
 - [Tips on Python Module](tips-on-python-module)
@@ -2089,7 +2091,6 @@ site:
 - [Python Alternatives to Shell](python-alternatives-to-shell)
 - [Install Python in macOS](install-python-in-macos)
 - [Visual Studio Code for Python](visual-studio-code-for-python)
-- [Summary on Random Number Generators](summary-on-random-number-generators)
 - [String in Different Programming Languages](string-in-different-programming-languages)
 - [Automated Phone Bill Using Ruby Program](automated-phone-bill-using-ruby-program)
 - [Regular Expression Equivalent](regular-expression-equivalent)
@@ -2127,7 +2128,6 @@ site:
 - [Class in Python](class-in-python)
 - [The Python Quit Unexpectedly Error](the-python-quit-unexpectedly-error)
 - [Python Build Tools](python-build-tools)
-- [Tips on Blender](tips-on-blender)
 - [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
 - [Python Virtual Environment](python-virtual-environment)
 - [Hands on the Python module dask](hands-on-the-python-module-dask)
@@ -2154,11 +2154,53 @@ site:
 
 ## software
 ```{dropdown} Click to expand/collapse 200 links
+- [Tips on Excel](tips-on-excel)
+- [Firebug Is Awsome](firebug-is-awsome)
+- [Environment Variables in Docker](environment-variables-in-docker)
+- [Docker Images for Shadowsocks](docker-images-for-shadowsocks)
+- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
+- [Docker Images for Notebooks](docker-images-for-notebooks)
+- [Using Bash in Docker](using-bash-in-docker)
+- [Ways to Download Files Using Selenium Webdrive](ways-to-download-files-using-selenium-webdrive)
 - [Cloud IDE](cloud-ide)
+- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
+- [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
+- [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
+- [Cluster Management Made Easy with Ansible](cluster-management-made-easy-with-ansible)
+- [Docker on Mac](docker-on-mac)
+- [Linux Network Tools](linux-network-tools)
+- [Managing Projects Using ProjectLibre](managing-projects-using-projectlibre)
+- [Tips on IDE](tips-on-ide)
+- [Git Large File Storage](git-large-file-storage)
+- [Tips on Kubernetes](tips-on-kubernetes)
+- [The Absolutely Best App for Taking Notes](the-absolutely-best-app-for-taking-notes)
+- [Online Image Storage](online-image-storage)
+- [Network in Docker Containers](network-in-docker-containers)
+- [Visual Studio Code Server](visual-studio-code-server)
+- [Tips on Jupyter Binder](tips-on-jupyter-binder)
+- [Tips on Google Colab](tips-on-google-colab)
+- [Tips on Git Submodule](tips-on-git-submodule)
+- [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
+- [User in Docker](user-in-docker)
+- [Use Snap Apps in Docker](use-snap-apps-in-docker)
+- [Tips on Preview in macOS](tips-on-preview-in-macos)
+- [Tips on OpenFaaS](tips-on-openfaas)
+- [Tips on Blender](tips-on-blender)
+- [Get Coordinates of Points on a Screen or Image](get-coordinates-of-points-on-a-screen-or-image)
+- [Tips on Minikube](tips-on-minikube)
+- [Tips on Microk8S](tips-on-microk8s)
+- [Docker Issues and Solutions](docker-issues-and-solutions)
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [Tips on MuMu App Player](tips-on-mumu-app-player)
+- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
+- [Tips on KeepassXC](tips-on-keepassxc)
+- [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
+- [Trust a JupyterLab Notebook](trust-a-jupyterlab-notebook)
+- [Fix Microphone Problem of Skype in Debian](fix-microphone-problem-of-skype-in-debian)
+- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
 - [Rip Is rm Improved](rip-is-rm-improved)
 - [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
 - [Surf Web Anonymously](surf-web-anonymously)
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
 - [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
 - [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
 - [Good Terminal Apps](good-terminal-apps)
@@ -2166,17 +2208,14 @@ site:
 - [Poker Hud Implementations](poker-hud-implementations)
 - [Tools With Dark Power](tools-with-dark-power)
 - [Tips on Windows Terminal](tips-on-windows-terminal)
-- [Tips on MuMu App Player](tips-on-mumu-app-player)
 - [Incognito Mode for Browsers](incognito-mode-for-browsers)
 - [Format a Flash Drive in a Linux Virtual Machine](format-a-flash-drive-in-a-linux-virtual-machine)
-- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
 - [Data Engineering Tools](data-engineering-tools)
 - [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 - [WSL2 Filesystem](wsl2-filesystem)
 - [Terminal Multiplexers](terminal-multiplexers)
 - [Take Screenshot on Linux](take-screenshot-on-linux)
 - [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
-- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
 - [Backup Files Using "rsnapshot"](backup-files-using-rsnapshot)
 - [TeXstudio, Bravo!](texstudio-bravo)
 - [Creative Use of Keepassx -- Odd Skills?](creative-use-of-keepassx-odd-skills)
@@ -2188,11 +2227,9 @@ site:
 - [Downloading Tools](downloading-tools)
 - [Editing PDF Files](editing-pdf-files)
 - [File Converting and Generating Tools](file-converting-and-generating-tools)
-- [Tips on Excel](tips-on-excel)
 - [Working Remotely in Linux](working-remotely-in-linux)
 - [Software I Use in Windows System](software-i-use-in-windows-system)
 - [Useful Tools in Linux](useful-tools-in-linux)
-- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
 - [Tips on Vim](tips-on-vim)
 - [Transform Text Using sed](transform-text-using-sed)
 - [Tips on MongoDB](tips-on-mongodb)
@@ -2223,15 +2260,10 @@ site:
 - [Typing Chinese in Vim](typing-chinese-in-vim)
 - [Tips on Eclipse Che](tips-on-eclipse-che)
 - [Tips on AnBox](tips-on-anbox)
-- [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
-- [Environment Variables in Docker](environment-variables-in-docker)
-- [Cluster Management Made Easy with Ansible](cluster-management-made-easy-with-ansible)
 - [Tips on Zeppelin](tips-on-zeppelin)
 - [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
 - [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
-- [Managing Projects Using ProjectLibre](managing-projects-using-projectlibre)
 - [Show Inferred Type in IntelliJ IDEA](show-inferred-type-in-intellij-idea)
-- [Tips on IDE](tips-on-ide)
 - [Tips on httpd](tips-on-httpd)
 - [Tips on dbeaver](tips-on-dbeaver)
 - [Application Tracking Using OpenCats](application-tracking-using-opencats)
@@ -2240,19 +2272,15 @@ site:
 - [Tips on Elasticsearch](tips-on-elasticsearch)
 - [Docker Images for OS](docker-images-for-os)
 - [Vim Keybindings in Firefox Using Tridactyl](vim-keybindings-in-firefox-using-tridactyl)
-- [Git Large File Storage](git-large-file-storage)
 - [Query and Monitor OS Information using osquery](query-and-monitor-os-information-using-osquery)
 - [Tips on JupyterHub](tips-on-jupyterhub)
 - [Tips on Hyper](tips-on-hyper)
 - [Tips on GetPocket](tips-on-getpocket)
 - [Generating a Self-Signed SSL](generating-a-self-signed-ssl)
 - [Install Packages Using Homebrew on macOS and Linux](install-packages-using-homebrew-on-macos-and-linux)
-- [Tips on Kubernetes](tips-on-kubernetes)
 - [Tips on Visual Studio Code](tips-on-visual-studio-code)
-- [Tips on Minikube](tips-on-minikube)
 - [Use wget with Proxy](use-wget-with-proxy)
 - [Block JavaScript in Browsers Using NoScript](block-javascript-in-browsers-using-noscript)
-- [Using Bash in Docker](using-bash-in-docker)
 - [Selectively Disable Vimperator on Webpages](selectively-disable-vimperator-on-webpages)
 - [Manage Docker Images and Containers](manage-docker-images-and-containers)
 - [Install Docker](install-docker)
@@ -2266,8 +2294,6 @@ site:
 - [Make Linux Run Faster](make-linux-run-faster)
 - [Use pdftk to Manipulating PDF Files](use-pdftk-to-manipulating-pdf-files)
 - [Operate Remote Servers Using SSH](operate-remote-servers-using-ssh)
-- [Fix Microphone Problem of Skype in Debian](fix-microphone-problem-of-skype-in-debian)
-- [Linux Network Tools](linux-network-tools)
 - [SSH Tunnel](ssh-tunnel)
 - [Vim as a Universal Editor](vim-as-a-universal-editor)
 - [Useful Firefox Add-ons](useful-firefox-add-ons)
@@ -2279,13 +2305,8 @@ site:
 - [Jupyter Notebook Kernels](jupyter-notebook-kernels)
 - [Tips on Multipass](tips-on-multipass)
 - [Video Conference Tools](video-conference-tools)
-- [Tips on Preview in macOS](tips-on-preview-in-macos)
-- [Tips on KeepassXC](tips-on-keepassxc)
-- [Docker Issues and Solutions](docker-issues-and-solutions)
 - [WeChat Questions](wechat-questions)
 - [Dashboard Solutions](dashboard-solutions)
-- [Visual Studio Code Server](visual-studio-code-server)
-- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
 - [Convert PDF to EPS](convert-pdf-to-eps)
 - [Schedule Cron Tasks in a Docker Container](schedule-cron-tasks-in-a-docker-container)
 - [The Non-Zero Exit Code 137 While Building a Docker Image](the-non-zero-exit-code-137-while-building-a-docker-image)
@@ -2293,41 +2314,24 @@ site:
 - [Resolve the DNS Contamination Issue in Firefox](resolve-the-dns-contamination-issue-in-firefox)
 - [Useful Docker Images](useful-docker-images)
 - [OneDrive in Linux](onedrive-in-linux)
-- [The Absolutely Best App for Taking Notes](the-absolutely-best-app-for-taking-notes)
 - [Synchronization and Backup Solutions](synchronization-and-backup-solutions)
 - [Docker for Nvidia GPU](docker-for-nvidia-gpu)
 - [Init for Docker Containers](init-for-docker-containers)
-- [Tips on Git Submodule](tips-on-git-submodule)
 - [Resizing Hard Disk of Guest Machine in Virtualbox](resizing-hard-disk-of-guest-machine-in-virtualbox)
 - [Apps for Contacts](apps-for-contacts)
-- [Tips on Microk8S](tips-on-microk8s)
-- [Tips on OpenFaaS](tips-on-openfaas)
-- [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
-- [Ways to Download Files Using Selenium Webdrive](ways-to-download-files-using-selenium-webdrive)
 - [Tips on Docker Compose](tips-on-docker-compose)
-- [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
-- [Network in Docker Containers](network-in-docker-containers)
 - [Software for Editing Videos](software-for-editing-videos)
 - [Monitoring and Alerting Tools](monitoring-and-alerting-tools)
 - [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
 - [Fcitx Tips](fcitx-tips)
 - [Mind Map Links](mind-map-links)
 - [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
-- [Get Coordinates of Points on a Screen or Image](get-coordinates-of-points-on-a-screen-or-image)
 - [Install NodeJS on Ubuntu](install-nodejs-on-ubuntu)
 - [Online Collaborative Editing Tools](online-collaborative-editing-tools)
 - [Auto Typing Tools](auto-typing-tools)
-- [Tips on Blender](tips-on-blender)
-- [Tips on Google Colab](tips-on-google-colab)
-- [Trust a JupyterLab Notebook](trust-a-jupyterlab-notebook)
 - [Speedup Docker Pulling and Pushing](speedup-docker-pulling-and-pushing)
 - [Save Docker Image in Another Location](save-docker-image-in-another-location)
 - [IntelliJ IDEA Tips](intellij-idea-tips)
-- [Docker on Mac](docker-on-mac)
-- [User in Docker](user-in-docker)
-- [Use Snap Apps in Docker](use-snap-apps-in-docker)
-- [Tips on Jupyter Binder](tips-on-jupyter-binder)
-- [Online Image Storage](online-image-storage)
 - [Docker Images for Database](docker-images-for-database)
 - [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
 - [Docker Images for Zeppelin](docker-images-for-zeppelin)
@@ -2344,10 +2348,6 @@ site:
 - [Recruiting Management](recruiting-management)
 - [Notes Taking Solutions](notes-taking-solutions)
 - [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
-- [Docker Images for Notebooks](docker-images-for-notebooks)
-- [Docker Images for Shadowsocks](docker-images-for-shadowsocks)
-- [Firebug Is Awsome](firebug-is-awsome)
-- [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
 - [Use LaTeX in Linux](use-latex-in-linux)
 - [Start RStudio Server After Upgrading](start-rstudio-server-after-upgrading)
 - [Cygwin Portable](cygwin-portable)
@@ -2551,6 +2551,13 @@ site:
 
 ## Linux
 ```{dropdown} Click to expand/collapse 140 links
+- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
+- [Copying Files in Linux](copying-files-in-linux)
+- [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
+- [Linux Network Tools](linux-network-tools)
+- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
+- [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
+- [Fix Microphone Problem of Skype in Debian](fix-microphone-problem-of-skype-in-debian)
 - [Tips on the Shell command ps](tips-on-the-shell-command-ps)
 - [Header Files in Linux](header-files-in-linux)
 - [Tips on arp-scan](tips-on-arp-scan)
@@ -2580,7 +2587,6 @@ site:
 - [Install Rust Globally in Linux](install-rust-globally-in-linux)
 - [Take Screenshot on Linux](take-screenshot-on-linux)
 - [Check Whether a Linux Is Using upstart, systemd or SysV](check-whether-a-linux-is-using-upstart-systemd-or-sysv)
-- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
 - [Watching Filesystem Changes Using "inotify"](watching-filesystem-changes-using-inotify)
 - [Creative Use of Keepassx -- Odd Skills?](creative-use-of-keepassx-odd-skills)
 - [Configure Fcitx5 for KDE Plasma](configure-fcitx5-for-kde-plasma)
@@ -2591,7 +2597,6 @@ site:
 - [Software I Use in Windows System](software-i-use-in-windows-system)
 - [Useful Tools in Linux](useful-tools-in-linux)
 - [Comparison of (Debian Series) Linux Distributions](comparison-of-debian-series-linux-distributions)
-- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
 - [Tips on FFmpeg](tips-on-ffmpeg)
 - [Windows Emulation Using WINE](windows-emulation-using-wine)
 - [Tips on VNC](tips-on-vnc)
@@ -2605,7 +2610,6 @@ site:
 - [Tips on Touchpad](tips-on-touchpad)
 - [Tips on NFS](tips-on-nfs)
 - [Manage Autostart Applications](manage-autostart-applications)
-- [Copying Files in Linux](copying-files-in-linux)
 - [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
 - [Tips on Arch Linux](tips-on-arch-linux)
 - [Tips on rsync](tips-on-rsync)
@@ -2633,7 +2637,6 @@ site:
 - [Compress and Decompressing Archives in Linux](compress-and-decompressing-archives-in-linux)
 - [Advanced Use of ls in Linux](advanced-use-of-ls-in-linux)
 - [Install the GSL Library](install-the-gsl-library)
-- [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
 - [Interact with System Clipboard in Vim](interact-with-system-clipboard-in-vim)
 - [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
 - [Power Settings in Linux with GNOME Desktop](power-settings-in-linux-with-gnome-desktop)
@@ -2642,11 +2645,9 @@ site:
 - [Ways to Make a Bootable Flash Drive in Linux](ways-to-make-a-bootable-flash-drive-in-linux)
 - [Operate Remote Servers Using SSH](operate-remote-servers-using-ssh)
 - [Create a Temporary File in Linux](create-a-temporary-file-in-linux)
-- [Fix Microphone Problem of Skype in Debian](fix-microphone-problem-of-skype-in-debian)
 - [PCIe BUS Error: Severity=Corrected, Type=Physical Layer](pcie-bus-error-severity-corrected-type-physical-layer)
 - [Package Management in Linux](package-management-in-linux)
 - [Linux Administrator Tools](linux-administrator-tools)
-- [Linux Network Tools](linux-network-tools)
 - [Desktop Environments for Linux](desktop-environments-for-linux)
 - [Undelete Files in Linux](undelete-files-in-linux)
 - [Map Keys in Linux](map-keys-in-linux)
@@ -2681,7 +2682,6 @@ site:
 - [Account Management in Linux](account-management-in-linux)
 - [Install Java 8 on Ubuntu 14.04](install-java-8-on-ubuntu-14.04)
 - [Install sbt on CentOS](install-sbt-on-centos)
-- [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
 - [Use LaTeX in Linux](use-latex-in-linux)
 - [Cygwin Portable](cygwin-portable)
 - [Change File Permission on Linux](change-file-permission-on-linux)
@@ -2695,6 +2695,15 @@ site:
 
 ## AI
 ```{dropdown} Click to expand/collapse 127 links
+- [Experiment Design](experiment-design)
+- [Loss Functions for Machine Learning Models](loss-functions-for-machine-learning-models)
+- [Ensemble Machine Learning Models](ensemble-machine-learning-models)
+- [Sampling Methods](sampling-methods)
+- [Entropy](entropy)
+- [AI Learning](ai-learning)
+- [Time Series Analysis](time-series-analysis)
+- [Pretrained Deep Learning Models](pretrained-deep-learning-models)
+- [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
 - [Ways to Enable and Disable Gradient in PyTorch](ways-to-enable-and-disable-gradient-in-pytorch)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
 - [Adaptive Pooling in PyTorch](adaptive-pooling-in-pytorch)
@@ -2709,7 +2718,6 @@ site:
 - [AI-based Code Completion Tools](ai-based-code-completion-tools)
 - [CI/CD for Machine Learning](ci-cd-for-machine-learning)
 - [Visualization for AI Concepts](visualization-for-ai-concepts)
-- [Pretrained Deep Learning Models](pretrained-deep-learning-models)
 - [Compute Vision Tasks](compute-vision-tasks)
 - [Benchmark of Popular Deep Learning Models](benchmark-of-popular-deep-learning-models)
 - [Fake Face Using AI](fake-face-using-ai)
@@ -2733,7 +2741,6 @@ site:
 - [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 - [Difference Between torch.nn.Module and torch.nn.functional](difference-between-torch.nn.module-and-torch.nn.functional)
-- [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
 - [Split a Dataset into Train and Test Datasets in Python](split-a-dataset-into-train-and-test-datasets-in-python)
 - [Tensor Transformations in TorchVision](tensor-transformations-in-torchvision)
 - [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
@@ -2743,12 +2750,8 @@ site:
 - [Linear Regression in Scikit-learn](linear-regression-in-scikit-learn)
 - [Tips on Dataset in PyTorch](tips-on-dataset-in-pytorch)
 - [Hands on Tensor in PyTorch](hands-on-tensor-in-pytorch)
-- [Experiment Design](experiment-design)
 - [Clustering Algorithms in Machine Learning](clustering-algorithms-in-machine-learning)
-- [Loss Functions for Machine Learning Models](loss-functions-for-machine-learning-models)
-- [Ensemble Machine Learning Models](ensemble-machine-learning-models)
 - [Cross Validation in Machine Learning](cross-validation-in-machine-learning)
-- [Time Series Analysis](time-series-analysis)
 - [Hyper Parameter Tuning and Automatical Machine Learning](hyper-parameter-tuning-and-automatical-machine-learning)
 - [Tips on Scikit-Learn](tips-on-scikit-learn)
 - [Machine Learning Libraries, Computing Frames and Programming Languages](machine-learning-libraries-computing-frames-and-programming-languages)
@@ -2759,7 +2762,6 @@ site:
 - [Rust for Machine Learning](rust-for-machine-learning)
 - [Hardware for AI](hardware-for-ai)
 - [Tips on FeatureTools](tips-on-featuretools)
-- [Entropy](entropy)
 - [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
 - [Tips on LightGBM](tips-on-lightgbm)
 - [Training Deep Neural Networks](training-deep-neural-networks)
@@ -2771,7 +2773,6 @@ site:
 - [Tips on TensorFlow](tips-on-tensorflow)
 - [Tips on Torchvision](tips-on-torchvision)
 - [Data for NLP Research](data-for-nlp-research)
-- [AI Learning](ai-learning)
 - [Tips on Feature Engineering for Machine Learning](tips-on-feature-engineering-for-machine-learning)
 - [Tips on Reinforcement Learning](tips-on-reinforcement-learning)
 - [Tips on NLP](tips-on-nlp)
@@ -2780,7 +2781,6 @@ site:
 - [Data Science Version Control and Continuous Delivery](data-science-version-control-and-continuous-delivery)
 - [Monitoring and Alerting Tools](monitoring-and-alerting-tools)
 - [Device Managment in PyTorch](device-managment-in-pytorch)
-- [Sampling Methods](sampling-methods)
 - [Make Your Model Training Reproducible in PyTorch](make-your-model-training-reproducible-in-pytorch)
 - [Distance and Similarity for Machine Learning](distance-and-similarity-for-machine-learning)
 - [Use XGBoost With Spark](use-xgboost-with-spark)
@@ -2826,19 +2826,22 @@ site:
 
 ## tips
 ```{dropdown} Click to expand/collapse 125 links
+- [Tips on Excel](tips-on-excel)
+- [Statistics](statistics)
+- [Tips on Blender](tips-on-blender)
+- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
+- [Low Risk Investments](low-risk-investments)
 - [String in Mojo](string-in-mojo)
 - [Watching Filesystem Changes Using "inotify"](watching-filesystem-changes-using-inotify)
 - [Use OculiX to Automate Anything](use-oculix-to-automate-anything)
 - [Baidu Yun Tips](baidu-yun-tips)
 - [Tips for VB/VB.net](tips-for-vb-vb.net)
-- [Tips on Excel](tips-on-excel)
 - [Windows Emulation Using WINE](windows-emulation-using-wine)
 - [Tips on VNC](tips-on-vnc)
 - [Tips on VirtualBox](tips-on-virtualbox)
 - [Tips on Vim](tips-on-vim)
 - [Misc Tips on Ubuntu](misc-tips-on-ubuntu)
 - [Tips on Web Development](tips-on-web-development)
-- [Statistics](statistics)
 - [Transform Text Using sed](transform-text-using-sed)
 - [Tips on MongoDB](tips-on-mongodb)
 - [Tips on Linux](tips-on-linux)
@@ -2938,8 +2941,6 @@ site:
 - [Tips on npm](tips-on-npm)
 - [Python Tips and Traps](python-tips-and-traps)
 - [Tips on YAML](tips-on-yaml)
-- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
-- [Low Risk Investments](low-risk-investments)
 - [Python pandas Tips](python-pandas-tips)
 - [IPython Is the Best Shell](ipython-is-the-best-shell)
 - [Process Big Data Using Spark](process-big-data-using-spark)
@@ -2947,7 +2948,6 @@ site:
 - [Tips on OpenCV](tips-on-opencv)
 - [Tips on Docker Compose](tips-on-docker-compose)
 - [Tips on TVM](tips-on-tvm)
-- [Tips on Blender](tips-on-blender)
 - [IntelliJ IDEA Tips](intellij-idea-tips)
 - [General Tips for LaTeX](general-tips-for-latex)
 - [Notes Taking Solutions](notes-taking-solutions)
@@ -3072,8 +3072,131 @@ site:
 - [Check Whether a File Exists in Spark](check-whether-a-file-exists-in-spark)
 ```
 
+## machine learning
+```{dropdown} Click to expand/collapse 112 links
+- [Loss Functions for Machine Learning Models](loss-functions-for-machine-learning-models)
+- [Ensemble Machine Learning Models](ensemble-machine-learning-models)
+- [Classification](classification)
+- [Regression Classification ANOVA](regression-classification-anova)
+- [Entropy](entropy)
+- [AI Learning](ai-learning)
+- [Pretrained Deep Learning Models](pretrained-deep-learning-models)
+- [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
+- [Ways to Enable and Disable Gradient in PyTorch](ways-to-enable-and-disable-gradient-in-pytorch)
+- [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
+- [Delete a Layer in a Pretrained Model in PyTorch](delete-a-layer-in-a-pretrained-model-in-pytorch)
+- [Adaptive Pooling in PyTorch](adaptive-pooling-in-pytorch)
+- [Reduce Memory Needed to Train Deep Learning Models](reduce-memory-needed-to-train-deep-learning-models)
+- [Tips on Optuna](tips-on-optuna)
+- [Handle Categorical Variables in LightGBM](handle-categorical-variables-in-lightgbm)
+- [Tree-Based Models in scikit-learn](tree-based-models-in-scikit-learn)
+- [Visualization of GBDT in scikit-learn](visualization-of-gbdt-in-scikit-learn)
+- [fit_transform vs transform in scikit-learn](fit_transform-vs-transform-in-scikit-learn)
+- [Preparing Data for AI](preparing-data-for-ai)
+- [Tips on Deep Graph Learning](tips-on-deep-graph-learning)
+- [Save and Load PyTorch Models](save-and-load-pytorch-models)
+- [Rule-base Image Process](rule-base-image-process)
+- [JIT and Domain Specific Compilers](jit-and-domain-specific-compilers)
+- [Visualization for AI Concepts](visualization-for-ai-concepts)
+- [Deep Learning Libraries for Dialog Systems and Chatbots](deep-learning-libraries-for-dialog-systems-and-chatbots)
+- [Study Notes on Knowledge Graph](study-notes-on-knowledge-graph)
+- [Benchmark of Popular Deep Learning Models](benchmark-of-popular-deep-learning-models)
+- [Tips on the Mojo Programming Language](tips-on-the-mojo-programming-language)
+- [Tips on Large Language Models](tips-on-large-language-models)
+- [Scaling Law for LLM](scaling-law-for-llm)
+- [Double Dipping in Machine Learning](double-dipping-in-machine-learning)
+- [Tips on ONNX](tips-on-onnx)
+- [Difference Between torch.nn.Module and torch.nn.functional](difference-between-torch.nn.module-and-torch.nn.functional)
+- [Split a Dataset into Train and Test Datasets in Python](split-a-dataset-into-train-and-test-datasets-in-python)
+- [Tensor Transformations in TorchVision](tensor-transformations-in-torchvision)
+- [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
+- [Pad a Sequence in Python](pad-a-sequence-in-python)
+- [Resize a Tensor in PyTorch](resize-a-tensor-in-pytorch)
+- [Move a Tensor to a Specific Device in PyTorch](move-a-tensor-to-a-specific-device-in-pytorch)
+- [Linear Regression in Scikit-learn](linear-regression-in-scikit-learn)
+- [Tips on Dataset in PyTorch](tips-on-dataset-in-pytorch)
+- [Hands on Tensor in PyTorch](hands-on-tensor-in-pytorch)
+- [Clustering Algorithms in Machine Learning](clustering-algorithms-in-machine-learning)
+- [Cross Validation in Machine Learning](cross-validation-in-machine-learning)
+- [Nature Language Processing Using NLTK](nature-language-processing-using-nltk)
+- [Keywords Extracting from Text](keywords-extracting-from-text)
+- [Hyper Parameter Tuning and Automatical Machine Learning](hyper-parameter-tuning-and-automatical-machine-learning)
+- [Tips on Scikit-Learn](tips-on-scikit-learn)
+- [Machine Learning Libraries, Computing Frames and Programming Languages](machine-learning-libraries-computing-frames-and-programming-languages)
+- [Terminologies and Concepts in NLP](terminologies-and-concepts-in-nlp)
+- [SLIDE: Sub-Linear Deep Learning Engine](slide-sub-linear-deep-learning-engine)
+- [Data Sources](data-sources)
+- [Rust for Machine Learning](rust-for-machine-learning)
+- [Hardware for AI](hardware-for-ai)
+- [Tips on FeatureTools](tips-on-featuretools)
+- [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
+- [Tips on LightGBM](tips-on-lightgbm)
+- [Training Deep Neural Networks](training-deep-neural-networks)
+- [Data for Computer Vision Research](data-for-computer-vision-research)
+- [Learning to Rank](learning-to-rank)
+- [Common Issues in PyTorch](common-issues-in-pytorch)
+- [LightGBM on GPU](lightgbm-on-gpu)
+- [Use PyTorch on GPU](use-pytorch-on-gpu)
+- [Tips on TensorFlow](tips-on-tensorflow)
+- [Tips on Torchvision](tips-on-torchvision)
+- [Data for NLP Research](data-for-nlp-research)
+- [Tips on Feature Engineering for Machine Learning](tips-on-feature-engineering-for-machine-learning)
+- [Tips on Reinforcement Learning](tips-on-reinforcement-learning)
+- [Tips on NLP](tips-on-nlp)
+- [Machine Learning Resources](machine-learning-resources)
+- [Data Science Version Control and Continuous Delivery](data-science-version-control-and-continuous-delivery)
+- [Monitoring and Alerting Tools](monitoring-and-alerting-tools)
+- [Device Managment in PyTorch](device-managment-in-pytorch)
+- [Distance and Similarity for Machine Learning](distance-and-similarity-for-machine-learning)
+- [Use XGBoost With Spark](use-xgboost-with-spark)
+- [Tips on the Transformers Python Library for NLP](tips-on-the-transformers-python-library-for-nlp)
+- [Tokenization in NLP](tokenization-in-nlp)
+- [Subword Algorithms for NLP](subword-algorithms-for-nlp)
+- [Difference Between forward and __call__ Methods of a Module in PyTorch](difference-between-forward-and-__call__-methods-of-a-module-in-pytorch)
+- [Representation of Machine Learning Models](representation-of-machine-learning-models)
+- [Use LightGBM With Spark](use-lightgbm-with-spark)
+- [Voice Recognition](voice-recognition)
+- [Popular and Useful Modules and Functions in PyTorch](popular-and-useful-modules-and-functions-in-pytorch)
+- [Number Precision in Deep Learning](number-precision-in-deep-learning)
+- [Tips on TVM](tips-on-tvm)
+- [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
+- [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
+- [Tips on AutoGluon](tips-on-autogluon)
+- [Resizing and Padding for Image Recognition](resizing-and-padding-for-image-recognition)
+- [Convolutional Neural Networks](convolutional-neural-networks)
+- [Handle Imbalanced Data in Machine Learning](handle-imbalanced-data-in-machine-learning)
+- [Tips on LSTM](tips-on-lstm)
+- [The GPT-2 Model in NLP](the-gpt-2-model-in-nlp)
+- [The Bert Model in NLP](the-bert-model-in-nlp)
+- [Tips on Recommendation Systems](tips-on-recommendation-systems)
+- [Activation Functions in Neural Network](activation-functions-in-neural-network)
+- [Tips on Transformer in NLP](tips-on-transformer-in-nlp)
+- [Feature Scaling in Machine Learning](feature-scaling-in-machine-learning)
+- [Understand Attention in NLP](understand-attention-in-nlp)
+- [Tips on Word2Vec](tips-on-word2vec)
+- [Compresion of Deep Learning Models](compresion-of-deep-learning-models)
+- [Log Softmax vs Softmax](log-softmax-vs-softmax)
+- [Models for Computer Vision](models-for-computer-vision)
+- [Interpretation of Neural Networks](interpretation-of-neural-networks)
+- [Distributed Training of Models on Spark](distributed-training-of-models-on-spark)
+- [Metrics for Machine Learning](metrics-for-machine-learning)
+- [Tips on TPU](tips-on-tpu)
+- [Regularization in Machine Learning Models](regularization-in-machine-learning-models)
+- [Optimization Method in Machine Learning](optimization-method-in-machine-learning)
+- [Tips on XGBoost](tips-on-xgboost)
+- [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
+- [Tips on Spark MLlib](tips-on-spark-mllib)
+```
+
 ## data science
 ```{dropdown} Click to expand/collapse 112 links
+- [Ensemble Machine Learning Models](ensemble-machine-learning-models)
+- [Entropy](entropy)
+- [AI Learning](ai-learning)
+- [Time Series Analysis](time-series-analysis)
+- [Pretrained Deep Learning Models](pretrained-deep-learning-models)
+- [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
+- [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
 - [Ways to Enable and Disable Gradient in PyTorch](ways-to-enable-and-disable-gradient-in-pytorch)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
 - [Delete a Layer in a Pretrained Model in PyTorch](delete-a-layer-in-a-pretrained-model-in-pytorch)
@@ -3093,7 +3216,6 @@ site:
 - [Visualization for AI Concepts](visualization-for-ai-concepts)
 - [Deep Learning Libraries for Dialog Systems and Chatbots](deep-learning-libraries-for-dialog-systems-and-chatbots)
 - [Study Notes on Knowledge Graph](study-notes-on-knowledge-graph)
-- [Pretrained Deep Learning Models](pretrained-deep-learning-models)
 - [Compute Vision Tasks](compute-vision-tasks)
 - [Benchmark of Popular Deep Learning Models](benchmark-of-popular-deep-learning-models)
 - [Fake Face Using AI](fake-face-using-ai)
@@ -3101,7 +3223,6 @@ site:
 - [Scaling Law for LLM](scaling-law-for-llm)
 - [Double Dipping in Machine Learning](double-dipping-in-machine-learning)
 - [Difference Between torch.nn.Module and torch.nn.functional](difference-between-torch.nn.module-and-torch.nn.functional)
-- [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
 - [Split a Dataset into Train and Test Datasets in Python](split-a-dataset-into-train-and-test-datasets-in-python)
 - [Tensor Transformations in TorchVision](tensor-transformations-in-torchvision)
 - [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
@@ -3112,12 +3233,9 @@ site:
 - [Tips on Dataset in PyTorch](tips-on-dataset-in-pytorch)
 - [Hands on Tensor in PyTorch](hands-on-tensor-in-pytorch)
 - [Clustering Algorithms in Machine Learning](clustering-algorithms-in-machine-learning)
-- [Ensemble Machine Learning Models](ensemble-machine-learning-models)
 - [Cross Validation in Machine Learning](cross-validation-in-machine-learning)
 - [Nature Language Processing Using NLTK](nature-language-processing-using-nltk)
 - [Keywords Extracting from Text](keywords-extracting-from-text)
-- [Time Series Analysis](time-series-analysis)
-- [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
 - [Tips on Scikit-Learn](tips-on-scikit-learn)
 - [Machine Learning Libraries, Computing Frames and Programming Languages](machine-learning-libraries-computing-frames-and-programming-languages)
 - [Terminologies and Concepts in NLP](terminologies-and-concepts-in-nlp)
@@ -3125,7 +3243,6 @@ site:
 - [Rust for Machine Learning](rust-for-machine-learning)
 - [Hardware for AI](hardware-for-ai)
 - [Tips on FeatureTools](tips-on-featuretools)
-- [Entropy](entropy)
 - [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
 - [Tips on LightGBM](tips-on-lightgbm)
 - [Training Deep Neural Networks](training-deep-neural-networks)
@@ -3137,7 +3254,6 @@ site:
 - [Tips on TensorFlow](tips-on-tensorflow)
 - [Tips on Torchvision](tips-on-torchvision)
 - [Data for NLP Research](data-for-nlp-research)
-- [AI Learning](ai-learning)
 - [Tips on Feature Engineering for Machine Learning](tips-on-feature-engineering-for-machine-learning)
 - [Tips on Reinforcement Learning](tips-on-reinforcement-learning)
 - [Tips on NLP](tips-on-nlp)
@@ -3188,124 +3304,37 @@ site:
 - [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
 ```
 
-## machine learning
-```{dropdown} Click to expand/collapse 112 links
-- [Ways to Enable and Disable Gradient in PyTorch](ways-to-enable-and-disable-gradient-in-pytorch)
-- [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
-- [Delete a Layer in a Pretrained Model in PyTorch](delete-a-layer-in-a-pretrained-model-in-pytorch)
-- [Adaptive Pooling in PyTorch](adaptive-pooling-in-pytorch)
-- [Reduce Memory Needed to Train Deep Learning Models](reduce-memory-needed-to-train-deep-learning-models)
-- [Tips on Optuna](tips-on-optuna)
-- [Handle Categorical Variables in LightGBM](handle-categorical-variables-in-lightgbm)
-- [Tree-Based Models in scikit-learn](tree-based-models-in-scikit-learn)
-- [Visualization of GBDT in scikit-learn](visualization-of-gbdt-in-scikit-learn)
-- [fit_transform vs transform in scikit-learn](fit_transform-vs-transform-in-scikit-learn)
-- [Preparing Data for AI](preparing-data-for-ai)
-- [Tips on Deep Graph Learning](tips-on-deep-graph-learning)
-- [Save and Load PyTorch Models](save-and-load-pytorch-models)
-- [Rule-base Image Process](rule-base-image-process)
-- [JIT and Domain Specific Compilers](jit-and-domain-specific-compilers)
-- [Visualization for AI Concepts](visualization-for-ai-concepts)
-- [Deep Learning Libraries for Dialog Systems and Chatbots](deep-learning-libraries-for-dialog-systems-and-chatbots)
-- [Study Notes on Knowledge Graph](study-notes-on-knowledge-graph)
-- [Pretrained Deep Learning Models](pretrained-deep-learning-models)
-- [Benchmark of Popular Deep Learning Models](benchmark-of-popular-deep-learning-models)
-- [Tips on the Mojo Programming Language](tips-on-the-mojo-programming-language)
-- [Tips on Large Language Models](tips-on-large-language-models)
-- [Scaling Law for LLM](scaling-law-for-llm)
-- [Double Dipping in Machine Learning](double-dipping-in-machine-learning)
-- [Tips on ONNX](tips-on-onnx)
-- [Difference Between torch.nn.Module and torch.nn.functional](difference-between-torch.nn.module-and-torch.nn.functional)
-- [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
-- [Split a Dataset into Train and Test Datasets in Python](split-a-dataset-into-train-and-test-datasets-in-python)
-- [Tensor Transformations in TorchVision](tensor-transformations-in-torchvision)
-- [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
-- [Pad a Sequence in Python](pad-a-sequence-in-python)
-- [Resize a Tensor in PyTorch](resize-a-tensor-in-pytorch)
-- [Move a Tensor to a Specific Device in PyTorch](move-a-tensor-to-a-specific-device-in-pytorch)
-- [Linear Regression in Scikit-learn](linear-regression-in-scikit-learn)
-- [Tips on Dataset in PyTorch](tips-on-dataset-in-pytorch)
-- [Hands on Tensor in PyTorch](hands-on-tensor-in-pytorch)
-- [Clustering Algorithms in Machine Learning](clustering-algorithms-in-machine-learning)
-- [Loss Functions for Machine Learning Models](loss-functions-for-machine-learning-models)
-- [Ensemble Machine Learning Models](ensemble-machine-learning-models)
-- [Cross Validation in Machine Learning](cross-validation-in-machine-learning)
-- [Nature Language Processing Using NLTK](nature-language-processing-using-nltk)
-- [Keywords Extracting from Text](keywords-extracting-from-text)
-- [Hyper Parameter Tuning and Automatical Machine Learning](hyper-parameter-tuning-and-automatical-machine-learning)
-- [Tips on Scikit-Learn](tips-on-scikit-learn)
-- [Machine Learning Libraries, Computing Frames and Programming Languages](machine-learning-libraries-computing-frames-and-programming-languages)
-- [Terminologies and Concepts in NLP](terminologies-and-concepts-in-nlp)
-- [SLIDE: Sub-Linear Deep Learning Engine](slide-sub-linear-deep-learning-engine)
-- [Classification](classification)
-- [Data Sources](data-sources)
-- [Rust for Machine Learning](rust-for-machine-learning)
-- [Hardware for AI](hardware-for-ai)
-- [Tips on FeatureTools](tips-on-featuretools)
-- [Entropy](entropy)
-- [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
-- [Tips on LightGBM](tips-on-lightgbm)
-- [Training Deep Neural Networks](training-deep-neural-networks)
-- [Data for Computer Vision Research](data-for-computer-vision-research)
-- [Learning to Rank](learning-to-rank)
-- [Common Issues in PyTorch](common-issues-in-pytorch)
-- [LightGBM on GPU](lightgbm-on-gpu)
-- [Use PyTorch on GPU](use-pytorch-on-gpu)
-- [Tips on TensorFlow](tips-on-tensorflow)
-- [Tips on Torchvision](tips-on-torchvision)
-- [Data for NLP Research](data-for-nlp-research)
-- [AI Learning](ai-learning)
-- [Tips on Feature Engineering for Machine Learning](tips-on-feature-engineering-for-machine-learning)
-- [Tips on Reinforcement Learning](tips-on-reinforcement-learning)
-- [Tips on NLP](tips-on-nlp)
-- [Machine Learning Resources](machine-learning-resources)
-- [Data Science Version Control and Continuous Delivery](data-science-version-control-and-continuous-delivery)
-- [Monitoring and Alerting Tools](monitoring-and-alerting-tools)
-- [Device Managment in PyTorch](device-managment-in-pytorch)
-- [Distance and Similarity for Machine Learning](distance-and-similarity-for-machine-learning)
-- [Use XGBoost With Spark](use-xgboost-with-spark)
-- [Tips on the Transformers Python Library for NLP](tips-on-the-transformers-python-library-for-nlp)
-- [Tokenization in NLP](tokenization-in-nlp)
-- [Subword Algorithms for NLP](subword-algorithms-for-nlp)
-- [Difference Between forward and __call__ Methods of a Module in PyTorch](difference-between-forward-and-__call__-methods-of-a-module-in-pytorch)
-- [Representation of Machine Learning Models](representation-of-machine-learning-models)
-- [Use LightGBM With Spark](use-lightgbm-with-spark)
-- [Voice Recognition](voice-recognition)
-- [Popular and Useful Modules and Functions in PyTorch](popular-and-useful-modules-and-functions-in-pytorch)
-- [Number Precision in Deep Learning](number-precision-in-deep-learning)
-- [Tips on TVM](tips-on-tvm)
-- [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
-- [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
-- [Tips on AutoGluon](tips-on-autogluon)
-- [Resizing and Padding for Image Recognition](resizing-and-padding-for-image-recognition)
-- [Convolutional Neural Networks](convolutional-neural-networks)
-- [Handle Imbalanced Data in Machine Learning](handle-imbalanced-data-in-machine-learning)
-- [Tips on LSTM](tips-on-lstm)
-- [The GPT-2 Model in NLP](the-gpt-2-model-in-nlp)
-- [The Bert Model in NLP](the-bert-model-in-nlp)
-- [Tips on Recommendation Systems](tips-on-recommendation-systems)
-- [Activation Functions in Neural Network](activation-functions-in-neural-network)
-- [Tips on Transformer in NLP](tips-on-transformer-in-nlp)
-- [Feature Scaling in Machine Learning](feature-scaling-in-machine-learning)
-- [Understand Attention in NLP](understand-attention-in-nlp)
-- [Tips on Word2Vec](tips-on-word2vec)
-- [Compresion of Deep Learning Models](compresion-of-deep-learning-models)
-- [Log Softmax vs Softmax](log-softmax-vs-softmax)
-- [Models for Computer Vision](models-for-computer-vision)
-- [Interpretation of Neural Networks](interpretation-of-neural-networks)
-- [Distributed Training of Models on Spark](distributed-training-of-models-on-spark)
-- [Metrics for Machine Learning](metrics-for-machine-learning)
-- [Tips on TPU](tips-on-tpu)
-- [Regularization in Machine Learning Models](regularization-in-machine-learning-models)
-- [Optimization Method in Machine Learning](optimization-method-in-machine-learning)
-- [Tips on XGBoost](tips-on-xgboost)
-- [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
-- [Tips on Spark MLlib](tips-on-spark-mllib)
-- [Regression Classification ANOVA](regression-classification-anova)
-```
-
 ## life
 ```{dropdown} Click to expand/collapse 93 links
+- [Living in Shanghai](living-in-shanghai)
+- [Shopping on Costco](shopping-on-costco)
+- [Stop Spam Phone Calls](stop-spam-phone-calls)
+- [Building Permit](building-permit)
+- [Understand Terms of Service Quickly](understand-terms-of-service-quickly)
+- [Shopping Smartly](shopping-smartly)
+- [Maintain Garage Doors](maintain-garage-doors)
+- [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
+- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
+- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
+- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Tips on Job Seeking](tips-on-job-seeking)
+- [Good Resources of News](good-resources-of-news)
+- [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
+- [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
+- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
+- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
+- [Tips on RV](tips-on-rv)
+- [Tips on Car Seat](tips-on-car-seat)
+- [Tips on Dishwasher](tips-on-dishwasher)
+- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
+- [Replace a Bathroom Fan](replace-a-bathroom-fan)
+- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
+- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
+- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
+- [Tips on Tesla Model Y](tips-on-tesla-model-y)
+- [Tips on Moss Control](tips-on-moss-control)
+- [Tips on Mount Rainer](tips-on-mount-rainer)
 - [中国的公共交通服务](public-transportation-china)
 - [Misc Tips in Daily Life](misc-tips-in-daily-life)
 - [Tips on Smart Phone](tips-on-smart-phone)
@@ -3317,27 +3346,20 @@ site:
 - [Living in Chicago](living-in-chicago)
 - [Banking Account](banking-account)
 - [Tips on Sports](tips-on-sports)
-- [Living in Shanghai](living-in-shanghai)
 - [Living in Safty](living-in-safty)
 - [Tips on Airlines](tips-on-airlines)
 - [Traveling Without Hassle](traveling-without-hassle)
 - [Tips on US Visas](tips-on-us-visas)
 - [Property Line](property-line)
-- [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
-- [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
-- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
-- [Tips on RV](tips-on-rv)
 - [Install a Nema 14-50 Outlet](install-a-nema-14-50-outlet)
 - [Proximity Locking on Rivian](proximity-locking-on-rivian)
 - [Tips on Child Education](tips-on-child-education)
 - [Anker Solix Home Backup Battery System](anker-solix-home-backup-battery-system)
 - [Use Dehumidifiers to Remove Dampness from Your House](use-dehumidifiers-to-remove-dampness-from-your-house)
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
 - [Tips on Rivian Electronic Vehicles](tips-on-rivian-electronic-vehicles)
 - [Tips on Electronic Vehicles](tips-on-electronic-vehicles)
 - [Hot Water in the House](hot-water-in-the-house)
 - [Tips on Verizon](tips-on-verizon)
-- [Shopping Smartly](shopping-smartly)
 - [Tips on PSE](tips-on-pse)
 - [Tips on DIY](tips-on-diy)
 - [Wheels and Tires for Rivian](wheels-and-tires-for-rivian)
@@ -3356,7 +3378,6 @@ site:
 - [Repair a Flat Tire](repair-a-flat-tire)
 - [Flat Tire on Rivian](flat-tire-on-rivian)
 - [Tips on Car Tires](tips-on-car-tires)
-- [Maintain Garage Doors](maintain-garage-doors)
 - [Fast DC Charging in WA](fast-dc-charging-in-wa)
 - [Tips on Airbnb](tips-on-airbnb)
 - [Tips on Boating](tips-on-boating)
@@ -3364,45 +3385,29 @@ site:
 - [IUL Insurance](iul-insurance)
 - [Tips on Children Health](tips-on-children-health)
 - [Tips on Car Maintenance](tips-on-car-maintenance)
-- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
 - [Tips on Fishing in the Washington State](tips-on-fishing-in-the-washington-state)
 - [Driving on Snow and Ice](driving-on-snow-and-ice)
-- [Replace a Bathroom Fan](replace-a-bathroom-fan)
 - [Safe Disposal of Medicine Related Things](safe-disposal-of-medicine-related-things)
 - [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
 - [Tips on Biowind Register Fan](tips-on-biowind-register-fan)
-- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
-- [Tips on Mount Rainer](tips-on-mount-rainer)
 - [Tips for Rainy Winter](tips-for-rainy-winter)
-- [Tips on Moss Control](tips-on-moss-control)
-- [Tips on Tesla Model Y](tips-on-tesla-model-y)
 - [Hiring a Nanny](hiring-a-nanny)
 - [Tips on UPS](tips-on-ups)
 - [Tips on the Uplift Desk](tips-on-the-uplift-desk)
-- [Tips on Dishwasher](tips-on-dishwasher)
-- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
-- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
-- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
-- [Tips on Car Seat](tips-on-car-seat)
 - [Tips for Gardening](tips-for-gardening)
 - [Drain Cleaners](drain-cleaners)
-- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
-- [Good Resources of News](good-resources-of-news)
-- [Tips on Job Seeking](tips-on-job-seeking)
-- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
 - [Shopping At Homedepot](shopping-at-homedepot)
-- [Understand Terms of Service Quickly](understand-terms-of-service-quickly)
-- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
-- [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
-- [Stop Spam Phone Calls](stop-spam-phone-calls)
-- [Building Permit](building-permit)
-- [Shopping on Costco](shopping-on-costco)
 - [Shunfeng Deliver](shunfeng-deliver)
 - [Saitek Rumble Force P2500](saitek-rumble-force-p2500)
 ```
 
 ## Java
 ```{dropdown} Click to expand/collapse 80 links
+- [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
+- [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
+- [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
+- [Summary on Random Number Generators](summary-on-random-number-generators)
+- [Tips on IDE](tips-on-ide)
 - [Directly Initialize a Hashmap in Java](directly-initialize-a-hashmap-in-java)
 - [Tips on JSON](tips-on-json)
 - [Call Java Code Using JPype from Python](call-java-code-using-jpype-from-python)
@@ -3416,9 +3421,6 @@ site:
 - [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
 - [Hands on the sqlite3-jdbc library in Scala](hands-on-the-sqlite3-jdbc-library-in-scala)
 - [Good Third-party Math Libraries for Scala](good-third-party-math-libraries-for-scala)
-- [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
-- [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
-- [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
 - [Format String in Java](format-string-in-java)
 - [Set in Java](set-in-java)
 - [Round/Format Numbers in Java](round-format-numbers-in-java)
@@ -3440,13 +3442,11 @@ site:
 - [Comparison of Collections in C++ and Java](comparison-of-collections-in-c++-and-java)
 - [Tips on Maven](tips-on-maven)
 - [Java PPA for Ubuntu](java-ppa-for-ubuntu)
-- [Tips on IDE](tips-on-ide)
 - [General Tips for Gradle](general-tips-for-gradle)
 - [Visual Studio Code for Java Development](visual-studio-code-for-java-development)
 - [The JAVA_HOME Environment Variable](the-java_home-environment-variable)
 - [Differences Between Vector and ArrayList in Java](differences-between-vector-and-arraylist-in-java)
 - [Check Whether an Email Address Is Valid in Java](check-whether-an-email-address-is-valid-in-java)
-- [Summary on Random Number Generators](summary-on-random-number-generators)
 - [String in Different Programming Languages](string-in-different-programming-languages)
 - [Copy Arrays in Java](copy-arrays-in-java)
 - [SQL Database Client-server Protocols](sql-database-client-server-protocols)
@@ -3641,13 +3641,13 @@ site:
 
 ## Scala
 ```{dropdown} Click to expand/collapse 63 links
+- [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
+- [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
+- [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
 - [Use Spark With Apache Toree Kernel in Juptyerlab](use-spark-with-apache-toree-kernel-in-juptyerlab)
 - [Tips on the Almond Scala Kernel](tips-on-the-almond-scala-kernel)
 - [Hands on the sqlite3-jdbc library in Scala](hands-on-the-sqlite3-jdbc-library-in-scala)
 - [Good Third-party Math Libraries for Scala](good-third-party-math-libraries-for-scala)
-- [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
-- [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
-- [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
 - [Unit Testing for Spark](unit-testing-for-spark)
 - [Read/Write CSV in Spark](read-write-csv-in-spark)
 - [Read/Write TSV in Spark](read-write-tsv-in-spark)
@@ -3708,6 +3708,9 @@ site:
 
 ## JVM
 ```{dropdown} Click to expand/collapse 58 links
+- [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
+- [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
+- [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
 - [Call Java Code Using JPype from Python](call-java-code-using-jpype-from-python)
 - [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
 - [Useful Java Libraries](useful-java-libraries)
@@ -3716,9 +3719,6 @@ site:
 - [Call Java Using PyJNIus from Python](call-java-using-pyjnius-from-python)
 - [Hands on the sqlite3-jdbc library in Scala](hands-on-the-sqlite3-jdbc-library-in-scala)
 - [Good Third-party Math Libraries for Scala](good-third-party-math-libraries-for-scala)
-- [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
-- [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
-- [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
 - [Hands on the Stream Object in Java 8](hands-on-the-stream-object-in-java-8)
 - [Array in Scala](array-in-scala)
 - [String functions in Kotlin](string-functions-in-kotlin)
@@ -3770,10 +3770,15 @@ site:
 
 ## web
 ```{dropdown} Click to expand/collapse 54 links
+- [Firebug Is Awsome](firebug-is-awsome)
+- [GPU for Web](gpu-for-web)
+- [Ways to Download Files Using Selenium Webdrive](ways-to-download-files-using-selenium-webdrive)
+- [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
+- [Visual Studio Code Server](visual-studio-code-server)
+- [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
 - [Convert Web Pages to PDF Using Python](convert-web-pages-to-pdf-using-python)
 - [Rust for Frontend Development](rust-for-frontend-development)
 - [Use Streamlit to Build a Web App Quickly Using Python](use-streamlit-to-build-a-web-app-quickly-using-python)
-- [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
 - [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
 - [Tips on Websockets](tips-on-websockets)
 - [Tips on sshuttle](tips-on-sshuttle)
@@ -3790,7 +3795,6 @@ site:
 - [Tips on Django](tips-on-django)
 - [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
 - [Tips on Electron](tips-on-electron)
-- [GPU for Web](gpu-for-web)
 - [Tips on Svelte](tips-on-svelte)
 - [Expose Local Service to Public](expose-local-service-to-public)
 - [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
@@ -3813,21 +3817,27 @@ site:
 - [Tips on NFS](tips-on-nfs)
 - [Tips on Network](tips-on-network)
 - [Managing Blog Comments Using Disqus](managing-blog-comments-using-disqus)
-- [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
 - [Tips on httpd](tips-on-httpd)
-- [Visual Studio Code Server](visual-studio-code-server)
-- [Ways to Download Files Using Selenium Webdrive](ways-to-download-files-using-selenium-webdrive)
 - [Python in Browser](python-in-browser)
 - [Send Emails in Python](send-emails-in-python)
 - [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
 - [Quickly Build a Restful Service](quickly-build-a-restful-service)
-- [Firebug Is Awsome](firebug-is-awsome)
 - [Test Internet Speed](test-internet-speed)
 - [Find Out Proxy in Use](find-out-proxy-in-use)
 ```
 
 ## Docker
 ```{dropdown} Click to expand/collapse 52 links
+- [Environment Variables in Docker](environment-variables-in-docker)
+- [Docker Images for Shadowsocks](docker-images-for-shadowsocks)
+- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
+- [Docker Images for Notebooks](docker-images-for-notebooks)
+- [Using Bash in Docker](using-bash-in-docker)
+- [Docker on Mac](docker-on-mac)
+- [User in Docker](user-in-docker)
+- [Use Snap Apps in Docker](use-snap-apps-in-docker)
+- [Docker Issues and Solutions](docker-issues-and-solutions)
+- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
 - [Multiprocessing Issues in Docker](multiprocessing-issues-in-docker)
 - [Tips on docker-py Library](tips-on-docker-py-library)
 - [Tips on LXD](tips-on-lxd)
@@ -3845,22 +3855,17 @@ site:
 - [Packaging Python Dependencies for PySpark Using python-build-standalone](packaging-python-dependencies-for-pyspark-using-python-build-standalone)
 - [Run Docker Containers Inside a Docker Container](run-docker-containers-inside-a-docker-container)
 - [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
-- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
 - [Build Docker Images Using Kaniko](build-docker-images-using-kaniko)
 - [Fix Authentication Error of GitHub Repositories on DockerHub](fix-authentication-error-of-github-repositories-on-dockerhub)
 - [My Configuration Script for Docker Containers Based on dclong/jupyterhub-ds](my-configuration-script-for-docker-containers-based-on-dclong-jupyterhub-ds)
 - [General Tips for Docker](general-tips-for-docker)
-- [Environment Variables in Docker](environment-variables-in-docker)
 - [Docker Images for OS](docker-images-for-os)
 - [Deleting Docker Image Tags on DockerHub using the Python Module requests](deleting-docker-image-tags-on-dockerhub-using-the-python-module-requests)
-- [Using Bash in Docker](using-bash-in-docker)
 - [Manage Docker Images and Containers](manage-docker-images-and-containers)
 - [Install Docker](install-docker)
 - [Docker in WSL 2](docker-in-wsl-2)
 - [My Docker Images](my-docker-images)
 - [Tips on Multipass](tips-on-multipass)
-- [Docker Issues and Solutions](docker-issues-and-solutions)
-- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
 - [Schedule Cron Tasks in a Docker Container](schedule-cron-tasks-in-a-docker-container)
 - [The Non-Zero Exit Code 137 While Building a Docker Image](the-non-zero-exit-code-137-while-building-a-docker-image)
 - [Tips on Creating Docker Images](tips-on-creating-docker-images)
@@ -3870,20 +3875,73 @@ site:
 - [Docker Images for Programming Languages](docker-images-for-programming-languages)
 - [Speedup Docker Pulling and Pushing](speedup-docker-pulling-and-pushing)
 - [Save Docker Image in Another Location](save-docker-image-in-another-location)
-- [Docker on Mac](docker-on-mac)
-- [User in Docker](user-in-docker)
-- [Use Snap Apps in Docker](use-snap-apps-in-docker)
 - [Docker Images for Database](docker-images-for-database)
 - [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
 - [Docker Images for Zeppelin](docker-images-for-zeppelin)
 - [Docker Images for Visualization](docker-images-for-visualization)
 - [Docker Images for Synchronization](docker-images-for-synchronization)
-- [Docker Images for Notebooks](docker-images-for-notebooks)
-- [Docker Images for Shadowsocks](docker-images-for-shadowsocks)
+```
+
+## deep learning
+```{dropdown} Click to expand/collapse 51 links
+- [Entropy](entropy)
+- [Pretrained Deep Learning Models](pretrained-deep-learning-models)
+- [Ways to Enable and Disable Gradient in PyTorch](ways-to-enable-and-disable-gradient-in-pytorch)
+- [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
+- [Delete a Layer in a Pretrained Model in PyTorch](delete-a-layer-in-a-pretrained-model-in-pytorch)
+- [Adaptive Pooling in PyTorch](adaptive-pooling-in-pytorch)
+- [Reduce Memory Needed to Train Deep Learning Models](reduce-memory-needed-to-train-deep-learning-models)
+- [Preparing Data for AI](preparing-data-for-ai)
+- [Tips on Deep Graph Learning](tips-on-deep-graph-learning)
+- [Save and Load PyTorch Models](save-and-load-pytorch-models)
+- [JIT and Domain Specific Compilers](jit-and-domain-specific-compilers)
+- [Visualization for AI Concepts](visualization-for-ai-concepts)
+- [Deep Learning Libraries for Dialog Systems and Chatbots](deep-learning-libraries-for-dialog-systems-and-chatbots)
+- [Study Notes on Knowledge Graph](study-notes-on-knowledge-graph)
+- [Compute Vision Tasks](compute-vision-tasks)
+- [Benchmark of Popular Deep Learning Models](benchmark-of-popular-deep-learning-models)
+- [Fake Face Using AI](fake-face-using-ai)
+- [Tips on ONNX](tips-on-onnx)
+- [Retrieval-Augmented Generation for LLM](retrieval-augmented-generation-for-llm)
+- [Fine-Tune LLM](fine-tune-llm)
+- [Tensor Transformations in TorchVision](tensor-transformations-in-torchvision)
+- [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
+- [Pad a Sequence in Python](pad-a-sequence-in-python)
+- [Resize a Tensor in PyTorch](resize-a-tensor-in-pytorch)
+- [Move a Tensor to a Specific Device in PyTorch](move-a-tensor-to-a-specific-device-in-pytorch)
+- [Tips on Dataset in PyTorch](tips-on-dataset-in-pytorch)
+- [Hands on Tensor in PyTorch](hands-on-tensor-in-pytorch)
+- [Keywords Extracting from Text](keywords-extracting-from-text)
+- [Terminologies and Concepts in NLP](terminologies-and-concepts-in-nlp)
+- [SLIDE: Sub-Linear Deep Learning Engine](slide-sub-linear-deep-learning-engine)
+- [Rust for Machine Learning](rust-for-machine-learning)
+- [Hardware for AI](hardware-for-ai)
+- [Training Deep Neural Networks](training-deep-neural-networks)
+- [Data for Computer Vision Research](data-for-computer-vision-research)
+- [Common Issues in PyTorch](common-issues-in-pytorch)
+- [Use PyTorch on GPU](use-pytorch-on-gpu)
+- [Data for NLP Research](data-for-nlp-research)
+- [Device Managment in PyTorch](device-managment-in-pytorch)
+- [Make Your Model Training Reproducible in PyTorch](make-your-model-training-reproducible-in-pytorch)
+- [Tips on the Transformers Python Library for NLP](tips-on-the-transformers-python-library-for-nlp)
+- [Tokenization in NLP](tokenization-in-nlp)
+- [Subword Algorithms for NLP](subword-algorithms-for-nlp)
+- [Difference Between forward and __call__ Methods of a Module in PyTorch](difference-between-forward-and-__call__-methods-of-a-module-in-pytorch)
+- [Voice Recognition](voice-recognition)
+- [Popular and Useful Modules and Functions in PyTorch](popular-and-useful-modules-and-functions-in-pytorch)
+- [Number Precision in Deep Learning](number-precision-in-deep-learning)
+- [Tips on TVM](tips-on-tvm)
+- [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
+- [Tips on AutoGluon](tips-on-autogluon)
+- [Resizing and Padding for Image Recognition](resizing-and-padding-for-image-recognition)
+- [Deep Learning Tools and Apps](deep-learning-tools-and-apps)
 ```
 
 ## issue
 ```{dropdown} Click to expand/collapse 51 links
+- [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
+- [Docker Issues and Solutions](docker-issues-and-solutions)
+- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
 - [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args-0-from-__newobj__-args-has-the-wrong-class)
 - [Multiprocessing Issues in Docker](multiprocessing-issues-in-docker)
 - [Tips on Sqlfluff](tips-on-sqlfluff)
@@ -3897,7 +3955,6 @@ site:
 - [Spark Issue: InsertOperationConflictException: Failed to Hold Insert Operation Lock](spark-issue-insertoperationconflictexception-failed-to-hold-insert-operation-lock)
 - [Spark Issue: AccessControlException: Permission Denied](spark-issue-accesscontrolexception-permission-denied)
 - [Spark Issue: Pure Python Code Errors](spark-issue-pure-python-code-errors)
-- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
 - [PackageKitD Uses Too Much CPU or Disk IO](packagekitd-uses-too-much-cpu-or-disk-io)
 - [Spark Issue Libc Not Found](spark-issue-libc-not-found)
 - [Spark Issue: TypeError WithReplacement](spark-issue-typeerror-withreplacement)
@@ -3921,7 +3978,6 @@ site:
 - [Spark Issue: InvalidInputException for Some Hive Data Partitions](spark-issue-invalidinputexception-for-some-hive-data-partitions)
 - [Permission Issues when Installing Softwares in Linux](permission-issues-when-installing-softwares-in-linux)
 - [PCIe BUS Error: Severity=Corrected, Type=Physical Layer](pcie-bus-error-severity-corrected-type-physical-layer)
-- [Docker Issues and Solutions](docker-issues-and-solutions)
 - [Common Issues in PyTorch](common-issues-in-pytorch)
 - [Spark Issue: Mac spark-shell Error Initializing SparkContext](spark-issue-mac-spark-shell-error-initializing-sparkcontext)
 - [Spark Issue: High Disk and Memory Spill When Doing Shuffle](spark-issue-high-disk-and-memory-spill-when-doing-shuffle)
@@ -3931,79 +3987,13 @@ site:
 - [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
 - [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
 - [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
-- [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
 - [Fix Package Installation Issue in Linux](fix-package-installation-issue-in-linux)
 - [Zeppelin Issues and Solutions](zeppelin-issues-and-solutions)
 - [Issues in Scala](issues-in-scala)
 ```
 
-## deep learning
-```{dropdown} Click to expand/collapse 51 links
-- [Ways to Enable and Disable Gradient in PyTorch](ways-to-enable-and-disable-gradient-in-pytorch)
-- [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
-- [Delete a Layer in a Pretrained Model in PyTorch](delete-a-layer-in-a-pretrained-model-in-pytorch)
-- [Adaptive Pooling in PyTorch](adaptive-pooling-in-pytorch)
-- [Reduce Memory Needed to Train Deep Learning Models](reduce-memory-needed-to-train-deep-learning-models)
-- [Preparing Data for AI](preparing-data-for-ai)
-- [Tips on Deep Graph Learning](tips-on-deep-graph-learning)
-- [Save and Load PyTorch Models](save-and-load-pytorch-models)
-- [JIT and Domain Specific Compilers](jit-and-domain-specific-compilers)
-- [Visualization for AI Concepts](visualization-for-ai-concepts)
-- [Deep Learning Libraries for Dialog Systems and Chatbots](deep-learning-libraries-for-dialog-systems-and-chatbots)
-- [Study Notes on Knowledge Graph](study-notes-on-knowledge-graph)
-- [Pretrained Deep Learning Models](pretrained-deep-learning-models)
-- [Compute Vision Tasks](compute-vision-tasks)
-- [Benchmark of Popular Deep Learning Models](benchmark-of-popular-deep-learning-models)
-- [Fake Face Using AI](fake-face-using-ai)
-- [Tips on ONNX](tips-on-onnx)
-- [Retrieval-Augmented Generation for LLM](retrieval-augmented-generation-for-llm)
-- [Fine-Tune LLM](fine-tune-llm)
-- [Tensor Transformations in TorchVision](tensor-transformations-in-torchvision)
-- [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
-- [Pad a Sequence in Python](pad-a-sequence-in-python)
-- [Resize a Tensor in PyTorch](resize-a-tensor-in-pytorch)
-- [Move a Tensor to a Specific Device in PyTorch](move-a-tensor-to-a-specific-device-in-pytorch)
-- [Tips on Dataset in PyTorch](tips-on-dataset-in-pytorch)
-- [Hands on Tensor in PyTorch](hands-on-tensor-in-pytorch)
-- [Keywords Extracting from Text](keywords-extracting-from-text)
-- [Terminologies and Concepts in NLP](terminologies-and-concepts-in-nlp)
-- [SLIDE: Sub-Linear Deep Learning Engine](slide-sub-linear-deep-learning-engine)
-- [Rust for Machine Learning](rust-for-machine-learning)
-- [Hardware for AI](hardware-for-ai)
-- [Entropy](entropy)
-- [Training Deep Neural Networks](training-deep-neural-networks)
-- [Data for Computer Vision Research](data-for-computer-vision-research)
-- [Common Issues in PyTorch](common-issues-in-pytorch)
-- [Use PyTorch on GPU](use-pytorch-on-gpu)
-- [Data for NLP Research](data-for-nlp-research)
-- [Device Managment in PyTorch](device-managment-in-pytorch)
-- [Make Your Model Training Reproducible in PyTorch](make-your-model-training-reproducible-in-pytorch)
-- [Tips on the Transformers Python Library for NLP](tips-on-the-transformers-python-library-for-nlp)
-- [Tokenization in NLP](tokenization-in-nlp)
-- [Subword Algorithms for NLP](subword-algorithms-for-nlp)
-- [Difference Between forward and __call__ Methods of a Module in PyTorch](difference-between-forward-and-__call__-methods-of-a-module-in-pytorch)
-- [Voice Recognition](voice-recognition)
-- [Popular and Useful Modules and Functions in PyTorch](popular-and-useful-modules-and-functions-in-pytorch)
-- [Number Precision in Deep Learning](number-precision-in-deep-learning)
-- [Tips on TVM](tips-on-tvm)
-- [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
-- [Tips on AutoGluon](tips-on-autogluon)
-- [Resizing and Padding for Image Recognition](resizing-and-padding-for-image-recognition)
-- [Deep Learning Tools and Apps](deep-learning-tools-and-apps)
-```
-
 ## Statistics
 ```{dropdown} Click to expand/collapse 47 links
-- [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
-- [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
-- [Chance to Take One's Own Seat?](chance-to-take-one-s-own-seat)
-- [How Many People Stay in the Same Position?](how-many-people-stay-in-the-same-position)
-- [Number of Records?](number-of-records)
-- [How Many Balls Do We Need?](how-many-balls-do-we-need)
-- [Probability to Get a Complete Deck of Cards?](probability-to-get-a-complete-deck-of-cards)
-- [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
-- [Randomly Select an Integer?!](randomly-select-an-integer)
-- [Don't Do Statistics If You Don't Really Undestand It](don-t-do-statistics-if-you-don-t-really-undestand-it)
 - [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
 - [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
 - [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
@@ -4014,33 +4004,43 @@ site:
 - [Experiment Design](experiment-design)
 - [Loss Functions for Machine Learning Models](loss-functions-for-machine-learning-models)
 - [Ensemble Machine Learning Models](ensemble-machine-learning-models)
+- [Classification](classification)
+- [Variance and Dispersion Estimate in Genetics](variance-and-dispersion-estimate-in-genetics)
+- [Regression Classification ANOVA](regression-classification-anova)
+- [Estimate FDR](estimate-fdr)
+- [Sampling Methods](sampling-methods)
+- [Matrix Decomposition](matrix-decomposition)
+- [Entropy](entropy)
+- [Effect of Duplicating Observations in Linear Models](effect-of-duplicating-observations-in-linear-models)
 - [Statistics](statistics)
+- [AI Learning](ai-learning)
+- [Stick Breaking Paradox](stick-breaking-paradox)
 - [The Unfair Wager Problem](the-unfair-wager-problem)
+- [Bayesian vs Frequentist](bayesian-vs-frequentist)
 - [Time Series Analysis](time-series-analysis)
+- [AR1X Process](ar1x-process)
+- [Make Inference Using Bootstrap](make-inference-using-bootstrap)
 - [Tools for A/B Testing](tools-for-a-b-testing)
+- [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
+- [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
 - [Inverse of a Special Class of Matrices with High Dimensions](inverse-of-a-special-class-of-matrices-with-high-dimensions)
 - [The Power of Generating Functions](the-power-of-generating-functions)
+- [Stick Breaking Problems](stick-breaking-problems)
+- [Don't Do Statistics If You Don't Really Undestand It](don-t-do-statistics-if-you-don-t-really-undestand-it)
+- [Chance to Take One's Own Seat?](chance-to-take-one-s-own-seat)
+- [How Many People Stay in the Same Position?](how-many-people-stay-in-the-same-position)
+- [Number of Records?](number-of-records)
+- [How Many Balls Do We Need?](how-many-balls-do-we-need)
+- [Probability to Get a Complete Deck of Cards?](probability-to-get-a-complete-deck-of-cards)
+- [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
 - [Summary on Random Number Generators](summary-on-random-number-generators)
 - [Probability to Lose All Money](probability-to-lose-all-money)
 - [Expected Gain of Tossing a Dice](expected-gain-of-tossing-a-dice)
-- [Classification](classification)
+- [Basketball Player](basketball-player)
+- [Randomly Select an Integer?!](randomly-select-an-integer)
+- [Calculate Covariance Between Multinomial Categories by Hand](calculate-covariance-between-multinomial-categories-by-hand)
 - [Bootstrap Resampling in Python](bootstrap-resampling-in-python)
 - [Construct Confidence Intervals Using Jackknife](construct-confidence-intervals-using-jackknife)
-- [Entropy](entropy)
-- [Effect of Duplicating Observations in Linear Models](effect-of-duplicating-observations-in-linear-models)
-- [AI Learning](ai-learning)
-- [Sampling Methods](sampling-methods)
-- [Bayesian vs Frequentist](bayesian-vs-frequentist)
-- [Make Inference Using Bootstrap](make-inference-using-bootstrap)
-- [AR1X Process](ar1x-process)
-- [Variance and Dispersion Estimate in Genetics](variance-and-dispersion-estimate-in-genetics)
-- [Stick Breaking Problems](stick-breaking-problems)
-- [Stick Breaking Paradox](stick-breaking-paradox)
-- [Basketball Player](basketball-player)
-- [Calculate Covariance Between Multinomial Categories by Hand](calculate-covariance-between-multinomial-categories-by-hand)
-- [Matrix Decomposition](matrix-decomposition)
-- [Estimate FDR](estimate-fdr)
-- [Regression Classification ANOVA](regression-classification-anova)
 ```
 
 ## SQL
@@ -4188,7 +4188,7 @@ site:
 - [Spark Issue: UriSyntaxException](spark-issue-urisyntaxexception)
 ```
 
-## os | OS
+## OS
 ```{dropdown} Click to expand/collapse 43 links
 - [Run System Command in Go](run-system-command-in-go)
 - [Get the Type of OS in Golang](get-the-type-of-os-in-golang)
@@ -4235,13 +4235,16 @@ site:
 - [Turn on Remote Login in Mac](turn-on-remote-login-in-mac)
 ```
 
-## shell | Shell
+## shell
 ```{dropdown} Click to expand/collapse 41 links
+- [Using Bash in Docker](using-bash-in-docker)
 - [Tips on the Shell command ps](tips-on-the-shell-command-ps)
 - [Run Shell Command in Rust](run-shell-command-in-rust)
 - [Shell in Docker](shell-in-docker)
 - [Tips on Windows Terminal](tips-on-windows-terminal)
 - [Dot Is Not Recognized as An Internal or External Command](dot-is-not-recognized-as-an-internal-or-external-command)
+- [Rust and Spark](rust-and-spark)
+- [Sudo: No TTY Present and No AskPass Program Specified](sudo-no-tty-present-and-no-askpass-program-specified)
 - [Get OS and Architecture Information in Shell](get-os-and-architecture-information-in-shell)
 - [Shell Command Parser](shell-command-parser)
 - [Tips on fd](tips-on-fd)
@@ -4255,41 +4258,39 @@ site:
 - [Transform Text Using sed](transform-text-using-sed)
 - [Hands on the Python module subprocess](hands-on-the-python-module-subprocess)
 - [Advanced Use of head and tail](advanced-use-of-head-and-tail)
-- [Using Bash in Docker](using-bash-in-docker)
+- [Special Characters to Avoid in Strings](special-characters-to-avoid-in-strings)
 - [Python Alternatives to Shell](python-alternatives-to-shell)
 - [Advanced Use of ls in Linux](advanced-use-of-ls-in-linux)
 - [WaveTerm Is the Best Terminal App](waveterm-is-the-best-terminal-app)
+- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
 - [Change Shell in Mac](change-shell-in-mac)
+- [IPython Is the Best Shell](ipython-is-the-best-shell)
 - [JavaScript Alternatives to Shell](javascript-alternatives-to-shell)
 - [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
 - [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
+- [Run Commands on Remote Machines](run-commands-on-remote-machines)
 - [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
 - [Print Rows from a Text File](print-rows-from-a-text-file)
+- [Use the Watch Command to Monitor Running Applications](use-the-watch-command-to-monitor-running-applications)
 - [Hands on the highlight command](hands-on-the-highlight-command)
 - [Tips on Xonsh](tips-on-xonsh)
 - [Calling Shell from Python](calling-shell-from-python)
+- [Parallel Computing in Shell](parallel-computing-in-shell)
 - [Preferred Python Version in Shebang](preferred-python-version-in-shebang)
 - [Sample Lines from a File Using Command Line](sample-lines-from-a-file-using-command-line)
-- [Rust and Spark](rust-and-spark)
-- [Sudo: No TTY Present and No AskPass Program Specified](sudo-no-tty-present-and-no-askpass-program-specified)
-- [Special Characters to Avoid in Strings](special-characters-to-avoid-in-strings)
-- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
-- [IPython Is the Best Shell](ipython-is-the-best-shell)
-- [Run Commands on Remote Machines](run-commands-on-remote-machines)
-- [Use the Watch Command to Monitor Running Applications](use-the-watch-command-to-monitor-running-applications)
-- [Parallel Computing in Shell](parallel-computing-in-shell)
 ```
 
-## error | ERROR
+## error
 ```{dropdown} Click to expand/collapse 39 links
+- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
 - [Rust Error: error[E0554]: `#![feature]` May Not Be Used on the Stable Release Channel](rust-error-error-e0554-feature-may-not-be-used-on-the-stable-release-channel)
 - [Tips on Sqlfluff](tips-on-sqlfluff)
 - [Error Handling in Rust](error-handling-in-rust)
+- [Configure Log4J for Spark](configure-log4j-for-spark)
 - [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
 - [ModuleNotFoundError: No Module Named _Ctypes in Python](modulenotfounderror-no-module-named-_ctypes-in-python)
 - [A Comprehensive List of Common Issues in Spark Applications](a-comprehensive-list-of-common-issues-in-spark-applications)
 - [Spark Issue: Pure Python Code Errors](spark-issue-pure-python-code-errors)
-- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
 - [Spark Issue: GetQuotaUsage](spark-issue-getquotausage)
 - [Spark Issue: ViewFs: Cannot Initialize: Empty Mount Table in Config](spark-issue-viewfs-cannot-initialize-empty-mount-table-in-config)
 - [Spark Issue: Runtimeerror: Arrow Legacy IPC Format Is Not Supported](spark-issue-runtimeerror-arrow-legacy-ipc-format-is-not-supported)
@@ -4320,11 +4321,15 @@ site:
 - [Exception Error and Critical](exception-error-and-critical)
 - [Zeppelin Issues and Solutions](zeppelin-issues-and-solutions)
 - [Common Errors in Bibliographies](common-errors-in-bibliographies)
-- [Configure Log4J for Spark](configure-log4j-for-spark)
 ```
 
-## image | Image
+## image
 ```{dropdown} Click to expand/collapse 35 links
+- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
+- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
+- [Tips on Preview in macOS](tips-on-preview-in-macos)
+- [Get Coordinates of Points on a Screen or Image](get-coordinates-of-points-on-a-screen-or-image)
+- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
 - [Hands on the Python Library pdfplumber](hands-on-the-python-library-pdfplumber)
 - [Convert PDF to Image Using Python](convert-pdf-to-image-using-python)
 - [Computer Vision Libraries in Rust](computer-vision-libraries-in-rust)
@@ -4333,15 +4338,12 @@ site:
 - [Extracting Data from PDF Files](extracting-data-from-pdf-files)
 - [Tips on Toolbx](tips-on-toolbx)
 - [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
-- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
 - [Build Docker Images Using Kaniko](build-docker-images-using-kaniko)
 - [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
 - [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
 - [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
 - [Compare Images Using Python](compare-images-using-python)
-- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
 - [Rotate an Image Using Pillow in Python](rotate-an-image-using-pillow-in-python)
-- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
 - [Image Filters in Pillow](image-filters-in-pillow)
 - [Hands-on the ImageChops class in Pillow in Python](hands-on-the-imagechops-class-in-pillow-in-python)
 - [Python Scripting for Blender](python-scripting-for-blender)
@@ -4353,25 +4355,27 @@ site:
 - [Extract Images from Video Using OpenCV in Python](extract-images-from-video-using-opencv-in-python)
 - [Deleting Docker Image Tags on DockerHub using the Python Module requests](deleting-docker-image-tags-on-dockerhub-using-the-python-module-requests)
 - [Tips on Matplotlib](tips-on-matplotlib)
-- [Tips on Preview in macOS](tips-on-preview-in-macos)
+- [Convert PDF to EPS](convert-pdf-to-eps)
 - [Tips on Creating Docker Images](tips-on-creating-docker-images)
 - [Tips on Pillow](tips-on-pillow)
 - [Show Image in Terminal](show-image-in-terminal)
-- [Get Coordinates of Points on a Screen or Image](get-coordinates-of-points-on-a-screen-or-image)
 - [Graphics in LaTeX](graphics-in-latex)
-- [Convert PDF to EPS](convert-pdf-to-eps)
 ```
 
-## Golang | GoLANG | GoLang
+## golang
 ```{dropdown} Click to expand/collapse 31 links
 - [Manipulate Strings Using the `strings` Module in Golang](manipulate-strings-using-the-strings-module-in-golang)
+- [Tips on Golang](tips-on-golang)
 - [Strings in Golang Are UTF-8](strings-in-golang-are-utf-8)
 - [String in Golang](string-in-golang)
+- [Run System Command in Go](run-system-command-in-go)
+- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
 - [Hands on the Standard Library HTTP in Golang](hands-on-the-standard-library-http-in-golang)
 - [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
 - [Hands on Array in Golang](hands-on-array-in-golang)
 - [Get Information of User in Golang](get-information-of-user-in-golang)
 - [Format Strings in Golang](format-strings-in-golang)
+- [Embed File in Golang Binary](embed-file-in-golang-binary)
 - [Get Directory Information in Golang](get-directory-information-in-golang)
 - [Tuple in Golang](tuple-in-golang)
 - [Set in Golang](set-in-golang)
@@ -4388,13 +4392,43 @@ site:
 - [Check Whether a File Is a Socket in Golang](check-whether-a-file-is-a-socket-in-golang)
 - [Parse TOML Files in Golang](parse-toml-files-in-golang)
 - [Ordered Map in Golang](ordered-map-in-golang)
-- [Useful Golang Packages](useful-golang-packages)
-- [Tips on Golang](tips-on-golang)
-- [Run System Command in Go](run-system-command-in-go)
-- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
-- [Embed File in Golang Binary](embed-file-in-golang-binary)
-- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
 - [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
+- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
+- [Useful Golang Packages](useful-golang-packages)
+```
+
+## macOS
+```{dropdown} Click to expand/collapse 30 links
+- [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
+- [Tips on Preview in macOS](tips-on-preview-in-macos)
+- [Get Coordinates of Points on a Screen or Image](get-coordinates-of-points-on-a-screen-or-image)
+- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
+- [Get the Number of Cores in macOS](get-the-number-of-cores-in-macos)
+- [Remove System Applications in macOS](remove-system-applications-in-macos)
+- [Quickly Open a Directory in Terminal in Mac](quickly-open-a-directory-in-terminal-in-mac)
+- [Add New Document to Right-Click Menu in Mac](add-new-document-to-right-click-menu-in-mac)
+- [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
+- [Enable and Disable Key Repeating in macOS](enable-and-disable-key-repeating-in-macos)
+- [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
+- [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
+- [Local Network Access on macOS](local-network-access-on-macos)
+- [Tips on macOS](tips-on-macos)
+- [Shortcuts in macOS](shortcuts-in-macos)
+- [Tips on MacPorts](tips-on-macports)
+- [Install Packages Using Homebrew on macOS and Linux](install-packages-using-homebrew-on-macos-and-linux)
+- [Install Python in macOS](install-python-in-macos)
+- [Mount NTFS Drive Manually on Mac](mount-ntfs-drive-manually-on-mac)
+- [Change Shell in Mac](change-shell-in-mac)
+- [Install GNU Utils Using Homebrew](install-gnu-utils-using-homebrew)
+- [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
+- [Things to Do After Reimaging Mac](things-to-do-after-reimaging-mac)
+- [Map Keys in macOS](map-keys-in-macos)
+- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
+- [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
+- [Mirroring Screen from iPhone or iPad to Macbook](mirroring-screen-from-iphone-or-ipad-to-macbook)
+- [Fix Xcrun Error in Mac](fix-xcrun-error-in-mac)
+- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
+- [Mount Samba on Mac](mount-samba-on-mac)
 ```
 
 ## Kotlin
@@ -4431,38 +4465,103 @@ site:
 - [Differences Between Kotlin and Java](differences-between-kotlin-and-java)
 ```
 
-## macOS
-```{dropdown} Click to expand/collapse 30 links
-- [Get the Number of Cores in macOS](get-the-number-of-cores-in-macos)
-- [Remove System Applications in macOS](remove-system-applications-in-macos)
-- [Quickly Open a Directory in Terminal in Mac](quickly-open-a-directory-in-terminal-in-mac)
-- [Add New Document to Right-Click Menu in Mac](add-new-document-to-right-click-menu-in-mac)
-- [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
-- [Enable and Disable Key Repeating in macOS](enable-and-disable-key-repeating-in-macos)
-- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
-- [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
-- [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
+## network
+```{dropdown} Click to expand/collapse 29 links
+- [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
+- [Linux Network Tools](linux-network-tools)
+- [Network in Docker Containers](network-in-docker-containers)
+- [Hands on the Graphlib Module in Python](hands-on-the-graphlib-module-in-python)
+- [Tips on NetworkX](tips-on-networkx)
+- [Tips on XFinity](tips-on-xfinity)
+- [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
+- [Tips on Websockets](tips-on-websockets)
+- [Tips on sshuttle](tips-on-sshuttle)
+- [Tips on Nmap](tips-on-nmap)
+- [Tips on Network Protocols](tips-on-network-protocols)
+- [Tips on HTTP](tips-on-http)
+- [Surf Web Anonymously](surf-web-anonymously)
+- [IP Address and Subnets](ip-address-and-subnets)
+- [Tips on arp-scan](tips-on-arp-scan)
+- [Configure Static IP Using XFinity Router](configure-static-ip-using-xfinity-router)
+- [Expose Local Service to Public](expose-local-service-to-public)
 - [Local Network Access on macOS](local-network-access-on-macos)
-- [Tips on macOS](tips-on-macos)
-- [Shortcuts in macOS](shortcuts-in-macos)
-- [Tips on MacPorts](tips-on-macports)
-- [Install Packages Using Homebrew on macOS and Linux](install-packages-using-homebrew-on-macos-and-linux)
-- [Install Python in macOS](install-python-in-macos)
-- [Mount NTFS Drive Manually on Mac](mount-ntfs-drive-manually-on-mac)
-- [Change Shell in Mac](change-shell-in-mac)
-- [Tips on Preview in macOS](tips-on-preview-in-macos)
-- [Install GNU Utils Using Homebrew](install-gnu-utils-using-homebrew)
-- [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
-- [Things to Do After Reimaging Mac](things-to-do-after-reimaging-mac)
-- [Map Keys in macOS](map-keys-in-macos)
-- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
-- [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
-- [Get Coordinates of Points on a Screen or Image](get-coordinates-of-points-on-a-screen-or-image)
-- [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
-- [Mirroring Screen from iPhone or iPad to Macbook](mirroring-screen-from-iphone-or-ipad-to-macbook)
-- [Fix Xcrun Error in Mac](fix-xcrun-error-in-mac)
-- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
-- [Mount Samba on Mac](mount-samba-on-mac)
+- [Hands on the urllib Module in Python](hands-on-the-urllib-module-in-python)
+- [Download Files from the Internet in Python](download-files-from-the-internet-in-python)
+- [Hands on the requests Module in Python](hands-on-the-requests-module-in-python)
+- [Tips on Network](tips-on-network)
+- [Convert a Socks Proxy to a HTTP Proxy](convert-a-socks-proxy-to-a-http-proxy)
+- [Proxy for sudo](proxy-for-sudo)
+- [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
+- [Escape from the Great Firewall of China](escape-from-the-great-firewall-of-china)
+- [Quickly Build a Restful Service](quickly-build-a-restful-service)
+- [WebRTC](webrtc)
+- [A Secure Way to Use Vino in Debian](a-secure-way-to-use-vino-in-debian)
+```
+
+## IDE
+```{dropdown} Click to expand/collapse 29 links
+- [Tips on IDE](tips-on-ide)
+- [Visual Studio Code Server](visual-studio-code-server)
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [AI-based Code Completion Tools](ai-based-code-completion-tools)
+- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
+- [Tips on Python-Language-Server](tips-on-python-language-server)
+- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
+- [IDE for Rust](ide-for-rust)
+- [Tips on NeoVim](tips-on-neovim)
+- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
+- [Tips on the Zed IDE](tips-on-the-zed-ide)
+- [Tips on AstroNvim](tips-on-astronvim)
+- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
+- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
+- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
+- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
+- [TeXstudio, Bravo!](texstudio-bravo)
+- [General Tips on SQL](general-tips-on-sql)
+- [Python Developing in PyCharm](python-developing-in-pycharm)
+- [Typing Chinese in Vim](typing-chinese-in-vim)
+- [Show Inferred Type in IntelliJ IDEA](show-inferred-type-in-intellij-idea)
+- [Tips on dbeaver](tips-on-dbeaver)
+- [IDEs for LaTeX](ides-for-latex)
+- [Tips on Visual Studio Code](tips-on-visual-studio-code)
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+- [IDE for SQL](ide-for-sql)
+- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
+- [IntelliJ IDEA Tips](intellij-idea-tips)
+- [Start RStudio Server After Upgrading](start-rstudio-server-after-upgrading)
+```
+
+## investment
+```{dropdown} Click to expand/collapse 29 links
+- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
+- [Low Risk Investments](low-risk-investments)
+- [Rust for Financial Investment](rust-for-financial-investment)
+- [Tax in US](tax-in-us)
+- [Investment](investment)
+- [Tips on Retirement](tips-on-retirement)
+- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
+- [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
+- [Tips on Brokerage](tips-on-brokerage)
+- [Tips on Earnings Report](tips-on-earnings-report)
+- [Quant Trading](quant-trading)
+- [Tips on Charles Schwab](tips-on-charles-schwab)
+- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
+- [Shorting the Market](shorting-the-market)
+- [Tips on Investing in Structure Notes](tips-on-investing-in-structure-notes)
+- [Tips on Money Market Fund](tips-on-money-market-fund)
+- [Tips on Robinhood](tips-on-robinhood)
+- [Tips on Pattern Day Trading](tips-on-pattern-day-trading)
+- [Taxes on Investment Gains](taxes-on-investment-gains)
+- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
+- [Foreign Currency Investment](foreign-currency-investment)
+- [Diversified Investment](diversified-investment)
+- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
+- [Tips on Fidelity](tips-on-fidelity)
+- [Tips on Wash Sale](tips-on-wash-sale)
+- [Tips on Lumibot](tips-on-lumibot)
+- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
+- [Tips on Certified Deposit](tips-on-certified-deposit)
+- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
 ```
 
 ## string
@@ -4498,107 +4597,10 @@ site:
 - [Java Features](java-features)
 ```
 
-## network | Network
-```{dropdown} Click to expand/collapse 29 links
-- [Hands on the Graphlib Module in Python](hands-on-the-graphlib-module-in-python)
-- [Tips on NetworkX](tips-on-networkx)
-- [Tips on XFinity](tips-on-xfinity)
-- [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
-- [Tips on Websockets](tips-on-websockets)
-- [Tips on sshuttle](tips-on-sshuttle)
-- [Tips on Nmap](tips-on-nmap)
-- [Tips on Network Protocols](tips-on-network-protocols)
-- [Tips on HTTP](tips-on-http)
-- [Surf Web Anonymously](surf-web-anonymously)
-- [IP Address and Subnets](ip-address-and-subnets)
-- [Tips on arp-scan](tips-on-arp-scan)
-- [Configure Static IP Using XFinity Router](configure-static-ip-using-xfinity-router)
-- [Expose Local Service to Public](expose-local-service-to-public)
-- [Local Network Access on macOS](local-network-access-on-macos)
-- [Hands on the urllib Module in Python](hands-on-the-urllib-module-in-python)
-- [Download Files from the Internet in Python](download-files-from-the-internet-in-python)
-- [Hands on the requests Module in Python](hands-on-the-requests-module-in-python)
-- [Tips on Network](tips-on-network)
-- [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
-- [Convert a Socks Proxy to a HTTP Proxy](convert-a-socks-proxy-to-a-http-proxy)
-- [Linux Network Tools](linux-network-tools)
-- [Network in Docker Containers](network-in-docker-containers)
-- [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
-- [Escape from the Great Firewall of China](escape-from-the-great-firewall-of-china)
-- [Quickly Build a Restful Service](quickly-build-a-restful-service)
-- [WebRTC](webrtc)
-- [A Secure Way to Use Vino in Debian](a-secure-way-to-use-vino-in-debian)
-- [Proxy for sudo](proxy-for-sudo)
-```
-
-## IDE
-```{dropdown} Click to expand/collapse 29 links
-- [AI-based Code Completion Tools](ai-based-code-completion-tools)
-- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
-- [Tips on Python-Language-Server](tips-on-python-language-server)
-- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
-- [IDE for Rust](ide-for-rust)
-- [Tips on NeoVim](tips-on-neovim)
-- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
-- [Tips on the Zed IDE](tips-on-the-zed-ide)
-- [Tips on AstroNvim](tips-on-astronvim)
-- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
-- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
-- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
-- [TeXstudio, Bravo!](texstudio-bravo)
-- [General Tips on SQL](general-tips-on-sql)
-- [Python Developing in PyCharm](python-developing-in-pycharm)
-- [Typing Chinese in Vim](typing-chinese-in-vim)
-- [Show Inferred Type in IntelliJ IDEA](show-inferred-type-in-intellij-idea)
-- [Tips on IDE](tips-on-ide)
-- [Tips on dbeaver](tips-on-dbeaver)
-- [IDEs for LaTeX](ides-for-latex)
-- [Tips on Visual Studio Code](tips-on-visual-studio-code)
-- [Visual Studio Code for Python](visual-studio-code-for-python)
-- [IDE for SQL](ide-for-sql)
-- [Visual Studio Code Server](visual-studio-code-server)
-- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
-- [IntelliJ IDEA Tips](intellij-idea-tips)
-- [Start RStudio Server After Upgrading](start-rstudio-server-after-upgrading)
-```
-
-## investment | Investment
-```{dropdown} Click to expand/collapse 29 links
-- [Rust for Financial Investment](rust-for-financial-investment)
-- [Tax in US](tax-in-us)
-- [Investment](investment)
-- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
-- [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
-- [Tips on Brokerage](tips-on-brokerage)
-- [Tips on Earnings Report](tips-on-earnings-report)
-- [Quant Trading](quant-trading)
-- [Shorting the Market](shorting-the-market)
-- [Tips on Investing in Structure Notes](tips-on-investing-in-structure-notes)
-- [Tips on Money Market Fund](tips-on-money-market-fund)
-- [Tips on Robinhood](tips-on-robinhood)
-- [Tips on Pattern Day Trading](tips-on-pattern-day-trading)
-- [Taxes on Investment Gains](taxes-on-investment-gains)
-- [Foreign Currency Investment](foreign-currency-investment)
-- [Diversified Investment](diversified-investment)
-- [Low Risk Investments](low-risk-investments)
-- [Tips on Fidelity](tips-on-fidelity)
-- [Tips on Wash Sale](tips-on-wash-sale)
-- [Tips on Certified Deposit](tips-on-certified-deposit)
-- [Tips on Retirement](tips-on-retirement)
-- [Tips on Charles Schwab](tips-on-charles-schwab)
-- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
-- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
-- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
-- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
-- [Tips on Lumibot](tips-on-lumibot)
-- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
-- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
-```
-
 ## C++
 ```{dropdown} Click to expand/collapse 28 links
+- [Probability to Lose All Money](probability-to-lose-all-money)
+- [Tips on IDE](tips-on-ide)
 - [Speed up Python Using Native Code](speed-up-python-using-native-code)
 - [Equivalent of C++'s std::set_difference in Rust](equivalent-of-c++-s-std-set_difference-in-rust)
 - [Tips on JSON](tips-on-json)
@@ -4610,8 +4612,6 @@ site:
 - [For Loops in C++](for-loops-in-c++)
 - [Easy-Made Mistake with C++ Iterator](easy-made-mistake-with-c++-iterator)
 - [Debug C/C++ Code Using GDB](debug-c-c++-code-using-gdb)
-- [Tips on IDE](tips-on-ide)
-- [Probability to Lose All Money](probability-to-lose-all-money)
 - [Write Portable C++ Code](write-portable-c++-code)
 - [Working with Class in C++](working-with-class-in-c++)
 - [Pointers in C++](pointers-in-c++)
@@ -4631,6 +4631,9 @@ site:
 
 ## JupyterLab
 ```{dropdown} Click to expand/collapse 28 links
+- [Tips on Jupyter Binder](tips-on-jupyter-binder)
+- [Tips on Google Colab](tips-on-google-colab)
+- [Trust a JupyterLab Notebook](trust-a-jupyterlab-notebook)
 - [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
 - [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
 - [Use Spark With Apache Toree Kernel in Juptyerlab](use-spark-with-apache-toree-kernel-in-juptyerlab)
@@ -4654,42 +4657,39 @@ site:
 - [Jupyter Notebook Kernels](jupyter-notebook-kernels)
 - [Dashboard Solutions](dashboard-solutions)
 - [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
-- [Tips on Google Colab](tips-on-google-colab)
-- [Trust a JupyterLab Notebook](trust-a-jupyterlab-notebook)
 - [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
-- [Tips on Jupyter Binder](tips-on-jupyter-binder)
 - [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
 ```
 
 ## fun problems
 ```{dropdown} Click to expand/collapse 27 links
+- [Stick Breaking Paradox](stick-breaking-paradox)
+- [The Unfair Wager Problem](the-unfair-wager-problem)
 - [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
-- [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
 - [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
+- [Inverse of a Special Class of Matrices with High Dimensions](inverse-of-a-special-class-of-matrices-with-high-dimensions)
+- [The Power of Generating Functions](the-power-of-generating-functions)
+- [Stick Breaking Problems](stick-breaking-problems)
 - [Chance to Take One's Own Seat?](chance-to-take-one-s-own-seat)
 - [How Many People Stay in the Same Position?](how-many-people-stay-in-the-same-position)
 - [Number of Records?](number-of-records)
-- [How Many Empty Boxes?](how-many-empty-boxes)
 - [How Many Balls Do We Need?](how-many-balls-do-we-need)
 - [Probability to Get a Complete Deck of Cards?](probability-to-get-a-complete-deck-of-cards)
 - [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
-- [What are the Two Integers?](what-are-the-two-integers)
-- [Creative Use of Keepassx -- Odd Skills?](creative-use-of-keepassx-odd-skills)
-- [Randomly Select an Integer?!](randomly-select-an-integer)
-- [The Unfair Wager Problem](the-unfair-wager-problem)
-- [Expected Time to Hit Zero](expected-time-to-hit-zero)
-- [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan)
-- [Inverse of a Special Class of Matrices with High Dimensions](inverse-of-a-special-class-of-matrices-with-high-dimensions)
-- [The Power of Generating Functions](the-power-of-generating-functions)
 - [Probability to Lose All Money](probability-to-lose-all-money)
 - [Expected Gain of Tossing a Dice](expected-gain-of-tossing-a-dice)
+- [Basketball Player](basketball-player)
+- [Randomly Select an Integer?!](randomly-select-an-integer)
+- [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
+- [How Many Empty Boxes?](how-many-empty-boxes)
+- [What are the Two Integers?](what-are-the-two-integers)
+- [Creative Use of Keepassx -- Odd Skills?](creative-use-of-keepassx-odd-skills)
+- [Expected Time to Hit Zero](expected-time-to-hit-zero)
+- [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan)
 - [Thread Safe Random Number Generator](thread-safe-random-number-generator)
 - [The Sum and Product Puzzle](the-sum-and-product-puzzle)
-- [Stick Breaking Problems](stick-breaking-problems)
 - [Fewest Scalings to Identify the Fake Ball](fewest-scalings-to-identify-the-fake-ball)
-- [Stick Breaking Paradox](stick-breaking-paradox)
 - [Ratio of Boy to Girl](ratio-of-boy-to-girl)
-- [Basketball Player](basketball-player)
 ```
 
 ## API
@@ -4752,7 +4752,7 @@ site:
 - [Packaging Python Dependencies for PySpark Using Pex](packaging-python-dependencies-for-pyspark-using-pex)
 ```
 
-## PyTorch | pytorch
+## PyTorch
 ```{dropdown} Click to expand/collapse 25 links
 - [Ways to Enable and Disable Gradient in PyTorch](ways-to-enable-and-disable-gradient-in-pytorch)
 - [Multiprocessing Issues in Docker](multiprocessing-issues-in-docker)
@@ -4773,12 +4773,96 @@ site:
 - [Tips on PyTorch](tips-on-pytorch)
 - [Common Issues in PyTorch](common-issues-in-pytorch)
 - [Use PyTorch on GPU](use-pytorch-on-gpu)
+- [Tips on Torchvision](tips-on-torchvision)
 - [Device Managment in PyTorch](device-managment-in-pytorch)
 - [Make Your Model Training Reproducible in PyTorch](make-your-model-training-reproducible-in-pytorch)
 - [Difference Between forward and __call__ Methods of a Module in PyTorch](difference-between-forward-and-__call__-methods-of-a-module-in-pytorch)
 - [Popular and Useful Modules and Functions in PyTorch](popular-and-useful-modules-and-functions-in-pytorch)
 - [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
-- [Tips on Torchvision](tips-on-torchvision)
+```
+
+## computer vision
+```{dropdown} Click to expand/collapse 24 links
+- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
+- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
+- [Rule-base Image Process](rule-base-image-process)
+- [Physical World Modeling and Computer Vision](physical-world-modeling-and-computer-vision)
+- [Computer Vision Libraries in Rust](computer-vision-libraries-in-rust)
+- [Compute Vision Tasks](compute-vision-tasks)
+- [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
+- [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
+- [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
+- [Compare Images Using Python](compare-images-using-python)
+- [Rotate an Image Using Pillow in Python](rotate-an-image-using-pillow-in-python)
+- [Image Filters in Pillow](image-filters-in-pillow)
+- [Hands-on the ImageChops class in Pillow in Python](hands-on-the-imagechops-class-in-pillow-in-python)
+- [Python Scripting for Blender](python-scripting-for-blender)
+- [Take Screenshots in Python](take-screenshots-in-python)
+- [Convert an Image to Differnt Modes Using Pillow in Python](convert-an-image-to-differnt-modes-using-pillow-in-python)
+- [Load Images into Pillow](load-images-into-pillow)
+- [Extract Images from Video Using OpenCV in Python](extract-images-from-video-using-opencv-in-python)
+- [Convert Format of Videos Using Using Python](convert-format-of-videos-using-using-python)
+- [Manipulate Videos Using MoviePy in Python](manipulate-videos-using-moviepy-in-python)
+- [Data for Computer Vision Research](data-for-computer-vision-research)
+- [Tips on OpenCV](tips-on-opencv)
+- [Computer Vision Tools](computer-vision-tools)
+- [Models for Computer Vision](models-for-computer-vision)
+```
+
+## money
+```{dropdown} Click to expand/collapse 24 links
+- [Probability to Lose All Money](probability-to-lose-all-money)
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
+- [Side Projects for Money](side-projects-for-money)
+- [Investment](investment)
+- [Claim Your Forgotten Money](claim-your-forgotten-money)
+- [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
+- [Tips on Brokerage](tips-on-brokerage)
+- [Tips on Earnings Report](tips-on-earnings-report)
+- [Quant Trading](quant-trading)
+- [Tips on Charles Schwab](tips-on-charles-schwab)
+- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
+- [Understanding Paychecks](understanding-paychecks)
+- [Shorting the Market](shorting-the-market)
+- [Tips on Investing in Structure Notes](tips-on-investing-in-structure-notes)
+- [Tips on Robinhood](tips-on-robinhood)
+- [Tips on Pattern Day Trading](tips-on-pattern-day-trading)
+- [Taxes on Investment Gains](taxes-on-investment-gains)
+- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
+- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
+- [Tips on Lumibot](tips-on-lumibot)
+- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
+- [Tips on eTrade](tips-on-etrade)
+- [Tips on Certified Deposit](tips-on-certified-deposit)
+```
+
+## internet
+```{dropdown} Click to expand/collapse 24 links
+- [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
+- [Tips on XFinity](tips-on-xfinity)
+- [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
+- [Tips on Websockets](tips-on-websockets)
+- [Tips on sshuttle](tips-on-sshuttle)
+- [Tips on Nmap](tips-on-nmap)
+- [Tips on Network Protocols](tips-on-network-protocols)
+- [Tips on HTTP](tips-on-http)
+- [Surf Web Anonymously](surf-web-anonymously)
+- [IP Address and Subnets](ip-address-and-subnets)
+- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
+- [Save a Web Page as a Single File in Chrome](save-a-web-page-as-a-single-file-in-chrome)
+- [Baidu Yun Tips](baidu-yun-tips)
+- [Download Files from the Internet in Python](download-files-from-the-internet-in-python)
+- [Misc Tips in Daily Life](misc-tips-in-daily-life)
+- [Tips on NFS](tips-on-nfs)
+- [Tips on Network](tips-on-network)
+- [Use External Downloader for Firefox](use-external-downloader-for-firefox)
+- [Managing Blog Comments Using Disqus](managing-blog-comments-using-disqus)
+- [Tips on httpd](tips-on-httpd)
+- [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
+- [Escape from the Great Firewall of China](escape-from-the-great-firewall-of-china)
+- [Test Internet Speed](test-internet-speed)
+- [Find Out Proxy in Use](find-out-proxy-in-use)
 ```
 
 ## GitHub
@@ -4809,36 +4893,10 @@ site:
 - [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
 ```
 
-## money
-```{dropdown} Click to expand/collapse 24 links
-- [Side Projects for Money](side-projects-for-money)
-- [Investment](investment)
-- [Probability to Lose All Money](probability-to-lose-all-money)
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Claim Your Forgotten Money](claim-your-forgotten-money)
-- [Tips on the WealthFront Brokerage](tips-on-the-wealthfront-brokerage)
-- [Tips on Brokerage](tips-on-brokerage)
-- [Tips on Earnings Report](tips-on-earnings-report)
-- [Quant Trading](quant-trading)
-- [Tips on Charles Schwab](tips-on-charles-schwab)
-- [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
-- [Understanding Paychecks](understanding-paychecks)
-- [Shorting the Market](shorting-the-market)
-- [Tips on Investing in Structure Notes](tips-on-investing-in-structure-notes)
-- [Tips on Robinhood](tips-on-robinhood)
-- [Tips on Pattern Day Trading](tips-on-pattern-day-trading)
-- [Taxes on Investment Gains](taxes-on-investment-gains)
-- [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
-- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
-- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
-- [Tips on Lumibot](tips-on-lumibot)
-- [Calculate the Price of Stocks](calculate-the-price-of-stocks)
-- [Tips on eTrade](tips-on-etrade)
-- [Tips on Certified Deposit](tips-on-certified-deposit)
-```
-
-## computer vision | Computer Vision
-```{dropdown} Click to expand/collapse 24 links
+## CV
+```{dropdown} Click to expand/collapse 23 links
+- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
+- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
 - [Rule-base Image Process](rule-base-image-process)
 - [Physical World Modeling and Computer Vision](physical-world-modeling-and-computer-vision)
 - [Computer Vision Libraries in Rust](computer-vision-libraries-in-rust)
@@ -4847,9 +4905,7 @@ site:
 - [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
 - [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
 - [Compare Images Using Python](compare-images-using-python)
-- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
 - [Rotate an Image Using Pillow in Python](rotate-an-image-using-pillow-in-python)
-- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
 - [Image Filters in Pillow](image-filters-in-pillow)
 - [Hands-on the ImageChops class in Pillow in Python](hands-on-the-imagechops-class-in-pillow-in-python)
 - [Python Scripting for Blender](python-scripting-for-blender)
@@ -4859,42 +4915,17 @@ site:
 - [Extract Images from Video Using OpenCV in Python](extract-images-from-video-using-opencv-in-python)
 - [Convert Format of Videos Using Using Python](convert-format-of-videos-using-using-python)
 - [Manipulate Videos Using MoviePy in Python](manipulate-videos-using-moviepy-in-python)
+- [Data for Computer Vision Research](data-for-computer-vision-research)
 - [Tips on OpenCV](tips-on-opencv)
 - [Computer Vision Tools](computer-vision-tools)
-- [Models for Computer Vision](models-for-computer-vision)
-- [Data for Computer Vision Research](data-for-computer-vision-research)
-```
-
-## internet
-```{dropdown} Click to expand/collapse 24 links
-- [Tips on XFinity](tips-on-xfinity)
-- [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
-- [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
-- [Tips on Websockets](tips-on-websockets)
-- [Tips on sshuttle](tips-on-sshuttle)
-- [Tips on Nmap](tips-on-nmap)
-- [Tips on Network Protocols](tips-on-network-protocols)
-- [Tips on HTTP](tips-on-http)
-- [Surf Web Anonymously](surf-web-anonymously)
-- [IP Address and Subnets](ip-address-and-subnets)
-- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
-- [Save a Web Page as a Single File in Chrome](save-a-web-page-as-a-single-file-in-chrome)
-- [Baidu Yun Tips](baidu-yun-tips)
-- [Download Files from the Internet in Python](download-files-from-the-internet-in-python)
-- [Misc Tips in Daily Life](misc-tips-in-daily-life)
-- [Tips on NFS](tips-on-nfs)
-- [Tips on Network](tips-on-network)
-- [Use External Downloader for Firefox](use-external-downloader-for-firefox)
-- [Managing Blog Comments Using Disqus](managing-blog-comments-using-disqus)
-- [Tips on httpd](tips-on-httpd)
-- [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
-- [Escape from the Great Firewall of China](escape-from-the-great-firewall-of-china)
-- [Test Internet Speed](test-internet-speed)
-- [Find Out Proxy in Use](find-out-proxy-in-use)
 ```
 
 ## container
 ```{dropdown} Click to expand/collapse 23 links
+- [User in Docker](user-in-docker)
+- [Tips on Microk8S](tips-on-microk8s)
+- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
+- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
 - [Tips on docker-py Library](tips-on-docker-py-library)
 - [Tips on LXD](tips-on-lxd)
 - [Alternatives to Docker Containers](alternatives-to-docker-containers)
@@ -4904,77 +4935,21 @@ site:
 - [Check the CPU Limit of a Docker Container](check-the-cpu-limit-of-a-docker-container)
 - [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
 - [Webassembly as An Alternative to Containers](webassembly-as-an-alternative-to-containers)
-- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
 - [Use Docker Containers for GitHub Actions](use-docker-containers-for-github-actions)
 - [Run Docker Containers Inside a Docker Container](run-docker-containers-inside-a-docker-container)
 - [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
-- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
 - [For Loops in C++](for-loops-in-c++)
 - [General Tips for Docker](general-tips-for-docker)
 - [Manage Docker Images and Containers](manage-docker-images-and-containers)
 - [Schedule Cron Tasks in a Docker Container](schedule-cron-tasks-in-a-docker-container)
 - [Init for Docker Containers](init-for-docker-containers)
-- [Tips on Microk8S](tips-on-microk8s)
 - [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
-- [User in Docker](user-in-docker)
 - [Erase Elements of a Container Using Iterator in C++](erase-elements-of-a-container-using-iterator-in-c++)
-```
-
-## CV
-```{dropdown} Click to expand/collapse 23 links
-- [Rule-base Image Process](rule-base-image-process)
-- [Physical World Modeling and Computer Vision](physical-world-modeling-and-computer-vision)
-- [Computer Vision Libraries in Rust](computer-vision-libraries-in-rust)
-- [Compute Vision Tasks](compute-vision-tasks)
-- [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
-- [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
-- [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
-- [Compare Images Using Python](compare-images-using-python)
-- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
-- [Rotate an Image Using Pillow in Python](rotate-an-image-using-pillow-in-python)
-- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
-- [Image Filters in Pillow](image-filters-in-pillow)
-- [Hands-on the ImageChops class in Pillow in Python](hands-on-the-imagechops-class-in-pillow-in-python)
-- [Python Scripting for Blender](python-scripting-for-blender)
-- [Take Screenshots in Python](take-screenshots-in-python)
-- [Convert an Image to Differnt Modes Using Pillow in Python](convert-an-image-to-differnt-modes-using-pillow-in-python)
-- [Load Images into Pillow](load-images-into-pillow)
-- [Extract Images from Video Using OpenCV in Python](extract-images-from-video-using-opencv-in-python)
-- [Convert Format of Videos Using Using Python](convert-format-of-videos-using-using-python)
-- [Manipulate Videos Using MoviePy in Python](manipulate-videos-using-moviepy-in-python)
-- [Data for Computer Vision Research](data-for-computer-vision-research)
-- [Tips on OpenCV](tips-on-opencv)
-- [Computer Vision Tools](computer-vision-tools)
-```
-
-## database | Database
-```{dropdown} Click to expand/collapse 22 links
-- [Query Pandas Data Frames Using SQL](query-pandas-data-frames-using-sql)
-- [Extract Identifier Names from a SQL Query Using Sqlfluff](extract-identifier-names-from-a-sql-query-using-sqlfluff)
-- [Tips on JSON](tips-on-json)
-- [Improve the Performance of Spark](improve-the-performance-of-spark)
-- [Comparison of Embedded Databases](comparison-of-embedded-databases)
-- [Popular Databases](popular-databases)
-- [Database Clients for Rust](database-clients-for-rust)
-- [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
-- [Tips on BigQuery](tips-on-bigquery)
-- [Useful Rust Crates for Database](useful-rust-crates-for-database)
-- [Nested Data Structures in Databases](nested-data-structures-in-databases)
-- [Avoid Database Lock in SQLite3](avoid-database-lock-in-sqlite3)
-- [Tips on MongoDB](tips-on-mongodb)
-- [General Tips on SQL](general-tips-on-sql)
-- [Connect to Databases Using pyodbc in Python](connect-to-databases-using-pyodbc-in-python)
-- [Tips on Elasticsearch](tips-on-elasticsearch)
-- [SQL Database Client-server Protocols](sql-database-client-server-protocols)
-- [SQL Equivalent](sql-equivalent)
-- [Data Quality](data-quality)
-- [Tips on Graph Database](tips-on-graph-database)
-- [Docker Images for Database](docker-images-for-database)
-- [Tips on MySQL](tips-on-mysql)
 ```
 
 ## Ubuntu
 ```{dropdown} Click to expand/collapse 22 links
+- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
 - [Upgrade Release of Ubuntu](upgrade-release-of-ubuntu)
 - [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
 - [Ubuntu Crashes When Opening Settings](ubuntu-crashes-when-opening-settings)
@@ -4992,15 +4967,41 @@ site:
 - [Package Management in Linux](package-management-in-linux)
 - [My Docker Images](my-docker-images)
 - [Tips on Multipass](tips-on-multipass)
-- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
 - [Install the Latest Version of Python in Ubuntu](install-the-latest-version-of-python-in-ubuntu)
 - [My Configuration Script for a New Ubuntu Machine](my-configuration-script-for-a-new-ubuntu-machine)
 - [Install NodeJS on Ubuntu](install-nodejs-on-ubuntu)
 - [Tips on Kerberos](tips-on-kerberos)
 ```
 
+## database
+```{dropdown} Click to expand/collapse 22 links
+- [Query Pandas Data Frames Using SQL](query-pandas-data-frames-using-sql)
+- [Extract Identifier Names from a SQL Query Using Sqlfluff](extract-identifier-names-from-a-sql-query-using-sqlfluff)
+- [Tips on JSON](tips-on-json)
+- [Improve the Performance of Spark](improve-the-performance-of-spark)
+- [Comparison of Embedded Databases](comparison-of-embedded-databases)
+- [Popular Databases](popular-databases)
+- [Database Clients for Rust](database-clients-for-rust)
+- [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
+- [Tips on BigQuery](tips-on-bigquery)
+- [Useful Rust Crates for Database](useful-rust-crates-for-database)
+- [Nested Data Structures in Databases](nested-data-structures-in-databases)
+- [Avoid Database Lock in SQLite3](avoid-database-lock-in-sqlite3)
+- [Tips on MongoDB](tips-on-mongodb)
+- [General Tips on SQL](general-tips-on-sql)
+- [Connect to Databases Using pyodbc in Python](connect-to-databases-using-pyodbc-in-python)
+- [Tips on MySQL](tips-on-mysql)
+- [Tips on Elasticsearch](tips-on-elasticsearch)
+- [SQL Database Client-server Protocols](sql-database-client-server-protocols)
+- [SQL Equivalent](sql-equivalent)
+- [Data Quality](data-quality)
+- [Tips on Graph Database](tips-on-graph-database)
+- [Docker Images for Database](docker-images-for-database)
+```
+
 ## JavaScript
 ```{dropdown} Click to expand/collapse 21 links
+- [Firebug Is Awsome](firebug-is-awsome)
 - [Hands on JavaScript](hands-on-javascript)
 - [Tips on JSON](tips-on-json)
 - [Tips on Deno](tips-on-deno)
@@ -5021,7 +5022,30 @@ site:
 - [Dataframe in JavaScript](dataframe-in-javascript)
 - [Python in Browser](python-in-browser)
 - [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
-- [Firebug Is Awsome](firebug-is-awsome)
+```
+
+## visualization
+```{dropdown} Click to expand/collapse 20 links
+- [Stick Breaking Problems](stick-breaking-problems)
+- [Multiple Lines on the Same Plot Using hvplot](multiple-lines-on-the-same-plot-using-hvplot)
+- [Visualization of GBDT in scikit-learn](visualization-of-gbdt-in-scikit-learn)
+- [Visualization for AI Concepts](visualization-for-ai-concepts)
+- [Visualize Nvidia GPU Usage](visualize-nvidia-gpu-usage)
+- [Scatter Plot Using HoloViews in Python](scatter-plot-using-holoviews-in-python)
+- [Plot Histogram Using HoloViews](plot-histogram-using-holoviews)
+- [Interactive Tools of Plots in HoloViews](interactive-tools-of-plots-in-holoviews)
+- [Plot Points in HoloViews](plot-points-in-holoviews)
+- [Overlay Plots in HoloViews](overlay-plots-in-holoviews)
+- [Options of Plots in HoloViews](options-of-plots-in-holoviews)
+- [Ndoverlay Plots in HoloViews](ndoverlay-plots-in-holoviews)
+- [Legend of Plots in HoloViews](legend-of-plots-in-holoviews)
+- [Best Way of Using HoloViews](best-way-of-using-holoviews)
+- [Axis Range of Plots in HoloViews](axis-range-of-plots-in-holoviews)
+- [Group-by Plots in HoloViews](group-by-plots-in-holoviews)
+- [Visualization Using Plotly](visualization-using-plotly)
+- [Python Modules for Visualization](python-modules-for-visualization)
+- [Docker Images for Visualization](docker-images-for-visualization)
+- [Visualization in Zeppelin](visualization-in-zeppelin)
 ```
 
 ## IO
@@ -5048,30 +5072,6 @@ site:
 - [Kotlin IO](kotlin-io)
 ```
 
-## visualization
-```{dropdown} Click to expand/collapse 20 links
-- [Multiple Lines on the Same Plot Using hvplot](multiple-lines-on-the-same-plot-using-hvplot)
-- [Visualization of GBDT in scikit-learn](visualization-of-gbdt-in-scikit-learn)
-- [Visualization for AI Concepts](visualization-for-ai-concepts)
-- [Visualize Nvidia GPU Usage](visualize-nvidia-gpu-usage)
-- [Scatter Plot Using HoloViews in Python](scatter-plot-using-holoviews-in-python)
-- [Plot Histogram Using HoloViews](plot-histogram-using-holoviews)
-- [Interactive Tools of Plots in HoloViews](interactive-tools-of-plots-in-holoviews)
-- [Plot Points in HoloViews](plot-points-in-holoviews)
-- [Overlay Plots in HoloViews](overlay-plots-in-holoviews)
-- [Options of Plots in HoloViews](options-of-plots-in-holoviews)
-- [Ndoverlay Plots in HoloViews](ndoverlay-plots-in-holoviews)
-- [Legend of Plots in HoloViews](legend-of-plots-in-holoviews)
-- [Best Way of Using HoloViews](best-way-of-using-holoviews)
-- [Axis Range of Plots in HoloViews](axis-range-of-plots-in-holoviews)
-- [Group-by Plots in HoloViews](group-by-plots-in-holoviews)
-- [Visualization Using Plotly](visualization-using-plotly)
-- [Python Modules for Visualization](python-modules-for-visualization)
-- [Docker Images for Visualization](docker-images-for-visualization)
-- [Visualization in Zeppelin](visualization-in-zeppelin)
-- [Stick Breaking Problems](stick-breaking-problems)
-```
-
 ## terminal
 ```{dropdown} Click to expand/collapse 20 links
 - [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
@@ -5094,6 +5094,52 @@ site:
 - [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
 - [Show Image in Terminal](show-image-in-terminal)
 - [Print Colored Text in Terminal](print-colored-text-in-terminal)
+```
+
+## Windows
+```{dropdown} Click to expand/collapse 19 links
+- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
+- [Tips on Windows Terminal](tips-on-windows-terminal)
+- [Debugging and Testing Tools for Windows](debugging-and-testing-tools-for-windows)
+- [Dot Is Not Recognized as An Internal or External Command](dot-is-not-recognized-as-an-internal-or-external-command)
+- [Tips on winget](tips-on-winget)
+- [Dual Boot Linux and Windows](dual-boot-linux-and-windows)
+- [Software I Use in Windows System](software-i-use-in-windows-system)
+- [Tips on WSL 2](tips-on-wsl-2)
+- [Install Python Packages Behind Firewall](install-python-packages-behind-firewall)
+- [Docker in WSL 2](docker-in-wsl-2)
+- [Missing Grub Menu of Windows Operating System](missing-grub-menu-of-windows-operating-system)
+- [Windows Operating System](windows-operating-system)
+- [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
+- [Make Windows Restart Regularly](make-windows-restart-regularly)
+- [Map Keys in Windows](map-keys-in-windows)
+- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
+- [Cygwin Portable](cygwin-portable)
+- [Useful Windows Shortcuts](useful-windows-shortcuts)
+- [Add an Entry into the Right-click Menu in Windows](add-an-entry-into-the-right-click-menu-in-windows)
+```
+
+## tools
+```{dropdown} Click to expand/collapse 19 links
+- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
+- [Trust a JupyterLab Notebook](trust-a-jupyterlab-notebook)
+- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
+- [Good Terminal Apps](good-terminal-apps)
+- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
+- [Tools With Dark Power](tools-with-dark-power)
+- [Data Engineering Tools](data-engineering-tools)
+- [WSL2 Filesystem](wsl2-filesystem)
+- [Terminal Multiplexers](terminal-multiplexers)
+- [Take Screenshot on Linux](take-screenshot-on-linux)
+- [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
+- [Downloading Tools](downloading-tools)
+- [Editing PDF Files](editing-pdf-files)
+- [Useful Tools in Linux](useful-tools-in-linux)
+- [Tools for Differencing Text Files](tools-for-differencing-text-files)
+- [Linux Administrator Tools](linux-administrator-tools)
+- [Fix the Issue of GitHub Pages Does Not Pick Up the Latest Changes](fix-the-issue-of-github-pages-does-not-pick-up-the-latest-changes)
+- [Quick Ways to Create a Questionnaire](quick-ways-to-create-a-questionnaire)
+- [Deep Learning Tools and Apps](deep-learning-tools-and-apps)
 ```
 
 ## memory
@@ -5142,56 +5188,11 @@ site:
 - [Create a Temporary File in Linux](create-a-temporary-file-in-linux)
 ```
 
-## tools
-```{dropdown} Click to expand/collapse 19 links
-- [Good Terminal Apps](good-terminal-apps)
-- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
-- [Tools With Dark Power](tools-with-dark-power)
-- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
-- [Data Engineering Tools](data-engineering-tools)
-- [WSL2 Filesystem](wsl2-filesystem)
-- [Terminal Multiplexers](terminal-multiplexers)
-- [Take Screenshot on Linux](take-screenshot-on-linux)
-- [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
-- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
-- [Downloading Tools](downloading-tools)
-- [Editing PDF Files](editing-pdf-files)
-- [Useful Tools in Linux](useful-tools-in-linux)
-- [Tools for Differencing Text Files](tools-for-differencing-text-files)
-- [Linux Administrator Tools](linux-administrator-tools)
-- [Trust a JupyterLab Notebook](trust-a-jupyterlab-notebook)
-- [Fix the Issue of GitHub Pages Does Not Pick Up the Latest Changes](fix-the-issue-of-github-pages-does-not-pick-up-the-latest-changes)
-- [Quick Ways to Create a Questionnaire](quick-ways-to-create-a-questionnaire)
-- [Deep Learning Tools and Apps](deep-learning-tools-and-apps)
-```
-
-## Windows | windows
-```{dropdown} Click to expand/collapse 19 links
-- [Tips on Windows Terminal](tips-on-windows-terminal)
-- [Debugging and Testing Tools for Windows](debugging-and-testing-tools-for-windows)
-- [Dot Is Not Recognized as An Internal or External Command](dot-is-not-recognized-as-an-internal-or-external-command)
-- [Tips on winget](tips-on-winget)
-- [Dual Boot Linux and Windows](dual-boot-linux-and-windows)
-- [Software I Use in Windows System](software-i-use-in-windows-system)
-- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
-- [Tips on WSL 2](tips-on-wsl-2)
-- [Install Python Packages Behind Firewall](install-python-packages-behind-firewall)
-- [Docker in WSL 2](docker-in-wsl-2)
-- [Missing Grub Menu of Windows Operating System](missing-grub-menu-of-windows-operating-system)
-- [Windows Operating System](windows-operating-system)
-- [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
-- [Make Windows Restart Regularly](make-windows-restart-regularly)
-- [Map Keys in Windows](map-keys-in-windows)
-- [Cygwin Portable](cygwin-portable)
-- [Useful Windows Shortcuts](useful-windows-shortcuts)
-- [Add an Entry into the Right-click Menu in Windows](add-an-entry-into-the-right-click-menu-in-windows)
-- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
-```
-
 ## GPU
 ```{dropdown} Click to expand/collapse 18 links
-- [GPU Computing in Python](gpu-computing-in-python)
 - [GPU for Web](gpu-for-web)
+- [Tips on Google Colab](tips-on-google-colab)
+- [GPU Computing in Python](gpu-computing-in-python)
 - [Understand Memory Usage in PyTorch](understand-memory-usage-in-pytorch)
 - [Ubuntu Crashes When Opening Settings](ubuntu-crashes-when-opening-settings)
 - [AI-first Programming Languages](ai-first-programming-languages)
@@ -5207,25 +5208,24 @@ site:
 - [Use PyTorch on GPU](use-pytorch-on-gpu)
 - [Tips on TensorFlow](tips-on-tensorflow)
 - [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
-- [Tips on Google Colab](tips-on-google-colab)
 ```
 
-## command-line | command line
+## command line
 ```{dropdown} Click to expand/collapse 18 links
+- [Copying Files in Linux](copying-files-in-linux)
 - [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
 - [Parsing Command-line Arguments in Rust](parsing-command-line-arguments-in-rust)
 - [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
 - [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
 - [Great Command Line Tools Developed in Rust](great-command-line-tools-developed-in-rust)
-- [Copying Files in Linux](copying-files-in-linux)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
-- [Show Image in Terminal](show-image-in-terminal)
-- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
 - [Ghostty Is a Decent Terminal App](ghostty-is-a-decent-terminal-app)
 - [Tools for Differencing Text Files](tools-for-differencing-text-files)
 - [Advanced Use of head and tail](advanced-use-of-head-and-tail)
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
 - [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
 - [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
+- [Show Image in Terminal](show-image-in-terminal)
+- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
 - [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
 - [Print Rows from a Text File](print-rows-from-a-text-file)
 - [Hands on the highlight command](hands-on-the-highlight-command)
@@ -5254,28 +5254,70 @@ site:
 - [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
 ```
 
-## Git | git
+## house
 ```{dropdown} Click to expand/collapse 17 links
+- [Tips on Dishwasher](tips-on-dishwasher)
+- [Replace a Bathroom Fan](replace-a-bathroom-fan)
+- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
+- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
+- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
+- [Tips on Plumbing](tips-on-plumbing)
+- [Anker Solix Home Backup Battery System](anker-solix-home-backup-battery-system)
+- [Use Dehumidifiers to Remove Dampness from Your House](use-dehumidifiers-to-remove-dampness-from-your-house)
+- [Hot Water in the House](hot-water-in-the-house)
+- [Tips on Ecobee Thermostat](tips-on-ecobee-thermostat)
+- [Tips on Pest and Rodent Control](tips-on-pest-and-rodent-control)
+- [Tips on Buying a House](tips-on-buying-a-house)
+- [Tips on Washing Machine](tips-on-washing-machine)
+- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
+- [Drain Guard for Downspout](drain-guard-for-downspout)
+- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
+- [Shopping At Homedepot](shopping-at-homedepot)
+```
+
+## LaTeX
+```{dropdown} Click to expand/collapse 17 links
+- [Tips on IDE](tips-on-ide)
+- [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
+- [TeXstudio, Bravo!](texstudio-bravo)
+- [Tips on LaTeX](tips-on-latex)
+- [IDEs for LaTeX](ides-for-latex)
+- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
+- [Scientific References](scientific-references)
+- [LaTeX Commands for Compiling](latex-commands-for-compiling)
+- [Fonts for Linux](fonts-for-linux)
+- [General Tips for LaTeX](general-tips-for-latex)
+- [Use LaTeX in Linux](use-latex-in-linux)
+- [Common Errors in Bibliographies](common-errors-in-bibliographies)
+- [Convert Math Formula and Table To LaTeX](convert-math-formula-and-table-to-latex)
+- [Set Line Space in LaTeX](set-line-space-in-latex)
+- [LaTeX for Chinese](latex-for-chinese)
+- [Graphics in LaTeX](graphics-in-latex)
+- [Convert LaTeX to Word](convert-latex-to-word)
+```
+
+## Git
+```{dropdown} Click to expand/collapse 17 links
+- [Git Large File Storage](git-large-file-storage)
+- [Tips on Git Submodule](tips-on-git-submodule)
 - [Hands on Dulwich](hands-on-dulwich)
 - [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
 - [Git Implementations and Bindings in Python](git-implementations-and-bindings-in-python)
 - [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
+- [Mercurial for Git Users](mercurial-for-git-users)
 - [Tips on Git-Filter-Repo](tips-on-git-filter-repo)
 - [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
+- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
+- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
 - [Tips on Git](tips-on-git)
 - [Git Errors and Solutions](git-errors-and-solutions)
-- [Git Large File Storage](git-large-file-storage)
 - [Gitignore Examples](gitignore-examples)
 - [Reduce Size of Git Repository](reduce-size-of-git-repository)
 - [Software Version Management Tools](software-version-management-tools)
-- [Tips on Git Submodule](tips-on-git-submodule)
 - [Use Git Behind a Proxy](use-git-behind-a-proxy)
-- [Mercurial for Git Users](mercurial-for-git-users)
-- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
-- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
 ```
 
-## hardware | Hardware
+## hardware
 ```{dropdown} Click to expand/collapse 17 links
 - [Get Hardware Information in Golang](get-hardware-information-in-golang)
 - [Tools for IOT](tools-for-iot)
@@ -5289,14 +5331,14 @@ site:
 - [User Printers and Scanners on Linux](user-printers-and-scanners-on-linux)
 - [Tips on Touchpad](tips-on-touchpad)
 - [Make Linux Run Faster](make-linux-run-faster)
-- [Hardware for AI](hardware-for-ai)
-- [Functional Keys on Computers](functional-keys-on-computers)
 - [Ways to Make a Bootable Flash Drive in Linux](ways-to-make-a-bootable-flash-drive-in-linux)
+- [Hardware for AI](hardware-for-ai)
 - [Booting to the Boot Menu and BIOS](booting-to-the-boot-menu-and-bios)
+- [Functional Keys on Computers](functional-keys-on-computers)
 - [Some Reading Notes About SSD](some-reading-notes-about-ssd)
 ```
 
-## cloud | Cloud
+## cloud
 ```{dropdown} Click to expand/collapse 17 links
 - [Tips on GCP](tips-on-gcp)
 - [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
@@ -5312,57 +5354,19 @@ site:
 - [Tips on Resilio Sync](tips-on-resilio-sync)
 - [Tips on TeamDrive](tips-on-teamdrive)
 - [Synchronize Files Using Dropbox](synchronize-files-using-dropbox)
+- [Tips on Amazon AWS](tips-on-amazon-aws)
 - [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
 - [Cloud VMs Tips](cloud-vms-tips)
-- [Tips on Amazon AWS](tips-on-amazon-aws)
 ```
 
-## LaTex | LaTeX | Latex
-```{dropdown} Click to expand/collapse 17 links
-- [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
-- [IDEs for LaTeX](ides-for-latex)
-- [TeXstudio, Bravo!](texstudio-bravo)
-- [Tips on LaTeX](tips-on-latex)
-- [Scientific References](scientific-references)
-- [LaTeX Commands for Compiling](latex-commands-for-compiling)
-- [Fonts for Linux](fonts-for-linux)
-- [General Tips for LaTeX](general-tips-for-latex)
-- [Use LaTeX in Linux](use-latex-in-linux)
-- [Common Errors in Bibliographies](common-errors-in-bibliographies)
-- [Convert Math Formula and Table To LaTeX](convert-math-formula-and-table-to-latex)
-- [Set Line Space in LaTeX](set-line-space-in-latex)
-- [LaTeX for Chinese](latex-for-chinese)
-- [Graphics in LaTeX](graphics-in-latex)
-- [Convert LaTeX to Word](convert-latex-to-word)
-- [Tips on IDE](tips-on-ide)
-- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
-```
-
-## house
-```{dropdown} Click to expand/collapse 17 links
-- [Tips on Plumbing](tips-on-plumbing)
-- [Anker Solix Home Backup Battery System](anker-solix-home-backup-battery-system)
-- [Use Dehumidifiers to Remove Dampness from Your House](use-dehumidifiers-to-remove-dampness-from-your-house)
-- [Hot Water in the House](hot-water-in-the-house)
-- [Tips on Ecobee Thermostat](tips-on-ecobee-thermostat)
-- [Tips on Pest and Rodent Control](tips-on-pest-and-rodent-control)
-- [Tips on Buying a House](tips-on-buying-a-house)
-- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
-- [Tips on Washing Machine](tips-on-washing-machine)
-- [Replace a Bathroom Fan](replace-a-bathroom-fan)
-- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
-- [Drain Guard for Downspout](drain-guard-for-downspout)
-- [Tips on Dishwasher](tips-on-dishwasher)
-- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
-- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
-- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
-- [Shopping At Homedepot](shopping-at-homedepot)
-```
-
-## Jupyter | jupyter
+## Jupyter
 ```{dropdown} Click to expand/collapse 16 links
+- [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
+- [Tips on Jupyter Binder](tips-on-jupyter-binder)
+- [Tips on Google Colab](tips-on-google-colab)
 - [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
 - [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
+- [Tips on Deno](tips-on-deno)
 - [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
 - [Tips on Jupyter-Book](tips-on-jupyter-book)
 - [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
@@ -5371,20 +5375,39 @@ site:
 - [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
 - [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
 - [Tips on JupyterLab](tips-on-jupyterlab)
-- [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
 - [Dashboard Solutions](dashboard-solutions)
-- [Tips on Google Colab](tips-on-google-colab)
 - [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
-- [Tips on Jupyter Binder](tips-on-jupyter-binder)
-- [Tips on Deno](tips-on-deno)
 ```
 
-## array | Array
+## car
+```{dropdown} Click to expand/collapse 16 links
+- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
+- [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
+- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
+- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
+- [Tips on RV](tips-on-rv)
+- [Tips on Car Seat](tips-on-car-seat)
+- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
+- [Tips on Tesla Model Y](tips-on-tesla-model-y)
+- [Tips on Insurance](tips-on-insurance)
+- [Tips on Car and Driving](tips-on-car-and-driving)
+- [Proximity Locking on Rivian](proximity-locking-on-rivian)
+- [Playbook on Road Accident](playbook-on-road-accident)
+- [Service Your Rivian Car](service-your-rivian-car)
+- [Tips on Car Tires](tips-on-car-tires)
+- [Tips on Car Maintenance](tips-on-car-maintenance)
+- [Driving on Snow and Ice](driving-on-snow-and-ice)
+```
+
+## array
 ```{dropdown} Click to expand/collapse 16 links
 - [Broadcast Arrays in Numpy](broadcast-arrays-in-numpy)
 - [Hands on Array in Golang](hands-on-array-in-golang)
 - [Concatenate Static Arrays in Rust](concatenate-static-arrays-in-rust)
 - [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
+- [Array in Scala](array-in-scala)
+- [Collections in Kotlin](collections-in-kotlin)
+- [Array in Kotlin](array-in-kotlin)
 - [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
 - [Load Images into Pillow](load-images-into-pillow)
 - [Pad a Sequence in Python](pad-a-sequence-in-python)
@@ -5394,9 +5417,6 @@ site:
 - [Copy Arrays in Java](copy-arrays-in-java)
 - [Collections in Java](collections-in-java)
 - [Arrays in Java](arrays-in-java)
-- [Array in Scala](array-in-scala)
-- [Collections in Kotlin](collections-in-kotlin)
-- [Array in Kotlin](array-in-kotlin)
 ```
 
 ## format
@@ -5419,24 +5439,99 @@ site:
 - [Useful Tools for Python Developing](useful-tools-for-python-developing)
 ```
 
-## car | Car
-```{dropdown} Click to expand/collapse 16 links
-- [Tips on Insurance](tips-on-insurance)
-- [Tips on Car and Driving](tips-on-car-and-driving)
-- [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
-- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
-- [Tips on RV](tips-on-rv)
-- [Proximity Locking on Rivian](proximity-locking-on-rivian)
-- [Playbook on Road Accident](playbook-on-road-accident)
-- [Service Your Rivian Car](service-your-rivian-car)
-- [Tips on Car Tires](tips-on-car-tires)
-- [Tips on Car Maintenance](tips-on-car-maintenance)
-- [Driving on Snow and Ice](driving-on-snow-and-ice)
-- [Tips on Tesla Model Y](tips-on-tesla-model-y)
-- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
-- [Tips on Car Seat](tips-on-car-seat)
-- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
-- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
+## probability
+```{dropdown} Click to expand/collapse 15 links
+- [Stick Breaking Paradox](stick-breaking-paradox)
+- [The Unfair Wager Problem](the-unfair-wager-problem)
+- [Stick Breaking Problems](stick-breaking-problems)
+- [Chance to Take One's Own Seat?](chance-to-take-one-s-own-seat)
+- [How Many People Stay in the Same Position?](how-many-people-stay-in-the-same-position)
+- [Number of Records?](number-of-records)
+- [How Many Balls Do We Need?](how-many-balls-do-we-need)
+- [Probability to Get a Complete Deck of Cards?](probability-to-get-a-complete-deck-of-cards)
+- [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
+- [Probability to Lose All Money](probability-to-lose-all-money)
+- [Expected Gain of Tossing a Dice](expected-gain-of-tossing-a-dice)
+- [Basketball Player](basketball-player)
+- [Randomly Select an Integer?!](randomly-select-an-integer)
+- [Calculate Covariance Between Multinomial Categories by Hand](calculate-covariance-between-multinomial-categories-by-hand)
+- [How Many Empty Boxes?](how-many-empty-boxes)
+```
+
+## notebook
+```{dropdown} Click to expand/collapse 15 links
+- [Docker Images for Notebooks](docker-images-for-notebooks)
+- [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
+- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
+- [Tips on Deno](tips-on-deno)
+- [Tips on Jupyter-Book](tips-on-jupyter-book)
+- [Tips on nbconvert](tips-on-nbconvert)
+- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
+- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
+- [Format Python Code Using Black](format-python-code-using-black)
+- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
+- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
+- [Tips on Zeppelin](tips-on-zeppelin)
+- [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
+- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
+- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
+```
+
+## finance
+```{dropdown} Click to expand/collapse 15 links
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Financial Data](financial-data)
+- [Rust for Financial Investment](rust-for-financial-investment)
+- [Tax in US](tax-in-us)
+- [Tips on Empower](tips-on-empower)
+- [Investment](investment)
+- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
+- [Claim Your Forgotten Money](claim-your-forgotten-money)
+- [Tips on Credit Report](tips-on-credit-report)
+- [Tips on Buying a House](tips-on-buying-a-house)
+- [Tips on Brokerage](tips-on-brokerage)
+- [Understanding Paychecks](understanding-paychecks)
+- [Tips on eTrade](tips-on-etrade)
+- [Tips on Certified Deposit](tips-on-certified-deposit)
+- [Good Accounting Tools](good-accounting-tools)
+```
+
+## proxy
+```{dropdown} Click to expand/collapse 15 links
+- [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
+- [Network in Docker Containers](network-in-docker-containers)
+- [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
+- [Tips on TinyProxy](tips-on-tinyproxy)
+- [Proxy and VPN Services](proxy-and-vpn-services)
+- [Good Choices of Reverse Proxies](good-choices-of-reverse-proxies)
+- [Configure Proxy for Apt](configure-proxy-for-apt)
+- [Speed Up sbt in China](speed-up-sbt-in-china)
+- [Use wget with Proxy](use-wget-with-proxy)
+- [Install Python Packages Behind Firewall](install-python-packages-behind-firewall)
+- [Proxy for sudo](proxy-for-sudo)
+- [Resolve the DNS Contamination Issue in Firefox](resolve-the-dns-contamination-issue-in-firefox)
+- [Escape from the Great Firewall of China](escape-from-the-great-firewall-of-china)
+- [Use Git Behind a Proxy](use-git-behind-a-proxy)
+- [Find Out Proxy in Use](find-out-proxy-in-use)
+```
+
+## Visual Studio Code
+```{dropdown} Click to expand/collapse 15 links
+- [Visual Studio Code Server](visual-studio-code-server)
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
+- [Sort Python Imports Using isort](sort-python-imports-using-isort)
+- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
+- [Python Docstring Generator for Visual Studio Code](python-docstring-generator-for-visual-studio-code)
+- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
+- [Debug a Rust Application](debug-a-rust-application)
+- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
+- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
+- [Tips on Visual Studio Code](tips-on-visual-studio-code)
+- [Visual Studio Code for Java Development](visual-studio-code-for-java-development)
+- [Visual Studio Code for Scala Development](visual-studio-code-for-scala-development)
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+- [Vim as a Universal Editor](vim-as-a-universal-editor)
 ```
 
 ## PDF
@@ -5456,25 +5551,6 @@ site:
 - [Use pdftk to Manipulating PDF Files](use-pdftk-to-manipulating-pdf-files)
 - [Convert PDF to Word](convert-pdf-to-word)
 - [Convert PDF to EPS](convert-pdf-to-eps)
-```
-
-## Visual Studio Code
-```{dropdown} Click to expand/collapse 15 links
-- [Sort Python Imports Using isort](sort-python-imports-using-isort)
-- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
-- [Python Docstring Generator for Visual Studio Code](python-docstring-generator-for-visual-studio-code)
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
-- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
-- [Debug a Rust Application](debug-a-rust-application)
-- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
-- [Tips on Visual Studio Code](tips-on-visual-studio-code)
-- [Visual Studio Code for Java Development](visual-studio-code-for-java-development)
-- [Visual Studio Code for Scala Development](visual-studio-code-for-scala-development)
-- [Visual Studio Code for Python](visual-studio-code-for-python)
-- [Vim as a Universal Editor](vim-as-a-universal-editor)
-- [Visual Studio Code Server](visual-studio-code-server)
-- [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
 ```
 
 ## text
@@ -5534,63 +5610,6 @@ site:
 - [Change File Permission on Linux](change-file-permission-on-linux)
 ```
 
-## notebook
-```{dropdown} Click to expand/collapse 15 links
-- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
-- [Tips on Deno](tips-on-deno)
-- [Tips on Jupyter-Book](tips-on-jupyter-book)
-- [Tips on nbconvert](tips-on-nbconvert)
-- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
-- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
-- [Format Python Code Using Black](format-python-code-using-black)
-- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
-- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
-- [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
-- [Tips on Zeppelin](tips-on-zeppelin)
-- [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
-- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
-- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
-- [Docker Images for Notebooks](docker-images-for-notebooks)
-```
-
-## proxy
-```{dropdown} Click to expand/collapse 15 links
-- [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
-- [Tips on TinyProxy](tips-on-tinyproxy)
-- [Proxy and VPN Services](proxy-and-vpn-services)
-- [Good Choices of Reverse Proxies](good-choices-of-reverse-proxies)
-- [Configure Proxy for Apt](configure-proxy-for-apt)
-- [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
-- [Speed Up sbt in China](speed-up-sbt-in-china)
-- [Use wget with Proxy](use-wget-with-proxy)
-- [Install Python Packages Behind Firewall](install-python-packages-behind-firewall)
-- [Proxy for sudo](proxy-for-sudo)
-- [Resolve the DNS Contamination Issue in Firefox](resolve-the-dns-contamination-issue-in-firefox)
-- [Network in Docker Containers](network-in-docker-containers)
-- [Escape from the Great Firewall of China](escape-from-the-great-firewall-of-china)
-- [Use Git Behind a Proxy](use-git-behind-a-proxy)
-- [Find Out Proxy in Use](find-out-proxy-in-use)
-```
-
-## finance | Finance
-```{dropdown} Click to expand/collapse 15 links
-- [Financial Data](financial-data)
-- [Rust for Financial Investment](rust-for-financial-investment)
-- [Tax in US](tax-in-us)
-- [Tips on Empower](tips-on-empower)
-- [Investment](investment)
-- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Claim Your Forgotten Money](claim-your-forgotten-money)
-- [Tips on Credit Report](tips-on-credit-report)
-- [Tips on Buying a House](tips-on-buying-a-house)
-- [Tips on Brokerage](tips-on-brokerage)
-- [Understanding Paychecks](understanding-paychecks)
-- [Tips on eTrade](tips-on-etrade)
-- [Tips on Certified Deposit](tips-on-certified-deposit)
-- [Good Accounting Tools](good-accounting-tools)
-```
-
 ## HPC
 ```{dropdown} Click to expand/collapse 15 links
 - [Free High Performance Computing Resouces](free-high-performance-computing-resouces)
@@ -5610,23 +5629,58 @@ site:
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 ```
 
-## probability
-```{dropdown} Click to expand/collapse 15 links
-- [Chance to Take One's Own Seat?](chance-to-take-one-s-own-seat)
-- [How Many People Stay in the Same Position?](how-many-people-stay-in-the-same-position)
-- [Number of Records?](number-of-records)
-- [How Many Empty Boxes?](how-many-empty-boxes)
-- [How Many Balls Do We Need?](how-many-balls-do-we-need)
-- [Probability to Get a Complete Deck of Cards?](probability-to-get-a-complete-deck-of-cards)
-- [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
-- [Randomly Select an Integer?!](randomly-select-an-integer)
-- [The Unfair Wager Problem](the-unfair-wager-problem)
-- [Probability to Lose All Money](probability-to-lose-all-money)
-- [Expected Gain of Tossing a Dice](expected-gain-of-tossing-a-dice)
-- [Stick Breaking Problems](stick-breaking-problems)
-- [Stick Breaking Paradox](stick-breaking-paradox)
-- [Basketball Player](basketball-player)
-- [Calculate Covariance Between Multinomial Categories by Hand](calculate-covariance-between-multinomial-categories-by-hand)
+## Pillow
+```{dropdown} Click to expand/collapse 14 links
+- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
+- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
+- [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
+- [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
+- [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
+- [Compare Images Using Python](compare-images-using-python)
+- [Rotate an Image Using Pillow in Python](rotate-an-image-using-pillow-in-python)
+- [Image Filters in Pillow](image-filters-in-pillow)
+- [Hands-on the ImageChops class in Pillow in Python](hands-on-the-imagechops-class-in-pillow-in-python)
+- [Take Screenshots in Python](take-screenshots-in-python)
+- [Convert an Image to Differnt Modes Using Pillow in Python](convert-an-image-to-differnt-modes-using-pillow-in-python)
+- [Load Images into Pillow](load-images-into-pillow)
+- [Tips on Pillow](tips-on-pillow)
+- [Computer Vision Tools](computer-vision-tools)
+```
+
+## VSCode
+```{dropdown} Click to expand/collapse 14 links
+- [Visual Studio Code Server](visual-studio-code-server)
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
+- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
+- [Python Docstring Generator for Visual Studio Code](python-docstring-generator-for-visual-studio-code)
+- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
+- [Debug a Rust Application](debug-a-rust-application)
+- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
+- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
+- [Tips on Visual Studio Code](tips-on-visual-studio-code)
+- [Visual Studio Code for Java Development](visual-studio-code-for-java-development)
+- [Visual Studio Code for Scala Development](visual-studio-code-for-scala-development)
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+- [Vim as a Universal Editor](vim-as-a-universal-editor)
+```
+
+## exception
+```{dropdown} Click to expand/collapse 14 links
+- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
+- [Error Handling in Rust](error-handling-in-rust)
+- [ModuleNotFoundError: No Module Named _Ctypes in Python](modulenotfounderror-no-module-named-_ctypes-in-python)
+- [Spark Issue: Pure Python Code Errors](spark-issue-pure-python-code-errors)
+- [Spark Issue: GetQuotaUsage](spark-issue-getquotausage)
+- [Spark Issue: ViewFs: Cannot Initialize: Empty Mount Table in Config](spark-issue-viewfs-cannot-initialize-empty-mount-table-in-config)
+- [Spark Issue: Runtimeerror: Arrow Legacy IPC Format Is Not Supported](spark-issue-runtimeerror-arrow-legacy-ipc-format-is-not-supported)
+- [Spark Issue: IllegalArgumentException: Wrong FS](spark-issue-illegalargumentexception-wrong-fs)
+- [Spark Issue: ArrowTypeError: Expect a Type but Got a Different Type](spark-issue-arrowtypeerror-expect-a-type-but-got-a-different-type)
+- [Spark Issue: AnalysisException: Found Duplicated Columns](spark-issue-analysisexception-found-duplicated-columns)
+- [Ensure Capturing Log of Applications](ensure-capturing-log-of-applications)
+- [Exception and Error Handling in Python](exception-and-error-handling-in-python)
+- [Exceptions in Java](exceptions-in-java)
+- [Exception Error and Critical](exception-error-and-critical)
 ```
 
 ## Google
@@ -5647,7 +5701,7 @@ site:
 - [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
 ```
 
-## Polars | polars
+## Polars
 ```{dropdown} Click to expand/collapse 14 links
 - [DataFrame Implementations in Python](dataframe-implementations-in-python)
 - [Hands on the Polars Library in Python](hands-on-the-polars-library-in-python)
@@ -5660,35 +5714,20 @@ site:
 - [Read Parquet Files Using Polars in Rust](read-parquet-files-using-polars-in-rust)
 - [Read CSV Using Polars in Python](read-csv-using-polars-in-python)
 - [Read CSV Files Using Polars in Rust](read-csv-files-using-polars-in-rust)
-- [Read and Write Parquet Files in Rust](read-and-write-parquet-files-in-rust)
 - [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
 - [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
+- [Read and Write Parquet Files in Rust](read-and-write-parquet-files-in-rust)
 ```
 
-## exception
-```{dropdown} Click to expand/collapse 14 links
-- [Error Handling in Rust](error-handling-in-rust)
-- [ModuleNotFoundError: No Module Named _Ctypes in Python](modulenotfounderror-no-module-named-_ctypes-in-python)
-- [Spark Issue: Pure Python Code Errors](spark-issue-pure-python-code-errors)
-- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
-- [Spark Issue: GetQuotaUsage](spark-issue-getquotausage)
-- [Spark Issue: ViewFs: Cannot Initialize: Empty Mount Table in Config](spark-issue-viewfs-cannot-initialize-empty-mount-table-in-config)
-- [Spark Issue: Runtimeerror: Arrow Legacy IPC Format Is Not Supported](spark-issue-runtimeerror-arrow-legacy-ipc-format-is-not-supported)
-- [Spark Issue: IllegalArgumentException: Wrong FS](spark-issue-illegalargumentexception-wrong-fs)
-- [Spark Issue: ArrowTypeError: Expect a Type but Got a Different Type](spark-issue-arrowtypeerror-expect-a-type-but-got-a-different-type)
-- [Spark Issue: AnalysisException: Found Duplicated Columns](spark-issue-analysisexception-found-duplicated-columns)
-- [Ensure Capturing Log of Applications](ensure-capturing-log-of-applications)
-- [Exception and Error Handling in Python](exception-and-error-handling-in-python)
-- [Exceptions in Java](exceptions-in-java)
-- [Exception Error and Critical](exception-error-and-critical)
-```
-
-## list | List
+## list
 ```{dropdown} Click to expand/collapse 14 links
 - [Hands on Box in Rust](hands-on-box-in-rust)
 - [Query Hardware Information in Linux](query-hardware-information-in-linux)
 - [Linked List in Rust](linked-list-in-rust)
 - [Unpacking Assignment in Python](unpacking-assignment-in-python)
+- [List in Kotlin](list-in-kotlin)
+- [Sort a List in Kotlin](sort-a-list-in-kotlin)
+- [Collections in Kotlin](collections-in-kotlin)
 - [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
 - [Handling Complicated Data Types in Python and PySpark](handling-complicated-data-types-in-python-and-pyspark)
 - [The list Collection in Python](the-list-collection-in-python)
@@ -5696,9 +5735,6 @@ site:
 - [Collections and Iterators in C++](collections-and-iterators-in-c++)
 - [General Tips for LaTeX](general-tips-for-latex)
 - [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
-- [List in Kotlin](list-in-kotlin)
-- [Sort a List in Kotlin](sort-a-list-in-kotlin)
-- [Collections in Kotlin](collections-in-kotlin)
 ```
 
 ## RESTful
@@ -5719,12 +5755,13 @@ site:
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 ```
 
-## Vim | vim
+## Vim
 ```{dropdown} Click to expand/collapse 14 links
 - [Vim Keybindings Using IdeaVim in IntelliJ IDEA](vim-keybindings-using-ideavim-in-intellij-idea)
 - [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
 - [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
 - [Tips on AstroNvim](tips-on-astronvim)
+- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
 - [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
 - [Tips on Vim](tips-on-vim)
 - [The Escape Key in Vim](the-escape-key-in-vim)
@@ -5734,43 +5771,23 @@ site:
 - [Interact with System Clipboard in Vim](interact-with-system-clipboard-in-vim)
 - [Vim as a Universal Editor](vim-as-a-universal-editor)
 - [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
-- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
 ```
 
-## VSCode | vscode
-```{dropdown} Click to expand/collapse 14 links
-- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
-- [Python Docstring Generator for Visual Studio Code](python-docstring-generator-for-visual-studio-code)
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
-- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
-- [Debug a Rust Application](debug-a-rust-application)
-- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
-- [Vim as a Universal Editor](vim-as-a-universal-editor)
-- [Tips on Visual Studio Code](tips-on-visual-studio-code)
-- [Visual Studio Code for Java Development](visual-studio-code-for-java-development)
-- [Visual Studio Code for Scala Development](visual-studio-code-for-scala-development)
-- [Visual Studio Code for Python](visual-studio-code-for-python)
-- [Visual Studio Code Server](visual-studio-code-server)
-- [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
-```
-
-## Pillow
-```{dropdown} Click to expand/collapse 14 links
-- [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
-- [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
-- [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
-- [Compare Images Using Python](compare-images-using-python)
-- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
-- [Rotate an Image Using Pillow in Python](rotate-an-image-using-pillow-in-python)
-- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
-- [Image Filters in Pillow](image-filters-in-pillow)
-- [Hands-on the ImageChops class in Pillow in Python](hands-on-the-imagechops-class-in-pillow-in-python)
-- [Take Screenshots in Python](take-screenshots-in-python)
-- [Convert an Image to Differnt Modes Using Pillow in Python](convert-an-image-to-differnt-modes-using-pillow-in-python)
-- [Load Images into Pillow](load-images-into-pillow)
-- [Tips on Pillow](tips-on-pillow)
-- [Computer Vision Tools](computer-vision-tools)
+## application
+```{dropdown} Click to expand/collapse 13 links
+- [The Absolutely Best App for Taking Notes](the-absolutely-best-app-for-taking-notes)
+- [Remove System Applications in macOS](remove-system-applications-in-macos)
+- [Use Streamlit to Build a Web App Quickly Using Python](use-streamlit-to-build-a-web-app-quickly-using-python)
+- [Develop a GUI Application in Rust](develop-a-gui-application-in-rust)
+- [App Platforms](app-platforms)
+- [Great Apps Developed in Rust](great-apps-developed-in-rust)
+- [Tips on WezTerm](tips-on-wezterm)
+- [Useful Rust Crates for Developing Command Line Apps](useful-rust-crates-for-developing-command-line-apps)
+- [Manage AppImages on Linux](manage-appimages-on-linux)
+- [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
+- [Useful Tools in Linux](useful-tools-in-linux)
+- [Manage Autostart Applications](manage-autostart-applications)
+- [Make Your Life Easier with Portable Applications](make-your-life-easier-with-portable-applications)
 ```
 
 ## serialization
@@ -5807,7 +5824,7 @@ site:
 - [My List of Python Modules](my-list-of-python-modules)
 ```
 
-## CPU | cpu
+## CPU
 ```{dropdown} Click to expand/collapse 13 links
 - [Hands on the psutil Module in Python](hands-on-the-psutil-module-in-python)
 - [Hands on the Resource Module in Python](hands-on-the-resource-module-in-python)
@@ -5816,12 +5833,12 @@ site:
 - [PackageKitD Uses Too Much CPU or Disk IO](packagekitd-uses-too-much-cpu-or-disk-io)
 - [Profile Rust Applications](profile-rust-applications)
 - [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
+- [Tips on Valgrind](tips-on-valgrind)
+- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
 - [SLIDE: Sub-Linear Deep Learning Engine](slide-sub-linear-deep-learning-engine)
 - [Read CPU Temperature in Linux](read-cpu-temperature-in-linux)
 - [Device Managment in PyTorch](device-managment-in-pytorch)
 - [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
-- [Tips on Valgrind](tips-on-valgrind)
-- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
 ```
 
 ## time
@@ -5909,38 +5926,21 @@ site:
 - [Python Modules for Visualization](python-modules-for-visualization)
 ```
 
-## markdown | Markdown
+## markdown
 ```{dropdown} Click to expand/collapse 13 links
 - [Use JupyterLab Notebooks in Pelican](use-jupyterlab-notebooks-in-pelican)
 - [RMarkdown Equivalent in Python](rmarkdown-equivalent-in-python)
+- [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
+- [Tips on Jupyter-Book](tips-on-jupyter-book)
 - [Write Slides in Markdown](write-slides-in-markdown)
 - [Tips on mdBook](tips-on-mdbook)
+- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
 - [Markdown Tools Written in Rust](markdown-tools-written-in-rust)
 - [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
 - [Format Markdown Using mdformat Python APIs](format-markdown-using-mdformat-python-apis)
 - [Mdformat Is An Extensible Markdown Formatter](mdformat-is-an-extensible-markdown-formatter)
 - [File Converting and Generating Tools](file-converting-and-generating-tools)
-- [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
-- [Tips on Jupyter-Book](tips-on-jupyter-book)
-- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
 - [Writing Docs Using Markdown](writing-docs-using-markdown)
-```
-
-## application
-```{dropdown} Click to expand/collapse 13 links
-- [Remove System Applications in macOS](remove-system-applications-in-macos)
-- [Use Streamlit to Build a Web App Quickly Using Python](use-streamlit-to-build-a-web-app-quickly-using-python)
-- [Develop a GUI Application in Rust](develop-a-gui-application-in-rust)
-- [App Platforms](app-platforms)
-- [Great Apps Developed in Rust](great-apps-developed-in-rust)
-- [Tips on WezTerm](tips-on-wezterm)
-- [Useful Rust Crates for Developing Command Line Apps](useful-rust-crates-for-developing-command-line-apps)
-- [Manage AppImages on Linux](manage-appimages-on-linux)
-- [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
-- [Useful Tools in Linux](useful-tools-in-linux)
-- [Manage Autostart Applications](manage-autostart-applications)
-- [Make Your Life Easier with Portable Applications](make-your-life-easier-with-portable-applications)
-- [The Absolutely Best App for Taking Notes](the-absolutely-best-app-for-taking-notes)
 ```
 
 ## SSH | ssh
@@ -5975,6 +5975,54 @@ site:
 - [Data for Computer Vision Research](data-for-computer-vision-research)
 - [Data for NLP Research](data-for-nlp-research)
 - [Data for Testing](data-for-testing)
+```
+
+## PIL
+```{dropdown} Click to expand/collapse 12 links
+- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
+- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
+- [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
+- [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
+- [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
+- [Compare Images Using Python](compare-images-using-python)
+- [Rotate an Image Using Pillow in Python](rotate-an-image-using-pillow-in-python)
+- [Image Filters in Pillow](image-filters-in-pillow)
+- [Hands-on the ImageChops class in Pillow in Python](hands-on-the-imagechops-class-in-pillow-in-python)
+- [Take Screenshots in Python](take-screenshots-in-python)
+- [Convert an Image to Differnt Modes Using Pillow in Python](convert-an-image-to-differnt-modes-using-pillow-in-python)
+- [Load Images into Pillow](load-images-into-pillow)
+```
+
+## R
+```{dropdown} Click to expand/collapse 12 links
+- [Model Fitting in ANOVA Analysis](model-fitting-in-anova-analysis)
+- [Inverse of a Special Class of Matrices with High Dimensions](inverse-of-a-special-class-of-matrices-with-high-dimensions)
+- [Stick Breaking Problems](stick-breaking-problems)
+- [Abuse of Vector in R](abuse-of-vector-in-r)
+- [An IO Bug in R](an-io-bug-in-r)
+- [String in Different Programming Languages](string-in-different-programming-languages)
+- [Estimation of False Discovery Rate using Sequential Permutation Pvalues](estimation-of-false-discovery-rate-using-sequential-permutation-pvalues)
+- [Define Operator in R](define-operator-in-r)
+- [Regular Expression Equivalent](regular-expression-equivalent)
+- [Count Number of Fields in Each Line](count-number-of-fields-in-each-line)
+- [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
+- [Convert Math Formula and Table To LaTeX](convert-math-formula-and-table-to-latex)
+```
+
+## Mathematica
+```{dropdown} Click to expand/collapse 12 links
+- [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
+- [Probability to Get a Complete Deck of Cards?](probability-to-get-a-complete-deck-of-cards)
+- [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
+- [Expected Gain of Tossing a Dice](expected-gain-of-tossing-a-dice)
+- [Tools for Symbolic Computation](tools-for-symbolic-computation)
+- [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
+- [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan)
+- [A Bug in Mathematica](a-bug-in-mathematica)
+- [Some Useful Properties of Modified Bessel Functions of the First Kind](some-useful-properties-of-modified-bessel-functions-of-the-first-kind)
+- [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
+- [Convert Math Formula and Table To LaTeX](convert-math-formula-and-table-to-latex)
+- [The Sum and Product Puzzle](the-sum-and-product-puzzle)
 ```
 
 ## class
@@ -6041,22 +6089,6 @@ site:
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 ```
 
-## Mathematica
-```{dropdown} Click to expand/collapse 12 links
-- [Tools for Symbolic Computation](tools-for-symbolic-computation)
-- [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
-- [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
-- [Probability to Get a Complete Deck of Cards?](probability-to-get-a-complete-deck-of-cards)
-- [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
-- [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan)
-- [A Bug in Mathematica](a-bug-in-mathematica)
-- [Some Useful Properties of Modified Bessel Functions of the First Kind](some-useful-properties-of-modified-bessel-functions-of-the-first-kind)
-- [Expected Gain of Tossing a Dice](expected-gain-of-tossing-a-dice)
-- [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
-- [Convert Math Formula and Table To LaTeX](convert-math-formula-and-table-to-latex)
-- [The Sum and Product Puzzle](the-sum-and-product-puzzle)
-```
-
 ## Debian
 ```{dropdown} Click to expand/collapse 12 links
 - [Wirelss for Debian](wirelss-for-debian)
@@ -6073,38 +6105,6 @@ site:
 - [Install Firefox in Debian](install-firefox-in-debian)
 ```
 
-## PIL
-```{dropdown} Click to expand/collapse 12 links
-- [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
-- [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
-- [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
-- [Compare Images Using Python](compare-images-using-python)
-- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
-- [Rotate an Image Using Pillow in Python](rotate-an-image-using-pillow-in-python)
-- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
-- [Image Filters in Pillow](image-filters-in-pillow)
-- [Hands-on the ImageChops class in Pillow in Python](hands-on-the-imagechops-class-in-pillow-in-python)
-- [Take Screenshots in Python](take-screenshots-in-python)
-- [Convert an Image to Differnt Modes Using Pillow in Python](convert-an-image-to-differnt-modes-using-pillow-in-python)
-- [Load Images into Pillow](load-images-into-pillow)
-```
-
-## R
-```{dropdown} Click to expand/collapse 12 links
-- [Model Fitting in ANOVA Analysis](model-fitting-in-anova-analysis)
-- [Inverse of a Special Class of Matrices with High Dimensions](inverse-of-a-special-class-of-matrices-with-high-dimensions)
-- [Abuse of Vector in R](abuse-of-vector-in-r)
-- [An IO Bug in R](an-io-bug-in-r)
-- [String in Different Programming Languages](string-in-different-programming-languages)
-- [Estimation of False Discovery Rate using Sequential Permutation Pvalues](estimation-of-false-discovery-rate-using-sequential-permutation-pvalues)
-- [Define Operator in R](define-operator-in-r)
-- [Regular Expression Equivalent](regular-expression-equivalent)
-- [Count Number of Fields in Each Line](count-number-of-fields-in-each-line)
-- [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
-- [Convert Math Formula and Table To LaTeX](convert-math-formula-and-table-to-latex)
-- [Stick Breaking Problems](stick-breaking-problems)
-```
-
 ## NLP
 ```{dropdown} Click to expand/collapse 12 links
 - [Nature Language Processing Using NLTK](nature-language-processing-using-nltk)
@@ -6119,6 +6119,66 @@ site:
 - [The GPT-2 Model in NLP](the-gpt-2-model-in-nlp)
 - [Tips on Transformer in NLP](tips-on-transformer-in-nlp)
 - [Understand Attention in NLP](understand-attention-in-nlp)
+```
+
+## math
+```{dropdown} Click to expand/collapse 11 links
+- [Matrix Decomposition](matrix-decomposition)
+- [Inverse of a Special Class of Matrices with High Dimensions](inverse-of-a-special-class-of-matrices-with-high-dimensions)
+- [The Power of Generating Functions](the-power-of-generating-functions)
+- [Do Calculus Using SageMath](do-calculus-using-sagemath)
+- [Useful Rust Crates for Numeric Computation](useful-rust-crates-for-numeric-computation)
+- [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
+- [Good Third-party Math Libraries for Scala](good-third-party-math-libraries-for-scala)
+- [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan)
+- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
+- [Hands on scala.math](hands-on-scala.math)
+- [The Sum and Product Puzzle](the-sum-and-product-puzzle)
+```
+
+## map | Map
+```{dropdown} Click to expand/collapse 11 links
+- [Probability to Lose All Money](probability-to-lose-all-money)
+- [Map in Golang](map-in-golang)
+- [Ordered Map in Golang](ordered-map-in-golang)
+- [Directly Initialize a Hashmap in Java](directly-initialize-a-hashmap-in-java)
+- [Hands on the Rust Crate lru](hands-on-the-rust-crate-lru)
+- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
+- [Row-based Mapping and Filtering on DataFrames in Spark](row-based-mapping-and-filtering-on-dataframes-in-spark)
+- [Function Programming in Python](function-programming-in-python)
+- [Collections and Iterators in C++](collections-and-iterators-in-c++)
+- [Collections in Kotlin](collections-in-kotlin)
+- [HashMap in Scala](hashmap-in-scala)
+```
+
+## vehicle | Vehicle
+```{dropdown} Click to expand/collapse 11 links
+- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
+- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
+- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
+- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
+- [Tips on Tesla Model Y](tips-on-tesla-model-y)
+- [Proximity Locking on Rivian](proximity-locking-on-rivian)
+- [Tips on Electronic Vehicles](tips-on-electronic-vehicles)
+- [Service Your Rivian Car](service-your-rivian-car)
+- [Tips on Car Tires](tips-on-car-tires)
+- [Tips on Car Maintenance](tips-on-car-maintenance)
+- [Flat Tire on Rivian](flat-tire-on-rivian)
+```
+
+## build
+```{dropdown} Click to expand/collapse 11 links
+- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
+- [Create Videos from Scratch](create-videos-from-scratch)
+- [Compiler and Build Tools](compiler-and-build-tools)
+- [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
+- [Speed Up Rust Build With Cache](speed-up-rust-build-with-cache)
+- [Speed Up Rust Compile Time](speed-up-rust-compile-time)
+- [Cargo Build Script Add Wings to Cargo Build](cargo-build-script-add-wings-to-cargo-build)
+- [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
+- [Build Docker Images Using Kaniko](build-docker-images-using-kaniko)
+- [Tips on Creating Docker Images](tips-on-creating-docker-images)
+- [Build Spark from Source](build-spark-from-source)
 ```
 
 ## deserialization
@@ -6181,36 +6241,6 @@ site:
 - [Tips on Rust](tips-on-rust)
 ```
 
-## math
-```{dropdown} Click to expand/collapse 11 links
-- [Do Calculus Using SageMath](do-calculus-using-sagemath)
-- [Useful Rust Crates for Numeric Computation](useful-rust-crates-for-numeric-computation)
-- [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
-- [Good Third-party Math Libraries for Scala](good-third-party-math-libraries-for-scala)
-- [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan)
-- [Inverse of a Special Class of Matrices with High Dimensions](inverse-of-a-special-class-of-matrices-with-high-dimensions)
-- [The Power of Generating Functions](the-power-of-generating-functions)
-- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
-- [Hands on scala.math](hands-on-scala.math)
-- [The Sum and Product Puzzle](the-sum-and-product-puzzle)
-- [Matrix Decomposition](matrix-decomposition)
-```
-
-## map | Map
-```{dropdown} Click to expand/collapse 11 links
-- [Map in Golang](map-in-golang)
-- [Ordered Map in Golang](ordered-map-in-golang)
-- [Directly Initialize a Hashmap in Java](directly-initialize-a-hashmap-in-java)
-- [Hands on the Rust Crate lru](hands-on-the-rust-crate-lru)
-- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
-- [Row-based Mapping and Filtering on DataFrames in Spark](row-based-mapping-and-filtering-on-dataframes-in-spark)
-- [Function Programming in Python](function-programming-in-python)
-- [Probability to Lose All Money](probability-to-lose-all-money)
-- [Collections and Iterators in C++](collections-and-iterators-in-c++)
-- [Collections in Kotlin](collections-in-kotlin)
-- [HashMap in Scala](hashmap-in-scala)
-```
-
 ## repository
 ```{dropdown} Click to expand/collapse 11 links
 - [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
@@ -6256,21 +6286,6 @@ site:
 - [Tips on GitHub](tips-on-github)
 ```
 
-## build
-```{dropdown} Click to expand/collapse 11 links
-- [Create Videos from Scratch](create-videos-from-scratch)
-- [Compiler and Build Tools](compiler-and-build-tools)
-- [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
-- [Speed Up Rust Build With Cache](speed-up-rust-build-with-cache)
-- [Speed Up Rust Compile Time](speed-up-rust-compile-time)
-- [Cargo Build Script Add Wings to Cargo Build](cargo-build-script-add-wings-to-cargo-build)
-- [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
-- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
-- [Build Docker Images Using Kaniko](build-docker-images-using-kaniko)
-- [Tips on Creating Docker Images](tips-on-creating-docker-images)
-- [Build Spark from Source](build-spark-from-source)
-```
-
 ## development
 ```{dropdown} Click to expand/collapse 11 links
 - [Tips on Frontend Development](tips-on-frontend-development)
@@ -6301,19 +6316,18 @@ site:
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 ```
 
-## vehicle | Vehicle
-```{dropdown} Click to expand/collapse 11 links
-- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
-- [Proximity Locking on Rivian](proximity-locking-on-rivian)
-- [Tips on Electronic Vehicles](tips-on-electronic-vehicles)
-- [Service Your Rivian Car](service-your-rivian-car)
-- [Tips on Car Tires](tips-on-car-tires)
-- [Tips on Car Maintenance](tips-on-car-maintenance)
-- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
-- [Tips on Tesla Model Y](tips-on-tesla-model-y)
-- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
-- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
-- [Flat Tire on Rivian](flat-tire-on-rivian)
+## bash | Bash
+```{dropdown} Click to expand/collapse 10 links
+- [Using Bash in Docker](using-bash-in-docker)
+- [Shell in Docker](shell-in-docker)
+- [Get OS and Architecture Information in Shell](get-os-and-architecture-information-in-shell)
+- [Generating Completions Script Using crazy-complete](generating-completions-script-using-crazy-complete)
+- [Python Alternatives to Shell](python-alternatives-to-shell)
+- [String in Different Programming Languages](string-in-different-programming-languages)
+- [Operators in Different Programming Languages](operators-in-different-programming-languages)
+- [Docker in WSL 2](docker-in-wsl-2)
+- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
+- [Change Shell in Mac](change-shell-in-mac)
 ```
 
 ## cpp
@@ -6400,20 +6414,6 @@ site:
 - [Tips on the Transformers Python Library for NLP](tips-on-the-transformers-python-library-for-nlp)
 ```
 
-## bash | Bash
-```{dropdown} Click to expand/collapse 10 links
-- [Shell in Docker](shell-in-docker)
-- [Get OS and Architecture Information in Shell](get-os-and-architecture-information-in-shell)
-- [Generating Completions Script Using crazy-complete](generating-completions-script-using-crazy-complete)
-- [Using Bash in Docker](using-bash-in-docker)
-- [Python Alternatives to Shell](python-alternatives-to-shell)
-- [String in Different Programming Languages](string-in-different-programming-languages)
-- [Operators in Different Programming Languages](operators-in-different-programming-languages)
-- [Docker in WSL 2](docker-in-wsl-2)
-- [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
-- [Change Shell in Mac](change-shell-in-mac)
-```
-
 ## video
 ```{dropdown} Click to expand/collapse 10 links
 - [Create Videos from Scratch](create-videos-from-scratch)
@@ -6470,8 +6470,9 @@ site:
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 ```
 
-## Series | series
+## series | Series
 ```{dropdown} Click to expand/collapse 9 links
+- [The Power of Generating Functions](the-power-of-generating-functions)
 - [Get Index of True Values of a Sequence in Python](get-index-of-true-values-of-a-sequence-in-python)
 - [Convert Between a Pandas.Series and a Dict-Like Object](convert-between-a-pandas.series-and-a-dict-like-object)
 - [Polars Series in Rust](polars-series-in-rust)
@@ -6480,7 +6481,110 @@ site:
 - [ifelse on Pandas Series](ifelse-on-pandas-series)
 - [Hands on pandas.Series in Python](hands-on-pandas.series-in-python)
 - [Understand Index in pandas](understand-index-in-pandas)
-- [The Power of Generating Functions](the-power-of-generating-functions)
+```
+
+## RNG
+```{dropdown} Click to expand/collapse 9 links
+- [Summary on Random Number Generators](summary-on-random-number-generators)
+- [Generating Random Numbers in Rust](generating-random-numbers-in-rust)
+- [Use of Mock Values in Rust](use-of-mock-values-in-rust)
+- [Parallel RNGs With Rayon in Rust](parallel-rngs-with-rayon-in-rust)
+- [Seed Many RNGs in Rust](seed-many-rngs-in-rust)
+- [Understand System.identityHashCode in Java](understand-system.identityhashcode-in-java)
+- [Hands on the Python module random](hands-on-the-python-module-random)
+- [Thread Safe Random Number Generator](thread-safe-random-number-generator)
+- [Make Your Model Training Reproducible in PyTorch](make-your-model-training-reproducible-in-pytorch)
+```
+
+## travel
+```{dropdown} Click to expand/collapse 9 links
+- [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
+- [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
+- [Tips on RV](tips-on-rv)
+- [Tips on Mount Rainer](tips-on-mount-rainer)
+- [Traveling Without Hassle](traveling-without-hassle)
+- [Tips on US Visas](tips-on-us-visas)
+- [Get Deals for Traveling](get-deals-for-traveling)
+- [Tips on Airbnb](tips-on-airbnb)
+- [Driving on Snow and Ice](driving-on-snow-and-ice)
+```
+
+## EV
+```{dropdown} Click to expand/collapse 9 links
+- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
+- [Tips on Rivian Electronic Vehicles](tips-on-rivian-electronic-vehicles)
+- [Tips on Electronic Vehicles](tips-on-electronic-vehicles)
+- [Wheels and Tires for Rivian](wheels-and-tires-for-rivian)
+- [Useful Accessories for Rivian](useful-accessories-for-rivian)
+- [Tips on Vancouver BC](tips-on-vancouver-bc)
+- [Tips on Leavenworth WA](tips-on-leavenworth-wa)
+- [Tips on Tesla Superchargers](tips-on-tesla-superchargers)
+- [Fast DC Charging in WA](fast-dc-charging-in-wa)
+```
+
+## Apple
+```{dropdown} Click to expand/collapse 9 links
+- [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
+- [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
+- [Enable and Disable Key Repeating in macOS](enable-and-disable-key-repeating-in-macos)
+- [Tips on macOS](tips-on-macos)
+- [Shortcuts in macOS](shortcuts-in-macos)
+- [Things to Do After Reimaging Mac](things-to-do-after-reimaging-mac)
+- [Map Keys in macOS](map-keys-in-macos)
+- [Mirroring Screen from iPhone or iPad to Macbook](mirroring-screen-from-iphone-or-ipad-to-macbook)
+- [Turn on Remote Login in Mac](turn-on-remote-login-in-mac)
+```
+
+## tool
+```{dropdown} Click to expand/collapse 9 links
+- [Linux Network Tools](linux-network-tools)
+- [Tips on MuMu App Player](tips-on-mumu-app-player)
+- [Tips on KeepassXC](tips-on-keepassxc)
+- [Rip Is rm Improved](rip-is-rm-improved)
+- [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
+- [Compiler and Build Tools](compiler-and-build-tools)
+- [Tips on Windows Terminal](tips-on-windows-terminal)
+- [Dev Tools for Rust](dev-tools-for-rust)
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
+```
+
+## Kubernetes
+```{dropdown} Click to expand/collapse 9 links
+- [Tips on Kubernetes](tips-on-kubernetes)
+- [Tips on OpenFaaS](tips-on-openfaas)
+- [Tips on Minikube](tips-on-minikube)
+- [Tips on Microk8S](tips-on-microk8s)
+- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
+- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
+- [Webassembly as An Alternative to Containers](webassembly-as-an-alternative-to-containers)
+- [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
+- [Deploy Apache Ray](deploy-apache-ray)
+```
+
+## k8s
+```{dropdown} Click to expand/collapse 9 links
+- [Tips on Kubernetes](tips-on-kubernetes)
+- [Tips on OpenFaaS](tips-on-openfaas)
+- [Tips on Minikube](tips-on-minikube)
+- [Tips on Microk8S](tips-on-microk8s)
+- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
+- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
+- [Webassembly as An Alternative to Containers](webassembly-as-an-alternative-to-containers)
+- [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
+- [Deploy Apache Ray](deploy-apache-ray)
+```
+
+## NeoVim | neovim
+```{dropdown} Click to expand/collapse 9 links
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
+- [Tips on AstroNvim](tips-on-astronvim)
+- [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
+- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
+- [Typing Chinese in Vim](typing-chinese-in-vim)
+- [Vim as a Universal Editor](vim-as-a-universal-editor)
+- [Tips on NeoVim](tips-on-neovim)
+- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
 ```
 
 ## numpy
@@ -6522,32 +6626,6 @@ site:
 - [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
 ```
 
-## tool
-```{dropdown} Click to expand/collapse 9 links
-- [Rip Is rm Improved](rip-is-rm-improved)
-- [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
-- [Compiler and Build Tools](compiler-and-build-tools)
-- [Tips on Windows Terminal](tips-on-windows-terminal)
-- [Tips on MuMu App Player](tips-on-mumu-app-player)
-- [Dev Tools for Rust](dev-tools-for-rust)
-- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
-- [Linux Network Tools](linux-network-tools)
-- [Tips on KeepassXC](tips-on-keepassxc)
-```
-
-## RNG
-```{dropdown} Click to expand/collapse 9 links
-- [Generating Random Numbers in Rust](generating-random-numbers-in-rust)
-- [Use of Mock Values in Rust](use-of-mock-values-in-rust)
-- [Parallel RNGs With Rayon in Rust](parallel-rngs-with-rayon-in-rust)
-- [Seed Many RNGs in Rust](seed-many-rngs-in-rust)
-- [Understand System.identityHashCode in Java](understand-system.identityhashcode-in-java)
-- [Hands on the Python module random](hands-on-the-python-module-random)
-- [Summary on Random Number Generators](summary-on-random-number-generators)
-- [Thread Safe Random Number Generator](thread-safe-random-number-generator)
-- [Make Your Model Training Reproducible in PyTorch](make-your-model-training-reproducible-in-pytorch)
-```
-
 ## trading
 ```{dropdown} Click to expand/collapse 9 links
 - [Hands on pandas_market_calendars](hands-on-pandas_market_calendars)
@@ -6587,45 +6665,6 @@ site:
 - [Tips on Web Development](tips-on-web-development)
 ```
 
-## NeoVim | neovim
-```{dropdown} Click to expand/collapse 9 links
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
-- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
-- [Tips on AstroNvim](tips-on-astronvim)
-- [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
-- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
-- [Typing Chinese in Vim](typing-chinese-in-vim)
-- [Vim as a Universal Editor](vim-as-a-universal-editor)
-- [Tips on NeoVim](tips-on-neovim)
-- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
-```
-
-## Kubernetes
-```{dropdown} Click to expand/collapse 9 links
-- [Webassembly as An Alternative to Containers](webassembly-as-an-alternative-to-containers)
-- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
-- [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
-- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
-- [Tips on Kubernetes](tips-on-kubernetes)
-- [Tips on Minikube](tips-on-minikube)
-- [Tips on Microk8S](tips-on-microk8s)
-- [Deploy Apache Ray](deploy-apache-ray)
-- [Tips on OpenFaaS](tips-on-openfaas)
-```
-
-## k8s
-```{dropdown} Click to expand/collapse 9 links
-- [Webassembly as An Alternative to Containers](webassembly-as-an-alternative-to-containers)
-- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
-- [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
-- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
-- [Tips on Kubernetes](tips-on-kubernetes)
-- [Tips on Minikube](tips-on-minikube)
-- [Tips on Microk8S](tips-on-microk8s)
-- [Deploy Apache Ray](deploy-apache-ray)
-- [Tips on OpenFaaS](tips-on-openfaas)
-```
-
 ## LLM
 ```{dropdown} Click to expand/collapse 9 links
 - [Tips on Large Language Models](tips-on-large-language-models)
@@ -6637,19 +6676,6 @@ site:
 - [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 - [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 - [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
-```
-
-## Apple
-```{dropdown} Click to expand/collapse 9 links
-- [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
-- [Enable and Disable Key Repeating in macOS](enable-and-disable-key-repeating-in-macos)
-- [Tips on macOS](tips-on-macos)
-- [Shortcuts in macOS](shortcuts-in-macos)
-- [Things to Do After Reimaging Mac](things-to-do-after-reimaging-mac)
-- [Map Keys in macOS](map-keys-in-macos)
-- [Mirroring Screen from iPhone or iPad to Macbook](mirroring-screen-from-iphone-or-ipad-to-macbook)
-- [Turn on Remote Login in Mac](turn-on-remote-login-in-mac)
-- [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
 ```
 
 ## synchronization
@@ -6665,30 +6691,124 @@ site:
 - [Synchronize System Time in Debian](synchronize-system-time-in-debian)
 ```
 
-## travel
-```{dropdown} Click to expand/collapse 9 links
-- [Traveling Without Hassle](traveling-without-hassle)
-- [Tips on US Visas](tips-on-us-visas)
-- [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
-- [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
-- [Tips on RV](tips-on-rv)
-- [Get Deals for Traveling](get-deals-for-traveling)
-- [Tips on Airbnb](tips-on-airbnb)
-- [Driving on Snow and Ice](driving-on-snow-and-ice)
-- [Tips on Mount Rainer](tips-on-mount-rainer)
+## pattern
+```{dropdown} Click to expand/collapse 8 links
+- [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
+- [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
+- [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
+- [Pattern Matching in Rust](pattern-matching-in-rust)
+- [Hands on the Glob Crate in Rust](hands-on-the-glob-crate-in-rust)
+- [Tips on Code Design](tips-on-code-design)
+- [Design Pattern and Productivity for Rust](design-pattern-and-productivity-for-rust)
+- [Check Whether an Email Address Is Valid in Java](check-whether-an-email-address-is-valid-in-java)
 ```
 
-## EV
-```{dropdown} Click to expand/collapse 9 links
-- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
-- [Tips on Rivian Electronic Vehicles](tips-on-rivian-electronic-vehicles)
-- [Tips on Electronic Vehicles](tips-on-electronic-vehicles)
-- [Wheels and Tires for Rivian](wheels-and-tires-for-rivian)
-- [Useful Accessories for Rivian](useful-accessories-for-rivian)
-- [Tips on Vancouver BC](tips-on-vancouver-bc)
-- [Tips on Leavenworth WA](tips-on-leavenworth-wa)
-- [Tips on Tesla Superchargers](tips-on-tesla-superchargers)
-- [Fast DC Charging in WA](fast-dc-charging-in-wa)
+## sequence
+```{dropdown} Click to expand/collapse 8 links
+- [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
+- [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
+- [The Power of Generating Functions](the-power-of-generating-functions)
+- [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
+- [Get Index of True Values of a Sequence in Python](get-index-of-true-values-of-a-sequence-in-python)
+- [Pad a Sequence in Python](pad-a-sequence-in-python)
+- [Array in Rust](array-in-rust)
+- [Create a Date Range in Python](create-a-date-range-in-python)
+```
+
+## graph | Graph
+```{dropdown} Click to expand/collapse 8 links
+- [Stick Breaking Problems](stick-breaking-problems)
+- [Hands on the Graphlib Module in Python](hands-on-the-graphlib-module-in-python)
+- [Tips on NetworkX](tips-on-networkx)
+- [Multiple Lines on the Same Plot Using hvplot](multiple-lines-on-the-same-plot-using-hvplot)
+- [Tips on Deep Graph Learning](tips-on-deep-graph-learning)
+- [Inline Dot Graph in Docs](inline-dot-graph-in-docs)
+- [Visualization Using Plotly](visualization-using-plotly)
+- [Tips on Microsoft Graph APIs](tips-on-microsoft-graph-apis)
+```
+
+## automation
+```{dropdown} Click to expand/collapse 8 links
+- [Ways to Download Files Using Selenium Webdrive](ways-to-download-files-using-selenium-webdrive)
+- [GUI Automation Tools in Python](gui-automation-tools-in-python)
+- [Tips on UI Vision](tips-on-ui-vision)
+- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
+- [Web Automation](web-automation)
+- [Use OculiX to Automate Anything](use-oculix-to-automate-anything)
+- [Web Automation and Testing Using PlayWright](web-automation-and-testing-using-playwright)
+- [Typing Automatically Using AutoHotkey](typing-automatically-using-autohotkey)
+```
+
+## shopping
+```{dropdown} Click to expand/collapse 8 links
+- [Shopping on Costco](shopping-on-costco)
+- [Shopping Smartly](shopping-smartly)
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Tips on Housing](tips-on-housing)
+- [Living in Charlotte](living-in-charlotte)
+- [Shopping on Amazon](shopping-on-amazon)
+- [Shopping at Macys](shopping-at-macys)
+- [Shopping At Homedepot](shopping-at-homedepot)
+```
+
+## security
+```{dropdown} Click to expand/collapse 8 links
+- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
+- [Tips on Security](tips-on-security)
+- [Surf Web Anonymously](surf-web-anonymously)
+- [Security Tools in Python](security-tools-in-python)
+- [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
+- [Shodan - Search Engine for IoT](shodan-search-engine-for-iot)
+- [Package Capture on Phones](package-capture-on-phones)
+- [Make Your Linux Server Securer](make-your-linux-server-securer)
+```
+
+## CSV
+```{dropdown} Click to expand/collapse 8 links
+- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
+- [Read and Write CSV Files in Rust](read-and-write-csv-files-in-rust)
+- [Read CSV Using Polars in Python](read-csv-using-polars-in-python)
+- [Read CSV Files Using Polars in Rust](read-csv-files-using-polars-in-rust)
+- [IO in Mojo](io-in-mojo)
+- [Read/Write CSV in Spark](read-write-csv-in-spark)
+- [Read/Write CSV in Spark](read-write-csv-in-spark)
+- [Read/Write CSV in PySpark](read-write-csv-in-pyspark)
+```
+
+## download
+```{dropdown} Click to expand/collapse 8 links
+- [Linux Network Tools](linux-network-tools)
+- [Surf Web Anonymously](surf-web-anonymously)
+- [Download a Single File from a GitHub Repository](download-a-single-file-from-a-github-repository)
+- [Downloading Tools](downloading-tools)
+- [Download Files from the Internet in Python](download-files-from-the-internet-in-python)
+- [Use External Downloader for Firefox](use-external-downloader-for-firefox)
+- [Download Files Using Transmission](download-files-using-transmission)
+- [Use wget with Proxy](use-wget-with-proxy)
+```
+
+## function
+```{dropdown} Click to expand/collapse 8 links
+- [Tips on OpenFaaS](tips-on-openfaas)
+- [Check Whether a Python Object Is Callable](check-whether-a-python-object-is-callable)
+- [Boolean Column Operators and Functions in Spark](boolean-column-operators-and-functions-in-spark)
+- [Perfect Hash Functions](perfect-hash-functions)
+- [Ignore Nulls in the Analytical Window Function Lead in SQL](ignore-nulls-in-the-analytical-window-function-lead-in-sql)
+- [Named Arguments in Kotlin](named-arguments-in-kotlin)
+- [Function in Rust](function-in-rust)
+- [Date Functions in Spark](date-functions-in-spark)
+```
+
+## plugin
+```{dropdown} Click to expand/collapse 8 links
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
+- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
+- [Useful Chrome Extensions](useful-chrome-extensions)
+- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
+- [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
+- [Vim Keybindings in Firefox Using Tridactyl](vim-keybindings-in-firefox-using-tridactyl)
+- [sbt Plugins for Deployment](sbt-plugins-for-deployment)
 ```
 
 ## index | Index
@@ -6703,18 +6823,6 @@ site:
 - [Understand Index in pandas](understand-index-in-pandas)
 ```
 
-## sequence
-```{dropdown} Click to expand/collapse 8 links
-- [Get Index of True Values of a Sequence in Python](get-index-of-true-values-of-a-sequence-in-python)
-- [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
-- [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
-- [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
-- [Pad a Sequence in Python](pad-a-sequence-in-python)
-- [Array in Rust](array-in-rust)
-- [Create a Date Range in Python](create-a-date-range-in-python)
-- [The Power of Generating Functions](the-power-of-generating-functions)
-```
-
 ## profile
 ```{dropdown} Click to expand/collapse 8 links
 - [Memory Profiler for Python](memory-profiler-for-python)
@@ -6725,18 +6833,6 @@ site:
 - [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
 - [Profile Performance of Python Applications](profile-performance-of-python-applications)
 - [Profile C++ Code](profile-c++-code)
-```
-
-## function
-```{dropdown} Click to expand/collapse 8 links
-- [Check Whether a Python Object Is Callable](check-whether-a-python-object-is-callable)
-- [Boolean Column Operators and Functions in Spark](boolean-column-operators-and-functions-in-spark)
-- [Perfect Hash Functions](perfect-hash-functions)
-- [Ignore Nulls in the Analytical Window Function Lead in SQL](ignore-nulls-in-the-analytical-window-function-lead-in-sql)
-- [Named Arguments in Kotlin](named-arguments-in-kotlin)
-- [Function in Rust](function-in-rust)
-- [Date Functions in Spark](date-functions-in-spark)
-- [Tips on OpenFaaS](tips-on-openfaas)
 ```
 
 ## logging
@@ -6811,30 +6907,6 @@ site:
 - [String in Python](string-in-python)
 ```
 
-## graph | Graph
-```{dropdown} Click to expand/collapse 8 links
-- [Hands on the Graphlib Module in Python](hands-on-the-graphlib-module-in-python)
-- [Tips on NetworkX](tips-on-networkx)
-- [Multiple Lines on the Same Plot Using hvplot](multiple-lines-on-the-same-plot-using-hvplot)
-- [Tips on Deep Graph Learning](tips-on-deep-graph-learning)
-- [Inline Dot Graph in Docs](inline-dot-graph-in-docs)
-- [Visualization Using Plotly](visualization-using-plotly)
-- [Stick Breaking Problems](stick-breaking-problems)
-- [Tips on Microsoft Graph APIs](tips-on-microsoft-graph-apis)
-```
-
-## pattern
-```{dropdown} Click to expand/collapse 8 links
-- [Pattern Matching in Rust](pattern-matching-in-rust)
-- [Hands on the Glob Crate in Rust](hands-on-the-glob-crate-in-rust)
-- [Tips on Code Design](tips-on-code-design)
-- [Design Pattern and Productivity for Rust](design-pattern-and-productivity-for-rust)
-- [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
-- [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
-- [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
-- [Check Whether an Email Address Is Valid in Java](check-whether-an-email-address-is-valid-in-java)
-```
-
 ## reference
 ```{dropdown} Click to expand/collapse 8 links
 - [Extract Identifier Names from a SQL Query Using Sqlfluff](extract-identifier-names-from-a-sql-query-using-sqlfluff)
@@ -6857,18 +6929,6 @@ site:
 - [Working with Iterators in Python](working-with-iterators-in-python)
 - [Collections and Iterators in C++](collections-and-iterators-in-c++)
 - [Erase Elements of a Container Using Iterator in C++](erase-elements-of-a-container-using-iterator-in-c++)
-```
-
-## CSV
-```{dropdown} Click to expand/collapse 8 links
-- [Read and Write CSV Files in Rust](read-and-write-csv-files-in-rust)
-- [Read CSV Using Polars in Python](read-csv-using-polars-in-python)
-- [Read CSV Files Using Polars in Rust](read-csv-files-using-polars-in-rust)
-- [IO in Mojo](io-in-mojo)
-- [Read/Write CSV in Spark](read-write-csv-in-spark)
-- [Read/Write CSV in Spark](read-write-csv-in-spark)
-- [Read/Write CSV in PySpark](read-write-csv-in-pyspark)
-- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
 ```
 
 ## concurrency | Concurrency
@@ -6895,18 +6955,6 @@ site:
 - [Writing Scientific Docs Using Typst](writing-scientific-docs-using-typst)
 ```
 
-## plugin
-```{dropdown} Click to expand/collapse 8 links
-- [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
-- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
-- [Useful Chrome Extensions](useful-chrome-extensions)
-- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
-- [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
-- [Vim Keybindings in Firefox Using Tridactyl](vim-keybindings-in-firefox-using-tridactyl)
-- [sbt Plugins for Deployment](sbt-plugins-for-deployment)
-```
-
 ## desktop
 ```{dropdown} Click to expand/collapse 8 links
 - [Tips on Fbs](tips-on-fbs)
@@ -6917,42 +6965,6 @@ site:
 - [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
 - [Working Remotely in Linux](working-remotely-in-linux)
 - [Manage Autostart Applications](manage-autostart-applications)
-```
-
-## security
-```{dropdown} Click to expand/collapse 8 links
-- [Tips on Security](tips-on-security)
-- [Surf Web Anonymously](surf-web-anonymously)
-- [Security Tools in Python](security-tools-in-python)
-- [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
-- [Shodan - Search Engine for IoT](shodan-search-engine-for-iot)
-- [Package Capture on Phones](package-capture-on-phones)
-- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
-- [Make Your Linux Server Securer](make-your-linux-server-securer)
-```
-
-## download
-```{dropdown} Click to expand/collapse 8 links
-- [Surf Web Anonymously](surf-web-anonymously)
-- [Download a Single File from a GitHub Repository](download-a-single-file-from-a-github-repository)
-- [Downloading Tools](downloading-tools)
-- [Download Files from the Internet in Python](download-files-from-the-internet-in-python)
-- [Use External Downloader for Firefox](use-external-downloader-for-firefox)
-- [Download Files Using Transmission](download-files-using-transmission)
-- [Use wget with Proxy](use-wget-with-proxy)
-- [Linux Network Tools](linux-network-tools)
-```
-
-## automation
-```{dropdown} Click to expand/collapse 8 links
-- [GUI Automation Tools in Python](gui-automation-tools-in-python)
-- [Tips on UI Vision](tips-on-ui-vision)
-- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
-- [Web Automation](web-automation)
-- [Use OculiX to Automate Anything](use-oculix-to-automate-anything)
-- [Web Automation and Testing Using PlayWright](web-automation-and-testing-using-playwright)
-- [Typing Automatically Using AutoHotkey](typing-automatically-using-autohotkey)
-- [Ways to Download Files Using Selenium Webdrive](ways-to-download-files-using-selenium-webdrive)
 ```
 
 ## profiling
@@ -6979,18 +6991,6 @@ site:
 - [Install Firefox in Debian](install-firefox-in-debian)
 ```
 
-## shopping
-```{dropdown} Click to expand/collapse 8 links
-- [Tips on Housing](tips-on-housing)
-- [Living in Charlotte](living-in-charlotte)
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Shopping Smartly](shopping-smartly)
-- [Shopping on Amazon](shopping-on-amazon)
-- [Shopping at Macys](shopping-at-macys)
-- [Shopping At Homedepot](shopping-at-homedepot)
-- [Shopping on Costco](shopping-on-costco)
-```
-
 ## docker image | Docker image
 ```{dropdown} Click to expand/collapse 8 links
 - [Docker Images for OS](docker-images-for-os)
@@ -7001,6 +7001,72 @@ site:
 - [Docker Images for Zeppelin](docker-images-for-zeppelin)
 - [Docker Images for Visualization](docker-images-for-visualization)
 - [Docker Images for Synchronization](docker-images-for-synchronization)
+```
+
+## KDE
+```{dropdown} Click to expand/collapse 7 links
+- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
+- [Configure Fcitx5 for KDE Plasma](configure-fcitx5-for-kde-plasma)
+- [Tips on Basket in KDE](tips-on-basket-in-kde)
+- [Manage Autostart Applications](manage-autostart-applications)
+- [View and Edit PDF Documents Using Okular](view-and-edit-pdf-documents-using-okular)
+- [Desktop Environments for Linux](desktop-environments-for-linux)
+- [Shortcuts for KDE](shortcuts-for-kde)
+```
+
+## Jupyter Notebook | Jupyter notebook
+```{dropdown} Click to expand/collapse 7 links
+- [Docker Images for Notebooks](docker-images-for-notebooks)
+- [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
+- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
+- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
+- [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
+- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+```
+
+## remote
+```{dropdown} Click to expand/collapse 7 links
+- [Maintain Garage Doors](maintain-garage-doors)
+- [Tips and sshfs and fuse](tips-and-sshfs-and-fuse)
+- [Working Remotely in Linux](working-remotely-in-linux)
+- [Useful Tools in Linux](useful-tools-in-linux)
+- [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
+- [Operate Remote Servers Using SSH](operate-remote-servers-using-ssh)
+- [Run Commands on Remote Machines](run-commands-on-remote-machines)
+```
+
+## work | Work
+```{dropdown} Click to expand/collapse 7 links
+- [Tips on Job Seeking](tips-on-job-seeking)
+- [Some Terminologies in Anti-money Laundering (AML)](some-terminologies-in-anti-money-laundering-aml)
+- [Tips on Career](tips-on-career)
+- [Culture of My Summer Intern Team](culture-of-my-summer-intern-team)
+- [Tips on JIRA](tips-on-jira)
+- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
+- [The Sum and Product Puzzle](the-sum-and-product-puzzle)
+```
+
+## VPN
+```{dropdown} Click to expand/collapse 7 links
+- [Linux Network Tools](linux-network-tools)
+- [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
+- [Tips on sshuttle](tips-on-sshuttle)
+- [Proxy and VPN Services](proxy-and-vpn-services)
+- [Tips on VPN](tips-on-vpn)
+- [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
+- [Escape from the Great Firewall of China](escape-from-the-great-firewall-of-china)
+```
+
+## screen
+```{dropdown} Click to expand/collapse 7 links
+- [Get Coordinates of Points on a Screen or Image](get-coordinates-of-points-on-a-screen-or-image)
+- [Take Screenshot in Rust](take-screenshot-in-rust)
+- [Screen Resolution in macOS](screen-resolution-in-macos)
+- [Screen Reader Tools](screen-reader-tools)
+- [Terminal Multiplexers](terminal-multiplexers)
+- [Mirroring Screen from iPhone or iPad to Macbook](mirroring-screen-from-iphone-or-ipad-to-macbook)
+- [Adjust Screen Brightness for Linux Desktops](adjust-screen-brightness-for-linux-desktops)
 ```
 
 ## dependency
@@ -7212,17 +7278,6 @@ site:
 - [Java Unit Testing](java-unit-testing)
 ```
 
-## VPN
-```{dropdown} Click to expand/collapse 7 links
-- [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
-- [Tips on sshuttle](tips-on-sshuttle)
-- [Proxy and VPN Services](proxy-and-vpn-services)
-- [Tips on VPN](tips-on-vpn)
-- [Linux Network Tools](linux-network-tools)
-- [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
-- [Escape from the Great Firewall of China](escape-from-the-great-firewall-of-china)
-```
-
 ## IOT | IoT
 ```{dropdown} Click to expand/collapse 7 links
 - [Tools for IOT](tools-for-iot)
@@ -7256,17 +7311,6 @@ site:
 - [Useful Docker Images](useful-docker-images)
 ```
 
-## screen
-```{dropdown} Click to expand/collapse 7 links
-- [Take Screenshot in Rust](take-screenshot-in-rust)
-- [Screen Resolution in macOS](screen-resolution-in-macos)
-- [Screen Reader Tools](screen-reader-tools)
-- [Terminal Multiplexers](terminal-multiplexers)
-- [Get Coordinates of Points on a Screen or Image](get-coordinates-of-points-on-a-screen-or-image)
-- [Mirroring Screen from iPhone or iPad to Macbook](mirroring-screen-from-iphone-or-ipad-to-macbook)
-- [Adjust Screen Brightness for Linux Desktops](adjust-screen-brightness-for-linux-desktops)
-```
-
 ## browser
 ```{dropdown} Click to expand/collapse 7 links
 - [Incognito Mode for Browsers](incognito-mode-for-browsers)
@@ -7289,28 +7333,6 @@ site:
 - [Date and Time in Rust](date-and-time-in-rust)
 ```
 
-## remote
-```{dropdown} Click to expand/collapse 7 links
-- [Tips and sshfs and fuse](tips-and-sshfs-and-fuse)
-- [Working Remotely in Linux](working-remotely-in-linux)
-- [Useful Tools in Linux](useful-tools-in-linux)
-- [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
-- [Operate Remote Servers Using SSH](operate-remote-servers-using-ssh)
-- [Maintain Garage Doors](maintain-garage-doors)
-- [Run Commands on Remote Machines](run-commands-on-remote-machines)
-```
-
-## work | Work
-```{dropdown} Click to expand/collapse 7 links
-- [Some Terminologies in Anti-money Laundering (AML)](some-terminologies-in-anti-money-laundering-aml)
-- [Tips on Career](tips-on-career)
-- [Culture of My Summer Intern Team](culture-of-my-summer-intern-team)
-- [Tips on Job Seeking](tips-on-job-seeking)
-- [Tips on JIRA](tips-on-jira)
-- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
-- [The Sum and Product Puzzle](the-sum-and-product-puzzle)
-```
-
 ## Chinese
 ```{dropdown} Click to expand/collapse 7 links
 - [Chinese Input Methods](chinese-input-methods)
@@ -7322,28 +7344,6 @@ site:
 - [LaTeX for Chinese](latex-for-chinese)
 ```
 
-## KDE
-```{dropdown} Click to expand/collapse 7 links
-- [Configure Fcitx5 for KDE Plasma](configure-fcitx5-for-kde-plasma)
-- [Tips on Basket in KDE](tips-on-basket-in-kde)
-- [Manage Autostart Applications](manage-autostart-applications)
-- [View and Edit PDF Documents Using Okular](view-and-edit-pdf-documents-using-okular)
-- [Desktop Environments for Linux](desktop-environments-for-linux)
-- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
-- [Shortcuts for KDE](shortcuts-for-kde)
-```
-
-## Jupyter Notebook | Jupyter notebook
-```{dropdown} Click to expand/collapse 7 links
-- [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
-- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
-- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
-- [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
-- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
-- [Docker Images for Notebooks](docker-images-for-notebooks)
-- [Visual Studio Code for Python](visual-studio-code-for-python)
-```
-
 ## Rivian
 ```{dropdown} Click to expand/collapse 7 links
 - [Proximity Locking on Rivian](proximity-locking-on-rivian)
@@ -7353,6 +7353,66 @@ site:
 - [Service Your Rivian Car](service-your-rivian-car)
 - [Flat Tire on Rivian](flat-tire-on-rivian)
 - [Fast DC Charging in WA](fast-dc-charging-in-wa)
+```
+
+## Zeppelin | zeppelin
+```{dropdown} Click to expand/collapse 6 links
+- [Docker Images for Notebooks](docker-images-for-notebooks)
+- [Docker Images for Zeppelin](docker-images-for-zeppelin)
+- [Zeppelin Issues and Solutions](zeppelin-issues-and-solutions)
+- [Visualization in Zeppelin](visualization-in-zeppelin)
+- [Zeppelin Interpreter](zeppelin-interpreter)
+- [Tips on Zeppelin](tips-on-zeppelin)
+```
+
+## read
+```{dropdown} Click to expand/collapse 6 links
+- [Understand Terms of Service Quickly](understand-terms-of-service-quickly)
+- [Pandas IO](pandas-io)
+- [IO in Rust](io-in-rust)
+- [Read Tensorboard Logs](read-tensorboard-logs)
+- [Read Multiple Files into a DataFrame in Spark](read-multiple-files-into-a-dataframe-in-spark)
+- [Read/Write Files/Tables in Spark](read-write-files-tables-in-spark)
+```
+
+## health
+```{dropdown} Click to expand/collapse 6 links
+- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
+- [医保](health-insurance-in-china)
+- [Tips on Health](tips-on-health)
+- [Tips on Children Health](tips-on-children-health)
+- [Tips on Children Health](tips-on-children-health)
+- [Smart Watches and Bands](smart-watches-and-bands)
+```
+
+## office | Office
+```{dropdown} Click to expand/collapse 6 links
+- [Tips on Job Seeking](tips-on-job-seeking)
+- [Tips on LibreOffice](tips-on-libreoffice)
+- [Tips on Career](tips-on-career)
+- [Culture of My Summer Intern Team](culture-of-my-summer-intern-team)
+- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
+- [Convert LaTeX to Word](convert-latex-to-word)
+```
+
+## Mac | mac
+```{dropdown} Click to expand/collapse 6 links
+- [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
+- [Docker on Mac](docker-on-mac)
+- [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
+- [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
+- [Map Keys in macOS](map-keys-in-macos)
+- [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
+```
+
+## extension
+```{dropdown} Click to expand/collapse 6 links
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
+- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
+- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
+- [Useful Chrome Extensions](useful-chrome-extensions)
+- [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
 ```
 
 ## partition
@@ -7393,16 +7453,6 @@ site:
 - [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
 - [Power Settings in Linux with GNOME Desktop](power-settings-in-linux-with-gnome-desktop)
 - [Commonly Used File Formats for Configuration](commonly-used-file-formats-for-configuration)
-```
-
-## read
-```{dropdown} Click to expand/collapse 6 links
-- [Pandas IO](pandas-io)
-- [IO in Rust](io-in-rust)
-- [Read Tensorboard Logs](read-tensorboard-logs)
-- [Read Multiple Files into a DataFrame in Spark](read-multiple-files-into-a-dataframe-in-spark)
-- [Read/Write Files/Tables in Spark](read-write-files-tables-in-spark)
-- [Understand Terms of Service Quickly](understand-terms-of-service-quickly)
 ```
 
 ## YAML
@@ -7523,16 +7573,6 @@ site:
 - [Tips on npm](tips-on-npm)
 - [Named Parameters in TypeScript](named-parameters-in-typescript)
 - [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
-```
-
-## extension
-```{dropdown} Click to expand/collapse 6 links
-- [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
-- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
-- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
-- [Useful Chrome Extensions](useful-chrome-extensions)
-- [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
 ```
 
 ## compile
@@ -7675,16 +7715,6 @@ site:
 - [Replace Single Quotes With Double Quotes in Python Code](replace-single-quotes-with-double-quotes-in-python-code)
 ```
 
-## Mac | mac
-```{dropdown} Click to expand/collapse 6 links
-- [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
-- [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
-- [Map Keys in macOS](map-keys-in-macos)
-- [Docker on Mac](docker-on-mac)
-- [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
-- [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
-```
-
 ## Dropbox
 ```{dropdown} Click to expand/collapse 6 links
 - [Install Dropbox Using Flatpak](install-dropbox-using-flatpak)
@@ -7735,16 +7765,6 @@ site:
 - [Install sbt on CentOS](install-sbt-on-centos)
 ```
 
-## health
-```{dropdown} Click to expand/collapse 6 links
-- [医保](health-insurance-in-china)
-- [Tips on Health](tips-on-health)
-- [Tips on Children Health](tips-on-children-health)
-- [Tips on Children Health](tips-on-children-health)
-- [Smart Watches and Bands](smart-watches-and-bands)
-- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
-```
-
 ## functions
 ```{dropdown} Click to expand/collapse 6 links
 - [Rounding Functions in Spark](rounding-functions-in-spark)
@@ -7763,16 +7783,6 @@ site:
 - [Scientific References](scientific-references)
 - [Estimation of False Discovery Rate using Sequential Permutation Pvalues](estimation-of-false-discovery-rate-using-sequential-permutation-pvalues)
 - [Common Errors in Bibliographies](common-errors-in-bibliographies)
-```
-
-## Office | office
-```{dropdown} Click to expand/collapse 6 links
-- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
-- [Convert LaTeX to Word](convert-latex-to-word)
-- [Tips on LibreOffice](tips-on-libreoffice)
-- [Tips on Career](tips-on-career)
-- [Culture of My Summer Intern Team](culture-of-my-summer-intern-team)
-- [Tips on Job Seeking](tips-on-job-seeking)
 ```
 
 ## desktop environment
@@ -7795,16 +7805,6 @@ site:
 - [Install sbt on CentOS](install-sbt-on-centos)
 ```
 
-## zeppelin | Zeppelin
-```{dropdown} Click to expand/collapse 6 links
-- [Tips on Zeppelin](tips-on-zeppelin)
-- [Docker Images for Zeppelin](docker-images-for-zeppelin)
-- [Zeppelin Issues and Solutions](zeppelin-issues-and-solutions)
-- [Visualization in Zeppelin](visualization-in-zeppelin)
-- [Zeppelin Interpreter](zeppelin-interpreter)
-- [Docker Images for Notebooks](docker-images-for-notebooks)
-```
-
 ## stock
 ```{dropdown} Click to expand/collapse 6 links
 - [Investment](investment)
@@ -7823,6 +7823,177 @@ site:
 - [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
 - [Tips on Robinhood](tips-on-robinhood)
 - [Tips on Fidelity](tips-on-fidelity)
+```
+
+## Apache
+```{dropdown} Click to expand/collapse 5 links
+- [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
+- [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
+- [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
+- [Tips on Apache Arrow](tips-on-apache-arrow)
+- [Tips on Apache Beam](tips-on-apache-beam)
+```
+
+## bug
+```{dropdown} Click to expand/collapse 5 links
+- [Tips on Excel](tips-on-excel)
+- [Firebug Is Awsome](firebug-is-awsome)
+- [A Bug in Mathematica](a-bug-in-mathematica)
+- [An IO Bug in R](an-io-bug-in-r)
+- [Common Mistakes in C++ Code and Ways to Debug](common-mistakes-in-c++-code-and-ways-to-debug)
+```
+
+## model
+```{dropdown} Click to expand/collapse 5 links
+- [Model Fitting in ANOVA Analysis](model-fitting-in-anova-analysis)
+- [Experiment Design](experiment-design)
+- [Time Series Analysis](time-series-analysis)
+- [AR1X Process](ar1x-process)
+- [Scaling Law for LLM](scaling-law-for-llm)
+```
+
+## data mining
+```{dropdown} Click to expand/collapse 5 links
+- [Regression Classification ANOVA](regression-classification-anova)
+- [Tips on Optuna](tips-on-optuna)
+- [Clustering Algorithms in Machine Learning](clustering-algorithms-in-machine-learning)
+- [Nature Language Processing Using NLTK](nature-language-processing-using-nltk)
+- [Keywords Extracting from Text](keywords-extracting-from-text)
+```
+
+## remote desktop
+```{dropdown} Click to expand/collapse 5 links
+- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
+- [Tips on VNC](tips-on-vnc)
+- [Remote Desktop Using Remmina](remote-desktop-using-remmina)
+- [Remote Desktop Using NoMachine on Linux](remote-desktop-using-nomachine-on-linux)
+- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
+```
+
+## cache
+```{dropdown} Click to expand/collapse 5 links
+- [Probability to Lose All Money](probability-to-lose-all-money)
+- [Hands on the Rust Crate lru](hands-on-the-rust-crate-lru)
+- [Speed Up Rust Build With Cache](speed-up-rust-build-with-cache)
+- [Clean Temporary Files in Linux](clean-temporary-files-in-linux)
+- [Persist and Checkpoint DataFrames in Spark](persist-and-checkpoint-dataframes-in-spark)
+```
+
+## China
+```{dropdown} Click to expand/collapse 5 links
+- [Living in Shanghai](living-in-shanghai)
+- [中国的公共交通服务](public-transportation-china)
+- [医保](health-insurance-in-china)
+- [Speed Up sbt in China](speed-up-sbt-in-china)
+- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
+```
+
+## phone
+```{dropdown} Click to expand/collapse 5 links
+- [Stop Spam Phone Calls](stop-spam-phone-calls)
+- [Package Capture on Phones](package-capture-on-phones)
+- [Automated Verizon Phone Bill (Continued)](automated-verizon-phone-bill-continued)
+- [Automated Phone Bill Using Ruby Program](automated-phone-bill-using-ruby-program)
+- [Tips on Verizon](tips-on-verizon)
+```
+
+## information
+```{dropdown} Click to expand/collapse 5 links
+- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
+- [Get Information of User in Golang](get-information-of-user-in-golang)
+- [Query Hardware Information in Linux](query-hardware-information-in-linux)
+- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
+- [Get Information of Application Windows in Python](get-information-of-application-windows-in-python)
+```
+
+## insurance
+```{dropdown} Click to expand/collapse 5 links
+- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
+- [医保](health-insurance-in-china)
+- [Misc Tips in Daily Life](misc-tips-in-daily-life)
+- [Tips on Insurance](tips-on-insurance)
+- [IUL Insurance](iul-insurance)
+```
+
+## trip
+```{dropdown} Click to expand/collapse 5 links
+- [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
+- [Tips on Mount Rainer](tips-on-mount-rainer)
+- [Traveling Without Hassle](traveling-without-hassle)
+- [Tips on US Visas](tips-on-us-visas)
+- [Tips on Airbnb](tips-on-airbnb)
+```
+
+## home | HOME
+```{dropdown} Click to expand/collapse 5 links
+- [Tips on RV](tips-on-rv)
+- [Tips on DIY](tips-on-diy)
+- [Tips on Buying a House](tips-on-buying-a-house)
+- [Shopping At Homedepot](shopping-at-homedepot)
+- [Dealing With Environment Variables in Python](dealing-with-environment-variables-in-python)
+```
+
+## Tesla
+```{dropdown} Click to expand/collapse 5 links
+- [Tips on Tesla Model Y](tips-on-tesla-model-y)
+- [Tips on Electronic Vehicles](tips-on-electronic-vehicles)
+- [Tips on Vancouver BC](tips-on-vancouver-bc)
+- [Tips on Tesla Superchargers](tips-on-tesla-superchargers)
+- [Fast DC Charging in WA](fast-dc-charging-in-wa)
+```
+
+## rsync
+```{dropdown} Click to expand/collapse 5 links
+- [Copying Files in Linux](copying-files-in-linux)
+- [Tips on the Linux Command ln](tips-on-the-linux-command-ln)
+- [Backup Files Using "rsnapshot"](backup-files-using-rsnapshot)
+- [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
+- [Tips on rsync](tips-on-rsync)
+```
+
+## version control
+```{dropdown} Click to expand/collapse 5 links
+- [Git Large File Storage](git-large-file-storage)
+- [Hands on Dulwich](hands-on-dulwich)
+- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
+- [Tips on Git](tips-on-git)
+- [Git Errors and Solutions](git-errors-and-solutions)
+```
+
+## user
+```{dropdown} Click to expand/collapse 5 links
+- [User in Docker](user-in-docker)
+- [Get Information of User in Golang](get-information-of-user-in-golang)
+- [Access Control in Spark SQL](access-control-in-spark-sql)
+- [Add Users to a Group in Linux](add-users-to-a-group-in-linux)
+- [User Access Control on Linux](user-access-control-on-linux)
+```
+
+## email
+```{dropdown} Click to expand/collapse 5 links
+- [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
+- [Tips on Microsoft Graph APIs](tips-on-microsoft-graph-apis)
+- [Work More Efficiently with Email](work-more-efficiently-with-email)
+- [Automated Phone Bill Using Ruby Program](automated-phone-bill-using-ruby-program)
+- [Send Emails in Python](send-emails-in-python)
+```
+
+## CD
+```{dropdown} Click to expand/collapse 5 links
+- [Low Risk Investments](low-risk-investments)
+- [CI/CD Tools and Frameworks](ci-cd-tools-and-frameworks)
+- [Investment](investment)
+- [Tips on GitHub](tips-on-github)
+- [Tips on Certified Deposit](tips-on-certified-deposit)
+```
+
+## audio
+```{dropdown} Click to expand/collapse 5 links
+- [Fix Microphone Problem of Skype in Debian](fix-microphone-problem-of-skype-in-debian)
+- [Audio Tools](audio-tools)
+- [Tools for Audio Analysis](tools-for-audio-analysis)
+- [Useful Rust Crates for Multimedia](useful-rust-crates-for-multimedia)
+- [Tips on FFmpeg](tips-on-ffmpeg)
 ```
 
 ## kernel
@@ -7879,15 +8050,6 @@ site:
 - [Parallel and Concurrency Programming in C++11](parallel-and-concurrency-programming-in-c++11)
 ```
 
-## version control
-```{dropdown} Click to expand/collapse 5 links
-- [Hands on Dulwich](hands-on-dulwich)
-- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
-- [Tips on Git](tips-on-git)
-- [Git Errors and Solutions](git-errors-and-solutions)
-- [Git Large File Storage](git-large-file-storage)
-```
-
 ## binary
 ```{dropdown} Click to expand/collapse 5 links
 - [Check Whether a File Is a Text File in Python](check-whether-a-file-is-a-text-file-in-python)
@@ -7895,15 +8057,6 @@ site:
 - [A Text File Is Marked as a Binary File](a-text-file-is-marked-as-a-binary-file)
 - [Binary Serialization Format](binary-serialization-format)
 - [Serialization and Deserialization in Rust](serialization-and-deserialization-in-rust)
-```
-
-## data mining
-```{dropdown} Click to expand/collapse 5 links
-- [Tips on Optuna](tips-on-optuna)
-- [Clustering Algorithms in Machine Learning](clustering-algorithms-in-machine-learning)
-- [Nature Language Processing Using NLTK](nature-language-processing-using-nltk)
-- [Keywords Extracting from Text](keywords-extracting-from-text)
-- [Regression Classification ANOVA](regression-classification-anova)
 ```
 
 ## hyper | Hyper
@@ -7996,24 +8149,6 @@ site:
 - [Construct Simple Spark DataFrames Using Seq](construct-simple-spark-dataframes-using-seq)
 ```
 
-## user
-```{dropdown} Click to expand/collapse 5 links
-- [Get Information of User in Golang](get-information-of-user-in-golang)
-- [Access Control in Spark SQL](access-control-in-spark-sql)
-- [Add Users to a Group in Linux](add-users-to-a-group-in-linux)
-- [User Access Control on Linux](user-access-control-on-linux)
-- [User in Docker](user-in-docker)
-```
-
-## information
-```{dropdown} Click to expand/collapse 5 links
-- [Get Information of User in Golang](get-information-of-user-in-golang)
-- [Query Hardware Information in Linux](query-hardware-information-in-linux)
-- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
-- [Get Information of Application Windows in Python](get-information-of-application-windows-in-python)
-- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
-```
-
 ## keys
 ```{dropdown} Click to expand/collapse 5 links
 - [Handle Duplicated Keys in serde_yaml in Rust](handle-duplicated-keys-in-serde_yaml-in-rust)
@@ -8057,24 +8192,6 @@ site:
 - [PackageKitD Uses Too Much CPU or Disk IO](packagekitd-uses-too-much-cpu-or-disk-io)
 - [Format a Disk on Linux](format-a-disk-on-linux)
 - [Spark Issue: High Disk and Memory Spill When Doing Shuffle](spark-issue-high-disk-and-memory-spill-when-doing-shuffle)
-```
-
-## HOME | home
-```{dropdown} Click to expand/collapse 5 links
-- [Dealing With Environment Variables in Python](dealing-with-environment-variables-in-python)
-- [Tips on RV](tips-on-rv)
-- [Tips on DIY](tips-on-diy)
-- [Tips on Buying a House](tips-on-buying-a-house)
-- [Shopping At Homedepot](shopping-at-homedepot)
-```
-
-## cache
-```{dropdown} Click to expand/collapse 5 links
-- [Hands on the Rust Crate lru](hands-on-the-rust-crate-lru)
-- [Speed Up Rust Build With Cache](speed-up-rust-build-with-cache)
-- [Clean Temporary Files in Linux](clean-temporary-files-in-linux)
-- [Persist and Checkpoint DataFrames in Spark](persist-and-checkpoint-dataframes-in-spark)
-- [Probability to Lose All Money](probability-to-lose-all-money)
 ```
 
 ## scikit-learn | Scikit-learn
@@ -8122,15 +8239,6 @@ site:
 - [Fix the Issue of GitHub Pages Does Not Pick Up the Latest Changes](fix-the-issue-of-github-pages-does-not-pick-up-the-latest-changes)
 ```
 
-## audio
-```{dropdown} Click to expand/collapse 5 links
-- [Audio Tools](audio-tools)
-- [Tools for Audio Analysis](tools-for-audio-analysis)
-- [Useful Rust Crates for Multimedia](useful-rust-crates-for-multimedia)
-- [Tips on FFmpeg](tips-on-ffmpeg)
-- [Fix Microphone Problem of Skype in Debian](fix-microphone-problem-of-skype-in-debian)
-```
-
 ## data structure
 ```{dropdown} Click to expand/collapse 5 links
 - [Data Structure and Libraries for Real-time Collaboration](data-structure-and-libraries-for-real-time-collaboration)
@@ -8138,15 +8246,6 @@ site:
 - [Hands on dict in Python](hands-on-dict-in-python)
 - [Differences Between Vector and ArrayList in Java](differences-between-vector-and-arraylist-in-java)
 - [Computer Science Algorithms](computer-science-algorithms)
-```
-
-## email
-```{dropdown} Click to expand/collapse 5 links
-- [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
-- [Tips on Microsoft Graph APIs](tips-on-microsoft-graph-apis)
-- [Work More Efficiently with Email](work-more-efficiently-with-email)
-- [Automated Phone Bill Using Ruby Program](automated-phone-bill-using-ruby-program)
-- [Send Emails in Python](send-emails-in-python)
 ```
 
 ## generator
@@ -8176,24 +8275,6 @@ site:
 - [Understand the Design of Python](understand-the-design-of-python)
 ```
 
-## Apache
-```{dropdown} Click to expand/collapse 5 links
-- [Tips on Apache Arrow](tips-on-apache-arrow)
-- [Tips on Apache Beam](tips-on-apache-beam)
-- [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
-- [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
-- [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
-```
-
-## rsync
-```{dropdown} Click to expand/collapse 5 links
-- [Tips on the Linux Command ln](tips-on-the-linux-command-ln)
-- [Backup Files Using "rsnapshot"](backup-files-using-rsnapshot)
-- [Copying Files in Linux](copying-files-in-linux)
-- [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
-- [Tips on rsync](tips-on-rsync)
-```
-
 ## debugging
 ```{dropdown} Click to expand/collapse 5 links
 - [Debugging Tools for Java](debugging-tools-for-java)
@@ -8210,15 +8291,6 @@ site:
 - [Local Network Access on macOS](local-network-access-on-macos)
 - [Manage systemd Services and Units](manage-systemd-services-and-units)
 - [Service Your Rivian Car](service-your-rivian-car)
-```
-
-## CD
-```{dropdown} Click to expand/collapse 5 links
-- [CI/CD Tools and Frameworks](ci-cd-tools-and-frameworks)
-- [Investment](investment)
-- [Tips on GitHub](tips-on-github)
-- [Low Risk Investments](low-risk-investments)
-- [Tips on Certified Deposit](tips-on-certified-deposit)
 ```
 
 ## IPython | ipython
@@ -8293,24 +8365,6 @@ site:
 - [Count Number of Fields in Each Line](count-number-of-fields-in-each-line)
 ```
 
-## model
-```{dropdown} Click to expand/collapse 5 links
-- [Scaling Law for LLM](scaling-law-for-llm)
-- [Model Fitting in ANOVA Analysis](model-fitting-in-anova-analysis)
-- [Experiment Design](experiment-design)
-- [Time Series Analysis](time-series-analysis)
-- [AR1X Process](ar1x-process)
-```
-
-## phone
-```{dropdown} Click to expand/collapse 5 links
-- [Package Capture on Phones](package-capture-on-phones)
-- [Automated Verizon Phone Bill (Continued)](automated-verizon-phone-bill-continued)
-- [Automated Phone Bill Using Ruby Program](automated-phone-bill-using-ruby-program)
-- [Tips on Verizon](tips-on-verizon)
-- [Stop Spam Phone Calls](stop-spam-phone-calls)
-```
-
 ## editor
 ```{dropdown} Click to expand/collapse 5 links
 - [Popular Configurations for NeoVim](popular-configurations-for-neovim)
@@ -8336,24 +8390,6 @@ site:
 - [Synchronize Files Using Dropbox](synchronize-files-using-dropbox)
 - [Anker Solix Home Backup Battery System](anker-solix-home-backup-battery-system)
 - [Synchronization and Backup Solutions](synchronization-and-backup-solutions)
-```
-
-## China
-```{dropdown} Click to expand/collapse 5 links
-- [中国的公共交通服务](public-transportation-china)
-- [医保](health-insurance-in-china)
-- [Living in Shanghai](living-in-shanghai)
-- [Speed Up sbt in China](speed-up-sbt-in-china)
-- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
-```
-
-## insurance
-```{dropdown} Click to expand/collapse 5 links
-- [医保](health-insurance-in-china)
-- [Misc Tips in Daily Life](misc-tips-in-daily-life)
-- [Tips on Insurance](tips-on-insurance)
-- [IUL Insurance](iul-insurance)
-- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
 ```
 
 ## regular expression
@@ -8383,24 +8419,6 @@ site:
 - [Hands on Tensor in PyTorch](hands-on-tensor-in-pytorch)
 ```
 
-## bug
-```{dropdown} Click to expand/collapse 5 links
-- [Tips on Excel](tips-on-excel)
-- [A Bug in Mathematica](a-bug-in-mathematica)
-- [An IO Bug in R](an-io-bug-in-r)
-- [Common Mistakes in C++ Code and Ways to Debug](common-mistakes-in-c++-code-and-ways-to-debug)
-- [Firebug Is Awsome](firebug-is-awsome)
-```
-
-## remote desktop
-```{dropdown} Click to expand/collapse 5 links
-- [Tips on VNC](tips-on-vnc)
-- [Remote Desktop Using Remmina](remote-desktop-using-remmina)
-- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
-- [Remote Desktop Using NoMachine on Linux](remote-desktop-using-nomachine-on-linux)
-- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
-```
-
 ## English
 ```{dropdown} Click to expand/collapse 5 links
 - [Grammar Mistake](grammar-mistake)
@@ -8408,15 +8426,6 @@ site:
 - [English Learning](english-learning)
 - [English Vocabulary](english-vocabulary)
 - [English Names](english-names)
-```
-
-## trip
-```{dropdown} Click to expand/collapse 5 links
-- [Traveling Without Hassle](traveling-without-hassle)
-- [Tips on US Visas](tips-on-us-visas)
-- [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
-- [Tips on Airbnb](tips-on-airbnb)
-- [Tips on Mount Rainer](tips-on-mount-rainer)
 ```
 
 ## awk
@@ -8428,13 +8437,92 @@ site:
 - [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
 ```
 
-## Tesla
-```{dropdown} Click to expand/collapse 5 links
-- [Tips on Electronic Vehicles](tips-on-electronic-vehicles)
-- [Tips on Vancouver BC](tips-on-vancouver-bc)
-- [Tips on Tesla Superchargers](tips-on-tesla-superchargers)
-- [Fast DC Charging in WA](fast-dc-charging-in-wa)
-- [Tips on Tesla Model Y](tips-on-tesla-model-y)
+## Excel
+```{dropdown} Click to expand/collapse 4 links
+- [Tips on Excel](tips-on-excel)
+- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
+- [Working with Spreadsheet in Python](working-with-spreadsheet-in-python)
+- [Convert Math Formula and Table To LaTeX](convert-math-formula-and-table-to-latex)
+```
+
+## modeling
+```{dropdown} Click to expand/collapse 4 links
+- [Effect of Duplicating Observations in Linear Models](effect-of-duplicating-observations-in-linear-models)
+- [Statistics](statistics)
+- [Physical World Modeling and Computer Vision](physical-world-modeling-and-computer-vision)
+- [Least Square Estimates](least-square-estimates)
+```
+
+## puzzle
+```{dropdown} Click to expand/collapse 4 links
+- [The Unfair Wager Problem](the-unfair-wager-problem)
+- [What are the Two Integers?](what-are-the-two-integers)
+- [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan)
+- [The Sum and Product Puzzle](the-sum-and-product-puzzle)
+```
+
+## VNC | vnc
+```{dropdown} Click to expand/collapse 4 links
+- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
+- [Tips on VNC](tips-on-vnc)
+- [Remote Desktop Using NoMachine on Linux](remote-desktop-using-nomachine-on-linux)
+- [A Secure Way to Use Vino in Debian](a-secure-way-to-use-vino-in-debian)
+```
+
+## Markov chain
+```{dropdown} Click to expand/collapse 4 links
+- [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
+- [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
+- [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
+- [Expected Gain of Tossing a Dice](expected-gain-of-tossing-a-dice)
+```
+
+## recursion
+```{dropdown} Click to expand/collapse 4 links
+- [Chance to Take One's Own Seat?](chance-to-take-one-s-own-seat)
+- [Probability to Get a Complete Deck of Cards?](probability-to-get-a-complete-deck-of-cards)
+- [Expected Gain of Tossing a Dice](expected-gain-of-tossing-a-dice)
+- [Recursion in Scala](recursion-in-scala)
+```
+
+## poker | Poker
+```{dropdown} Click to expand/collapse 4 links
+- [Probability to Get a Complete Deck of Cards?](probability-to-get-a-complete-deck-of-cards)
+- [Poker Game in Casinos](poker-game-in-casinos)
+- [Implementation of Poker Games](implementation-of-poker-games)
+- [Poker Hud Implementations](poker-hud-implementations)
+```
+
+## random
+```{dropdown} Click to expand/collapse 4 links
+- [Randomly Select an Integer?!](randomly-select-an-integer)
+- [Generating Random Numbers in Rust](generating-random-numbers-in-rust)
+- [Hands on the Python module random](hands-on-the-python-module-random)
+- [Make Your Model Training Reproducible in PyTorch](make-your-model-training-reproducible-in-pytorch)
+```
+
+## transfer
+```{dropdown} Click to expand/collapse 4 links
+- [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
+- [Tips on Network Protocols](tips-on-network-protocols)
+- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
+- [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
+```
+
+## career
+```{dropdown} Click to expand/collapse 4 links
+- [Tips on Job Seeking](tips-on-job-seeking)
+- [Tips on Project Management](tips-on-project-management)
+- [Tips on Career](tips-on-career)
+- [Learning Resources](learning-resources)
+```
+
+## feature
+```{dropdown} Click to expand/collapse 4 links
+- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
+- [Rust Error: error[E0554]: `#![feature]` May Not Be Used on the Stable Release Channel](rust-error-error-e0554-feature-may-not-be-used-on-the-stable-release-channel)
+- [Tips on FeatureTools](tips-on-featuretools)
+- [Feature Scaling in Machine Learning](feature-scaling-in-machine-learning)
 ```
 
 ## cloud IDE | Cloud IDE
@@ -8445,12 +8533,28 @@ site:
 - [Tips on IDE](tips-on-ide)
 ```
 
-## feature
+## Word
 ```{dropdown} Click to expand/collapse 4 links
-- [Rust Error: error[E0554]: `#![feature]` May Not Be Used on the Stable Release Channel](rust-error-error-e0554-feature-may-not-be-used-on-the-stable-release-channel)
-- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
-- [Tips on FeatureTools](tips-on-featuretools)
-- [Feature Scaling in Machine Learning](feature-scaling-in-machine-learning)
+- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
+- [Writing Doc Using Microsoft Word](writing-doc-using-microsoft-word)
+- [Convert PDF to Word](convert-pdf-to-word)
+- [Convert LaTeX to Word](convert-latex-to-word)
+```
+
+## Ansible
+```{dropdown} Click to expand/collapse 4 links
+- [Cluster Management Made Easy with Ansible](cluster-management-made-easy-with-ansible)
+- [Cluster Management Made Easy with the Python Package Fabric](cluster-management-made-easy-with-the-python-package-fabric)
+- [Python Tools for Linux Admins](python-tools-for-linux-admins)
+- [Run Commands on Remote Machines](run-commands-on-remote-machines)
+```
+
+## ETF
+```{dropdown} Click to expand/collapse 4 links
+- [Low Risk Investments](low-risk-investments)
+- [Quant Trading](quant-trading)
+- [Tips on Money Market Fund](tips-on-money-market-fund)
+- [Diversified Investment](diversified-investment)
 ```
 
 ## delete
@@ -8579,14 +8683,6 @@ site:
 - [Read Tensorboard Logs](read-tensorboard-logs)
 - [Ensure Capturing Log of Applications](ensure-capturing-log-of-applications)
 - [General Tips on Logging](general-tips-on-logging)
-```
-
-## random
-```{dropdown} Click to expand/collapse 4 links
-- [Generating Random Numbers in Rust](generating-random-numbers-in-rust)
-- [Randomly Select an Integer?!](randomly-select-an-integer)
-- [Hands on the Python module random](hands-on-the-python-module-random)
-- [Make Your Model Training Reproducible in PyTorch](make-your-model-training-reproducible-in-pytorch)
 ```
 
 ## serde
@@ -8725,14 +8821,6 @@ site:
 - [Load Images into Pillow](load-images-into-pillow)
 ```
 
-## modeling
-```{dropdown} Click to expand/collapse 4 links
-- [Physical World Modeling and Computer Vision](physical-world-modeling-and-computer-vision)
-- [Least Square Estimates](least-square-estimates)
-- [Statistics](statistics)
-- [Effect of Duplicating Observations in Linear Models](effect-of-duplicating-observations-in-linear-models)
-```
-
 ## unit test
 ```{dropdown} Click to expand/collapse 4 links
 - [Write Unit Tests Using unittest in Python](write-unit-tests-using-unittest-in-python)
@@ -8797,14 +8885,6 @@ site:
 - [Use Git Behind a Proxy](use-git-behind-a-proxy)
 ```
 
-## transfer
-```{dropdown} Click to expand/collapse 4 links
-- [Tips on Network Protocols](tips-on-network-protocols)
-- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
-- [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
-- [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
-```
-
 ## dev
 ```{dropdown} Click to expand/collapse 4 links
 - [Tips on Frontend Development](tips-on-frontend-development)
@@ -8859,14 +8939,6 @@ site:
 - [Tips on Search Engines](tips-on-search-engines)
 - [Tips on Elasticsearch](tips-on-elasticsearch)
 - [Shodan - Search Engine for IoT](shodan-search-engine-for-iot)
-```
-
-## poker | Poker
-```{dropdown} Click to expand/collapse 4 links
-- [Poker Game in Casinos](poker-game-in-casinos)
-- [Probability to Get a Complete Deck of Cards?](probability-to-get-a-complete-deck-of-cards)
-- [Implementation of Poker Games](implementation-of-poker-games)
-- [Poker Hud Implementations](poker-hud-implementations)
 ```
 
 ## WebAssembly
@@ -9093,30 +9165,6 @@ site:
 - [Tips on Wash Sale](tips-on-wash-sale)
 ```
 
-## Markov chain
-```{dropdown} Click to expand/collapse 4 links
-- [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
-- [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
-- [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
-- [Expected Gain of Tossing a Dice](expected-gain-of-tossing-a-dice)
-```
-
-## recursion
-```{dropdown} Click to expand/collapse 4 links
-- [Chance to Take One's Own Seat?](chance-to-take-one-s-own-seat)
-- [Probability to Get a Complete Deck of Cards?](probability-to-get-a-complete-deck-of-cards)
-- [Expected Gain of Tossing a Dice](expected-gain-of-tossing-a-dice)
-- [Recursion in Scala](recursion-in-scala)
-```
-
-## puzzle
-```{dropdown} Click to expand/collapse 4 links
-- [What are the Two Integers?](what-are-the-two-integers)
-- [The Unfair Wager Problem](the-unfair-wager-problem)
-- [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan)
-- [The Sum and Product Puzzle](the-sum-and-product-puzzle)
-```
-
 ## access
 ```{dropdown} Click to expand/collapse 4 links
 - [Get User's Information in Python](get-user-s-information-in-python)
@@ -9131,30 +9179,6 @@ site:
 - [HashMap in Scala](hashmap-in-scala)
 - [Map in Rust](map-in-rust)
 - [Hands on dict in Python](hands-on-dict-in-python)
-```
-
-## Excel
-```{dropdown} Click to expand/collapse 4 links
-- [Tips on Excel](tips-on-excel)
-- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
-- [Working with Spreadsheet in Python](working-with-spreadsheet-in-python)
-- [Convert Math Formula and Table To LaTeX](convert-math-formula-and-table-to-latex)
-```
-
-## Word
-```{dropdown} Click to expand/collapse 4 links
-- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
-- [Writing Doc Using Microsoft Word](writing-doc-using-microsoft-word)
-- [Convert PDF to Word](convert-pdf-to-word)
-- [Convert LaTeX to Word](convert-latex-to-word)
-```
-
-## VNC | vnc
-```{dropdown} Click to expand/collapse 4 links
-- [Tips on VNC](tips-on-vnc)
-- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
-- [Remote Desktop Using NoMachine on Linux](remote-desktop-using-nomachine-on-linux)
-- [A Secure Way to Use Vino in Debian](a-secure-way-to-use-vino-in-debian)
 ```
 
 ## text manipulation
@@ -9189,22 +9213,6 @@ site:
 - [Fix Package Installation Issue in Linux](fix-package-installation-issue-in-linux)
 ```
 
-## Ansible
-```{dropdown} Click to expand/collapse 4 links
-- [Cluster Management Made Easy with the Python Package Fabric](cluster-management-made-easy-with-the-python-package-fabric)
-- [Cluster Management Made Easy with Ansible](cluster-management-made-easy-with-ansible)
-- [Python Tools for Linux Admins](python-tools-for-linux-admins)
-- [Run Commands on Remote Machines](run-commands-on-remote-machines)
-```
-
-## career
-```{dropdown} Click to expand/collapse 4 links
-- [Tips on Project Management](tips-on-project-management)
-- [Tips on Career](tips-on-career)
-- [Tips on Job Seeking](tips-on-job-seeking)
-- [Learning Resources](learning-resources)
-```
-
 ## gradle | Gradle
 ```{dropdown} Click to expand/collapse 4 links
 - [General Tips for Gradle](general-tips-for-gradle)
@@ -9229,20 +9237,243 @@ site:
 - [Driving on Snow and Ice](driving-on-snow-and-ice)
 ```
 
-## ETF
-```{dropdown} Click to expand/collapse 4 links
-- [Quant Trading](quant-trading)
-- [Tips on Money Market Fund](tips-on-money-market-fund)
-- [Diversified Investment](diversified-investment)
-- [Low Risk Investments](low-risk-investments)
-```
-
 ## Apache Ray
 ```{dropdown} Click to expand/collapse 4 links
 - [High Performance Computing in Python](high-performance-computing-in-python)
 - [Deploy Apache Ray](deploy-apache-ray)
 - [Tips on Apache Ray](tips-on-apache-ray)
 - [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
+```
+
+## Commons Math
+```{dropdown} Click to expand/collapse 3 links
+- [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
+- [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
+- [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
+```
+
+## formula
+```{dropdown} Click to expand/collapse 3 links
+- [Model Fitting in ANOVA Analysis](model-fitting-in-anova-analysis)
+- [Generate Static Site Using Pelican](generate-static-site-using-pelican)
+- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
+```
+
+## regression
+```{dropdown} Click to expand/collapse 3 links
+- [Experiment Design](experiment-design)
+- [Classification](classification)
+- [Regression Classification ANOVA](regression-classification-anova)
+```
+
+## biostatistics
+```{dropdown} Click to expand/collapse 3 links
+- [Variance and Dispersion Estimate in Genetics](variance-and-dispersion-estimate-in-genetics)
+- [Estimate FDR](estimate-fdr)
+- [Estimation of False Discovery Rate using Sequential Permutation Pvalues](estimation-of-false-discovery-rate-using-sequential-permutation-pvalues)
+```
+
+## matrix
+```{dropdown} Click to expand/collapse 3 links
+- [Matrix Decomposition](matrix-decomposition)
+- [Inverse of a Special Class of Matrices with High Dimensions](inverse-of-a-special-class-of-matrices-with-high-dimensions)
+- [Abuse of Vector in R](abuse-of-vector-in-r)
+```
+
+## duplicate
+```{dropdown} Click to expand/collapse 3 links
+- [Effect of Duplicating Observations in Linear Models](effect-of-duplicating-observations-in-linear-models)
+- [Handle Duplicated Keys in serde_yaml in Rust](handle-duplicated-keys-in-serde_yaml-in-rust)
+- [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
+```
+
+## todo
+```{dropdown} Click to expand/collapse 3 links
+- [Stick Breaking Paradox](stick-breaking-paradox)
+- [The Unfair Wager Problem](the-unfair-wager-problem)
+- [Ratio of Boy to Girl](ratio-of-boy-to-girl)
+```
+
+## linear regression
+```{dropdown} Click to expand/collapse 3 links
+- [AR1X Process](ar1x-process)
+- [Don't Do Statistics If You Don't Really Undestand It](don-t-do-statistics-if-you-don-t-really-undestand-it)
+- [Least Square Estimates](least-square-estimates)
+```
+
+## environment variable
+```{dropdown} Click to expand/collapse 3 links
+- [Environment Variables in Docker](environment-variables-in-docker)
+- [Shell in Docker](shell-in-docker)
+- [Proxy for sudo](proxy-for-sudo)
+```
+
+## NoMachine
+```{dropdown} Click to expand/collapse 3 links
+- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
+- [Working Remotely in Linux](working-remotely-in-linux)
+- [Remote Desktop Using NoMachine on Linux](remote-desktop-using-nomachine-on-linux)
+```
+
+## coin
+```{dropdown} Click to expand/collapse 3 links
+- [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
+- [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
+- [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
+```
+
+## plot
+```{dropdown} Click to expand/collapse 3 links
+- [Stick Breaking Problems](stick-breaking-problems)
+- [Multiple Lines on the Same Plot Using hvplot](multiple-lines-on-the-same-plot-using-hvplot)
+- [Tips on Matplotlib](tips-on-matplotlib)
+```
+
+## permutation
+```{dropdown} Click to expand/collapse 3 links
+- [How Many People Stay in the Same Position?](how-many-people-stay-in-the-same-position)
+- [Number of Records?](number-of-records)
+- [Generate Combinations Using Itertools in Rust](generate-combinations-using-itertools-in-rust)
+```
+
+## recursive
+```{dropdown} Click to expand/collapse 3 links
+- [Probability to Lose All Money](probability-to-lose-all-money)
+- [Calculate Hash of a Directory in Python](calculate-hash-of-a-directory-in-python)
+- [Iterate All Descendant Files in a Directory in Python](iterate-all-descendant-files-in-a-directory-in-python)
+```
+
+## Selenium
+```{dropdown} Click to expand/collapse 3 links
+- [Ways to Download Files Using Selenium Webdrive](ways-to-download-files-using-selenium-webdrive)
+- [Web Automation](web-automation)
+- [Tips on Selenium](tips-on-selenium)
+```
+
+## credit card
+```{dropdown} Click to expand/collapse 3 links
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Tax in US](tax-in-us)
+- [Tips on Road Assistant](tips-on-road-assistant)
+```
+
+## DIY
+```{dropdown} Click to expand/collapse 3 links
+- [Replace a Bathroom Fan](replace-a-bathroom-fan)
+- [Install a Nema 14-50 Outlet](install-a-nema-14-50-outlet)
+- [Tips on DIY](tips-on-diy)
+```
+
+## clean
+```{dropdown} Click to expand/collapse 3 links
+- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
+- [Clean Temporary Files in Linux](clean-temporary-files-in-linux)
+- [Drain Cleaners](drain-cleaners)
+```
+
+## water
+```{dropdown} Click to expand/collapse 3 links
+- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
+- [Tips on Plumbing](tips-on-plumbing)
+- [Hot Water in the House](hot-water-in-the-house)
+```
+
+## control
+```{dropdown} Click to expand/collapse 3 links
+- [Tips on Moss Control](tips-on-moss-control)
+- [Tips on Pest and Rodent Control](tips-on-pest-and-rodent-control)
+- [User Access Control on Linux](user-access-control-on-linux)
+```
+
+## AutoML
+```{dropdown} Click to expand/collapse 3 links
+- [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
+- [Hyper Parameter Tuning and Automatical Machine Learning](hyper-parameter-tuning-and-automatical-machine-learning)
+- [Tips on AutoGluon](tips-on-autogluon)
+```
+
+## scp
+```{dropdown} Click to expand/collapse 3 links
+- [Copying Files in Linux](copying-files-in-linux)
+- [Tips on Android](tips-on-android)
+- [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
+```
+
+## Project Management | project management
+```{dropdown} Click to expand/collapse 3 links
+- [Managing Projects Using ProjectLibre](managing-projects-using-projectlibre)
+- [Tips on Project Management](tips-on-project-management)
+- [Python Packaging Tools](python-packaging-tools)
+```
+
+## server
+```{dropdown} Click to expand/collapse 3 links
+- [Visual Studio Code Server](visual-studio-code-server)
+- [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
+- [Make Your Linux Server Securer](make-your-linux-server-securer)
+```
+
+## VS Code
+```{dropdown} Click to expand/collapse 3 links
+- [Visual Studio Code Server](visual-studio-code-server)
+- [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
+- [Sort Python Imports Using isort](sort-python-imports-using-isort)
+```
+
+## TPU
+```{dropdown} Click to expand/collapse 3 links
+- [Tips on Google Colab](tips-on-google-colab)
+- [Hardware for AI](hardware-for-ai)
+- [Tips on TPU](tips-on-tpu)
+```
+
+## photo
+```{dropdown} Click to expand/collapse 3 links
+- [Tips on Preview in macOS](tips-on-preview-in-macos)
+- [Convert HEIC Images in Linux](convert-heic-images-in-linux)
+- [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
+```
+
+## Blender
+```{dropdown} Click to expand/collapse 3 links
+- [Tips on Blender](tips-on-blender)
+- [Python Scripting for Blender](python-scripting-for-blender)
+- [Software for Editing Videos](software-for-editing-videos)
+```
+
+## solution
+```{dropdown} Click to expand/collapse 3 links
+- [Docker Issues and Solutions](docker-issues-and-solutions)
+- [Issues in pip and Solutions](issues-in-pip-and-solutions)
+- [Zeppelin Issues and Solutions](zeppelin-issues-and-solutions)
+```
+
+## bond
+```{dropdown} Click to expand/collapse 3 links
+- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
+- [Low Risk Investments](low-risk-investments)
+- [Investment](investment)
+```
+
+## money market fund
+```{dropdown} Click to expand/collapse 3 links
+- [Low Risk Investments](low-risk-investments)
+- [Tips on Money Market Fund](tips-on-money-market-fund)
+- [Diversified Investment](diversified-investment)
+```
+
+## index fund
+```{dropdown} Click to expand/collapse 3 links
+- [Low Risk Investments](low-risk-investments)
+- [Tips on Money Market Fund](tips-on-money-market-fund)
+- [Diversified Investment](diversified-investment)
+```
+
+## scheduling
+```{dropdown} Click to expand/collapse 3 links
+- [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
+- [Job Scheduling and Management Using Apache Airflow](job-scheduling-and-management-using-apache-airflow)
+- [Workflow Managing Tools](workflow-managing-tools)
 ```
 
 ## Pickle | pickle
@@ -9278,13 +9509,6 @@ site:
 - [Get Index of True Values of a Sequence in Python](get-index-of-true-values-of-a-sequence-in-python)
 - [ifelse on Pandas Series](ifelse-on-pandas-series)
 - [Understand Execuation of SQL Statements](understand-execuation-of-sql-statements)
-```
-
-## VS Code
-```{dropdown} Click to expand/collapse 3 links
-- [Sort Python Imports Using isort](sort-python-imports-using-isort)
-- [Visual Studio Code Server](visual-studio-code-server)
-- [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
 ```
 
 ## type annotation
@@ -9369,13 +9593,6 @@ site:
 - [Calculate Hash of a Directory in Python](calculate-hash-of-a-directory-in-python)
 - [Current Working Directory in Rust](current-working-directory-in-rust)
 - [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
-```
-
-## recursive
-```{dropdown} Click to expand/collapse 3 links
-- [Calculate Hash of a Directory in Python](calculate-hash-of-a-directory-in-python)
-- [Iterate All Descendant Files in a Directory in Python](iterate-all-descendant-files-in-a-directory-in-python)
-- [Probability to Lose All Money](probability-to-lose-all-money)
 ```
 
 ## timezone
@@ -9469,20 +9686,6 @@ site:
 - [Absolute or Relative Path for Executables](absolute-or-relative-path-for-executables)
 ```
 
-## permutation
-```{dropdown} Click to expand/collapse 3 links
-- [Generate Combinations Using Itertools in Rust](generate-combinations-using-itertools-in-rust)
-- [How Many People Stay in the Same Position?](how-many-people-stay-in-the-same-position)
-- [Number of Records?](number-of-records)
-```
-
-## plot
-```{dropdown} Click to expand/collapse 3 links
-- [Multiple Lines on the Same Plot Using hvplot](multiple-lines-on-the-same-plot-using-hvplot)
-- [Tips on Matplotlib](tips-on-matplotlib)
-- [Stick Breaking Problems](stick-breaking-problems)
-```
-
 ## random number generator
 ```{dropdown} Click to expand/collapse 3 links
 - [Generating Random Numbers in Rust](generating-random-numbers-in-rust)
@@ -9516,13 +9719,6 @@ site:
 - [Get Information of User in Golang](get-information-of-user-in-golang)
 - [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
 - [Get User's Information in Python](get-user-s-information-in-python)
-```
-
-## duplicate
-```{dropdown} Click to expand/collapse 3 links
-- [Handle Duplicated Keys in serde_yaml in Rust](handle-duplicated-keys-in-serde_yaml-in-rust)
-- [Effect of Duplicating Observations in Linear Models](effect-of-duplicating-observations-in-linear-models)
-- [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
 ```
 
 ## color
@@ -9609,13 +9805,6 @@ site:
 - [Tips on Multipass](tips-on-multipass)
 ```
 
-## solution
-```{dropdown} Click to expand/collapse 3 links
-- [Issues in pip and Solutions](issues-in-pip-and-solutions)
-- [Docker Issues and Solutions](docker-issues-and-solutions)
-- [Zeppelin Issues and Solutions](zeppelin-issues-and-solutions)
-```
-
 ## alternative
 ```{dropdown} Click to expand/collapse 3 links
 - [Alternatives to Docker Containers](alternatives-to-docker-containers)
@@ -9649,13 +9838,6 @@ site:
 - [Write Documentation for Python Packages Using Sphinx](write-documentation-for-python-packages-using-sphinx)
 - [Static Site Generators](static-site-generators)
 - [Documentation Generating Tool for Python](documentation-generating-tool-for-python)
-```
-
-## environment variable
-```{dropdown} Click to expand/collapse 3 links
-- [Shell in Docker](shell-in-docker)
-- [Environment Variables in Docker](environment-variables-in-docker)
-- [Proxy for sudo](proxy-for-sudo)
 ```
 
 ## PEX | pex
@@ -9868,13 +10050,6 @@ site:
 - [Immutable String vs Mutable String](immutable-string-vs-mutable-string)
 ```
 
-## photo
-```{dropdown} Click to expand/collapse 3 links
-- [Convert HEIC Images in Linux](convert-heic-images-in-linux)
-- [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
-- [Tips on Preview in macOS](tips-on-preview-in-macos)
-```
-
 ## Apache Arrow | apache arrow
 ```{dropdown} Click to expand/collapse 3 links
 - [Read and Write Parquet Files in Rust](read-and-write-parquet-files-in-rust)
@@ -10043,20 +10218,6 @@ site:
 - [Resolve the DNS Contamination Issue in Firefox](resolve-the-dns-contamination-issue-in-firefox)
 ```
 
-## credit card
-```{dropdown} Click to expand/collapse 3 links
-- [Tax in US](tax-in-us)
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Tips on Road Assistant](tips-on-road-assistant)
-```
-
-## coin
-```{dropdown} Click to expand/collapse 3 links
-- [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
-- [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
-- [Which One Is the Best Strategy? (continued)](which-one-is-the-best-strategy-continued)
-```
-
 ## verizon | Verizon
 ```{dropdown} Click to expand/collapse 3 links
 - [Automated Verizon Phone Bill (Continued)](automated-verizon-phone-bill-continued)
@@ -10069,13 +10230,6 @@ site:
 - [Automated Verizon Phone Bill (Continued)](automated-verizon-phone-bill-continued)
 - [String in Different Programming Languages](string-in-different-programming-languages)
 - [Automated Phone Bill Using Ruby Program](automated-phone-bill-using-ruby-program)
-```
-
-## linear regression
-```{dropdown} Click to expand/collapse 3 links
-- [Don't Do Statistics If You Don't Really Undestand It](don-t-do-statistics-if-you-don-t-really-undestand-it)
-- [Least Square Estimates](least-square-estimates)
-- [AR1X Process](ar1x-process)
 ```
 
 ## Wine | WINE
@@ -10106,13 +10260,6 @@ site:
 - [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
 ```
 
-## Selenium
-```{dropdown} Click to expand/collapse 3 links
-- [Web Automation](web-automation)
-- [Tips on Selenium](tips-on-selenium)
-- [Ways to Download Files Using Selenium Webdrive](ways-to-download-files-using-selenium-webdrive)
-```
-
 ## add-on
 ```{dropdown} Click to expand/collapse 3 links
 - [Useful Chrome Extensions](useful-chrome-extensions)
@@ -10132,20 +10279,6 @@ site:
 - [Split String into Rows in SQL](split-string-into-rows-in-sql)
 - [Advanced Use of head and tail](advanced-use-of-head-and-tail)
 - [Print Rows from a Text File](print-rows-from-a-text-file)
-```
-
-## Commons Math
-```{dropdown} Click to expand/collapse 3 links
-- [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
-- [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
-- [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
-```
-
-## Blender
-```{dropdown} Click to expand/collapse 3 links
-- [Python Scripting for Blender](python-scripting-for-blender)
-- [Software for Editing Videos](software-for-editing-videos)
-- [Tips on Blender](tips-on-blender)
 ```
 
 ## round
@@ -10204,13 +10337,6 @@ site:
 - [Collections in Java](collections-in-java)
 ```
 
-## AutoML
-```{dropdown} Click to expand/collapse 3 links
-- [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
-- [Hyper Parameter Tuning and Automatical Machine Learning](hyper-parameter-tuning-and-automatical-machine-learning)
-- [Tips on AutoGluon](tips-on-autogluon)
-```
-
 ## dependencies
 ```{dropdown} Click to expand/collapse 3 links
 - [Specify Dependencies in the Almond Scala Kernel in JupyterLab](specify-dependencies-in-the-almond-scala-kernel-in-jupyterlab)
@@ -10253,13 +10379,6 @@ site:
 - [Use wget with Proxy](use-wget-with-proxy)
 ```
 
-## NoMachine
-```{dropdown} Click to expand/collapse 3 links
-- [Working Remotely in Linux](working-remotely-in-linux)
-- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
-- [Remote Desktop Using NoMachine on Linux](remote-desktop-using-nomachine-on-linux)
-```
-
 ## archive
 ```{dropdown} Click to expand/collapse 3 links
 - [Software I Use in Windows System](software-i-use-in-windows-system)
@@ -10279,20 +10398,6 @@ site:
 - [Online Tools for Popular Programming Languages](online-tools-for-popular-programming-languages)
 - [Regular Expression in Python](regular-expression-in-python)
 - [Regular Expression Equivalent](regular-expression-equivalent)
-```
-
-## formula
-```{dropdown} Click to expand/collapse 3 links
-- [Model Fitting in ANOVA Analysis](model-fitting-in-anova-analysis)
-- [Generate Static Site Using Pelican](generate-static-site-using-pelican)
-- [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
-```
-
-## regression
-```{dropdown} Click to expand/collapse 3 links
-- [Experiment Design](experiment-design)
-- [Classification](classification)
-- [Regression Classification ANOVA](regression-classification-anova)
 ```
 
 ## sed
@@ -10337,25 +10442,11 @@ site:
 - [Map Keys in Windows](map-keys-in-windows)
 ```
 
-## todo
-```{dropdown} Click to expand/collapse 3 links
-- [The Unfair Wager Problem](the-unfair-wager-problem)
-- [Stick Breaking Paradox](stick-breaking-paradox)
-- [Ratio of Boy to Girl](ratio-of-boy-to-girl)
-```
-
 ## mistake
 ```{dropdown} Click to expand/collapse 3 links
 - [Grammar Mistake](grammar-mistake)
 - [Easy-Made Mistake with C++ Iterator](easy-made-mistake-with-c++-iterator)
 - [Common Mistakes in C++ Code and Ways to Debug](common-mistakes-in-c++-code-and-ways-to-debug)
-```
-
-## scp
-```{dropdown} Click to expand/collapse 3 links
-- [Tips on Android](tips-on-android)
-- [Copying Files in Linux](copying-files-in-linux)
-- [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
 ```
 
 ## plotly
@@ -10386,46 +10477,11 @@ site:
 - [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
 ```
 
-## Project Management | project management
-```{dropdown} Click to expand/collapse 3 links
-- [Managing Projects Using ProjectLibre](managing-projects-using-projectlibre)
-- [Tips on Project Management](tips-on-project-management)
-- [Python Packaging Tools](python-packaging-tools)
-```
-
-## bond
-```{dropdown} Click to expand/collapse 3 links
-- [Investment](investment)
-- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
-- [Low Risk Investments](low-risk-investments)
-```
-
 ## JDBC
 ```{dropdown} Click to expand/collapse 3 links
 - [Connecting to Databases Using py4jdbc in Python](connecting-to-databases-using-py4jdbc-in-python)
 - [SQL Database Client-server Protocols](sql-database-client-server-protocols)
 - [Zeppelin Interpreter](zeppelin-interpreter)
-```
-
-## scheduling
-```{dropdown} Click to expand/collapse 3 links
-- [Job Scheduling and Management Using Apache Airflow](job-scheduling-and-management-using-apache-airflow)
-- [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
-- [Workflow Managing Tools](workflow-managing-tools)
-```
-
-## clean
-```{dropdown} Click to expand/collapse 3 links
-- [Clean Temporary Files in Linux](clean-temporary-files-in-linux)
-- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
-- [Drain Cleaners](drain-cleaners)
-```
-
-## DIY
-```{dropdown} Click to expand/collapse 3 links
-- [Install a Nema 14-50 Outlet](install-a-nema-14-50-outlet)
-- [Tips on DIY](tips-on-diy)
-- [Replace a Bathroom Fan](replace-a-bathroom-fan)
 ```
 
 ## snow
@@ -10435,13 +10491,6 @@ site:
 - [Driving on Snow and Ice](driving-on-snow-and-ice)
 ```
 
-## matrix
-```{dropdown} Click to expand/collapse 3 links
-- [Inverse of a Special Class of Matrices with High Dimensions](inverse-of-a-special-class-of-matrices-with-high-dimensions)
-- [Abuse of Vector in R](abuse-of-vector-in-r)
-- [Matrix Decomposition](matrix-decomposition)
-```
-
 ## graphics | Graphics
 ```{dropdown} Click to expand/collapse 3 links
 - [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
@@ -10449,60 +10498,11 @@ site:
 - [Convert PDF to EPS](convert-pdf-to-eps)
 ```
 
-## server
-```{dropdown} Click to expand/collapse 3 links
-- [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
-- [Visual Studio Code Server](visual-studio-code-server)
-- [Make Your Linux Server Securer](make-your-linux-server-securer)
-```
-
-## biostatistics
-```{dropdown} Click to expand/collapse 3 links
-- [Estimation of False Discovery Rate using Sequential Permutation Pvalues](estimation-of-false-discovery-rate-using-sequential-permutation-pvalues)
-- [Variance and Dispersion Estimate in Genetics](variance-and-dispersion-estimate-in-genetics)
-- [Estimate FDR](estimate-fdr)
-```
-
-## water
-```{dropdown} Click to expand/collapse 3 links
-- [Tips on Plumbing](tips-on-plumbing)
-- [Hot Water in the House](hot-water-in-the-house)
-- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
-```
-
 ## DE
 ```{dropdown} Click to expand/collapse 3 links
 - [Desktop Environments for Linux](desktop-environments-for-linux)
 - [Dual Monitor for Linux Desktop](dual-monitor-for-linux-desktop)
 - [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
-```
-
-## control
-```{dropdown} Click to expand/collapse 3 links
-- [Tips on Pest and Rodent Control](tips-on-pest-and-rodent-control)
-- [Tips on Moss Control](tips-on-moss-control)
-- [User Access Control on Linux](user-access-control-on-linux)
-```
-
-## money market fund
-```{dropdown} Click to expand/collapse 3 links
-- [Tips on Money Market Fund](tips-on-money-market-fund)
-- [Diversified Investment](diversified-investment)
-- [Low Risk Investments](low-risk-investments)
-```
-
-## index fund
-```{dropdown} Click to expand/collapse 3 links
-- [Tips on Money Market Fund](tips-on-money-market-fund)
-- [Diversified Investment](diversified-investment)
-- [Low Risk Investments](low-risk-investments)
-```
-
-## TPU
-```{dropdown} Click to expand/collapse 3 links
-- [Hardware for AI](hardware-for-ai)
-- [Tips on Google Colab](tips-on-google-colab)
-- [Tips on TPU](tips-on-tpu)
 ```
 
 ## Tex Live | TeX Live
@@ -10533,6 +10533,240 @@ site:
 - [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
 ```
 
+## ImageStat
+```{dropdown} Click to expand/collapse 2 links
+- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
+- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
+```
+
+## SAS
+```{dropdown} Click to expand/collapse 2 links
+- [Model Fitting in ANOVA Analysis](model-fitting-in-anova-analysis)
+- [Regular Expression Equivalent](regular-expression-equivalent)
+```
+
+## classification
+```{dropdown} Click to expand/collapse 2 links
+- [Classification](classification)
+- [Regression Classification ANOVA](regression-classification-anova)
+```
+
+## estimation
+```{dropdown} Click to expand/collapse 2 links
+- [Variance and Dispersion Estimate in Genetics](variance-and-dispersion-estimate-in-genetics)
+- [Estimate FDR](estimate-fdr)
+```
+
+## FDR
+```{dropdown} Click to expand/collapse 2 links
+- [Estimate FDR](estimate-fdr)
+- [Estimation of False Discovery Rate using Sequential Permutation Pvalues](estimation-of-false-discovery-rate-using-sequential-permutation-pvalues)
+```
+
+## algebra
+```{dropdown} Click to expand/collapse 2 links
+- [Matrix Decomposition](matrix-decomposition)
+- [Useful Rust Crates for Numeric Computation](useful-rust-crates-for-numeric-computation)
+```
+
+## linear model
+```{dropdown} Click to expand/collapse 2 links
+- [Effect of Duplicating Observations in Linear Models](effect-of-duplicating-observations-in-linear-models)
+- [Don't Do Statistics If You Don't Really Undestand It](don-t-do-statistics-if-you-don-t-really-undestand-it)
+```
+
+## stick breaking
+```{dropdown} Click to expand/collapse 2 links
+- [Stick Breaking Paradox](stick-breaking-paradox)
+- [Stick Breaking Problems](stick-breaking-problems)
+```
+
+## simulation
+```{dropdown} Click to expand/collapse 2 links
+- [Bayesian vs Frequentist](bayesian-vs-frequentist)
+- [Probability to Lose All Money](probability-to-lose-all-money)
+```
+
+## bootstrap
+```{dropdown} Click to expand/collapse 2 links
+- [Make Inference Using Bootstrap](make-inference-using-bootstrap)
+- [Bootstrap Resampling in Python](bootstrap-resampling-in-python)
+```
+
+## stochastic
+```{dropdown} Click to expand/collapse 2 links
+- [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
+- [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
+```
+
+## martingale
+```{dropdown} Click to expand/collapse 2 links
+- [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
+- [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
+```
+
+## MATLAB
+```{dropdown} Click to expand/collapse 2 links
+- [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
+- [Convert Math Formula and Table To LaTeX](convert-math-formula-and-table-to-latex)
+```
+
+## seat
+```{dropdown} Click to expand/collapse 2 links
+- [Chance to Take One's Own Seat?](chance-to-take-one-s-own-seat)
+- [Tips on Car Seat](tips-on-car-seat)
+```
+
+## MT
+```{dropdown} Click to expand/collapse 2 links
+- [Summary on Random Number Generators](summary-on-random-number-generators)
+- [Thread Safe Random Number Generator](thread-safe-random-number-generator)
+```
+
+## condition
+```{dropdown} Click to expand/collapse 2 links
+- [Probability to Lose All Money](probability-to-lose-all-money)
+- [Basketball Player](basketball-player)
+```
+
+## hash table
+```{dropdown} Click to expand/collapse 2 links
+- [Probability to Lose All Money](probability-to-lose-all-money)
+- [Hands on dict in Python](hands-on-dict-in-python)
+```
+
+## city
+```{dropdown} Click to expand/collapse 2 links
+- [Living in Shanghai](living-in-shanghai)
+- [Living in Charlotte](living-in-charlotte)
+```
+
+## commute
+```{dropdown} Click to expand/collapse 2 links
+- [Living in Shanghai](living-in-shanghai)
+- [中国的公共交通服务](public-transportation-china)
+```
+
+## bus | Bus
+```{dropdown} Click to expand/collapse 2 links
+- [Living in Shanghai](living-in-shanghai)
+- [PCIe BUS Error: Severity=Corrected, Type=Physical Layer](pcie-bus-error-severity-corrected-type-physical-layer)
+```
+
+## Costco
+```{dropdown} Click to expand/collapse 2 links
+- [Shopping on Costco](shopping-on-costco)
+- [Shopping Smartly](shopping-smartly)
+```
+
+## Homedepot | HomeDepot
+```{dropdown} Click to expand/collapse 2 links
+- [Shopping Smartly](shopping-smartly)
+- [Shopping At Homedepot](shopping-at-homedepot)
+```
+
+## erase
+```{dropdown} Click to expand/collapse 2 links
+- [Maintain Garage Doors](maintain-garage-doors)
+- [Erase Elements of a Container Using Iterator in C++](erase-elements-of-a-container-using-iterator-in-c++)
+```
+
+## bank
+```{dropdown} Click to expand/collapse 2 links
+- [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
+- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
+```
+
+## coolant
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
+- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
+```
+
+## care
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
+- [医保](health-insurance-in-china)
+```
+
+## discount
+```{dropdown} Click to expand/collapse 2 links
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Get Deals for Traveling](get-deals-for-traveling)
+```
+
+## job
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Job Seeking](tips-on-job-seeking)
+- [Schdule Jobs in Python](schdule-jobs-in-python)
+```
+
+## Seattle
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
+- [Tips for Rainy Winter](tips-for-rainy-winter)
+```
+
+## purchase
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
+- [Tips on Buying a House](tips-on-buying-a-house)
+```
+
+## camera
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
+- [Tools for IOT](tools-for-iot)
+```
+
+## auto
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on RV](tips-on-rv)
+- [String in C++11](string-in-c++11)
+```
+
+## mobile
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on RV](tips-on-rv)
+- [Cool Mobile Apps](cool-mobile-apps)
+```
+
+## kitchen
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Dishwasher](tips-on-dishwasher)
+- [Drain Cleaners](drain-cleaners)
+```
+
+## start
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Dishwasher](tips-on-dishwasher)
+- [Manage systemd Services and Units](manage-systemd-services-and-units)
+```
+
+## fan
+```{dropdown} Click to expand/collapse 2 links
+- [Replace a Bathroom Fan](replace-a-bathroom-fan)
+- [Tips on Biowind Register Fan](tips-on-biowind-register-fan)
+```
+
+## backyard
+```{dropdown} Click to expand/collapse 2 links
+- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
+- [Tips for Gardening](tips-for-gardening)
+```
+
+## pressure
+```{dropdown} Click to expand/collapse 2 links
+- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
+- [Tips on Plumbing](tips-on-plumbing)
+```
+
+## road
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Mount Rainer](tips-on-mount-rainer)
+- [Playbook on Road Accident](playbook-on-road-accident)
+```
+
 ## Cloud9 | cloud9
 ```{dropdown} Click to expand/collapse 2 links
 - [Cloud IDE](cloud-ide)
@@ -10543,6 +10777,138 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Cloud IDE](cloud-ide)
 - [Tips on Eclipse Che](tips-on-eclipse-che)
+```
+
+## AutoGluon
+```{dropdown} Click to expand/collapse 2 links
+- [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
+- [Tips on AutoGluon](tips-on-autogluon)
+```
+
+## iPad
+```{dropdown} Click to expand/collapse 2 links
+- [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
+- [Mirroring Screen from iPhone or iPad to Macbook](mirroring-screen-from-iphone-or-ipad-to-macbook)
+```
+
+## ProxyChains
+```{dropdown} Click to expand/collapse 2 links
+- [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
+- [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
+```
+
+## sshuttle
+```{dropdown} Click to expand/collapse 2 links
+- [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
+- [Tips on sshuttle](tips-on-sshuttle)
+```
+
+## minikube | Minikube
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Kubernetes](tips-on-kubernetes)
+- [Tips on Minikube](tips-on-minikube)
+```
+
+## Microk8s
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Kubernetes](tips-on-kubernetes)
+- [Tips on Microk8S](tips-on-microk8s)
+```
+
+## notes taking
+```{dropdown} Click to expand/collapse 2 links
+- [The Absolutely Best App for Taking Notes](the-absolutely-best-app-for-taking-notes)
+- [Notes Taking Solutions](notes-taking-solutions)
+```
+
+## DNS
+```{dropdown} Click to expand/collapse 2 links
+- [Network in Docker Containers](network-in-docker-containers)
+- [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
+```
+
+## preview
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Preview in macOS](tips-on-preview-in-macos)
+- [The fzf Command Is a Great Alternative to find](the-fzf-command-is-a-great-alternative-to-find)
+```
+
+## OpenFaaS
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on OpenFaaS](tips-on-openfaas)
+- [Polyglot Runtimes](polyglot-runtimes)
+```
+
+## notifiers
+```{dropdown} Click to expand/collapse 2 links
+- [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
+- [Send Emails in Python](send-emails-in-python)
+```
+
+## KeePassXC
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on KeepassXC](tips-on-keepassxc)
+- [Password Management](password-management)
+```
+
+## password management
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on KeepassXC](tips-on-keepassxc)
+- [Password Management](password-management)
+```
+
+## treasury
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
+- [Low Risk Investments](low-risk-investments)
+```
+
+## savings
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
+- [Investment](investment)
+```
+
+## Notes | notes
+```{dropdown} Click to expand/collapse 2 links
+- [Low Risk Investments](low-risk-investments)
+- [Tips on Basket in KDE](tips-on-basket-in-kde)
+```
+
+## group
+```{dropdown} Click to expand/collapse 2 links
+- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
+- [User Access Control on Linux](user-access-control-on-linux)
+```
+
+## getent
+```{dropdown} Click to expand/collapse 2 links
+- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
+- [Account Management in Linux](account-management-in-linux)
+```
+
+## task
+```{dropdown} Click to expand/collapse 2 links
+- [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
+- [GitHub Action Task Stuck At Expected](github-action-task-stuck-at-expected)
+```
+
+## crontab
+```{dropdown} Click to expand/collapse 2 links
+- [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
+- [Schedule Cron Tasks in a Docker Container](schedule-cron-tasks-in-a-docker-container)
+```
+
+## schedule
+```{dropdown} Click to expand/collapse 2 links
+- [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
+- [Schdule Jobs in Python](schdule-jobs-in-python)
+```
+
+## AirFlow | Airflow
+```{dropdown} Click to expand/collapse 2 links
+- [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
+- [Tips on Prefect](tips-on-prefect)
 ```
 
 ## stable
@@ -11223,12 +11589,6 @@ site:
 - [Install Newer Version of SQLite3 on Debian Jessie](install-newer-version-of-sqlite3-on-debian-jessie)
 ```
 
-## notifiers
-```{dropdown} Click to expand/collapse 2 links
-- [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
-- [Send Emails in Python](send-emails-in-python)
-```
-
 ## visual
 ```{dropdown} Click to expand/collapse 2 links
 - [Visualization for AI Concepts](visualization-for-ai-concepts)
@@ -11283,18 +11643,6 @@ site:
 - [Tips on Caddy](tips-on-caddy)
 ```
 
-## DNS
-```{dropdown} Click to expand/collapse 2 links
-- [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
-- [Network in Docker Containers](network-in-docker-containers)
-```
-
-## sshuttle
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on sshuttle](tips-on-sshuttle)
-- [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
-```
-
 ## SSH tunnel
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on sshuttle](tips-on-sshuttle)
@@ -11305,12 +11653,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Security](tips-on-security)
 - [Shodan - Search Engine for IoT](shodan-search-engine-for-iot)
-```
-
-## Airflow | AirFlow
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Prefect](tips-on-prefect)
-- [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
 ```
 
 ## FTP
@@ -11377,12 +11719,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Develop a GUI Application in Rust](develop-a-gui-application-in-rust)
 - [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
-```
-
-## camera
-```{dropdown} Click to expand/collapse 2 links
-- [Tools for IOT](tools-for-iot)
-- [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
 ```
 
 ## drone
@@ -11865,12 +12201,6 @@ site:
 - [Tips on ANTLR4](tips-on-antlr4)
 ```
 
-## OpenFaaS
-```{dropdown} Click to expand/collapse 2 links
-- [Polyglot Runtimes](polyglot-runtimes)
-- [Tips on OpenFaaS](tips-on-openfaas)
-```
-
 ## reverse
 ```{dropdown} Click to expand/collapse 2 links
 - [Good Choices of Reverse Proxies](good-choices-of-reverse-proxies)
@@ -11899,12 +12229,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Useful Rust Crates for String](useful-rust-crates-for-string)
 - [Useful Rust Crates for Bit Manipulations](useful-rust-crates-for-bit-manipulations)
-```
-
-## algebra
-```{dropdown} Click to expand/collapse 2 links
-- [Useful Rust Crates for Numeric Computation](useful-rust-crates-for-numeric-computation)
-- [Matrix Decomposition](matrix-decomposition)
 ```
 
 ## multimedia
@@ -12037,12 +12361,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
 - [Generating Completions Script Using crazy-complete](generating-completions-script-using-crazy-complete)
-```
-
-## preview
-```{dropdown} Click to expand/collapse 2 links
-- [The fzf Command Is a Great Alternative to find](the-fzf-command-is-a-great-alternative-to-find)
-- [Tips on Preview in macOS](tips-on-preview-in-macos)
 ```
 
 ## uv
@@ -12183,12 +12501,6 @@ site:
 - [Deploy Apache Ray](deploy-apache-ray)
 ```
 
-## task
-```{dropdown} Click to expand/collapse 2 links
-- [GitHub Action Task Stuck At Expected](github-action-task-stuck-at-expected)
-- [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
-```
-
 ## JAVA_HOME
 ```{dropdown} Click to expand/collapse 2 links
 - [PySpark Issue: Java Gateway Process Exited Before Sending the Driver Its Port Number](pyspark-issue-java-gateway-process-exited-before-sending-the-driver-its-port-number)
@@ -12201,22 +12513,16 @@ site:
 - [Manage systemd Services and Units](manage-systemd-services-and-units)
 ```
 
-## group
-```{dropdown} Click to expand/collapse 2 links
-- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
-- [User Access Control on Linux](user-access-control-on-linux)
-```
-
-## getent
-```{dropdown} Click to expand/collapse 2 links
-- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
-- [Account Management in Linux](account-management-in-linux)
-```
-
 ## MacPorts
 ```{dropdown} Click to expand/collapse 2 links
 - [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
 - [Tips on MacPorts](tips-on-macports)
+```
+
+## US
+```{dropdown} Click to expand/collapse 2 links
+- [Tax in US](tax-in-us)
+- [Tips on US Visas](tips-on-us-visas)
 ```
 
 ## GnuPG
@@ -12231,46 +12537,16 @@ site:
 - [Tips on GPG](tips-on-gpg)
 ```
 
-## US
-```{dropdown} Click to expand/collapse 2 links
-- [Tax in US](tax-in-us)
-- [Tips on US Visas](tips-on-us-visas)
-```
-
 ## terminology
 ```{dropdown} Click to expand/collapse 2 links
 - [Some Terminologies in Anti-money Laundering (AML)](some-terminologies-in-anti-money-laundering-aml)
 - [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
 ```
 
-## stochastic
-```{dropdown} Click to expand/collapse 2 links
-- [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
-- [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
-```
-
-## martingale
-```{dropdown} Click to expand/collapse 2 links
-- [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
-- [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
-```
-
 ## interview
 ```{dropdown} Click to expand/collapse 2 links
 - [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
 - [Tips on US Visas](tips-on-us-visas)
-```
-
-## MATLAB
-```{dropdown} Click to expand/collapse 2 links
-- [Which One Is the Best Strategy?](which-one-is-the-best-strategy)
-- [Convert Math Formula and Table To LaTeX](convert-math-formula-and-table-to-latex)
-```
-
-## seat
-```{dropdown} Click to expand/collapse 2 links
-- [Chance to Take One's Own Seat?](chance-to-take-one-s-own-seat)
-- [Tips on Car Seat](tips-on-car-seat)
 ```
 
 ## ball
@@ -12291,12 +12567,6 @@ site:
 - [IDEs for LaTeX](ides-for-latex)
 ```
 
-## linear model
-```{dropdown} Click to expand/collapse 2 links
-- [Don't Do Statistics If You Don't Really Undestand It](don-t-do-statistics-if-you-don-t-really-undestand-it)
-- [Effect of Duplicating Observations in Linear Models](effect-of-duplicating-observations-in-linear-models)
-```
-
 ## emulator
 ```{dropdown} Click to expand/collapse 2 links
 - [Android Emulators](android-emulators)
@@ -12307,12 +12577,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Android Emulators](android-emulators)
 - [Tips on AnBox](tips-on-anbox)
-```
-
-## commute
-```{dropdown} Click to expand/collapse 2 links
-- [中国的公共交通服务](public-transportation-china)
-- [Living in Shanghai](living-in-shanghai)
 ```
 
 ## sogou
@@ -12351,12 +12615,6 @@ site:
 - [Web Automation and Testing Using PlayWright](web-automation-and-testing-using-playwright)
 ```
 
-## care
-```{dropdown} Click to expand/collapse 2 links
-- [医保](health-insurance-in-china)
-- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
-```
-
 ## addon
 ```{dropdown} Click to expand/collapse 2 links
 - [Useful Chrome Extensions](useful-chrome-extensions)
@@ -12385,12 +12643,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Split String into Rows in SQL](split-string-into-rows-in-sql)
 - [Compress and Decompressing Archives in Linux](compress-and-decompressing-archives-in-linux)
-```
-
-## ImageStat
-```{dropdown} Click to expand/collapse 2 links
-- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
-- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
 ```
 
 ## Java 8
@@ -12471,28 +12723,10 @@ site:
 - [Dataframe for JVM](dataframe-for-jvm)
 ```
 
-## AutoGluon
-```{dropdown} Click to expand/collapse 2 links
-- [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
-- [Tips on AutoGluon](tips-on-autogluon)
-```
-
 ## Dataset
 ```{dropdown} Click to expand/collapse 2 links
 - [Split a Dataset into Train and Test Datasets in Python](split-a-dataset-into-train-and-test-datasets-in-python)
 - [Tips on Dataset in PyTorch](tips-on-dataset-in-pytorch)
-```
-
-## schedule
-```{dropdown} Click to expand/collapse 2 links
-- [Schdule Jobs in Python](schdule-jobs-in-python)
-- [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
-```
-
-## job
-```{dropdown} Click to expand/collapse 2 links
-- [Schdule Jobs in Python](schdule-jobs-in-python)
-- [Tips on Job Seeking](tips-on-job-seeking)
 ```
 
 ## TensorFlow
@@ -12597,12 +12831,6 @@ site:
 - [Install the GSL Library](install-the-gsl-library)
 ```
 
-## SAS
-```{dropdown} Click to expand/collapse 2 links
-- [Model Fitting in ANOVA Analysis](model-fitting-in-anova-analysis)
-- [Regular Expression Equivalent](regular-expression-equivalent)
-```
-
 ## antiX
 ```{dropdown} Click to expand/collapse 2 links
 - [Comparison of (Debian Series) Linux Distributions](comparison-of-debian-series-linux-distributions)
@@ -12675,12 +12903,6 @@ site:
 - [Living in Charlotte](living-in-charlotte)
 ```
 
-## notes | Notes
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Basket in KDE](tips-on-basket-in-kde)
-- [Low Risk Investments](low-risk-investments)
-```
-
 ## NFS | nfs
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on NFS](tips-on-nfs)
@@ -12703,12 +12925,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Housing](tips-on-housing)
 - [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
-```
-
-## city
-```{dropdown} Click to expand/collapse 2 links
-- [Living in Charlotte](living-in-charlotte)
-- [Living in Shanghai](living-in-shanghai)
 ```
 
 ## AutoHotkey
@@ -12759,12 +12975,6 @@ site:
 - [Map Keys in Linux](map-keys-in-linux)
 ```
 
-## bus | Bus
-```{dropdown} Click to expand/collapse 2 links
-- [Living in Shanghai](living-in-shanghai)
-- [PCIe BUS Error: Severity=Corrected, Type=Physical Layer](pcie-bus-error-severity-corrected-type-physical-layer)
-```
-
 ## diagram
 ```{dropdown} Click to expand/collapse 2 links
 - [Text-based Flowchart and UML Tools](text-based-flowchart-and-uml-tools)
@@ -12793,12 +13003,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Configure Proxy for Apt](configure-proxy-for-apt)
 - [Configure Debian Apt Source List](configure-debian-apt-source-list)
-```
-
-## ProxyChains
-```{dropdown} Click to expand/collapse 2 links
-- [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
-- [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
 ```
 
 ## Fabric
@@ -12841,12 +13045,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Samba](tips-on-samba)
 - [Mount Samba on Mac](mount-samba-on-mac)
-```
-
-## savings
-```{dropdown} Click to expand/collapse 2 links
-- [Investment](investment)
-- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
 ```
 
 ## structure notes
@@ -12903,28 +13101,10 @@ site:
 - [Useful Tools for Python Developing](useful-tools-for-python-developing)
 ```
 
-## minikube | Minikube
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Kubernetes](tips-on-kubernetes)
-- [Tips on Minikube](tips-on-minikube)
-```
-
-## Microk8s
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Kubernetes](tips-on-kubernetes)
-- [Tips on Microk8S](tips-on-microk8s)
-```
-
 ## timeout
 ```{dropdown} Click to expand/collapse 2 links
 - [Spark Issue: Timeout When Communicate With Driver During Shuffle Caused by Driver OOM](spark-issue-timeout-when-communicate-with-driver-during-shuffle-caused-by-driver-oom)
 - [Reduce GRUB Timeout](reduce-grub-timeout)
-```
-
-## start
-```{dropdown} Click to expand/collapse 2 links
-- [Manage systemd Services and Units](manage-systemd-services-and-units)
-- [Tips on Dishwasher](tips-on-dishwasher)
 ```
 
 ## restart
@@ -12937,24 +13117,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Use TableSample in SQL](use-tablesample-in-sql)
 - [Sample Rows from a Spark DataFrame](sample-rows-from-a-spark-dataframe)
-```
-
-## Seattle
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
-- [Tips for Rainy Winter](tips-for-rainy-winter)
-```
-
-## auto
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on RV](tips-on-rv)
-- [String in C++11](string-in-c++11)
-```
-
-## mobile
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on RV](tips-on-rv)
-- [Cool Mobile Apps](cool-mobile-apps)
 ```
 
 ## electronic
@@ -12973,12 +13135,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Sample Rows from a Spark DataFrame](sample-rows-from-a-spark-dataframe)
 - [Sample Lines from a File Using Command Line](sample-lines-from-a-file-using-command-line)
-```
-
-## hash table
-```{dropdown} Click to expand/collapse 2 links
-- [Hands on dict in Python](hands-on-dict-in-python)
-- [Probability to Lose All Money](probability-to-lose-all-money)
 ```
 
 ## product
@@ -13035,24 +13191,6 @@ site:
 - [Common Errors in Bibliographies](common-errors-in-bibliographies)
 ```
 
-## MT
-```{dropdown} Click to expand/collapse 2 links
-- [Summary on Random Number Generators](summary-on-random-number-generators)
-- [Thread Safe Random Number Generator](thread-safe-random-number-generator)
-```
-
-## simulation
-```{dropdown} Click to expand/collapse 2 links
-- [Probability to Lose All Money](probability-to-lose-all-money)
-- [Bayesian vs Frequentist](bayesian-vs-frequentist)
-```
-
-## condition
-```{dropdown} Click to expand/collapse 2 links
-- [Probability to Lose All Money](probability-to-lose-all-money)
-- [Basketball Player](basketball-player)
-```
-
 ## eclipse | Eclipse
 ```{dropdown} Click to expand/collapse 2 links
 - [Make Eclipse Support C++11](make-eclipse-support-c++11)
@@ -13065,18 +13203,6 @@ site:
 - [Define Operator in R](define-operator-in-r)
 ```
 
-## crontab
-```{dropdown} Click to expand/collapse 2 links
-- [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
-- [Schedule Cron Tasks in a Docker Container](schedule-cron-tasks-in-a-docker-container)
-```
-
-## FDR
-```{dropdown} Click to expand/collapse 2 links
-- [Estimation of False Discovery Rate using Sequential Permutation Pvalues](estimation-of-false-discovery-rate-using-sequential-permutation-pvalues)
-- [Estimate FDR](estimate-fdr)
-```
-
 ## battery
 ```{dropdown} Click to expand/collapse 2 links
 - [Power Settings in Linux with GNOME Desktop](power-settings-in-linux-with-gnome-desktop)
@@ -13087,12 +13213,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
 - [Generating YYYYMM Formatted Dates Using Python](generating-yyyymm-formatted-dates-using-python)
-```
-
-## bank
-```{dropdown} Click to expand/collapse 2 links
-- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
-- [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
 ```
 
 ## speedup
@@ -13125,34 +13245,10 @@ site:
 - [Hot Water in the House](hot-water-in-the-house)
 ```
 
-## pressure
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Plumbing](tips-on-plumbing)
-- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
-```
-
-## road
-```{dropdown} Click to expand/collapse 2 links
-- [Playbook on Road Accident](playbook-on-road-accident)
-- [Tips on Mount Rainer](tips-on-mount-rainer)
-```
-
 ## children
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Child Education](tips-on-child-education)
 - [Tips on Children Health](tips-on-children-health)
-```
-
-## discount
-```{dropdown} Click to expand/collapse 2 links
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Get Deals for Traveling](get-deals-for-traveling)
-```
-
-## classification
-```{dropdown} Click to expand/collapse 2 links
-- [Classification](classification)
-- [Regression Classification ANOVA](regression-classification-anova)
 ```
 
 ## dpkg
@@ -13165,18 +13261,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Verizon](tips-on-verizon)
 - [Ratio of Boy to Girl](ratio-of-boy-to-girl)
-```
-
-## Homedepot | HomeDepot
-```{dropdown} Click to expand/collapse 2 links
-- [Shopping Smartly](shopping-smartly)
-- [Shopping At Homedepot](shopping-at-homedepot)
-```
-
-## Costco
-```{dropdown} Click to expand/collapse 2 links
-- [Shopping Smartly](shopping-smartly)
-- [Shopping on Costco](shopping-on-costco)
 ```
 
 ## matplotlib
@@ -13203,40 +13287,16 @@ site:
 - [Repair a Flat Tire](repair-a-flat-tire)
 ```
 
-## purchase
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Buying a House](tips-on-buying-a-house)
-- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
-```
-
 ## flat
 ```{dropdown} Click to expand/collapse 2 links
 - [Repair a Flat Tire](repair-a-flat-tire)
 - [Flat Tire on Rivian](flat-tire-on-rivian)
 ```
 
-## erase
-```{dropdown} Click to expand/collapse 2 links
-- [Maintain Garage Doors](maintain-garage-doors)
-- [Erase Elements of a Container Using Iterator in C++](erase-elements-of-a-container-using-iterator-in-c++)
-```
-
 ## pdb
 ```{dropdown} Click to expand/collapse 2 links
 - [Useful Tools for Python Developing](useful-tools-for-python-developing)
 - [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
-```
-
-## fan
-```{dropdown} Click to expand/collapse 2 links
-- [Replace a Bathroom Fan](replace-a-bathroom-fan)
-- [Tips on Biowind Register Fan](tips-on-biowind-register-fan)
-```
-
-## coolant
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Mercedes-Benz](tips-on-mercedes-benz)
-- [Tips on Coolant for Mercdes-Benz Vehicles](tips-on-coolant-for-mercdes-benz-vehicles)
 ```
 
 ## Alpaca
@@ -13273,42 +13333,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Taxes on Investment Gains](taxes-on-investment-gains)
 - [Tips on Wash Sale](tips-on-wash-sale)
-```
-
-## kitchen
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Dishwasher](tips-on-dishwasher)
-- [Drain Cleaners](drain-cleaners)
-```
-
-## treasury
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Investing in Bonds](tips-on-investing-in-bonds)
-- [Low Risk Investments](low-risk-investments)
-```
-
-## backyard
-```{dropdown} Click to expand/collapse 2 links
-- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
-- [Tips for Gardening](tips-for-gardening)
-```
-
-## bootstrap
-```{dropdown} Click to expand/collapse 2 links
-- [Bootstrap Resampling in Python](bootstrap-resampling-in-python)
-- [Make Inference Using Bootstrap](make-inference-using-bootstrap)
-```
-
-## password management
-```{dropdown} Click to expand/collapse 2 links
-- [Password Management](password-management)
-- [Tips on KeepassXC](tips-on-keepassxc)
-```
-
-## KeePassXC
-```{dropdown} Click to expand/collapse 2 links
-- [Password Management](password-management)
-- [Tips on KeepassXC](tips-on-keepassxc)
 ```
 
 ## pyenv
@@ -13351,12 +13375,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Count Number of Fields in Each Line](count-number-of-fields-in-each-line)
 - [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
-```
-
-## notes taking
-```{dropdown} Click to expand/collapse 2 links
-- [The Absolutely Best App for Taking Notes](the-absolutely-best-app-for-taking-notes)
-- [Notes Taking Solutions](notes-taking-solutions)
 ```
 
 ## parallel-ssh
@@ -13413,12 +13431,6 @@ site:
 - [The GPT-2 Model in NLP](the-gpt-2-model-in-nlp)
 ```
 
-## iPad
-```{dropdown} Click to expand/collapse 2 links
-- [Mirroring Screen from iPhone or iPad to Macbook](mirroring-screen-from-iphone-or-ipad-to-macbook)
-- [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
-```
-
 ## transformer | Transformer
 ```{dropdown} Click to expand/collapse 2 links
 - [The GPT-2 Model in NLP](the-gpt-2-model-in-nlp)
@@ -13453,17 +13465,5 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [English Learning](english-learning)
 - [English Vocabulary](english-vocabulary)
-```
-
-## estimation
-```{dropdown} Click to expand/collapse 2 links
-- [Variance and Dispersion Estimate in Genetics](variance-and-dispersion-estimate-in-genetics)
-- [Estimate FDR](estimate-fdr)
-```
-
-## stick breaking
-```{dropdown} Click to expand/collapse 2 links
-- [Stick Breaking Problems](stick-breaking-problems)
-- [Stick Breaking Paradox](stick-breaking-paradox)
 ```
 

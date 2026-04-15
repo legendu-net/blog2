@@ -1,19 +1,19 @@
 ---
 title: Visual Studio Code for Java Development
 created: 2019-05-10 23:23:59
-date: 2026-04-05 19:42:37.884540
+date: 2026-04-14 19:49:14.929692
 authors:
-- bendu
+  - bendu
 label: visual-studio-code-for-java-development
 license: CC-BY-4.0
 tags:
-- programming
-- Java
-- vscode
-- Visual Studio Code
+  - programming
+  - Java
+  - VSCode
+  - Visual Studio Code
 ---
-**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Java Development in Visual Studio Code
 
@@ -29,7 +29,7 @@ https://github.com/redhat-developer/vscode-java
 
 https://github.com/redhat-developer/vscode-java/wiki/Lombok-support
 
-### Extensions 
+### Extensions
 
 - [Visual Studio Codespaces](https://marketplace.visualstudio.com/items?itemName=ms-vsonline.vsonline)
 
@@ -48,7 +48,6 @@ https://github.com/redhat-developer/vscode-java/wiki/Lombok-support
 - [Visual Stuido IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
 - [TabNine VSCode](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
-
 
 ## References
 

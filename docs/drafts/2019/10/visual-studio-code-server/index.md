@@ -1,7 +1,7 @@
 ---
 title: Visual Studio Code Server
 created: 2019-10-24 11:28:44
-date: 2026-04-13 23:28:01.344396
+date: 2026-04-14 19:49:14.751188
 authors:
   - bendu
 label: visual-studio-code-server
@@ -13,7 +13,7 @@ tags:
   - VS Code
   - IDE
   - web
-  - vscode
+  - VSCode
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

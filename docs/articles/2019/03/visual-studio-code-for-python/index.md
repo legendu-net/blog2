@@ -1,22 +1,23 @@
 ---
 title: Visual Studio Code for Python
 created: 2019-03-30 12:20:46
-date: 2026-04-05 19:42:37.393632
+date: 2026-04-14 19:49:13.016397
 authors:
-- bendu
+  - bendu
 label: visual-studio-code-for-python
 license: CC-BY-4.0
 tags:
-- programming
-- Python
-- Visual Studio Code
-- vscode
-- IDE
-- Jupyter notebook
+  - programming
+  - Python
+  - Visual Studio Code
+  - VSCode
+  - IDE
+  - Jupyter notebook
 ---
+
 ## Extensions
 
-Please refer to 
+Please refer to
 [Useful Visual Studio Code Extensions](http://www.legendu.net/misc/blog/useful-visual-studio-code-extensions)
 .
 
@@ -24,11 +25,11 @@ Please refer to
 
 1. File -> Preference -> Settings
 
-2. Click on Workspace.
+1. Click on Workspace.
 
-3. Search for `Python Path`.
+1. Search for `Python Path`.
 
-4. Change Python Path to the one you want to use.
+1. Change Python Path to the one you want to use.
 
 ![Set Python Path](https://user-images.githubusercontent.com/824507/69910283-b7b41300-13bd-11ea-83f0-5f959c68532f.png)
 

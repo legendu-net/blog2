@@ -1,19 +1,20 @@
 ---
 title: IDEs for LaTeX
 created: 2018-05-11 11:32:28
-date: 2026-04-05 19:42:37.999976
+date: 2026-04-14 19:44:32.024922
 authors:
-- bendu
+  - bendu
 label: ides-for-latex
 license: CC-BY-4.0
 tags:
-- software
-- Tex
-- LaTex
-- IDE
-- OverLeaf
-- TexStudio
+  - software
+  - Tex
+  - LaTeX
+  - IDE
+  - OverLeaf
+  - TexStudio
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## [OverLeaf](https://www.overleaf.com/)

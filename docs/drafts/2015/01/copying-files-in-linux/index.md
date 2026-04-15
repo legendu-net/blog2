@@ -1,7 +1,7 @@
 ---
 title: Copying Files in Linux
 created: 2015-01-02 14:57:03
-date: 2026-04-13 23:28:03.533555
+date: 2026-04-14 19:40:24.902366
 authors:
   - bendu
 label: copying-files-in-linux
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - Linux
   - cp
-  - command-line
+  - command line
   - rsync
   - scp
 ---

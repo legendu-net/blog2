@@ -1,7 +1,7 @@
 ---
 title: Shell Equivalent in Different Operating Systems
 created: 2020-09-02 09:22:34
-date: 2026-04-13 23:15:30.944674
+date: 2026-04-14 19:32:06.271814
 authors:
   - bendu
 label: shell-equivalent-in-different-operating-systems
@@ -12,7 +12,7 @@ tags:
   - Linux
   - macOS
   - Windows
-  - Shell
+  - shell
   - PowerShell
 ---
 

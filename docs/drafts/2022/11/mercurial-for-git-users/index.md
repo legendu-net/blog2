@@ -1,7 +1,7 @@
 ---
 title: Mercurial for Git Users
 created: 2022-11-10 20:31:49
-date: 2026-04-13 23:14:40.226400
+date: 2026-04-14 19:42:36.655748
 authors:
   - bendu
 label: mercurial-for-git-users
@@ -10,7 +10,7 @@ tags:
   - computer science
   - programming
   - mercurial
-  - git
+  - Git
   - hg
 ---
 

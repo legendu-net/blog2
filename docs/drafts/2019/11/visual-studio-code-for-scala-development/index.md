@@ -1,17 +1,18 @@
 ---
 title: Visual Studio Code for Scala Development
 created: 2019-11-03 08:47:25
-date: 2026-04-05 19:42:37.852465
+date: 2026-04-14 19:49:14.585593
 authors:
-- bendu
+  - bendu
 label: visual-studio-code-for-scala-development
 license: CC-BY-4.0
 tags:
-- programming
-- Scala
-- vscode
-- Visual Studio Code
+  - programming
+  - Scala
+  - VSCode
+  - Visual Studio Code
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 https://www.scala-lang.org/2019/04/16/metals.html

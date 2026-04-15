@@ -1,13 +1,13 @@
 ---
-title: "Convert PDF to EPS"
+title: Convert PDF to EPS
 created: 2012-11-21 16:30:01
-date: 2021-12-03 09:25:59
+date: 2026-04-14 19:32:02.972836
 authors:
   - bendu
 label: convert-pdf-to-eps
 license: CC-BY-4.0
 tags:
-  - Image
+  - image
   - eps
   - Linux
   - PDF
@@ -15,8 +15,8 @@ tags:
   - Graphics
 ---
 
-There are tons of tools for converting PDF pictures to EPS pictures in Linux. 
+There are tons of tools for converting PDF pictures to EPS pictures in Linux.
 The `pdf2ps` command is a good one.
-It produces EPS pictures without losing much resolution. 
-The general purpose tools `convert` 
+It produces EPS pictures without losing much resolution.
+The general purpose tools `convert`
 (from the `ImageMagick` package) does not produce as good quality EPS figures.

@@ -1,7 +1,7 @@
 ---
 title: Remote Development in Visual Studio Code
 created: 2019-10-10 13:07:08
-date: 2026-04-13 23:27:57.413164
+date: 2026-04-14 19:49:12.841784
 authors:
   - bendu
 label: remote-development-in-visual-studio-code
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - software
   - Visual Studio Code
-  - vscode
+  - VSCode
   - VS Code
   - remote development
   - Visual Studio Code server

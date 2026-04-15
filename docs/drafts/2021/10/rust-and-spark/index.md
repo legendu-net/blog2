@@ -1,7 +1,7 @@
 ---
 title: Rust and Spark
 created: 2021-10-10 23:58:37
-date: 2026-04-13 23:14:55.592913
+date: 2026-04-14 19:32:04.250275
 authors:
   - bendu
 label: rust-and-spark
@@ -15,7 +15,7 @@ tags:
   - distributed
   - PySpark
   - pandas_udf
-  - Shell
+  - shell
   - subprocess
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Ways to Invest in Real Estate"
+title: Ways to Invest in Real Estate
 created: 2022-12-09 12:40:20
-date: 2024-02-03 15:14:46
+date: 2026-04-14 19:34:16.517238
 authors:
   - bendu
 label: ways-to-invest-in-real-estate
 license: CC-BY-4.0
 tags:
-  - Investment
+  - investment
   - money
   - real estate
   - house
@@ -30,4 +30,3 @@ for details.
 ## References
 
 - [Cash Flow of Housing Investment](https://docs.google.com/spreadsheets/d/1-a_SULpKw8P7oMtKN5i2HVL74Wx7d_egjrWRfG0URLo/edit#gid=907152015)
-

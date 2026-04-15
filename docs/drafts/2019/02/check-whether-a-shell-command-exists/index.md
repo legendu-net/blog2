@@ -1,14 +1,14 @@
 ---
-title: "Check Whether a Shell Command Exists"
+title: Check Whether a Shell Command Exists
 created: 2019-02-10 12:26:09
-date: 2025-12-17 10:16:12
+date: 2026-04-14 19:32:04.985621
 authors:
   - bendu
 label: check-whether-a-shell-command-exists
 license: CC-BY-4.0
 tags:
   - programming
-  - Shell
+  - shell
   - command
   - exist
   - Python
@@ -22,9 +22,9 @@ tags:
 
 `shutil.which`
 
-## Fish 
+## Fish
 
-[Check for Existence of Commands in the Fish Shell]( https://www.legendu.net/misc/blog/check-for-existence-of-commands-in-the-fish-shell )
+[Check for Existence of Commands in the Fish Shell](https://www.legendu.net/misc/blog/check-for-existence-of-commands-in-the-fish-shell)
 
 ## Bash
 

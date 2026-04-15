@@ -1,13 +1,13 @@
 ---
 title: Tips on Investing in Bonds
 created: 2023-12-12 23:36:11
-date: 2026-04-13 23:27:58.062958
+date: 2026-04-14 19:34:15.800389
 authors:
   - bendu
 label: tips-on-investing-in-bonds
 license: CC-BY-4.0
 tags:
-  - Investment
+  - investment
   - treasury
   - bill
   - note

@@ -1,29 +1,29 @@
 ---
 title: Tips on Visual Studio Code
 created: 2019-05-24 11:28:44
-date: 2026-04-05 19:42:37.887101
+date: 2026-04-14 19:49:15.079681
 authors:
-- bendu
+  - bendu
 label: tips-on-visual-studio-code
 license: CC-BY-4.0
 tags:
-- software
-- vscode
-- Visual Studio Code
-- tips
-- IDE
+  - software
+  - VSCode
+  - Visual Studio Code
+  - tips
+  - IDE
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-A MS brading/telementry/licensing free edition named 
+A MS brading/telementry/licensing free edition named
 [vscodium](https://github.com/VSCodium/vscodium)
 is available.
 
 ## Tricks & Traps
 
 1. It seems that Visual Studio Code installed using snap in Kubuntu 18.10 has issues.
-    It is suggested that you install Visual Studio Code using the `.deb` package instead of snap.
-
+   It is suggested that you install Visual Studio Code using the `.deb` package instead of snap.
 
 ## Fix the Caps Lock Mapping to Escape Issue
 
@@ -31,11 +31,12 @@ https://github.com/Microsoft/vscode/wiki/Keybinding-Issues
 
 A simple fix is to add the following configuration into the user's setting.json file.
 
-    :::json
-    {
-        "keyboard.dispatch": "keyCode"
-    }
-
+```
+:::json
+{
+    "keyboard.dispatch": "keyCode"
+}
+```
 
 ## Snippets
 
@@ -43,7 +44,7 @@ A simple fix is to add the following configuration into the user's setting.json 
 
 ## Extensions
 
-Please refer to 
+Please refer to
 [Useful Visual Studio Code Extensions](http://www.legendu.net/en/blog/useful-visual-studio-code-extensions)
 .
 
@@ -96,7 +97,7 @@ https://stackoverflow.com/questions/36333117/refresh-visual-studio-code-list-of-
 
 ## References
 
-- [Configuraing Terminal in Visual Studio Code]( https://www.legendu.net/misc/blog/configuraing-terminal-in-visual-studio-code ) 
+- [Configuraing Terminal in Visual Studio Code](https://www.legendu.net/misc/blog/configuraing-terminal-in-visual-studio-code)
 
 - [Visual Studio Code Blog](https://code.visualstudio.com/blogs/2019/05/02/remote-development)
 

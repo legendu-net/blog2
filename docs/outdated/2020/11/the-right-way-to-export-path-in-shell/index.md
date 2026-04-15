@@ -1,14 +1,14 @@
 ---
 title: The Right Way to Export PATH in Shell
 created: 2020-11-09 11:10:06
-date: 2026-04-13 23:15:30.791858
+date: 2026-04-14 19:32:06.119612
 authors:
   - bendu
 label: the-right-way-to-export-path-in-shell
 license: CC-BY-4.0
 tags:
   - computer science
-  - Shell
+  - shell
   - Bash
   - PATH
   - bashrc

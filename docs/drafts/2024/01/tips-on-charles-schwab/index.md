@@ -1,13 +1,13 @@
 ---
-title: "Tips on Charles Schwab"
+title: Tips on Charles Schwab
 created: 2024-01-20 15:57:28
-date: 2024-08-25 13:26:42
+date: 2026-04-14 19:34:15.475082
 authors:
   - bendu
 label: tips-on-charles-schwab
 license: CC-BY-4.0
 tags:
-  - Investment
+  - investment
   - money
   - trading
   - brokerage
@@ -21,112 +21,113 @@ tags:
 According to
 [Commission-free trading online. Same award-winning experience](https://www.schwab.com/pricing#bcn-table--table-content-74536)
 ,
-Charles Schwab does NOT charge commision fees for trading listed stocks and ETFs.  
+Charles Schwab does NOT charge commision fees for trading listed stocks and ETFs.\
 However,
-Charles Schwab does charge SEC process fee (SEC), 
-option regulatory fee (ORF), 
+Charles Schwab does charge SEC process fee (SEC),
+option regulatory fee (ORF),
 trading activity fee (TAF) and index option fee (IOF).
 Note that other commision-fee-free brokerages (such as Alpaca)
 charge SEC, ORF, TAF and IOF fees too.
 
-The exchange process fee is a fee Schwab Charges to offset fees imposed on us directly or indirectly by national securities exchanges, 
-self-regulatory organizations, or U.S. option exchanges. 
-The Exchange Process Fee is mentioned in the 
+The exchange process fee is a fee Schwab Charges to offset fees imposed on us directly or indirectly by national securities exchanges,
+self-regulatory organizations, or U.S. option exchanges.
+The Exchange Process Fee is mentioned in the
 [Pricing Guide](https://www.schwab.com/resource/charles-schwab-pricing-guide-for-individual-investors)
 under Special Service Fees on page 13.
-The exchange process fee may include multiple fees depending on the specific transaction. 
-Fees that may be included in the exchange process fee are: the SEC Fee, the Option Regulatory Fee, 
-the Trading Activity Fee, the Index Option Fee, and, the Financial Transaction Tax. 
-The Trading Activity Fee and the Index Option Fee are new to Schwab Clients as of 03/10/2023. 
-Schwab's Exchange Process Fee will rise or fall periodically depending upon the rates set by the SEC, 
+The exchange process fee may include multiple fees depending on the specific transaction.
+Fees that may be included in the exchange process fee are: the SEC Fee, the Option Regulatory Fee,
+the Trading Activity Fee, the Index Option Fee, and, the Financial Transaction Tax.
+The Trading Activity Fee and the Index Option Fee are new to Schwab Clients as of 03/10/2023.
+Schwab's Exchange Process Fee will rise or fall periodically depending upon the rates set by the SEC,
 self-regulatory organizations, or by the U.S. option exchanges, as applicable.
 
-SEC Fee: The SEC charges SROs a fee, based on a statutory formula, that helps pay for market regulation. 
+SEC Fee: The SEC charges SROs a fee, based on a statutory formula, that helps pay for market regulation.
 SROs (including exchanges) fund these payments by assessing charges against their members on sell side executions.
 Schwab in turn charges clients this SEC Fee under the Exchange Process Fee.
 This fee offsets processing costs incurred by Schwab for the exchange of securities for equity, options or other covered security sell transactions.
 The SEC Fee is deducted from the proceeds of sales only.
-As a result of the 02/27/2023 (settlement date) Section 31 transaction fee decrease, 
-Schwab decreased its SEC Fee rate from \$0.0000229 per dollar of covered sell transactions 
-to \$0.000008 per dollar of covered sell transactions. 
-The fee is rounded up to the nearest whole cent if the third decimal is 5 or greater 
+As a result of the 02/27/2023 (settlement date) Section 31 transaction fee decrease,
+Schwab decreased its SEC Fee rate from \$0.0000229 per dollar of covered sell transactions
+to \$0.000008 per dollar of covered sell transactions.
+The fee is rounded up to the nearest whole cent if the third decimal is 5 or greater
 or rounded down to the nearest whole cent if the third decimal is less than 5.
 
-Option Regulatory Fee (ORF): Several U.S. option exchanges currently assess a regulatory fee upon Schwab for covered transactions. 
-This fee varies by option exchange, 
-where an option trade executes, and whether the broker responsible for the trade is a member of a particular exchange. 
-As a result, Schwab calculates a blended rate, and this blended rate is included in the Exchange Process Fee. 
-Schwab began to pass the Option Regulatory Fee (“ORF”) to clients effective 10/01/2010. 
-Schwab moved to a blended rate on 03/10/2023. 
-The Option Regulatory Fee per Contract as of 01/22/2024: \$0.010994. 
-The fee is rounded up to the nearest whole cent if the third decimal is 5 or greater 
+Option Regulatory Fee (ORF): Several U.S. option exchanges currently assess a regulatory fee upon Schwab for covered transactions.
+This fee varies by option exchange,
+where an option trade executes, and whether the broker responsible for the trade is a member of a particular exchange.
+As a result, Schwab calculates a blended rate, and this blended rate is included in the Exchange Process Fee.
+Schwab began to pass the Option Regulatory Fee (“ORF”) to clients effective 10/01/2010.
+Schwab moved to a blended rate on 03/10/2023.
+The Option Regulatory Fee per Contract as of 01/22/2024: \$0.010994.
+The fee is rounded up to the nearest whole cent if the third decimal is 5 or greater
 or rounded down to the nearest whole cent if the third decimal is less than 5.
 
-Trading Activity Fee (TAF): *This fee is new to Schwab clients as of 03/10/2023* 
-The Trading Activity Fee (TAF) is one of the regulatory fees FINRA assesses to recover the costs of supervising and regulating firms. 
-This includes costs associated with performing examinations, 
-financial monitoring, and FINRA's policy, rulemaking, interpretive and enforcement activities. 
-Schwab will charge the applicable TAF rate to sells of equities and options beginning on 03/10/2023. 
-Rates as of 01/01/2024 are as follows: \$0.000166 per share for each sell of a covered equity security, 
-with a maximum charge of \$8.30 per trade; \$0.00279 per contract for each sell of an option. 
-Updated rates can be found on 
+Trading Activity Fee (TAF): *This fee is new to Schwab clients as of 03/10/2023*
+The Trading Activity Fee (TAF) is one of the regulatory fees FINRA assesses to recover the costs of supervising and regulating firms.
+This includes costs associated with performing examinations,
+financial monitoring, and FINRA's policy, rulemaking, interpretive and enforcement activities.
+Schwab will charge the applicable TAF rate to sells of equities and options beginning on 03/10/2023.
+Rates as of 01/01/2024 are as follows: \$0.000166 per share for each sell of a covered equity security,
+with a maximum charge of \$8.30 per trade; \$0.00279 per contract for each sell of an option.
+Updated rates can be found on
 [FINRA's site](https://www.finra.org/rules-guidance/rulebooks/corporate-organization/section-1-member-regulatory-fees)
 .
-The fee is rounded up to the nearest whole cent if the third decimal is 5 or greater 
+The fee is rounded up to the nearest whole cent if the third decimal is 5 or greater
 or rounded down to the nearest whole cent if the third decimal is less than 5.
 
-Index Option Fee (IOF): *This fee is new to Schwab clients as of 03/10/2023* 
-The Index Option Fee is associated with proprietary index option products provided by the Chicago Board Options Exchange (Cboe). 
-Schwab is charging this fee to offset fees imposed on us directly or indirectly as a result of transactions on these index option products. 
-Clients and Reps can view a list of index option fee rates on Schwab.com/pricing in the footnotes and disclosures. 
+Index Option Fee (IOF): *This fee is new to Schwab clients as of 03/10/2023*
+The Index Option Fee is associated with proprietary index option products provided by the Chicago Board Options Exchange (Cboe).
+Schwab is charging this fee to offset fees imposed on us directly or indirectly as a result of transactions on these index option products.
+Clients and Reps can view a list of index option fee rates on Schwab.com/pricing in the footnotes and disclosures.
 These fees are subject to change without notice.
 
 Fee Calculations:
 SEC Fee (equity sells and option sells):
-Multiply the SEC fee rate (\$0.000008) with the principal amount on an equity or options sell trade. 
+Multiply the SEC fee rate (\$0.000008) with the principal amount on an equity or options sell trade.
 Example: A sell of \$7,000 of equity or option securities would result in an SEC fee of \$0.06 (\$7,000 x 0.000008 = \$0.056 (rounded up)
 
 Option Regulatory Fee (buys and sells):
 Option Regulatory Fee = \$0.010994 per contract.
 Example: a 10 contract trade would result in a fee of \$0.11 (10 X .010994 = \$0.109; rounded up)
 
-Trading Activity Fee (equity sells and option sells): 
-\$0.000166 per share for each sell of a covered equity security, with a maximum charge of \$8.30 per trade; \$0.00279 per contract for each sell of an option. 
-Examples: 
+Trading Activity Fee (equity sells and option sells):
+\$0.000166 per share for each sell of a covered equity security, with a maximum charge of \$8.30 per trade; \$0.00279 per contract for each sell of an option.
+Examples:
 Sell of 500 shares of an equity = \$0.08 (500 x .000166 = .083; rounded down).
 Sell of 20 option contracts = \$0.06 (20 x .00279 = .0558; rounded up)
- 
+
 Index Option Fee (buys and sells):
 Multiply the number of index option contracts traded by the applicable index option fee rate according to the table on schwab.com/pricing in the footnotes and disclosures.
 
 ## Marginal Accounts
 
-1. A cash (non-margin) brokerage account requires reservation of cash to cover open orders 
-    as if they are filled.
-    However,
-    a marginal brokerage account does not require reservation of cash (if you have enough margin)
-    to cover open orders.
-    And you are not considered borrowing money from Schwab 
-    unless your orders fill.
+1. A cash (non-margin) brokerage account requires reservation of cash to cover open orders
+   as if they are filled.
+   However,
+   a marginal brokerage account does not require reservation of cash (if you have enough margin)
+   to cover open orders.
+   And you are not considered borrowing money from Schwab
+   unless your orders fill.
 
-2. You can find the maximum amount of money that you can borrow by navigating to Accounts > Balances. 
-    It will show you there how much you can maximize for trading or how much you can maximize for a cash withdrawal.
+1. You can find the maximum amount of money that you can borrow by navigating to Accounts > Balances.
+   It will show you there how much you can maximize for trading or how much you can maximize for a cash withdrawal.
 
-3. You won't be able to adjust the amount of marign that you can use within your account.
-    It's automatically determined on the positions within your Schwab account.
-    The more marginable positions that you have in your account,
-    the more you are able to leverage or borrow.
-4. If you borrow funds and pay back the loan on the same day,
-    you won't be charged interest.
-    Interest is charged if you hold the margin balance overnight.
-    Notice that when you initiate a transfer from your bank to your Schwab account,
-    the funs would be credited immediately.
+1. You won't be able to adjust the amount of marign that you can use within your account.
+   It's automatically determined on the positions within your Schwab account.
+   The more marginable positions that you have in your account,
+   the more you are able to leverage or borrow.
+
+1. If you borrow funds and pay back the loan on the same day,
+   you won't be charged interest.
+   Interest is charged if you hold the margin balance overnight.
+   Notice that when you initiate a transfer from your bank to your Schwab account,
+   the funs would be credited immediately.
 
 - [Schwab margin rates and requirements](https://www.schwab.com/margin/margin-rates-and-requirements)
 
 ## Trader APIs
 
-[Tips on Charles Schwab Trader API]( https://www.legendu.net/misc/blog/tips-on-charles-schwab-trader-api )
+[Tips on Charles Schwab Trader API](https://www.legendu.net/misc/blog/tips-on-charles-schwab-trader-api)
 
 ## Cash Sweep Program
 
@@ -135,12 +136,10 @@ and sweep money market funds are not offer currently.
 However,
 you can manually trade money market funds in a Charles Schwab account.
 
-
 Charles Schwab has a bank sweep feature and this is automatically set up on your account, and allows your account to earn interest on any cash balance.
 Yes, you can view that online by clicking on Accounts at the top of the website and then Balances in the drop down.
-  
-Once on that page, under Balance Details there will be a link for Rates next to Cash Balance.
 
+Once on that page, under Balance Details there will be a link for Rates next to Cash Balance.
 
 ## Schwab Investing Themes
 
@@ -153,23 +152,23 @@ interesting
 
 ## [Money Market Funds](https://client.schwab.com/secured/money-market-funds)
 
-Charles Schwab do offer purchased 
+Charles Schwab do offer purchased
 [money market funds](https://client.schwab.com/secured/money-market-funds)
 but not sweep money market funds.
 You have to trade MMFs by yourself.
-Available MMFs can be viewed 
+Available MMFs can be viewed
 by clicking on Products at the top of the website and then Money Market Funds in the drop down.
 
 ## Transfer Stocks from Another Brokerage
 
-There is no Schwab fee to transfer an account into Schwab. 
+There is no Schwab fee to transfer an account into Schwab.
 The sending firm may charge a fee but Schwab will reimburse the fee
 (if you contact the customer service after the transfer is compelte)
 .
-   
+
 You can request a transfer by
 "Move Money" > "Transfer Account".
-You will need the account number and holding firm. 
+You will need the account number and holding firm.
 
 ## Fractional Shares
 

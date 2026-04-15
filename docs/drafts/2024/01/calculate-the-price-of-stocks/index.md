@@ -1,13 +1,13 @@
 ---
-title: "Calculate the Price of Stocks"
+title: Calculate the Price of Stocks
 created: 2024-01-07 10:12:02
-date: 2024-01-07 10:12:02
+date: 2026-04-14 19:34:15.320978
 authors:
   - bendu
 label: calculate-the-price-of-stocks
 license: CC-BY-4.0
 tags:
-  - Investment
+  - investment
   - stock
   - price
   - money
@@ -15,15 +15,15 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-## Tips 
+## Tips
 
 1. You can certainly learn and try to calculate stock price by yourself.
-    However,
-    there are good existing services such as
-    [ValueInvesting.io](https://valueinvesting.io/)
-    and
-    [AltIndex](https://altindex.com/)
-    that you can leverage.
+   However,
+   there are good existing services such as
+   [ValueInvesting.io](https://valueinvesting.io/)
+   and
+   [AltIndex](https://altindex.com/)
+   that you can leverage.
 
 ## References
 

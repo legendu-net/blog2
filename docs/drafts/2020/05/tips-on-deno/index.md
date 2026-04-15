@@ -1,7 +1,7 @@
 ---
 title: Tips on Deno
 created: 2020-05-09 17:27:49
-date: 2026-04-13 23:15:21.952981
+date: 2026-04-14 19:45:18.745858
 authors:
   - bendu
 label: tips-on-deno
@@ -13,7 +13,7 @@ tags:
   - TypeScript
   - TS
   - deno
-  - jupyter
+  - Jupyter
   - notebook
 ---
 

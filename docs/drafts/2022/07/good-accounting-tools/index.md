@@ -1,13 +1,13 @@
 ---
-title: "Good Accounting Tools"
+title: Good Accounting Tools
 created: 2022-07-23 19:47:36
-date: 2022-07-25 13:43:51
+date: 2026-04-14 19:45:18.265114
 authors:
   - bendu
 label: good-accounting-tools
 license: CC-BY-4.0
 tags:
-  - Finance
+  - finance
   - accounting
   - QuickBooks
   - import transactions
@@ -17,14 +17,14 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## [KMyMoney](https://kmymoney.org/)
+
 A Personal Finance Manager for humans.
 
 ## [Mint](https://mint.intuit.com/)
 
-## YNAB 
+## YNAB
 
 ## EveryDollar
-
 
 ## [QuickBooks](https://quickbooks.intuit.com/)
 

@@ -1,7 +1,7 @@
 ---
 title: Bash Equivalent of the ifmain Pattern in Python
 created: 2022-07-28 14:39:20
-date: 2026-04-13 23:15:30.340976
+date: 2026-04-14 19:32:05.965966
 authors:
   - bendu
 label: bash-equivalent-of-the-ifmain-pattern-in-python
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - computer science
   - programming
-  - Shell
+  - shell
   - Bash
   - ifmain
   - Python

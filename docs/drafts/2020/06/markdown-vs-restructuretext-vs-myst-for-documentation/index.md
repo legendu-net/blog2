@@ -1,14 +1,14 @@
 ---
 title: Markdown vs RestructureText vs MyST for Documentation
 created: 2020-06-14 18:56:54
-date: 2026-04-13 23:15:19.587908
+date: 2026-04-14 19:49:14.327940
 authors:
   - bendu
 label: markdown-vs-restructuretext-vs-myst-for-documentation
 license: CC-BY-4.0
 tags:
   - computer science
-  - Markdown
+  - markdown
   - RestructureText
   - documentation
   - markup

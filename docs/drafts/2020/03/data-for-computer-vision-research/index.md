@@ -1,7 +1,7 @@
 ---
-title: "Data for Computer Vision Research"
+title: Data for Computer Vision Research
 created: 2020-03-06 12:45:31
-date: 2021-10-08 12:50:34
+date: 2026-04-14 19:34:16.860624
 authors:
   - bendu
 label: data-for-computer-vision-research
@@ -11,13 +11,12 @@ tags:
   - data science
   - machine learning
   - deep learning
-  - Computer Vision
+  - computer vision
   - CV
   - data
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
 
 ## [MNIST](http://yann.lecun.com/exdb/mnist/)
 
@@ -33,7 +32,7 @@ https://www.nist.gov/
 
 ## [COCO - Common Object in Context](https://cocodataset.org/#home)
 
-VOC-2012 
+VOC-2012
 
 [ImageNet Large Scale Visual Recognition Challenge (ILSVRC)](https://image-net.org/challenges/LSVRC/)
 

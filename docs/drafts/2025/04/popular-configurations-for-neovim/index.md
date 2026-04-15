@@ -1,7 +1,7 @@
 ---
 title: Popular Configurations for NeoVim
 created: 2025-04-18 06:28:10
-date: 2026-04-13 23:14:21.758149
+date: 2026-04-14 19:49:13.298453
 authors:
   - bendu
 label: popular-configurations-for-neovim
@@ -10,7 +10,7 @@ tags:
   - computer science
   - IDE
   - editor
-  - vim
+  - Vim
   - neovim
   - SpaceVim
   - AstroVim

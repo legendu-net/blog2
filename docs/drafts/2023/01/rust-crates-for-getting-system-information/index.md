@@ -1,7 +1,7 @@
 ---
 title: Rust Crates for Getting System Information
 created: 2023-01-13 17:06:30
-date: 2026-04-13 23:14:34.521034
+date: 2026-04-14 19:49:13.529818
 authors:
   - bendu
 label: rust-crates-for-getting-system-information
@@ -14,7 +14,7 @@ tags:
   - info
   - information
   - process
-  - cpu
+  - CPU
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

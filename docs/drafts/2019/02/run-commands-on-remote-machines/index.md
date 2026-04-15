@@ -1,14 +1,14 @@
 ---
-title: "Run Commands on Remote Machines"
+title: Run Commands on Remote Machines
 created: 2019-02-06 23:21:30
-date: 2020-12-06 23:21:30
+date: 2026-04-14 19:32:05.156523
 authors:
   - bendu
 label: run-commands-on-remote-machines
 license: CC-BY-4.0
 tags:
   - programming
-  - Shell
+  - shell
   - Python
   - SSH
   - remote
@@ -25,36 +25,41 @@ tags:
 ### SSH
 
 1. The pipeline command is run locally.
-    If you want the pipeline command to run remotely, 
-    place the whole command to be run remotely in double/single quotes.
-    For example, 
-    the command below SSH into into a Hadoop client through a proxy configured by proxychains,
-    prints the content of a text file and then count the number of lines in the file.
+   If you want the pipeline command to run remotely,
+   place the whole command to be run remotely in double/single quotes.
+   For example,
+   the command below SSH into into a Hadoop client through a proxy configured by proxychains,
+   prints the content of a text file and then count the number of lines in the file.
 
-        :::bash
-        proxychains ssh client_ip /apache/hadoop/bin/hdfs dfs -cat adset_id/adset_id_642.txt | wc -l
+   ```
+    :::bash
+    proxychains ssh client_ip /apache/hadoop/bin/hdfs dfs -cat adset_id/adset_id_642.txt | wc -l
+   ```
 
-    The `wc -l` command is run locally instead of running on the Hadoop client.
-    Since proxychains prints out some information too, 
-    the `wc -l` will over count the number of lines in the text file.
-    The correct way is count the number of lines on the Hadoop client instead of counting locally.
-    A simple way is to place the whole command to be run on the Hadoop client in double/singls quotes.
-    Below is an illustration.
+   The `wc -l` command is run locally instead of running on the Hadoop client.
+   Since proxychains prints out some information too,
+   the `wc -l` will over count the number of lines in the text file.
+   The correct way is count the number of lines on the Hadoop client instead of counting locally.
+   A simple way is to place the whole command to be run on the Hadoop client in double/singls quotes.
+   Below is an illustration.
 
-        :::bash
-        proxychains ssh client_ip '/apache/hadoop/bin/hdfs dfs -cat adset_id/adset_id_642.txt | wc -l'
+   ```
+    :::bash
+    proxychains ssh client_ip '/apache/hadoop/bin/hdfs dfs -cat adset_id/adset_id_642.txt | wc -l'
+   ```
 
 https://stackoverflow.com/questions/305035/how-to-use-ssh-to-run-a-shell-script-on-a-remote-machine
 
 ### [paramiko/paramiko](https://github.com/paramiko/paramiko)
 
 [paramiko/paramiko](https://github.com/paramiko/paramiko)
-is a pure Python implementation of SSHv2. 
+is a pure Python implementation of SSHv2.
 It is a great tool to interact with a remote server in Python.
 
 ### [asyncssh](https://github.com/ronf/asyncssh)
 
 ### [ssh2-python](https://github.com/ParallelSSH/ssh2-python)
+
 [ssh2-python](https://github.com/ParallelSSH/ssh2-python)
 is a super fast Python SSH library based on `libssh2` C library.
 
@@ -67,7 +72,7 @@ is a super fast Python SSH library based on `libssh2` C library.
 ### [parallel-ssh](https://github.com/ParallelSSH/parallel-ssh)
 
 Asynchronous parallel SSH client library.
-Run SSH commands over many (hundreds/hundreds of thousands) 
+Run SSH commands over many (hundreds/hundreds of thousands)
 number of servers asynchronously and with minimal system load on the client host.
 
 ### [ClusterSSH](https://github.com/duncs/clusterssh)
@@ -76,7 +81,7 @@ number of servers asynchronously and with minimal system load on the client host
 
 Ansible is a better alternative than fabric.
 
-## References 
+## References
 
 http://vozis.blogspot.com/2015/01/python-sftp-with-paramiko-via-socks.html
 

@@ -1,7 +1,7 @@
 ---
 title: Writing Scientific Docs Using Typst
 created: 2026-01-17 17:22:31
-date: 2026-04-13 23:14:15.383721
+date: 2026-04-14 19:44:31.188156
 authors:
   - bendu
 label: writing-scientific-docs-using-typst
@@ -14,7 +14,7 @@ tags:
   - writing
   - typst
   - markup
-  - LaTex
+  - LaTeX
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

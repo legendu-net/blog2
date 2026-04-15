@@ -1,7 +1,7 @@
 ---
 title: Useful Tools for Python Developing
 created: 2018-07-08 10:46:18
-date: 2025-06-12 02:36:06
+date: 2026-04-14 19:40:24.662392
 authors:
   - bendu
 label: useful-tools-for-python-developing
@@ -10,7 +10,7 @@ tags:
   - programming
   - Python
   - development
-  - command-line
+  - command line
   - pylint
   - yapf
   - pdb
@@ -24,12 +24,14 @@ tags:
   - type
   - annotation
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+
 - [vulture](https://github.com/jendrikseipp/vulture)
 
-    [vulture](https://github.com/jendrikseipp/vulture)
-    finds unused code in Python programs. 
-    It is useful for cleaning up and finding errors in large code bases. 
+  [vulture](https://github.com/jendrikseipp/vulture)
+  finds unused code in Python programs.
+  It is useful for cleaning up and finding errors in large code bases.
 
 - [pandas-stubs](https://pypi.org/project/pandas-stubs/)
 
@@ -39,19 +41,20 @@ tags:
 
 ## Typing Checker
 
-- [ty]( https://www.legendu.net/misc/blog/ty-is-a-new-modern-static-type-checking-and-language-server-for-python )  
+- [ty](https://www.legendu.net/misc/blog/ty-is-a-new-modern-static-type-checking-and-language-server-for-python)
 
-- [pyrefly]( https://www.legendu.net/misc/blog/tips-on-pyrefly ) 
+- [pyrefly](https://www.legendu.net/misc/blog/tips-on-pyrefly)
 
 - [pytype](https://github.com/google/pytype)
 
-- pyright 
+- pyright
 
-- [mypy]( https://www.legendu.net/misc/blog/static-type-checking-python-mypy ) 
+- [mypy](https://www.legendu.net/misc/blog/static-type-checking-python-mypy)
 
 ## Lint Python Scripts
 
 ### [ruff](https://github.com/charliermarsh/ruff/)
+
 [ruff](https://github.com/charliermarsh/ruff/)
 is an extremely fast Python linter, written in Rust.
 It is preferred to other Python linters such as pylint and flake8.
@@ -62,7 +65,6 @@ It is preferred to other Python linters such as pylint and flake8.
 Just run `ruff format` to format code.
 
 ## [Debugging, Unit Testing and CICD](http://www.legendu.net/misc/blog/unit-testing-debugging-python/)
-
 
 ## Reference
 

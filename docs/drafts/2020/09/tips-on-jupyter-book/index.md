@@ -1,7 +1,7 @@
 ---
 title: Tips on Jupyter-Book
 created: 2020-09-20 14:47:06
-date: 2026-04-13 23:15:15.410883
+date: 2026-04-14 19:49:14.151027
 authors:
   - bendu
 label: tips-on-jupyter-book
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - computer science
   - jupyter-book
-  - Markdown
+  - markdown
   - notebook
   - Jupyter
   - JupyterLab

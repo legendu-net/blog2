@@ -1,7 +1,7 @@
 ---
 title: Tips on IDE
 created: 2018-04-18 19:35:55
-date: 2026-04-13 23:28:02.379946
+date: 2026-04-14 19:44:32.192962
 authors:
   - bendu
 label: tips-on-ide
@@ -13,7 +13,7 @@ tags:
   - Java
   - C++
   - Python
-  - Latex
+  - LaTeX
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

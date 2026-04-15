@@ -1,13 +1,13 @@
 ---
-title: "Tips on the Alpaca Trading Platform"
+title: Tips on the Alpaca Trading Platform
 created: 2023-11-26 21:58:44
-date: 2024-03-22 23:35:18
+date: 2026-04-14 19:34:16.125129
 authors:
   - bendu
 label: tips-on-the-alpaca-trading-platform
 license: CC-BY-4.0
 tags:
-  - Investment
+  - investment
   - trading
   - Alpaca
   - quant
@@ -22,7 +22,7 @@ tags:
 [What are the regulatory fees?](https://alpaca.markets/support/regulatory-fees)
 
 Alpaca does NOT charge commision fees for trading stocks and ETFs.
-However, 
+However,
 Alpaca does charge SEC process fee (SEC), option regulatory fee (ORF), trading activity fee (TAF) and index option fee (IOF).
 Other commision-fee-free brokerages (such as Charles Schwab)
 charge SEC, ORF, TAF and IOF fees too.
@@ -31,7 +31,7 @@ charge SEC, ORF, TAF and IOF fees too.
 
 1. There can be at most 1 ACH transaction per day.
 
-2. An ACH transaction less or equal to $1000 is instant.
+1. An ACH transaction less or equal to \$1000 is instant.
 
 ## Community
 

@@ -1,13 +1,13 @@
 ---
-title: "Tips on Lumibot"
+title: Tips on Lumibot
 created: 2024-01-09 23:50:37
-date: 2024-01-09 23:50:37
+date: 2026-04-14 19:34:15.642203
 authors:
   - bendu
 label: tips-on-lumibot
 license: CC-BY-4.0
 tags:
-  - Investment
+  - investment
   - lumibot
   - money
   - trading

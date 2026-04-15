@@ -1,7 +1,7 @@
 ---
 title: Parse Command Line Arguments in Go
 created: 2022-06-10 20:18:20
-date: 2026-04-13 23:14:46.623048
+date: 2026-04-14 19:32:03.908290
 authors:
   - bendu
 label: parse-command-line-arguments-in-go
@@ -10,7 +10,7 @@ tags:
   - computer science
   - programming
   - Go
-  - GoLANG
+  - golang
   - parse
   - command
   - line

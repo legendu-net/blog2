@@ -1,14 +1,14 @@
 ---
-title: "Alternative to the rm Command in Linux"
+title: Alternative to the rm Command in Linux
 created: 2019-05-02 02:41:04
-date: 2021-08-22 00:12:26
+date: 2026-04-14 19:32:06.440657
 authors:
   - bendu
 label: alternative-to-the-rm-command-in-linux
 license: CC-BY-4.0
 tags:
   - Linux
-  - Shell
+  - shell
   - rm
   - Trash
   - mv
@@ -16,19 +16,23 @@ tags:
 
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-**
+\*\*
 Things on this page are fragmentary and immature notes/thoughts of the author.
 Please read with your own judgement!
-**
+\*\*
 
 As is know to all,
-it can be dangerous to use the `rm` command directly in Linux/Unix. 
+it can be dangerous to use the `rm` command directly in Linux/Unix.
 A simple idea is to define other commands/alias/script to replace it.
-For example, 
+For example,
 I have a shell script named `trash` which moves files (as input arguments) to the system's Trash directory.
 
-    trash files_to_remove
+```
+trash files_to_remove
+```
 
 Another even simplier way is to directly move files to the directory `/tmp`.
 
-    mv files_to_remove /tmp
+```
+mv files_to_remove /tmp
+```

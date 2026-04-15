@@ -1,7 +1,7 @@
 ---
 title: Useful Golang Packages
 created: 2022-07-13 17:35:21
-date: 2026-04-13 23:14:45.092153
+date: 2026-04-14 19:32:03.753830
 authors:
   - bendu
 label: useful-golang-packages
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - computer science
   - programming
-  - Golang
+  - golang
   - package
   - useful
   - pkg

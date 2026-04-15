@@ -1,7 +1,7 @@
 ---
 title: Tips on Valgrind
 created: 2023-01-08 18:58:25
-date: 2026-04-13 23:14:35.760972
+date: 2026-04-14 19:49:13.682339
 authors:
   - bendu
 label: tips-on-valgrind
@@ -12,7 +12,7 @@ tags:
   - Valgrind
   - profiling
   - memory
-  - cpu
+  - CPU
   - memcheck
   - callgrind
   - dhat
