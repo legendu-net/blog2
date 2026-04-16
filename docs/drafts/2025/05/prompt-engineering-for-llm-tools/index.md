@@ -16,6 +16,11 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+Gemini API - Prompt Gallery
+https://ai.google.dev/gemini-api/prompts
+
+https://github.com/ai-boost/awesome-prompts
+
 ## Tips and Traps
 
 1. set temporature

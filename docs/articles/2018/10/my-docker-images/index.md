@@ -27,131 +27,55 @@ with the pattern `mmddhh`
 for fallback if a tag is broken.
 Please refer to the following tag table for more details.
 
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky"> Tag </th>
-    <th class="tg-0pky"> Base Image OS </th>
-    <th class="tg-0lax"> Comment </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"> latest </td>
-    <td class="tg-0lax"> 
-        Ubuntu LTS (or newer if necessary and well tested) 
-    </td>
-    <td class="tg-0lax"> 
-        The most recent stable version of the Docker image. 
-        <span style="color:green">
-            The latest tag is what most users should use.
-        </span>
-        <br>
-        It cares more about user friendliness than Docker image size, load speed and even security.
-    </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> next </td>
-    <td class="tg-0lax"> 
-        Ubuntu LTS (or newer if necessary and well tested) 
-    </td>
-    <td class="tg-0lax">
-        The most recent testing version of the Docker image.
-        <br>
-        New features/tools will be added into the next tag 
-        before entering other tags.
-    </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> 23.04 </td>
-    <td class="tg-0lax"> 
-        Ubuntu 23.04
-    </td>
-    <td class="tg-0lax">
-        For any of the following situations: <br>
-        1. a specific Ubuntu/kernel version is required <br>
-        2. trying out newer Ubuntu versions than LTS
-    </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> mmddhh </td>
-    <td class="tg-0lax"> 
-        Histoical versions corresponding to the latest tag.
-    </td>
-    <td class="tg-0lax"> 
-        Fallback tags (for latest) if the latest tag is broken.
-    </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"> next_mmddhh </td>
-    <td class="tg-0lax"> 
-        Histoical versions corresponding to the next tag.
-    </td>
-    <td class="tg-0lax"> 
-        Fallback tags (for next) if the next tag is broken.
-    </td>
-  </tr>
-</tbody>
-</table>
+```{list-table}
+:header-rows: 1
 
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax"> Docker Image </th>
-    <th class="tg-0pky"> Comment </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><a href="https://github.com/legendu-net/docker-vscode-server" target="_blank" rel="noopener noreferrer">dclong/vscode-server</a></td>
-    <td class="tg-0lax">Cloud IDE <a href="https://github.com/coder/code-server" target="_blank" rel="noopener noreferrer">code-server</a> (based on VSCode)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><a href="https://github.com/legendu-net/docker-jupyterhub-ds" target="_blank" rel="noopener noreferrer">dclong/jupyterhub-ds</a></td>
-    <td class="tg-0lax">Traditional ML</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><a href="https://github.com/legendu-net/docker-jupyterhub-pytorch" target="_blank" rel="noopener noreferrer">dclong/jupyterhub-pytorch</a></td>
-    <td class="tg-0lax">Deep Learning</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><a href="https://github.com/legendu-net/docker-python-portable" target="_blank" rel="noopener noreferrer">dclong/python-portable</a></td>
-    <td class="tg-0lax">Build portable Python using <a href="https://github.com/indygreg/python-build-standalone" target="_blank" rel="noopener noreferrer">python-build-standalone</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><a href="https://github.com/legendu-net/docker-jupyterhub-sagemath" target="_blank" rel="noopener noreferrer">dclong/jupyterhub-sagemath</a></td>
-    <td class="tg-0lax">Math / Calculus</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">
-        <a href="https://hub.docker.com/layers/dclong/jupyterhub-ds/blog_071520/images/sha256-f6f9f15d18a856786c37a370157e81c9e0acbc80050656858be9330c6213b5fe?context=repo" target="_blank" rel="noopener noreferrer">dclong/jupyterhub-ds:blog_071520</a>
-    </td>
-    <td class="tg-0lax">
-        For publishing <a href="https://github.com/legendu-net/blog" target="_blank" rel="noopener noreferrer">legendu.net/blog</a>
-        using CICD. 
-    </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><a href="https://github.com/legendu-net/docker-gitpod" target="_blank" rel="noopener noreferrer">dclong/gitpod</a></td>
-    <td class="tg-0lax">Editing other GitHub repos using GitPod</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">
-        <a href="https://github.com/legendu-net/docker-jupyterhub-kotlin" target="_blank" rel="noopener noreferrer">dclong/jupyterhub-kotlin</a> <br>
-        <a href="https://github.com/legendu-net/docker-jupyterhub-ganymede" target="_blank" rel="noopener noreferrer">dclong/jupyterhub-ganymede</a>
-    </td>
-    <td class="tg-0lax">JVM languages</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">
-        <a href="https://github.com/legendu-net/docker-rustpython" target="_blank" rel="noopener noreferrer">dclong/rustpython</a>
-    </td>
-    <td class="tg-0lax">
-        RustPython
-    </td>
-  </tr>
-</tbody>
-</table>
+- - Tag
+  - Base Image OS
+  - Comment
+- - latest
+  - Ubuntu LTS (or newer if necessary and well tested)
+  - The most recent stable version of the Docker image. 
+    <span style="color:green">
+        The latest tag is what most users should use.
+    </span>
+    It cares more about user friendliness than Docker image size, load speed and even security.
+- - next
+  - Ubuntu LTS (or newer if necessary and well tested)
+  - The most recent testing version of the Docker image.
+    New features/tools will be added into the next tag 
+    before entering other tags.
+- - mmddhh
+  - Histoical versions corresponding to the latest tag.
+  - Fallback tags (for latest) if the latest tag is broken.
+- - next_mmddhh
+  - Histoical versions corresponding to the next tag.
+  - Fallback tags (for next) if the next tag is broken.
+```
+
+```{list-table}
+:header-rows: 1
+
+- - Docker Image
+  - Comment
+- - [dclong/vscode-server](https://github.com/legendu-net/docker-vscode-server)
+  - Cloud IDE [code-server](https://github.com/coder/code-server) (based on VSCode)
+- - [dclong/jupyterhub-ds](https://github.com/legendu-net/docker-jupyterhub-ds)
+  - Traditional ML
+- - [dclong/python-portable](https://github.com/legendu-net/docker-python-portable)
+  - Build portable Python using [python-build-standalone](https://github.com/indygreg/python-build-standalone)
+- - [dclong/jupyterhub-sagemath](https://github.com/legendu-net/docker-jupyterhub-sagemath)
+  - Math / Calculus
+- - [dclong/jupyterhub-kotlin](https://github.com/legendu-net/docker-jupyterhub-kotlin)\
+    [dclong/jupyterhub-ganymede](https://github.com/legendu-net/docker-jupyterhub-ganymede)
+  - JVM languages
+- - [dclong/rustpython](https://github.com/legendu-net/docker-rustpython)
+  - RustPython
+- - [dclong/jupyterhub-pytorch](https://github.com/legendu-net/docker-jupyterhub-pytorch)
+  - Deep Learning
+- - [dclong/gitpod](https://github.com/legendu-net/docker-gitpod)
+  - Editing other GitHub repos using GitPod
+```
 
 ## Usage
 

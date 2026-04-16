@@ -2550,7 +2550,7 @@ site:
 ```
 
 ## Linux
-```{dropdown} Click to expand/collapse 140 links
+```{dropdown} Click to expand/collapse 141 links
 - [Convert MS Office Document to Text](convert-ms-office-document-to-text)
 - [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
 - [Tools for Differencing Text Files](tools-for-differencing-text-files)
@@ -2621,6 +2621,7 @@ site:
 - [Tips on Touchpad](tips-on-touchpad)
 - [Tips on NFS](tips-on-nfs)
 - [Manage Autostart Applications](manage-autostart-applications)
+- [Remote Desktop Using Remmina](remote-desktop-using-remmina)
 - [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
 - [Tips on Arch Linux](tips-on-arch-linux)
 - [Tips on rsync](tips-on-rsync)
@@ -6669,6 +6670,19 @@ site:
 - [Tips on GitHub](tips-on-github)
 ```
 
+## desktop
+```{dropdown} Click to expand/collapse 9 links
+- [Tips on Fbs](tips-on-fbs)
+- [Develop a GUI Application in Rust](develop-a-gui-application-in-rust)
+- [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
+- [COSMIC Is a Rock Solid Desktop Environment for Linux](cosmic-is-a-rock-solid-desktop-environment-for-linux)
+- [Manage AppImages on Linux](manage-appimages-on-linux)
+- [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
+- [Working Remotely in Linux](working-remotely-in-linux)
+- [Manage Autostart Applications](manage-autostart-applications)
+- [Remote Desktop Using Remmina](remote-desktop-using-remmina)
+```
+
 ## index
 ```{dropdown} Click to expand/collapse 8 links
 - [Get Index of True Values of a Sequence in Python](get-index-of-true-values-of-a-sequence-in-python)
@@ -6885,6 +6899,18 @@ site:
 - [Python Logging](python-logging)
 ```
 
+## remote
+```{dropdown} Click to expand/collapse 8 links
+- [Run Commands on Remote Machines](run-commands-on-remote-machines)
+- [Maintain Garage Doors](maintain-garage-doors)
+- [Tips and sshfs and fuse](tips-and-sshfs-and-fuse)
+- [Working Remotely in Linux](working-remotely-in-linux)
+- [Useful Tools in Linux](useful-tools-in-linux)
+- [Remote Desktop Using Remmina](remote-desktop-using-remmina)
+- [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
+- [Operate Remote Servers Using SSH](operate-remote-servers-using-ssh)
+```
+
 ## pattern
 ```{dropdown} Click to expand/collapse 8 links
 - [How Long Does It Take to Observe a Sequence?](how-long-does-it-take-to-observe-a-sequence)
@@ -6943,18 +6969,6 @@ site:
 - [Working with Iterators in Python](working-with-iterators-in-python)
 - [Collections and Iterators in C++](collections-and-iterators-in-c++)
 - [Erase Elements of a Container Using Iterator in C++](erase-elements-of-a-container-using-iterator-in-c++)
-```
-
-## desktop
-```{dropdown} Click to expand/collapse 8 links
-- [Tips on Fbs](tips-on-fbs)
-- [Develop a GUI Application in Rust](develop-a-gui-application-in-rust)
-- [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
-- [COSMIC Is a Rock Solid Desktop Environment for Linux](cosmic-is-a-rock-solid-desktop-environment-for-linux)
-- [Manage AppImages on Linux](manage-appimages-on-linux)
-- [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
-- [Working Remotely in Linux](working-remotely-in-linux)
-- [Manage Autostart Applications](manage-autostart-applications)
 ```
 
 ## Firefox
@@ -7220,17 +7234,6 @@ site:
 - [Format String in Java](format-string-in-java)
 - [Round/Format Numbers in Java](round-format-numbers-in-java)
 - [Format Java Code](format-java-code)
-```
-
-## remote
-```{dropdown} Click to expand/collapse 7 links
-- [Run Commands on Remote Machines](run-commands-on-remote-machines)
-- [Maintain Garage Doors](maintain-garage-doors)
-- [Tips and sshfs and fuse](tips-and-sshfs-and-fuse)
-- [Working Remotely in Linux](working-remotely-in-linux)
-- [Useful Tools in Linux](useful-tools-in-linux)
-- [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
-- [Operate Remote Servers Using SSH](operate-remote-servers-using-ssh)
 ```
 
 ## KDE
@@ -8111,15 +8114,6 @@ site:
 - [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
 ```
 
-## remote desktop
-```{dropdown} Click to expand/collapse 5 links
-- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
-- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
-- [Tips on VNC](tips-on-vnc)
-- [Remote Desktop Using Remmina](remote-desktop-using-remmina)
-- [Remote Desktop Using NoMachine on Linux](remote-desktop-using-nomachine-on-linux)
-```
-
 ## China
 ```{dropdown} Click to expand/collapse 5 links
 - [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
@@ -8890,6 +8884,14 @@ site:
 - [Work With Multiple Spark Installations](work-with-multiple-spark-installations)
 - [Read Multiple Files into a DataFrame in Spark](read-multiple-files-into-a-dataframe-in-spark)
 - [Compress and Decompressing Archives in Linux](compress-and-decompressing-archives-in-linux)
+```
+
+## remote desktop
+```{dropdown} Click to expand/collapse 4 links
+- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
+- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
+- [Tips on VNC](tips-on-vnc)
+- [Remote Desktop Using NoMachine on Linux](remote-desktop-using-nomachine-on-linux)
 ```
 
 ## quant

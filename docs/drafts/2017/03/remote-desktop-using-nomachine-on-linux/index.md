@@ -23,3 +23,8 @@ tags:
 
 2. [Download NoMachine](https://www.nomachine.com/download)
     and install it.
+
+
+## References
+
+[Working Remotely in Linux](working-remotely-in-linux)

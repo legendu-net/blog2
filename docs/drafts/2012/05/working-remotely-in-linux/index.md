@@ -40,21 +40,32 @@ tags:
 
 ### Remote Desktop
 
+- rdp
+  - Linux DE Built-ins
+      - KDE Plasma: System Settings -> System -> Remote Desktop
+  - Windows App (macOS)
+- VNC
+  - vino 
+  - tight VNC
+  - remmina
+  - [noVNC](https://novnc.com/info.html)
 - NoMachine
-
+    - commericial but free for personal use
 - [rustdesk](https://github.com/rustdesk/rustdesk)
-
-- VNC (e.g., vino or tight vnc, remmina)
-
+- [Chrome Remote Desktop](https://remotedesktop.google.com/home)
+    - Linux support is limited to Debian/Ubuntu series.
 - Teamviewer
+    - commericial
+- [Parsec](https://parsec.app)
+    - commericial, monthly subscription
 
 ## From Linux to Windows
 
 ### Remote Desktop
 
-- Remmina
-
-- rdesktop
+- rdp
+  - Remmina
+  - rdesktop
 
 - NoMachine
 
