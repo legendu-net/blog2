@@ -18,6 +18,8 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+## GitHub Codespaces
+
 ## Google Firebase Studio (Will Sunset in 2027)
 
 See

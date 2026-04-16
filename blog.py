@@ -345,7 +345,7 @@ def add(blogger, args):
     blogger.insert_records(
         table=Blogger.SRPS,
         fields=Blogger.SRPS_COLS,
-        values=[(file, title, args.doc_dir)],
+        values=[(file, title, Path(file).parts[4])],
     )
     blogger.show(n=1, order_by="rowid DESC")
     blogger.commit()
@@ -474,7 +474,8 @@ def _subparse_update_tags(subparsers):
         "-t",
         "--tags",
         dest="tags",
-        nargs="+",
+        nargs="*",
+        default=(),
         help="Tag pairs in the format o1 n1 o2 n2...",
     )
     subparser_utag.set_defaults(func=update_tags)

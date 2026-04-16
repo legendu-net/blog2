@@ -15,6 +15,7 @@ import sqlite3
 import subprocess as sp
 import time
 from typing import Any, Iterable, Self, Sequence, TypeAlias
+import atexit
 from bs4 import BeautifulSoup
 import nbformat
 from loguru import logger
@@ -25,8 +26,8 @@ import yaml
 AnyPath: TypeAlias = str | Path
 Number: TypeAlias = int | float
 BASE_DIR = Path(__file__).resolve().parent
-SPELLS_TITLE = BASE_DIR / "spells_title.yml"
-SPELLS_TAG = BASE_DIR / "spells_tag.yml"
+SPELLS_TITLE = BASE_DIR / "spells/spells_title.yml"
+SPELLS_TAG = BASE_DIR / "spells/spells_tag.yml"
 ARTICLES = "articles"
 DRAFTS = "drafts"
 OUTDATED = "outdated"
@@ -197,7 +198,13 @@ class Post:
         self.lines = []
         self.notebook = {}
         self._label_to_use = ""
+        self._should_write = False
         self._set_path(path)
+        atexit.register(self.shutdown_hook)
+
+    def shutdown_hook(self):
+        if self._should_write:
+            self._write()
 
     def change_doc_dir(self, doc_dir: str):
         if doc_dir not in (ARTICLES, DRAFTS, OUTDATED):
@@ -264,7 +271,7 @@ class Post:
         if has_disclaimer:
             self.lines = self.lines[1:]
         if not valid:
-            self._write()
+            self._should_write = True
 
     def _set_path(self, path: AnyPath):
         if isinstance(path, str):
@@ -295,22 +302,7 @@ class Post:
     def mdformat(self):
         sp.run(f"uv run mdformat {self.path}", shell=True)
 
-    def _reg_tags(self) -> None:
-        kvs = read_spells_tag()
-        tags = []
-        for t in self.metadata["tags"]:
-            if not t:
-                continue
-            tag = kvs.get(t, t)
-            if isinstance(tag, list):
-                tags.extend(tag)
-            else:
-                tags.append(tag)
-        tags = list(dict.fromkeys(tags))
-        self.update_meta_field({"tags": tags})
-
     def _write(self):
-        self._reg_tags()
         if self.is_markdown:
             with self.path.open("w", encoding="utf-8") as fout:
                 fout.writelines(self._metadata_lines())
@@ -384,10 +376,25 @@ class Post:
             if metadata
             else datetime.datetime.fromtimestamp(self.path.stat().st_mtime)
         )
-        self._write()
+        self._should_write = True
 
-    def update_tags(self, kvs: dict[str, str]) -> bool:
-        tags = [tag for t in self.metadata["tags"] if (tag := kvs.get(t, t))]
+    def update_title(self) -> None:
+        # TODO: similar to update tags
+        pass
+
+    def update_tags(self, kvs: dict[str, str] | dict[str, str | list[str]]) -> bool:
+        if not kvs:
+            kvs = read_spells_tag()
+        tags = []
+        for t in self.metadata["tags"]:
+            tag = kvs.get(t, t)
+            if not tag:
+                continue
+            if isinstance(tag, list):
+                tags.extend(tag)
+            else:
+                tags.append(tag)
+        tags = list(dict.fromkeys(tags))
         if tags == self.metadata["tags"]:
             return False
         self.update_meta_field(metadata={"tags": tags})
@@ -431,7 +438,7 @@ class Post:
                 "authors": ["bendu"],
                 "label": _label(metadata_or_title),
                 "license": "CC-BY-4.0",
-                "tags": ["computer science", "programming"],
+                "tags": ["programming"],
             }
         self.metadata = metadata_or_title
         self.lines = []
@@ -620,7 +627,9 @@ class Blogger:
         kvs["match"] = 1
         self.update_records(table=self.POSTS, paths=path_old, kvs=kvs)
 
-    def update_tags(self, post: str | Post, kvs: dict[str, str]) -> None:
+    def update_tags(
+        self, post: str | Post, kvs: dict[str, str] | dict[str, str | list[str]]
+    ) -> None:
         if isinstance(post, str):
             path = post
             post = Post(path).parse()

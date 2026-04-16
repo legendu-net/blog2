@@ -5,7 +5,8 @@ site:
 ---
 
 ## programming
-```{dropdown} Click to expand/collapse 1028 links
+```{dropdown} Click to expand/collapse 1029 links
+- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
 - [List in Kotlin](list-in-kotlin)
 - [Sort a List in Kotlin](sort-a-list-in-kotlin)
 - [Collections in Kotlin](collections-in-kotlin)
@@ -3769,7 +3770,8 @@ site:
 ```
 
 ## web
-```{dropdown} Click to expand/collapse 54 links
+```{dropdown} Click to expand/collapse 55 links
+- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
 - [Visual Studio Code Server](visual-studio-code-server)
 - [Firebug Is Awsome](firebug-is-awsome)
 - [GPU for Web](gpu-for-web)
@@ -4397,6 +4399,40 @@ site:
 - [Useful Golang Packages](useful-golang-packages)
 ```
 
+## IDE
+```{dropdown} Click to expand/collapse 30 links
+- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
+- [Tips on Visual Studio Code](tips-on-visual-studio-code)
+- [Visual Studio Code Server](visual-studio-code-server)
+- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+- [Tips on IDE](tips-on-ide)
+- [IDEs for LaTeX](ides-for-latex)
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [AI-based Code Completion Tools](ai-based-code-completion-tools)
+- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
+- [Tips on Python-Language-Server](tips-on-python-language-server)
+- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
+- [IDE for Rust](ide-for-rust)
+- [Tips on NeoVim](tips-on-neovim)
+- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
+- [Tips on the Zed IDE](tips-on-the-zed-ide)
+- [Tips on AstroNvim](tips-on-astronvim)
+- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
+- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
+- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
+- [TeXstudio, Bravo!](texstudio-bravo)
+- [General Tips on SQL](general-tips-on-sql)
+- [Python Developing in PyCharm](python-developing-in-pycharm)
+- [Typing Chinese in Vim](typing-chinese-in-vim)
+- [Show Inferred Type in IntelliJ IDEA](show-inferred-type-in-intellij-idea)
+- [Tips on dbeaver](tips-on-dbeaver)
+- [IDE for SQL](ide-for-sql)
+- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
+- [IntelliJ IDEA Tips](intellij-idea-tips)
+- [Start RStudio Server After Upgrading](start-rstudio-server-after-upgrading)
+```
+
 ## Kotlin
 ```{dropdown} Click to expand/collapse 30 links
 - [List in Kotlin](list-in-kotlin)
@@ -4463,39 +4499,6 @@ site:
 - [Mirroring Screen from iPhone or iPad to Macbook](mirroring-screen-from-iphone-or-ipad-to-macbook)
 - [Fix Xcrun Error in Mac](fix-xcrun-error-in-mac)
 - [Mount Samba on Mac](mount-samba-on-mac)
-```
-
-## IDE
-```{dropdown} Click to expand/collapse 29 links
-- [Tips on Visual Studio Code](tips-on-visual-studio-code)
-- [Visual Studio Code Server](visual-studio-code-server)
-- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
-- [Visual Studio Code for Python](visual-studio-code-for-python)
-- [Tips on IDE](tips-on-ide)
-- [IDEs for LaTeX](ides-for-latex)
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
-- [AI-based Code Completion Tools](ai-based-code-completion-tools)
-- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
-- [Tips on Python-Language-Server](tips-on-python-language-server)
-- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
-- [IDE for Rust](ide-for-rust)
-- [Tips on NeoVim](tips-on-neovim)
-- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
-- [Tips on the Zed IDE](tips-on-the-zed-ide)
-- [Tips on AstroNvim](tips-on-astronvim)
-- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
-- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
-- [TeXstudio, Bravo!](texstudio-bravo)
-- [General Tips on SQL](general-tips-on-sql)
-- [Python Developing in PyCharm](python-developing-in-pycharm)
-- [Typing Chinese in Vim](typing-chinese-in-vim)
-- [Show Inferred Type in IntelliJ IDEA](show-inferred-type-in-intellij-idea)
-- [Tips on dbeaver](tips-on-dbeaver)
-- [IDE for SQL](ide-for-sql)
-- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
-- [IntelliJ IDEA Tips](intellij-idea-tips)
-- [Start RStudio Server After Upgrading](start-rstudio-server-after-upgrading)
 ```
 
 ## investment
@@ -4752,6 +4755,35 @@ site:
 - [VirtualBox API](virtualbox-api)
 ```
 
+## GitHub
+```{dropdown} Click to expand/collapse 25 links
+- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
+- [Hands on ghapi](hands-on-ghapi)
+- [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
+- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
+- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
+- [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
+- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
+- [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
+- [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
+- [Blogging Platforms](blogging-platforms)
+- [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
+- [Tips on Gh](tips-on-gh)
+- [Download a Single File from a GitHub Repository](download-a-single-file-from-a-github-repository)
+- [GitHub Alternatives](github-alternatives)
+- [GitHub Apps and Bot Accounts](github-apps-and-bot-accounts)
+- [Setup GitHub Actions Self-hosted Runners on GCP](setup-github-actions-self-hosted-runners-on-gcp)
+- [GitHub API](github-api)
+- [GitHub Action Task Stuck At Expected](github-action-task-stuck-at-expected)
+- [Fix Authentication Error of GitHub Repositories on DockerHub](fix-authentication-error-of-github-repositories-on-dockerhub)
+- [Tips on Git](tips-on-git)
+- [Tips on GitHub](tips-on-github)
+- [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
+- [Batch GitHub Repository Operations Using GitHub Rest API](batch-github-repository-operations-using-github-rest-api)
+- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
+- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
+```
+
 ## PyTorch
 ```{dropdown} Click to expand/collapse 25 links
 - [Tips on Torchvision](tips-on-torchvision)
@@ -4863,34 +4895,6 @@ site:
 - [Escape from the Great Firewall of China](escape-from-the-great-firewall-of-china)
 - [Test Internet Speed](test-internet-speed)
 - [Find Out Proxy in Use](find-out-proxy-in-use)
-```
-
-## GitHub
-```{dropdown} Click to expand/collapse 24 links
-- [Hands on ghapi](hands-on-ghapi)
-- [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
-- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
-- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
-- [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
-- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
-- [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
-- [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
-- [Blogging Platforms](blogging-platforms)
-- [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
-- [Tips on Gh](tips-on-gh)
-- [Download a Single File from a GitHub Repository](download-a-single-file-from-a-github-repository)
-- [GitHub Alternatives](github-alternatives)
-- [GitHub Apps and Bot Accounts](github-apps-and-bot-accounts)
-- [Setup GitHub Actions Self-hosted Runners on GCP](setup-github-actions-self-hosted-runners-on-gcp)
-- [GitHub API](github-api)
-- [GitHub Action Task Stuck At Expected](github-action-task-stuck-at-expected)
-- [Fix Authentication Error of GitHub Repositories on DockerHub](fix-authentication-error-of-github-repositories-on-dockerhub)
-- [Tips on Git](tips-on-git)
-- [Tips on GitHub](tips-on-github)
-- [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
-- [Batch GitHub Repository Operations Using GitHub Rest API](batch-github-repository-operations-using-github-rest-api)
-- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
-- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
 ```
 
 ## CV
@@ -5188,6 +5192,28 @@ site:
 - [Deep Learning Tools and Apps](deep-learning-tools-and-apps)
 ```
 
+## cloud
+```{dropdown} Click to expand/collapse 18 links
+- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
+- [Tips on Amazon AWS](tips-on-amazon-aws)
+- [Tips on GCP](tips-on-gcp)
+- [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
+- [Tips on BigQuery](tips-on-bigquery)
+- [Cloud Object Storage](cloud-object-storage)
+- [App Platforms](app-platforms)
+- [GCP Compute Engine VM Instances](gcp-compute-engine-vm-instances)
+- [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
+- [Tips on Terraform](tips-on-terraform)
+- [Tips on GCP Compute Engine](tips-on-gcp-compute-engine)
+- [Setup GitHub Actions Self-hosted Runners on GCP](setup-github-actions-self-hosted-runners-on-gcp)
+- [Baidu Yun Tips](baidu-yun-tips)
+- [Tips on Resilio Sync](tips-on-resilio-sync)
+- [Tips on TeamDrive](tips-on-teamdrive)
+- [Synchronize Files Using Dropbox](synchronize-files-using-dropbox)
+- [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
+- [Cloud VMs Tips](cloud-vms-tips)
+```
+
 ## command line
 ```{dropdown} Click to expand/collapse 18 links
 - [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
@@ -5273,27 +5299,6 @@ site:
 - [LaTeX for Chinese](latex-for-chinese)
 - [Graphics in LaTeX](graphics-in-latex)
 - [Convert LaTeX to Word](convert-latex-to-word)
-```
-
-## cloud
-```{dropdown} Click to expand/collapse 17 links
-- [Tips on Amazon AWS](tips-on-amazon-aws)
-- [Tips on GCP](tips-on-gcp)
-- [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
-- [Tips on BigQuery](tips-on-bigquery)
-- [Cloud Object Storage](cloud-object-storage)
-- [App Platforms](app-platforms)
-- [GCP Compute Engine VM Instances](gcp-compute-engine-vm-instances)
-- [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
-- [Tips on Terraform](tips-on-terraform)
-- [Tips on GCP Compute Engine](tips-on-gcp-compute-engine)
-- [Setup GitHub Actions Self-hosted Runners on GCP](setup-github-actions-self-hosted-runners-on-gcp)
-- [Baidu Yun Tips](baidu-yun-tips)
-- [Tips on Resilio Sync](tips-on-resilio-sync)
-- [Tips on TeamDrive](tips-on-teamdrive)
-- [Synchronize Files Using Dropbox](synchronize-files-using-dropbox)
-- [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
-- [Cloud VMs Tips](cloud-vms-tips)
 ```
 
 ## Git
@@ -6691,6 +6696,18 @@ site:
 - [Synchronize System Time in Debian](synchronize-system-time-in-debian)
 ```
 
+## browser
+```{dropdown} Click to expand/collapse 8 links
+- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
+- [Incognito Mode for Browsers](incognito-mode-for-browsers)
+- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
+- [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
+- [Tips on the Dia Browser](tips-on-the-dia-browser)
+- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
+- [Run UserScripts in Browsers](run-userscripts-in-browsers)
+- [Selectively Disable Vimperator on Webpages](selectively-disable-vimperator-on-webpages)
+```
+
 ## documentation
 ```{dropdown} Click to expand/collapse 8 links
 - [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
@@ -7003,6 +7020,17 @@ site:
 - [Docker Images for Synchronization](docker-images-for-synchronization)
 ```
 
+## code
+```{dropdown} Click to expand/collapse 7 links
+- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
+- [Tips on Code Design](tips-on-code-design)
+- [Verify Rust Code](verify-rust-code)
+- [Format Python Code Using Black](format-python-code-using-black)
+- [Tips on Refactoring Rust Code](tips-on-refactoring-rust-code)
+- [GitHub Alternatives](github-alternatives)
+- [Replace Single Quotes With Double Quotes in Python Code](replace-single-quotes-with-double-quotes-in-python-code)
+```
+
 ## sort
 ```{dropdown} Click to expand/collapse 7 links
 - [Sort a List in Kotlin](sort-a-list-in-kotlin)
@@ -7309,17 +7337,6 @@ site:
 - [Debug C/C++ Code Using GDB](debug-c-c++-code-using-gdb)
 - [Common Mistakes in C++ Code and Ways to Debug](common-mistakes-in-c++-code-and-ways-to-debug)
 - [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
-```
-
-## browser
-```{dropdown} Click to expand/collapse 7 links
-- [Incognito Mode for Browsers](incognito-mode-for-browsers)
-- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
-- [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
-- [Tips on the Dia Browser](tips-on-the-dia-browser)
-- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
-- [Run UserScripts in Browsers](run-userscripts-in-browsers)
-- [Selectively Disable Vimperator on Webpages](selectively-disable-vimperator-on-webpages)
 ```
 
 ## datetime | DateTime
@@ -7733,16 +7750,6 @@ site:
 - [English Writing](english-writing)
 - [English Learning](english-learning)
 - [English Vocabulary](english-vocabulary)
-```
-
-## code
-```{dropdown} Click to expand/collapse 6 links
-- [Tips on Code Design](tips-on-code-design)
-- [Verify Rust Code](verify-rust-code)
-- [Format Python Code Using Black](format-python-code-using-black)
-- [Tips on Refactoring Rust Code](tips-on-refactoring-rust-code)
-- [GitHub Alternatives](github-alternatives)
-- [Replace Single Quotes With Double Quotes in Python Code](replace-single-quotes-with-double-quotes-in-python-code)
 ```
 
 ## Dropbox
