@@ -255,6 +255,8 @@ tags:
 </tbody>
 </table>
 
+[langextract](https://github.com/google/langextract)
+
 ## AI Tools from China
 
 - [智谱AI开放平台](https://bigmodel.cn/)
@@ -270,6 +272,12 @@ tags:
 - [Ai2 Scholar QA: Organized Literature Synthesis with Attribution](https://arxiv.org/abs/2504.10861)
 
 ## References
+
+- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
+
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+
+- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 
 - [LLM in Rust](https://www.legendu.net/misc/blog/llm-in-rust)
 

@@ -1,14 +1,14 @@
 ---
 title: Cloud IDE
 created: 2018-05-20 09:49:30
-date: 2026-04-15 19:27:02.131313
+date: 2026-04-16 10:06:39.767439
 authors:
   - bendu
 label: cloud-ide
 license: CC-BY-4.0
 tags:
   - software
-  - Cloud
+  - cloud
   - IDE
   - cloud9
   - Codenvy

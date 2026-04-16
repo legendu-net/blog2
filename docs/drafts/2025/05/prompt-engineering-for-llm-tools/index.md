@@ -42,6 +42,8 @@ tags:
 
 ## Tools for Generating and Managing Prompts
 
+https://github.com/ai-boost/awesome-prompts
+
 <table>
     <thead>
         <tr>

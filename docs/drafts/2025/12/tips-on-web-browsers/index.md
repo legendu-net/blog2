@@ -21,7 +21,7 @@ tags:
 
 - [Google Disco](https://labs.google/disco)
 
-- [Dia](https://misc.legendu.net/blog/tips-on-the-dia-browser/)
+- [Dia](tips-on-the-dia-browser)
 
 ## Headless Browsers
 
