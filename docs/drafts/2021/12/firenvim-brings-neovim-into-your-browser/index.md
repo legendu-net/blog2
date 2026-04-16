@@ -1,7 +1,7 @@
 ---
 title: FireNVim Brings NeoVim into Your Browser
 created: 2021-12-04 20:03:49
-date: 2026-04-13 23:14:51.826972
+date: 2026-04-15 19:27:00.832791
 authors:
   - bendu
 label: firenvim-brings-neovim-into-your-browser
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - computer science
   - Vim
-  - NeoVim
+  - Neovim
   - FireNVim
   - browser
 ---

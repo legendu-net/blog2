@@ -1,7 +1,7 @@
 ---
-title: "Java Interfaces for Python"
+title: Java Interfaces for Python
 created: 2019-01-25 20:15:13
-date: 2020-10-25 20:15:13
+date: 2026-04-15 19:27:00.399839
 authors:
   - bendu
 label: java-interfaces-for-python
@@ -12,10 +12,9 @@ tags:
   - Java
   - interface
   - PyJNIus
-  - jpype
+  - JPype
   - py4j
 ---
-
 
 JPype, py4j and PyJNIus are all good options for Java interface for Python.
 Jpype is easy to use and widely adopted.
@@ -25,17 +24,18 @@ however,
 it has a better performance, generally speaking.
 
 ## JPype
-Please refer to 
+
+Please refer to
 [Call Java Code Using Jpype from Python](http://www.legendu.net/misc/blog/call-java-code-using-jpype-from-python/)
 for details.
 
 ## PyJNIus
 
-Please refer to 
+Please refer to
 [Call Java Using PyJNIus from Python](http://www.legendu.net/misc/blog/call-java-using-pyjnius-from-python/)
 for details.
 
-## py4j 
+## py4j
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
-title: "Change Shell in Mac"
+title: Change Shell in Mac
 created: 2018-04-02 14:46:43
-date: 2025-12-09 12:26:13
+date: 2026-04-15 19:27:00.410499
 authors:
   - bendu
 label: change-shell-in-mac
@@ -9,29 +9,32 @@ license: CC-BY-4.0
 tags:
   - macOS
   - shell
-  - Hyper
+  - hyper
   - Bash
   - zsh
 ---
 
-
 You can check the current shell in use by running the following command.
 
-    :::bash
-    echo $SHELL
-    
+```
+:::bash
+echo $SHELL
+```
+
 However,
 notice that `echo $SHELL` does not report the right shell sometimes.
 A more robust way is to use `echo $0`.
 
 The default shell can be changed using the comamnd `chsh`.
-For example, 
+For example,
 the following command changes the default shell to the fish shell.
 
-    :::bash
-    chsh -s /usr/local/bin/fish
+```
+:::bash
+chsh -s /usr/local/bin/fish
+```
 
-Please consult 
+Please consult
 [chat with Gemini](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221ltmkuaJxYrnN1P_AMQ2hlB6qY1LrzpoE%22%5D,%22action%22:%22open%22,%22userId%22:%22100282891140280543929%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
 if you run into error saying
 "chsh: /usr/local/bin/fish: non-standard shell on macos"
@@ -42,10 +45,10 @@ if you run into error saying
 Notice that [Hyper](https://hyper.is/)
 does not honor the the environment variable `SHELL`
 and thus the above way of changing the default shell does not work for Hyper.js.
-One way to change the default shell in Hyper.js 
-is to directly update the field `shell` 
+One way to change the default shell in Hyper.js
+is to directly update the field `shell`
 in the configuration file `~/.hyper.js` to be the desire one.
-For example, 
+For example,
 the configuration file below uses Bash as the default shell.
 
 ```
@@ -211,7 +214,6 @@ module.exports = {
 };
 ```
 
-
 ## References
 
 [How to Tell What Shell Your Mac is Using](https://www.macinstruct.com/tutorials/how-to-tell-what-shell-your-mac-is-using/)
@@ -221,5 +223,3 @@ https://www.youtube.com/watch?v=fs7yWlB2dSU&feature=youtu.be
 https://github.com/zeit/hyper/issues/81
 
 https://github.com/zeit/hyper/issues/491
-
-

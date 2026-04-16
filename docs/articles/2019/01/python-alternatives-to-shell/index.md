@@ -1,21 +1,22 @@
 ---
 title: Python Alternatives to Shell
 created: 2019-01-03 16:17:10
-date: 2026-04-05 19:42:37.398640
+date: 2026-04-15 19:27:00.402076
 authors:
-- bendu
+  - bendu
 label: python-alternatives-to-shell
 license: CC-BY-4.0
 tags:
-- programming
-- IPython
-- shell
-- bash
-- xonsh
-- plumbum
-- Python
-- shell alternatives
+  - programming
+  - IPython
+  - shell
+  - Bash
+  - xonsh
+  - plumbum
+  - Python
+  - shell alternatives
 ---
+
 ## Python Equivalent of Shell Commands
 
 <table style="width:100%">
@@ -201,41 +202,40 @@ tags:
 
 IPython is the best and simpliest Python approach to replace (all part of) shell so far.
 
-1. Use the IPython shell or JupyterLab notebook (preferred) 
-    instead of Shell for complicated interactive operations.
+1. Use the IPython shell or JupyterLab notebook (preferred)
+   instead of Shell for complicated interactive operations.
 
-2. Be careful about illegal shell commands.
-    For example,
-    `ls )` in Bash shell throws the error message `bash: syntax error near unexpected token )`.
-    If you have a equivalent IPython command,
-    it will throw the same error message.
-    For example,
-    suppose `file` is path of a file which contains `)`
-    then `!ls {file}` in IPython will throws the same error message as above.
-    However,
-    this is definitely trickier to debug than the original Bash shell command `ls )`.
-    There are several ways to avoid this.
-    First,
-    you can use Python script
-    ([xonsh](https://github.com/xonsh/xonsh) is a great choice is vanilla Python script is too verbose)
-    instead Shell as underlying commands.
-    Second,
-    you can show the underlying Shell commands for debugging.
+1. Be careful about illegal shell commands.
+   For example,
+   `ls )` in Bash shell throws the error message `bash: syntax error near unexpected token )`.
+   If you have a equivalent IPython command,
+   it will throw the same error message.
+   For example,
+   suppose `file` is path of a file which contains `)`
+   then `!ls {file}` in IPython will throws the same error message as above.
+   However,
+   this is definitely trickier to debug than the original Bash shell command `ls )`.
+   There are several ways to avoid this.
+   First,
+   you can use Python script
+   ([xonsh](https://github.com/xonsh/xonsh) is a great choice is vanilla Python script is too verbose)
+   instead Shell as underlying commands.
+   Second,
+   you can show the underlying Shell commands for debugging.
 
-3. You can even run Shell commands on a remote server (via `ssh` or a remote kernel) in JupyterLab notebook.
-    This provide the advantage of leveraging the JupyterLab notebook UI.
-
+1. You can even run Shell commands on a remote server (via `ssh` or a remote kernel) in JupyterLab notebook.
+   This provide the advantage of leveraging the JupyterLab notebook UI.
 
 ## [xonsh](https://github.com/xonsh/xonsh)
 
 `xonsh` is another great Python approach to replace shell.
-Unlike IPython, 
-xonsh does not require the prefix `!` to run arbitrary shell command. 
-However, 
+Unlike IPython,
+xonsh does not require the prefix `!` to run arbitrary shell command.
+However,
 there is one flaw of xonsh.
 You cannot use `$()` and friends in the middle of an argument,
 which limits its usability serious for complicated shell commands.
-Please refer to 
+Please refer to
 [this issue](https://github.com/xonsh/xonsh/issues/3290)
 for more details.
 

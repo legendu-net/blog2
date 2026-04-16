@@ -1,7 +1,7 @@
 ---
 title: Web Automation
 created: 2019-09-07 09:02:30
-date: 2026-04-09 10:34:50.572344
+date: 2026-04-15 19:27:01.158178
 authors:
   - bendu
 label: web-automation
@@ -11,9 +11,10 @@ tags:
   - web
   - automation
   - Selenium
-  - playwright
+  - PlayWright
   - Puppeteer
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Gemini in Chrome

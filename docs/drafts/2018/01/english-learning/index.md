@@ -1,7 +1,7 @@
 ---
-title: "English Learning"
+title: English Learning
 created: 2018-01-01 14:27:41
-date: 2018-01-01 14:27:41
+date: 2026-04-15 19:27:01.307000
 authors:
   - bendu
 label: english-learning
@@ -11,7 +11,7 @@ tags:
   - language
   - learning
   - ShanBay
-  - Vocabulary
+  - vocabulary
   - iciba
   - Merriam-Webster
 ---

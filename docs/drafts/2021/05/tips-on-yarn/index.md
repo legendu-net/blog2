@@ -1,7 +1,7 @@
 ---
 title: Tips on yarn
 created: 2021-05-03 21:42:50
-date: 2026-04-13 23:15:03.004484
+date: 2026-04-15 19:27:00.901165
 authors:
   - bendu
 label: tips-on-yarn
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - computer science
   - programming
-  - yarn
+  - YARN
   - JS
   - JavaScript
 ---

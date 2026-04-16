@@ -1795,7 +1795,7 @@ site:
 ```
 
 ## Python
-```{dropdown} Click to expand/collapse 355 links
+```{dropdown} Click to expand/collapse 354 links
 - [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
 - [Visual Studio Code for Python](visual-studio-code-for-python)
 - [Tips on IDE](tips-on-ide)
@@ -1923,7 +1923,6 @@ site:
 - [Python for Tablet](python-for-tablet)
 - [Spark Issue: Pure Python Code Errors](spark-issue-pure-python-code-errors)
 - [Tips on PyPy](tips-on-pypy)
-- [Tips on Home Assistant](tips-on-home-assistant)
 - [Tips on Home Assistant](tips-on-home-assistant)
 - [Python for IOT](python-for-iot)
 - [Python for Game Development](python-for-game-development)
@@ -2155,6 +2154,8 @@ site:
 
 ## software
 ```{dropdown} Click to expand/collapse 200 links
+- [Cloud IDE](cloud-ide)
+- [Resizing Hard Disk of Guest Machine in Virtualbox](resizing-hard-disk-of-guest-machine-in-virtualbox)
 - [Tips on Visual Studio Code](tips-on-visual-studio-code)
 - [Visual Studio Code Server](visual-studio-code-server)
 - [Remote Development in Visual Studio Code](remote-development-in-visual-studio-code)
@@ -2170,7 +2171,6 @@ site:
 - [Docker Images for Notebooks](docker-images-for-notebooks)
 - [Using Bash in Docker](using-bash-in-docker)
 - [Ways to Download Files Using Selenium Webdrive](ways-to-download-files-using-selenium-webdrive)
-- [Cloud IDE](cloud-ide)
 - [Convert MS Office Document to Text](convert-ms-office-document-to-text)
 - [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
 - [Make Traffic Follow Through Proxies Using ProxyChains](make-traffic-follow-through-proxies-using-proxychains)
@@ -2319,7 +2319,6 @@ site:
 - [Synchronization and Backup Solutions](synchronization-and-backup-solutions)
 - [Docker for Nvidia GPU](docker-for-nvidia-gpu)
 - [Init for Docker Containers](init-for-docker-containers)
-- [Resizing Hard Disk of Guest Machine in Virtualbox](resizing-hard-disk-of-guest-machine-in-virtualbox)
 - [Apps for Contacts](apps-for-contacts)
 - [Tips on Docker Compose](tips-on-docker-compose)
 - [Software for Editing Videos](software-for-editing-videos)
@@ -2695,7 +2694,7 @@ site:
 ```
 
 ## AI
-```{dropdown} Click to expand/collapse 127 links
+```{dropdown} Click to expand/collapse 126 links
 - [Tips on Torchvision](tips-on-torchvision)
 - [Data for Computer Vision Research](data-for-computer-vision-research)
 - [Experiment Design](experiment-design)
@@ -2762,7 +2761,6 @@ site:
 - [SLIDE: Sub-Linear Deep Learning Engine](slide-sub-linear-deep-learning-engine)
 - [Data Sources](data-sources)
 - [Rust for Machine Learning](rust-for-machine-learning)
-- [Rust for Machine Learning](rust-for-machine-learning)
 - [Hardware for AI](hardware-for-ai)
 - [Tips on FeatureTools](tips-on-featuretools)
 - [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
@@ -2826,7 +2824,7 @@ site:
 ```
 
 ## tips
-```{dropdown} Click to expand/collapse 125 links
+```{dropdown} Click to expand/collapse 124 links
 - [Tips on Visual Studio Code](tips-on-visual-studio-code)
 - [Tips on MySQL](tips-on-mysql)
 - [Tips on Investing in Bonds](tips-on-investing-in-bonds)
@@ -2893,7 +2891,6 @@ site:
 - [Record Computer Screen using RecordMyDesktop](record-computer-screen-using-recordmydesktop)
 - [Tips on MS SQL Server](tips-on-ms-sql-server)
 - [The Cinnamon Desktop Environment for Linux](the-cinnamon-desktop-environment-for-linux)
-- [Use Sogou Pinyin to Type Chinese](use-sogou-pinyin-to-type-chinese)
 - [Use Sogou Pinyin to Type Chinese](use-sogou-pinyin-to-type-chinese)
 - [Living in Safty](living-in-safty)
 - [Tips on macOS](tips-on-macos)
@@ -3707,6 +3704,71 @@ site:
 - [Issues in Scala](issues-in-scala)
 ```
 
+## issue
+```{dropdown} Click to expand/collapse 61 links
+- [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
+- [Docker Issues and Solutions](docker-issues-and-solutions)
+- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
+- [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args-0-from-__newobj__-args-has-the-wrong-class)
+- [Multiprocessing Issues in Docker](multiprocessing-issues-in-docker)
+- [Tips on Sqlfluff](tips-on-sqlfluff)
+- [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
+- [Issues in pip and Solutions](issues-in-pip-and-solutions)
+- [A Comprehensive List of Common Issues in Spark Applications](a-comprehensive-list-of-common-issues-in-spark-applications)
+- [Spark Issue: Container Killed by Yarn for Exceeding Memory Limits](spark-issue-container-killed-by-yarn-for-exceeding-memory-limits)
+- [Spark Issue: AnalysisException: Cannot Resolve](spark-issue-analysisexception-cannot-resolve)
+- [Spark Issue: AnalysisException: Path Does Not Exist](spark-issue-analysisexception-path-does-not-exist)
+- [Spark Issue: Block Could Not Be Removed as It Was Not Found on Disk or in Memory](spark-issue-block-could-not-be-removed-as-it-was-not-found-on-disk-or-in-memory)
+- [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
+- [Spark Issue: InsertOperationConflictException: Failed to Hold Insert Operation Lock](spark-issue-insertoperationconflictexception-failed-to-hold-insert-operation-lock)
+- [Spark Issue: AccessControlException: Permission Denied](spark-issue-accesscontrolexception-permission-denied)
+- [Spark Issue: Pure Python Code Errors](spark-issue-pure-python-code-errors)
+- [Spark Issue: Max Number of Executor Failures Reached](spark-issue-max-number-of-executor-failures-reached)
+- [PackageKitD Uses Too Much CPU or Disk IO](packagekitd-uses-too-much-cpu-or-disk-io)
+- [Spark Issue Libc Not Found](spark-issue-libc-not-found)
+- [Spark Issue: TypeError WithReplacement](spark-issue-typeerror-withreplacement)
+- [Spark Issue: InvalidResourceRequestException](spark-issue-invalidresourcerequestexception)
+- [Spark Issue: IllegalArgumentException: System Memory Must Be At Least](spark-issue-illegalargumentexception-system-memory-must-be-at-least)
+- [Spark Issue: SIGBUS](spark-issue-sigbus)
+- [Spark Issue: Could Not Execute Broadcast in 300S](spark-issue-could-not-execute-broadcast-in-300s)
+- [Spark Issue: UriSyntaxException](spark-issue-urisyntaxexception)
+- [Spark Issue: RuntimeException: Could not find any configured addresses for URI](spark-issue-runtimeexception-could-not-find-any-configured-addresses-for-uri)
+- [Spark Issue: GetQuotaUsage](spark-issue-getquotausage)
+- [Spark Issue: ViewFs: Cannot Initialize: Empty Mount Table in Config](spark-issue-viewfs-cannot-initialize-empty-mount-table-in-config)
+- [Spark Issue: Runtimeerror: Arrow Legacy IPC Format Is Not Supported](spark-issue-runtimeerror-arrow-legacy-ipc-format-is-not-supported)
+- [Spark Issue: IllegalArgumentException: Wrong FS](spark-issue-illegalargumentexception-wrong-fs)
+- [Spark Issue: ArrowTypeError: Expect a Type but Got a Different Type](spark-issue-arrowtypeerror-expect-a-type-but-got-a-different-type)
+- [Spark Issue: AnalysisException: Found Duplicated Columns](spark-issue-analysisexception-found-duplicated-columns)
+- [No BLAS or LAPACK Found When Installing Scipy](no-blas-or-lapack-found-when-installing-scipy)
+- [Spark Issue: Shell Related](spark-issue-shell-related)
+- [Spark Issue: Rust Panic](spark-issue-rust-panic)
+- [Spark Issue: Namespace Quota Is Exceeded](spark-issue-namespace-quota-is-exceeded)
+- [Spark Issue: RuntimeException: Unsupported Literal Type Class](spark-issue-runtimeexception-unsupported-literal-type-class)
+- [Spark Issue: java.lang.OutOfMemoryError](spark-issue-java.lang.outofmemoryerror)
+- [Common Errors Encountered in Scala and Solutions](common-errors-encountered-in-scala-and-solutions)
+- [Spark Issue: Total Size of Serialized Results Is Bigger than spark.driver.maxResultSize](spark-issue-total-size-of-serialized-results-is-bigger-than-spark.driver.maxresultsize)
+- [Spark Issue: Unable to Find Encoder Type](spark-issue-unable-to-find-encoder-type)
+- [Spark Issue: Too Large Table for Auto BroadcastHashJoin](spark-issue-too-large-table-for-auto-broadcasthashjoin)
+- [Spark Issue: Timeout When Communicate With Driver During Shuffle Caused by Driver OOM](spark-issue-timeout-when-communicate-with-driver-during-shuffle-caused-by-driver-oom)
+- [Spark Issue: java.io.FileNotFoundException](spark-issue-java.io.filenotfoundexception)
+- [Spark Issue: Spark Application Submission Is Not Finished](spark-issue-spark-application-submission-is-not-finished)
+- [Spark Issue: InvalidInputException for Some Hive Data Partitions](spark-issue-invalidinputexception-for-some-hive-data-partitions)
+- [Permission Issues when Installing Softwares in Linux](permission-issues-when-installing-softwares-in-linux)
+- [PCIe BUS Error: Severity=Corrected, Type=Physical Layer](pcie-bus-error-severity-corrected-type-physical-layer)
+- [Common Issues in PyTorch](common-issues-in-pytorch)
+- [Spark Issue: Mac spark-shell Error Initializing SparkContext](spark-issue-mac-spark-shell-error-initializing-sparkcontext)
+- [Spark Issue: High Disk and Memory Spill When Doing Shuffle](spark-issue-high-disk-and-memory-spill-when-doing-shuffle)
+- [Spark Issue: Table Not Found](spark-issue-table-not-found)
+- [Spark Issue: Task Not Serializable](spark-issue-task-not-serializable)
+- [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
+- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
+- [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
+- [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
+- [Fix Package Installation Issue in Linux](fix-package-installation-issue-in-linux)
+- [Zeppelin Issues and Solutions](zeppelin-issues-and-solutions)
+- [Issues in Scala](issues-in-scala)
+```
+
 ## JVM
 ```{dropdown} Click to expand/collapse 58 links
 - [List in Kotlin](list-in-kotlin)
@@ -3939,61 +4001,6 @@ site:
 - [Deep Learning Tools and Apps](deep-learning-tools-and-apps)
 ```
 
-## issue
-```{dropdown} Click to expand/collapse 51 links
-- [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
-- [Docker Issues and Solutions](docker-issues-and-solutions)
-- [Fix the CrashLoopBackOff Issue of Pod in Kubernetes](fix-the-crashloopbackoff-issue-of-pod-in-kubernetes)
-- [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args-0-from-__newobj__-args-has-the-wrong-class)
-- [Multiprocessing Issues in Docker](multiprocessing-issues-in-docker)
-- [Tips on Sqlfluff](tips-on-sqlfluff)
-- [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
-- [Issues in pip and Solutions](issues-in-pip-and-solutions)
-- [A Comprehensive List of Common Issues in Spark Applications](a-comprehensive-list-of-common-issues-in-spark-applications)
-- [Spark Issue: AnalysisException: Cannot Resolve](spark-issue-analysisexception-cannot-resolve)
-- [Spark Issue: AnalysisException: Path Does Not Exist](spark-issue-analysisexception-path-does-not-exist)
-- [Spark Issue: Block Could Not Be Removed as It Was Not Found on Disk or in Memory](spark-issue-block-could-not-be-removed-as-it-was-not-found-on-disk-or-in-memory)
-- [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
-- [Spark Issue: InsertOperationConflictException: Failed to Hold Insert Operation Lock](spark-issue-insertoperationconflictexception-failed-to-hold-insert-operation-lock)
-- [Spark Issue: AccessControlException: Permission Denied](spark-issue-accesscontrolexception-permission-denied)
-- [Spark Issue: Pure Python Code Errors](spark-issue-pure-python-code-errors)
-- [PackageKitD Uses Too Much CPU or Disk IO](packagekitd-uses-too-much-cpu-or-disk-io)
-- [Spark Issue Libc Not Found](spark-issue-libc-not-found)
-- [Spark Issue: TypeError WithReplacement](spark-issue-typeerror-withreplacement)
-- [Spark Issue: InvalidResourceRequestException](spark-issue-invalidresourcerequestexception)
-- [Spark Issue: IllegalArgumentException: System Memory Must Be At Least](spark-issue-illegalargumentexception-system-memory-must-be-at-least)
-- [Spark Issue: SIGBUS](spark-issue-sigbus)
-- [Spark Issue: Could Not Execute Broadcast in 300S](spark-issue-could-not-execute-broadcast-in-300s)
-- [Spark Issue: UriSyntaxException](spark-issue-urisyntaxexception)
-- [No BLAS or LAPACK Found When Installing Scipy](no-blas-or-lapack-found-when-installing-scipy)
-- [Spark Issue: Shell Related](spark-issue-shell-related)
-- [Spark Issue: Rust Panic](spark-issue-rust-panic)
-- [Spark Issue: Namespace Quota Is Exceeded](spark-issue-namespace-quota-is-exceeded)
-- [Spark Issue: RuntimeException: Unsupported Literal Type Class](spark-issue-runtimeexception-unsupported-literal-type-class)
-- [Spark Issue: java.lang.OutOfMemoryError](spark-issue-java.lang.outofmemoryerror)
-- [Common Errors Encountered in Scala and Solutions](common-errors-encountered-in-scala-and-solutions)
-- [Spark Issue: Unable to Find Encoder Type](spark-issue-unable-to-find-encoder-type)
-- [Spark Issue: Too Large Table for Auto BroadcastHashJoin](spark-issue-too-large-table-for-auto-broadcasthashjoin)
-- [Spark Issue: Timeout When Communicate With Driver During Shuffle Caused by Driver OOM](spark-issue-timeout-when-communicate-with-driver-during-shuffle-caused-by-driver-oom)
-- [Spark Issue: java.io.FileNotFoundException](spark-issue-java.io.filenotfoundexception)
-- [Spark Issue: Spark Application Submission Is Not Finished](spark-issue-spark-application-submission-is-not-finished)
-- [Spark Issue: InvalidInputException for Some Hive Data Partitions](spark-issue-invalidinputexception-for-some-hive-data-partitions)
-- [Permission Issues when Installing Softwares in Linux](permission-issues-when-installing-softwares-in-linux)
-- [PCIe BUS Error: Severity=Corrected, Type=Physical Layer](pcie-bus-error-severity-corrected-type-physical-layer)
-- [Common Issues in PyTorch](common-issues-in-pytorch)
-- [Spark Issue: Mac spark-shell Error Initializing SparkContext](spark-issue-mac-spark-shell-error-initializing-sparkcontext)
-- [Spark Issue: High Disk and Memory Spill When Doing Shuffle](spark-issue-high-disk-and-memory-spill-when-doing-shuffle)
-- [Spark Issue: Table Not Found](spark-issue-table-not-found)
-- [Spark Issue: Task Not Serializable](spark-issue-task-not-serializable)
-- [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
-- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
-- [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
-- [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
-- [Fix Package Installation Issue in Linux](fix-package-installation-issue-in-linux)
-- [Zeppelin Issues and Solutions](zeppelin-issues-and-solutions)
-- [Issues in Scala](issues-in-scala)
-```
-
 ## Statistics
 ```{dropdown} Click to expand/collapse 47 links
 - [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
@@ -4045,55 +4052,6 @@ site:
 - [Construct Confidence Intervals Using Jackknife](construct-confidence-intervals-using-jackknife)
 ```
 
-## SQL
-```{dropdown} Click to expand/collapse 45 links
-- [Pivot Table in SQL](pivot-table-in-sql)
-- [Query Pandas Data Frames Using SQL](query-pandas-data-frames-using-sql)
-- [Use the Blob Data Type in Sqlite3](use-the-blob-data-type-in-sqlite3)
-- [SQL Style And Formatter](sql-style-and-formatter)
-- [Get Size of Tables on HDFS](get-size-of-tables-on-hdfs)
-- [Tips on Sqlfluff](tips-on-sqlfluff)
-- [Extract Identifier Names from a SQL Query Using Sqlfluff](extract-identifier-names-from-a-sql-query-using-sqlfluff)
-- [Improve the Performance of Spark](improve-the-performance-of-spark)
-- [Online Practices for SQL](online-practices-for-sql)
-- [Access Control in Spark SQL](access-control-in-spark-sql)
-- [SQL Translation Tools](sql-translation-tools)
-- [Data Types in Different Programming Languages](data-types-in-different-programming-languages)
-- [Database Clients for Rust](database-clients-for-rust)
-- [Tips on BigQuery](tips-on-bigquery)
-- [Unified SQL Syntax](unified-sql-syntax)
-- [Tips on Apache Arrow Flight SQL](tips-on-apache-arrow-flight-sql)
-- [Tips on Apache Arrow Flight SQL](tips-on-apache-arrow-flight-sql)
-- [Useful Rust Crates for Database](useful-rust-crates-for-database)
-- [Tips on ZetaSQL](tips-on-zetasql)
-- [Ignore Nulls in the Analytical Window Function Lead in SQL](ignore-nulls-in-the-analytical-window-function-lead-in-sql)
-- [Split String into Rows in SQL](split-string-into-rows-in-sql)
-- [General Tips on SQL](general-tips-on-sql)
-- [Questions on SQL](questions-on-sql)
-- [Tips on MS SQL Server](tips-on-ms-sql-server)
-- [Connect to Databases Using pyodbc in Python](connect-to-databases-using-pyodbc-in-python)
-- [Tips on dbeaver](tips-on-dbeaver)
-- [Use TableSample in SQL](use-tablesample-in-sql)
-- [Date Functions in Spark](date-functions-in-spark)
-- [IDE for SQL](ide-for-sql)
-- [SQL Database Client-server Protocols](sql-database-client-server-protocols)
-- [SQL Equivalent](sql-equivalent)
-- [Understand Execuation of SQL Statements](understand-execuation-of-sql-statements)
-- [Hands on SQLite3](hands-on-sqlite3)
-- [Use Column Alias in SQL](use-column-alias-in-sql)
-- [Volatile CTE and Subqueries in SQL](volatile-cte-and-subqueries-in-sql)
-- [Spark vs Redshift](spark-vs-redshift)
-- [Hands on Full-text Search in SQLite3](hands-on-full-text-search-in-sqlite3)
-- [Group by vs Over Partition in SQL](group-by-vs-over-partition-in-sql)
-- [SQL Logic Visualization](sql-logic-visualization)
-- [Parameterized SQL](parameterized-sql)
-- [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
-- [Sample Lines from a File Using Command Line](sample-lines-from-a-file-using-command-line)
-- [String in SQL](string-in-sql)
-- [Primary Key vs Index in SQL](primary-key-vs-index-in-sql)
-- [Auto Increment in SQL](auto-increment-in-sql)
-```
-
 ## pandas
 ```{dropdown} Click to expand/collapse 45 links
 - [Query Pandas Data Frames Using SQL](query-pandas-data-frames-using-sql)
@@ -4143,6 +4101,101 @@ site:
 - [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
 ```
 
+## SQL
+```{dropdown} Click to expand/collapse 44 links
+- [Pivot Table in SQL](pivot-table-in-sql)
+- [Query Pandas Data Frames Using SQL](query-pandas-data-frames-using-sql)
+- [Use the Blob Data Type in Sqlite3](use-the-blob-data-type-in-sqlite3)
+- [SQL Style And Formatter](sql-style-and-formatter)
+- [Get Size of Tables on HDFS](get-size-of-tables-on-hdfs)
+- [Tips on Sqlfluff](tips-on-sqlfluff)
+- [Extract Identifier Names from a SQL Query Using Sqlfluff](extract-identifier-names-from-a-sql-query-using-sqlfluff)
+- [Improve the Performance of Spark](improve-the-performance-of-spark)
+- [Online Practices for SQL](online-practices-for-sql)
+- [Access Control in Spark SQL](access-control-in-spark-sql)
+- [SQL Translation Tools](sql-translation-tools)
+- [Data Types in Different Programming Languages](data-types-in-different-programming-languages)
+- [Database Clients for Rust](database-clients-for-rust)
+- [Tips on BigQuery](tips-on-bigquery)
+- [Unified SQL Syntax](unified-sql-syntax)
+- [Tips on Apache Arrow Flight SQL](tips-on-apache-arrow-flight-sql)
+- [Useful Rust Crates for Database](useful-rust-crates-for-database)
+- [Tips on ZetaSQL](tips-on-zetasql)
+- [Ignore Nulls in the Analytical Window Function Lead in SQL](ignore-nulls-in-the-analytical-window-function-lead-in-sql)
+- [Split String into Rows in SQL](split-string-into-rows-in-sql)
+- [General Tips on SQL](general-tips-on-sql)
+- [Questions on SQL](questions-on-sql)
+- [Tips on MS SQL Server](tips-on-ms-sql-server)
+- [Connect to Databases Using pyodbc in Python](connect-to-databases-using-pyodbc-in-python)
+- [Tips on dbeaver](tips-on-dbeaver)
+- [Use TableSample in SQL](use-tablesample-in-sql)
+- [Date Functions in Spark](date-functions-in-spark)
+- [IDE for SQL](ide-for-sql)
+- [SQL Database Client-server Protocols](sql-database-client-server-protocols)
+- [SQL Equivalent](sql-equivalent)
+- [Understand Execuation of SQL Statements](understand-execuation-of-sql-statements)
+- [Hands on SQLite3](hands-on-sqlite3)
+- [Use Column Alias in SQL](use-column-alias-in-sql)
+- [Volatile CTE and Subqueries in SQL](volatile-cte-and-subqueries-in-sql)
+- [Spark vs Redshift](spark-vs-redshift)
+- [Hands on Full-text Search in SQLite3](hands-on-full-text-search-in-sqlite3)
+- [Group by vs Over Partition in SQL](group-by-vs-over-partition-in-sql)
+- [SQL Logic Visualization](sql-logic-visualization)
+- [Parameterized SQL](parameterized-sql)
+- [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
+- [Sample Lines from a File Using Command Line](sample-lines-from-a-file-using-command-line)
+- [String in SQL](string-in-sql)
+- [Primary Key vs Index in SQL](primary-key-vs-index-in-sql)
+- [Auto Increment in SQL](auto-increment-in-sql)
+```
+
+## image
+```{dropdown} Click to expand/collapse 43 links
+- [Show Image in Terminal](show-image-in-terminal)
+- [Convert PDF to EPS](convert-pdf-to-eps)
+- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
+- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
+- [Tips on Preview in macOS](tips-on-preview-in-macos)
+- [Get Coordinates of Points on a Screen or Image](get-coordinates-of-points-on-a-screen-or-image)
+- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
+- [Hands on the Python Library pdfplumber](hands-on-the-python-library-pdfplumber)
+- [Convert PDF to Image Using Python](convert-pdf-to-image-using-python)
+- [Computer Vision Libraries in Rust](computer-vision-libraries-in-rust)
+- [Convert HEIC Images in Linux](convert-heic-images-in-linux)
+- [Inline Dot Graph in Docs](inline-dot-graph-in-docs)
+- [Extracting Data from PDF Files](extracting-data-from-pdf-files)
+- [Tips on Toolbx](tips-on-toolbx)
+- [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
+- [Build Docker Images Using Kaniko](build-docker-images-using-kaniko)
+- [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
+- [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
+- [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
+- [Compare Images Using Python](compare-images-using-python)
+- [Rotate an Image Using Pillow in Python](rotate-an-image-using-pillow-in-python)
+- [Image Filters in Pillow](image-filters-in-pillow)
+- [Hands-on the ImageChops class in Pillow in Python](hands-on-the-imagechops-class-in-pillow-in-python)
+- [Python Scripting for Blender](python-scripting-for-blender)
+- [Take Screenshots in Python](take-screenshots-in-python)
+- [Convert an Image to Differnt Modes Using Pillow in Python](convert-an-image-to-differnt-modes-using-pillow-in-python)
+- [Load Images into Pillow](load-images-into-pillow)
+- [Tips on FFmpeg](tips-on-ffmpeg)
+- [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
+- [Docker Images for OS](docker-images-for-os)
+- [Extract Images from Video Using OpenCV in Python](extract-images-from-video-using-opencv-in-python)
+- [Deleting Docker Image Tags on DockerHub using the Python Module requests](deleting-docker-image-tags-on-dockerhub-using-the-python-module-requests)
+- [Manage Docker Images and Containers](manage-docker-images-and-containers)
+- [Tips on Matplotlib](tips-on-matplotlib)
+- [My Docker Images](my-docker-images)
+- [Tips on Creating Docker Images](tips-on-creating-docker-images)
+- [Tips on Pillow](tips-on-pillow)
+- [Docker Images for Database](docker-images-for-database)
+- [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
+- [Docker Images for Zeppelin](docker-images-for-zeppelin)
+- [Docker Images for Visualization](docker-images-for-visualization)
+- [Docker Images for Synchronization](docker-images-for-synchronization)
+- [Graphics in LaTeX](graphics-in-latex)
+```
+
 ## OS
 ```{dropdown} Click to expand/collapse 43 links
 - [Run System Command in Go](run-system-command-in-go)
@@ -4188,53 +4241,6 @@ site:
 - [Tips on Kerberos](tips-on-kerberos)
 - [Fix Xcrun Error in Mac](fix-xcrun-error-in-mac)
 - [Turn on Remote Login in Mac](turn-on-remote-login-in-mac)
-```
-
-## Spark issue | spark issue
-```{dropdown} Click to expand/collapse 43 links
-- [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args-0-from-__newobj__-args-has-the-wrong-class)
-- [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
-- [A Comprehensive List of Common Issues in Spark Applications](a-comprehensive-list-of-common-issues-in-spark-applications)
-- [Spark Issue: Container Killed by Yarn for Exceeding Memory Limits](spark-issue-container-killed-by-yarn-for-exceeding-memory-limits)
-- [Spark Issue: AnalysisException: Cannot Resolve](spark-issue-analysisexception-cannot-resolve)
-- [Spark Issue: AnalysisException: Path Does Not Exist](spark-issue-analysisexception-path-does-not-exist)
-- [Spark Issue: Block Could Not Be Removed as It Was Not Found on Disk or in Memory](spark-issue-block-could-not-be-removed-as-it-was-not-found-on-disk-or-in-memory)
-- [Spark Issue: InsertOperationConflictException: Failed to Hold Insert Operation Lock](spark-issue-insertoperationconflictexception-failed-to-hold-insert-operation-lock)
-- [Spark Issue: AccessControlException: Permission Denied](spark-issue-accesscontrolexception-permission-denied)
-- [Spark Issue: Pure Python Code Errors](spark-issue-pure-python-code-errors)
-- [Spark Issue: Max Number of Executor Failures Reached](spark-issue-max-number-of-executor-failures-reached)
-- [Spark Issue: IllegalArgumentException: System Memory Must Be At Least](spark-issue-illegalargumentexception-system-memory-must-be-at-least)
-- [Spark Issue: SIGBUS](spark-issue-sigbus)
-- [Spark Issue: Could Not Execute Broadcast in 300S](spark-issue-could-not-execute-broadcast-in-300s)
-- [Spark Issue: RuntimeException: Could not find any configured addresses for URI](spark-issue-runtimeexception-could-not-find-any-configured-addresses-for-uri)
-- [Spark Issue: GetQuotaUsage](spark-issue-getquotausage)
-- [Spark Issue: ViewFs: Cannot Initialize: Empty Mount Table in Config](spark-issue-viewfs-cannot-initialize-empty-mount-table-in-config)
-- [Spark Issue: Runtimeerror: Arrow Legacy IPC Format Is Not Supported](spark-issue-runtimeerror-arrow-legacy-ipc-format-is-not-supported)
-- [Spark Issue: IllegalArgumentException: Wrong FS](spark-issue-illegalargumentexception-wrong-fs)
-- [Spark Issue: ArrowTypeError: Expect a Type but Got a Different Type](spark-issue-arrowtypeerror-expect-a-type-but-got-a-different-type)
-- [Spark Issue: AnalysisException: Found Duplicated Columns](spark-issue-analysisexception-found-duplicated-columns)
-- [Spark Issue: Shell Related](spark-issue-shell-related)
-- [Spark Issue: Rust Panic](spark-issue-rust-panic)
-- [Spark Issue: Namespace Quota Is Exceeded](spark-issue-namespace-quota-is-exceeded)
-- [Spark Issue: RuntimeException: Unsupported Literal Type Class](spark-issue-runtimeexception-unsupported-literal-type-class)
-- [Spark Issue: java.lang.OutOfMemoryError](spark-issue-java.lang.outofmemoryerror)
-- [Spark Issue: Total Size of Serialized Results Is Bigger than spark.driver.maxResultSize](spark-issue-total-size-of-serialized-results-is-bigger-than-spark.driver.maxresultsize)
-- [Spark Issue: Unable to Find Encoder Type](spark-issue-unable-to-find-encoder-type)
-- [Spark Issue: Too Large Table for Auto BroadcastHashJoin](spark-issue-too-large-table-for-auto-broadcasthashjoin)
-- [Spark Issue: Timeout When Communicate With Driver During Shuffle Caused by Driver OOM](spark-issue-timeout-when-communicate-with-driver-during-shuffle-caused-by-driver-oom)
-- [Spark Issue: java.io.FileNotFoundException](spark-issue-java.io.filenotfoundexception)
-- [Spark Issue: Spark Application Submission Is Not Finished](spark-issue-spark-application-submission-is-not-finished)
-- [Spark Issue: InvalidInputException for Some Hive Data Partitions](spark-issue-invalidinputexception-for-some-hive-data-partitions)
-- [Spark Issue: Mac spark-shell Error Initializing SparkContext](spark-issue-mac-spark-shell-error-initializing-sparkcontext)
-- [Spark Issue: High Disk and Memory Spill When Doing Shuffle](spark-issue-high-disk-and-memory-spill-when-doing-shuffle)
-- [Spark Issue: Table Not Found](spark-issue-table-not-found)
-- [Spark Issue: Task Not Serializable](spark-issue-task-not-serializable)
-- [Spark Issue: a Master URL Must Be Set in Your Configuration](spark-issue-a-master-url-must-be-set-in-your-configuration)
-- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
-- [Spark Issue: Duplicated Partitions](spark-issue-duplicated-partitions)
-- [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
-- [Spark Issue: InvalidResourceRequestException](spark-issue-invalidresourcerequestexception)
-- [Spark Issue: UriSyntaxException](spark-issue-urisyntaxexception)
 ```
 
 ## shell
@@ -4325,43 +4331,77 @@ site:
 - [Common Errors in Bibliographies](common-errors-in-bibliographies)
 ```
 
-## image
-```{dropdown} Click to expand/collapse 35 links
-- [Show Image in Terminal](show-image-in-terminal)
-- [Convert PDF to EPS](convert-pdf-to-eps)
-- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
-- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
+## IDE
+```{dropdown} Click to expand/collapse 33 links
+- [Cloud IDE](cloud-ide)
+- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
+- [Tips on Visual Studio Code](tips-on-visual-studio-code)
+- [Visual Studio Code Server](visual-studio-code-server)
+- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+- [Tips on IDE](tips-on-ide)
+- [IDEs for LaTeX](ides-for-latex)
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [AI-based Code Completion Tools](ai-based-code-completion-tools)
+- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
+- [Tips on Python-Language-Server](tips-on-python-language-server)
+- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
+- [IDE for Rust](ide-for-rust)
+- [Tips on NeoVim](tips-on-neovim)
+- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
+- [Tips on the Zed IDE](tips-on-the-zed-ide)
+- [Tips on AstroNvim](tips-on-astronvim)
+- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
+- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
+- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
+- [TeXstudio, Bravo!](texstudio-bravo)
+- [General Tips on SQL](general-tips-on-sql)
+- [Python Developing in PyCharm](python-developing-in-pycharm)
+- [Typing Chinese in Vim](typing-chinese-in-vim)
+- [Tips on Eclipse Che](tips-on-eclipse-che)
+- [Tips on Cloud9](tips-on-cloud9)
+- [Show Inferred Type in IntelliJ IDEA](show-inferred-type-in-intellij-idea)
+- [Tips on dbeaver](tips-on-dbeaver)
+- [IDE for SQL](ide-for-sql)
+- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
+- [IntelliJ IDEA Tips](intellij-idea-tips)
+- [Start RStudio Server After Upgrading](start-rstudio-server-after-upgrading)
+```
+
+## macOS
+```{dropdown} Click to expand/collapse 32 links
+- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
+- [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
+- [Docker on Mac](docker-on-mac)
+- [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
 - [Tips on Preview in macOS](tips-on-preview-in-macos)
 - [Get Coordinates of Points on a Screen or Image](get-coordinates-of-points-on-a-screen-or-image)
-- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
-- [Hands on the Python Library pdfplumber](hands-on-the-python-library-pdfplumber)
-- [Convert PDF to Image Using Python](convert-pdf-to-image-using-python)
-- [Computer Vision Libraries in Rust](computer-vision-libraries-in-rust)
-- [Convert HEIC Images in Linux](convert-heic-images-in-linux)
-- [Inline Dot Graph in Docs](inline-dot-graph-in-docs)
-- [Extracting Data from PDF Files](extracting-data-from-pdf-files)
-- [Tips on Toolbx](tips-on-toolbx)
-- [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
-- [Build Docker Images Using Kaniko](build-docker-images-using-kaniko)
-- [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
-- [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
-- [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
-- [Compare Images Using Python](compare-images-using-python)
-- [Rotate an Image Using Pillow in Python](rotate-an-image-using-pillow-in-python)
-- [Image Filters in Pillow](image-filters-in-pillow)
-- [Hands-on the ImageChops class in Pillow in Python](hands-on-the-imagechops-class-in-pillow-in-python)
-- [Python Scripting for Blender](python-scripting-for-blender)
-- [Take Screenshots in Python](take-screenshots-in-python)
-- [Convert an Image to Differnt Modes Using Pillow in Python](convert-an-image-to-differnt-modes-using-pillow-in-python)
-- [Load Images into Pillow](load-images-into-pillow)
-- [Tips on FFmpeg](tips-on-ffmpeg)
-- [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
-- [Extract Images from Video Using OpenCV in Python](extract-images-from-video-using-opencv-in-python)
-- [Deleting Docker Image Tags on DockerHub using the Python Module requests](deleting-docker-image-tags-on-dockerhub-using-the-python-module-requests)
-- [Tips on Matplotlib](tips-on-matplotlib)
-- [Tips on Creating Docker Images](tips-on-creating-docker-images)
-- [Tips on Pillow](tips-on-pillow)
-- [Graphics in LaTeX](graphics-in-latex)
+- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
+- [Get the Number of Cores in macOS](get-the-number-of-cores-in-macos)
+- [Remove System Applications in macOS](remove-system-applications-in-macos)
+- [Quickly Open a Directory in Terminal in Mac](quickly-open-a-directory-in-terminal-in-mac)
+- [Add New Document to Right-Click Menu in Mac](add-new-document-to-right-click-menu-in-mac)
+- [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
+- [Enable and Disable Key Repeating in macOS](enable-and-disable-key-repeating-in-macos)
+- [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
+- [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
+- [Local Network Access on macOS](local-network-access-on-macos)
+- [Tips on macOS](tips-on-macos)
+- [Shortcuts in macOS](shortcuts-in-macos)
+- [Tips on MacPorts](tips-on-macports)
+- [Install Packages Using Homebrew on macOS and Linux](install-packages-using-homebrew-on-macos-and-linux)
+- [Install Python in macOS](install-python-in-macos)
+- [Mount NTFS Drive Manually on Mac](mount-ntfs-drive-manually-on-mac)
+- [Change Shell in Mac](change-shell-in-mac)
+- [Install GNU Utils Using Homebrew](install-gnu-utils-using-homebrew)
+- [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
+- [Things to Do After Reimaging Mac](things-to-do-after-reimaging-mac)
+- [Map Keys in macOS](map-keys-in-macos)
+- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
+- [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
+- [Mirroring Screen from iPhone or iPad to Macbook](mirroring-screen-from-iphone-or-ipad-to-macbook)
+- [Fix Xcrun Error in Mac](fix-xcrun-error-in-mac)
+- [Mount Samba on Mac](mount-samba-on-mac)
 ```
 
 ## golang
@@ -4399,40 +4439,6 @@ site:
 - [Useful Golang Packages](useful-golang-packages)
 ```
 
-## IDE
-```{dropdown} Click to expand/collapse 30 links
-- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
-- [Tips on Visual Studio Code](tips-on-visual-studio-code)
-- [Visual Studio Code Server](visual-studio-code-server)
-- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
-- [Visual Studio Code for Python](visual-studio-code-for-python)
-- [Tips on IDE](tips-on-ide)
-- [IDEs for LaTeX](ides-for-latex)
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
-- [AI-based Code Completion Tools](ai-based-code-completion-tools)
-- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
-- [Tips on Python-Language-Server](tips-on-python-language-server)
-- [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
-- [IDE for Rust](ide-for-rust)
-- [Tips on NeoVim](tips-on-neovim)
-- [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
-- [Tips on the Zed IDE](tips-on-the-zed-ide)
-- [Tips on AstroNvim](tips-on-astronvim)
-- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
-- [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
-- [TeXstudio, Bravo!](texstudio-bravo)
-- [General Tips on SQL](general-tips-on-sql)
-- [Python Developing in PyCharm](python-developing-in-pycharm)
-- [Typing Chinese in Vim](typing-chinese-in-vim)
-- [Show Inferred Type in IntelliJ IDEA](show-inferred-type-in-intellij-idea)
-- [Tips on dbeaver](tips-on-dbeaver)
-- [IDE for SQL](ide-for-sql)
-- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
-- [IntelliJ IDEA Tips](intellij-idea-tips)
-- [Start RStudio Server After Upgrading](start-rstudio-server-after-upgrading)
-```
-
 ## Kotlin
 ```{dropdown} Click to expand/collapse 30 links
 - [List in Kotlin](list-in-kotlin)
@@ -4465,40 +4471,6 @@ site:
 - [Kotlin Unit Testing](kotlin-unit-testing)
 - [Use Kotlin as a Scripting Language](use-kotlin-as-a-scripting-language)
 - [Differences Between Kotlin and Java](differences-between-kotlin-and-java)
-```
-
-## macOS
-```{dropdown} Click to expand/collapse 30 links
-- [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
-- [Proxychains-Ng Issues on Mac](proxychains-ng-issues-on-mac)
-- [Tips on Preview in macOS](tips-on-preview-in-macos)
-- [Get Coordinates of Points on a Screen or Image](get-coordinates-of-points-on-a-screen-or-image)
-- [Get Group Names on Linux/Unix](get-group-names-on-linux-unix)
-- [Get the Number of Cores in macOS](get-the-number-of-cores-in-macos)
-- [Remove System Applications in macOS](remove-system-applications-in-macos)
-- [Quickly Open a Directory in Terminal in Mac](quickly-open-a-directory-in-terminal-in-mac)
-- [Add New Document to Right-Click Menu in Mac](add-new-document-to-right-click-menu-in-mac)
-- [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
-- [Enable and Disable Key Repeating in macOS](enable-and-disable-key-repeating-in-macos)
-- [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
-- [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
-- [Local Network Access on macOS](local-network-access-on-macos)
-- [Tips on macOS](tips-on-macos)
-- [Shortcuts in macOS](shortcuts-in-macos)
-- [Tips on MacPorts](tips-on-macports)
-- [Install Packages Using Homebrew on macOS and Linux](install-packages-using-homebrew-on-macos-and-linux)
-- [Install Python in macOS](install-python-in-macos)
-- [Mount NTFS Drive Manually on Mac](mount-ntfs-drive-manually-on-mac)
-- [Change Shell in Mac](change-shell-in-mac)
-- [Install GNU Utils Using Homebrew](install-gnu-utils-using-homebrew)
-- [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
-- [Things to Do After Reimaging Mac](things-to-do-after-reimaging-mac)
-- [Map Keys in macOS](map-keys-in-macos)
-- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
-- [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
-- [Mirroring Screen from iPhone or iPad to Macbook](mirroring-screen-from-iphone-or-ipad-to-macbook)
-- [Fix Xcrun Error in Mac](fix-xcrun-error-in-mac)
-- [Mount Samba on Mac](mount-samba-on-mac)
 ```
 
 ## investment
@@ -4897,6 +4869,33 @@ site:
 - [Find Out Proxy in Use](find-out-proxy-in-use)
 ```
 
+## Jupyter
+```{dropdown} Click to expand/collapse 23 links
+- [Tips on Jupyter-Book](tips-on-jupyter-book)
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+- [Tips on Deno](tips-on-deno)
+- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
+- [Docker Images for Notebooks](docker-images-for-notebooks)
+- [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
+- [Tips on Jupyter Binder](tips-on-jupyter-binder)
+- [Tips on Google Colab](tips-on-google-colab)
+- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
+- [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
+- [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
+- [Tips on nbconvert](tips-on-nbconvert)
+- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
+- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
+- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
+- [Tips on JupyterLab](tips-on-jupyterlab)
+- [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
+- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
+- [Dashboard Solutions](dashboard-solutions)
+- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
+- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
+- [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
+- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
+```
+
 ## CV
 ```{dropdown} Click to expand/collapse 23 links
 - [Data for Computer Vision Research](data-for-computer-vision-research)
@@ -4949,6 +4948,32 @@ site:
 - [Init for Docker Containers](init-for-docker-containers)
 - [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
 - [Erase Elements of a Container Using Iterator in C++](erase-elements-of-a-container-using-iterator-in-c++)
+```
+
+## Cloud | cloud
+```{dropdown} Click to expand/collapse 22 links
+- [Cloud IDE](cloud-ide)
+- [Tips on IDE](tips-on-ide)
+- [Tips on Eclipse Che](tips-on-eclipse-che)
+- [Tips on Cloud9](tips-on-cloud9)
+- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
+- [Tips on Amazon AWS](tips-on-amazon-aws)
+- [Tips on GCP](tips-on-gcp)
+- [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
+- [Tips on BigQuery](tips-on-bigquery)
+- [Cloud Object Storage](cloud-object-storage)
+- [App Platforms](app-platforms)
+- [GCP Compute Engine VM Instances](gcp-compute-engine-vm-instances)
+- [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
+- [Tips on Terraform](tips-on-terraform)
+- [Tips on GCP Compute Engine](tips-on-gcp-compute-engine)
+- [Setup GitHub Actions Self-hosted Runners on GCP](setup-github-actions-self-hosted-runners-on-gcp)
+- [Baidu Yun Tips](baidu-yun-tips)
+- [Tips on Resilio Sync](tips-on-resilio-sync)
+- [Tips on TeamDrive](tips-on-teamdrive)
+- [Synchronize Files Using Dropbox](synchronize-files-using-dropbox)
+- [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
+- [Cloud VMs Tips](cloud-vms-tips)
 ```
 
 ## database
@@ -5026,6 +5051,30 @@ site:
 - [Dataframe in JavaScript](dataframe-in-javascript)
 - [Python in Browser](python-in-browser)
 - [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
+```
+
+## notebook
+```{dropdown} Click to expand/collapse 20 links
+- [Tips on Jupyter-Book](tips-on-jupyter-book)
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+- [Tips on Deno](tips-on-deno)
+- [Docker Images for Notebooks](docker-images-for-notebooks)
+- [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
+- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
+- [Tips on nbconvert](tips-on-nbconvert)
+- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
+- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
+- [Format Python Code Using Black](format-python-code-using-black)
+- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
+- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
+- [Tips on Zeppelin](tips-on-zeppelin)
+- [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
+- [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
+- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
+- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
+- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
+- [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
+- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
 ```
 
 ## terminal
@@ -5192,50 +5241,6 @@ site:
 - [Deep Learning Tools and Apps](deep-learning-tools-and-apps)
 ```
 
-## cloud
-```{dropdown} Click to expand/collapse 18 links
-- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
-- [Tips on Amazon AWS](tips-on-amazon-aws)
-- [Tips on GCP](tips-on-gcp)
-- [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
-- [Tips on BigQuery](tips-on-bigquery)
-- [Cloud Object Storage](cloud-object-storage)
-- [App Platforms](app-platforms)
-- [GCP Compute Engine VM Instances](gcp-compute-engine-vm-instances)
-- [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
-- [Tips on Terraform](tips-on-terraform)
-- [Tips on GCP Compute Engine](tips-on-gcp-compute-engine)
-- [Setup GitHub Actions Self-hosted Runners on GCP](setup-github-actions-self-hosted-runners-on-gcp)
-- [Baidu Yun Tips](baidu-yun-tips)
-- [Tips on Resilio Sync](tips-on-resilio-sync)
-- [Tips on TeamDrive](tips-on-teamdrive)
-- [Synchronize Files Using Dropbox](synchronize-files-using-dropbox)
-- [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
-- [Cloud VMs Tips](cloud-vms-tips)
-```
-
-## command line
-```{dropdown} Click to expand/collapse 18 links
-- [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
-- [Parsing Command-line Arguments in Rust](parsing-command-line-arguments-in-rust)
-- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
-- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
-- [Copying Files in Linux](copying-files-in-linux)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
-- [Show Image in Terminal](show-image-in-terminal)
-- [Great Command Line Tools Developed in Rust](great-command-line-tools-developed-in-rust)
-- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
-- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
-- [Ghostty Is a Decent Terminal App](ghostty-is-a-decent-terminal-app)
-- [Tools for Differencing Text Files](tools-for-differencing-text-files)
-- [Advanced Use of head and tail](advanced-use-of-head-and-tail)
-- [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
-- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
-- [Print Rows from a Text File](print-rows-from-a-text-file)
-- [Hands on the highlight command](hands-on-the-highlight-command)
-- [Sample Lines from a File Using Command Line](sample-lines-from-a-file-using-command-line)
-```
-
 ## GPU
 ```{dropdown} Click to expand/collapse 18 links
 - [GPU for Web](gpu-for-web)
@@ -5301,27 +5306,6 @@ site:
 - [Convert LaTeX to Word](convert-latex-to-word)
 ```
 
-## Git
-```{dropdown} Click to expand/collapse 17 links
-- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
-- [Mercurial for Git Users](mercurial-for-git-users)
-- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
-- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
-- [Git Large File Storage](git-large-file-storage)
-- [Tips on Git Submodule](tips-on-git-submodule)
-- [Hands on Dulwich](hands-on-dulwich)
-- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
-- [Git Implementations and Bindings in Python](git-implementations-and-bindings-in-python)
-- [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
-- [Tips on Git-Filter-Repo](tips-on-git-filter-repo)
-- [Tips on Git](tips-on-git)
-- [Git Errors and Solutions](git-errors-and-solutions)
-- [Gitignore Examples](gitignore-examples)
-- [Reduce Size of Git Repository](reduce-size-of-git-repository)
-- [Software Version Management Tools](software-version-management-tools)
-- [Use Git Behind a Proxy](use-git-behind-a-proxy)
-```
-
 ## hardware
 ```{dropdown} Click to expand/collapse 17 links
 - [Some Reading Notes About SSD](some-reading-notes-about-ssd)
@@ -5341,6 +5325,27 @@ site:
 - [Make Linux Run Faster](make-linux-run-faster)
 - [Hardware for AI](hardware-for-ai)
 - [Functional Keys on Computers](functional-keys-on-computers)
+```
+
+## command line
+```{dropdown} Click to expand/collapse 17 links
+- [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
+- [Parsing Command-line Arguments in Rust](parsing-command-line-arguments-in-rust)
+- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
+- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
+- [Copying Files in Linux](copying-files-in-linux)
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [Show Image in Terminal](show-image-in-terminal)
+- [Great Command Line Tools Developed in Rust](great-command-line-tools-developed-in-rust)
+- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
+- [Ghostty Is a Decent Terminal App](ghostty-is-a-decent-terminal-app)
+- [Tools for Differencing Text Files](tools-for-differencing-text-files)
+- [Advanced Use of head and tail](advanced-use-of-head-and-tail)
+- [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
+- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
+- [Print Rows from a Text File](print-rows-from-a-text-file)
+- [Hands on the highlight command](hands-on-the-highlight-command)
+- [Sample Lines from a File Using Command Line](sample-lines-from-a-file-using-command-line)
 ```
 
 ## house
@@ -5384,26 +5389,6 @@ site:
 - [Arrays in Java](arrays-in-java)
 ```
 
-## Jupyter
-```{dropdown} Click to expand/collapse 16 links
-- [Tips on Jupyter-Book](tips-on-jupyter-book)
-- [Tips on Deno](tips-on-deno)
-- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
-- [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
-- [Tips on Jupyter Binder](tips-on-jupyter-binder)
-- [Tips on Google Colab](tips-on-google-colab)
-- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
-- [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
-- [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
-- [Tips on nbconvert](tips-on-nbconvert)
-- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
-- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
-- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
-- [Tips on JupyterLab](tips-on-jupyterlab)
-- [Dashboard Solutions](dashboard-solutions)
-- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
-```
-
 ## car
 ```{dropdown} Click to expand/collapse 16 links
 - [Tips on Mercedes-Benz](tips-on-mercedes-benz)
@@ -5422,6 +5407,26 @@ site:
 - [Tips on Car Tires](tips-on-car-tires)
 - [Tips on Car Maintenance](tips-on-car-maintenance)
 - [Driving on Snow and Ice](driving-on-snow-and-ice)
+```
+
+## Git
+```{dropdown} Click to expand/collapse 16 links
+- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
+- [Mercurial for Git Users](mercurial-for-git-users)
+- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
+- [Git Large File Storage](git-large-file-storage)
+- [Tips on Git Submodule](tips-on-git-submodule)
+- [Hands on Dulwich](hands-on-dulwich)
+- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
+- [Git Implementations and Bindings in Python](git-implementations-and-bindings-in-python)
+- [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
+- [Tips on Git-Filter-Repo](tips-on-git-filter-repo)
+- [Tips on Git](tips-on-git)
+- [Git Errors and Solutions](git-errors-and-solutions)
+- [Gitignore Examples](gitignore-examples)
+- [Reduce Size of Git Repository](reduce-size-of-git-repository)
+- [Software Version Management Tools](software-version-management-tools)
+- [Use Git Behind a Proxy](use-git-behind-a-proxy)
 ```
 
 ## format
@@ -5461,25 +5466,6 @@ site:
 - [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
 - [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
 - [Vim as a Universal Editor](vim-as-a-universal-editor)
-```
-
-## notebook
-```{dropdown} Click to expand/collapse 15 links
-- [Tips on Jupyter-Book](tips-on-jupyter-book)
-- [Tips on Deno](tips-on-deno)
-- [Docker Images for Notebooks](docker-images-for-notebooks)
-- [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
-- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
-- [Tips on nbconvert](tips-on-nbconvert)
-- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
-- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
-- [Format Python Code Using Black](format-python-code-using-black)
-- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
-- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
-- [Tips on Zeppelin](tips-on-zeppelin)
-- [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
-- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
-- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
 ```
 
 ## finance
@@ -5880,7 +5866,7 @@ site:
 - [Representation of Machine Learning Models](representation-of-machine-learning-models)
 ```
 
-## SSH | ssh
+## SSH
 ```{dropdown} Click to expand/collapse 13 links
 - [Run Commands on Remote Machines](run-commands-on-remote-machines)
 - [Tips on sshuttle](tips-on-sshuttle)
@@ -5893,8 +5879,8 @@ site:
 - [Python Tools for Linux Admins](python-tools-for-linux-admins)
 - [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
 - [Configure SSH to Use a Proxy Server](configure-ssh-to-use-a-proxy-server)
-- [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
 - [Compare Two Directories on Linux](compare-two-directories-on-linux)
+- [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
 ```
 
 ## application
@@ -5998,22 +5984,6 @@ site:
 - [Collections in Java](collections-in-java)
 ```
 
-## Go | go
-```{dropdown} Click to expand/collapse 12 links
-- [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
-- [Tips on Golang](tips-on-golang)
-- [String in Golang](string-in-golang)
-- [Run System Command in Go](run-system-command-in-go)
-- [Embed File in Golang Binary](embed-file-in-golang-binary)
-- [Get Directory Information in Golang](get-directory-information-in-golang)
-- [Parse Version Semantics in Golang](parse-version-semantics-in-golang)
-- [Hands on the filepath Library in Golang](hands-on-the-filepath-library-in-golang)
-- [Get the Type of OS in Golang](get-the-type-of-os-in-golang)
-- [Get Hardware Information in Golang](get-hardware-information-in-golang)
-- [Parse Command Line Arguments in Go](parse-command-line-arguments-in-go)
-- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
-```
-
 ## PIL
 ```{dropdown} Click to expand/collapse 12 links
 - [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
@@ -6078,6 +6048,22 @@ site:
 - [Add Method to a Python Class](add-method-to-a-python-class)
 ```
 
+## filesystem
+```{dropdown} Click to expand/collapse 12 links
+- [IO in Rust](io-in-rust)
+- [Spark Issue: IllegalArgumentException: Wrong FS](spark-issue-illegalargumentexception-wrong-fs)
+- [Useful Rust Crates for Filesystem](useful-rust-crates-for-filesystem)
+- [WSL2 Filesystem](wsl2-filesystem)
+- [Hadoop Filesystem Tips](hadoop-filesystem-tips)
+- [Tips on rsync](tips-on-rsync)
+- [Undelete Files in Linux](undelete-files-in-linux)
+- [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
+- [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
+- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
+- [Check Whether a File Exists in Spark](check-whether-a-file-exists-in-spark)
+- [Change File Permission on Linux](change-file-permission-on-linux)
+```
+
 ## REST
 ```{dropdown} Click to expand/collapse 12 links
 - [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
@@ -6126,10 +6112,9 @@ site:
 - [Understand Attention in NLP](understand-attention-in-nlp)
 ```
 
-## Map | map
+## map
 ```{dropdown} Click to expand/collapse 11 links
 - [Collections in Kotlin](collections-in-kotlin)
-- [HashMap in Scala](hashmap-in-scala)
 - [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
 - [Map in Golang](map-in-golang)
 - [Ordered Map in Golang](ordered-map-in-golang)
@@ -6137,11 +6122,12 @@ site:
 - [Directly Initialize a Hashmap in Java](directly-initialize-a-hashmap-in-java)
 - [Hands on the Rust Crate lru](hands-on-the-rust-crate-lru)
 - [Row-based Mapping and Filtering on DataFrames in Spark](row-based-mapping-and-filtering-on-dataframes-in-spark)
+- [HashMap in Scala](hashmap-in-scala)
 - [Function Programming in Python](function-programming-in-python)
 - [Collections and Iterators in C++](collections-and-iterators-in-c++)
 ```
 
-## vehicle | Vehicle
+## vehicle
 ```{dropdown} Click to expand/collapse 11 links
 - [Tips on Mercedes-Benz](tips-on-mercedes-benz)
 - [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
@@ -6151,9 +6137,9 @@ site:
 - [Proximity Locking on Rivian](proximity-locking-on-rivian)
 - [Tips on Electronic Vehicles](tips-on-electronic-vehicles)
 - [Service Your Rivian Car](service-your-rivian-car)
+- [Flat Tire on Rivian](flat-tire-on-rivian)
 - [Tips on Car Tires](tips-on-car-tires)
 - [Tips on Car Maintenance](tips-on-car-maintenance)
-- [Flat Tire on Rivian](flat-tire-on-rivian)
 ```
 
 ## math
@@ -6261,22 +6247,22 @@ site:
 - [Date Functions in Spark](date-functions-in-spark)
 ```
 
-## cargo | Cargo
+## Cargo
 ```{dropdown} Click to expand/collapse 11 links
 - [Bundle Resource Files into a Rust Application](bundle-resource-files-into-a-rust-application)
 - [Tips on rustc](tips-on-rustc)
 - [Tips on Cargo](tips-on-cargo)
 - [Benchmark a Rust App](benchmark-a-rust-app)
+- [Speed Up Rust Build With Cache](speed-up-rust-build-with-cache)
 - [Unit Test in Rust](unit-test-in-rust)
 - [Tips on Rust Clippy](tips-on-rust-clippy)
 - [Find Unused Rust Dependencies Using cargo-udeps](find-unused-rust-dependencies-using-cargo-udeps)
 - [Dev Tools for Rust](dev-tools-for-rust)
 - [Cargo Build Script Add Wings to Cargo Build](cargo-build-script-add-wings-to-cargo-build)
-- [Speed Up Rust Build With Cache](speed-up-rust-build-with-cache)
 - [Tips on Rust](tips-on-rust)
 ```
 
-## app | App
+## app
 ```{dropdown} Click to expand/collapse 11 links
 - [Use Streamlit to Build a Web App Quickly Using Python](use-streamlit-to-build-a-web-app-quickly-using-python)
 - [App Platforms](app-platforms)
@@ -6285,10 +6271,10 @@ site:
 - [Tips on Shuttle for Deploying Rust Apps](tips-on-shuttle-for-deploying-rust-apps)
 - [Tips on WezTerm](tips-on-wezterm)
 - [Useful Rust Crates for Developing Command Line Apps](useful-rust-crates-for-developing-command-line-apps)
+- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
 - [Ghostty Is a Decent Terminal App](ghostty-is-a-decent-terminal-app)
 - [Apps for Contacts](apps-for-contacts)
 - [Test Internet Speed](test-internet-speed)
-- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
 ```
 
 ## CICD
@@ -6321,6 +6307,20 @@ site:
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 ```
 
+## VirtualBox
+```{dropdown} Click to expand/collapse 10 links
+- [Resizing Hard Disk of Guest Machine in Virtualbox](resizing-hard-disk-of-guest-machine-in-virtualbox)
+- [Format a Flash Drive in a Linux Virtual Machine](format-a-flash-drive-in-a-linux-virtual-machine)
+- [Use Shared Folders in VirtualBox](use-shared-folders-in-virtualbox)
+- [Install VirtualBox Guest Additions](install-virtualbox-guest-additions)
+- [Windows Emulation on Linux](windows-emulation-on-linux)
+- [Android Emulators](android-emulators)
+- [Tips on VirtualBox](tips-on-virtualbox)
+- [Tips on the Redox Operating System](tips-on-the-redox-operating-system)
+- [Comparision of Linux Emulation Solutions on Windows](comparision-of-linux-emulation-solutions-on-windows)
+- [VirtualBox API](virtualbox-api)
+```
+
 ## JS
 ```{dropdown} Click to expand/collapse 10 links
 - [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
@@ -6349,32 +6349,32 @@ site:
 - [Spark Issue: RuntimeException: Unsupported Literal Type Class](spark-issue-runtimeexception-unsupported-literal-type-class)
 ```
 
-## path | PATH | Path
+## path
 ```{dropdown} Click to expand/collapse 10 links
 - [Get Directory Information in Golang](get-directory-information-in-golang)
 - [Hands on the filepath Library in Golang](hands-on-the-filepath-library-in-golang)
 - [Check Whether a Path Exists in Golang](check-whether-a-path-exists-in-golang)
 - [Path in Rust](path-in-rust)
-- [Absolute or Relative Path for Executables](absolute-or-relative-path-for-executables)
-- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
 - [Current Working Directory in Rust](current-working-directory-in-rust)
 - [Dealing With Environment Variables in Python](dealing-with-environment-variables-in-python)
+- [Absolute or Relative Path for Executables](absolute-or-relative-path-for-executables)
 - [Environment Variables and Secure Path for sudo](environment-variables-and-secure-path-for-sudo)
 - [Hands on pathlib.Path](hands-on-pathlib.path)
+- [Spark Issue: Cannot Create a Path from An Empty String](spark-issue-cannot-create-a-path-from-an-empty-string)
 ```
 
-## Bash | bash
+## Bash
 ```{dropdown} Click to expand/collapse 10 links
 - [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
-- [Operators in Different Programming Languages](operators-in-different-programming-languages)
-- [Docker in WSL 2](docker-in-wsl-2)
-- [Change Shell in Mac](change-shell-in-mac)
 - [Using Bash in Docker](using-bash-in-docker)
 - [Shell in Docker](shell-in-docker)
 - [Get OS and Architecture Information in Shell](get-os-and-architecture-information-in-shell)
 - [Generating Completions Script Using crazy-complete](generating-completions-script-using-crazy-complete)
+- [Operators in Different Programming Languages](operators-in-different-programming-languages)
+- [Docker in WSL 2](docker-in-wsl-2)
 - [Python Alternatives to Shell](python-alternatives-to-shell)
 - [String in Different Programming Languages](string-in-different-programming-languages)
+- [Change Shell in Mac](change-shell-in-mac)
 ```
 
 ## library
@@ -6433,34 +6433,6 @@ site:
 - [Software for Editing Videos](software-for-editing-videos)
 ```
 
-## VirtualBox | virtualbox
-```{dropdown} Click to expand/collapse 10 links
-- [Format a Flash Drive in a Linux Virtual Machine](format-a-flash-drive-in-a-linux-virtual-machine)
-- [Use Shared Folders in VirtualBox](use-shared-folders-in-virtualbox)
-- [Install VirtualBox Guest Additions](install-virtualbox-guest-additions)
-- [Windows Emulation on Linux](windows-emulation-on-linux)
-- [Android Emulators](android-emulators)
-- [Tips on VirtualBox](tips-on-virtualbox)
-- [Tips on the Redox Operating System](tips-on-the-redox-operating-system)
-- [Comparision of Linux Emulation Solutions on Windows](comparision-of-linux-emulation-solutions-on-windows)
-- [VirtualBox API](virtualbox-api)
-- [Resizing Hard Disk of Guest Machine in Virtualbox](resizing-hard-disk-of-guest-machine-in-virtualbox)
-```
-
-## filesystem | FileSystem
-```{dropdown} Click to expand/collapse 10 links
-- [Useful Rust Crates for Filesystem](useful-rust-crates-for-filesystem)
-- [WSL2 Filesystem](wsl2-filesystem)
-- [Hadoop Filesystem Tips](hadoop-filesystem-tips)
-- [Tips on rsync](tips-on-rsync)
-- [Undelete Files in Linux](undelete-files-in-linux)
-- [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
-- [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
-- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
-- [Change File Permission on Linux](change-file-permission-on-linux)
-- [Check Whether a File Exists in Spark](check-whether-a-file-exists-in-spark)
-```
-
 ## C/C++
 ```{dropdown} Click to expand/collapse 10 links
 - [Operators in Different Programming Languages](operators-in-different-programming-languages)
@@ -6488,7 +6460,7 @@ site:
 - [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
 ```
 
-## neovim | NeoVim
+## neovim | Neovim
 ```{dropdown} Click to expand/collapse 9 links
 - [Popular Configurations for NeoVim](popular-configurations-for-neovim)
 - [Tips on NeoVim](tips-on-neovim)
@@ -6527,7 +6499,7 @@ site:
 - [Preferred Python Version in Shebang](preferred-python-version-in-shebang)
 ```
 
-## series | Series
+## series
 ```{dropdown} Click to expand/collapse 9 links
 - [The Power of Generating Functions](the-power-of-generating-functions)
 - [Get Index of True Values of a Sequence in Python](get-index-of-true-values-of-a-sequence-in-python)
@@ -6792,7 +6764,7 @@ site:
 - [Create a Date Range in Python](create-a-date-range-in-python)
 ```
 
-## graph | Graph
+## graph
 ```{dropdown} Click to expand/collapse 8 links
 - [Stick Breaking Problems](stick-breaking-problems)
 - [Hands on the Graphlib Module in Python](hands-on-the-graphlib-module-in-python)
@@ -6800,8 +6772,8 @@ site:
 - [Multiple Lines on the Same Plot Using hvplot](multiple-lines-on-the-same-plot-using-hvplot)
 - [Tips on Deep Graph Learning](tips-on-deep-graph-learning)
 - [Inline Dot Graph in Docs](inline-dot-graph-in-docs)
-- [Visualization Using Plotly](visualization-using-plotly)
 - [Tips on Microsoft Graph APIs](tips-on-microsoft-graph-apis)
+- [Visualization Using Plotly](visualization-using-plotly)
 ```
 
 ## automation
@@ -6888,16 +6860,16 @@ site:
 - [sbt Plugins for Deployment](sbt-plugins-for-deployment)
 ```
 
-## index | Index
+## index
 ```{dropdown} Click to expand/collapse 8 links
 - [Get Index of True Values of a Sequence in Python](get-index-of-true-values-of-a-sequence-in-python)
-- [Primary Key vs Index in SQL](primary-key-vs-index-in-sql)
 - [Change the Index of a pandas DataFrame](change-the-index-of-a-pandas-dataframe)
 - [Reset the Index of a pandas DataFrame](reset-the-index-of-a-pandas-dataframe)
 - [Construct MultiIndexes in pandas](construct-multiindexes-in-pandas)
 - [Add level to a MultiIndexes in pandas](add-level-to-a-multiindexes-in-pandas)
 - [MultiIndexes in pandas](multiindexes-in-pandas)
 - [Understand Index in pandas](understand-index-in-pandas)
+- [Primary Key vs Index in SQL](primary-key-vs-index-in-sql)
 ```
 
 ## profile
@@ -6948,18 +6920,6 @@ site:
 - [Implementing Equality and Hash Methods in Python](implementing-equality-and-hash-methods-in-python)
 ```
 
-## reference
-```{dropdown} Click to expand/collapse 8 links
-- [Extract Identifier Names from a SQL Query Using Sqlfluff](extract-identifier-names-from-a-sql-query-using-sqlfluff)
-- [Pointer, Reference and Ownership in Rust](pointer-reference-and-ownership-in-rust)
-- [Pointer, Reference and Ownership in Rust](pointer-reference-and-ownership-in-rust)
-- [Garbage Collection in Python](garbage-collection-in-python)
-- [Linked List in Rust](linked-list-in-rust)
-- [Lvalue Reference and Rvalue Reference](lvalue-reference-and-rvalue-reference)
-- [Scientific References](scientific-references)
-- [Equality by Reference and Value in Python](equality-by-reference-and-value-in-python)
-```
-
 ## iterator
 ```{dropdown} Click to expand/collapse 8 links
 - [Generate Combinations Using Itertools in Rust](generate-combinations-using-itertools-in-rust)
@@ -6972,7 +6932,7 @@ site:
 - [Erase Elements of a Container Using Iterator in C++](erase-elements-of-a-container-using-iterator-in-c++)
 ```
 
-## concurrency | Concurrency
+## concurrency
 ```{dropdown} Click to expand/collapse 8 links
 - [Send and Sync in Rust](send-and-sync-in-rust)
 - [Rust Crates for Parallel, Concurrency, Async and Distributed Applications](rust-crates-for-parallel-concurrency-async-and-distributed-applications)
@@ -6980,8 +6940,8 @@ site:
 - [Parallel RNGs With Rayon in Rust](parallel-rngs-with-rayon-in-rust)
 - [Parallel Computing in Java](parallel-computing-in-java)
 - [Parallel and Concurrency Programming in C++11](parallel-and-concurrency-programming-in-c++11)
-- [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 - [Thread Safe Random Number Generator](thread-safe-random-number-generator)
+- [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 ```
 
 ## desktop
@@ -7008,18 +6968,6 @@ site:
 - [Install Firefox in Debian](install-firefox-in-debian)
 ```
 
-## docker image | Docker image
-```{dropdown} Click to expand/collapse 8 links
-- [Docker Images for OS](docker-images-for-os)
-- [Docker Images for Database](docker-images-for-database)
-- [Manage Docker Images and Containers](manage-docker-images-and-containers)
-- [My Docker Images](my-docker-images)
-- [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
-- [Docker Images for Zeppelin](docker-images-for-zeppelin)
-- [Docker Images for Visualization](docker-images-for-visualization)
-- [Docker Images for Synchronization](docker-images-for-synchronization)
-```
-
 ## code
 ```{dropdown} Click to expand/collapse 7 links
 - [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
@@ -7040,17 +6988,6 @@ site:
 - [Sort Collections in Python](sort-collections-in-python)
 - [Sort DataFrame in Spark](sort-dataframe-in-spark)
 - [Sorting Functions in C++](sorting-functions-in-c++)
-```
-
-## Jupyter notebook | Jupyter Notebook
-```{dropdown} Click to expand/collapse 7 links
-- [Visual Studio Code for Python](visual-studio-code-for-python)
-- [Docker Images for Notebooks](docker-images-for-notebooks)
-- [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
-- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
-- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
-- [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
-- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
 ```
 
 ## formatting
@@ -7075,17 +7012,6 @@ site:
 - [Parse TOML Files in Python](parse-toml-files-in-python)
 ```
 
-## JSON | json
-```{dropdown} Click to expand/collapse 7 links
-- [Serialize and Deserialize JSON in Golang](serialize-and-deserialize-json-in-golang)
-- [Parsing YAML in Python](parsing-yaml-in-python)
-- [Tips on JSON](tips-on-json)
-- [Serialization and deserialization in Python](serialization-and-deserialization-in-python)
-- [Commonly Used File Formats for Configuration](commonly-used-file-formats-for-configuration)
-- [Tips on JSON](tips-on-json)
-- [Hands on the json Module in Python](hands-on-the-json-module-in-python)
-```
-
 ## remote
 ```{dropdown} Click to expand/collapse 7 links
 - [Run Commands on Remote Machines](run-commands-on-remote-machines)
@@ -7108,6 +7034,17 @@ site:
 - [Useful Docker Images](useful-docker-images)
 ```
 
+## Apache
+```{dropdown} Click to expand/collapse 7 links
+- [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
+- [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
+- [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
+- [Tips on Apache Arrow](tips-on-apache-arrow)
+- [Tips on Apache Beam](tips-on-apache-beam)
+- [Job Scheduling and Management Using Apache Airflow](job-scheduling-and-management-using-apache-airflow)
+- [Workflow Managing Tools](workflow-managing-tools)
+```
+
 ## KDE
 ```{dropdown} Click to expand/collapse 7 links
 - [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
@@ -7119,14 +7056,14 @@ site:
 - [Shortcuts for KDE](shortcuts-for-kde)
 ```
 
-## work | Work
+## work
 ```{dropdown} Click to expand/collapse 7 links
 - [Tips on Job Seeking](tips-on-job-seeking)
 - [Some Terminologies in Anti-money Laundering (AML)](some-terminologies-in-anti-money-laundering-aml)
 - [Tips on Career](tips-on-career)
-- [Culture of My Summer Intern Team](culture-of-my-summer-intern-team)
 - [Tips on JIRA](tips-on-jira)
 - [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
+- [Culture of My Summer Intern Team](culture-of-my-summer-intern-team)
 - [The Sum and Product Puzzle](the-sum-and-product-puzzle)
 ```
 
@@ -7185,7 +7122,7 @@ site:
 - [Tips on NodeJS](tips-on-nodejs)
 ```
 
-## HTML | html
+## HTML
 ```{dropdown} Click to expand/collapse 7 links
 - [Rust for Frontend Development](rust-for-frontend-development)
 - [Parse Xml in Python](parse-xml-in-python)
@@ -7207,15 +7144,26 @@ site:
 - [Learning Resources](learning-resources)
 ```
 
-## vector | Vector
+## reference
+```{dropdown} Click to expand/collapse 7 links
+- [Extract Identifier Names from a SQL Query Using Sqlfluff](extract-identifier-names-from-a-sql-query-using-sqlfluff)
+- [Pointer, Reference and Ownership in Rust](pointer-reference-and-ownership-in-rust)
+- [Garbage Collection in Python](garbage-collection-in-python)
+- [Linked List in Rust](linked-list-in-rust)
+- [Lvalue Reference and Rvalue Reference](lvalue-reference-and-rvalue-reference)
+- [Scientific References](scientific-references)
+- [Equality by Reference and Value in Python](equality-by-reference-and-value-in-python)
+```
+
+## vector
 ```{dropdown} Click to expand/collapse 7 links
 - [Equivalent of C++'s std::set_difference in Rust](equivalent-of-c++-s-std-set_difference-in-rust)
+- [Vector in Rust](vector-in-rust)
 - [Differences Between Vector and ArrayList in Java](differences-between-vector-and-arraylist-in-java)
 - [Abuse of Vector in R](abuse-of-vector-in-r)
 - [Collections and Iterators in C++](collections-and-iterators-in-c++)
 - [Collections in Java](collections-in-java)
 - [Graphics in LaTeX](graphics-in-latex)
-- [Vector in Rust](vector-in-rust)
 ```
 
 ## variable
@@ -7262,17 +7210,6 @@ site:
 - [Profile C++ Code](profile-c++-code)
 ```
 
-## pip
-```{dropdown} Click to expand/collapse 7 links
-- [The Installation Location of Python Packages Using Pip](the-installation-location-of-python-packages-using-pip)
-- [Issues in pip and Solutions](issues-in-pip-and-solutions)
-- [Tips on PyPy](tips-on-pypy)
-- [Could Not Build Wheels for Numpy Which Use Pep 517](could-not-build-wheels-for-numpy-which-use-pep-517)
-- [Install Python Packages Using pip](install-python-packages-using-pip)
-- [Python Packaging Tools](python-packaging-tools)
-- [Python Packaging Tools](python-packaging-tools)
-```
-
 ## installation
 ```{dropdown} Click to expand/collapse 7 links
 - [The Installation Location of Python Packages Using Pip](the-installation-location-of-python-packages-using-pip)
@@ -7317,7 +7254,7 @@ site:
 - [Java Unit Testing](java-unit-testing)
 ```
 
-## IOT | IoT
+## IoT
 ```{dropdown} Click to expand/collapse 7 links
 - [Tools for IOT](tools-for-iot)
 - [Python for IOT](python-for-iot)
@@ -7339,15 +7276,15 @@ site:
 - [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
 ```
 
-## datetime | DateTime
+## datetime
 ```{dropdown} Click to expand/collapse 7 links
 - [Python Modules for Date and Time](python-modules-for-date-and-time)
 - [Date and Time in Python pandas](date-and-time-in-python-pandas)
 - [Hands on the datetime Module in Python](hands-on-the-datetime-module-in-python)
 - [Handling Timezone Correctly in Python](handling-timezone-correctly-in-python)
+- [Date and Time in Rust](date-and-time-in-rust)
 - [Create a Date Range in Python](create-a-date-range-in-python)
 - [Format Date and Time in Python](format-date-and-time-in-python)
-- [Date and Time in Rust](date-and-time-in-rust)
 ```
 
 ## Chinese
@@ -7372,12 +7309,22 @@ site:
 - [Fast DC Charging in WA](fast-dc-charging-in-wa)
 ```
 
-## Set | set
+## partition
+```{dropdown} Click to expand/collapse 6 links
+- [Resizing Hard Disk of Guest Machine in Virtualbox](resizing-hard-disk-of-guest-machine-in-virtualbox)
+- [Window Functions in Spark](window-functions-in-spark)
+- [Partition and Bucketing in Spark](partition-and-bucketing-in-spark)
+- [Format a Disk on Linux](format-a-disk-on-linux)
+- [Control Number of Partitions of a DataFrame in Spark](control-number-of-partitions-of-a-dataframe-in-spark)
+- [Spark Issue: InvalidInputException for Some Hive Data Partitions](spark-issue-invalidinputexception-for-some-hive-data-partitions)
+```
+
+## set
 ```{dropdown} Click to expand/collapse 6 links
 - [Collections in Kotlin](collections-in-kotlin)
-- [Set in Java](set-in-java)
 - [Set in Golang](set-in-golang)
 - [Set in Rust](set-in-rust)
+- [Set in Java](set-in-java)
 - [The set Collection in Python](the-set-collection-in-python)
 - [Collections and Iterators in C++](collections-and-iterators-in-c++)
 ```
@@ -7452,14 +7399,14 @@ site:
 - [Tips on Fidelity](tips-on-fidelity)
 ```
 
-## HTTP | http
+## JSON
 ```{dropdown} Click to expand/collapse 6 links
-- [Hands on the Standard Library HTTP in Golang](hands-on-the-standard-library-http-in-golang)
-- [Tips on Network Protocols](tips-on-network-protocols)
-- [Tips on HTTP](tips-on-http)
-- [Speed Up sbt in China](speed-up-sbt-in-china)
-- [Tips on httpd](tips-on-httpd)
-- [Hands on the Standard Library HTTP in Golang](hands-on-the-standard-library-http-in-golang)
+- [Serialize and Deserialize JSON in Golang](serialize-and-deserialize-json-in-golang)
+- [Parsing YAML in Python](parsing-yaml-in-python)
+- [Tips on JSON](tips-on-json)
+- [Serialization and deserialization in Python](serialization-and-deserialization-in-python)
+- [Hands on the json Module in Python](hands-on-the-json-module-in-python)
+- [Commonly Used File Formats for Configuration](commonly-used-file-formats-for-configuration)
 ```
 
 ## operating system
@@ -7502,14 +7449,14 @@ site:
 - [String in Java](string-in-java)
 ```
 
-## Zeppelin | zeppelin
+## Zeppelin
 ```{dropdown} Click to expand/collapse 6 links
 - [Docker Images for Notebooks](docker-images-for-notebooks)
+- [Tips on Zeppelin](tips-on-zeppelin)
 - [Docker Images for Zeppelin](docker-images-for-zeppelin)
 - [Zeppelin Issues and Solutions](zeppelin-issues-and-solutions)
 - [Visualization in Zeppelin](visualization-in-zeppelin)
 - [Zeppelin Interpreter](zeppelin-interpreter)
-- [Tips on Zeppelin](tips-on-zeppelin)
 ```
 
 ## read
@@ -7522,34 +7469,14 @@ site:
 - [Read/Write Files/Tables in Spark](read-write-files-tables-in-spark)
 ```
 
-## health
-```{dropdown} Click to expand/collapse 6 links
-- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
-- [医保](health-insurance-in-china)
-- [Tips on Health](tips-on-health)
-- [Tips on Children Health](tips-on-children-health)
-- [Tips on Children Health](tips-on-children-health)
-- [Smart Watches and Bands](smart-watches-and-bands)
-```
-
-## office | Office
+## office
 ```{dropdown} Click to expand/collapse 6 links
 - [Tips on Job Seeking](tips-on-job-seeking)
+- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
 - [Tips on LibreOffice](tips-on-libreoffice)
 - [Tips on Career](tips-on-career)
 - [Culture of My Summer Intern Team](culture-of-my-summer-intern-team)
-- [Convert MS Office Document to Text](convert-ms-office-document-to-text)
 - [Convert LaTeX to Word](convert-latex-to-word)
-```
-
-## Mac | mac
-```{dropdown} Click to expand/collapse 6 links
-- [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
-- [Docker on Mac](docker-on-mac)
-- [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
-- [Install GNU Utils Using MacPorts](install-gnu-utils-using-macports)
-- [Map Keys in macOS](map-keys-in-macos)
-- [Install the Latest JDK on Mac](install-the-latest-jdk-on-mac)
 ```
 
 ## extension
@@ -7560,16 +7487,6 @@ site:
 - [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
 - [Useful Chrome Extensions](useful-chrome-extensions)
 - [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
-```
-
-## partition
-```{dropdown} Click to expand/collapse 6 links
-- [Window Functions in Spark](window-functions-in-spark)
-- [Partition and Bucketing in Spark](partition-and-bucketing-in-spark)
-- [Format a Disk on Linux](format-a-disk-on-linux)
-- [Control Number of Partitions of a DataFrame in Spark](control-number-of-partitions-of-a-dataframe-in-spark)
-- [Spark Issue: InvalidInputException for Some Hive Data Partitions](spark-issue-invalidinputexception-for-some-hive-data-partitions)
-- [Resizing Hard Disk of Guest Machine in Virtualbox](resizing-hard-disk-of-guest-machine-in-virtualbox)
 ```
 
 ## OOP
@@ -7612,7 +7529,7 @@ site:
 - [Convert Math Formula and Table To LaTeX](convert-math-formula-and-table-to-latex)
 ```
 
-## Copy | copy
+## copy
 ```{dropdown} Click to expand/collapse 6 links
 - [Trait in Rust](trait-in-rust)
 - [Tips on Android](tips-on-android)
@@ -7632,14 +7549,24 @@ site:
 - [Filter pandas DataFrames in Python](filter-pandas-dataframes-in-python)
 ```
 
-## actions | Actions
+## Actions
 ```{dropdown} Click to expand/collapse 6 links
 - [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
-- [Setup GitHub Actions Self-hosted Runners on GCP](setup-github-actions-self-hosted-runners-on-gcp)
 - [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
 - [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
 - [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
+- [Setup GitHub Actions Self-hosted Runners on GCP](setup-github-actions-self-hosted-runners-on-gcp)
 - [GitHub Action Task Stuck At Expected](github-action-task-stuck-at-expected)
+```
+
+## pip
+```{dropdown} Click to expand/collapse 6 links
+- [The Installation Location of Python Packages Using Pip](the-installation-location-of-python-packages-using-pip)
+- [Issues in pip and Solutions](issues-in-pip-and-solutions)
+- [Tips on PyPy](tips-on-pypy)
+- [Could Not Build Wheels for Numpy Which Use Pep 517](could-not-build-wheels-for-numpy-which-use-pep-517)
+- [Install Python Packages Using pip](install-python-packages-using-pip)
+- [Python Packaging Tools](python-packaging-tools)
 ```
 
 ## compile
@@ -7652,14 +7579,14 @@ site:
 - [LaTeX Commands for Compiling](latex-commands-for-compiling)
 ```
 
-## Arrow | arrow
+## Arrow
 ```{dropdown} Click to expand/collapse 6 links
 - [Tips on Apache Arrow](tips-on-apache-arrow)
+- [Data Types in Different Programming Languages](data-types-in-different-programming-languages)
+- [Python Modules for Date and Time](python-modules-for-date-and-time)
 - [Spark Issue: Runtimeerror: Arrow Legacy IPC Format Is Not Supported](spark-issue-runtimeerror-arrow-legacy-ipc-format-is-not-supported)
 - [Read and Write Parquet Files in Rust](read-and-write-parquet-files-in-rust)
 - [Use pyarrow to Share Data in Memory in Python](use-pyarrow-to-share-data-in-memory-in-python)
-- [Data Types in Different Programming Languages](data-types-in-different-programming-languages)
-- [Python Modules for Date and Time](python-modules-for-date-and-time)
 ```
 
 ## apt
@@ -7762,13 +7689,13 @@ site:
 - [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
 ```
 
-## Atomic | atomic
+## atomic
 ```{dropdown} Click to expand/collapse 6 links
 - [Install Dropbox Using Flatpak](install-dropbox-using-flatpak)
 - [Universal Blue Atomic Linux Distributions](universal-blue-atomic-linux-distributions)
-- [Change the Default Shell in Linux](change-the-default-shell-in-linux)
 - [Managing Fedora Atomic Core System Using rpm-ostree](managing-fedora-atomic-core-system-using-rpm-ostree)
 - [Install VirtualBox Guest Additions](install-virtualbox-guest-additions)
+- [Change the Default Shell in Linux](change-the-default-shell-in-linux)
 - [Atomic Linux Distributions](atomic-linux-distributions)
 ```
 
@@ -7802,13 +7729,13 @@ site:
 - [Column Functions and Operators in Spark](column-functions-and-operators-in-spark)
 ```
 
-## Research | research
+## research
 ```{dropdown} Click to expand/collapse 6 links
 - [Optimization Algorithms](optimization-algorithms)
 - [Some Useful Properties of Modified Bessel Functions of the First Kind](some-useful-properties-of-modified-bessel-functions-of-the-first-kind)
-- [Good Ways to Do Scientific Computing](good-ways-to-do-scientific-computing)
 - [Scientific References](scientific-references)
 - [Estimation of False Discovery Rate using Sequential Permutation Pvalues](estimation-of-false-discovery-rate-using-sequential-permutation-pvalues)
+- [Good Ways to Do Scientific Computing](good-ways-to-do-scientific-computing)
 - [Common Errors in Bibliographies](common-errors-in-bibliographies)
 ```
 
@@ -7822,7 +7749,7 @@ site:
 - [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
 ```
 
-## SBT | sbt
+## sbt
 ```{dropdown} Click to expand/collapse 6 links
 - [Scala Dependencies for SBT](scala-dependencies-for-sbt)
 - [Speed Up sbt in China](speed-up-sbt-in-china)
@@ -7949,6 +7876,15 @@ site:
 - [Speed Up sbt in China](speed-up-sbt-in-china)
 ```
 
+## HTTP
+```{dropdown} Click to expand/collapse 5 links
+- [Hands on the Standard Library HTTP in Golang](hands-on-the-standard-library-http-in-golang)
+- [Tips on Network Protocols](tips-on-network-protocols)
+- [Tips on HTTP](tips-on-http)
+- [Speed Up sbt in China](speed-up-sbt-in-china)
+- [Tips on httpd](tips-on-httpd)
+```
+
 ## user
 ```{dropdown} Click to expand/collapse 5 links
 - [Get Information of User in Golang](get-information-of-user-in-golang)
@@ -7958,7 +7894,7 @@ site:
 - [User Access Control on Linux](user-access-control-on-linux)
 ```
 
-## hashmap | Hashmap | HashMap
+## hashmap
 ```{dropdown} Click to expand/collapse 5 links
 - [Map in Golang](map-in-golang)
 - [Hands on the Rust Crate lru](hands-on-the-rust-crate-lru)
@@ -8021,22 +7957,13 @@ site:
 - [Create a Temporary File in Linux](create-a-temporary-file-in-linux)
 ```
 
-## IPython | ipython
+## IPython
 ```{dropdown} Click to expand/collapse 5 links
 - [IPython Is the Best Shell](ipython-is-the-best-shell)
 - [Dot Is Not Recognized as An Internal or External Command](dot-is-not-recognized-as-an-internal-or-external-command)
 - [Python Alternatives to Shell](python-alternatives-to-shell)
 - [Set Environment Varibles in IPython](set-environment-varibles-in-ipython)
 - [Disable Jedi in IPython](disable-jedi-in-ipython)
-```
-
-## Apache
-```{dropdown} Click to expand/collapse 5 links
-- [Hands on the CombinatoricsUtils class in Apache Commons Math](hands-on-the-combinatoricsutils-class-in-apache-commons-math)
-- [Hands on the Combinations class in Apache Commons Math](hands-on-the-combinations-class-in-apache-commons-math)
-- [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
-- [Tips on Apache Arrow](tips-on-apache-arrow)
-- [Tips on Apache Beam](tips-on-apache-beam)
 ```
 
 ## bug
@@ -8093,6 +8020,15 @@ site:
 - [IUL Insurance](iul-insurance)
 ```
 
+## health
+```{dropdown} Click to expand/collapse 5 links
+- [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
+- [医保](health-insurance-in-china)
+- [Tips on Health](tips-on-health)
+- [Tips on Children Health](tips-on-children-health)
+- [Smart Watches and Bands](smart-watches-and-bands)
+```
+
 ## trip
 ```{dropdown} Click to expand/collapse 5 links
 - [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
@@ -8102,13 +8038,13 @@ site:
 - [Tips on Airbnb](tips-on-airbnb)
 ```
 
-## home | HOME
+## home
 ```{dropdown} Click to expand/collapse 5 links
 - [Tips on RV](tips-on-rv)
+- [Dealing With Environment Variables in Python](dealing-with-environment-variables-in-python)
 - [Tips on DIY](tips-on-diy)
 - [Tips on Buying a House](tips-on-buying-a-house)
 - [Shopping At Homedepot](shopping-at-homedepot)
-- [Dealing With Environment Variables in Python](dealing-with-environment-variables-in-python)
 ```
 
 ## Tesla
@@ -8145,15 +8081,6 @@ site:
 - [Tools for Audio Analysis](tools-for-audio-analysis)
 - [Useful Rust Crates for Multimedia](useful-rust-crates-for-multimedia)
 - [Tips on FFmpeg](tips-on-ffmpeg)
-```
-
-## spreadsheet | Spreadsheet
-```{dropdown} Click to expand/collapse 5 links
-- [Tips on Google Spreadsheet](tips-on-google-spreadsheet)
-- [Use Python with Google Spreadsheet](use-python-with-google-spreadsheet)
-- [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
-- [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
-- [Working with Spreadsheet in Python](working-with-spreadsheet-in-python)
 ```
 
 ## OpenCV
@@ -8201,11 +8128,11 @@ site:
 - [Serialization and Deserialization in Rust](serialization-and-deserialization-in-rust)
 ```
 
-## hyper | Hyper
+## hyper
 ```{dropdown} Click to expand/collapse 5 links
 - [Tips on Optuna](tips-on-optuna)
-- [Good Terminal Apps](good-terminal-apps)
 - [Quickly Open a Directory in Terminal in Mac](quickly-open-a-directory-in-terminal-in-mac)
+- [Good Terminal Apps](good-terminal-apps)
 - [Tips on Hyper](tips-on-hyper)
 - [Change Shell in Mac](change-shell-in-mac)
 ```
@@ -8219,13 +8146,13 @@ site:
 - [SQL Equivalent](sql-equivalent)
 ```
 
-## range | Range
+## range
 ```{dropdown} Click to expand/collapse 5 links
 - [Slice in Rust](slice-in-rust)
 - [Axis Range of Plots in HoloViews](axis-range-of-plots-in-holoviews)
+- [Range in Rust](range-in-rust)
 - [Create a Date Range in Python](create-a-date-range-in-python)
 - [For Loops in C++](for-loops-in-c++)
-- [Range in Rust](range-in-rust)
 ```
 
 ## convert
@@ -8237,13 +8164,13 @@ site:
 - [File Converting and Generating Tools](file-converting-and-generating-tools)
 ```
 
-## construct | Construct
+## construct
 ```{dropdown} Click to expand/collapse 5 links
 - [Construct Polars DataFrames in Rust](construct-polars-dataframes-in-rust)
+- [Construct Simple Spark DataFrames Using Seq](construct-simple-spark-dataframes-using-seq)
 - [Conversion Between PySpark DataFrames and pandas DataFrames](conversion-between-pyspark-dataframes-and-pandas-dataframes)
 - [Construct MultiIndexes in pandas](construct-multiindexes-in-pandas)
 - [Construct pandas DataFrames in Python](construct-pandas-dataframes-in-python)
-- [Construct Simple Spark DataFrames Using Seq](construct-simple-spark-dataframes-using-seq)
 ```
 
 ## keys
@@ -8255,7 +8182,7 @@ site:
 - [Map Keys in Windows](map-keys-in-windows)
 ```
 
-## scikit-learn | Scikit-learn
+## scikit-learn
 ```{dropdown} Click to expand/collapse 5 links
 - [Tree-Based Models in scikit-learn](tree-based-models-in-scikit-learn)
 - [Visualization of GBDT in scikit-learn](visualization-of-gbdt-in-scikit-learn)
@@ -8460,7 +8387,7 @@ site:
 - [LaTeX for Chinese](latex-for-chinese)
 ```
 
-## MyST | myst
+## MyST
 ```{dropdown} Click to expand/collapse 4 links
 - [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
 - [Markedly Structured Text](markedly-structured-text)
@@ -8484,14 +8411,6 @@ site:
 - [Check Resources Used by Processes Using Python](check-resources-used-by-processes-using-python)
 ```
 
-## Cloud IDE | cloud IDE
-```{dropdown} Click to expand/collapse 4 links
-- [Tips on IDE](tips-on-ide)
-- [Cloud IDE](cloud-ide)
-- [Tips on Eclipse Che](tips-on-eclipse-che)
-- [Tips on Cloud9](tips-on-cloud9)
-```
-
 ## line
 ```{dropdown} Click to expand/collapse 4 links
 - [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
@@ -8508,12 +8427,12 @@ site:
 - [Debugging, Unit Testing and CICD in Python](debugging-unit-testing-and-cicd-in-python)
 ```
 
-## cli | CLI
+## CLI
 ```{dropdown} Click to expand/collapse 4 links
 - [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
 - [Tips on Gh](tips-on-gh)
-- [Tools for Differencing Text Files](tools-for-differencing-text-files)
 - [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+- [Tools for Differencing Text Files](tools-for-differencing-text-files)
 ```
 
 ## quant
@@ -8524,7 +8443,7 @@ site:
 - [Tips on Wash Sale](tips-on-wash-sale)
 ```
 
-## tuple | Tuple
+## tuple
 ```{dropdown} Click to expand/collapse 4 links
 - [Tuple in Golang](tuple-in-golang)
 - [Unpacking Assignment in Python](unpacking-assignment-in-python)
@@ -8532,7 +8451,7 @@ site:
 - [Tuple in Rust](tuple-in-rust)
 ```
 
-## hashtable | Hashtable | HashTable
+## hashtable
 ```{dropdown} Click to expand/collapse 4 links
 - [Map in Golang](map-in-golang)
 - [Hashmap in Kotlin](hashmap-in-kotlin)
@@ -8564,7 +8483,7 @@ site:
 - [Python Tools for Linux Admins](python-tools-for-linux-admins)
 ```
 
-## Fish | fish
+## fish
 ```{dropdown} Click to expand/collapse 4 links
 - [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
 - [Tips on the Fish Shell](tips-on-the-fish-shell)
@@ -8604,7 +8523,7 @@ site:
 - [The Sum and Product Puzzle](the-sum-and-product-puzzle)
 ```
 
-## VNC | vnc
+## VNC
 ```{dropdown} Click to expand/collapse 4 links
 - [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
 - [Tips on VNC](tips-on-vnc)
@@ -8628,12 +8547,12 @@ site:
 - [Recursion in Scala](recursion-in-scala)
 ```
 
-## poker | Poker
+## poker
 ```{dropdown} Click to expand/collapse 4 links
 - [Probability to Get a Complete Deck of Cards?](probability-to-get-a-complete-deck-of-cards)
 - [Poker Game in Casinos](poker-game-in-casinos)
-- [Implementation of Poker Games](implementation-of-poker-games)
 - [Poker Hud Implementations](poker-hud-implementations)
+- [Implementation of Poker Games](implementation-of-poker-games)
 ```
 
 ## random
@@ -8682,6 +8601,22 @@ site:
 - [Quant Trading](quant-trading)
 - [Tips on Money Market Fund](tips-on-money-market-fund)
 - [Diversified Investment](diversified-investment)
+```
+
+## Airflow
+```{dropdown} Click to expand/collapse 4 links
+- [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
+- [Tips on Prefect](tips-on-prefect)
+- [Job Scheduling and Management Using Apache Airflow](job-scheduling-and-management-using-apache-airflow)
+- [Workflow Managing Tools](workflow-managing-tools)
+```
+
+## spreadsheet
+```{dropdown} Click to expand/collapse 4 links
+- [Tips on Google Spreadsheet](tips-on-google-spreadsheet)
+- [Use Python with Google Spreadsheet](use-python-with-google-spreadsheet)
+- [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
+- [Working with Spreadsheet in Python](working-with-spreadsheet-in-python)
 ```
 
 ## delete
@@ -8764,12 +8699,12 @@ site:
 - [Template Meta Programming](template-meta-programming)
 ```
 
-## enum | Enum
+## enum
 ```{dropdown} Click to expand/collapse 4 links
 - [Enum in Python](enum-in-python)
-- [Enum in Rust](enum-in-rust)
 - [Memory Layout of Enum in Rust](memory-layout-of-enum-in-rust)
 - [Sum Type in Rust](sum-type-in-rust)
+- [Enum in Rust](enum-in-rust)
 ```
 
 ## operator
@@ -8836,20 +8771,12 @@ site:
 - [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
 ```
 
-## Static Site Generator | static site generator
+## static site generator
 ```{dropdown} Click to expand/collapse 4 links
 - [Use JupyterLab Notebooks in Pelican](use-jupyterlab-notebooks-in-pelican)
 - [Tips on Gatsby](tips-on-gatsby)
 - [Tips on mkdocs](tips-on-mkdocs)
 - [The Elegant Theme for Pelican](the-elegant-theme-for-pelican)
-```
-
-## shuffle
-```{dropdown} Click to expand/collapse 4 links
-- [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
-- [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
-- [Spark Issue: Timeout When Communicate With Driver During Shuffle Caused by Driver OOM](spark-issue-timeout-when-communicate-with-driver-during-shuffle-caused-by-driver-oom)
-- [Sample Lines from a File Using Command Line](sample-lines-from-a-file-using-command-line)
 ```
 
 ## speech
@@ -8932,15 +8859,15 @@ site:
 - [Hyper Parameter Tuning and Automatical Machine Learning](hyper-parameter-tuning-and-automatical-machine-learning)
 ```
 
-## NodeJS | nodejs
+## NodeJS
 ```{dropdown} Click to expand/collapse 4 links
 - [Tips on Backend Development](tips-on-backend-development)
 - [Tips on Electron](tips-on-electron)
-- [Install NodeJS on Ubuntu](install-nodejs-on-ubuntu)
 - [Tips on NodeJS](tips-on-nodejs)
+- [Install NodeJS on Ubuntu](install-nodejs-on-ubuntu)
 ```
 
-## YARN | yarn
+## YARN
 ```{dropdown} Click to expand/collapse 4 links
 - [Spark Issue: Container Killed by Yarn for Exceeding Memory Limits](spark-issue-container-killed-by-yarn-for-exceeding-memory-limits)
 - [Tips on yarn](tips-on-yarn)
@@ -8956,7 +8883,7 @@ site:
 - [Playbook on Road Accident](playbook-on-road-accident)
 ```
 
-## PyArrow | pyarrow
+## PyArrow
 ```{dropdown} Click to expand/collapse 4 links
 - [Tips on Apache Arrow](tips-on-apache-arrow)
 - [Data Types in Different Programming Languages](data-types-in-different-programming-languages)
@@ -8964,12 +8891,12 @@ site:
 - [SQL Database Client-server Protocols](sql-database-client-server-protocols)
 ```
 
-## search engine | Search Engine
+## search engine
 ```{dropdown} Click to expand/collapse 4 links
 - [Search Engine for Static Web Sites](search-engine-for-static-web-sites)
 - [Tips on Search Engines](tips-on-search-engines)
-- [Tips on Elasticsearch](tips-on-elasticsearch)
 - [Shodan - Search Engine for IoT](shodan-search-engine-for-iot)
+- [Tips on Elasticsearch](tips-on-elasticsearch)
 ```
 
 ## WebAssembly
@@ -9004,7 +8931,7 @@ site:
 - [Hands on the Python module dask](hands-on-the-python-module-dask)
 ```
 
-## virtual machine | Virtual Machine
+## virtual machine
 ```{dropdown} Click to expand/collapse 4 links
 - [Format a Flash Drive in a Linux Virtual Machine](format-a-flash-drive-in-a-linux-virtual-machine)
 - [Tips on crosvm](tips-on-crosvm)
@@ -9052,12 +8979,12 @@ site:
 - [Install the Latest Version of Python in Ubuntu](install-the-latest-version-of-python-in-ubuntu)
 ```
 
-## protocol buffer | Protocol Buffer
+## Protocol Buffer
 ```{dropdown} Click to expand/collapse 4 links
 - [Tips on gRPC](tips-on-grpc)
+- [Binary Serialization Format](binary-serialization-format)
 - [Tips on Protobuf](tips-on-protobuf)
 - [Rust Crates for RPC](rust-crates-for-rpc)
-- [Binary Serialization Format](binary-serialization-format)
 ```
 
 ## OOM
@@ -9076,12 +9003,12 @@ site:
 - [Manage Docker Images and Containers](manage-docker-images-and-containers)
 ```
 
-## Mojo | mojo
+## Mojo
 ```{dropdown} Click to expand/collapse 4 links
 - [Tips on the Mojo Programming Language](tips-on-the-mojo-programming-language)
-- [AI-first Programming Languages](ai-first-programming-languages)
 - [String in Mojo](string-in-mojo)
 - [IO in Mojo](io-in-mojo)
+- [AI-first Programming Languages](ai-first-programming-languages)
 ```
 
 ## Microsoft
@@ -9196,7 +9123,7 @@ site:
 - [Print Rows from a Text File](print-rows-from-a-text-file)
 ```
 
-## hadoop | Hadoop
+## Hadoop
 ```{dropdown} Click to expand/collapse 4 links
 - [Hive SQL](hive-sql)
 - [Hadoop Filesystem Tips](hadoop-filesystem-tips)
@@ -9220,7 +9147,7 @@ site:
 - [Fix Package Installation Issue in Linux](fix-package-installation-issue-in-linux)
 ```
 
-## gradle | Gradle
+## Gradle
 ```{dropdown} Click to expand/collapse 4 links
 - [General Tips for Gradle](general-tips-for-gradle)
 - [Quickly Create a Scala Project Using Gradle in Intellij IDEA](quickly-create-a-scala-project-using-gradle-in-intellij-idea)
@@ -9250,13 +9177,6 @@ site:
 - [Deploy Apache Ray](deploy-apache-ray)
 - [Tips on Apache Ray](tips-on-apache-ray)
 - [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
-```
-
-## GroupBy | groupby
-```{dropdown} Click to expand/collapse 3 links
-- [Hands on GroupBy of Polars DataFrame in Python](hands-on-groupby-of-polars-dataframe-in-python)
-- [Aggregation in pandas DataFrame](aggregation-in-pandas-dataframe)
-- [Group-by Plots in HoloViews](group-by-plots-in-holoviews)
 ```
 
 ## server
@@ -9315,11 +9235,11 @@ site:
 - [Generate Static Site Using Pelican](generate-static-site-using-pelican)
 ```
 
-## graphics | Graphics
+## graphics
 ```{dropdown} Click to expand/collapse 3 links
 - [Useful Packages and Commands for LaTex](useful-packages-and-commands-for-latex)
-- [Graphics in LaTeX](graphics-in-latex)
 - [Convert PDF to EPS](convert-pdf-to-eps)
+- [Graphics in LaTeX](graphics-in-latex)
 ```
 
 ## SSD
@@ -9364,7 +9284,7 @@ site:
 - [Shell in Docker](shell-in-docker)
 ```
 
-## torchvision | TorchVision
+## TorchVision
 ```{dropdown} Click to expand/collapse 3 links
 - [Tips on Torchvision](tips-on-torchvision)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
@@ -9518,6 +9438,13 @@ site:
 - [Tips on Selenium](tips-on-selenium)
 ```
 
+## Home Depot
+```{dropdown} Click to expand/collapse 3 links
+- [Shopping Smartly](shopping-smartly)
+- [Tips on DIY](tips-on-diy)
+- [Shopping At Homedepot](shopping-at-homedepot)
+```
+
 ## credit card
 ```{dropdown} Click to expand/collapse 3 links
 - [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
@@ -9560,7 +9487,7 @@ site:
 - [Tips on AutoGluon](tips-on-autogluon)
 ```
 
-## Project Management | project management
+## project management
 ```{dropdown} Click to expand/collapse 3 links
 - [Managing Projects Using ProjectLibre](managing-projects-using-projectlibre)
 - [Tips on Project Management](tips-on-project-management)
@@ -9616,7 +9543,7 @@ site:
 - [Workflow Managing Tools](workflow-managing-tools)
 ```
 
-## Pickle | pickle
+## Pickle
 ```{dropdown} Click to expand/collapse 3 links
 - [Spark Issue: _Pickle.Picklingerror: Args[0] from __Newobj__ Args Has the Wrong Class](spark-issue-_pickle.picklingerror-args-0-from-__newobj__-args-has-the-wrong-class)
 - [Serialization and deserialization in Python](serialization-and-deserialization-in-python)
@@ -9658,11 +9585,11 @@ site:
 - [The Label Widget in Tkinter](the-label-widget-in-tkinter)
 ```
 
-## dask | Dask
+## Dask
 ```{dropdown} Click to expand/collapse 3 links
 - [Query Pandas Data Frames Using SQL](query-pandas-data-frames-using-sql)
-- [Hands on the Python module dask](hands-on-the-python-module-dask)
 - [DataFrame Implementations in Python](dataframe-implementations-in-python)
+- [Hands on the Python module dask](hands-on-the-python-module-dask)
 ```
 
 ## inner join
@@ -9672,7 +9599,7 @@ site:
 - [Inner Join of Spark DataFrames](inner-join-of-spark-dataframes)
 ```
 
-## None | none
+## None
 ```{dropdown} Click to expand/collapse 3 links
 - [Null Values in Inner Join of Spark Dataframes](null-values-in-inner-join-of-spark-dataframes)
 - [Handling Complicated Data Types in Python and PySpark](handling-complicated-data-types-in-python-and-pyspark)
@@ -9728,13 +9655,6 @@ site:
 - [Handling Timezone Correctly in Python](handling-timezone-correctly-in-python)
 ```
 
-## fs | FS
-```{dropdown} Click to expand/collapse 3 links
-- [IO in Rust](io-in-rust)
-- [Useful Rust Crates for Filesystem](useful-rust-crates-for-filesystem)
-- [Spark Issue: IllegalArgumentException: Wrong FS](spark-issue-illegalargumentexception-wrong-fs)
-```
-
 ## tuning
 ```{dropdown} Click to expand/collapse 3 links
 - [Tips on Optuna](tips-on-optuna)
@@ -9763,7 +9683,7 @@ site:
 - [Query and Monitor OS Information using osquery](query-and-monitor-os-information-using-osquery)
 ```
 
-## trait | Trait
+## trait
 ```{dropdown} Click to expand/collapse 3 links
 - [Trait in Rust](trait-in-rust)
 - [Sealed Trait in Rust](sealed-trait-in-rust)
@@ -9826,7 +9746,7 @@ site:
 - [Add Method to a Python Class](add-method-to-a-python-class)
 ```
 
-## LeetCode | leetcode
+## LeetCode
 ```{dropdown} Click to expand/collapse 3 links
 - [Count Ones in the Binary Represeantion of Integers](count-ones-in-the-binary-represeantion-of-integers)
 - [Online Practices for SQL](online-practices-for-sql)
@@ -9840,13 +9760,6 @@ site:
 - [Memory in JVM](memory-in-jvm)
 ```
 
-## top
-```{dropdown} Click to expand/collapse 3 links
-- [Get Location of Max Value in a Pandas Series](get-location-of-max-value-in-a-pandas-series)
-- [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
-- [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
-```
-
 ## head
 ```{dropdown} Click to expand/collapse 3 links
 - [Get Location of Max Value in a Pandas Series](get-location-of-max-value-in-a-pandas-series)
@@ -9854,18 +9767,18 @@ site:
 - [Print Rows from a Text File](print-rows-from-a-text-file)
 ```
 
-## include | include!
-```{dropdown} Click to expand/collapse 3 links
-- [include! Is a Macro with Dark Power](include-is-a-macro-with-dark-power)
-- [Rust Error "error: expected item, found 'let'"](rust-error-error-expected-item-found-let)
-- [include! Is a Macro with Dark Power](include-is-a-macro-with-dark-power)
-```
-
 ## Amazon
 ```{dropdown} Click to expand/collapse 3 links
 - [Amazon AWS EC2 Instances](amazon-aws-ec2-instances)
 - [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
 - [Shopping on Amazon](shopping-on-amazon)
+```
+
+## shuffle
+```{dropdown} Click to expand/collapse 3 links
+- [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
+- [Spark Issue: Timeout When Communicate With Driver During Shuffle Caused by Driver OOM](spark-issue-timeout-when-communicate-with-driver-during-shuffle-caused-by-driver-oom)
+- [Sample Lines from a File Using Command Line](sample-lines-from-a-file-using-command-line)
 ```
 
 ## voice
@@ -9896,7 +9809,7 @@ site:
 - [Text-based Flowchart and UML Tools](text-based-flowchart-and-uml-tools)
 ```
 
-## Ads | ads
+## ads
 ```{dropdown} Click to expand/collapse 3 links
 - [Tips on Google Ads](tips-on-google-ads)
 - [Ads Platforms](ads-platforms)
@@ -9910,14 +9823,14 @@ site:
 - [Blogging Platforms](blogging-platforms)
 ```
 
-## Sphinx | sphinx
+## Sphinx
 ```{dropdown} Click to expand/collapse 3 links
 - [Write Documentation for Python Packages Using Sphinx](write-documentation-for-python-packages-using-sphinx)
-- [Static Site Generators](static-site-generators)
 - [Documentation Generating Tool for Python](documentation-generating-tool-for-python)
+- [Static Site Generators](static-site-generators)
 ```
 
-## PEX | pex
+## PEX
 ```{dropdown} Click to expand/collapse 3 links
 - [Tools for Packaging Python Executables](tools-for-packaging-python-executables)
 - [Packaging Python Dependencies for PySpark Using Pex](packaging-python-dependencies-for-pyspark-using-pex)
@@ -9952,7 +9865,7 @@ site:
 - [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
 ```
 
-## TinyProxy | tinyproxy
+## tinyproxy
 ```{dropdown} Click to expand/collapse 3 links
 - [Tips on TinyProxy](tips-on-tinyproxy)
 - [Good Choices of Reverse Proxies](good-choices-of-reverse-proxies)
@@ -9966,7 +9879,7 @@ site:
 - [Configure Static IP Using XFinity Router](configure-static-ip-using-xfinity-router)
 ```
 
-## flask | Flask
+## Flask
 ```{dropdown} Click to expand/collapse 3 links
 - [Tips on Backend Development](tips-on-backend-development)
 - [Tips on Python Flask](tips-on-python-flask)
@@ -9980,7 +9893,7 @@ site:
 - [Understand System.identityHashCode in Java](understand-system.identityhashcode-in-java)
 ```
 
-## redis | Redis
+## Redis
 ```{dropdown} Click to expand/collapse 3 links
 - [Distributed Programming in Python](distributed-programming-in-python)
 - [Messsage Queue Implementations](messsage-queue-implementations)
@@ -10022,7 +9935,7 @@ site:
 - [Make Linux Run Faster](make-linux-run-faster)
 ```
 
-## CI | ci
+## CI
 ```{dropdown} Click to expand/collapse 3 links
 - [CI/CD Tools and Frameworks](ci-cd-tools-and-frameworks)
 - [Tips on GitHub](tips-on-github)
@@ -10106,7 +10019,7 @@ site:
 - [Immutable String vs Mutable String](immutable-string-vs-mutable-string)
 ```
 
-## Apache Arrow | apache arrow
+## Apache Arrow
 ```{dropdown} Click to expand/collapse 3 links
 - [Read and Write Parquet Files in Rust](read-and-write-parquet-files-in-rust)
 - [Tips on Apache Arrow Flight SQL](tips-on-apache-arrow-flight-sql)
@@ -10183,11 +10096,11 @@ site:
 - [Cool Mobile Apps](cool-mobile-apps)
 ```
 
-## Outlook | outlook
+## Outlook
 ```{dropdown} Click to expand/collapse 3 links
 - [Tips on Microsoft Graph APIs](tips-on-microsoft-graph-apis)
-- [Create a Distribution List in Outlook](create-a-distribution-list-in-outlook)
 - [Tips on Outlook](tips-on-outlook)
+- [Create a Distribution List in Outlook](create-a-distribution-list-in-outlook)
 ```
 
 ## Nix
@@ -10253,7 +10166,7 @@ site:
 - [Resolve the DNS Contamination Issue in Firefox](resolve-the-dns-contamination-issue-in-firefox)
 ```
 
-## verizon | Verizon
+## Verizon
 ```{dropdown} Click to expand/collapse 3 links
 - [Automated Verizon Phone Bill (Continued)](automated-verizon-phone-bill-continued)
 - [Automated Phone Bill Using Ruby Program](automated-phone-bill-using-ruby-program)
@@ -10267,14 +10180,14 @@ site:
 - [Automated Phone Bill Using Ruby Program](automated-phone-bill-using-ruby-program)
 ```
 
-## Wine | WINE
+## WINE
 ```{dropdown} Click to expand/collapse 3 links
 - [Windows Emulation on Linux](windows-emulation-on-linux)
 - [Windows Emulation Using WINE](windows-emulation-using-wine)
 - [OneDrive in Linux](onedrive-in-linux)
 ```
 
-## Pinyin | pinyin
+## Pinyin
 ```{dropdown} Click to expand/collapse 3 links
 - [Chinese Input Methods](chinese-input-methods)
 - [Configure Fcitx5 for KDE Plasma](configure-fcitx5-for-kde-plasma)
@@ -10351,7 +10264,7 @@ site:
 - [String in Rust](string-in-rust)
 ```
 
-## Source | source
+## source
 ```{dropdown} Click to expand/collapse 3 links
 - [The Source Class in Scala IO](the-source-class-in-scala-io)
 - [Food](food)
@@ -10449,7 +10362,7 @@ site:
 - [Tips on Self Defense Firearms](tips-on-self-defense-firearms)
 ```
 
-## escape | Escape
+## Escape
 ```{dropdown} Click to expand/collapse 3 links
 - [The Escape Key in Vim](the-escape-key-in-vim)
 - [Map Keys in Linux](map-keys-in-linux)
@@ -10484,7 +10397,7 @@ site:
 - [Install sbt on CentOS](install-sbt-on-centos)
 ```
 
-## PyQT5 | PyQt5
+## PyQt5
 ```{dropdown} Click to expand/collapse 3 links
 - [Use Qt in Python](use-qt-in-python)
 - [Tips on PyQt5](tips-on-pyqt5)
@@ -10519,11 +10432,11 @@ site:
 - [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
 ```
 
-## Tex Live | TeX Live
+## TeX Live
 ```{dropdown} Click to expand/collapse 3 links
 - [Fonts for Linux](fonts-for-linux)
-- [LaTeX for Chinese](latex-for-chinese)
 - [Use LaTeX in Linux](use-latex-in-linux)
+- [LaTeX for Chinese](latex-for-chinese)
 ```
 
 ## distributed computing
@@ -10538,6 +10451,24 @@ site:
 - [Use XGBoost With Spark](use-xgboost-with-spark)
 - [Tips on XGBoost](tips-on-xgboost)
 - [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
+```
+
+## cloud9
+```{dropdown} Click to expand/collapse 2 links
+- [Cloud IDE](cloud-ide)
+- [Tips on Cloud9](tips-on-cloud9)
+```
+
+## Eclipse Che
+```{dropdown} Click to expand/collapse 2 links
+- [Cloud IDE](cloud-ide)
+- [Tips on Eclipse Che](tips-on-eclipse-che)
+```
+
+## resize
+```{dropdown} Click to expand/collapse 2 links
+- [Resizing Hard Disk of Guest Machine in Virtualbox](resizing-hard-disk-of-guest-machine-in-virtualbox)
+- [Resize a Tensor in PyTorch](resize-a-tensor-in-pytorch)
 ```
 
 ## sorting
@@ -10564,7 +10495,7 @@ site:
 - [TeXstudio, Bravo!](texstudio-bravo)
 ```
 
-## TexStudio | TeXstudio
+## TeXstudio
 ```{dropdown} Click to expand/collapse 2 links
 - [IDEs for LaTeX](ides-for-latex)
 - [TeXstudio, Bravo!](texstudio-bravo)
@@ -10576,7 +10507,7 @@ site:
 - [Common Errors in Bibliographies](common-errors-in-bibliographies)
 ```
 
-## dulwich | Dulwich
+## Dulwich
 ```{dropdown} Click to expand/collapse 2 links
 - [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
 - [Git Implementations and Bindings in Python](git-implementations-and-bindings-in-python)
@@ -10696,7 +10627,7 @@ site:
 - [Check Whether a Shell Command Exists](check-whether-a-shell-command-exists)
 ```
 
-## tmp | TMP
+## tmp
 ```{dropdown} Click to expand/collapse 2 links
 - [Create Temp Files and Directories in Golang](create-temp-files-and-directories-in-golang)
 - [Template Meta Programming](template-meta-programming)
@@ -10834,7 +10765,7 @@ site:
 - [中国的公共交通服务](public-transportation-china)
 ```
 
-## bus | Bus
+## bus
 ```{dropdown} Click to expand/collapse 2 links
 - [Living in Shanghai](living-in-shanghai)
 - [PCIe BUS Error: Severity=Corrected, Type=Physical Layer](pcie-bus-error-severity-corrected-type-physical-layer)
@@ -10844,12 +10775,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Shopping on Costco](shopping-on-costco)
 - [Shopping Smartly](shopping-smartly)
-```
-
-## Homedepot | HomeDepot
-```{dropdown} Click to expand/collapse 2 links
-- [Shopping Smartly](shopping-smartly)
-- [Shopping At Homedepot](shopping-at-homedepot)
 ```
 
 ## erase
@@ -10948,18 +10873,6 @@ site:
 - [Playbook on Road Accident](playbook-on-road-accident)
 ```
 
-## Cloud9 | cloud9
-```{dropdown} Click to expand/collapse 2 links
-- [Cloud IDE](cloud-ide)
-- [Tips on Cloud9](tips-on-cloud9)
-```
-
-## Eclipse Che
-```{dropdown} Click to expand/collapse 2 links
-- [Cloud IDE](cloud-ide)
-- [Tips on Eclipse Che](tips-on-eclipse-che)
-```
-
 ## AutoGluon
 ```{dropdown} Click to expand/collapse 2 links
 - [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
@@ -10984,7 +10897,7 @@ site:
 - [Tips on sshuttle](tips-on-sshuttle)
 ```
 
-## minikube | Minikube
+## minikube
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Kubernetes](tips-on-kubernetes)
 - [Tips on Minikube](tips-on-minikube)
@@ -11038,7 +10951,7 @@ site:
 - [Password Management](password-management)
 ```
 
-## Notes | notes
+## notes
 ```{dropdown} Click to expand/collapse 2 links
 - [Low Risk Investments](low-risk-investments)
 - [Tips on Basket in KDE](tips-on-basket-in-kde)
@@ -11072,12 +10985,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
 - [Schdule Jobs in Python](schdule-jobs-in-python)
-```
-
-## AirFlow | Airflow
-```{dropdown} Click to expand/collapse 2 links
-- [Schedule Task Using Cron in Linux](schedule-task-using-cron-in-linux)
-- [Tips on Prefect](tips-on-prefect)
 ```
 
 ## stable
@@ -11188,7 +11095,7 @@ site:
 - [Commonly Used File Formats for Configuration](commonly-used-file-formats-for-configuration)
 ```
 
-## Vaex | vaex
+## Vaex
 ```{dropdown} Click to expand/collapse 2 links
 - [DataFrame Implementations in Python](dataframe-implementations-in-python)
 - [Tips on Vaex](tips-on-vaex)
@@ -11266,7 +11173,7 @@ site:
 - [Hands on pathlib.Path](hands-on-pathlib.path)
 ```
 
-## Clone | clone
+## clone
 ```{dropdown} Click to expand/collapse 2 links
 - [Trait in Rust](trait-in-rust)
 - [Resize a Tensor in PyTorch](resize-a-tensor-in-pytorch)
@@ -11320,7 +11227,7 @@ site:
 - [Working with Iterators in Python](working-with-iterators-in-python)
 ```
 
-## Box | box
+## box
 ```{dropdown} Click to expand/collapse 2 links
 - [Hands on Box in Rust](hands-on-box-in-rust)
 - [How Many Empty Boxes?](how-many-empty-boxes)
@@ -11428,7 +11335,7 @@ site:
 - [GitHub API](github-api)
 ```
 
-## Sync | sync
+## sync
 ```{dropdown} Click to expand/collapse 2 links
 - [Send and Sync in Rust](send-and-sync-in-rust)
 - [Synchronize Files Using Dropbox](synchronize-files-using-dropbox)
@@ -11452,10 +11359,22 @@ site:
 - [Memory Layout in Rust](memory-layout-in-rust)
 ```
 
-## entry | Entry
+## entry
 ```{dropdown} Click to expand/collapse 2 links
 - [Directly Initialize a Hashmap in Java](directly-initialize-a-hashmap-in-java)
 - [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
+```
+
+## top
+```{dropdown} Click to expand/collapse 2 links
+- [Get Location of Max Value in a Pandas Series](get-location-of-max-value-in-a-pandas-series)
+- [Sort top by CPU or Memory Usage](sort-top-by-cpu-or-memory-usage)
+```
+
+## include
+```{dropdown} Click to expand/collapse 2 links
+- [include! Is a Macro with Dark Power](include-is-a-macro-with-dark-power)
+- [Rust Error "error: expected item, found 'let'"](rust-error-error-expected-item-found-let)
 ```
 
 ## AWS
@@ -11524,12 +11443,6 @@ site:
 - [Text-based Flowchart and UML Tools](text-based-flowchart-and-uml-tools)
 ```
 
-## data skew
-```{dropdown} Click to expand/collapse 2 links
-- [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
-- [Spark Issue: Data Skew on Shuffle Phase](spark-issue-data-skew-on-shuffle-phase)
-```
-
 ## OpenInTerminal
 ```{dropdown} Click to expand/collapse 2 links
 - [Quickly Open a Directory in Terminal in Mac](quickly-open-a-directory-in-terminal-in-mac)
@@ -11560,7 +11473,7 @@ site:
 - [Understand Opensource Licenses](understand-opensource-licenses)
 ```
 
-## JPype | jpype
+## JPype
 ```{dropdown} Click to expand/collapse 2 links
 - [Call Java Code Using JPype from Python](call-java-code-using-jpype-from-python)
 - [Java Interfaces for Python](java-interfaces-for-python)
@@ -11638,7 +11551,7 @@ site:
 - [Configure Static IP Using XFinity Router](configure-static-ip-using-xfinity-router)
 ```
 
-## ENV | env
+## ENV
 ```{dropdown} Click to expand/collapse 2 links
 - [Shell in Docker](shell-in-docker)
 - [Environment Variables and Secure Path for sudo](environment-variables-and-secure-path-for-sudo)
@@ -11656,7 +11569,7 @@ site:
 - [Tips on Darglint](tips-on-darglint)
 ```
 
-## PyInstaller | pyinstaller
+## PyInstaller
 ```{dropdown} Click to expand/collapse 2 links
 - [Tools for Packaging Python Executables](tools-for-packaging-python-executables)
 - [Python Packaging Tools](python-packaging-tools)
@@ -11692,7 +11605,7 @@ site:
 - [Models for Computer Vision](models-for-computer-vision)
 ```
 
-## Gatsby | gatsby
+## Gatsby
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Gatsby](tips-on-gatsby)
 - [Static Site Generators](static-site-generators)
@@ -11702,12 +11615,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Structure of Python Packages](structure-of-python-packages)
 - [Make a Rust Project Both a Library and a Binary](make-a-rust-project-both-a-library-and-a-binary)
-```
-
-## docusaurus
-```{dropdown} Click to expand/collapse 2 links
-- [Static Site Generators](static-site-generators)
-- [Static Site Generators](static-site-generators)
 ```
 
 ## pandoc
@@ -11776,7 +11683,7 @@ site:
 - [Good Choices of Reverse Proxies](good-choices-of-reverse-proxies)
 ```
 
-## django | Django
+## Django
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Backend Development](tips-on-backend-development)
 - [Tips on Django](tips-on-django)
@@ -11902,7 +11809,7 @@ site:
 - [Tips on Rust](tips-on-rust)
 ```
 
-## home assistant | Home Assistant
+## home assistant
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Home Assistant](tips-on-home-assistant)
 - [Python for IOT](python-for-iot)
@@ -11962,7 +11869,7 @@ site:
 - [Tips on WezTerm](tips-on-wezterm)
 ```
 
-## cell | Cell
+## cell
 ```{dropdown} Click to expand/collapse 2 links
 - [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
 - [Cell and RefCell in Rust](cell-and-refcell-in-rust)
@@ -11972,12 +11879,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Take Screenshot in Rust](take-screenshot-in-rust)
 - [Package Capture on Phones](package-capture-on-phones)
-```
-
-## TiDB
-```{dropdown} Click to expand/collapse 2 links
-- [Popular Databases](popular-databases)
-- [Popular Databases](popular-databases)
 ```
 
 ## mkfs
@@ -11998,7 +11899,7 @@ site:
 - [General Tips for Docker](general-tips-for-docker)
 ```
 
-## grub | GRUB
+## GRUB
 ```{dropdown} Click to expand/collapse 2 links
 - [Dual Boot Linux and Windows](dual-boot-linux-and-windows)
 - [Reduce GRUB Timeout](reduce-grub-timeout)
@@ -12034,7 +11935,7 @@ site:
 - [Benchmark Your Linux Machine Using phoronix-test-suite](benchmark-your-linux-machine-using-phoronix-test-suite)
 ```
 
-## zellij | Zellij
+## Zellij
 ```{dropdown} Click to expand/collapse 2 links
 - [Zellij Is the Best Terminal Multiplexer](zellij-is-the-best-terminal-multiplexer)
 - [Terminal Multiplexers](terminal-multiplexers)
@@ -12046,19 +11947,19 @@ site:
 - [Foreign Language Integration in Rust](foreign-language-integration-in-rust)
 ```
 
-## FFI | ffi
+## FFI
 ```{dropdown} Click to expand/collapse 2 links
 - [Rust ABI](rust-abi)
 - [Foreign Language Integration in Rust](foreign-language-integration-in-rust)
 ```
 
-## FlameGraph | flamegraph
+## FlameGraph
 ```{dropdown} Click to expand/collapse 2 links
 - [Profile Rust Applications](profile-rust-applications)
 - [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
 ```
 
-## ByteHound | Bytehound
+## Bytehound
 ```{dropdown} Click to expand/collapse 2 links
 - [Profile Rust Applications](profile-rust-applications)
 - [Tips on Bytehound](tips-on-bytehound)
@@ -12076,7 +11977,7 @@ site:
 - [Vim as a Universal Editor](vim-as-a-universal-editor)
 ```
 
-## KCacheGrind | kcachegrind
+## KCacheGrind | KCachegrind
 ```{dropdown} Click to expand/collapse 2 links
 - [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
 - [Profile C++ Code](profile-c++-code)
@@ -12142,7 +12043,7 @@ site:
 - [No BLAS or LAPACK Found When Installing Scipy](no-blas-or-lapack-found-when-installing-scipy)
 ```
 
-## LUA | Lua
+## Lua
 ```{dropdown} Click to expand/collapse 2 links
 - [Lua Bindings for Rust](lua-bindings-for-rust)
 - [Embeddable Scriting Language](embeddable-scriting-language)
@@ -12238,7 +12139,7 @@ site:
 - [Load Images into Pillow](load-images-into-pillow)
 ```
 
-## Clippy | clippy
+## Clippy
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Rust Clippy](tips-on-rust-clippy)
 - [Speed Up Rust Compile Time](speed-up-rust-compile-time)
@@ -12280,7 +12181,7 @@ site:
 - [Make Linux Run Faster](make-linux-run-faster)
 ```
 
-## Graphviz | GraphViz
+## Graphviz
 ```{dropdown} Click to expand/collapse 2 links
 - [Inline Dot Graph in Docs](inline-dot-graph-in-docs)
 - [Tips on visualize-sqlite](tips-on-visualize-sqlite)
@@ -12334,7 +12235,7 @@ site:
 - [Foreign Currency Investment](foreign-currency-investment)
 ```
 
-## gcc | GCC
+## GCC
 ```{dropdown} Click to expand/collapse 2 links
 - [Foreign Language Integration in Rust](foreign-language-integration-in-rust)
 - [Tips on C++ Compilers](tips-on-c++-compilers)
@@ -12346,7 +12247,7 @@ site:
 - [Numeric Algorithms](numeric-algorithms)
 ```
 
-## out of memory | out-of-memory
+## out-of-memory
 ```{dropdown} Click to expand/collapse 2 links
 - [OOM in Rust](oom-in-rust)
 - [The Non-Zero Exit Code 137 While Building a Docker Image](the-non-zero-exit-code-137-while-building-a-docker-image)
@@ -12592,7 +12493,7 @@ site:
 - [Tips on GPG](tips-on-gpg)
 ```
 
-## gpg | GPG
+## GPG
 ```{dropdown} Click to expand/collapse 2 links
 - [Age Is a Modern Alternative to GnuPG](age-is-a-modern-alternative-to-gnupg)
 - [Tips on GPG](tips-on-gpg)
@@ -12658,7 +12559,7 @@ site:
 - [Downloading Tools](downloading-tools)
 ```
 
-## playwright | PlayWright
+## PlayWright
 ```{dropdown} Click to expand/collapse 2 links
 - [Web Automation](web-automation)
 - [Web Automation and Testing Using PlayWright](web-automation-and-testing-using-playwright)
@@ -12700,7 +12601,7 @@ site:
 - [Install Java 8 on Ubuntu 14.04](install-java-8-on-ubuntu-14.04)
 ```
 
-## Stream | stream
+## stream
 ```{dropdown} Click to expand/collapse 2 links
 - [Hands on the Stream Object in Java 8](hands-on-the-stream-object-in-java-8)
 - [The Source Class in Scala IO](the-source-class-in-scala-io)
@@ -12748,7 +12649,7 @@ site:
 - [Aggregate DataFrames in Spark](aggregate-dataframes-in-spark)
 ```
 
-## Jedi | jedi
+## Jedi
 ```{dropdown} Click to expand/collapse 2 links
 - [Use Jedi for Autocompletion in Python](use-jedi-for-autocompletion-in-python)
 - [Disable Jedi in IPython](disable-jedi-in-ipython)
@@ -12790,16 +12691,10 @@ site:
 - [Enumeration in Java](enumeration-in-java)
 ```
 
-## vec | Vec
+## Vec
 ```{dropdown} Click to expand/collapse 2 links
 - [Vector in Rust](vector-in-rust)
 - [Array in Rust](array-in-rust)
-```
-
-## resize
-```{dropdown} Click to expand/collapse 2 links
-- [Resize a Tensor in PyTorch](resize-a-tensor-in-pytorch)
-- [Resizing Hard Disk of Guest Machine in Virtualbox](resizing-hard-disk-of-guest-machine-in-virtualbox)
 ```
 
 ## replace
@@ -12874,7 +12769,7 @@ site:
 - [Concurrency and Parallel Computing in Python](concurrency-and-parallel-computing-in-python)
 ```
 
-## gsl | GSL
+## GSL
 ```{dropdown} Click to expand/collapse 2 links
 - [Good C++ Libraries](good-c++-libraries)
 - [Install the GSL Library](install-the-gsl-library)
@@ -12934,7 +12829,7 @@ site:
 - [SQL Logic Visualization](sql-logic-visualization)
 ```
 
-## queryscope | queryScope
+## QueryScope
 ```{dropdown} Click to expand/collapse 2 links
 - [General Tips on SQL](general-tips-on-sql)
 - [SQL Logic Visualization](sql-logic-visualization)
@@ -12952,7 +12847,7 @@ site:
 - [Living in Charlotte](living-in-charlotte)
 ```
 
-## NFS | nfs
+## NFS
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on NFS](tips-on-nfs)
 - [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
@@ -12982,7 +12877,7 @@ site:
 - [Auto Typing Tools](auto-typing-tools)
 ```
 
-## teamdrive | TeamDrive
+## TeamDrive
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on TeamDrive](tips-on-teamdrive)
 - [Synchronization and Backup Solutions](synchronization-and-backup-solutions)
@@ -13054,7 +12949,7 @@ site:
 - [Configure Debian Apt Source List](configure-debian-apt-source-list)
 ```
 
-## QT | Qt
+## Qt
 ```{dropdown} Click to expand/collapse 2 links
 - [Use Qt in Python](use-qt-in-python)
 - [Python for Desktop Applications](python-for-desktop-applications)
@@ -13108,12 +13003,6 @@ site:
 - [English Names](english-names)
 ```
 
-## Apache AirFlow | Apache Airflow
-```{dropdown} Click to expand/collapse 2 links
-- [Job Scheduling and Management Using Apache Airflow](job-scheduling-and-management-using-apache-airflow)
-- [Workflow Managing Tools](workflow-managing-tools)
-```
-
 ## scheduler
 ```{dropdown} Click to expand/collapse 2 links
 - [Job Scheduling and Management Using Apache Airflow](job-scheduling-and-management-using-apache-airflow)
@@ -13150,7 +13039,7 @@ site:
 - [Make Windows Restart Regularly](make-windows-restart-regularly)
 ```
 
-## TableSample | TABLESAMPLE
+## TABLESAMPLE
 ```{dropdown} Click to expand/collapse 2 links
 - [Use TableSample in SQL](use-tablesample-in-sql)
 - [Sample Rows from a Spark DataFrame](sample-rows-from-a-spark-dataframe)
@@ -13210,7 +13099,7 @@ site:
 - [Tips on Xonsh](tips-on-xonsh)
 ```
 
-## ExFAT | exFAT
+## exFAT
 ```{dropdown} Click to expand/collapse 2 links
 - [Mount NTFS Drive Manually on Mac](mount-ntfs-drive-manually-on-mac)
 - [Best Filesystem Format for Cross-platform Data Exchanging](best-filesystem-format-for-cross-platform-data-exchanging)
@@ -13222,7 +13111,7 @@ site:
 - [Tips on Biowind Register Fan](tips-on-biowind-register-fan)
 ```
 
-## eclipse | Eclipse
+## Eclipse
 ```{dropdown} Click to expand/collapse 2 links
 - [Make Eclipse Support C++11](make-eclipse-support-c++11)
 - [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
@@ -13408,7 +13297,7 @@ site:
 - [Get Resources in Java](get-resources-in-java)
 ```
 
-## Shortcut | shortcut
+## shortcut
 ```{dropdown} Click to expand/collapse 2 links
 - [Software for Editing Videos](software-for-editing-videos)
 - [Useful Windows Shortcuts](useful-windows-shortcuts)
@@ -13438,13 +13327,13 @@ site:
 - [The GPT-2 Model in NLP](the-gpt-2-model-in-nlp)
 ```
 
-## transformer | Transformer
+## Transformer
 ```{dropdown} Click to expand/collapse 2 links
 - [The GPT-2 Model in NLP](the-gpt-2-model-in-nlp)
 - [The Bert Model in NLP](the-bert-model-in-nlp)
 ```
 
-## Switch | switch
+## switch
 ```{dropdown} Click to expand/collapse 2 links
 - [Activation Functions in Neural Network](activation-functions-in-neural-network)
 - [Java Features](java-features)
@@ -13468,7 +13357,7 @@ site:
 - [Equality by Reference and Value in Python](equality-by-reference-and-value-in-python)
 ```
 
-## Vocabulary | vocabulary
+## vocabulary
 ```{dropdown} Click to expand/collapse 2 links
 - [English Learning](english-learning)
 - [English Vocabulary](english-vocabulary)

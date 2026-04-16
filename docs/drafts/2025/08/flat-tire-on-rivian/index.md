@@ -1,14 +1,14 @@
 ---
-title: "Flat Tire on Rivian"
+title: Flat Tire on Rivian
 created: 2025-08-02 23:36:54
-date: 2025-08-10 08:46:31
+date: 2026-04-15 19:27:00.561669
 authors:
   - bendu
 label: flat-tire-on-rivian
 license: CC-BY-4.0
 tags:
   - life
-  - Vehicle
+  - vehicle
   - Rivian
   - tire
   - flat
@@ -17,25 +17,23 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
-
 ## General Tips on Flat Tire
 
 1. Rivian provides a tire sealant kit when you purchase or lease a Rivian vehicle.
-    You can order additional ones from
-    [Rivian Gear Shop](https://gearshop.rivian.com/products/tire-sealant-kit)
-    or from Amazon (which might be much cheaper)
-    .
+   You can order additional ones from
+   [Rivian Gear Shop](https://gearshop.rivian.com/products/tire-sealant-kit)
+   or from Amazon (which might be much cheaper)
+   .
 
-2. Rivian has a built-in 
-    [air compressor](https://www.youtube.com/watch?v=zyn5lRaPefI)
-    which makes it easy to inflate tires.
+1. Rivian has a built-in
+   [air compressor](https://www.youtube.com/watch?v=zyn5lRaPefI)
+   which makes it easy to inflate tires.
 
-3. A Rivian vehicle doesn't come with 
-    [a spare tire](https://www.youtube.com/watch?v=Lru08rr5WPM)
-    by default.
-    However,
-    you can purchase one from the gear shop.
+1. A Rivian vehicle doesn't come with
+   [a spare tire](https://www.youtube.com/watch?v=Lru08rr5WPM)
+   by default.
+   However,
+   you can purchase one from the gear shop.
 
 ## Tire Rotation
 
@@ -43,14 +41,14 @@ tags:
 
 - [Rivian R1S tire rotation with only one floor jack and two jack stands](https://www.youtube.com/watch?v=nuYWCOJZYBg)
 
-## Tire Installation 
+## Tire Installation
 
-The Rivian R1S lug nut torque specification is 140 foot-pounds (ft-lbs) or 190 Newton-meters (Nm), 
-according to Rivian's tire service guide. 
-It's crucial to use a calibrated torque wrench to ensure proper tightening and prevent damage to the wheel or studs. 
-Always tighten the lug nuts in a star pattern to distribute the clamping force evenly. 
+The Rivian R1S lug nut torque specification is 140 foot-pounds (ft-lbs) or 190 Newton-meters (Nm),
+according to Rivian's tire service guide.
+It's crucial to use a calibrated torque wrench to ensure proper tightening and prevent damage to the wheel or studs.
+Always tighten the lug nuts in a star pattern to distribute the clamping force evenly.
 
-Lug nuts are M14*1.5 which requires a 3/4 inch socket.
+Lug nuts are M14\*1.5 which requires a 3/4 inch socket.
 
 ## References
 

@@ -1,23 +1,27 @@
 ---
 title: Tips on Eclipse Che
 created: 2017-01-21 10:54:21
-date: 2026-04-05 19:42:38.120589
+date: 2026-04-15 19:27:01.375241
 authors:
-- bendu
+  - bendu
 label: tips-on-eclipse-che
 license: CC-BY-4.0
 tags:
-- software
-- cloud IDE
-- Eclipse Che
-- tips
+  - software
+  - Cloud
+  - IDE
+  - Eclipse Che
+  - tips
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 You can launch an Eclipse Che server using the command below.
+
 ```
 docker run -it -v /var/run/docker.sock:/var/run/docker.sock -v /workdir/che:/data eclipse/che start
 ```
+
 The launched Eclipse Che server can be visited at `server_ip:8080`,
 where `server_ip` is the ip of your server.
 Please refer to the [Quick Start](https://www.eclipse.org/che/docs/quick-start.html#docker) for more details.

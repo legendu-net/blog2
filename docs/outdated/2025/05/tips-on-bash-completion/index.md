@@ -1,7 +1,7 @@
 ---
 title: Tips on Bash Completion
 created: 2025-05-06 14:27:02
-date: 2026-04-13 23:15:29.577254
+date: 2026-04-15 19:27:01.978565
 authors:
   - bendu
 label: tips-on-bash-completion
@@ -10,7 +10,7 @@ tags:
   - computer science
   - programming
   - shell
-  - bash
+  - Bash
   - completion
   - complete
 ---

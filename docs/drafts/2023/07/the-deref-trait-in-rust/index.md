@@ -1,7 +1,7 @@
 ---
 title: The Deref Trait in Rust
 created: 2023-07-22 11:27:41
-date: 2026-04-13 23:14:28.197982
+date: 2026-04-15 19:27:00.658438
 authors:
   - bendu
 label: the-deref-trait-in-rust
@@ -10,7 +10,7 @@ tags:
   - computer science
   - programming
   - Rust
-  - Trait
+  - trait
   - Deref
   - smart pointer
 ---

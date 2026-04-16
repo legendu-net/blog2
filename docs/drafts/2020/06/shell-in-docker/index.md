@@ -1,7 +1,7 @@
 ---
 title: Shell in Docker
 created: 2020-06-21 10:46:43
-date: 2026-04-13 23:15:19.886745
+date: 2026-04-15 19:27:01.015223
 authors:
   - bendu
 label: shell-in-docker
@@ -11,7 +11,7 @@ tags:
   - Docker
   - shell
   - container
-  - bash
+  - Bash
   - RUN
   - ENV
   - environment variable

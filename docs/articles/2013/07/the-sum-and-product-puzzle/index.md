@@ -1,7 +1,7 @@
 ---
 title: The Sum and Product Puzzle
 created: 2013-07-04 23:47:19
-date: 2015-02-04 23:47:19
+date: 2026-04-15 19:27:00.278808
 authors:
   - bendu
 label: the-sum-and-product-puzzle
@@ -10,7 +10,7 @@ tags:
   - puzzle
   - Mathematica
   - math
-  - Work
+  - work
   - fun problems
   - sum
   - product

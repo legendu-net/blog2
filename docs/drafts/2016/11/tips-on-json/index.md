@@ -1,7 +1,7 @@
 ---
 title: Tips on JSON
 created: 2016-11-09 09:49:14
-date: 2026-04-13 23:15:28.149270
+date: 2026-04-15 19:27:01.383895
 authors:
   - bendu
 label: tips-on-json
@@ -14,7 +14,6 @@ tags:
   - serialization
   - deserialization
   - orjson
-  - json
   - database
   - Java
   - C++

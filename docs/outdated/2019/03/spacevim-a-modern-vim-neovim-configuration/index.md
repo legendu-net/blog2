@@ -1,7 +1,7 @@
 ---
 title: SpaceVim - A Modern Vim/NeoVim Configuration
 created: 2019-03-03 20:02:57
-date: 2026-04-11 22:10:45.564681
+date: 2026-04-15 19:27:02.001157
 authors:
   - bendu
 label: spacevim-a-modern-vim-neovim-configuration
@@ -10,7 +10,7 @@ tags:
   - software
   - SpaceVim
   - Vim
-  - NeoVim
+  - Neovim
   - configuration
   - tips
 ---

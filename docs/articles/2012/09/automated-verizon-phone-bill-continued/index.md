@@ -1,14 +1,14 @@
 ---
 title: Automated Verizon Phone Bill (Continued)
 created: 2012-09-05 00:00:00
-date: 2026-04-11 22:10:03.267751
+date: 2026-04-15 19:27:00.329535
 authors:
   - bendu
 label: automated-verizon-phone-bill-continued
 license: CC-BY-4.0
 tags:
   - phone
-  - verizon
+  - Verizon
   - Ruby
   - programming
 ---

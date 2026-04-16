@@ -1,7 +1,7 @@
 ---
 title: IO in Mojo
 created: 2023-09-09 22:11:44
-date: 2026-04-13 23:14:26.569464
+date: 2026-04-15 19:27:00.645643
 authors:
   - bendu
 label: io-in-mojo
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - computer science
   - programming
-  - mojo
+  - Mojo
   - AI
   - CSV
   - IO

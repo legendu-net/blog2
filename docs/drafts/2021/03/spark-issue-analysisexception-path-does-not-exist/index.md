@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: AnalysisException: Path Does Not Exist'
 created: 2021-03-24 15:02:09
-date: 2026-04-13 23:15:07.289199
+date: 2026-04-15 19:27:00.932209
 authors:
   - bendu
 label: spark-issue-analysisexception-path-does-not-exist
@@ -12,7 +12,6 @@ tags:
   - big data
   - Spark
   - issue
-  - Spark issue
   - AnalysisException
   - path does not exist
 ---

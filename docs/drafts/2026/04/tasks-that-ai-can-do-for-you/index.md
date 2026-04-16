@@ -1,7 +1,7 @@
 ---
 title: Tasks That AI Can Do for You
 created: 2026-04-08 18:25:17.389322
-date: 2026-04-09 10:34:50.578344
+date: 2026-04-15 19:27:00.520395
 authors:
   - bendu
 label: tasks-that-ai-can-do-for-you
@@ -13,8 +13,9 @@ tags:
   - tasks
   - ideas
   - Gemini
-  - App
+  - app
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## My Gemini Apps

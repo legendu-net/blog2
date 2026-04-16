@@ -1,7 +1,7 @@
 ---
-title: "My Docker Images"
+title: My Docker Images
 created: 2018-10-18 09:10:17
-date: 2025-05-27 12:02:53
+date: 2026-04-15 19:27:00.405166
 authors:
   - bendu
 label: my-docker-images
@@ -9,22 +9,21 @@ license: CC-BY-4.0
 tags:
   - software
   - Docker
-  - Docker image
+  - image
   - Ubuntu
   - JupyterLab
   - Lubuntu
   - dclong
 ---
 
-
 <h2 id="recommended-docker-images">Recommended Docker Images and Tags</h2>
 
-Most of my Docker images have different variants 
-(corresponding to tags `latest`, `next`, etc) 
+Most of my Docker images have different variants
+(corresponding to tags `latest`, `next`, etc)
 for different use cases.
-And each tag might have histocial versions 
-with the pattern `mmddhh` 
-(`mm`, `dd` and `hh` stand for the month, day and hour) 
+And each tag might have histocial versions
+with the pattern `mmddhh`
+(`mm`, `dd` and `hh` stand for the month, day and hour)
 for fallback if a tag is broken.
 Please refer to the following tag table for more details.
 
@@ -167,8 +166,10 @@ for instructions on how to install and configure Docker.
 Taking `dclong/jupyterhub-ds` as an example,
 you can pull it using the command below.
 
-    :::bash
-    docker pull dclong/jupyterhub-ds
+```
+:::bash
+docker pull dclong/jupyterhub-ds
+```
 
 For people in mainland of China,
 please refer to the post
@@ -177,13 +178,15 @@ on ways to speed up pushing/pulling of Docker images.
 If you don't bother,
 then just use the command below.
 
-    :::bash
-    docker pull registry.docker-cn.com/dclong/jupyterhub-ds
+```
+:::bash
+docker pull registry.docker-cn.com/dclong/jupyterhub-ds
+```
 
 ### Start a Container using `ldc`
 
 The recommended way to start containers for Docker images `dclong/*`
-is to use the `ldc` command which comes with 
+is to use the `ldc` command which comes with
 [icon](https://github.com/legendu-net/icon)
 .
 
@@ -194,90 +197,94 @@ Keep the default if you don't know what are the best to use.
 `DOCKER_PASSWORD` is probably the only one you want to and should change.
 
 - `DOCKER_USER`: The user to be created (dynamically) in the Docker container.
-    The shell command `id -un` gets the name of the current user (on the host),
-    so the option `-e DOCKER_USER=$(id -un)` instructs the script `/scripts/sys/init.sh`
-    to create a user in the Docker container whose name is the same as the current user on the host.
-    <font color="red">
-    WARNING: the shell script `/scripts/sys/init.sh` cannot create a user named `root` 
-    as it already exists in the Docker container.
-    If you start a Docker container using `root`, 
-    make sure to pass a different user name to the envrionment variable `DOCKER_USER`,
-    e.g., `-e DOCKER_USER=dclong`.
-    </font>
-    For more discussion, 
-    please refer to [this issue](https://github.com/dclong/docker-jupyterhub/issues/3).
+  The shell command `id -un` gets the name of the current user (on the host),
+  so the option `-e DOCKER_USER=$(id -un)` instructs the script `/scripts/sys/init.sh`
+  to create a user in the Docker container whose name is the same as the current user on the host.
+  <font color="red">
+  WARNING: the shell script `/scripts/sys/init.sh` cannot create a user named `root`
+  as it already exists in the Docker container.
+  If you start a Docker container using `root`,
+  make sure to pass a different user name to the envrionment variable `DOCKER_USER`,
+  e.g., `-e DOCKER_USER=dclong`.
+  </font>
+  For more discussion,
+  please refer to [this issue](https://github.com/dclong/docker-jupyterhub/issues/3).
 - `DOCKER_USER_ID`: The ID of the user to be created in the Docker container.
-    The shell command `id -u` gets the user ID of the current user (on the host),
-    so the option `-e DOCKER_USER_ID=$(id -u)` instructs the script `/scripts/sys/init.sh`
-    to create a user in the Docker container whose user ID is the same as the user ID of the current user on the host.
-    This means that the user in the Docker container is essentailly the current user on the host,
-    which helps resolve file permissions between the Docker container and the host.
-    This option is similar to the option `--user` of the command `docker run`,
-    and you want to keep it unchanged, generally speaking.
+  The shell command `id -u` gets the user ID of the current user (on the host),
+  so the option `-e DOCKER_USER_ID=$(id -u)` instructs the script `/scripts/sys/init.sh`
+  to create a user in the Docker container whose user ID is the same as the user ID of the current user on the host.
+  This means that the user in the Docker container is essentailly the current user on the host,
+  which helps resolve file permissions between the Docker container and the host.
+  This option is similar to the option `--user` of the command `docker run`,
+  and you want to keep it unchanged, generally speaking.
 - `DOCKER_PASSWORD`: The password of the user to be created in the Docker container.
-    The shell command `id -un` get the name of the current user (on the host),
-    so the option `-e DOCKER_PASSWORD=$(id -un)` instructs the script `/scripts/sys/init.sh`
-    to create a user in the Docker container whose password is the name of the current user on the host.
-    <font color="red">
-    WARNING: You'd better change the default value for security reasons.
-    Of course, users can always change it later using the command `passwd` inside the Docker container.
-    </font>
+  The shell command `id -un` get the name of the current user (on the host),
+  so the option `-e DOCKER_PASSWORD=$(id -un)` instructs the script `/scripts/sys/init.sh`
+  to create a user in the Docker container whose password is the name of the current user on the host.
+  <font color="red">
+  WARNING: You'd better change the default value for security reasons.
+  Of course, users can always change it later using the command `passwd` inside the Docker container.
+  </font>
 - `DOCKER_GROUP_ID`: The group ID of the user to be created in the Docker container.
-    The shell command `id -g` gets the group ID of the current user (on the host),
-    so the option `-e DOCKER_GROUP_ID=$(id -g)` instructs the script `/scripts/sys/init.sh`
-    to create a user in the Docker container whose group ID is the same as the group ID of the current user on the host.
-    You want to keep this option unchanged, generally speaking.
-- `DOCKER_ADMIN_USER`: This environment variable applies to Docker images `dclong/jupyterhub*` only. 
-    It specifies the admin user of the JupyterHub server.
-    It should be the same as `DOCKER_USER` generally speaking.
+  The shell command `id -g` gets the group ID of the current user (on the host),
+  so the option `-e DOCKER_GROUP_ID=$(id -g)` instructs the script `/scripts/sys/init.sh`
+  to create a user in the Docker container whose group ID is the same as the group ID of the current user on the host.
+  You want to keep this option unchanged, generally speaking.
+- `DOCKER_ADMIN_USER`: This environment variable applies to Docker images `dclong/jupyterhub*` only.
+  It specifies the admin user of the JupyterHub server.
+  It should be the same as `DOCKER_USER` generally speaking.
 - `USER_MEM_LIMIT`: This environment variable applies to Docker images `dclong/jupyterhub*` only.
-    It limits the memory that each user can use.
-    Note: this optional is not in effect currently.
+  It limits the memory that each user can use.
+  Note: this optional is not in effect currently.
 
 The root directory of JupyterLab/Jupyter notebooks is `/workdir` in the container.
 You can mount directory on the host to it as you wish.
 Below are illustration using the Docker image `dclong/jupyterhub-ds`.
 
-The following command starts a container 
-and mounts the current working directory and `/home` on the host machine 
+The following command starts a container
+and mounts the current working directory and `/home` on the host machine
 to `/workdir` and `/home_host` in the container respectively.
 
-    :::bash
-    docker run -d --init \
-        --platform linux/amd64 \
-        --hostname jupyterhub-ds \
-        --log-opt max-size=50m \
-        -p 8000:8000 \
-        -p 5006:5006 \
-        -e DOCKER_USER=`id -un` \
-        -e DOCKER_USER_ID=`id -u` \
-        -e DOCKER_PASSWORD=`id -un` \
-        -e DOCKER_GROUP_ID=`id -g` \
-        -e DOCKER_ADMIN_USER=`id -un` \
-        -v `pwd`:/workdir \
-        -v `dirname $HOME`:/home_host \
-        dclong/jupyterhub-ds /scripts/sys/init.sh
+```
+:::bash
+docker run -d --init \
+    --platform linux/amd64 \
+    --hostname jupyterhub-ds \
+    --log-opt max-size=50m \
+    -p 8000:8000 \
+    -p 5006:5006 \
+    -e DOCKER_USER=`id -un` \
+    -e DOCKER_USER_ID=`id -u` \
+    -e DOCKER_PASSWORD=`id -un` \
+    -e DOCKER_GROUP_ID=`id -g` \
+    -e DOCKER_ADMIN_USER=`id -un` \
+    -v `pwd`:/workdir \
+    -v `dirname $HOME`:/home_host \
+    dclong/jupyterhub-ds /scripts/sys/init.sh
+```
 
-The following command (only works on Linux) does the same as the above one 
+The following command (only works on Linux) does the same as the above one
 except that it limits the use of CPU and memory.
 
-    :::bash
-    docker run -d --init \
-        --platform linux/amd64 \
-        --name jupyterhub-ds \
-        --log-opt max-size=50m \
-        --memory=$(($(head -n 1 /proc/meminfo | awk '{print $2}') * 4 / 5))k \
-        --cpus=$((`nproc` - 1)) \
-        -p 8000:8000 \
-        -p 5006:5006 \
-        -e DOCKER_USER=`id -un` \
-        -e DOCKER_USER_ID=`id -u` \
-        -e DOCKER_PASSWORD=`id -un` \
-        -e DOCKER_GROUP_ID=`id -g` \
-        -e DOCKER_ADMIN_USER=`id -un` \
-        -v `pwd`:/workdir \
-        -v `dirname $HOME`:/home_host \
-        dclong/jupyterhub-ds /scripts/sys/init.sh
+```
+:::bash
+docker run -d --init \
+    --platform linux/amd64 \
+    --name jupyterhub-ds \
+    --log-opt max-size=50m \
+    --memory=$(($(head -n 1 /proc/meminfo | awk '{print $2}') * 4 / 5))k \
+    --cpus=$((`nproc` - 1)) \
+    -p 8000:8000 \
+    -p 5006:5006 \
+    -e DOCKER_USER=`id -un` \
+    -e DOCKER_USER_ID=`id -u` \
+    -e DOCKER_PASSWORD=`id -un` \
+    -e DOCKER_GROUP_ID=`id -g` \
+    -e DOCKER_ADMIN_USER=`id -un` \
+    -v `pwd`:/workdir \
+    -v `dirname $HOME`:/home_host \
+    dclong/jupyterhub-ds /scripts/sys/init.sh
+```
 
 ## Add a New User Inside a Docker Container
 
@@ -292,38 +299,41 @@ there are some shell scripts in the directory `/scripts/sys/` to create usres fo
 
 You can use the option `-h` to print help doc for these commands.
 
-    :::bash
-    /scripts/sys/create_user_nogroup.sh -h
-    Create a new user with the group name "nogroup".
-    Syntax: create_user_nogroup user user_id [password]
-    Arguments:
-    user: user name
-    user_id: user id
-    password: Optional password of the user. If not provided, then the user name is used as the password.
+```
+:::bash
+/scripts/sys/create_user_nogroup.sh -h
+Create a new user with the group name "nogroup".
+Syntax: create_user_nogroup user user_id [password]
+Arguments:
+user: user name
+user_id: user id
+password: Optional password of the user. If not provided, then the user name is used as the password.
+```
 
 Now suppose you want to create a new user `dclong` with user ID `2000` and group name `nogroup`,
 you can use the following command.
 
-    :::bash
-    sudo /scripts/sys/create_user_nogroup.sh dclong 2000
+```
+:::bash
+sudo /scripts/sys/create_user_nogroup.sh dclong 2000
+```
 
 Since we didn't specify a password for the user,
 the default password (same as the user name) is used.
 
-
 ## Use the JupyterHub Server
 
 1. Open your browser and and visit `your_host_ip:8000`
-    where `your_host_ip` is the URL/ip address of your server.
+   where `your_host_ip` is the URL/ip address of your server.
 
-2. Login to the JupyterHub server 
-    using your user name (by default your user name on the host machine)
-    and password (by default your user name on the host machine). 
+1. Login to the JupyterHub server
+   using your user name (by default your user name on the host machine)
+   and password (by default your user name on the host machine).
 
-3. It is strongly suggested (for security reasons) that you change your password (using the command `passwd`)
-    in the container.
+1. It is strongly suggested (for security reasons) that you change your password (using the command `passwd`)
+   in the container.
 
-4. Enjoy JupyterLab notebook!
+1. Enjoy JupyterLab notebook!
 
 ## Get Information of Running Jupyter/Lab Servers
 
@@ -332,41 +342,49 @@ you will be asked for a token at login.
 If you have started the Docker container in interactive mode (option `-i` instead of `-d`),
 the token for login is printed to the console.
 Otherwise,
-the tokens (and more information about the servers) can be found 
+the tokens (and more information about the servers) can be found
 by running the following command outside the Docker container.
 
-    :::bash
-    docker exec jupyterlab /scripts/list_jupyter.py
+```
+:::bash
+docker exec jupyterlab /scripts/list_jupyter.py
+```
 
-The above command tries to be smart in the sense that 
-it first figures out the user that started the JupyterLab server 
+The above command tries to be smart in the sense that
+it first figures out the user that started the JupyterLab server
 and then query running Jupyter/Lab servers of that user.
-An equivalently but more specifically command 
+An equivalently but more specifically command
 (if the Docker is launched by the current user in the host)
 is as below
 
-    :::bash
-    docker exec -u $(id -un) jupyterlab /scripts/sys/list_jupyter.py
+```
+:::bash
+docker exec -u $(id -un) jupyterlab /scripts/sys/list_jupyter.py
+```
 
-If you are inside the Docker container, 
+If you are inside the Docker container,
 then run the following command to get the tokens (and more information about the servers).
 
-    :::bash
-    /scripts/list_jupyter.py
+```
+:::bash
+/scripts/list_jupyter.py
+```
 
 Or equivalently if the Jupyter/Lab server is launched by the current user,
 
-    :::bash
-    /scripts/sys/list_jupyter.py
+```
+:::bash
+/scripts/sys/list_jupyter.py
+```
 
-To sum up, 
+To sum up,
 most of time you can rely on `/scripts/list_jupyter.py`
 to find the tokens of the running Jupyter/Lab servers,
 no matter you are root or the user that launches the Docker/JupyterLab server,
 and no matter you are inside the Docker container or not.
-Yet another way to get information of the running JupyterLab server 
-is to check the log. 
-Please refer to the section 
+Yet another way to get information of the running JupyterLab server
+is to check the log.
+Please refer to the section
 [Debug Docker Containers](http://www.legendu.net/en/blog/my-docker-images/#debug-docker-containers)
 for more information.
 
@@ -376,7 +394,7 @@ By default,
 any user in a Docker container of `dclong/jupyterhub-*` can visit the JupyterHub server.
 So if you want to grant access to a new user,
 just create an account for him in the Docker container.
-Please refer to 
+Please refer to
 [Add a New User Inside a Docker Container](https://www.legendu.net/en/blog/my-docker-images/#add-a-new-user-inside-a-docker-container)
 on how to create a new user inside a Docker container.
 
@@ -384,34 +402,42 @@ on how to create a new user inside a Docker container.
 
 Install and configure PySpark for use with the Python kernel.
 
-    :::bash
-    icon spark -ic && icon pyspark -ic
+```
+:::bash
+icon spark -ic && icon pyspark -ic
+```
 
 Install the evcxr Rust kernel.
 
-    :::bash
-    icon evcxr -ic
+```
+:::bash
+icon evcxr -ic
+```
 
 Install the Almond Scala kernel.
 
-    :::bash
-    icon almond -ic
+```
+:::bash
+icon almond -ic
+```
 
 Install the ITypeScript kernel.
 
-    :::bash
-    icon its -ic
+```
+:::bash
+icon its -ic
+```
 
-Many other software/tools can be easily install by 
+Many other software/tools can be easily install by
 [icon](https://github.com/legendu-net/icon)
 .
 
 ## Debug Docker Containers
 
-You can change the option `docker run -d ...` to `docker run -it ...` 
-to show logs of processes in the Docker container which helps debugging. 
+You can change the option `docker run -d ...` to `docker run -it ...`
+to show logs of processes in the Docker container which helps debugging.
 If you have already started a Docker container using `docker run -d ...`,
-you can use the command 
+you can use the command
 [docker logs](https://docs.docker.com/engine/reference/commandline/logs/)
 to get the log of the container
 (which contains logs of all processes in it).
@@ -422,8 +448,8 @@ to get the log of the container
 
 - [Use Spark With the BeakerX Scala Kernel](http://www.legendu.net/misc/blog/use-spark-with-the-beakerx-scala-kernel/)
 
-It is suggested that you use the Almond Scala kernel. 
-I will gradually drop support of the BeakerX Scala kernel in my Docker images. 
+It is suggested that you use the Almond Scala kernel.
+I will gradually drop support of the BeakerX Scala kernel in my Docker images.
 
 ## PySpark - pyspark and findspark
 
@@ -432,30 +458,36 @@ To use PySpark in a container of the Docker image
 you need to install Spark and the Python package `pyspark` first,
 which can be achieved using the following command.
 
-    :::bash
-    icon spark -ic --loc /opt/  
-    icon pyspark -ic
+```
+:::bash
+icon spark -ic --loc /opt/  
+icon pyspark -ic
+```
 
 Follow the steps below to use PySpark after it is installed.
 
 1. Open a JupyterLab notebook with the Python kernel from the launcher.
 
-2. Find and initialize PySpark.
+1. Find and initialize PySpark.
 
-        :::python
-        import findspark
-        # A symbolic link of the Spark Home is made to /opt/spark for convenience
-        findspark.init("/opt/spark")
+   ```
+    :::python
+    import findspark
+    # A symbolic link of the Spark Home is made to /opt/spark for convenience
+    findspark.init("/opt/spark")
 
-        from pyspark.sql import SparkSession
-        spark = SparkSession.builder.appName('PySpark Example').enableHiveSupport().getOrCreate()
+    from pyspark.sql import SparkSession
+    spark = SparkSession.builder.appName('PySpark Example').enableHiveSupport().getOrCreate()
+   ```
 
-3. Use Spark as usual.
-    
-        :::python
-        df1 = spark.table("some_hive_table")
-        df2 = spark.sql("select * from some_table")
-        ...
+1. Use Spark as usual.
+
+   ```
+    :::python
+    df1 = spark.table("some_hive_table")
+    df2 = spark.sql("select * from some_table")
+    ...
+   ```
 
 ## Remote Connection to Desktop in the Container
 
@@ -463,164 +495,167 @@ If you are running a Docker container with a desktop environment (`dclong/lubunt
 you can connect to the desktop environment in the Docker container using NoMachine.
 
 1. Download the NoMachine client from <https://www.nomachine.com/download>.
-2. Install the NoMachine client on your computer.
-3. Create a new connection from your computer 
-    to the desktop environment in the Docker image using the NX protocol and port 4000.
-    You will be asked for a user name and password.
-    By default,
-    the user name used to start the Docker container on the host machine 
-    is used as both the user name and password in the Docker container.
+1. Install the NoMachine client on your computer.
+1. Create a new connection from your computer
+   to the desktop environment in the Docker image using the NX protocol and port 4000.
+   You will be asked for a user name and password.
+   By default,
+   the user name used to start the Docker container on the host machine
+   is used as both the user name and password in the Docker container.
 
 ## List of Images and Detailed Information
 
-- [dclong/base](https://hub.docker.com/r/dclong/base/)  
+- [dclong/base](https://hub.docker.com/r/dclong/base/)
 
-    > OS: Ubuntu LTS
-    > Time Zone: US Pacific Time  
-    > Desktop Environment: None  
-    > Remote Desktop: None  
+  > OS: Ubuntu LTS
+  > Time Zone: US Pacific Time\
+  > Desktop Environment: None\
+  > Remote Desktop: None
 
-    - [dclong/samba](https://hub.docker.com/r/dclong/samba/)  
+  - [dclong/samba](https://hub.docker.com/r/dclong/samba/)
 
-    - [dclong/nfs](https://hub.docker.com/r/dclong/nfs/)  
+  - [dclong/nfs](https://hub.docker.com/r/dclong/nfs/)
 
-    - [dclong/nodejs](https://hub.docker.com/r/dclong/nodejs/)  
+  - [dclong/nodejs](https://hub.docker.com/r/dclong/nodejs/)
 
-        - [dclong/typescript](https://hub.docker.com/r/dclong/typescript/)  
+    - [dclong/typescript](https://hub.docker.com/r/dclong/typescript/)
 
-    - [dclong/jdk](https://hub.docker.com/r/dclong/jdk/)  
+  - [dclong/jdk](https://hub.docker.com/r/dclong/jdk/)
 
-    - [dclong/python-portable](https://hub.docker.com/r/dclong/python-portable/)  
+  - [dclong/python-portable](https://hub.docker.com/r/dclong/python-portable/)
 
-    - [dclong/python](https://hub.docker.com/r/dclong/python/)  
+  - [dclong/python](https://hub.docker.com/r/dclong/python/)
 
-        > Python 3.12.x  
+    > Python 3.12.x
 
-        - [dclong/python-jdk](https://hub.docker.com/r/dclong/python-jdk/)  
+    - [dclong/python-jdk](https://hub.docker.com/r/dclong/python-jdk/)
 
-        - [dclong/mlflow](https://hub.docker.com/r/dclong/mlflow/)  
+    - [dclong/mlflow](https://hub.docker.com/r/dclong/mlflow/)
 
-        - [dclong/dryscrape](https://hub.docker.com/r/dclong/dryscrape/)  
+    - [dclong/dryscrape](https://hub.docker.com/r/dclong/dryscrape/)
 
-        - [dclong/python-nodejs](https://hub.docker.com/r/dclong/python-nodejs/)  
+    - [dclong/python-nodejs](https://hub.docker.com/r/dclong/python-nodejs/)
 
-            - [dclong/jupyterlab](https://hub.docker.com/r/dclong/jupyterlab)  
+      - [dclong/jupyterlab](https://hub.docker.com/r/dclong/jupyterlab)
 
-                > JupyterLab: latest stable version
+        > JupyterLab: latest stable version
 
-                - [dclong/jupyterhub](https://hub.docker.com/r/dclong/jupyterhub/)  
+        - [dclong/jupyterhub](https://hub.docker.com/r/dclong/jupyterhub/)
 
-                    > JupyterHub: latest stable version
+          > JupyterHub: latest stable version
 
-                    - [dclong/jupyterhub-ts](https://hub.docker.com/r/dclong/jupyterhub-ts/)  
+          - [dclong/jupyterhub-ts](https://hub.docker.com/r/dclong/jupyterhub-ts/)
 
-                    - [dclong/jupyterhub-julia](https://hub.docker.com/r/dclong/jupyterhub-julia/)  
+          - [dclong/jupyterhub-julia](https://hub.docker.com/r/dclong/jupyterhub-julia/)
 
-                        > Julia stable.
+            > Julia stable.
 
-                    - [dclong/jupyterhub-cuda](https://hub.docker.com/r/dclong/jupyterhub-cuda/)  
+          - [dclong/jupyterhub-cuda](https://hub.docker.com/r/dclong/jupyterhub-cuda/)
 
-                        - [dclong/jupyterhub-pytorch](https://hub.docker.com/r/dclong/jupyterhub-pytorch/)  
+            - [dclong/jupyterhub-pytorch](https://hub.docker.com/r/dclong/jupyterhub-pytorch/)
 
-                    - [dclong/jupyterhub-jdk](https://hub.docker.com/r/dclong/jupyterhub-jdk/)  
+          - [dclong/jupyterhub-jdk](https://hub.docker.com/r/dclong/jupyterhub-jdk/)
 
-                        > OpenJDK: 11  
-                        > Maven: 3.6.x  
+            > OpenJDK: 11\
+            > Maven: 3.6.x
 
-                        - [dclong/jupyterhub-more](https://hub.docker.com/r/dclong/jupyterhub-more/)  
+            - [dclong/jupyterhub-more](https://hub.docker.com/r/dclong/jupyterhub-more/)
 
-                            > Go  
-                            > Rust  
-                            > JavaScript/ TypeScript  
+              > Go\
+              > Rust\
+              > JavaScript/ TypeScript
 
-                            - [dclong/vscode-server](https://hub.docker.com/r/dclong/vscode-server/)  
+              - [dclong/vscode-server](https://hub.docker.com/r/dclong/vscode-server/)
 
-                                > [code-server](https://github.com/cdr/code-server): latest stable version
+                > [code-server](https://github.com/cdr/code-server): latest stable version
 
-                            - [dclong/jupyterhub-ds](https://hub.docker.com/r/dclong/jupyterhub-ds/)  
+              - [dclong/jupyterhub-ds](https://hub.docker.com/r/dclong/jupyterhub-ds/)
 
-                                > Python packages:  
-                                >     - loguru pysnooper  
-                                >     - numpy scipy pandas pyarrow  
-                                >     - scikit-learn lightgbm  
-                                >     - graphviz matplotlib bokeh holoviews[recommended] hvplot  
-                                >     - tabulate  
-                                >     - JPype1 sqlparse  
-                                >     - requests[socks] lxml notifiers  
-                                >     - dsutil  
+                > Python packages:\
+                > \- loguru pysnooper\
+                > \- numpy scipy pandas pyarrow\
+                > \- scikit-learn lightgbm\
+                > \- graphviz matplotlib bokeh holoviews[recommended] hvplot\
+                > \- tabulate\
+                > \- JPype1 sqlparse\
+                > \- requests[socks] lxml notifiers\
+                > \- dsutil
 
-                                - [dclong/gitpod](https://hub.docker.com/r/dclong/gitpod/)
+                - [dclong/gitpod](https://hub.docker.com/r/dclong/gitpod/)
 
-    - [dclong/rust](https://hub.docker.com/r/dclong/rust/)  
+  - [dclong/rust](https://hub.docker.com/r/dclong/rust/)
 
-        - [dclong/rustpython](https://hub.docker.com/r/dclong/rustpython/)  
+    - [dclong/rustpython](https://hub.docker.com/r/dclong/rustpython/)
 
-    - [dclong/ubuntu_cn](https://hub.docker.com/r/dclong/ubuntu_cn/)  
+  - [dclong/ubuntu_cn](https://hub.docker.com/r/dclong/ubuntu_cn/)
 
-        - [dclong/lubuntu](https://hub.docker.com/r/dclong/lubuntu/)  
+    - [dclong/lubuntu](https://hub.docker.com/r/dclong/lubuntu/)
 
-            - [dclong/lubuntu-pyside2](https://hub.docker.com/r/dclong/lubuntu-pyside2/)  
+      - [dclong/lubuntu-pyside2](https://hub.docker.com/r/dclong/lubuntu-pyside2/)
 
-            - [dclong/lubuntu-jdk](https://hub.docker.com/r/dclong/lubuntu-jdk/)  
+      - [dclong/lubuntu-jdk](https://hub.docker.com/r/dclong/lubuntu-jdk/)
 
 ## Build my Docker Images
 
-My Docker images are auto built leveraging GitHub Actions workflow 
-in the GitHub repository 
+My Docker images are auto built leveraging GitHub Actions workflow
+in the GitHub repository
 [docker_image_builder](https://github.com/dclong/docker_image_builder)
 .
 
 ## Tips for Maintaining Docker Images (for My own Reference)
 
-1. Do NOT update the `latest` tag 
-    until you have fully tested the corresponding `next` tag.
+1. Do NOT update the `latest` tag
+   until you have fully tested the corresponding `next` tag.
 
-2. Do NOT add new features or tools unless you really need them.
+1. Do NOT add new features or tools unless you really need them.
 
-3. It generally a good idea to restrict versions of non-stable packages to be a specific (working) version 
-    or a range of versions that is unlike to break.
+1. It generally a good idea to restrict versions of non-stable packages to be a specific (working) version
+   or a range of versions that is unlike to break.
 
-4. If you REALLY have to update some Bash script a Docker image,
-    do not update it in the GitHub repository directly 
-    and build the Docker image to test whether it works.
-    Instead,
-    make a copy of the Bash script outside the Docker container, 
-    update it, 
-    and mount it into the container to test whether it work.
-    If the updated Bash script work as you expected,
-    then go ahead to update it in the GitHub repository.
+1. If you REALLY have to update some Bash script a Docker image,
+   do not update it in the GitHub repository directly
+   and build the Docker image to test whether it works.
+   Instead,
+   make a copy of the Bash script outside the Docker container,
+   update it,
+   and mount it into the container to test whether it work.
+   If the updated Bash script work as you expected,
+   then go ahead to update it in the GitHub repository.
 
 ## On Failure of GitHub Actions Workflow for Building Docker Images
 
 1. If the Docker image buidling workflow fails due to network issues,
-    it might not work to rerun failed pipelines in GitHub Actions
-    (as the network issue is like due to probalematic network nodes
-    and retrying failed pipelines sending jobs to the same nodes).
-    In such situtions,
-    it is better to trigger a new run of the workflow.
+   it might not work to rerun failed pipelines in GitHub Actions
+   (as the network issue is like due to probalematic network nodes
+   and retrying failed pipelines sending jobs to the same nodes).
+   In such situtions,
+   it is better to trigger a new run of the workflow.
 
-## Known Issues 
+## Known Issues
 
-1. NeoVim fails to work 
-    if a Docker image (with NeoVim installed) is run on **Mac with the M1 chip**
-    even if you pass the option `--platform linux/amd64` to `docker run`.
-    A possible fix is to manually uninstall NeoVim using the following command
+1. NeoVim fails to work
+   if a Docker image (with NeoVim installed) is run on **Mac with the M1 chip**
+   even if you pass the option `--platform linux/amd64` to `docker run`.
+   A possible fix is to manually uninstall NeoVim using the following command
 
-        :::bash
-        sudo apt purge neovim
+   ```
+    :::bash
+    sudo apt purge neovim
+   ```
 
-    and then install Vim instead.
-        
-        :::bash
-        sudo apt install vim
+   and then install Vim instead.
 
-2. The command `wajig` fails to cache password 
-    if a Docker image (with `wajig` installed) is run on **Mac with the M1 chip**
-    even if you pass the option `--platform linux/amd64` to `docker run`.
-    Fortunately, 
-    this is not a big issue.
+   ```
+    :::bash
+    sudo apt install vim
+   ```
 
-3. There is an issue with the `dclong/xubuntu*` Docker images due to Xfce on Ubuntu 18.04.
-    It is suggested that you use the corresponding `dclong/lubuntu*` Docker images instead (which are based on LXQt)
-    if a desktop environment is needed.
+1. The command `wajig` fails to cache password
+   if a Docker image (with `wajig` installed) is run on **Mac with the M1 chip**
+   even if you pass the option `--platform linux/amd64` to `docker run`.
+   Fortunately,
+   this is not a big issue.
 
+1. There is an issue with the `dclong/xubuntu*` Docker images due to Xfce on Ubuntu 18.04.
+   It is suggested that you use the corresponding `dclong/lubuntu*` Docker images instead (which are based on LXQt)
+   if a desktop environment is needed.

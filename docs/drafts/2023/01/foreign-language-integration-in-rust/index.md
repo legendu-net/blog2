@@ -1,7 +1,7 @@
 ---
 title: Foreign Language Integration in Rust
 created: 2023-01-13 16:20:03
-date: 2026-04-13 23:14:34.052865
+date: 2026-04-15 19:27:00.690620
 authors:
   - bendu
 label: foreign-language-integration-in-rust
@@ -13,9 +13,9 @@ tags:
   - foreign
   - language
   - integration
-  - ffi
+  - FFI
   - cc
-  - gcc
+  - GCC
   - make
   - cmake
   - ABI

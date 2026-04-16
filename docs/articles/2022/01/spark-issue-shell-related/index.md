@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: Shell Related'
 created: 2022-01-15 14:23:15
-date: 2026-04-13 23:14:13.997935
+date: 2026-04-15 19:27:00.382676
 authors:
   - bendu
 label: spark-issue-shell-related
@@ -11,7 +11,6 @@ tags:
   - programming
   - Spark
   - issue
-  - Spark issue
   - shell
   - command
   - big data

@@ -1,7 +1,7 @@
 ---
 title: Tips on gRPC
 created: 2022-10-08 12:12:31
-date: 2026-04-13 23:14:42.446797
+date: 2026-04-15 19:27:00.757271
 authors:
   - bendu
 label: tips-on-grpc
@@ -12,7 +12,7 @@ tags:
   - gRPC
   - RPC
   - API
-  - protocol buffer
+  - Protocol Buffer
   - protobuf
 ---
 

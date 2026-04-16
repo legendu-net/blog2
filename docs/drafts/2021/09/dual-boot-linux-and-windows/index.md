@@ -1,7 +1,7 @@
 ---
 title: Dual Boot Linux and Windows
 created: 2021-09-16 09:22:59
-date: 2026-04-13 23:14:56.636057
+date: 2026-04-15 19:27:00.866734
 authors:
   - bendu
 label: dual-boot-linux-and-windows
@@ -12,7 +12,7 @@ tags:
   - Linux
   - Windows
   - dual boot
-  - grub
+  - GRUB
   - device
 ---
 

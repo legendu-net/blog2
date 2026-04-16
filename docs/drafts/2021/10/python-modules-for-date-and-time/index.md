@@ -1,7 +1,7 @@
 ---
 title: Python Modules for Date and Time
 created: 2021-10-07 16:29:17
-date: 2026-04-13 23:14:55.447772
+date: 2026-04-15 19:27:00.860391
 authors:
   - bendu
 label: python-modules-for-date-and-time
@@ -15,7 +15,7 @@ tags:
   - datetime
   - dateutil
   - dateparser
-  - arrow
+  - Arrow
   - monthdelta
 ---
 

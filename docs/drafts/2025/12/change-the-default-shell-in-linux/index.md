@@ -1,7 +1,7 @@
 ---
 title: Change the Default Shell in Linux
 created: 2025-12-07 17:48:30
-date: 2026-04-13 23:14:15.722053
+date: 2026-04-15 19:27:00.530229
 authors:
   - bendu
 label: change-the-default-shell-in-linux
@@ -12,7 +12,7 @@ tags:
   - Linux
   - shell
   - chsh
-  - Atomic
+  - atomic
   - change
 ---
 

@@ -1,83 +1,97 @@
 ---
 title: Job Scheduling and Management Using Apache Airflow
 created: 2018-10-10 09:32:40
-date: 2026-04-05 19:42:37.971308
+date: 2026-04-15 19:27:01.265930
 authors:
-- bendu
+  - bendu
 label: job-scheduling-and-management-using-apache-airflow
 license: CC-BY-4.0
 tags:
-- programming
-- Apache AirFlow
-- workflow
-- scheduler
-- scheduling
+  - programming
+  - Apache
+  - Airflow
+  - workflow
+  - scheduler
+  - scheduling
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Installation (MySQL)
 
 1. Install Apache AirFlow.
 
-        sudo apt install \
-            python3-dev python3-pip \
-            mysql-server libmysqlclient-dev
-        sudo AIRFLOW_GPL_UNIDECODE=yes pip3 install apache-airflow[mysql]
+   ```
+    sudo apt install \
+        python3-dev python3-pip \
+        mysql-server libmysqlclient-dev
+    sudo AIRFLOW_GPL_UNIDECODE=yes pip3 install apache-airflow[mysql]
+   ```
 
-2. Add the following content into your `my.cnf` (e.g., `/etc/mysql/my.cnf`) file. 
+1. Add the following content into your `my.cnf` (e.g., `/etc/mysql/my.cnf`) file.
 
-        [mysqld]
-        explicit_defaults_for_timestamp=1
+   ```
+    [mysqld]
+    explicit_defaults_for_timestamp=1
+   ```
 
 Below is an example of `my.cnf`.
 
-        #
-        # The MySQL database server configuration file.
-        #
-        # You can copy this to one of:
-        # - "/etc/mysql/my.cnf" to set global options,
-        # - "~/.my.cnf" to set user-specific options.
-        #
-        # One can use all long options that the program supports.
-        # Run program with --help to get a list of available options and with
-        # --print-defaults to see which it would actually understand and use.
-        #
-        # For explanations see
-        # http://dev.mysql.com/doc/mysql/en/server-system-variables.html
+```
+    #
+    # The MySQL database server configuration file.
+    #
+    # You can copy this to one of:
+    # - "/etc/mysql/my.cnf" to set global options,
+    # - "~/.my.cnf" to set user-specific options.
+    #
+    # One can use all long options that the program supports.
+    # Run program with --help to get a list of available options and with
+    # --print-defaults to see which it would actually understand and use.
+    #
+    # For explanations see
+    # http://dev.mysql.com/doc/mysql/en/server-system-variables.html
 
-        #
-        # * IMPORTANT: Additional settings that can override those from this file!
-        # The files must end with '.cnf', otherwise they'll be ignored.
-        #
+    #
+    # * IMPORTANT: Additional settings that can override those from this file!
+    # The files must end with '.cnf', otherwise they'll be ignored.
+    #
 
-        !includedir /etc/mysql/conf.d/
-        !includedir /etc/mysql/mysql.conf.d/
+    !includedir /etc/mysql/conf.d/
+    !includedir /etc/mysql/mysql.conf.d/
 
-        [mysqld]
-        explicit_defaults_for_timestamp=1
+    [mysqld]
+    explicit_defaults_for_timestamp=1
+```
 
 3. Initial database.
 
-        airflow initdb
+   ```
+    airflow initdb
+   ```
 
-4. Start the web server.
+1. Start the web server.
 
-        airflow webserver -D -p 8080
+   ```
+    airflow webserver -D -p 8080
+   ```
 
-5. Start a scheduler.
+1. Start a scheduler.
 
-        airflow scheduler -D
+   ```
+    airflow scheduler -D
+   ```
 
 ## Tips and Traps
 
 1. Just place your Python script which defines a DAG into the directory `AIRFLOW_HOME/dags/`
-    and AirFlow will pick it up automatically.
+   and AirFlow will pick it up automatically.
 
-2. Avoid defining tasks using the BashOperator.
-    Some bash commands (e.g., `rsync`) might return the error code 0 
-    even if it essentially succeeds.
-    It is quite challenge to handle exceptions/error code of shell command
-    to ingore non-critical errors.
+1. Avoid defining tasks using the BashOperator.
+   Some bash commands (e.g., `rsync`) might return the error code 0
+   even if it essentially succeeds.
+   It is quite challenge to handle exceptions/error code of shell command
+   to ingore non-critical errors.
 
 ## Delete DAGs
 

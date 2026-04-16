@@ -1,7 +1,7 @@
 ---
 title: JupyterLab Extensions for Spreadsheet
 created: 2020-06-30 10:05:25
-date: 2026-04-13 23:15:19.291621
+date: 2026-04-15 19:27:01.011394
 authors:
   - bendu
 label: jupyterlab-extensions-for-spreadsheet
@@ -14,7 +14,6 @@ tags:
   - extension
   - plugin
   - grid
-  - spreadsheet
   - data table
   - datatable
 ---

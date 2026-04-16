@@ -1,7 +1,7 @@
 ---
 title: Popular Databases
 created: 2021-06-10 10:33:02
-date: 2026-04-13 23:15:00.731736
+date: 2026-04-15 19:27:00.888621
 authors:
   - bendu
 label: popular-databases
@@ -15,7 +15,6 @@ tags:
   - TiDB
   - neo4j
   - Elasticsearch
-  - TiDB
   - TDengine
   - Redis
 ---

@@ -1,7 +1,7 @@
 ---
 title: Rust Crates for RPC
 created: 2023-01-13 16:54:02
-date: 2026-04-13 23:14:34.672266
+date: 2026-04-15 19:27:00.694695
 authors:
   - bendu
 label: rust-crates-for-rpc
@@ -13,7 +13,7 @@ tags:
   - crate
   - RPC
   - gRPC
-  - protocol buffer
+  - Protocol Buffer
   - protobuf
 ---
 

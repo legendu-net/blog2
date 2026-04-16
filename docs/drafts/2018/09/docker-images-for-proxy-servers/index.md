@@ -1,7 +1,7 @@
 ---
-title: "Docker Images for Proxy Servers"
+title: Docker Images for Proxy Servers
 created: 2018-09-21 23:37:16
-date: 2019-06-21 23:37:16
+date: 2026-04-15 19:27:01.270443
 authors:
   - bendu
 label: docker-images-for-proxy-servers
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - software
   - Docker
-  - Docker image
+  - image
   - proxy server
   - tinyproxy
   - VPN
@@ -18,7 +18,6 @@ tags:
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
 
 ## [minimum2scp/squid](https://store.docker.com/community/images/minimum2scp/squid)
 

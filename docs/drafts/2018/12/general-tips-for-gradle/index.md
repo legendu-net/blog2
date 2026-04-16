@@ -1,81 +1,96 @@
 ---
 title: General Tips for Gradle
 created: 2018-12-08 16:57:03
-date: 2026-04-05 19:42:37.965870
+date: 2026-04-15 19:27:01.254501
 authors:
-- bendu
+  - bendu
 label: general-tips-for-gradle
 license: CC-BY-4.0
 tags:
-- programming
-- JVM
-- Java
-- gradle
-- Groovy
-- compile
-- compiler
-- package management
+  - programming
+  - JVM
+  - Java
+  - Gradle
+  - Groovy
+  - compile
+  - compiler
+  - package management
 ---
-**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Install & Upgrade Gradle
 
-
 The latest version of gradle can be installed via PPA on Ubuntu.
 
-    :::bash
-    sudo add-apt-repository ppa:cwchien/gradle
-    sudo apt-get update
+```
+:::bash
+sudo add-apt-repository ppa:cwchien/gradle
+sudo apt-get update
+```
 
 And gradle can be upgraded using the following command.
 
-    :::bash
-    sudo apt-get upgrade gradle
+```
+:::bash
+sudo apt-get upgrade gradle
+```
 
 The latest version of Gradle can be installed using Homebrew on Mac.
 
-    :::bash
-    brew install gradle
+```
+:::bash
+brew install gradle
+```
 
 And gradle can be upgraded using the following command.
 
-    :::bash
-    brew upgrade gradle
+```
+:::bash
+brew upgrade gradle
+```
 
 ## Tricks and Traps
 
-1. You can set the default logging level to debugging by adding the following line 
-    into the file `gradle.properties` under the root directory of the project.
+1. You can set the default logging level to debugging by adding the following line
+   into the file `gradle.properties` under the root directory of the project.
 
-        org.gradle.logging.level=debug
+   ```
+    org.gradle.logging.level=debug
+   ```
 
 1. It is recommended that you use the gradle wrapper `gradlew` to compile the project.
-    You don't have to use the `task` subcommand 
-    when using the gradle wrapper `gradlew` to compile the project.
-    For example, 
-    instead of `gradle task build` you can use `./gradlew build`.
+   You don't have to use the `task` subcommand
+   when using the gradle wrapper `gradlew` to compile the project.
+   For example,
+   instead of `gradle task build` you can use `./gradlew build`.
 
-2. You'd better rebuild (using the `build` command) your project 
-    before testing running your project or generating a fat jar (using the `shadowjar` command).
-    Otherwise, 
-    you might run into weird issues such as resource file not found, etc.
+1. You'd better rebuild (using the `build` command) your project
+   before testing running your project or generating a fat jar (using the `shadowjar` command).
+   Otherwise,
+   you might run into weird issues such as resource file not found, etc.
 
-3. You can generate a Gradle wrapper (with the given version) 
-    or update the version of an existing Gradle wrapper using the following command.
+1. You can generate a Gradle wrapper (with the given version)
+   or update the version of an existing Gradle wrapper using the following command.
 
-        :::bash
-        gradle wrapper --gradle-version 6.0.1
+   ```
+    :::bash
+    gradle wrapper --gradle-version 6.0.1
+   ```
 
 ## The IDEA Plugin
+
 You can enable the Gradle IDEA plugin by having the following line in your `build.gradle` file.
+
 ```
 apply plugin: 'idea'
 ```
+
 This plugins add a task named `openIdea` and allows you to import a Gradle project from command line.
 Sometimes, importing a project from IntelliJ IDEA does not work as expected.
-However, 
+However,
 the command line always works.
+
 ```
 ./gradlew openIdea
 ```
@@ -85,11 +100,13 @@ the command line always works.
 https://stackoverflow.com/questions/11767713/adding-script-to-build-gradle
 
 ## [shadowJar](https://github.com/johnrengelman/shadow) for Gradle
+
 ```
 plugins {
     id "com.github.johnrengelman.shadow" version "4.0.3"
 }
 ```
+
 ```
 shadowJar {
     zip64 true
@@ -103,16 +120,16 @@ shadowJar {
 
 ## Shadow
 
-archiveClassifier 
+archiveClassifier
 
 https://github.com/johnrengelman/shadow/issues/463#event-2615996541
 
 ## Gradle Sync
 
 1. support only local sync
-2. not incremental
+1. not incremental
 
-Overall it is far behind rsync. 
+Overall it is far behind rsync.
 I'd rather use rsync in shell.
 
 ## Gradle SSH Plugin

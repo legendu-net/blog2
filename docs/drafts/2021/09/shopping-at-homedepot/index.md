@@ -1,7 +1,7 @@
 ---
-title: "Shopping At Homedepot"
+title: Shopping At Homedepot
 created: 2021-09-29 01:17:39
-date: 2022-05-28 23:29:06
+date: 2026-04-15 19:27:00.872076
 authors:
   - bendu
 label: shopping-at-homedepot
@@ -10,7 +10,7 @@ tags:
   - life
   - shopping
   - home
-  - HomeDepot
+  - Home Depot
   - house
 ---
 

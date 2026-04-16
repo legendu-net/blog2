@@ -1,7 +1,7 @@
 ---
 title: String in Mojo
 created: 2023-09-09 22:09:01
-date: 2026-04-13 23:14:26.706335
+date: 2026-04-15 19:27:00.647701
 authors:
   - bendu
 label: string-in-mojo
@@ -10,7 +10,7 @@ tags:
   - computer science
   - programming
   - tips
-  - mojo
+  - Mojo
   - AI
   - string
 ---

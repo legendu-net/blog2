@@ -1,7 +1,7 @@
 ---
 title: Tips on Microsoft Graph APIs
 created: 2024-05-17 01:53:15
-date: 2026-04-13 23:14:24.177621
+date: 2026-04-15 19:27:00.609414
 authors:
   - bendu
 label: tips-on-microsoft-graph-apis
@@ -11,7 +11,7 @@ tags:
   - programming
   - API
   - Microsoft
-  - Graph
+  - graph
   - mail
   - email
   - Outlook

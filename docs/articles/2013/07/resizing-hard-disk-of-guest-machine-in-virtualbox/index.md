@@ -1,7 +1,7 @@
 ---
 title: Resizing Hard Disk of Guest Machine in Virtualbox
 created: 2013-07-20 10:57:11
-date: 2026-04-14 21:36:17.520387
+date: 2026-04-15 19:27:00.276367
 authors:
   - bendu
 label: resizing-hard-disk-of-guest-machine-in-virtualbox
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - partition
   - gparted
-  - virtualbox
+  - VirtualBox
   - software
   - vmdk
   - resize

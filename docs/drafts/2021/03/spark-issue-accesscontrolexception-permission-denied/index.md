@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: AccessControlException: Permission Denied'
 created: 2021-03-24 14:59:52
-date: 2026-04-13 23:15:06.655856
+date: 2026-04-15 19:27:00.924779
 authors:
   - bendu
 label: spark-issue-accesscontrolexception-permission-denied
@@ -12,7 +12,6 @@ tags:
   - Spark
   - issue
   - big data
-  - Spark issue
   - AccessControlException
   - permission
   - denied

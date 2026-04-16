@@ -1,7 +1,7 @@
 ---
 title: Profile Rust Applications
 created: 2021-11-08 10:19:34
-date: 2026-04-13 23:14:53.330870
+date: 2026-04-15 19:27:00.845416
 authors:
   - bendu
 label: profile-rust-applications
@@ -16,7 +16,7 @@ tags:
   - memory
   - CPU
   - FlameGraph
-  - ByteHound
+  - Bytehound
   - HeapTrack
 ---
 

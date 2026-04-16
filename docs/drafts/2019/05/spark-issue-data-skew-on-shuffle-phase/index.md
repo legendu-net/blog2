@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: Data Skew on Shuffle Phase'
 created: 2019-05-22 10:03:37
-date: 2026-04-13 23:15:27.229647
+date: 2026-04-15 19:27:01.179675
 authors:
   - bendu
 label: spark-issue-data-skew-on-shuffle-phase
@@ -13,9 +13,6 @@ tags:
   - data skew
   - shuffle
   - error
-  - data skew
-  - shuffle
-  - Spark issue
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

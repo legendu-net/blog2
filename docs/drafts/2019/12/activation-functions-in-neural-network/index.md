@@ -1,7 +1,7 @@
 ---
-title: "Activation Functions in Neural Network"
+title: Activation Functions in Neural Network
 created: 2019-12-17 14:20:03
-date: 2020-01-17 14:20:03
+date: 2026-04-15 19:27:01.115583
 authors:
   - bendu
 label: activation-functions-in-neural-network
@@ -13,7 +13,7 @@ tags:
   - activation function
   - ReLU
   - GELU
-  - Switch
+  - switch
   - Sigmoid
 ---
 
@@ -23,10 +23,9 @@ tags:
 
 GELU is the best activation function currently (at least in NLP).
 
-$$ GELU(x) == x \Phi(x) $$,
+\$$ GELU(x) == x \Phi(x) $\$,
 
 where $\Phi(x)$ is the cumulative distribution function of the standard normal distribution.
-
 
 ## ReLU
 
@@ -34,8 +33,8 @@ where $\Phi(x)$ is the cumulative distribution function of the standard normal d
 
 ## Swish
 
-$$ f(x) = x \dot \sigma(x) $$,
-where $\sigma(x)$ is the 
+\$$ f(x) = x \dot \sigma(x) $$,
+where $\\sigma(x)\$ is the
 [sigmoid function](https://en.wikipedia.org/wiki/Sigmoid_function).
 
 ## Sigmoid

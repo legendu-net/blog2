@@ -1,7 +1,7 @@
 ---
 title: Cell and RefCell in Rust
 created: 2023-02-02 17:21:12
-date: 2026-04-13 23:14:32.814407
+date: 2026-04-15 19:27:00.682725
 authors:
   - bendu
 label: cell-and-refcell-in-rust
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - computer science
   - programming
-  - Cell
+  - cell
   - RefCell
   - borrow checker
   - interior mutability

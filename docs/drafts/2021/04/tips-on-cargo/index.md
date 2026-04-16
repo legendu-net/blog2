@@ -1,7 +1,7 @@
 ---
 title: Tips on Cargo
 created: 2021-04-28 16:21:14
-date: 2026-04-13 23:15:04.197454
+date: 2026-04-15 19:27:00.909014
 authors:
   - bendu
 label: tips-on-cargo
@@ -10,7 +10,7 @@ tags:
   - computer science
   - programming
   - Rust
-  - cargo
+  - Cargo
   - format
   - fmt
   - rustfmt

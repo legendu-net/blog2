@@ -1,7 +1,7 @@
 ---
-title: "Thread Safe Random Number Generator"
+title: Thread Safe Random Number Generator
 created: 2012-07-08 00:00:00
-date: 2023-07-22 22:16:05
+date: 2026-04-15 19:27:00.354467
 authors:
   - bendu
 label: thread-safe-random-number-generator
@@ -15,16 +15,13 @@ tags:
   - HPC
   - fun problems
   - MT
-  - Concurrency
+  - concurrency
 ---
-
-[SFMT]: http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/SFMT/#dSFMT
-[Thread Safe Random Number Generator]: /media/rng/smt.h
 
 In pratice,
 the approach of separate RNGs with different seeds for threads/processes
-is widely used 
-(even though theoretically those RNGs might have overlaping sequences, 
+is widely used
+(even though theoretically those RNGs might have overlaping sequences,
 which is undesirable).
 For more discussions on this approach,
 please refer to
@@ -33,7 +30,7 @@ and
 [Seed Many RNGs in Rust](https://www.legendu.net/en/blog/seed-many-rngs-in-rust/)
 .
 The following of this article discusses about thread-safe RNGs based on Mersenne Twister.
-Note that Mersenne Twister is no longer considered the state-of-the-art non-cryptographic PRNG. 
+Note that Mersenne Twister is no longer considered the state-of-the-art non-cryptographic PRNG.
 For more discussions on this,
 please refer to
 [Summary on Random Number Generators](https://www.legendu.net/en/blog/summary-random-number-generators/)
@@ -41,90 +38,95 @@ please refer to
 
 <img src="/media/rng/random-number-generator.png" height="200" width="240" align="right"/>
 
-In statistical simulation, a thread safe random number generator is often useful. 
-Thread safty can be achieved by synchronize public methods of random number generator engines. 
-In C++, 
-this can be done through mutex (see more about my post on multithreading in C++). 
-I implemented a [Thread Safe Random Number Generator][] (based on the Mersenne Twister RNG).
+In statistical simulation, a thread safe random number generator is often useful.
+Thread safty can be achieved by synchronize public methods of random number generator engines.
+In C++,
+this can be done through mutex (see more about my post on multithreading in C++).
+I implemented a [Thread Safe Random Number Generator] (based on the Mersenne Twister RNG).
 
-    #ifndef DCLONG_SMT_H_
-    #define DCLONG_SMT_H_
+```
+#ifndef DCLONG_SMT_H_
+#define DCLONG_SMT_H_
 
-    #include <random>
-    #include <mutex>
-    using namespace std;
+#include <random>
+#include <mutex>
+using namespace std;
 
-    template< class UIntType, size_t w, size_t n, size_t m, size_t r,
-    UIntType a, size_t u, UIntType d, size_t s,
-    UIntType b, size_t t, UIntType c, size_t l, UIntType f
-    > class smt : public mersenne_twister_engine<UIntType,w,n,m,r,a,u,d,s,b,t,c,l,f>{
-        private:
-            static mutex _mutex;
-        public:
-            UIntType operator()(){
-                lock_guard<mutex> lck(_mutex);
-                return mersenne_twister_engine<UIntType,w,n,m,r,a,u,d,s,b,t,c,l,f>::operator()();
-            }
-    };
+template< class UIntType, size_t w, size_t n, size_t m, size_t r,
+UIntType a, size_t u, UIntType d, size_t s,
+UIntType b, size_t t, UIntType c, size_t l, UIntType f
+> class smt : public mersenne_twister_engine<UIntType,w,n,m,r,a,u,d,s,b,t,c,l,f>{
+    private:
+        static mutex _mutex;
+    public:
+        UIntType operator()(){
+            lock_guard<mutex> lck(_mutex);
+            return mersenne_twister_engine<UIntType,w,n,m,r,a,u,d,s,b,t,c,l,f>::operator()();
+        }
+};
 
-    template< class UIntType, size_t w, size_t n, size_t m, size_t r,
-    UIntType a, size_t u, UIntType d, size_t s,
-    UIntType b, size_t t, UIntType c, size_t l, UIntType f
-    > mutex smt<UIntType,w,n,m,r,a,u,d,s,b,t,c,l,f>::_mutex;
+template< class UIntType, size_t w, size_t n, size_t m, size_t r,
+UIntType a, size_t u, UIntType d, size_t s,
+UIntType b, size_t t, UIntType c, size_t l, UIntType f
+> mutex smt<UIntType,w,n,m,r,a,u,d,s,b,t,c,l,f>::_mutex;
 
-    typedef smt<uint32_t,32,351,175,19,0xccab8ee7,
-    11,0xffffffff,7,0x31b6ab00,15,0xffe50000,17,1812433253> smt11213b;
+typedef smt<uint32_t,32,351,175,19,0xccab8ee7,
+11,0xffffffff,7,0x31b6ab00,15,0xffe50000,17,1812433253> smt11213b;
 
-    typedef smt<uint32_t,32,624,397,31,0x9908b0df,
-    11,0xffffffff,7,0x9d2c5680,15,0xefc60000,18,1812433253> smt19937;
+typedef smt<uint32_t,32,624,397,31,0x9908b0df,
+11,0xffffffff,7,0x9d2c5680,15,0xefc60000,18,1812433253> smt19937;
 
-    #if !defined(BOOST_NO_INT64_T) && !defined(BOOST_NO_INTEGRAL_INT64_T)
-    typedef smt<uint64_t,64,312,156,31,
-    UINT64_C(0xb5026f5aa96619e9),29,UINT64_C(0x5555555555555555),17,
-    UINT64_C(0x71d67fffeda60000),37,UINT64_C(0xfff7eee000000000),43,
-    UINT64_C(6364136223846793005)> smt19937_64;
-    #endif
+#if !defined(BOOST_NO_INT64_T) && !defined(BOOST_NO_INTEGRAL_INT64_T)
+typedef smt<uint64_t,64,312,156,31,
+UINT64_C(0xb5026f5aa96619e9),29,UINT64_C(0x5555555555555555),17,
+UINT64_C(0x71d67fffeda60000),37,UINT64_C(0xfff7eee000000000),43,
+UINT64_C(6364136223846793005)> smt19937_64;
+#endif
 
-    #endif
+#endif
+```
 
-To test whether this random number generator is truely thread safe, 
-I generated a bunch of integer from negative binomial distribution 
-using both this random number generator and mt19937_64 
-with a same seed (on which the random number generator implemented here is based) 
-as the underlying engines, 
-and compare whether they are the same set. 
-Surprisingly, 
-the two sets of integers I got were different. 
-I was very confused and ask this problem to [Bartosz Milewski](http://bartoszmilewski.com/) 
-who published a series of video tutorials on multithreading in C++11. 
-After discussing with Bartosz Milewski, 
-he pointed out that the problem was because 
-the negative binomial distribution calls the method `operator()()` multiple times 
-to generate a single random integer. 
-This does not mean that anything is wrong with the implementation of the negative binomial distribution. 
-It is thread safe as long as the underlying random number generator it uses is thread safe. 
-Due to the fact that a negative binomial distribution calls the method `operator()()` 
-of the underlying random number generator multiple times to generate a single integer, 
+To test whether this random number generator is truely thread safe,
+I generated a bunch of integer from negative binomial distribution
+using both this random number generator and mt19937_64
+with a same seed (on which the random number generator implemented here is based)
+as the underlying engines,
+and compare whether they are the same set.
+Surprisingly,
+the two sets of integers I got were different.
+I was very confused and ask this problem to [Bartosz Milewski](http://bartoszmilewski.com/)
+who published a series of video tutorials on multithreading in C++11.
+After discussing with Bartosz Milewski,
+he pointed out that the problem was because
+the negative binomial distribution calls the method `operator()()` multiple times
+to generate a single random integer.
+This does not mean that anything is wrong with the implementation of the negative binomial distribution.
+It is thread safe as long as the underlying random number generator it uses is thread safe.
+Due to the fact that a negative binomial distribution calls the method `operator()()`
+of the underlying random number generator multiple times to generate a single integer,
 the random numbers it generates based on a synchronized random number generator
-is not necessarily the same set as the one 
-that the corresponding serial random number generator generates from the same seed. 
-I verified that the numbers generated by the negative binomial distribution 
-using the thread safe random number generator here come from the right distribution. 
-Another way to validate the implementation of the thread safe random number generator here is that 
-if a distribution call the method `operator()()` only once to generate a random number, 
-then the numbers it generates based on smt and mt19937_64 should be the same set. 
-I verified that this is true for a bernoulli distribution. 
+is not necessarily the same set as the one
+that the corresponding serial random number generator generates from the same seed.
+I verified that the numbers generated by the negative binomial distribution
+using the thread safe random number generator here come from the right distribution.
+Another way to validate the implementation of the thread safe random number generator here is that
+if a distribution call the method `operator()()` only once to generate a random number,
+then the numbers it generates based on smt and mt19937_64 should be the same set.
+I verified that this is true for a bernoulli distribution.
 
-Short after I implemented this thread safe random number generator, 
-I found betters ways to generate random numbers in parallel. 
-The basic is to make the random number engine to jump forward a long enough distance quickly. 
-Currently many popular random number generators can jump forward a long enough distance 
-in a acceptable short time. 
-For example, 
-the Mersenne Twister can jump forward in milliseconds. 
-For more information, please see [SFMT][].
+Short after I implemented this thread safe random number generator,
+I found betters ways to generate random numbers in parallel.
+The basic is to make the random number engine to jump forward a long enough distance quickly.
+Currently many popular random number generators can jump forward a long enough distance
+in a acceptable short time.
+For example,
+the Mersenne Twister can jump forward in milliseconds.
+For more information, please see [SFMT].
 
 ## References
 
-- [Summary on Random Number Generators]( https://www.legendu.net/en/blog/summary-random-number-generators )
+- [Summary on Random Number Generators](https://www.legendu.net/en/blog/summary-random-number-generators)
 - [The Rust Rand Book - Parallel RNGs](https://rust-random.github.io/book/guide-parallel.html)
+
+[sfmt]: http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/SFMT/#dSFMT
+[thread safe random number generator]: /media/rng/smt.h

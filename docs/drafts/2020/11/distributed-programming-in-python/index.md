@@ -1,7 +1,7 @@
 ---
 title: Distributed Programming in Python
 created: 2020-11-08 19:10:43
-date: 2026-04-13 23:15:10.453447
+date: 2026-04-15 19:27:00.950543
 authors:
   - bendu
 label: distributed-programming-in-python
@@ -12,7 +12,7 @@ tags:
   - distributed
   - programming
   - rq
-  - redis
+  - Redis
   - queue
 ---
 

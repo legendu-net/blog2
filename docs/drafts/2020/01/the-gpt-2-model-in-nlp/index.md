@@ -1,7 +1,7 @@
 ---
-title: "The GPT-2 Model in NLP"
+title: The GPT-2 Model in NLP
 created: 2020-01-06 09:57:38
-date: 2020-02-06 09:57:38
+date: 2026-04-15 19:27:01.098243
 authors:
   - bendu
 label: the-gpt-2-model-in-nlp
@@ -12,17 +12,16 @@ tags:
   - machine learning
   - GPT-2
   - NLP
-  - transformer
+  - Transformer
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 [Code for the paper "Language Models are Unsupervised Multitask Learners"](https://github.com/openai/gpt-2)
 
-The project 
+The project
 [huggingface/transfomer](https://github.com/huggingface/transformers)
-has implementation of transfomer based modles 
+has implementation of transfomer based modles
 (such as
 [GPT-2](https://github.com/huggingface/transformers/blob/master/src/transformers/modeling_gpt2.py)
 )

@@ -1,7 +1,7 @@
 ---
-title: "Python Packaging Tools"
+title: Python Packaging Tools
 created: 2018-10-18 01:47:58
-date: 2018-10-18 01:47:58
+date: 2026-04-15 19:27:01.264016
 authors:
   - bendu
 label: python-packaging-tools
@@ -12,8 +12,7 @@ tags:
   - packaging
   - PyBuilder
   - pip
-  - pyinstaller
-  - pip
+  - PyInstaller
   - project management
 ---
 
@@ -23,9 +22,7 @@ Python packaging:
 
 https://python-packaging.readthedocs.io/en/latest/minimal.html
 
-
 1. It is recommended to use [PyBuilder](http://pybuilder.github.io/) to manager Python projects.
-
 
 ## [pyinstaller](https://github.com/pyinstaller/pyinstaller)
 
@@ -36,7 +33,6 @@ https://python-packaging.readthedocs.io/en/latest/minimal.html
 pip can install a package from a GitHub repository directly.
 
 ## requirements.txt
-
 
 requirements.txt.  ~= >= ==
 https://stackoverflow.com/questions/39590187/in-requirements-txt-what-does-tilde-equals-mean

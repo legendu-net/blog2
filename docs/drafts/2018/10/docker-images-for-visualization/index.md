@@ -1,7 +1,7 @@
 ---
-title: "Docker Images for Visualization"
+title: Docker Images for Visualization
 created: 2018-10-18 23:42:00
-date: 2018-10-18 23:42:00
+date: 2026-04-15 19:27:01.261526
 authors:
   - bendu
 label: docker-images-for-visualization
@@ -10,7 +10,7 @@ tags:
   - software
   - visualization
   - Docker
-  - Docker image
+  - image
   - brunelvis
   - Kibana
 ---

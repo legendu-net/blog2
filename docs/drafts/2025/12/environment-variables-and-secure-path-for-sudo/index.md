@@ -1,7 +1,7 @@
 ---
 title: Environment Variables and Secure Path for sudo
 created: 2025-12-22 15:29:11
-date: 2026-04-13 23:14:17.959393
+date: 2026-04-15 19:27:00.546261
 authors:
   - bendu
 label: environment-variables-and-secure-path-for-sudo
@@ -12,9 +12,9 @@ tags:
   - sudo
   - environment
   - variable
-  - PATH
+  - path
   - secure path
-  - env
+  - ENV
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

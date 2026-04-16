@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: SIGBUS'
 created: 2022-01-18 10:11:28
-date: 2026-04-13 23:14:51.384369
+date: 2026-04-15 19:27:00.829409
 authors:
   - bendu
 label: spark-issue-sigbus
@@ -11,7 +11,6 @@ tags:
   - programming
   - Spark
   - issue
-  - Spark issue
   - big data
   - SIGBUS
 ---

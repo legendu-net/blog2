@@ -1,7 +1,7 @@
 ---
 title: Profile Rust Applications Using Flamegraph
 created: 2021-11-09 10:28:40
-date: 2026-04-13 23:14:53.168682
+date: 2026-04-15 19:27:00.843108
 authors:
   - bendu
 label: profile-rust-applications-using-flamegraph
@@ -10,7 +10,7 @@ tags:
   - computer science
   - programming
   - Rust
-  - flamegraph
+  - FlameGraph
   - perf
   - profile
   - profiling

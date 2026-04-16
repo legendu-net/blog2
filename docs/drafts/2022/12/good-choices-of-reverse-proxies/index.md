@@ -1,7 +1,7 @@
 ---
 title: Good Choices of Reverse Proxies
 created: 2022-12-09 10:57:00
-date: 2026-04-13 23:14:38.075919
+date: 2026-04-15 19:27:00.731457
 authors:
   - bendu
 label: good-choices-of-reverse-proxies
@@ -14,7 +14,7 @@ tags:
   - nginx
   - caddy
   - Sozu
-  - TinyProxy
+  - tinyproxy
   - frp
 ---
 

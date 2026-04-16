@@ -1,7 +1,7 @@
 ---
 title: Benchmark a Rust App
 created: 2021-10-26 22:38:20
-date: 2026-04-13 23:14:54.557749
+date: 2026-04-15 19:27:00.855471
 authors:
   - bendu
 label: benchmark-a-rust-app
@@ -12,7 +12,7 @@ tags:
   - Rust
   - bench
   - benchmark
-  - cargo
+  - Cargo
   - cargo-bench
   - criterion
 ---

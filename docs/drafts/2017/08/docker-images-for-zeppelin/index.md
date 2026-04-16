@@ -1,7 +1,7 @@
 ---
-title: "Docker Images for Zeppelin"
+title: Docker Images for Zeppelin
 created: 2017-08-21 23:37:16
-date: 2019-06-21 23:37:16
+date: 2026-04-15 19:27:01.320399
 authors:
   - bendu
 label: docker-images-for-zeppelin
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - software
   - Docker
-  - Docker image
+  - image
   - Zeppelin
   - big data
   - Spark
@@ -19,18 +19,22 @@ tags:
 
 ## Official Zeppelin Docker Image
 
-1. Pull the official Zeppelin Docker image. 
+1. Pull the official Zeppelin Docker image.
 
-        docker pull apache/zeppelin
+   ```
+    docker pull apache/zeppelin
+   ```
 
-2. Launch the image in a container.
+1. Launch the image in a container.
 
-        docker run -d -p 8080:8080 \
-            -v $PWD/logs:/logs \
-            -v $PWD/notebook:/notebook \
-            -e ZEPPELIN_LOG_DIR='/logs' \
-            -e ZEPPELIN_NOTEBOOK_DIR='/notebook' \
-            --name zeppelin \
-            apache/zeppelin:0.7.2
+   ```
+    docker run -d -p 8080:8080 \
+        -v $PWD/logs:/logs \
+        -v $PWD/notebook:/notebook \
+        -e ZEPPELIN_LOG_DIR='/logs' \
+        -e ZEPPELIN_NOTEBOOK_DIR='/notebook' \
+        --name zeppelin \
+        apache/zeppelin:0.7.2
+   ```
 
-    If you have trouble accessing localhost:8080 in the browser, Please clear browser cache.
+   If you have trouble accessing localhost:8080 in the browser, Please clear browser cache.

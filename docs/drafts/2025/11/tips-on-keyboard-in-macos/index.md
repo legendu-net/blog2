@@ -1,7 +1,7 @@
 ---
 title: Tips on Keyboard in macOS
 created: 2025-11-27 01:02:52
-date: 2026-04-13 23:14:18.994059
+date: 2026-04-15 19:27:00.555719
 authors:
   - bendu
 label: tips-on-keyboard-in-macos
@@ -11,7 +11,6 @@ tags:
   - programming
   - macOS
   - Apple
-  - Mac
   - keyboard
   - keys
   - shortcuts

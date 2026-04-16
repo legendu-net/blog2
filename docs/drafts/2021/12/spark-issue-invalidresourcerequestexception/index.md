@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: InvalidResourceRequestException'
 created: 2021-12-09 10:03:44
-date: 2026-04-13 23:14:52.576555
+date: 2026-04-15 19:27:00.839138
 authors:
   - bendu
 label: spark-issue-invalidresourcerequestexception
@@ -10,7 +10,6 @@ tags:
   - computer science
   - programming
   - Spark
-  - spark issue
   - issue
   - InvalidResourceRequestException
   - virtual cores

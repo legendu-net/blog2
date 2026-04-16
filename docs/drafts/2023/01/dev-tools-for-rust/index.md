@@ -1,7 +1,7 @@
 ---
 title: Dev Tools for Rust
 created: 2023-01-13 16:02:14
-date: 2026-04-13 23:14:33.882040
+date: 2026-04-15 19:27:00.688047
 authors:
   - bendu
 label: dev-tools-for-rust
@@ -14,7 +14,7 @@ tags:
   - development
   - develop
   - tool
-  - cargo
+  - Cargo
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

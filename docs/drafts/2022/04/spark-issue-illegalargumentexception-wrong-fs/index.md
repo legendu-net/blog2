@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: IllegalArgumentException: Wrong FS'
 created: 2022-04-03 19:36:50
-date: 2026-04-13 23:14:49.474154
+date: 2026-04-15 19:27:00.808947
 authors:
   - bendu
 label: spark-issue-illegalargumentexception-wrong-fs
@@ -10,11 +10,11 @@ tags:
   - computer science
   - programming
   - Spark
-  - Spark issue
+  - issue
   - error
   - exception
   - IllegalArgumentException
-  - FS
+  - filesystem
   - ViewFs
 ---
 

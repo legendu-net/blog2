@@ -1,14 +1,14 @@
 ---
 title: Poker Hud Implementations
 created: 2021-06-25 16:46:50
-date: 2026-04-13 23:15:00.571860
+date: 2026-04-15 19:27:00.886159
 authors:
   - bendu
 label: poker-hud-implementations
 license: CC-BY-4.0
 tags:
   - computer science
-  - Poker
+  - poker
   - Texas Holdem
   - Omaha
   - HUD

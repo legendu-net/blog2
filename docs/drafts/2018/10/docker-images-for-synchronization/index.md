@@ -1,7 +1,7 @@
 ---
-title: "Docker Images for Synchronization"
+title: Docker Images for Synchronization
 created: 2018-10-18 23:34:58
-date: 2018-10-18 23:34:58
+date: 2026-04-15 19:27:01.259635
 authors:
   - bendu
 label: docker-images-for-synchronization
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - software
   - Docker
-  - Docker image
+  - image
   - synchronization
   - Dropbox
   - nextCloud

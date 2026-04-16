@@ -1,7 +1,7 @@
 ---
 title: Visual Studio Code for Python
 created: 2019-03-30 12:20:46
-date: 2026-04-14 19:49:13.016397
+date: 2026-04-15 19:27:00.396926
 authors:
   - bendu
 label: visual-studio-code-for-python
@@ -12,7 +12,8 @@ tags:
   - Visual Studio Code
   - VSCode
   - IDE
-  - Jupyter notebook
+  - Jupyter
+  - notebook
 ---
 
 ## Extensions

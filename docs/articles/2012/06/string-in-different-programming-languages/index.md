@@ -1,31 +1,32 @@
 ---
 title: String in Different Programming Languages
 created: 2012-06-14 16:34:30
-date: 2026-04-05 19:42:37.245078
+date: 2026-04-15 19:27:00.298438
 authors:
-- bendu
+  - bendu
 label: string-in-different-programming-languages
 license: CC-BY-4.0
 tags:
-- Python
-- programming
-- Java
-- string
-- bash
-- Ruby
-- R
+  - Python
+  - programming
+  - Java
+  - string
+  - Bash
+  - Ruby
+  - R
 ---
-A string is essentially a sequence of characters. 
+
+A string is essentially a sequence of characters.
 This is how string is implemented in many programming languages (string in Java is different).
 For this reason, you can operate string like an array in some programming languages.
 This post is a shallow summary on strings in different programming languages.
-For a deep discussion, please check other posts. 
+For a deep discussion, please check other posts.
 
 ## Representate
 
 - C++: double quotes (single quotes for char type)
 - Java: double quotes (single quotes for char type)
-- Bash: single or double quotes (double quotes allows expansion of varialbes while single quotes not) 
+- Bash: single or double quotes (double quotes allows expansion of varialbes while single quotes not)
 - Python: single or double quotes (exchangeable)
 - Ruby: single or double quotes (single preserve escapes while double interpret them)
 - R: single or double quotes (exchangeable)
@@ -45,14 +46,13 @@ For a deep discussion, please check other posts.
 - Java: +
 - Bash: `"${str1}other_str"` where `str1` is a string variable. If no white space, double quotes can be omitted
 - Python: +
-- Ruby: + 
+- Ruby: +
 - R: paste() as a function
 
 ## Length
 
 - C++: size() as a method
 - Java: length() as a method
-- Bash: `${#v}` where `v` is a variable in bash 
+- Bash: `${#v}` where `v` is a variable in bash
 - Python: len() as a function
 - Ruby: length() as a method
-

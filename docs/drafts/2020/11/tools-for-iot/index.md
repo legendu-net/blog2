@@ -1,7 +1,7 @@
 ---
 title: Tools for IOT
 created: 2020-11-09 11:25:24
-date: 2026-04-13 23:15:11.484323
+date: 2026-04-15 19:27:00.956831
 authors:
   - bendu
 label: tools-for-iot
@@ -12,7 +12,7 @@ tags:
   - hardware
   - camera
   - FliCamera
-  - IOT
+  - IoT
   - drone
   - autonomous
   - driving

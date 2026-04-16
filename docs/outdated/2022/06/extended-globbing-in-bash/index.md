@@ -1,7 +1,7 @@
 ---
 title: Extended Globbing in Bash
 created: 2022-06-04 12:09:03
-date: 2026-04-13 23:15:30.489109
+date: 2026-04-15 19:27:01.984548
 authors:
   - bendu
 label: extended-globbing-in-bash
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - computer science
   - programming
-  - bash
+  - Bash
   - shell
   - glob
   - globbing

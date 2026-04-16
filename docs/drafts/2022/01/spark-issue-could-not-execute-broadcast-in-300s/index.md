@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: Could Not Execute Broadcast in 300S'
 created: 2022-01-22 11:11:13
-date: 2026-04-13 23:14:51.233004
+date: 2026-04-15 19:27:00.827239
 authors:
   - bendu
 label: spark-issue-could-not-execute-broadcast-in-300s
@@ -11,7 +11,6 @@ tags:
   - programming
   - Spark
   - issue
-  - Spark issue
   - broadcast
   - broadcastTimeout
   - autoBroadcastJoinThreshold

@@ -1,7 +1,7 @@
 ---
 title: Tips on Protobuf
 created: 2022-11-12 14:31:12
-date: 2026-04-13 23:14:41.106802
+date: 2026-04-15 19:27:00.748259
 authors:
   - bendu
 label: tips-on-protobuf
@@ -10,7 +10,7 @@ tags:
   - computer science
   - programming
   - protobuf
-  - protocol buffer
+  - Protocol Buffer
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

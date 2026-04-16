@@ -1,7 +1,7 @@
 ---
 title: Convert MS Office Document to Text
 created: 2013-08-14 00:00:00
-date: 2026-04-13 23:28:03.748378
+date: 2026-04-15 19:27:01.490432
 authors:
   - bendu
 label: convert-ms-office-document-to-text
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - Windows
   - Excel
-  - Office
+  - office
   - Word
   - Linux
   - xls2csv

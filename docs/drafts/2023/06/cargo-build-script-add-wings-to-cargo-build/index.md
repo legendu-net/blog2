@@ -1,7 +1,7 @@
 ---
 title: Cargo Build Script Add Wings to Cargo Build
 created: 2023-06-12 20:54:23
-date: 2026-04-13 23:14:28.654531
+date: 2026-04-15 19:27:00.662127
 authors:
   - bendu
 label: cargo-build-script-add-wings-to-cargo-build
@@ -10,7 +10,7 @@ tags:
   - computer science
   - programming
   - Rust
-  - cargo
+  - Cargo
   - build
   - script
   - build.rs

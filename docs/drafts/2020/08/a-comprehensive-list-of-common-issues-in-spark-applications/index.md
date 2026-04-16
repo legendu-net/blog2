@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive List of Common Issues in Spark Applications
 created: 2020-08-22 08:53:56
-date: 2026-04-13 23:15:17.362066
+date: 2026-04-15 19:27:01.000457
 authors:
   - bendu
 label: a-comprehensive-list-of-common-issues-in-spark-applications
@@ -12,7 +12,6 @@ tags:
   - issue
   - big data
   - error
-  - Spark issue
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

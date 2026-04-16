@@ -1,21 +1,22 @@
 ---
 title: Tips on NodeJS
 created: 2018-04-26 13:10:46
-date: 2026-04-05 19:42:38.021907
+date: 2026-04-15 19:27:01.302735
 authors:
-- bendu
+  - bendu
 label: tips-on-nodejs
 license: CC-BY-4.0
 tags:
-- programming
-- nodejs
-- tips
-- frontend
-- JavaScript
-- JS
-- n
-- nvm
+  - programming
+  - NodeJS
+  - tips
+  - frontend
+  - JavaScript
+  - JS
+  - n
+  - nvm
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Install NodeJS
@@ -25,11 +26,13 @@ tags:
 ## Upgrade NodeJS
 
 1. It is suggested that you use `n` (instead of `nvm`)
-    to manage different versions of NodeJS.
+   to manage different versions of NodeJS.
 
-        :::bash
-        n lts
-        n latest
+   ```
+    :::bash
+    n lts
+    n latest
+   ```
 
 ## References
 

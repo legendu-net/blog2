@@ -1,7 +1,7 @@
 ---
 title: OOM in Rust
 created: 2023-03-05 13:39:51
-date: 2026-04-13 23:14:32.667590
+date: 2026-04-15 19:27:00.680583
 authors:
   - bendu
 label: oom-in-rust
@@ -11,7 +11,7 @@ tags:
   - programming
   - Rust
   - OOM
-  - out of memory
+  - out-of-memory
   - SIGKILL
 ---
 

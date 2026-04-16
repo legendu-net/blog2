@@ -1,7 +1,7 @@
 ---
-title: "Docker Images for Database"
+title: Docker Images for Database
 created: 2018-10-21 23:37:16
-date: 2019-06-21 23:37:16
+date: 2026-04-15 19:27:01.257625
 authors:
   - bendu
 label: docker-images-for-database
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - software
   - Docker
-  - docker image
+  - image
   - database
   - MySQL
   - Mongo
@@ -17,7 +17,6 @@ tags:
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
 
 ## [MySQL](https://hub.docker.com/_/mysql/)
 

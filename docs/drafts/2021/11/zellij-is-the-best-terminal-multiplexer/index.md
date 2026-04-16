@@ -1,7 +1,7 @@
 ---
 title: Zellij Is the Best Terminal Multiplexer
 created: 2021-11-09 10:19:10
-date: 2026-04-13 23:14:54.266395
+date: 2026-04-15 19:27:00.852107
 authors:
   - bendu
 label: zellij-is-the-best-terminal-multiplexer
@@ -10,7 +10,7 @@ tags:
   - computer science
   - programming
   - Rust
-  - zellij
+  - Zellij
   - multiplexer
   - terminal
 ---

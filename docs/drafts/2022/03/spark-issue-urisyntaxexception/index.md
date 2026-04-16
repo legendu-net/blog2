@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: UriSyntaxException'
 created: 2022-03-27 17:16:54
-date: 2026-04-13 23:14:50.198749
+date: 2026-04-15 19:27:00.819432
 authors:
   - bendu
 label: spark-issue-urisyntaxexception
@@ -11,7 +11,6 @@ tags:
   - programming
   - Spark
   - big data
-  - spark issue
   - issue
   - URISyntaxException
 ---

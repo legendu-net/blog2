@@ -1,7 +1,7 @@
 ---
 title: Install Dropbox Using Flatpak
 created: 2025-12-16 15:40:51
-date: 2026-04-13 23:14:16.917690
+date: 2026-04-15 19:27:00.540419
 authors:
   - bendu
 label: install-dropbox-using-flatpak
@@ -13,7 +13,7 @@ tags:
   - flatpak
   - Dropbox
   - FlatHub
-  - Atomic
+  - atomic
   - distribution
 ---
 

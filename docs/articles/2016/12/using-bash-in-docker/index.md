@@ -1,7 +1,7 @@
 ---
 title: Using Bash in Docker
 created: 2016-12-14 13:54:14
-date: 2026-04-13 23:33:07.692109
+date: 2026-04-15 19:27:00.429600
 authors:
   - bendu
 label: using-bash-in-docker
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - software
   - Docker
-  - bash
+  - Bash
   - shell
 ---
 

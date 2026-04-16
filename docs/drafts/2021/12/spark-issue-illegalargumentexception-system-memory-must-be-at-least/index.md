@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: IllegalArgumentException: System Memory Must Be At Least'
 created: 2021-12-05 13:02:47
-date: 2026-04-13 23:14:52.429942
+date: 2026-04-15 19:27:00.836919
 authors:
   - bendu
 label: spark-issue-illegalargumentexception-system-memory-must-be-at-least
@@ -11,7 +11,6 @@ tags:
   - programming
   - Spark
   - issue
-  - Spark issue
   - IllegalArgumentException
   - heap size
   - memory

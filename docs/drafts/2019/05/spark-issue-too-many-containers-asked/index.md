@@ -1,7 +1,7 @@
 ---
-title: "Spark Issue: Too Many Containers Asked"
+title: 'Spark Issue: Too Many Containers Asked'
 created: 2019-05-21 12:14:37
-date: 2021-03-21 12:14:37
+date: 2026-04-15 19:27:01.187888
 authors:
   - bendu
 label: spark-issue-too-many-containers-asked
@@ -15,7 +15,6 @@ tags:
   - error
   - container
   - resource
-  - Spark issue
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
@@ -33,13 +32,15 @@ It might be triggered when dynamic allocation is enabled.
 
 ## Solutions
 
-Generally speaking, 
-it is a good idea to turn on dynamic allocation. 
-However, 
+Generally speaking,
+it is a good idea to turn on dynamic allocation.
+However,
 there is some issues in yarn/Spark which can cause the Spark cluster to allocate too many containers.
 One simple fix for this issue is to restrict the maximum number of executors.
 
-        ...
-        --conf spark.dynamicAllocation.enabled=true \
-        --conf spark.dynamicAllocation.maxExecutors=1000 \
-        ...
+```
+    ...
+    --conf spark.dynamicAllocation.enabled=true \
+    --conf spark.dynamicAllocation.maxExecutors=1000 \
+    ...
+```

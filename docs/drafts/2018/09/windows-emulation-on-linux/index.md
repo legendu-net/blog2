@@ -1,7 +1,7 @@
 ---
 title: Windows Emulation on Linux
 created: 2018-09-15 15:07:31
-date: 2026-04-10 21:33:50.222399
+date: 2026-04-15 19:27:01.277184
 authors:
   - bendu
 label: windows-emulation-on-linux
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - software
   - VirtualBox
-  - Wine
+  - WINE
   - CrossOver
   - Windows Emulation
 ---

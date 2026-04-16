@@ -1,7 +1,7 @@
 ---
 title: Tips on TinyProxy
 created: 2020-10-17 21:09:17
-date: 2026-04-13 23:15:14.636510
+date: 2026-04-15 19:27:00.976313
 authors:
   - bendu
 label: tips-on-tinyproxy
@@ -10,7 +10,7 @@ tags:
   - computer science
   - proxy
   - proxy server
-  - TinyProxy
+  - tinyproxy
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

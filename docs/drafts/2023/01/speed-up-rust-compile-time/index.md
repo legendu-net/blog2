@@ -1,7 +1,7 @@
 ---
 title: Speed Up Rust Compile Time
 created: 2023-01-16 18:53:05
-date: 2026-04-13 23:14:35.615827
+date: 2026-04-15 19:27:00.699606
 authors:
   - bendu
 label: speed-up-rust-compile-time
@@ -13,7 +13,7 @@ tags:
   - compile
   - build
   - check
-  - clippy
+  - Clippy
   - compiler
 ---
 

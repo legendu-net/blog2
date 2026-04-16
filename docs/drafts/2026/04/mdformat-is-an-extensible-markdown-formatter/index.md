@@ -1,7 +1,7 @@
 ---
 title: Mdformat Is An Extensible Markdown Formatter
 created: 2026-04-08 20:49:46.627882
-date: 2026-04-09 10:34:50.579344
+date: 2026-04-15 19:27:00.523113
 authors:
   - bendu
 label: mdformat-is-an-extensible-markdown-formatter
@@ -11,9 +11,10 @@ tags:
   - programming
   - markdown
   - formatter
-  - myst
+  - MyST
   - extensible
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ```
@@ -22,12 +23,12 @@ mdformat path/to/file.md
 
 ## Tips and Traps
 
-1. When mdformat is used via the command-line interface, 
-    it automatically enables installed code formatter plugins and parser plugins
-    so that you don't have to manually specify `--extensions e1 --extensions e2 ...`.
-    However,
-    when mdformat is used via the Python API,
-    you have to manually enable plugins.
+1. When mdformat is used via the command-line interface,
+   it automatically enables installed code formatter plugins and parser plugins
+   so that you don't have to manually specify `--extensions e1 --extensions e2 ...`.
+   However,
+   when mdformat is used via the Python API,
+   you have to manually enable plugins.
 
 ## Some Useful Plugins
 

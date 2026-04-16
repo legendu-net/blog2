@@ -1,7 +1,7 @@
 ---
 title: Quickly Open a Directory in Terminal in Mac
 created: 2020-03-11 16:25:01
-date: 2026-04-13 23:15:26.801782
+date: 2026-04-15 19:27:01.061554
 authors:
   - bendu
 label: quickly-open-a-directory-in-terminal-in-mac
@@ -11,7 +11,7 @@ tags:
   - macOS
   - OpenInTerminal
   - terminal
-  - Hyper
+  - hyper
   - iTerm
 ---
 

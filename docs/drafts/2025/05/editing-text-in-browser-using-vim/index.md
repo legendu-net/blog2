@@ -1,7 +1,7 @@
 ---
 title: Editing Text in Browser Using Vim
 created: 2025-05-30 07:50:43
-date: 2026-04-13 23:14:20.218581
+date: 2026-04-15 19:27:00.577227
 authors:
   - bendu
 label: editing-text-in-browser-using-vim
@@ -12,7 +12,7 @@ tags:
   - editing
   - editor
   - Vim
-  - NeoVim
+  - Neovim
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

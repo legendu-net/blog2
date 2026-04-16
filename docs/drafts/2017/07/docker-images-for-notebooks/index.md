@@ -1,7 +1,7 @@
 ---
 title: Docker Images for Notebooks
 created: 2017-07-27 12:21:05
-date: 2026-04-13 23:33:09.850850
+date: 2026-04-15 19:27:01.332013
 authors:
   - bendu
 label: docker-images-for-notebooks
@@ -10,7 +10,7 @@ tags:
   - software
   - Docker
   - notebook
-  - Jupyter Notebook
+  - Jupyter
   - Zeppelin
 ---
 

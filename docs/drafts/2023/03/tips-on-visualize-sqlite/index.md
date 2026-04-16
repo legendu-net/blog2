@@ -1,7 +1,7 @@
 ---
 title: Tips on visualize-sqlite
 created: 2023-03-05 21:24:58
-date: 2026-04-13 23:14:32.511384
+date: 2026-04-15 19:27:00.678402
 authors:
   - bendu
 label: tips-on-visualize-sqlite
@@ -13,7 +13,7 @@ tags:
   - visualize
   - SQLite3
   - DOT
-  - GraphViz
+  - Graphviz
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: Max Number of Executor Failures Reached'
 created: 2021-06-09 14:44:30
-date: 2026-04-13 23:15:01.799013
+date: 2026-04-15 19:27:00.894780
 authors:
   - bendu
 label: spark-issue-max-number-of-executor-failures-reached
@@ -11,7 +11,7 @@ tags:
   - programming
   - Spark
   - big data
-  - Spark issue
+  - issue
   - executor
   - failures
 ---

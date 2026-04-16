@@ -1,18 +1,18 @@
 ---
 title: Use Sogou Pinyin to Type Chinese
 created: 2015-09-22 13:18:02
-date: 2026-04-05 19:42:38.166642
+date: 2026-04-15 19:27:01.402828
 authors:
-- bendu
+  - bendu
 label: use-sogou-pinyin-to-type-chinese
 license: CC-BY-4.0
 tags:
-- software
-- tips
-- sogou
-- pinyin
-- tips
+  - software
+  - tips
+  - sogou
+  - Pinyin
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Settings
@@ -21,33 +21,32 @@ tags:
 
 1. use half width punctuation
 
-2. 按键 -> 切换英文状态时，保留输入框中已存在的字符并上屏
+1. 按键 -> 切换英文状态时，保留输入框中已存在的字符并上屏
 
-3. 细胞词库 -> uncheck 启用细胞词库自动跟新 to avoid notification of auto updating of sogou pinyin.
-    Currently there is no way to disable the notification.
-    you can close auto update to avoid distraction
+1. 细胞词库 -> uncheck 启用细胞词库自动跟新 to avoid notification of auto updating of sogou pinyin.
+   Currently there is no way to disable the notification.
+   you can close auto update to avoid distraction
 
-
-4. it seems that you cannot turn off sogou pinyin on Linux Mint? ctrl + space does not work ...
-    you can use the command kill of course ...
-
+1. it seems that you cannot turn off sogou pinyin on Linux Mint? ctrl + space does not work ...
+   you can use the command kill of course ...
 
 ## Issues
 
 1. candidate window does not show up, might due to missing driver
 
-2. sometimes fail to start, 
-    you can manually run 
+1. sometimes fail to start,
+   you can manually run
 
-        fcitx -d 
+   ```
+    fcitx -d 
+   ```
 
-    if the input method application doesn't start correctly
+   if the input method application doesn't start correctly
 
-3. fcitx sogou拼音输入法 导致fcitx无法显示退出按钮 目前唯一的解决办法是隐藏搜狗拼音输入法的状态栏　
+1. fcitx sogou拼音输入法 导致fcitx无法显示退出按钮 目前唯一的解决办法是隐藏搜狗拼音输入法的状态栏
 
-4. web WeChat: if sogou pinyin does not wok, just refresh web wechat, this can fix the issue usually
+1. web WeChat: if sogou pinyin does not wok, just refresh web wechat, this can fix the issue usually
 
-5. 搜狗拼音 it take a while after booting for sogou to work ... not sure how to speed it up or ...
-    sogou is really slow to boot
-    sogou related process: sogou-*
-
+1. 搜狗拼音 it take a while after booting for sogou to work ... not sure how to speed it up or ...
+   sogou is really slow to boot
+   sogou related process: sogou-\*

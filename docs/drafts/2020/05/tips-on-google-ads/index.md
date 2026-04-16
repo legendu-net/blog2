@@ -1,7 +1,7 @@
 ---
 title: Tips on Google Ads
 created: 2020-05-25 18:56:25
-date: 2026-04-13 23:15:22.102825
+date: 2026-04-15 19:27:01.026265
 authors:
   - bendu
 label: tips-on-google-ads
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - computer science
   - Google
-  - Ads
+  - ads
   - AdWords
 ---
 

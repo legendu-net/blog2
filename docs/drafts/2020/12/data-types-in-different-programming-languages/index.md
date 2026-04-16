@@ -1,7 +1,7 @@
 ---
 title: Data Types in Different Programming Languages
 created: 2020-12-21 01:53:29
-date: 2026-04-13 23:15:08.805219
+date: 2026-04-15 19:27:00.941097
 authors:
   - bendu
 label: data-types-in-different-programming-languages
@@ -13,8 +13,8 @@ tags:
   - data type
   - primitive
   - pandas
-  - pyarrow
-  - arrow
+  - PyArrow
+  - Arrow
   - SQL
   - equivalent
 ---

@@ -1,29 +1,31 @@
 ---
 title: Working with Spreadsheet in Python
 created: 2015-05-09 08:43:45
-date: 2026-04-05 19:42:37.448086
+date: 2026-04-15 19:27:00.443332
 authors:
-- bendu
+  - bendu
 label: working-with-spreadsheet-in-python
 license: CC-BY-4.0
 tags:
-- programming
-- Python
-- Spreadsheet
-- Excel
-- pandas
-- xlsxwriter
+  - programming
+  - Python
+  - spreadsheet
+  - Excel
+  - pandas
+  - xlsxwriter
 ---
+
 It is suggested that you avoid using Excel files (or other spreadsheet tools) for storing data.
 Parquet file is currently the best format for storing table-like data.
 If you do want to interact and manipulate your data using Excel (or other spreadsheet tools),
 dump your data into CSV files
 and then load them into Excel when needed.
-However, 
+However,
 if you do want to work with spreadsheet in Python,
 below are some options.
 
 ## [Quadratic](https://app.quadratichq.com/)
+
 [Quadratic](https://app.quadratichq.com/)
 is a data science spreadsheet
 which has Python (JavaScript and SQL) built-in.
@@ -36,10 +38,10 @@ for detailed discussions.
 
 ## [pandas](https://github.com/pandas-dev/pandas)
 
-If you just want to read an Excel spreadsheet to a pandas DataFrame 
-or write a pandas DataFrame to an Excel file, 
+If you just want to read an Excel spreadsheet to a pandas DataFrame
+or write a pandas DataFrame to an Excel file,
 it is best to use the pandas library directly.
-Notice that 
+Notice that
 [openpyxl](https://foss.heptapod.net/openpyxl/openpyxl)
 is required if you read/write Excel files using pandas.
 
@@ -49,21 +51,23 @@ is required if you read/write Excel files using pandas.
 is the underlying library that pandas leverages for reading/writing Excel files.
 
 ## [xlsxwriter](https://github.com/jmcnamara/XlsxWriter)
+
 [xlsxwriter](https://github.com/jmcnamara/XlsxWriter)
 is a Python module for writing files in the Excel 2007+ XLSX file format.
-XlsxWriter is designed only as a file writer. 
+XlsxWriter is designed only as a file writer.
 It cannot read or modify an existing Excel file.
 However,
 if an Excel file is created from data (understandable by Python),
-you can create a new Excel file from the same data to overwrite the existing one. 
+you can create a new Excel file from the same data to overwrite the existing one.
 This sort of gives you a flavor of updating an existing Excel file.
 
 ## [xlwings](https://www.xlwings.org/)
-xlwings is a commerical software but has a opensource community edition. 
-It requires an installation of Excel and therefore only works on Windows and macOS. 
+
+xlwings is a commerical software but has a opensource community edition.
+It requires an installation of Excel and therefore only works on Windows and macOS.
 Note that macOS currently does not support UDFs.
 
-## References 
+## References
 
 - [xlwings @ GitHub](https://github.com/xlwings/xlwings)
 
@@ -72,4 +76,3 @@ Note that macOS currently does not support UDFs.
 - [XlsxWriter - Frequently Asked Questions](https://xlsxwriter.readthedocs.io/faq.html)
 
 - [XlsxWriter - Examples](https://xlsxwriter.readthedocs.io/examples.html)
-

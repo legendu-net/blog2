@@ -1,32 +1,33 @@
 ---
 title: Tips on Scikit-Learn
 created: 2019-12-01 10:06:27
-date: 2026-04-05 19:42:37.844957
+date: 2026-04-15 19:27:01.130390
 authors:
-- bendu
+  - bendu
 label: tips-on-scikit-learn
 license: CC-BY-4.0
 tags:
-- AI
-- data science
-- machine learning
-- Scikit-learn
-- sklearn
-- pipeline
+  - AI
+  - data science
+  - machine learning
+  - scikit-learn
+  - sklearn
+  - pipeline
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 1. Cross validation in scikit-learn supports pipeline in addition to vanilla models.
-    Please refer to 
-    [Cross Validation Pipeline](https://chrisalbon.com/machine_learning/model_evaluation/cross_validation_pipeline/)
-    for more details.
+   Please refer to
+   [Cross Validation Pipeline](https://chrisalbon.com/machine_learning/model_evaluation/cross_validation_pipeline/)
+   for more details.
 
-2. [Label encoding](https://scikit-learn.org/stable/modules/preprocessing_targets.html#label-encoding)
-    is an easy way to convert a categorical response/target variable to a numeric one and back to the raw value space.
-    For transform of response/target varible in regression,
-    please refer to [Transforming Target in Tegression](https://scikit-learn.org/stable/modules/compose.html#transforming-target-in-regression).
+1. [Label encoding](https://scikit-learn.org/stable/modules/preprocessing_targets.html#label-encoding)
+   is an easy way to convert a categorical response/target variable to a numeric one and back to the raw value space.
+   For transform of response/target varible in regression,
+   please refer to [Transforming Target in Tegression](https://scikit-learn.org/stable/modules/compose.html#transforming-target-in-regression).
 
-3. [Skorch](https://github.com/skorch-dev/skorch)
+1. [Skorch](https://github.com/skorch-dev/skorch)
 
 ## Metrics
 
@@ -40,4 +41,4 @@ tags:
 
 https://scikit-learn.org/stable/modules/compose.html#transforming-target-in-regression
 
-[Split a Dataset into Train and Test Datasets in Python]( https://www.legendu.net/misc/blog/python-ai-split-dataset ) 
+[Split a Dataset into Train and Test Datasets in Python](https://www.legendu.net/misc/blog/python-ai-split-dataset)

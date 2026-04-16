@@ -1,7 +1,7 @@
 ---
 title: Sum Type in Rust
 created: 2022-01-15 14:09:38
-date: 2026-04-13 23:14:50.787822
+date: 2026-04-15 19:27:00.823599
 authors:
   - bendu
 label: sum-type-in-rust
@@ -12,7 +12,7 @@ tags:
   - Rust
   - sum
   - type
-  - Enum
+  - enum
   - either
 ---
 

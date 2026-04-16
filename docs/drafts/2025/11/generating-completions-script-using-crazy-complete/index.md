@@ -1,7 +1,7 @@
 ---
 title: Generating Completions Script Using crazy-complete
 created: 2025-11-16 16:02:18
-date: 2026-04-13 23:14:18.551236
+date: 2026-04-15 19:27:00.550327
 authors:
   - bendu
 label: generating-completions-script-using-crazy-complete
@@ -10,7 +10,7 @@ tags:
   - computer science
   - programming
   - shell
-  - bash
+  - Bash
   - zsh
   - fish
   - completion

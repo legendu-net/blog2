@@ -1,14 +1,14 @@
 ---
 title: Serialization and deserialization in Python
 created: 2020-09-03 09:42:01
-date: 2026-04-13 23:15:15.094461
+date: 2026-04-15 19:27:00.979994
 authors:
   - bendu
 label: serialization-and-deserialization-in-python
 license: CC-BY-4.0
 tags:
   - computer science
-  - pickle
+  - Pickle
   - serialization
   - deserialization
   - JSON

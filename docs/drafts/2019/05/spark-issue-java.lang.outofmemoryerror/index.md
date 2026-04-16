@@ -1,21 +1,21 @@
 ---
 title: 'Spark Issue: java.lang.OutOfMemoryError'
 created: 2019-05-26 10:19:41
-date: 2026-04-06 10:57:40.811096
+date: 2026-04-15 19:27:01.207582
 authors:
-- bendu
+  - bendu
 label: spark-issue-java.lang.outofmemoryerror
 license: CC-BY-4.0
 tags:
-- programming
-- Spark
-- issue
-- big data
-- OutOfMemoryError
-- OOM
-- error
-- Spark issue
+  - programming
+  - Spark
+  - issue
+  - big data
+  - OutOfMemoryError
+  - OOM
+  - error
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Symptom
@@ -30,8 +30,10 @@ OutOfMemoryError
 
 Increase executor memory.
 
-    :::bash
-    --executor-memory=20G
+```
+:::bash
+--executor-memory=20G
+```
 
 ## Reference:
 

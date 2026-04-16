@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: AnalysisException: Found Duplicated Columns'
 created: 2022-04-03 18:51:57
-date: 2026-04-13 23:14:49.186294
+date: 2026-04-15 19:27:00.803773
 authors:
   - bendu
 label: spark-issue-analysisexception-found-duplicated-columns
@@ -10,7 +10,7 @@ tags:
   - computer science
   - programming
   - Spark
-  - Spark issue
+  - issue
   - error
   - exception
   - AnalysisException

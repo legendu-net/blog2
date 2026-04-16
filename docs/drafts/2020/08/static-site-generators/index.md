@@ -1,7 +1,7 @@
 ---
 title: Static Site Generators
 created: 2020-08-01 12:19:14
-date: 2026-04-13 23:15:16.592633
+date: 2026-04-15 19:27:00.995852
 authors:
   - bendu
 label: static-site-generators
@@ -11,11 +11,10 @@ tags:
   - static site genertor
   - blog
   - blogging
-  - gatsby
+  - Gatsby
   - docusaurus
   - Pelican
   - ABlog
-  - docusaurus
   - docsify
   - Sphinx
   - mkdocs

@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: Container Killed by Yarn for Exceeding Memory Limits'
 created: 2020-11-24 14:55:43
-date: 2026-04-13 23:15:11.632863
+date: 2026-04-15 19:27:00.959100
 authors:
   - bendu
 label: spark-issue-container-killed-by-yarn-for-exceeding-memory-limits
@@ -15,7 +15,7 @@ tags:
   - vmem
   - pmem
   - virtual memory
-  - Spark issue
+  - issue
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

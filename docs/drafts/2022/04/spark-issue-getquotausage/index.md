@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: GetQuotaUsage'
 created: 2022-04-03 18:42:10
-date: 2026-04-13 23:14:49.909469
+date: 2026-04-15 19:27:00.815285
 authors:
   - bendu
 label: spark-issue-getquotausage
@@ -10,7 +10,7 @@ tags:
   - computer science
   - programming
   - Spark
-  - Spark issue
+  - issue
   - exception
   - error
   - getQuotaUsage

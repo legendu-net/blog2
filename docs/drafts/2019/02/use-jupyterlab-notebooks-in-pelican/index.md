@@ -1,7 +1,7 @@
 ---
 title: Use JupyterLab Notebooks in Pelican
 created: 2019-02-22 12:31:45
-date: 2026-04-13 23:15:27.585137
+date: 2026-04-15 19:27:01.231294
 authors:
   - bendu
 label: use-jupyterlab-notebooks-in-pelican
@@ -11,7 +11,7 @@ tags:
   - computer science
   - plugins
   - Pelican
-  - Static Site Generator
+  - static site generator
   - Python
   - markdown
 ---

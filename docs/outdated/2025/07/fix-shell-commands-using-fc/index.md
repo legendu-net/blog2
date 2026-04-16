@@ -1,7 +1,7 @@
 ---
 title: Fix Shell Commands Using fc
 created: 2025-07-06 11:08:48
-date: 2026-04-13 23:15:29.427408
+date: 2026-04-15 19:27:01.975441
 authors:
   - bendu
 label: fix-shell-commands-using-fc
@@ -11,7 +11,7 @@ tags:
   - programming
   - shell
   - command
-  - bash
+  - Bash
   - zsh
   - fc
 ---

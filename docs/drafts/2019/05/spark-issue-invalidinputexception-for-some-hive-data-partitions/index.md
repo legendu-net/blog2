@@ -1,24 +1,23 @@
 ---
 title: 'Spark Issue: InvalidInputException for Some Hive Data Partitions'
 created: 2019-05-22 09:55:40
-date: 2026-04-05 19:42:37.864316
+date: 2026-04-15 19:27:01.193159
 authors:
-- bendu
+  - bendu
 label: spark-issue-invalidinputexception-for-some-hive-data-partitions
 license: CC-BY-4.0
 tags:
-- programming
-- Spark
-- issue
-- big data
-- error
-- InvalidInputException
-- Hive
-- Spark issue
-- partition
+  - programming
+  - Spark
+  - issue
+  - big data
+  - error
+  - InvalidInputException
+  - Hive
+  - partition
 ---
-**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
@@ -34,11 +33,13 @@ at org.apache.spark.rdd.HadoopRDD.getPartitions(HadoopRDD.scala:207)
 
 ## Cause
 
-For some reason the HDFS path registered in the Hive meta store 
+For some reason the HDFS path registered in the Hive meta store
 does not exist in the physical path - (Infra team should take care of this)
 
 Solution: add the following configuration to force checking partition paths
 when submiting Spark jobs.
 
-    :::bash
-    --conf spark.sql.hive.verifyPartitionPath=true
+```
+:::bash
+--conf spark.sql.hive.verifyPartitionPath=true
+```

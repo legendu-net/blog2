@@ -1,14 +1,14 @@
 ---
 title: Tips on Minikube
 created: 2020-03-10 09:39:25
-date: 2026-04-13 23:27:59.607981
+date: 2026-04-15 19:27:01.059074
 authors:
   - bendu
 label: tips-on-minikube
 license: CC-BY-4.0
 tags:
   - software
-  - Minikube
+  - minikube
   - k8s
   - Kubernetes
 ---

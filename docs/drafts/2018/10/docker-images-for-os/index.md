@@ -1,20 +1,21 @@
 ---
 title: Docker Images for OS
 created: 2018-10-27 08:29:44
-date: 2026-04-05 19:42:37.973856
+date: 2026-04-15 19:27:01.267923
 authors:
-- bendu
+  - bendu
 label: docker-images-for-os
 license: CC-BY-4.0
 tags:
-- software
-- Docker
-- docker image
-- OS
-- Ubuntu
-- CentOS
-- phusion
+  - software
+  - Docker
+  - image
+  - OS
+  - Ubuntu
+  - CentOS
+  - phusion
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## [ubuntu](https://hub.docker.com/_/ubuntu/)
@@ -35,6 +36,6 @@ https://hub.docker.com/r/circleci/android
 
 https://hub.docker.com/r/bitriseio/docker-android/
 
-thshaw/arc-welder 
+thshaw/arc-welder
 
 ## [wine](https://hub.docker.com/r/bestwu/wine)

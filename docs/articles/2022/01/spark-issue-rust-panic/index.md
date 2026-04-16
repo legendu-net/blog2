@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: Rust Panic'
 created: 2022-01-07 11:12:24
-date: 2026-04-13 23:14:13.848670
+date: 2026-04-15 19:27:00.380333
 authors:
   - bendu
 label: spark-issue-rust-panic
@@ -11,7 +11,6 @@ tags:
   - programming
   - Spark
   - issue
-  - Spark issue
   - big data
   - panic
   - panicked at

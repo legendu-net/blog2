@@ -1,7 +1,7 @@
 ---
 title: Tips on IDE
 created: 2018-04-18 19:35:55
-date: 2026-04-14 19:44:32.192962
+date: 2026-04-15 19:27:01.299328
 authors:
   - bendu
 label: tips-on-ide
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - software
   - IDE
-  - Cloud IDE
+  - Cloud
   - Java
   - C++
   - Python

@@ -1,7 +1,7 @@
 ---
 title: Docker on Mac
 created: 2017-08-20 10:19:20
-date: 2026-04-13 23:28:02.846383
+date: 2026-04-15 19:27:01.322371
 authors:
   - bendu
 label: docker-on-mac
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - software
   - Docker
-  - Mac
+  - macOS
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

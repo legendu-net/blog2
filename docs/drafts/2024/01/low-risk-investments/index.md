@@ -1,7 +1,7 @@
 ---
 title: Low Risk Investments
 created: 2024-01-23 01:07:54
-date: 2026-04-13 23:27:57.895619
+date: 2026-04-15 19:27:00.622825
 authors:
   - bendu
 label: low-risk-investments
@@ -15,7 +15,7 @@ tags:
   - treasury
   - T-Bills
   - tips
-  - Notes
+  - notes
   - bond
   - index fund
   - ETF

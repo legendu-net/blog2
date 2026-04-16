@@ -1,7 +1,7 @@
 ---
 title: Universal Blue Atomic Linux Distributions
 created: 2025-12-07 17:20:04
-date: 2026-04-13 23:14:16.605113
+date: 2026-04-15 19:27:00.537074
 authors:
   - bendu
 label: universal-blue-atomic-linux-distributions
@@ -13,7 +13,7 @@ tags:
   - Universal Blue
   - Aurora
   - Origami
-  - Atomic
+  - atomic
   - Fedora
 ---
 

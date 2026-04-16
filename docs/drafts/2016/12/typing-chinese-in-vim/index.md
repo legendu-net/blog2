@@ -1,18 +1,19 @@
 ---
 title: Typing Chinese in Vim
 created: 2016-12-04 21:19:05
-date: 2026-04-05 19:42:38.128348
+date: 2026-04-15 19:27:01.379365
 authors:
-- bendu
+  - bendu
 label: typing-chinese-in-vim
 license: CC-BY-4.0
 tags:
-- software
-- IDE
-- Vim
-- NeoVim
-- Chinese
+  - software
+  - IDE
+  - Vim
+  - Neovim
+  - Chinese
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 The simplest suggestion is not to waste your time on this right now.
@@ -20,7 +21,7 @@ There are some old related Vim plugins but are outdated.
 NeoVim is a better alternative to Vim.
 Wait to see whether good solutions come out for NeoVim.
 
-Following are some related artilces for typing Chinese in Vim. 
+Following are some related artilces for typing Chinese in Vim.
 
 http://blog.csdn.net/peterli_xue/article/details/6818212
 http://zuyunfei.com/2013//killer-plugin-of-vim-vimim/ 23.04.2017

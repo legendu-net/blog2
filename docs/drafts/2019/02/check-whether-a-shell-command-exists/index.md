@@ -1,7 +1,7 @@
 ---
 title: Check Whether a Shell Command Exists
 created: 2019-02-10 12:26:09
-date: 2026-04-14 19:32:04.985621
+date: 2026-04-15 19:27:01.223534
 authors:
   - bendu
 label: check-whether-a-shell-command-exists
@@ -12,7 +12,7 @@ tags:
   - command
   - exist
   - Python
-  - Fish
+  - fish
   - Bash
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Rust for Machine Learning"
+title: Rust for Machine Learning
 created: 2020-01-27 22:43:48
-date: 2023-08-12 13:11:33
+date: 2026-04-15 19:27:01.094969
 authors:
   - bendu
 label: rust-for-machine-learning
@@ -11,55 +11,62 @@ tags:
   - data science
   - machine learning
   - Rust
-  - AI
   - deep learning
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 ## [candle](https://github.com/huggingface/candle)
+
 [Candle](https://github.com/huggingface/candle)
 is a minimalist ML framework for Rust with a focus on easiness of use and on performance (including GPU support).
 
 ## [dfdx](https://github.com/coreylowman/dfdx)
+
 [dfdx](https://github.com/coreylowman/dfdx)
 is an ergonomics & safety focused deep learning in Rust.
 
 ## [burn](https://github.com/burn-rs/burn)
+
 [burn](https://github.com/burn-rs/burn)
 is a flexible and comprehensive deep learning framework in Rust
 .
 It can leverage multiple backends so you can choose the best engine for your workload.
 
 ## [tch-rs](https://github.com/LaurentMazare/tch-rs)
+
 [tch-rs](https://github.com/LaurentMazare/tch-rs)
 is a Rust bindings for the C++ API of PyTorch.
 
 ## [linfa](https://github.com/rust-ml/linfa)
 
 ## [BastionAI](https://github.com/mithril-security/bastionai)
-BastionAI is a confidential deep learning framework 
-that enables data scientists to train their models on sensitive data, 
+
+BastionAI is a confidential deep learning framework
+that enables data scientists to train their models on sensitive data,
 while ensuring the data providers no third party will have access to these.
 
 ## [tract](https://github.com/sonos/tract)
+
 [tract](https://github.com/sonos/tract)
-is a Neural Network inference toolkit developed in Rust. 
-It can read Tensorflow 1, ONNX or NNEF, 
+is a Neural Network inference toolkit developed in Rust.
+It can read Tensorflow 1, ONNX or NNEF,
 optimize them and run data through them.
 
 ## [tensorflow/rust](https://github.com/tensorflow/rust)
+
 [tensorflow/rust](https://github.com/tensorflow/rust)
 is a Rust language binding for TensorFlow.
 
 ## Other Python Libraries Based-on Rust Implementation
 
 ## [safetensors](https://github.com/huggingface/safetensors)
+
 [SafeTensors](https://github.com/huggingface/safetensors)
 implements a new simple format for storing tensors safely (as opposed to pickle) and that is still fast (zero-copy).
 
 ## [tokenizers](https://github.com/huggingface/tokenizers)
+
 [Tokenizers](https://github.com/huggingface/tokenizers)
 provides an implementation of today's most used tokenizers, with a focus on performance and versatility.
 

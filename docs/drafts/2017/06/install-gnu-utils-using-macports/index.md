@@ -1,13 +1,12 @@
 ---
 title: Install GNU Utils Using MacPorts
 created: 2017-06-22 12:32:25
-date: 2026-04-13 22:07:51.183434
+date: 2026-04-15 19:27:01.343898
 authors:
   - bendu
 label: install-gnu-utils-using-macports
 license: CC-BY-4.0
 tags:
-  - Mac
   - macOS
   - MacPorts
 ---

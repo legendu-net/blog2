@@ -1,7 +1,7 @@
 ---
 title: Tips on Apache Arrow Flight SQL
 created: 2022-10-16 15:53:00
-date: 2026-04-13 23:14:42.282597
+date: 2026-04-15 19:27:00.754897
 authors:
   - bendu
 label: tips-on-apache-arrow-flight-sql
@@ -11,7 +11,6 @@ tags:
   - programming
   - SQL
   - Apache Arrow Flight SQL
-  - SQL
   - Apache Arrow
 ---
 

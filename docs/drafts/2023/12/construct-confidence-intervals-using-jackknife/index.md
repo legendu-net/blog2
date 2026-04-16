@@ -1,7 +1,7 @@
 ---
-title: "Construct Confidence Intervals Using Jackknife"
+title: Construct Confidence Intervals Using Jackknife
 created: 2023-12-08 21:46:25
-date: 2023-12-08 21:46:25
+date: 2026-04-15 19:27:00.628173
 authors:
   - bendu
 label: construct-confidence-intervals-using-jackknife
@@ -10,7 +10,7 @@ tags:
   - Statistics
   - jackknife
   - confidence interval
-  - ci
+  - CI
   - bucketize
 ---
 
@@ -24,7 +24,6 @@ Specially,
 it supports the statistical method "jackknife on bucketized data"
 for estimating variances and construct confidence intervals.
 
-
 ## References
 
 - [Estimating Uncertainty for Massive Data Streams](https://research.google/pubs/pub43157/)
@@ -34,4 +33,3 @@ for estimating variances and construct confidence intervals.
 - [Resampling Data: Using a Statistical Jackknife](https://www.math.wustl.edu/~sawyer/handouts/Jackknife.pdf)
 
 - [Mind Your Units](https://www.unofficialgoogledatascience.com/2016/08/mind-your-units.html)
-

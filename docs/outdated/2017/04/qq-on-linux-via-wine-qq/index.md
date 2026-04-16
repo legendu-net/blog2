@@ -1,7 +1,7 @@
 ---
 title: QQ on Linux via Wine QQ
 created: 2017-04-22 15:23:18
-date: 2026-04-05 19:42:38.108637
+date: 2026-04-15 19:27:02.013233
 authors:
   - bendu
 label: qq-on-linux-via-wine-qq
@@ -11,7 +11,7 @@ tags:
   - QQ
   - tips
   - Linux
-  - Wine
+  - WINE
   - CrossOver
 ---
 

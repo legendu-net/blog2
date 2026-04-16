@@ -1,7 +1,7 @@
 ---
-title: "Spark Issue: Table Not Found"
+title: 'Spark Issue: Table Not Found'
 created: 2019-05-24 15:06:53
-date: 2021-03-24 15:06:53
+date: 2026-04-15 19:27:01.183930
 authors:
   - bendu
 label: spark-issue-table-not-found
@@ -12,7 +12,6 @@ tags:
   - issue
   - big data
   - error
-  - Spark issue
   - hive-site.xml
 ---
 
@@ -42,5 +41,7 @@ Forgot to submit a `hive-site.xml` together with the Spark application.
 
 Include Hive configuration of the Spark cluster when submitting Spark jobs.
 
-    :::bash
-    --files "/apache/spark/conf/hive-site.xml"
+```
+:::bash
+--files "/apache/spark/conf/hive-site.xml"
+```

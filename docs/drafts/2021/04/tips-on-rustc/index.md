@@ -1,7 +1,7 @@
 ---
 title: Tips on rustc
 created: 2021-04-22 21:11:46
-date: 2026-04-13 23:15:05.138757
+date: 2026-04-15 19:27:00.915566
 authors:
   - bendu
 label: tips-on-rustc
@@ -12,7 +12,7 @@ tags:
   - Rust
   - rustc
   - optimization
-  - cargo
+  - Cargo
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

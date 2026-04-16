@@ -1,7 +1,7 @@
 ---
-title: "Computer Science Algorithms"
+title: Computer Science Algorithms
 created: 2019-05-26 10:56:44
-date: 2023-07-30 22:23:15
+date: 2026-04-15 19:27:01.175706
 authors:
   - bendu
 label: computer-science-algorithms
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - programming
   - computer science
-  - leetcode
+  - LeetCode
   - algo
   - algorithm
   - data structure
@@ -17,9 +17,7 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
-[Tree-Based Data Structures]( https://www.legendu.net/misc/blog/tree-based-data-structures )
-
+[Tree-Based Data Structures](https://www.legendu.net/misc/blog/tree-based-data-structures)
 
 [Double-ended Queue](https://en.wikipedia.org/wiki/Double-ended_queue)
 
@@ -57,4 +55,3 @@ https://www.toptal.com/developers/sorting-algorithms
 ## Specific Ones
 
 https://en.wikipedia.org/wiki/Viterbi_algorithm
-

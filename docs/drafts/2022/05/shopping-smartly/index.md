@@ -1,7 +1,7 @@
 ---
 title: Shopping Smartly
 created: 2022-05-21 21:35:27
-date: 2026-04-13 23:30:34.825143
+date: 2026-04-15 19:27:00.792418
 authors:
   - bendu
 label: shopping-smartly
@@ -14,7 +14,7 @@ tags:
   - smartly
   - CamelCamelCamel
   - DealMoon
-  - Homedepot
+  - Home Depot
   - Costco
   - SlickDeals
   - deal

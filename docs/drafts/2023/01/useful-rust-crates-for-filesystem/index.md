@@ -1,7 +1,7 @@
 ---
 title: Useful Rust Crates for Filesystem
 created: 2023-01-13 15:40:23
-date: 2026-04-13 23:14:36.551558
+date: 2026-04-15 19:27:00.722181
 authors:
   - bendu
 label: useful-rust-crates-for-filesystem
@@ -13,7 +13,6 @@ tags:
   - crate
   - useful
   - filesystem
-  - fs
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

@@ -1,7 +1,7 @@
 ---
-title: "Software for Editing Videos"
+title: Software for Editing Videos
 created: 2020-02-09 12:37:45
-date: 2020-08-09 12:37:45
+date: 2026-04-15 19:27:01.073051
 authors:
   - bendu
 label: software-for-editing-videos
@@ -11,7 +11,7 @@ tags:
   - video
   - edit
   - Blender
-  - Shortcut
+  - shortcut
   - OpenShot
   - KDEnlive
 ---
@@ -36,6 +36,6 @@ however, it is only available for Windows and Linux at this time.
 
 For Windows and macOS only.
 
-## References 
+## References
 
 https://www.doodly.com/

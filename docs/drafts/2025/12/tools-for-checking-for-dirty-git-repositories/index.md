@@ -1,7 +1,7 @@
 ---
 title: Tools for Checking for Dirty Git Repositories
 created: 2025-12-15 19:18:01
-date: 2026-04-14 19:42:36.358575
+date: 2026-04-15 19:27:00.534894
 authors:
   - bendu
 label: tools-for-checking-for-dirty-git-repositories
@@ -14,7 +14,6 @@ tags:
   - dirty
   - check
   - reposcan
-  - Git
   - leave
 ---
 

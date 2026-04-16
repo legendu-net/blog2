@@ -1,7 +1,7 @@
 ---
 title: Convert PDF to EPS
 created: 2012-11-21 16:30:01
-date: 2026-04-14 19:32:02.972836
+date: 2026-04-15 19:27:00.305866
 authors:
   - bendu
 label: convert-pdf-to-eps
@@ -12,7 +12,7 @@ tags:
   - Linux
   - PDF
   - software
-  - Graphics
+  - graphics
 ---
 
 There are tons of tools for converting PDF pictures to EPS pictures in Linux.

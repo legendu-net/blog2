@@ -1,7 +1,7 @@
 ---
 title: Tips on Backend Development
 created: 2020-10-26 12:49:19
-date: 2026-04-13 23:15:12.697223
+date: 2026-04-15 19:27:00.966769
 authors:
   - bendu
 label: tips-on-backend-development
@@ -13,8 +13,8 @@ tags:
   - backend
   - framework
   - Python
-  - django
-  - flask
+  - Django
+  - Flask
   - tornado
   - Java
   - NodeJS

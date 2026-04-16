@@ -1,28 +1,27 @@
 ---
 title: 'Spark Issue: Spark Application Submission Is Not Finished'
 created: 2019-05-21 12:14:37
-date: 2026-04-05 19:42:37.866800
+date: 2026-04-15 19:27:01.195302
 authors:
-- bendu
+  - bendu
 label: spark-issue-spark-application-submission-is-not-finished
 license: CC-BY-4.0
 tags:
-- programming
-- Spark
-- big data
-- issue
-- error
-- application submission
-- Spark issue
+  - programming
+  - Spark
+  - big data
+  - issue
+  - error
+  - application submission
 ---
-**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Error Message
 
-> Application submission is not finished, submitted application application__1524215324275_0081 is still in ...
+> Application submission is not finished, submitted application application\_\_1524215324275_0081 is still in ...
 
 ![image](https://user-images.githubusercontent.com/824507/57563475-447c7e00-7353-11e9-8421-4b51e58ef18d.png)
 

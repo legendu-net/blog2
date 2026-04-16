@@ -1,7 +1,7 @@
 ---
-title: "Check Whether a File Exists in Spark"
+title: Check Whether a File Exists in Spark
 created: 2019-05-09 22:30:29
-date: 2019-05-09 22:30:29
+date: 2026-04-15 19:27:01.173175
 authors:
   - bendu
 label: check-whether-a-file-exists-in-spark
@@ -10,21 +10,19 @@ tags:
   - programming
   - Spark
   - Hadoop
-  - FileSystem
+  - filesystem
   - file system
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
-
 ## org.apache.hadoop.fs.FileSystem
+
 ```
 val conf = sc.hadoopConfiguration
 val fs = org.apache.hadoop.fs.FileSystem.get(conf)
 val exists = fs.exists(new org.apache.hadoop.fs.Path("/path/on/hdfs/to/SUCCESS.txt"))
 ```
-
 
 ```
 import org.apache.hadoop.fs.FileSystem
@@ -49,7 +47,6 @@ val dataframe = spark.read.parquet(filteredPaths: _*)
 https://spark.apache.org/docs/latest/api/java/index.html?org/apache/spark/streaming/util/HdfsUtils.html
 
 https://stackoverflow.com/questions/30405728/apache-spark-check-if-file-exists
-
 
 https://stackoverflow.com/questions/45193825/spark-read-file-only-if-the-path-exists?rq=1
 

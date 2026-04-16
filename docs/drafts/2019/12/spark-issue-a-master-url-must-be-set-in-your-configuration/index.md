@@ -1,7 +1,7 @@
 ---
-title: "Spark Issue: a Master URL Must Be Set in Your Configuration"
+title: 'Spark Issue: a Master URL Must Be Set in Your Configuration'
 created: 2019-12-21 12:14:37
-date: 2021-03-21 12:14:37
+date: 2026-04-15 19:27:01.124590
 authors:
   - bendu
 label: spark-issue-a-master-url-must-be-set-in-your-configuration
@@ -12,9 +12,8 @@ tags:
   - issue
   - error
   - master
-  - yarn
+  - YARN
   - master URL
-  - Spark issue
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
@@ -31,20 +30,22 @@ The master of Spark cluster is not specified.
 
 Add `.master("yarn")` into the following code
 
-    :::bash
-    val spark = SparkSession.builder()
-        .appName("SomeAppName")
-        .getOrCreate();
+```
+:::bash
+val spark = SparkSession.builder()
+    .appName("SomeAppName")
+    .getOrCreate();
+```
 
 making it become
 
-    :::bash
-    val spark = SparkSession.builder()
-        .master("yarn")
-        .appName("SomeAppName")
-        .getOrCreate();
-
-
+```
+:::bash
+val spark = SparkSession.builder()
+    .master("yarn")
+    .appName("SomeAppName")
+    .getOrCreate();
+```
 
 ## References
 

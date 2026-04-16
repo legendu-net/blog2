@@ -1,7 +1,7 @@
 ---
 title: Lua Bindings for Rust
 created: 2022-06-12 11:07:20
-date: 2026-04-13 23:14:46.475359
+date: 2026-04-15 19:27:00.778164
 authors:
   - bendu
 label: lua-bindings-for-rust
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - computer science
   - programming
-  - LUA
+  - Lua
   - RLUA
   - Rust
   - binding

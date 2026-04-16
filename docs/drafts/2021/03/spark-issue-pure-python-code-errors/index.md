@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: Pure Python Code Errors'
 created: 2021-03-22 10:18:22
-date: 2026-04-13 23:15:06.472971
+date: 2026-04-15 19:27:00.922418
 authors:
   - bendu
 label: spark-issue-pure-python-code-errors
@@ -12,7 +12,6 @@ tags:
   - Spark
   - issue
   - big data
-  - Spark issue
   - Python
   - error
   - exception

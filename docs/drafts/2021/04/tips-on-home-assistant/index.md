@@ -1,7 +1,7 @@
 ---
 title: Tips on Home Assistant
 created: 2021-04-09 09:47:32
-date: 2026-04-13 23:15:04.841871
+date: 2026-04-15 19:27:00.912927
 authors:
   - bendu
 label: tips-on-home-assistant
@@ -11,7 +11,6 @@ tags:
   - programming
   - Python
   - home assistant
-  - Python
   - smart home
 ---
 

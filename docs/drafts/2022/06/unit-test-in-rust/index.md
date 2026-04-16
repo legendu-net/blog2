@@ -1,7 +1,7 @@
 ---
 title: Unit Test in Rust
 created: 2022-06-16 15:34:08
-date: 2026-04-13 23:14:46.931062
+date: 2026-04-15 19:27:00.783139
 authors:
   - bendu
 label: unit-test-in-rust
@@ -13,7 +13,7 @@ tags:
   - test
   - unit
   - testing
-  - cargo
+  - Cargo
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

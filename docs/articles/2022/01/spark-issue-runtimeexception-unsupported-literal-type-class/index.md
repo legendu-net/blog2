@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: RuntimeException: Unsupported Literal Type Class'
 created: 2022-01-15 14:36:45
-date: 2026-04-13 23:14:13.550587
+date: 2026-04-15 19:27:00.375475
 authors:
   - bendu
 label: spark-issue-runtimeexception-unsupported-literal-type-class
@@ -11,7 +11,6 @@ tags:
   - programming
   - Spark
   - issue
-  - Spark issue
   - big data
   - RuntimeException
   - type

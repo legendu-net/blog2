@@ -1,7 +1,7 @@
 ---
 title: Tips on Torchvision
 created: 2020-01-07 09:50:47
-date: 2026-04-14 19:34:17.064223
+date: 2026-04-15 19:27:01.106877
 authors:
   - bendu
 label: tips-on-torchvision
@@ -10,7 +10,7 @@ tags:
   - AI
   - data science
   - machine learning
-  - torchvision
+  - TorchVision
   - PyTorch
 ---
 

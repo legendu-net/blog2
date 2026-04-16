@@ -1,7 +1,7 @@
 ---
 title: 'Spark Issue: InsertOperationConflictException: Failed to Hold Insert Operation Lock'
 created: 2021-03-24 14:57:29
-date: 2026-04-13 23:15:06.827027
+date: 2026-04-15 19:27:00.927013
 authors:
   - bendu
 label: spark-issue-insertoperationconflictexception-failed-to-hold-insert-operation-lock
@@ -11,7 +11,6 @@ tags:
   - programming
   - Spark
   - issue
-  - Spark issue
   - InsertOperationConflictException
   - fail
   - hold

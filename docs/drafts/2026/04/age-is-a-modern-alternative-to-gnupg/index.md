@@ -1,7 +1,7 @@
 ---
 title: Age Is a Modern Alternative to GnuPG
 created: 2026-04-13 21:13:36.601982
-date: 2026-04-13 21:18:10.960631
+date: 2026-04-15 19:27:00.527708
 authors:
   - bendu
 label: age-is-a-modern-alternative-to-gnupg
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - age
   - GnuPG
-  - gpg
+  - GPG
   - encryption
 ---
 

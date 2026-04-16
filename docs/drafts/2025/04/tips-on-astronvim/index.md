@@ -1,7 +1,7 @@
 ---
 title: Tips on AstroNvim
 created: 2025-04-28 10:55:17
-date: 2026-04-13 23:14:22.211057
+date: 2026-04-15 19:27:00.591039
 authors:
   - bendu
 label: tips-on-astronvim
@@ -12,7 +12,7 @@ tags:
   - IDE
   - Vim
   - AstroNvim
-  - NeoVim
+  - Neovim
   - LSP
 ---
 

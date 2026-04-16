@@ -1,19 +1,20 @@
 ---
 title: Use Qt in Python
 created: 2017-07-12 11:12:42
-date: 2026-04-05 19:42:38.062963
+date: 2026-04-15 19:27:01.338841
 authors:
-- bendu
+  - bendu
 label: use-qt-in-python
 license: CC-BY-4.0
 tags:
-- programming
-- GUI
-- Python
-- QT
-- PyQT5
-- PySide2
+  - programming
+  - GUI
+  - Python
+  - Qt
+  - PyQt5
+  - PySide2
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## PyQt5 vs PySide2
@@ -27,12 +28,16 @@ PySide2 has a more friendly LGPL licence.
 Personally,
 I prefer PySide2.
 
-## Installation 
+## Installation
+
 ### PySide2
+
 ```
 pip3 install PySide2
 ```
+
 ### PyQt5
+
 ```
 pip3 install PyQt5
 ```
@@ -46,11 +51,13 @@ pip3 install PyQt5
 git clone git://code.qt.io/pyside/pyside-setup.git
 
 ## PyQt
+
 ```
 QtCore.QCoreApplication.instance().quit
 # vs
 QtGui.qApp.quit vs QtGui.QMainWindow (self.close)
 ```
+
 ## Tutorial
 
 https://build-system.fman.io/python-qt-tutorial
@@ -76,7 +83,6 @@ https://wiki.qt.io/Qt_for_Python_DBusIntegration
 https://wiki.qt.io/Qt_for_Python_UiFiles
 
 ## References
-
 
 https://www.qt.io/qt-for-python
 
