@@ -48,6 +48,8 @@ tags:
 2. You can write prompts (even each one-time) in text file and then use `@/path/to/prompt/file` to load it to Gemini CLI.
     This can make writing prompts easier as you can write prompts in your favorite IDE and can easily polish it as needed.
 
+3. Define custom command for reusable prompts.
+
 ## References
 
 - [The Gemini CLI turns me into an unstoppable coding beast](https://www.youtube.com/watch?v=YAy7kd5Nqm0)

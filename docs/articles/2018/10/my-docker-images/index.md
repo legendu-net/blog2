@@ -1,7 +1,7 @@
 ---
 title: My Docker Images
 created: 2018-10-18 09:10:17
-date: 2026-04-15 19:27:00.405166
+date: 2026-04-16 19:29:35.485760
 authors:
   - bendu
 label: my-docker-images
@@ -28,8 +28,9 @@ for fallback if a tag is broken.
 Please refer to the following tag table for more details.
 
 ```{list-table}
-:header-rows: 1
-
+---
+header-rows: 1
+---
 - - Tag
   - Base Image OS
   - Comment
@@ -54,8 +55,9 @@ Please refer to the following tag table for more details.
 ```
 
 ```{list-table}
-:header-rows: 1
-
+---
+header-rows: 1
+---
 - - Docker Image
   - Comment
 - - [dclong/vscode-server](https://github.com/legendu-net/docker-vscode-server)

@@ -1,10 +1,10 @@
 ---
-title: AI Learning
+title: Learning Traditional ML
 created: 2013-12-08 23:07:57
-date: 2026-04-13 23:33:11.443977
+date: 2026-04-17 11:36:59.191145
 authors:
   - bendu
-label: ai-learning
+label: learning-traditional-ml
 license: CC-BY-4.0
 tags:
   - AI

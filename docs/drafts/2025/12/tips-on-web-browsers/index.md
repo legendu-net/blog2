@@ -9,9 +9,12 @@ license: CC-BY-4.0
 tags:
   - computer science
   - programming
-  - web browser
+  - web
+  - browser
+  - AI
   - Disco
   - Dia
+  - Atlas
   - Light Panda
 ---
 
@@ -20,6 +23,8 @@ tags:
 ## AI-centric Browsers
 
 - [Google Disco](https://labs.google/disco)
+
+- [ChatGPT Atlas](https://chatgpt.com/atlas/)
 
 - [Dia](tips-on-the-dia-browser)
 

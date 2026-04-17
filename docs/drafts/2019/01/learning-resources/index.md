@@ -1,7 +1,7 @@
 ---
-title: "Learning Resources"
+title: Learning Resources
 created: 2019-01-09 17:38:45
-date: 2020-05-09 17:38:45
+date: 2026-04-16 20:49:14.795647
 authors:
   - bendu
 label: learning-resources
@@ -17,7 +17,6 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 - [DeepLearning.AI](https://www.deeplearning.ai/)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [Education Ecosystem](https://www.education-ecosystem.com/)
@@ -31,7 +30,6 @@ tags:
 - [W3C](http://www.w3schools.com/)
 - [Cheat Sheet](http://www.cheatography.com/)
 - [Cheat Sheet](http://www.addedbytes.com/cheat-sheets/)
-
 
 [MIT Open Courses Ware](https://ocw.mit.edu/index.htm)
 

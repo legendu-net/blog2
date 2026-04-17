@@ -257,12 +257,6 @@ tags:
 
 [langextract](https://github.com/google/langextract)
 
-## AI Tools from China
-
-- [智谱AI开放平台](https://bigmodel.cn/)
-- 腾讯元宝
-- 豆包
-
 ## Tutorials
 
 - [Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy](https://www.youtube.com/watch?v=XfpMkf4rD6E)

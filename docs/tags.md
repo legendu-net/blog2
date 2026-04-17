@@ -7,8 +7,8 @@ site:
 ## programming
 ```{dropdown} Click to expand/collapse 1031 links
 - [LLM APIs](llm-apis)
-- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
 - [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 - [Hands on the Stream Object in Java 8](hands-on-the-stream-object-in-java-8)
 - [Hashmap in Kotlin](hashmap-in-kotlin)
@@ -2157,6 +2157,7 @@ site:
 
 ## software
 ```{dropdown} Click to expand/collapse 200 links
+- [My Docker Images](my-docker-images)
 - [Working Remotely in Linux](working-remotely-in-linux)
 - [Remote Desktop Using Remmina](remote-desktop-using-remmina)
 - [Cloud IDE](cloud-ide)
@@ -2193,7 +2194,6 @@ site:
 - [Manage Docker Images and Containers](manage-docker-images-and-containers)
 - [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
 - [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
-- [My Docker Images](my-docker-images)
 - [Make Eclipse Support C++11](make-eclipse-support-c++11)
 - [Convert PDF to EPS](convert-pdf-to-eps)
 - [Convert LaTeX to Word](convert-latex-to-word)
@@ -2698,12 +2698,15 @@ site:
 ```
 
 ## AI
-```{dropdown} Click to expand/collapse 131 links
+```{dropdown} Click to expand/collapse 134 links
+- [Build Knowledge Base for AI](build-knowledge-base-for-ai)
+- [Learning Modern AI](learning-modern-ai)
+- [Learning Traditional ML](learning-traditional-ml)
 - [AI Agents](ai-agents)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
 - [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
 - [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
-- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
 - [Linear Regression in Scikit-learn](linear-regression-in-scikit-learn)
 - [Tips on Scikit-Learn](tips-on-scikit-learn)
@@ -2720,7 +2723,6 @@ site:
 - [Ensemble Machine Learning Models](ensemble-machine-learning-models)
 - [Sampling Methods](sampling-methods)
 - [Entropy](entropy)
-- [AI Learning](ai-learning)
 - [Time Series Analysis](time-series-analysis)
 - [Pretrained Deep Learning Models](pretrained-deep-learning-models)
 - [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
@@ -2755,6 +2757,7 @@ site:
 - [Tips on NotebookLM](tips-on-notebooklm)
 - [Tips on Gemini](tips-on-gemini)
 - [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+- [Tips on Web Browsers](tips-on-web-browsers)
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 - [Difference Between torch.nn.Module and torch.nn.functional](difference-between-torch.nn.module-and-torch.nn.functional)
 - [Split a Dataset into Train and Test Datasets in Python](split-a-dataset-into-train-and-test-datasets-in-python)
@@ -3079,8 +3082,125 @@ site:
 - [Tips on Spark MLlib](tips-on-spark-mllib)
 ```
 
+## machine learning
+```{dropdown} Click to expand/collapse 112 links
+- [Learning Traditional ML](learning-traditional-ml)
+- [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
+- [Linear Regression in Scikit-learn](linear-regression-in-scikit-learn)
+- [Tips on Scikit-Learn](tips-on-scikit-learn)
+- [Activation Functions in Neural Network](activation-functions-in-neural-network)
+- [Tips on Torchvision](tips-on-torchvision)
+- [The GPT-2 Model in NLP](the-gpt-2-model-in-nlp)
+- [Rust for Machine Learning](rust-for-machine-learning)
+- [Data for Computer Vision Research](data-for-computer-vision-research)
+- [Loss Functions for Machine Learning Models](loss-functions-for-machine-learning-models)
+- [Ensemble Machine Learning Models](ensemble-machine-learning-models)
+- [Classification](classification)
+- [Regression Classification ANOVA](regression-classification-anova)
+- [Entropy](entropy)
+- [Pretrained Deep Learning Models](pretrained-deep-learning-models)
+- [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
+- [Ways to Enable and Disable Gradient in PyTorch](ways-to-enable-and-disable-gradient-in-pytorch)
+- [Delete a Layer in a Pretrained Model in PyTorch](delete-a-layer-in-a-pretrained-model-in-pytorch)
+- [Adaptive Pooling in PyTorch](adaptive-pooling-in-pytorch)
+- [Reduce Memory Needed to Train Deep Learning Models](reduce-memory-needed-to-train-deep-learning-models)
+- [Tips on Optuna](tips-on-optuna)
+- [Handle Categorical Variables in LightGBM](handle-categorical-variables-in-lightgbm)
+- [Tree-Based Models in scikit-learn](tree-based-models-in-scikit-learn)
+- [Visualization of GBDT in scikit-learn](visualization-of-gbdt-in-scikit-learn)
+- [fit_transform vs transform in scikit-learn](fit_transform-vs-transform-in-scikit-learn)
+- [Preparing Data for AI](preparing-data-for-ai)
+- [Tips on Deep Graph Learning](tips-on-deep-graph-learning)
+- [Save and Load PyTorch Models](save-and-load-pytorch-models)
+- [Rule-base Image Process](rule-base-image-process)
+- [JIT and Domain Specific Compilers](jit-and-domain-specific-compilers)
+- [Visualization for AI Concepts](visualization-for-ai-concepts)
+- [Deep Learning Libraries for Dialog Systems and Chatbots](deep-learning-libraries-for-dialog-systems-and-chatbots)
+- [Study Notes on Knowledge Graph](study-notes-on-knowledge-graph)
+- [Benchmark of Popular Deep Learning Models](benchmark-of-popular-deep-learning-models)
+- [Tips on the Mojo Programming Language](tips-on-the-mojo-programming-language)
+- [Tips on Large Language Models](tips-on-large-language-models)
+- [Scaling Law for LLM](scaling-law-for-llm)
+- [Double Dipping in Machine Learning](double-dipping-in-machine-learning)
+- [Tips on ONNX](tips-on-onnx)
+- [Difference Between torch.nn.Module and torch.nn.functional](difference-between-torch.nn.module-and-torch.nn.functional)
+- [Split a Dataset into Train and Test Datasets in Python](split-a-dataset-into-train-and-test-datasets-in-python)
+- [Tensor Transformations in TorchVision](tensor-transformations-in-torchvision)
+- [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
+- [Pad a Sequence in Python](pad-a-sequence-in-python)
+- [Resize a Tensor in PyTorch](resize-a-tensor-in-pytorch)
+- [Move a Tensor to a Specific Device in PyTorch](move-a-tensor-to-a-specific-device-in-pytorch)
+- [Tips on Dataset in PyTorch](tips-on-dataset-in-pytorch)
+- [Hands on Tensor in PyTorch](hands-on-tensor-in-pytorch)
+- [Clustering Algorithms in Machine Learning](clustering-algorithms-in-machine-learning)
+- [Cross Validation in Machine Learning](cross-validation-in-machine-learning)
+- [Nature Language Processing Using NLTK](nature-language-processing-using-nltk)
+- [Keywords Extracting from Text](keywords-extracting-from-text)
+- [Hyper Parameter Tuning and Automatical Machine Learning](hyper-parameter-tuning-and-automatical-machine-learning)
+- [Machine Learning Libraries, Computing Frames and Programming Languages](machine-learning-libraries-computing-frames-and-programming-languages)
+- [Terminologies and Concepts in NLP](terminologies-and-concepts-in-nlp)
+- [SLIDE: Sub-Linear Deep Learning Engine](slide-sub-linear-deep-learning-engine)
+- [Data Sources](data-sources)
+- [Hardware for AI](hardware-for-ai)
+- [Tips on FeatureTools](tips-on-featuretools)
+- [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
+- [Tips on LightGBM](tips-on-lightgbm)
+- [Training Deep Neural Networks](training-deep-neural-networks)
+- [Learning to Rank](learning-to-rank)
+- [Common Issues in PyTorch](common-issues-in-pytorch)
+- [LightGBM on GPU](lightgbm-on-gpu)
+- [Use PyTorch on GPU](use-pytorch-on-gpu)
+- [Tips on TensorFlow](tips-on-tensorflow)
+- [Data for NLP Research](data-for-nlp-research)
+- [Tips on Feature Engineering for Machine Learning](tips-on-feature-engineering-for-machine-learning)
+- [Tips on Reinforcement Learning](tips-on-reinforcement-learning)
+- [Tips on NLP](tips-on-nlp)
+- [Machine Learning Resources](machine-learning-resources)
+- [Data Science Version Control and Continuous Delivery](data-science-version-control-and-continuous-delivery)
+- [Monitoring and Alerting Tools](monitoring-and-alerting-tools)
+- [Device Managment in PyTorch](device-managment-in-pytorch)
+- [Distance and Similarity for Machine Learning](distance-and-similarity-for-machine-learning)
+- [Use XGBoost With Spark](use-xgboost-with-spark)
+- [Tips on the Transformers Python Library for NLP](tips-on-the-transformers-python-library-for-nlp)
+- [Tokenization in NLP](tokenization-in-nlp)
+- [Subword Algorithms for NLP](subword-algorithms-for-nlp)
+- [Difference Between forward and __call__ Methods of a Module in PyTorch](difference-between-forward-and-__call__-methods-of-a-module-in-pytorch)
+- [Representation of Machine Learning Models](representation-of-machine-learning-models)
+- [Use LightGBM With Spark](use-lightgbm-with-spark)
+- [Voice Recognition](voice-recognition)
+- [Popular and Useful Modules and Functions in PyTorch](popular-and-useful-modules-and-functions-in-pytorch)
+- [Number Precision in Deep Learning](number-precision-in-deep-learning)
+- [Tips on TVM](tips-on-tvm)
+- [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
+- [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
+- [Tips on AutoGluon](tips-on-autogluon)
+- [Resizing and Padding for Image Recognition](resizing-and-padding-for-image-recognition)
+- [Convolutional Neural Networks](convolutional-neural-networks)
+- [Handle Imbalanced Data in Machine Learning](handle-imbalanced-data-in-machine-learning)
+- [Tips on LSTM](tips-on-lstm)
+- [The Bert Model in NLP](the-bert-model-in-nlp)
+- [Tips on Recommendation Systems](tips-on-recommendation-systems)
+- [Tips on Transformer in NLP](tips-on-transformer-in-nlp)
+- [Feature Scaling in Machine Learning](feature-scaling-in-machine-learning)
+- [Understand Attention in NLP](understand-attention-in-nlp)
+- [Tips on Word2Vec](tips-on-word2vec)
+- [Compresion of Deep Learning Models](compresion-of-deep-learning-models)
+- [Log Softmax vs Softmax](log-softmax-vs-softmax)
+- [Models for Computer Vision](models-for-computer-vision)
+- [Interpretation of Neural Networks](interpretation-of-neural-networks)
+- [Distributed Training of Models on Spark](distributed-training-of-models-on-spark)
+- [Metrics for Machine Learning](metrics-for-machine-learning)
+- [Tips on TPU](tips-on-tpu)
+- [Regularization in Machine Learning Models](regularization-in-machine-learning-models)
+- [Optimization Method in Machine Learning](optimization-method-in-machine-learning)
+- [Tips on XGBoost](tips-on-xgboost)
+- [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
+- [Tips on Spark MLlib](tips-on-spark-mllib)
+```
+
 ## data science
 ```{dropdown} Click to expand/collapse 112 links
+- [Learning Traditional ML](learning-traditional-ml)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
 - [Linear Regression in Scikit-learn](linear-regression-in-scikit-learn)
 - [Tips on Scikit-Learn](tips-on-scikit-learn)
@@ -3091,7 +3211,6 @@ site:
 - [Data for Computer Vision Research](data-for-computer-vision-research)
 - [Ensemble Machine Learning Models](ensemble-machine-learning-models)
 - [Entropy](entropy)
-- [AI Learning](ai-learning)
 - [Time Series Analysis](time-series-analysis)
 - [Pretrained Deep Learning Models](pretrained-deep-learning-models)
 - [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
@@ -3193,122 +3312,6 @@ site:
 - [Optimization Method in Machine Learning](optimization-method-in-machine-learning)
 - [Tips on XGBoost](tips-on-xgboost)
 - [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
-```
-
-## machine learning
-```{dropdown} Click to expand/collapse 112 links
-- [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
-- [Linear Regression in Scikit-learn](linear-regression-in-scikit-learn)
-- [Tips on Scikit-Learn](tips-on-scikit-learn)
-- [Activation Functions in Neural Network](activation-functions-in-neural-network)
-- [Tips on Torchvision](tips-on-torchvision)
-- [The GPT-2 Model in NLP](the-gpt-2-model-in-nlp)
-- [Rust for Machine Learning](rust-for-machine-learning)
-- [Data for Computer Vision Research](data-for-computer-vision-research)
-- [Loss Functions for Machine Learning Models](loss-functions-for-machine-learning-models)
-- [Ensemble Machine Learning Models](ensemble-machine-learning-models)
-- [Classification](classification)
-- [Regression Classification ANOVA](regression-classification-anova)
-- [Entropy](entropy)
-- [AI Learning](ai-learning)
-- [Pretrained Deep Learning Models](pretrained-deep-learning-models)
-- [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
-- [Ways to Enable and Disable Gradient in PyTorch](ways-to-enable-and-disable-gradient-in-pytorch)
-- [Delete a Layer in a Pretrained Model in PyTorch](delete-a-layer-in-a-pretrained-model-in-pytorch)
-- [Adaptive Pooling in PyTorch](adaptive-pooling-in-pytorch)
-- [Reduce Memory Needed to Train Deep Learning Models](reduce-memory-needed-to-train-deep-learning-models)
-- [Tips on Optuna](tips-on-optuna)
-- [Handle Categorical Variables in LightGBM](handle-categorical-variables-in-lightgbm)
-- [Tree-Based Models in scikit-learn](tree-based-models-in-scikit-learn)
-- [Visualization of GBDT in scikit-learn](visualization-of-gbdt-in-scikit-learn)
-- [fit_transform vs transform in scikit-learn](fit_transform-vs-transform-in-scikit-learn)
-- [Preparing Data for AI](preparing-data-for-ai)
-- [Tips on Deep Graph Learning](tips-on-deep-graph-learning)
-- [Save and Load PyTorch Models](save-and-load-pytorch-models)
-- [Rule-base Image Process](rule-base-image-process)
-- [JIT and Domain Specific Compilers](jit-and-domain-specific-compilers)
-- [Visualization for AI Concepts](visualization-for-ai-concepts)
-- [Deep Learning Libraries for Dialog Systems and Chatbots](deep-learning-libraries-for-dialog-systems-and-chatbots)
-- [Study Notes on Knowledge Graph](study-notes-on-knowledge-graph)
-- [Benchmark of Popular Deep Learning Models](benchmark-of-popular-deep-learning-models)
-- [Tips on the Mojo Programming Language](tips-on-the-mojo-programming-language)
-- [Tips on Large Language Models](tips-on-large-language-models)
-- [Scaling Law for LLM](scaling-law-for-llm)
-- [Double Dipping in Machine Learning](double-dipping-in-machine-learning)
-- [Tips on ONNX](tips-on-onnx)
-- [Difference Between torch.nn.Module and torch.nn.functional](difference-between-torch.nn.module-and-torch.nn.functional)
-- [Split a Dataset into Train and Test Datasets in Python](split-a-dataset-into-train-and-test-datasets-in-python)
-- [Tensor Transformations in TorchVision](tensor-transformations-in-torchvision)
-- [Convert a Tensor to a Numpy Array or List in PyTorch](convert-a-tensor-to-a-numpy-array-or-list-in-pytorch)
-- [Pad a Sequence in Python](pad-a-sequence-in-python)
-- [Resize a Tensor in PyTorch](resize-a-tensor-in-pytorch)
-- [Move a Tensor to a Specific Device in PyTorch](move-a-tensor-to-a-specific-device-in-pytorch)
-- [Tips on Dataset in PyTorch](tips-on-dataset-in-pytorch)
-- [Hands on Tensor in PyTorch](hands-on-tensor-in-pytorch)
-- [Clustering Algorithms in Machine Learning](clustering-algorithms-in-machine-learning)
-- [Cross Validation in Machine Learning](cross-validation-in-machine-learning)
-- [Nature Language Processing Using NLTK](nature-language-processing-using-nltk)
-- [Keywords Extracting from Text](keywords-extracting-from-text)
-- [Hyper Parameter Tuning and Automatical Machine Learning](hyper-parameter-tuning-and-automatical-machine-learning)
-- [Machine Learning Libraries, Computing Frames and Programming Languages](machine-learning-libraries-computing-frames-and-programming-languages)
-- [Terminologies and Concepts in NLP](terminologies-and-concepts-in-nlp)
-- [SLIDE: Sub-Linear Deep Learning Engine](slide-sub-linear-deep-learning-engine)
-- [Data Sources](data-sources)
-- [Hardware for AI](hardware-for-ai)
-- [Tips on FeatureTools](tips-on-featuretools)
-- [Handling Categorical Variables in Machine Learning](handling-categorical-variables-in-machine-learning)
-- [Tips on LightGBM](tips-on-lightgbm)
-- [Training Deep Neural Networks](training-deep-neural-networks)
-- [Learning to Rank](learning-to-rank)
-- [Common Issues in PyTorch](common-issues-in-pytorch)
-- [LightGBM on GPU](lightgbm-on-gpu)
-- [Use PyTorch on GPU](use-pytorch-on-gpu)
-- [Tips on TensorFlow](tips-on-tensorflow)
-- [Data for NLP Research](data-for-nlp-research)
-- [Tips on Feature Engineering for Machine Learning](tips-on-feature-engineering-for-machine-learning)
-- [Tips on Reinforcement Learning](tips-on-reinforcement-learning)
-- [Tips on NLP](tips-on-nlp)
-- [Machine Learning Resources](machine-learning-resources)
-- [Data Science Version Control and Continuous Delivery](data-science-version-control-and-continuous-delivery)
-- [Monitoring and Alerting Tools](monitoring-and-alerting-tools)
-- [Device Managment in PyTorch](device-managment-in-pytorch)
-- [Distance and Similarity for Machine Learning](distance-and-similarity-for-machine-learning)
-- [Use XGBoost With Spark](use-xgboost-with-spark)
-- [Tips on the Transformers Python Library for NLP](tips-on-the-transformers-python-library-for-nlp)
-- [Tokenization in NLP](tokenization-in-nlp)
-- [Subword Algorithms for NLP](subword-algorithms-for-nlp)
-- [Difference Between forward and __call__ Methods of a Module in PyTorch](difference-between-forward-and-__call__-methods-of-a-module-in-pytorch)
-- [Representation of Machine Learning Models](representation-of-machine-learning-models)
-- [Use LightGBM With Spark](use-lightgbm-with-spark)
-- [Voice Recognition](voice-recognition)
-- [Popular and Useful Modules and Functions in PyTorch](popular-and-useful-modules-and-functions-in-pytorch)
-- [Number Precision in Deep Learning](number-precision-in-deep-learning)
-- [Tips on TVM](tips-on-tvm)
-- [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
-- [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
-- [Tips on AutoGluon](tips-on-autogluon)
-- [Resizing and Padding for Image Recognition](resizing-and-padding-for-image-recognition)
-- [Convolutional Neural Networks](convolutional-neural-networks)
-- [Handle Imbalanced Data in Machine Learning](handle-imbalanced-data-in-machine-learning)
-- [Tips on LSTM](tips-on-lstm)
-- [The Bert Model in NLP](the-bert-model-in-nlp)
-- [Tips on Recommendation Systems](tips-on-recommendation-systems)
-- [Tips on Transformer in NLP](tips-on-transformer-in-nlp)
-- [Feature Scaling in Machine Learning](feature-scaling-in-machine-learning)
-- [Understand Attention in NLP](understand-attention-in-nlp)
-- [Tips on Word2Vec](tips-on-word2vec)
-- [Compresion of Deep Learning Models](compresion-of-deep-learning-models)
-- [Log Softmax vs Softmax](log-softmax-vs-softmax)
-- [Models for Computer Vision](models-for-computer-vision)
-- [Interpretation of Neural Networks](interpretation-of-neural-networks)
-- [Distributed Training of Models on Spark](distributed-training-of-models-on-spark)
-- [Metrics for Machine Learning](metrics-for-machine-learning)
-- [Tips on TPU](tips-on-tpu)
-- [Regularization in Machine Learning Models](regularization-in-machine-learning-models)
-- [Optimization Method in Machine Learning](optimization-method-in-machine-learning)
-- [Tips on XGBoost](tips-on-xgboost)
-- [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
-- [Tips on Spark MLlib](tips-on-spark-mllib)
 ```
 
 ## life
@@ -3841,7 +3844,7 @@ site:
 ```
 
 ## web
-```{dropdown} Click to expand/collapse 55 links
+```{dropdown} Click to expand/collapse 56 links
 - [Web Automation](web-automation)
 - [Tips on Backend Development](tips-on-backend-development)
 - [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
@@ -3877,6 +3880,7 @@ site:
 - [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 - [Rust Backend Frameworks for Rest APIs](rust-backend-frameworks-for-rest-apis)
 - [Rust Backend Frameworks for gRPC APIs](rust-backend-frameworks-for-grpc-apis)
+- [Tips on Web Browsers](tips-on-web-browsers)
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 - [Use OculiX to Automate Anything](use-oculix-to-automate-anything)
 - [Web Automation and Testing Using PlayWright](web-automation-and-testing-using-playwright)
@@ -3901,6 +3905,7 @@ site:
 
 ## Docker
 ```{dropdown} Click to expand/collapse 52 links
+- [My Docker Images](my-docker-images)
 - [Docker Images for Notebooks](docker-images-for-notebooks)
 - [Docker on Mac](docker-on-mac)
 - [Docker Images for Zeppelin](docker-images-for-zeppelin)
@@ -3912,7 +3917,6 @@ site:
 - [Shell in Docker](shell-in-docker)
 - [Using Bash in Docker](using-bash-in-docker)
 - [Manage Docker Images and Containers](manage-docker-images-and-containers)
-- [My Docker Images](my-docker-images)
 - [Environment Variables in Docker](environment-variables-in-docker)
 - [Docker Images for Shadowsocks](docker-images-for-shadowsocks)
 - [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
@@ -4012,6 +4016,7 @@ site:
 
 ## Statistics
 ```{dropdown} Click to expand/collapse 47 links
+- [Learning Traditional ML](learning-traditional-ml)
 - [Construct Confidence Intervals Using Jackknife](construct-confidence-intervals-using-jackknife)
 - [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
 - [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
@@ -4032,7 +4037,6 @@ site:
 - [Entropy](entropy)
 - [Effect of Duplicating Observations in Linear Models](effect-of-duplicating-observations-in-linear-models)
 - [Statistics](statistics)
-- [AI Learning](ai-learning)
 - [Stick Breaking Paradox](stick-breaking-paradox)
 - [The Unfair Wager Problem](the-unfair-wager-problem)
 - [Bayesian vs Frequentist](bayesian-vs-frequentist)
@@ -4158,6 +4162,53 @@ site:
 - [Auto Increment in SQL](auto-increment-in-sql)
 ```
 
+## image
+```{dropdown} Click to expand/collapse 43 links
+- [My Docker Images](my-docker-images)
+- [Docker Images for Zeppelin](docker-images-for-zeppelin)
+- [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
+- [Docker Images for OS](docker-images-for-os)
+- [Docker Images for Visualization](docker-images-for-visualization)
+- [Docker Images for Synchronization](docker-images-for-synchronization)
+- [Docker Images for Database](docker-images-for-database)
+- [Manage Docker Images and Containers](manage-docker-images-and-containers)
+- [Convert PDF to EPS](convert-pdf-to-eps)
+- [Show Image in Terminal](show-image-in-terminal)
+- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
+- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
+- [Tips on Preview in macOS](tips-on-preview-in-macos)
+- [Get Coordinates of Points on a Screen or Image](get-coordinates-of-points-on-a-screen-or-image)
+- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
+- [Hands on the Python Library pdfplumber](hands-on-the-python-library-pdfplumber)
+- [Convert PDF to Image Using Python](convert-pdf-to-image-using-python)
+- [Computer Vision Libraries in Rust](computer-vision-libraries-in-rust)
+- [Convert HEIC Images in Linux](convert-heic-images-in-linux)
+- [Inline Dot Graph in Docs](inline-dot-graph-in-docs)
+- [Extracting Data from PDF Files](extracting-data-from-pdf-files)
+- [Tips on Toolbx](tips-on-toolbx)
+- [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
+- [Build Docker Images Using Kaniko](build-docker-images-using-kaniko)
+- [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
+- [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
+- [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
+- [Compare Images Using Python](compare-images-using-python)
+- [Rotate an Image Using Pillow in Python](rotate-an-image-using-pillow-in-python)
+- [Image Filters in Pillow](image-filters-in-pillow)
+- [Hands-on the ImageChops class in Pillow in Python](hands-on-the-imagechops-class-in-pillow-in-python)
+- [Python Scripting for Blender](python-scripting-for-blender)
+- [Take Screenshots in Python](take-screenshots-in-python)
+- [Convert an Image to Differnt Modes Using Pillow in Python](convert-an-image-to-differnt-modes-using-pillow-in-python)
+- [Load Images into Pillow](load-images-into-pillow)
+- [Tips on FFmpeg](tips-on-ffmpeg)
+- [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
+- [Extract Images from Video Using OpenCV in Python](extract-images-from-video-using-opencv-in-python)
+- [Deleting Docker Image Tags on DockerHub using the Python Module requests](deleting-docker-image-tags-on-dockerhub-using-the-python-module-requests)
+- [Tips on Matplotlib](tips-on-matplotlib)
+- [Tips on Creating Docker Images](tips-on-creating-docker-images)
+- [Tips on Pillow](tips-on-pillow)
+- [Graphics in LaTeX](graphics-in-latex)
+```
+
 ## OS
 ```{dropdown} Click to expand/collapse 43 links
 - [Run System Command in Go](run-system-command-in-go)
@@ -4203,53 +4254,6 @@ site:
 - [Tips on Kerberos](tips-on-kerberos)
 - [Fix Xcrun Error in Mac](fix-xcrun-error-in-mac)
 - [Turn on Remote Login in Mac](turn-on-remote-login-in-mac)
-```
-
-## image
-```{dropdown} Click to expand/collapse 43 links
-- [Docker Images for Zeppelin](docker-images-for-zeppelin)
-- [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
-- [Docker Images for OS](docker-images-for-os)
-- [Docker Images for Visualization](docker-images-for-visualization)
-- [Docker Images for Synchronization](docker-images-for-synchronization)
-- [Docker Images for Database](docker-images-for-database)
-- [Manage Docker Images and Containers](manage-docker-images-and-containers)
-- [My Docker Images](my-docker-images)
-- [Convert PDF to EPS](convert-pdf-to-eps)
-- [Show Image in Terminal](show-image-in-terminal)
-- [Shift Images Using Pillow in Python](shift-images-using-pillow-in-python)
-- [Calculate Statistics About an Image Using Pillow in Python](calculate-statistics-about-an-image-using-pillow-in-python)
-- [Tips on Preview in macOS](tips-on-preview-in-macos)
-- [Get Coordinates of Points on a Screen or Image](get-coordinates-of-points-on-a-screen-or-image)
-- [Build Docker Images on Kubernetes](build-docker-images-on-kubernetes)
-- [Hands on the Python Library pdfplumber](hands-on-the-python-library-pdfplumber)
-- [Convert PDF to Image Using Python](convert-pdf-to-image-using-python)
-- [Computer Vision Libraries in Rust](computer-vision-libraries-in-rust)
-- [Convert HEIC Images in Linux](convert-heic-images-in-linux)
-- [Inline Dot Graph in Docs](inline-dot-graph-in-docs)
-- [Extracting Data from PDF Files](extracting-data-from-pdf-files)
-- [Tips on Toolbx](tips-on-toolbx)
-- [Build Docker Images Using BuildKit on Kubernetes](build-docker-images-using-buildkit-on-kubernetes)
-- [Build Docker Images Using Kaniko](build-docker-images-using-kaniko)
-- [Hands on the Python package scikit-image](hands-on-the-python-package-scikit-image)
-- [Convert a PNG Image to the JPG Format Using Pillow in Python](convert-a-png-image-to-the-jpg-format-using-pillow-in-python)
-- [Convert an Image to Numpy Array in Python](convert-an-image-to-numpy-array-in-python)
-- [Compare Images Using Python](compare-images-using-python)
-- [Rotate an Image Using Pillow in Python](rotate-an-image-using-pillow-in-python)
-- [Image Filters in Pillow](image-filters-in-pillow)
-- [Hands-on the ImageChops class in Pillow in Python](hands-on-the-imagechops-class-in-pillow-in-python)
-- [Python Scripting for Blender](python-scripting-for-blender)
-- [Take Screenshots in Python](take-screenshots-in-python)
-- [Convert an Image to Differnt Modes Using Pillow in Python](convert-an-image-to-differnt-modes-using-pillow-in-python)
-- [Load Images into Pillow](load-images-into-pillow)
-- [Tips on FFmpeg](tips-on-ffmpeg)
-- [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
-- [Extract Images from Video Using OpenCV in Python](extract-images-from-video-using-opencv-in-python)
-- [Deleting Docker Image Tags on DockerHub using the Python Module requests](deleting-docker-image-tags-on-dockerhub-using-the-python-module-requests)
-- [Tips on Matplotlib](tips-on-matplotlib)
-- [Tips on Creating Docker Images](tips-on-creating-docker-images)
-- [Tips on Pillow](tips-on-pillow)
-- [Graphics in LaTeX](graphics-in-latex)
 ```
 
 ## shell
@@ -4613,6 +4617,38 @@ site:
 - [VirtualBox API](virtualbox-api)
 ```
 
+## JupyterLab
+```{dropdown} Click to expand/collapse 28 links
+- [My Docker Images](my-docker-images)
+- [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
+- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
+- [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
+- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
+- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
+- [Tips on Jupyter-Book](tips-on-jupyter-book)
+- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
+- [Tips on Jupyter Binder](tips-on-jupyter-binder)
+- [Tips on Google Colab](tips-on-google-colab)
+- [Trust a JupyterLab Notebook](trust-a-jupyterlab-notebook)
+- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
+- [Use Spark With Apache Toree Kernel in Juptyerlab](use-spark-with-apache-toree-kernel-in-juptyerlab)
+- [Tips on the Almond Scala Kernel](tips-on-the-almond-scala-kernel)
+- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
+- [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
+- [Tips on nbconvert](tips-on-nbconvert)
+- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
+- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
+- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
+- [Use Spark with the Almond Scala Kernel in JupyterLab](use-spark-with-the-almond-scala-kernel-in-jupyterlab)
+- [Specify Dependencies in the Almond Scala Kernel in JupyterLab](specify-dependencies-in-the-almond-scala-kernel-in-jupyterlab)
+- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
+- [Tips on JupyterLab](tips-on-jupyterlab)
+- [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
+- [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
+- [Dashboard Solutions](dashboard-solutions)
+- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
+```
+
 ## C++
 ```{dropdown} Click to expand/collapse 28 links
 - [Good C++ Libraries](good-c++-libraries)
@@ -4643,38 +4679,6 @@ site:
 - [Boolean Values in C++](boolean-values-in-c++)
 - [Sorting Functions in C++](sorting-functions-in-c++)
 - [Erase Elements of a Container Using Iterator in C++](erase-elements-of-a-container-using-iterator-in-c++)
-```
-
-## JupyterLab
-```{dropdown} Click to expand/collapse 28 links
-- [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
-- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
-- [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
-- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
-- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
-- [My Docker Images](my-docker-images)
-- [Tips on Jupyter-Book](tips-on-jupyter-book)
-- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
-- [Tips on Jupyter Binder](tips-on-jupyter-binder)
-- [Tips on Google Colab](tips-on-google-colab)
-- [Trust a JupyterLab Notebook](trust-a-jupyterlab-notebook)
-- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
-- [Use Spark With Apache Toree Kernel in Juptyerlab](use-spark-with-apache-toree-kernel-in-juptyerlab)
-- [Tips on the Almond Scala Kernel](tips-on-the-almond-scala-kernel)
-- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
-- [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
-- [Tips on nbconvert](tips-on-nbconvert)
-- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
-- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
-- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
-- [Use Spark with the Almond Scala Kernel in JupyterLab](use-spark-with-the-almond-scala-kernel-in-jupyterlab)
-- [Specify Dependencies in the Almond Scala Kernel in JupyterLab](specify-dependencies-in-the-almond-scala-kernel-in-jupyterlab)
-- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
-- [Tips on JupyterLab](tips-on-jupyterlab)
-- [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
-- [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
-- [Dashboard Solutions](dashboard-solutions)
-- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
 ```
 
 ## fun problems
@@ -4961,6 +4965,32 @@ site:
 - [Computer Vision Tools](computer-vision-tools)
 ```
 
+## Ubuntu
+```{dropdown} Click to expand/collapse 22 links
+- [My Docker Images](my-docker-images)
+- [Docker Images for OS](docker-images-for-os)
+- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
+- [Upgrade Release of Ubuntu](upgrade-release-of-ubuntu)
+- [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
+- [Ubuntu Crashes When Opening Settings](ubuntu-crashes-when-opening-settings)
+- [Tips on crosvm](tips-on-crosvm)
+- [Install the Latest Version of Software on Ubuntu](install-the-latest-version-of-software-on-ubuntu)
+- [Package Management for Debian and Ubuntu](package-management-for-debian-and-ubuntu)
+- [My Configuration Script for Docker Containers Based on dclong/jupyterhub-ds](my-configuration-script-for-docker-containers-based-on-dclong-jupyterhub-ds)
+- [Comparison of (Debian Series) Linux Distributions](comparison-of-debian-series-linux-distributions)
+- [Misc Tips on Ubuntu](misc-tips-on-ubuntu)
+- [Chinese Locale in Linux](chinese-locale-in-linux)
+- [Java PPA for Ubuntu](java-ppa-for-ubuntu)
+- [Developing GUI Applications Using Qt5](developing-gui-applications-using-qt5)
+- [Install Docker](install-docker)
+- [Package Management in Linux](package-management-in-linux)
+- [Tips on Multipass](tips-on-multipass)
+- [Install the Latest Version of Python in Ubuntu](install-the-latest-version-of-python-in-ubuntu)
+- [My Configuration Script for a New Ubuntu Machine](my-configuration-script-for-a-new-ubuntu-machine)
+- [Install NodeJS on Ubuntu](install-nodejs-on-ubuntu)
+- [Tips on Kerberos](tips-on-kerberos)
+```
+
 ## cloud | Cloud
 ```{dropdown} Click to expand/collapse 22 links
 - [Cloud IDE](cloud-ide)
@@ -5011,32 +5041,6 @@ site:
 - [SQL Equivalent](sql-equivalent)
 - [Data Quality](data-quality)
 - [Tips on Graph Database](tips-on-graph-database)
-```
-
-## Ubuntu
-```{dropdown} Click to expand/collapse 22 links
-- [Docker Images for OS](docker-images-for-os)
-- [My Docker Images](my-docker-images)
-- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
-- [Upgrade Release of Ubuntu](upgrade-release-of-ubuntu)
-- [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
-- [Ubuntu Crashes When Opening Settings](ubuntu-crashes-when-opening-settings)
-- [Tips on crosvm](tips-on-crosvm)
-- [Install the Latest Version of Software on Ubuntu](install-the-latest-version-of-software-on-ubuntu)
-- [Package Management for Debian and Ubuntu](package-management-for-debian-and-ubuntu)
-- [My Configuration Script for Docker Containers Based on dclong/jupyterhub-ds](my-configuration-script-for-docker-containers-based-on-dclong-jupyterhub-ds)
-- [Comparison of (Debian Series) Linux Distributions](comparison-of-debian-series-linux-distributions)
-- [Misc Tips on Ubuntu](misc-tips-on-ubuntu)
-- [Chinese Locale in Linux](chinese-locale-in-linux)
-- [Java PPA for Ubuntu](java-ppa-for-ubuntu)
-- [Developing GUI Applications Using Qt5](developing-gui-applications-using-qt5)
-- [Install Docker](install-docker)
-- [Package Management in Linux](package-management-in-linux)
-- [Tips on Multipass](tips-on-multipass)
-- [Install the Latest Version of Python in Ubuntu](install-the-latest-version-of-python-in-ubuntu)
-- [My Configuration Script for a New Ubuntu Machine](my-configuration-script-for-a-new-ubuntu-machine)
-- [Install NodeJS on Ubuntu](install-nodejs-on-ubuntu)
-- [Tips on Kerberos](tips-on-kerberos)
 ```
 
 ## JavaScript
@@ -5380,6 +5384,26 @@ site:
 - [Drain Guard for Downspout](drain-guard-for-downspout)
 ```
 
+## LLM
+```{dropdown} Click to expand/collapse 16 links
+- [Build Knowledge Base for AI](build-knowledge-base-for-ai)
+- [Learning Modern AI](learning-modern-ai)
+- [LLM APIs](llm-apis)
+- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
+- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
+- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
+- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
+- [Tips on Large Language Models](tips-on-large-language-models)
+- [LLM in Rust](llm-in-rust)
+- [Retrieval-Augmented Generation for LLM](retrieval-augmented-generation-for-llm)
+- [LLM and Robotics](llm-and-robotics)
+- [Fine-Tune LLM](fine-tune-llm)
+- [Tips on NotebookLM](tips-on-notebooklm)
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+```
+
 ## array
 ```{dropdown} Click to expand/collapse 16 links
 - [Collections in Kotlin](collections-in-kotlin)
@@ -5650,24 +5674,6 @@ site:
 - [How Many Empty Boxes?](how-many-empty-boxes)
 ```
 
-## LLM
-```{dropdown} Click to expand/collapse 14 links
-- [LLM APIs](llm-apis)
-- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
-- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
-- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
-- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
-- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
-- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
-- [Tips on Large Language Models](tips-on-large-language-models)
-- [LLM in Rust](llm-in-rust)
-- [Retrieval-Augmented Generation for LLM](retrieval-augmented-generation-for-llm)
-- [LLM and Robotics](llm-and-robotics)
-- [Fine-Tune LLM](fine-tune-llm)
-- [Tips on NotebookLM](tips-on-notebooklm)
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
-```
-
 ## list
 ```{dropdown} Click to expand/collapse 14 links
 - [Collections in Kotlin](collections-in-kotlin)
@@ -5797,9 +5803,9 @@ site:
 ## tool
 ```{dropdown} Click to expand/collapse 13 links
 - [LLM APIs](llm-apis)
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
 - [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
 - [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
-- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
 - [Dev Tools for Rust](dev-tools-for-rust)
 - [Linux Network Tools](linux-network-tools)
 - [Tips on MuMu App Player](tips-on-mumu-app-player)
@@ -6639,6 +6645,19 @@ site:
 - [Tips on Web Development](tips-on-web-development)
 ```
 
+## browser
+```{dropdown} Click to expand/collapse 9 links
+- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
+- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
+- [Incognito Mode for Browsers](incognito-mode-for-browsers)
+- [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
+- [Tips on the Dia Browser](tips-on-the-dia-browser)
+- [Tips on Web Browsers](tips-on-web-browsers)
+- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
+- [Run UserScripts in Browsers](run-userscripts-in-browsers)
+- [Selectively Disable Vimperator on Webpages](selectively-disable-vimperator-on-webpages)
+```
+
 ## RNG
 ```{dropdown} Click to expand/collapse 9 links
 - [Thread Safe Random Number Generator](thread-safe-random-number-generator)
@@ -6885,18 +6904,6 @@ site:
 - [Shopping at Macys](shopping-at-macys)
 ```
 
-## browser
-```{dropdown} Click to expand/collapse 8 links
-- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
-- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
-- [Incognito Mode for Browsers](incognito-mode-for-browsers)
-- [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
-- [Tips on the Dia Browser](tips-on-the-dia-browser)
-- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
-- [Run UserScripts in Browsers](run-userscripts-in-browsers)
-- [Selectively Disable Vimperator on Webpages](selectively-disable-vimperator-on-webpages)
-```
-
 ## security
 ```{dropdown} Click to expand/collapse 8 links
 - [Shodan - Search Engine for IoT](shodan-search-engine-for-iot)
@@ -7017,6 +7024,17 @@ site:
 - [Install Firefox in Debian](install-firefox-in-debian)
 ```
 
+## resource
+```{dropdown} Click to expand/collapse 7 links
+- [Learning Resources](learning-resources)
+- [Bundle Resource Files into a Rust Application](bundle-resource-files-into-a-rust-application)
+- [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
+- [Hands on the psutil Module in Python](hands-on-the-psutil-module-in-python)
+- [Hands on the Resource Module in Python](hands-on-the-resource-module-in-python)
+- [Check Resources Used by Processes Using Python](check-resources-used-by-processes-using-python)
+- [Data Sources](data-sources)
+```
+
 ## datetime
 ```{dropdown} Click to expand/collapse 7 links
 - [Date and Time in Rust](date-and-time-in-rust)
@@ -7037,17 +7055,6 @@ site:
 - [Collections and Iterators in C++](collections-and-iterators-in-c++)
 - [Collections in Java](collections-in-java)
 - [Graphics in LaTeX](graphics-in-latex)
-```
-
-## resource
-```{dropdown} Click to expand/collapse 7 links
-- [Bundle Resource Files into a Rust Application](bundle-resource-files-into-a-rust-application)
-- [Spark Issue: Too Many Containers Asked](spark-issue-too-many-containers-asked)
-- [Hands on the psutil Module in Python](hands-on-the-psutil-module-in-python)
-- [Hands on the Resource Module in Python](hands-on-the-resource-module-in-python)
-- [Check Resources Used by Processes Using Python](check-resources-used-by-processes-using-python)
-- [Data Sources](data-sources)
-- [Learning Resources](learning-resources)
 ```
 
 ## variable
@@ -8371,15 +8378,6 @@ site:
 - [Count Number of Fields in Each Line](count-number-of-fields-in-each-line)
 ```
 
-## web browser
-```{dropdown} Click to expand/collapse 5 links
-- [Tips on Web Browsers](tips-on-web-browsers)
-- [Useful Chrome Extensions](useful-chrome-extensions)
-- [Tips on Firefox](tips-on-firefox)
-- [Use External Downloader for Firefox](use-external-downloader-for-firefox)
-- [Install Firefox in Debian](install-firefox-in-debian)
-```
-
 ## regular expression
 ```{dropdown} Click to expand/collapse 5 links
 - [Hands on the re.match object in Python](hands-on-the-re.match-object-in-python)
@@ -8405,6 +8403,14 @@ site:
 - [Count Number of Fields in Each Line](count-number-of-fields-in-each-line)
 - [Print Rows from a Text File](print-rows-from-a-text-file)
 - [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
+```
+
+## career
+```{dropdown} Click to expand/collapse 4 links
+- [Learning Resources](learning-resources)
+- [Tips on Job Seeking](tips-on-job-seeking)
+- [Tips on Project Management](tips-on-project-management)
+- [Tips on Career](tips-on-career)
 ```
 
 ## hashtable
@@ -8991,14 +8997,6 @@ site:
 - [Make Your Model Training Reproducible in PyTorch](make-your-model-training-reproducible-in-pytorch)
 ```
 
-## career
-```{dropdown} Click to expand/collapse 4 links
-- [Tips on Job Seeking](tips-on-job-seeking)
-- [Tips on Project Management](tips-on-project-management)
-- [Tips on Career](tips-on-career)
-- [Learning Resources](learning-resources)
-```
-
 ## feature
 ```{dropdown} Click to expand/collapse 4 links
 - [Tips on Purchasing or Leasing a Car](tips-on-purchasing-or-leasing-a-car)
@@ -9183,6 +9181,14 @@ site:
 - [User Access Control on Linux](user-access-control-on-linux)
 ```
 
+## web browser
+```{dropdown} Click to expand/collapse 4 links
+- [Useful Chrome Extensions](useful-chrome-extensions)
+- [Tips on Firefox](tips-on-firefox)
+- [Use External Downloader for Firefox](use-external-downloader-for-firefox)
+- [Install Firefox in Debian](install-firefox-in-debian)
+```
+
 ## text manipulation
 ```{dropdown} Click to expand/collapse 4 links
 - [Transform Text Using sed](transform-text-using-sed)
@@ -9205,6 +9211,13 @@ site:
 - [Deploy Apache Ray](deploy-apache-ray)
 - [Tips on Apache Ray](tips-on-apache-ray)
 - [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
+```
+
+## learning
+```{dropdown} Click to expand/collapse 3 links
+- [Learning Modern AI](learning-modern-ai)
+- [Learning Resources](learning-resources)
+- [English Learning](english-learning)
 ```
 
 ## workflow
@@ -10774,12 +10787,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Use Qt in Python](use-qt-in-python)
 - [Python for Desktop Applications](python-for-desktop-applications)
-```
-
-## learning
-```{dropdown} Click to expand/collapse 2 links
-- [English Learning](english-learning)
-- [Learning Resources](learning-resources)
 ```
 
 ## vocabulary
