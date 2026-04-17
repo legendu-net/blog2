@@ -1,196 +1,216 @@
-polars: Polars 
-List: list 
-vim: Vim 
-vscode: VSCode 
-cpu: CPU 
-Markdown: markdown
-jupyter: Jupyter 
-Array: array 
-Car: car 
+Ads: ads
+Ai: AI
+AirFlow: Airflow
+Apache AirFlow:
+- Apache
+- Airflow
+Apache Airflow:
+- Apache
+- Airflow
+App: app
+Array: array
+Atomic: atomic
+Box: box
+Bus: bus
+ByteHound: Bytehound
+Car: car
+Cell: cell
+Clone: clone
+Cloud: cloud
+Cloud IDE:
+- Cloud
+- IDE
+Cloud9: cloud9
+Computer Science: computer science
+Computer Vision: computer vision
+Concurrency: concurrency
+Construct: construct
+Copy: copy
+Data Science: data science
+Database: database
+DateTime: datetime
+Deep Learning: deep learning
+Docker image:
+- Docker
+- image
+ERROR: error
+Entry: entry
+Enum: enum
+ExFAT: exFAT
+FS: filesystem
+FileSystem: filesystem
 Finance: finance
-Cloud: cloud 
-Latex: LaTeX 
-LaTex: LaTeX
-git: Git 
-Hardware: hardware
-'command-line': 'command line'
-Database: database 
-windows: Windows
-Network: network 
-Investment: investment 
-pytorch: PyTorch 
-'Computer Vision': 'computer vision'
-os: OS 
-Shell: shell 
-ERROR: error 
-Image: image 
-Golang: golang 
-GoLANG: golang 
+Fish: fish
+Go: golang
+GoLANG: golang
 GoLang: golang
-Web: web 
-docker: Docker 
-'Deep Learning': 'deep learning' 
-statistics: Statistics
-'Data Science': 'data science' 
+Golang: golang
+Graph: graph
+GraphViz: Graphviz
+Graphics: graphics
+GroupBy: group by
+HOME: home
+Hardware: hardware
+HashMap: hashmap
+HashTable: hashtable
+Hashmap: hashmap
+Hashtable: hashtable
+Home Assistant: home assistant
+HomeDepot: Home Depot
+Homedepot: Home Depot
+Hyper: hyper
+IOT: IoT
+Image: image
+Index: index
+Investment: investment
+Jupyter Notebook:
+- Jupyter
+- notebook
+Jupyter notebook:
+- Jupyter
+- notebook
+LUA: Lua
+LaTex: LaTeX
+Latex: LaTeX
 Life: life
-python: Python 
-Software: software 
-linux: Linux 
-Ai: AI 
-TIPS: tips
-'Computer Science': 'computer science'
-Programming: programming
-'Mac OSX': macOS
-'Spark issue': [Spark, issue]
-'spark issue': [Spark, issue]
-ssh: SSH
-Go: golang 
-go: golang
-Map: map 
-Vehicle: vehicle 
-cargo: Cargo
-App: app 
-bash: Bash
+List: list
+Mac: macOS
+Mac OSX: macOS
+Map: map
+Markdown: markdown
+Minikube: minikube
+NeoVim: Neovim
+Network: network
+Notes: notes
+Office: office
 PATH: path
 Path: path
-virtualbox: VirtualBox
-FileSystem: filesystem
-Series: series
-NeoVim: Neovim
-Graph: graph
-Index: index
-Concurrency: concurrency
-'docker image': [Docker, image]
-'Docker image': [Docker, image]
-'Jupyter Notebook': [Jupyter, notebook]
-'Jupyter notebook': [Jupyter, notebook]
-Work: work
-html: HTML
-json: JSON
-Vector: vector
-IOT: IoT
-DateTime: datetime
-zeppelin: Zeppelin
-Office: office
-Mac: macOS
-mac: macOS
-Copy: copy
-Set: set
-http: HTTP
-actions: Actions
-arrow: Arrow
-Atomic: atomic
+Poker: poker
+Programming: programming
+Project Management: project management
+PyQT5: PyQt5
+QT: Qt
+Range: range
 Research: research
 SBT: sbt
-HOME: home
-Spreadsheet: spreadsheet
-Hyper: hyper
-Range: range
-Construct: construct
-Hashmap: hashmap
-HashMap: hashmap
 Scikit-learn: scikit-learn
-ipython: IPython
-vnc: VNC
-Poker: poker
-'cloud IDE': [Cloud, IDE]
-'Cloud IDE': [Cloud, IDE]
-Enum: enum
-Tuple: tuple
-Hashtable: hashtable
-HashTable: hashtable
-'Static Site Generator': 'static site generator'
-myst: MyST
-nodejs: NodeJS
-yarn: YARN
-pyarrow: PyArrow
 Search Engine: search engine
-Virtual Machine: virtual machine
-cli: CLI
-protocol buffer: Protocol Buffer
-mojo: Mojo
-Fish: fish
-hadoop: Hadoop
-gradle: Gradle
-Project Management: project management
-pickle: Pickle
-torchvision: TorchVision
-dask: Dask
-none: None
-fs: filesystem
-FS: filesystem
-Trait: trait
-leetcode: LeetCode
-GroupBy: "group by"
-groupby: "group by"
-'include!': include
-Ads: ads
-sphinx: Sphinx
-pex: PEX
-TinyProxy: tinyproxy
-flask: Flask
-redis: Redis
-ci: CI
-apache arrow: Apache Arrow
-outlook: Outlook
-verizon: Verizon
-Wine: WINE
-pinyin: Pinyin
+Series: series
+Set: set
+Shell: shell
+Shortcut: shortcut
+Software: software
 Source: source
-escape: Escape
-PyQT5: PyQt5
-Graphics: graphics
-Tex Live: TeX Live
-Bus: bus
-Homedepot: 'Home Depot'
-HomeDepot: 'Home Depot'
-Cloud9: cloud9
-Minikube: minikube
-Notes: notes
-AirFlow: Airflow
-vaex: Vaex
-Clone: clone
-Box: box
+Spark issue:
+- Spark
+- issue
+Spreadsheet: spreadsheet
+Static Site Generator: static site generator
+Stream: stream
+Switch: switch
 Sync: sync
-Entry: entry
+TIPS: tips
 TMP: tmp
-jpype: JPype
-env: ENV
-pyinstaller: PyInstaller
-gatsby: Gatsby
+TableSample: TABLESAMPLE
+Tex Live: TeX Live
+TexStudio: TeXstudio
+TinyProxy: tinyproxy
+Trait: trait
+Tuple: tuple
+Vector: vector
+Vehicle: vehicle
+Virtual Machine: virtual machine
+Vocabulary: vocabulary
+Web: web
+Wine: WINE
+Work: work
+actions: Actions
+apache arrow: Apache Arrow
+arrow: Arrow
+bash: Bash
+cargo: Cargo
+ci: CI
+cli: CLI
+clippy: Clippy
+cloud IDE:
+- Cloud
+- IDE
+command-line: command line
+cpu: CPU
+dask: Dask
 django: Django
-Home Assistant: home assistant
+docker: Docker
+docker image:
+- Docker
+- image
 dulwich: Dulwich
-Cell: cell
-grub: GRUB
-zellij: Zellij
+eclipse: Eclipse
+env: ENV
+escape: Escape
 ffi: FFI
 flamegraph: FlameGraph
-ByteHound: Bytehound
-kcachegrind: KCachegrind
-LUA: Lua
-clippy: Clippy
-GraphViz: Graphviz
+flask: Flask
+fs: filesystem
+gatsby: Gatsby
 gcc: GCC
-out of memory: out-of-memory
+git: Git
+go: golang
 gpg: GPG
-TexStudio: TeXstudio
-playwright: PlayWright
-Stream: stream
-jedi: Jedi
-vec: Vec
+gradle: Gradle
+groupby: group by
+grub: GRUB
 gsl: GSL
-queryscope: QueryScope
-queryScope: QueryScope
+hadoop: Hadoop
+html: HTML
+http: HTTP
+include!: include
+ipython: IPython
+jedi: Jedi
+jpype: JPype
+json: JSON
+jupyter: Jupyter
+kcachegrind: KCachegrind
+leetcode: LeetCode
+linux: Linux
+mac: macOS
+mojo: Mojo
+myst: MyST
 nfs: NFS
+nodejs: NodeJS
+none: None
+os: OS
+out of memory: out-of-memory
+outlook: Outlook
+pex: PEX
+pickle: Pickle
+pinyin: Pinyin
+playwright: PlayWright
+polars: Polars
+protocol buffer: Protocol Buffer
+pyarrow: PyArrow
+pyinstaller: PyInstaller
+python: Python
+pytorch: PyTorch
+queryScope: QueryScope
+queryscope: QueryScope
+redis: Redis
+spark issue:
+- Spark
+- issue
+sphinx: Sphinx
+ssh: SSH
+statistics: Statistics
 teamdrive: TeamDrive
-QT: Qt
-'Apache AirFlow': [Apache, Airflow]
-'Apache Airflow': [Apache, Airflow]
-TableSample: TABLESAMPLE
-ExFAT: exFAT
-eclipse: Eclipse
-Shortcut: shortcut
+torchvision: TorchVision
 transformer: Transformer
-Switch: switch
-Vocabulary: vocabulary
+vaex: Vaex
+vec: Vec
+verizon: Verizon
+vim: Vim
+virtualbox: VirtualBox
+vnc: VNC
+vscode: VSCode
+windows: Windows
+yarn: YARN
+zellij: Zellij
+zeppelin: Zeppelin

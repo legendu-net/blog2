@@ -1,0 +1,31 @@
+description = "Convert HTML tables to list-tables in MyST markdown."
+prompt = """
+There are tables defined in HTML format in markdown files
+under the docs directory.
+Help me convert each HTML table into a list-table in MyST Markdown.
+Please refer to the official doc on list-table
+at the link https://myst-parser.readthedocs.io/en/latest/syntax/tables.html#list-tables if necessary.
+Below are some guidelines on the conversion.
+
+- For both levels of the generated list-table,
+  I'd like to use `- `
+  which means that the very first row of the table starts with `- - `.
+
+- Properly convert HTML hyperlinks defined using the `<a>` tag into markdown syntax.
+  For example,
+  `<a href="https://play.vercel.ai">AI Playground - Collection of LLMs</a>`
+  should be convert to
+  `[AI Playground - Collection of LLMs](https://play.vercel.ai)`
+  .
+
+- Properly convert HTML superscript into footnote syntax in markdown.
+  For example,
+  `<sup>[1]</sup>`
+  should be convert to `[^1]`.
+
+- Preserve `<span>` tags which define colored text.
+
+Please ask me for the path of the markdown files to do the conversion.
+You have my permissions to directly change the specified markdown file,
+however, do NOT commit changes you made so that I can review it.
+"""

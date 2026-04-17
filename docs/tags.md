@@ -5,7 +5,8 @@ site:
 ---
 
 ## programming
-```{dropdown} Click to expand/collapse 1030 links
+```{dropdown} Click to expand/collapse 1031 links
+- [LLM APIs](llm-apis)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
 - [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 - [Hands on the Stream Object in Java 8](hands-on-the-stream-object-in-java-8)
@@ -4580,6 +4581,38 @@ site:
 - [WebRTC](webrtc)
 ```
 
+## API
+```{dropdown} Click to expand/collapse 28 links
+- [LLM APIs](llm-apis)
+- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
+- [SQL Database Client-server Protocols](sql-database-client-server-protocols)
+- [Tips on gRPC](tips-on-grpc)
+- [Tips on Microsoft Graph APIs](tips-on-microsoft-graph-apis)
+- [Use Python with Google Spreadsheet](use-python-with-google-spreadsheet)
+- [Hands on ghapi](hands-on-ghapi)
+- [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
+- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
+- [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
+- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
+- [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
+- [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
+- [Tips on Frontend Development](tips-on-frontend-development)
+- [Docker APIs](docker-apis)
+- [Document Rust APIs](document-rust-apis)
+- [gRPC GraphQL and RESTful APIs](grpc-graphql-and-restful-apis)
+- [Rust for Backend Development](rust-for-backend-development)
+- [Useful Rust Crates for GraphQL](useful-rust-crates-for-graphql)
+- [Rust Backend Frameworks for Rest APIs](rust-backend-frameworks-for-rest-apis)
+- [Rust Backend Frameworks for gRPC APIs](rust-backend-frameworks-for-grpc-apis)
+- [Rust Backend Frameworks for GraphQL APIs](rust-backend-frameworks-for-graphql-apis)
+- [GitHub API](github-api)
+- [Format Markdown Using mdformat Python APIs](format-markdown-using-mdformat-python-apis)
+- [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
+- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
+- [VirtualBox API](virtualbox-api)
+```
+
 ## C++
 ```{dropdown} Click to expand/collapse 28 links
 - [Good C++ Libraries](good-c++-libraries)
@@ -4642,37 +4675,6 @@ site:
 - [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
 - [Dashboard Solutions](dashboard-solutions)
 - [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
-```
-
-## API
-```{dropdown} Click to expand/collapse 27 links
-- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
-- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
-- [SQL Database Client-server Protocols](sql-database-client-server-protocols)
-- [Tips on gRPC](tips-on-grpc)
-- [Tips on Microsoft Graph APIs](tips-on-microsoft-graph-apis)
-- [Use Python with Google Spreadsheet](use-python-with-google-spreadsheet)
-- [Hands on ghapi](hands-on-ghapi)
-- [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
-- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
-- [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
-- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
-- [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
-- [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
-- [Tips on Frontend Development](tips-on-frontend-development)
-- [Docker APIs](docker-apis)
-- [Document Rust APIs](document-rust-apis)
-- [gRPC GraphQL and RESTful APIs](grpc-graphql-and-restful-apis)
-- [Rust for Backend Development](rust-for-backend-development)
-- [Useful Rust Crates for GraphQL](useful-rust-crates-for-graphql)
-- [Rust Backend Frameworks for Rest APIs](rust-backend-frameworks-for-rest-apis)
-- [Rust Backend Frameworks for gRPC APIs](rust-backend-frameworks-for-grpc-apis)
-- [Rust Backend Frameworks for GraphQL APIs](rust-backend-frameworks-for-graphql-apis)
-- [GitHub API](github-api)
-- [Format Markdown Using mdformat Python APIs](format-markdown-using-mdformat-python-apis)
-- [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
-- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
-- [VirtualBox API](virtualbox-api)
 ```
 
 ## fun problems
@@ -5648,6 +5650,24 @@ site:
 - [How Many Empty Boxes?](how-many-empty-boxes)
 ```
 
+## LLM
+```{dropdown} Click to expand/collapse 14 links
+- [LLM APIs](llm-apis)
+- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
+- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
+- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
+- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
+- [Tips on Large Language Models](tips-on-large-language-models)
+- [LLM in Rust](llm-in-rust)
+- [Retrieval-Augmented Generation for LLM](retrieval-augmented-generation-for-llm)
+- [LLM and Robotics](llm-and-robotics)
+- [Fine-Tune LLM](fine-tune-llm)
+- [Tips on NotebookLM](tips-on-notebooklm)
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+```
+
 ## list
 ```{dropdown} Click to expand/collapse 14 links
 - [Collections in Kotlin](collections-in-kotlin)
@@ -5774,21 +5794,21 @@ site:
 - [Computer Vision Tools](computer-vision-tools)
 ```
 
-## LLM
+## tool
 ```{dropdown} Click to expand/collapse 13 links
-- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
-- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
+- [LLM APIs](llm-apis)
 - [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
 - [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
 - [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
-- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
-- [Tips on Large Language Models](tips-on-large-language-models)
-- [LLM in Rust](llm-in-rust)
-- [Retrieval-Augmented Generation for LLM](retrieval-augmented-generation-for-llm)
-- [LLM and Robotics](llm-and-robotics)
-- [Fine-Tune LLM](fine-tune-llm)
-- [Tips on NotebookLM](tips-on-notebooklm)
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+- [Dev Tools for Rust](dev-tools-for-rust)
+- [Linux Network Tools](linux-network-tools)
+- [Tips on MuMu App Player](tips-on-mumu-app-player)
+- [Tips on KeepassXC](tips-on-keepassxc)
+- [Rip Is rm Improved](rip-is-rm-improved)
+- [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
+- [Compiler and Build Tools](compiler-and-build-tools)
+- [Tips on Windows Terminal](tips-on-windows-terminal)
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 ```
 
 ## HoloViews
@@ -5993,22 +6013,6 @@ site:
 - [Object Oriented Programming in Java](object-oriented-programming-in-java)
 - [Define Variables in Rust](define-variables-in-rust)
 - [Const and Static Variables in C++](const-and-static-variables-in-c++)
-```
-
-## tool
-```{dropdown} Click to expand/collapse 12 links
-- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
-- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
-- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
-- [Dev Tools for Rust](dev-tools-for-rust)
-- [Linux Network Tools](linux-network-tools)
-- [Tips on MuMu App Player](tips-on-mumu-app-player)
-- [Tips on KeepassXC](tips-on-keepassxc)
-- [Rip Is rm Improved](rip-is-rm-improved)
-- [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
-- [Compiler and Build Tools](compiler-and-build-tools)
-- [Tips on Windows Terminal](tips-on-windows-terminal)
-- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 ```
 
 ## repository
@@ -6351,6 +6355,20 @@ site:
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 ```
 
+## code
+```{dropdown} Click to expand/collapse 10 links
+- [LLM APIs](llm-apis)
+- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
+- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
+- [Tips on Code Design](tips-on-code-design)
+- [Verify Rust Code](verify-rust-code)
+- [Format Python Code Using Black](format-python-code-using-black)
+- [Tips on Refactoring Rust Code](tips-on-refactoring-rust-code)
+- [GitHub Alternatives](github-alternatives)
+- [Replace Single Quotes With Double Quotes in Python Code](replace-single-quotes-with-double-quotes-in-python-code)
+```
+
 ## path
 ```{dropdown} Click to expand/collapse 10 links
 - [Current Working Directory in Rust](current-working-directory-in-rust)
@@ -6489,19 +6507,6 @@ site:
 - [Collections and Iterators in C++](collections-and-iterators-in-c++)
 - [Boolean Values in C++](boolean-values-in-c++)
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
-```
-
-## code
-```{dropdown} Click to expand/collapse 9 links
-- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
-- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
-- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
-- [Tips on Code Design](tips-on-code-design)
-- [Verify Rust Code](verify-rust-code)
-- [Format Python Code Using Black](format-python-code-using-black)
-- [Tips on Refactoring Rust Code](tips-on-refactoring-rust-code)
-- [GitHub Alternatives](github-alternatives)
-- [Replace Single Quotes With Double Quotes in Python Code](replace-single-quotes-with-double-quotes-in-python-code)
 ```
 
 ## desktop

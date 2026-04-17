@@ -12,6 +12,7 @@ from blogger import (
     OUTDATED,
     Blogger,
     add_spells_title as _add_spells_title,
+    add_spells_tag as _add_spells_tag,
     get_vim,
     get_code,
     get_editor,
@@ -303,6 +304,12 @@ def add_spells_title(_, args):
     if len(args.words) % 2:
         raise ValueError("Words for spell corrections must be in pairs.")
     _add_spells_title(it.batched(args.words, 2))
+
+
+def add_spells_tag(_, args):
+    if len(args.words) % 2:
+        raise ValueError("Words for spell corrections must be in pairs.")
+    _add_spells_tag(it.batched(args.words, 2))
 
 
 def add_refs(blogger, args):
@@ -693,6 +700,20 @@ def _subparse_add_spells_title(subparsers):
     subparser_add_spells_title.set_defaults(func=add_spells_title)
 
 
+def _subparse_add_spells_tag(subparsers):
+    desc = "Add tag spell corrections."
+    subparser_add_spells_tag = subparsers.add_parser(
+        "add_spells_tag",
+        aliases=["astag"],
+        help=desc,
+        description=desc,
+    )
+    subparser_add_spells_tag.add_argument(
+        "words", nargs="+", help="Word pairs in the format w1 c1 w2 c2..."
+    )
+    subparser_add_spells_tag.set_defaults(func=add_spells_tag)
+
+
 def _subparse_add_refs(subparsers):
     desc = "Add URL references into posts."
     subparser_add_refs = subparsers.add_parser(
@@ -901,6 +922,7 @@ def parse_args(args=None, namespace=None) -> Namespace:
     _subparse_edit(subparsers)
     _subparse_add_refs(subparsers)
     _subparse_add_spells_title(subparsers)
+    _subparse_add_spells_tag(subparsers)
     _subparse_vim(subparsers)
     _subparse_move(subparsers)
     _subparse_auto(subparsers)

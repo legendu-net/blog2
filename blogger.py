@@ -77,6 +77,14 @@ def add_spells_title(pairs: Iterable[tuple[str, str]]) -> None:
         yaml.dump(dict(spells), fout)
 
 
+def add_spells_tag(pairs: Iterable[tuple[str, str]]) -> None:
+    spells = list(_read_spells(SPELLS_TAG).items())
+    spells.extend(pairs)
+    spells.sort(key=lambda x: x[0])
+    with SPELLS_TAG.open("w", encoding="utf-8") as fout:
+        yaml.dump(dict(spells), fout)
+
+
 def extract_url_title(url: str) -> str:
     """Extract the title of a web page."""
     url = url.strip("/")

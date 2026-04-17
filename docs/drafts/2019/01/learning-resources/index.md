@@ -17,6 +17,8 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+
+- [DeepLearning.AI](https://www.deeplearning.ai/)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [Education Ecosystem](https://www.education-ecosystem.com/)
 - [Coursera](https://www.coursera.org/course/)
@@ -25,23 +27,27 @@ tags:
 - [Speaker Deck](https://speakerdeck.com/)
 - [Channel 9](http://channel9.msdn.com/)
 - [Welcome to BrightTALK](https://www.brighttalk.com/mybrighttalk)
+- [Brilliant](https://www.brilliant.org)
 - [W3C](http://www.w3schools.com/)
 - [Cheat Sheet](http://www.cheatography.com/)
 - [Cheat Sheet](http://www.addedbytes.com/cheat-sheets/)
-- [LeetCode](http://leetcode.com/)
 
 
 [MIT Open Courses Ware](https://ocw.mit.edu/index.htm)
 
 ## Online Video Tutorial
 
-- [W3School](http://www.w3schools.com/)
-- [LeetCode](http://leetcode.com/)
 - [Video Lectures](http://videolectures.net/)
 - [Speaker Deck](https://speakerdeck.com/)
 - [Channel 9](http://channel9.msdn.com/)
 - [TED](http://www.ted.com/talks)
-- [Coursera](https://www.coursera.org/course/)
 - [Welcome to BrightTALK](https://www.brighttalk.com/mybrighttalk)
+
+## Cheat Sheets
+
 - [Cheat Sheet](http://www.cheatography.com/)
 - [Cheat Sheet](http://www.addedbytes.com/cheat-sheets/)
+
+## Coding Practice
+
+- [LeetCode](http://leetcode.com/)

@@ -38,6 +38,16 @@ tags:
 
 1. Use `/help` for more information on Gemini CLI.
 
+## Manage Prompts
+
+1. Use the command `/init` to generate `GEMINI.md` in the root directory of your project.
+    This generated file `GEMINI.md` contains high-level summary about your project,
+    which serves as the context for Geminii CLI.
+    You can polish `GEMINI.md` as needed.
+    
+2. You can write prompts (even each one-time) in text file and then use `@/path/to/prompt/file` to load it to Gemini CLI.
+    This can make writing prompts easier as you can write prompts in your favorite IDE and can easily polish it as needed.
+
 ## References
 
 - [The Gemini CLI turns me into an unstoppable coding beast](https://www.youtube.com/watch?v=YAy7kd5Nqm0)

@@ -1,7 +1,7 @@
 ---
 title: Understand a Code Repository Using LLM Tools
 created: 2026-04-16 14:53:52.309642
-date: 2026-04-16 14:53:52.309643
+date: 2026-04-16 17:07:44.156090
 authors:
   - bendu
 label: understand-a-code-repository-using-llm-tools
@@ -27,8 +27,10 @@ tags:
 - [DeepWiki](https://deepwiki.org/)
 
 - [DeepWiki-Open](https://github.com/AsyncFuncAI/deepwiki-open)
-    - support private deployment (using Docker image)
-    - support private repos with token authentication
+
+  - support private deployment (using Docker image)
+  - support private repos with token authentication
 
 - [CodeWiki-AI/CodeWiki](https://github.com/CodeWiki-AI/CodeWiki)
-    - a command-line tool
+
+  - a command-line tool
