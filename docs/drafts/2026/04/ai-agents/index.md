@@ -1,10 +1,10 @@
 ---
-title: AI Agent
+title: AI Agents
 created: 2026-04-16 09:42:35.777036
-date: 2026-04-16 09:43:38.406298
+date: 2026-04-16 20:30:32.127765
 authors:
   - bendu
-label: ai-agent
+label: ai-agents
 license: CC-BY-4.0
 tags:
   - AI

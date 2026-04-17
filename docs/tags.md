@@ -2156,6 +2156,8 @@ site:
 
 ## software
 ```{dropdown} Click to expand/collapse 200 links
+- [Working Remotely in Linux](working-remotely-in-linux)
+- [Remote Desktop Using Remmina](remote-desktop-using-remmina)
 - [Cloud IDE](cloud-ide)
 - [Convert MS Office Document to Text](convert-ms-office-document-to-text)
 - [Tips on Outlook](tips-on-outlook)
@@ -2258,7 +2260,6 @@ site:
 - [Downloading Tools](downloading-tools)
 - [Editing PDF Files](editing-pdf-files)
 - [File Converting and Generating Tools](file-converting-and-generating-tools)
-- [Working Remotely in Linux](working-remotely-in-linux)
 - [Software I Use in Windows System](software-i-use-in-windows-system)
 - [Useful Tools in Linux](useful-tools-in-linux)
 - [Tips on Vim](tips-on-vim)
@@ -2279,7 +2280,6 @@ site:
 - [Record Computer Screen using RecordMyDesktop](record-computer-screen-using-recordmydesktop)
 - [Python Developing in PyCharm](python-developing-in-pycharm)
 - [View and Edit PDF Documents Using Okular](view-and-edit-pdf-documents-using-okular)
-- [Remote Desktop Using Remmina](remote-desktop-using-remmina)
 - [The Cinnamon Desktop Environment for Linux](the-cinnamon-desktop-environment-for-linux)
 - [Text-based Flowchart and UML Tools](text-based-flowchart-and-uml-tools)
 - [Tips on JupyterLab](tips-on-jupyterlab)
@@ -2553,6 +2553,8 @@ site:
 
 ## Linux
 ```{dropdown} Click to expand/collapse 141 links
+- [Working Remotely in Linux](working-remotely-in-linux)
+- [Remote Desktop Using Remmina](remote-desktop-using-remmina)
 - [Convert MS Office Document to Text](convert-ms-office-document-to-text)
 - [Sharing Files Between Linux and iPad](sharing-files-between-linux-and-ipad)
 - [Tools for Differencing Text Files](tools-for-differencing-text-files)
@@ -2606,7 +2608,6 @@ site:
 - [Manage AppImages on Linux](manage-appimages-on-linux)
 - [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
 - [My Configuration Script for Docker Containers Based on dclong/jupyterhub-ds](my-configuration-script-for-docker-containers-based-on-dclong-jupyterhub-ds)
-- [Working Remotely in Linux](working-remotely-in-linux)
 - [Software I Use in Windows System](software-i-use-in-windows-system)
 - [Useful Tools in Linux](useful-tools-in-linux)
 - [Comparison of (Debian Series) Linux Distributions](comparison-of-debian-series-linux-distributions)
@@ -2623,7 +2624,6 @@ site:
 - [Tips on Touchpad](tips-on-touchpad)
 - [Tips on NFS](tips-on-nfs)
 - [Manage Autostart Applications](manage-autostart-applications)
-- [Remote Desktop Using Remmina](remote-desktop-using-remmina)
 - [Copy Pictures from an Android Phone to a Computer](copy-pictures-from-an-android-phone-to-a-computer)
 - [Tips on Arch Linux](tips-on-arch-linux)
 - [Tips on rsync](tips-on-rsync)
@@ -2698,11 +2698,11 @@ site:
 
 ## AI
 ```{dropdown} Click to expand/collapse 131 links
+- [AI Agents](ai-agents)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
 - [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
 - [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
 - [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
-- [AI Agent](ai-agent)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
 - [Linear Regression in Scikit-learn](linear-regression-in-scikit-learn)
 - [Tips on Scikit-Learn](tips-on-scikit-learn)
@@ -6504,6 +6504,19 @@ site:
 - [Replace Single Quotes With Double Quotes in Python Code](replace-single-quotes-with-double-quotes-in-python-code)
 ```
 
+## desktop
+```{dropdown} Click to expand/collapse 9 links
+- [Working Remotely in Linux](working-remotely-in-linux)
+- [Remote Desktop Using Remmina](remote-desktop-using-remmina)
+- [Tips on Fbs](tips-on-fbs)
+- [Develop a GUI Application in Rust](develop-a-gui-application-in-rust)
+- [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
+- [COSMIC Is a Rock Solid Desktop Environment for Linux](cosmic-is-a-rock-solid-desktop-environment-for-linux)
+- [Manage AppImages on Linux](manage-appimages-on-linux)
+- [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
+- [Manage Autostart Applications](manage-autostart-applications)
+```
+
 ## series
 ```{dropdown} Click to expand/collapse 9 links
 - [Hands on pandas.Series in Python](hands-on-pandas.series-in-python)
@@ -6699,17 +6712,16 @@ site:
 - [Tips on GitHub](tips-on-github)
 ```
 
-## desktop
-```{dropdown} Click to expand/collapse 9 links
-- [Tips on Fbs](tips-on-fbs)
-- [Develop a GUI Application in Rust](develop-a-gui-application-in-rust)
-- [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
-- [COSMIC Is a Rock Solid Desktop Environment for Linux](cosmic-is-a-rock-solid-desktop-environment-for-linux)
-- [Manage AppImages on Linux](manage-appimages-on-linux)
-- [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
+## remote
+```{dropdown} Click to expand/collapse 8 links
 - [Working Remotely in Linux](working-remotely-in-linux)
-- [Manage Autostart Applications](manage-autostart-applications)
 - [Remote Desktop Using Remmina](remote-desktop-using-remmina)
+- [Run Commands on Remote Machines](run-commands-on-remote-machines)
+- [Maintain Garage Doors](maintain-garage-doors)
+- [Tips and sshfs and fuse](tips-and-sshfs-and-fuse)
+- [Useful Tools in Linux](useful-tools-in-linux)
+- [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
+- [Operate Remote Servers Using SSH](operate-remote-servers-using-ssh)
 ```
 
 ## index
@@ -6926,18 +6938,6 @@ site:
 - [Ensure Capturing Log of Applications](ensure-capturing-log-of-applications)
 - [General Tips on Logging](general-tips-on-logging)
 - [Python Logging](python-logging)
-```
-
-## remote
-```{dropdown} Click to expand/collapse 8 links
-- [Run Commands on Remote Machines](run-commands-on-remote-machines)
-- [Maintain Garage Doors](maintain-garage-doors)
-- [Tips and sshfs and fuse](tips-and-sshfs-and-fuse)
-- [Working Remotely in Linux](working-remotely-in-linux)
-- [Useful Tools in Linux](useful-tools-in-linux)
-- [Remote Desktop Using Remmina](remote-desktop-using-remmina)
-- [Copy SSH Public Key Using ssh-copy-id](copy-ssh-public-key-using-ssh-copy-id)
-- [Operate Remote Servers Using SSH](operate-remote-servers-using-ssh)
 ```
 
 ## pattern
@@ -9209,6 +9209,13 @@ site:
 - [Deploy Apache Ray](deploy-apache-ray)
 ```
 
+## NoMachine
+```{dropdown} Click to expand/collapse 3 links
+- [Working Remotely in Linux](working-remotely-in-linux)
+- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
+- [Remote Desktop Using NoMachine on Linux](remote-desktop-using-nomachine-on-linux)
+```
+
 ## Dask
 ```{dropdown} Click to expand/collapse 3 links
 - [Hands on the Python module dask](hands-on-the-python-module-dask)
@@ -9830,13 +9837,6 @@ site:
 - [AR1X Process](ar1x-process)
 - [Don't Do Statistics If You Don't Really Undestand It](don-t-do-statistics-if-you-don-t-really-undestand-it)
 - [Least Square Estimates](least-square-estimates)
-```
-
-## NoMachine
-```{dropdown} Click to expand/collapse 3 links
-- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
-- [Working Remotely in Linux](working-remotely-in-linux)
-- [Remote Desktop Using NoMachine on Linux](remote-desktop-using-nomachine-on-linux)
 ```
 
 ## coin
