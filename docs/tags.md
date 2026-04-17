@@ -7,6 +7,7 @@ site:
 ## programming
 ```{dropdown} Click to expand/collapse 1031 links
 - [LLM APIs](llm-apis)
+- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
 - [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 - [Hands on the Stream Object in Java 8](hands-on-the-stream-object-in-java-8)
@@ -205,7 +206,6 @@ site:
 - [Writing Docs Using Markdown](writing-docs-using-markdown)
 - [Visual Studio Code for Java Development](visual-studio-code-for-java-development)
 - [Visual Studio Code for Scala Development](visual-studio-code-for-scala-development)
-- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
 - [Tips on Valgrind](tips-on-valgrind)
 - [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
 - [Array in Scala](array-in-scala)
@@ -1041,6 +1041,7 @@ site:
 
 ## computer science
 ```{dropdown} Click to expand/collapse 753 links
+- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
 - [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
 - [Get Index of True Values of a Sequence in Python](get-index-of-true-values-of-a-sequence-in-python)
@@ -1180,7 +1181,6 @@ site:
 - [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
 - [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
 - [Tips on Jupyter-Book](tips-on-jupyter-book)
-- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
 - [Tips on Valgrind](tips-on-valgrind)
 - [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
 - [Popular Configurations for NeoVim](popular-configurations-for-neovim)
@@ -5041,12 +5041,12 @@ site:
 
 ## JavaScript
 ```{dropdown} Click to expand/collapse 21 links
+- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
 - [Tips on JSON](tips-on-json)
 - [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
 - [Tips on NodeJS](tips-on-nodejs)
 - [Dataframe in JavaScript](dataframe-in-javascript)
 - [Tips on yarn](tips-on-yarn)
-- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
 - [Tips on Deno](tips-on-deno)
 - [Firebug Is Awsome](firebug-is-awsome)
 - [Hands on JavaScript](hands-on-javascript)
@@ -5811,6 +5811,23 @@ site:
 - [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 ```
 
+## markdown
+```{dropdown} Click to expand/collapse 13 links
+- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
+- [Use JupyterLab Notebooks in Pelican](use-jupyterlab-notebooks-in-pelican)
+- [Mdformat Is An Extensible Markdown Formatter](mdformat-is-an-extensible-markdown-formatter)
+- [Writing Docs Using Markdown](writing-docs-using-markdown)
+- [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
+- [Tips on Jupyter-Book](tips-on-jupyter-book)
+- [RMarkdown Equivalent in Python](rmarkdown-equivalent-in-python)
+- [Write Slides in Markdown](write-slides-in-markdown)
+- [Tips on mdBook](tips-on-mdbook)
+- [Markdown Tools Written in Rust](markdown-tools-written-in-rust)
+- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
+- [Format Markdown Using mdformat Python APIs](format-markdown-using-mdformat-python-apis)
+- [File Converting and Generating Tools](file-converting-and-generating-tools)
+```
+
 ## HoloViews
 ```{dropdown} Click to expand/collapse 13 links
 - [Group-by Plots in HoloViews](group-by-plots-in-holoviews)
@@ -5945,23 +5962,6 @@ site:
 - [Install Python Packages Using pip](install-python-packages-using-pip)
 - [Estimation of False Discovery Rate using Sequential Permutation Pvalues](estimation-of-false-discovery-rate-using-sequential-permutation-pvalues)
 - [My List of Python Modules](my-list-of-python-modules)
-```
-
-## markdown
-```{dropdown} Click to expand/collapse 13 links
-- [Use JupyterLab Notebooks in Pelican](use-jupyterlab-notebooks-in-pelican)
-- [Mdformat Is An Extensible Markdown Formatter](mdformat-is-an-extensible-markdown-formatter)
-- [Writing Docs Using Markdown](writing-docs-using-markdown)
-- [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
-- [Tips on Jupyter-Book](tips-on-jupyter-book)
-- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
-- [RMarkdown Equivalent in Python](rmarkdown-equivalent-in-python)
-- [Write Slides in Markdown](write-slides-in-markdown)
-- [Tips on mdBook](tips-on-mdbook)
-- [Markdown Tools Written in Rust](markdown-tools-written-in-rust)
-- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
-- [Format Markdown Using mdformat Python APIs](format-markdown-using-mdformat-python-apis)
-- [File Converting and Generating Tools](file-converting-and-generating-tools)
 ```
 
 ## SSH
@@ -6369,6 +6369,20 @@ site:
 - [Replace Single Quotes With Double Quotes in Python Code](replace-single-quotes-with-double-quotes-in-python-code)
 ```
 
+## JS
+```{dropdown} Click to expand/collapse 10 links
+- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
+- [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
+- [Tips on NodeJS](tips-on-nodejs)
+- [Tips on yarn](tips-on-yarn)
+- [Tips on Deno](tips-on-deno)
+- [Hands on JavaScript](hands-on-javascript)
+- [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
+- [Tips on Electron](tips-on-electron)
+- [Engine and Runtime for JavaScript](engine-and-runtime-for-javascript)
+- [Tips on JavaScript](tips-on-javascript)
+```
+
 ## path
 ```{dropdown} Click to expand/collapse 10 links
 - [Current Working Directory in Rust](current-working-directory-in-rust)
@@ -6409,20 +6423,6 @@ site:
 - [Good Third-party Math Libraries for Scala](good-third-party-math-libraries-for-scala)
 - [Python Modules for Visualization](python-modules-for-visualization)
 - [Tips on the Transformers Python Library for NLP](tips-on-the-transformers-python-library-for-nlp)
-```
-
-## JS
-```{dropdown} Click to expand/collapse 10 links
-- [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
-- [Tips on NodeJS](tips-on-nodejs)
-- [Tips on yarn](tips-on-yarn)
-- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
-- [Tips on Deno](tips-on-deno)
-- [Hands on JavaScript](hands-on-javascript)
-- [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
-- [Tips on Electron](tips-on-electron)
-- [Engine and Runtime for JavaScript](engine-and-runtime-for-javascript)
-- [Tips on JavaScript](tips-on-javascript)
 ```
 
 ## VirtualBox
@@ -9207,6 +9207,13 @@ site:
 - [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
 ```
 
+## workflow
+```{dropdown} Click to expand/collapse 3 links
+- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
+- [Job Scheduling and Management Using Apache Airflow](job-scheduling-and-management-using-apache-airflow)
+- [Tips on Prefect](tips-on-prefect)
+```
+
 ## cluster
 ```{dropdown} Click to expand/collapse 3 links
 - [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
@@ -9429,13 +9436,6 @@ site:
 - [Docker Images for Proxy Servers](docker-images-for-proxy-servers)
 - [Tips on TinyProxy](tips-on-tinyproxy)
 - [Good Choices of Reverse Proxies](good-choices-of-reverse-proxies)
-```
-
-## workflow
-```{dropdown} Click to expand/collapse 3 links
-- [Job Scheduling and Management Using Apache Airflow](job-scheduling-and-management-using-apache-airflow)
-- [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
-- [Tips on Prefect](tips-on-prefect)
 ```
 
 ## scheduling

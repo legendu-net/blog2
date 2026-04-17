@@ -1,7 +1,7 @@
 ---
 title: Make Charts in Markdown Using Mermaid
 created: 2022-12-24 00:27:00
-date: 2026-04-14 19:49:13.843163
+date: 2026-04-16 18:50:12.455645
 authors:
   - bendu
 label: make-charts-in-markdown-using-mermaid
@@ -21,9 +21,7 @@ tags:
 
 [Mermaid AI](https://mermaid.ai/mermaid-ai)
 
-
 [AI Mermaid Diagram Editor](https://www.eraser.io/ai/mermaid-diagram-editor)
-
 
 ## Tools for Rust
 
