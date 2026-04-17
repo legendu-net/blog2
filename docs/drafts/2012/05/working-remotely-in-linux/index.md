@@ -1,19 +1,20 @@
 ---
 title: Working Remotely in Linux
 created: 2012-05-01 23:20:51
-date: 2026-04-05 19:42:38.443433
+date: 2026-04-16 12:51:31.321121
 authors:
-- bendu
+  - bendu
 label: working-remotely-in-linux
 license: CC-BY-4.0
 tags:
-- software
-- remote
-- Linux
-- desktop
-- NoMachine
-- rustdesk
+  - software
+  - remote
+  - Linux
+  - desktop
+  - NoMachine
+  - rustdesk
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## From Linux to Linux
@@ -21,20 +22,21 @@ tags:
 ### Command Line Mode Using `ssh`
 
 1. Using X forwarding, you can also run GUI applications on the server.
-    This is not recommended unless it's short quick work.
+   This is not recommended unless it's short quick work.
 
 ### Remote File System
 
 - nfs
-    - NFS has better performance (compared to sshfs and samba)
-        but it's less secured.
+
+  - NFS has better performance (compared to sshfs and samba)
+    but it's less secured.
 
 - sshfs
 
-    - You'd better use a mount point which you have full access to,
-        otherwise, you have use the root user to access the mount point. 
+  - You'd better use a mount point which you have full access to,
+    otherwise, you have use the root user to access the mount point.
 
-    - You'd better add yourself to the `fuse` (which is required by sshfs) group.
+  - You'd better add yourself to the `fuse` (which is required by sshfs) group.
 
 - samba
 
@@ -42,28 +44,29 @@ tags:
 
 - rdp
   - Linux DE Built-ins
-      - KDE Plasma: System Settings -> System -> Remote Desktop
+    - KDE Plasma: System Settings -> System -> Remote Desktop
   - Windows App (macOS)
 - VNC
-  - vino 
+  - vino
   - tight VNC
   - remmina
   - [noVNC](https://novnc.com/info.html)
 - NoMachine
-    - commericial but free for personal use
+  - commericial but free for personal use
 - [rustdesk](https://github.com/rustdesk/rustdesk)
 - [Chrome Remote Desktop](https://remotedesktop.google.com/home)
-    - Linux support is limited to Debian/Ubuntu series.
+  - Linux support is limited to Debian/Ubuntu series.
 - Teamviewer
-    - commericial
+  - commericial
 - [Parsec](https://parsec.app)
-    - commericial, monthly subscription
+  - commericial, monthly subscription
 
 ## From Linux to Windows
 
 ### Remote Desktop
 
 - rdp
+
   - Remmina
   - rdesktop
 
@@ -71,21 +74,24 @@ tags:
 
 - Teamviewer
 
-### Remote File System 
+### Remote File System
 
 - SAMBA
 
-    - Open nautilus file manager and press `CTRL + L` to show the address field.
+  - Open nautilus file manager and press `CTRL + L` to show the address field.
 
-    - Type in `smb://host_name/folder` in the address field and press enter.
+  - Type in `smb://host_name/folder` in the address field and press enter.
 
-    - Type in your user name and password in the prompt to login. 
+  - Type in your user name and password in the prompt to login.
 
 ## From Windows to Linux
 
-### Comand Line Mode Using `ssh` 
+### Comand Line Mode Using `ssh`
 
 ### Remote File System
+
 - SAMBA
+
 ### Remote Desktop
+
 - NoMachine

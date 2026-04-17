@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering for LLM Tools
 created: 2025-05-30 08:26:03
-date: 2026-04-13 23:14:20.364275
+date: 2026-04-16 17:08:42.318709
 authors:
   - bendu
 label: prompt-engineering-for-llm-tools
@@ -16,10 +16,13 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-Gemini API - Prompt Gallery
-https://ai.google.dev/gemini-api/prompts
+- [Gemini API - Prompt Gallery](https://ai.google.dev/gemini-api/prompts)
 
-https://github.com/ai-boost/awesome-prompts
+- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts)
+
+- [Awesome Awesome Prompts](https://github.com/dukeluo/awesome-awesome-prompts)
+
+- [Prompt Programming](https://github.com/ai-boost/awesome-prompts?tab=readme-ov-file#prompt-programming)
 
 ## Tips and Traps
 
@@ -46,8 +49,6 @@ https://github.com/ai-boost/awesome-prompts
    and then feed the execution plan to a LLM tool to execute.
 
 ## Tools for Generating and Managing Prompts
-
-https://github.com/ai-boost/awesome-prompts
 
 <table>
     <thead>
@@ -267,3 +268,7 @@ https://github.com/ai-boost/awesome-prompts
 1. **Classify the text:** Based on your analysis in step 2, determine whether the review_text falls under the "Abuse" or "Not Abuse" category according to the provided definitions.
 
 1. **Format the output:** Label: [Abuse or Not Abuse]
+
+## References
+
+- [I save every great ChatGPT prompt I find. Here are the 15 that changed how I work.](https://www.reddit.com/r/ChatGPT/comments/1qblp9j/i_save_every_great_chatgpt_prompt_i_find_here_are/)

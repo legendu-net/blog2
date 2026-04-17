@@ -6,6 +6,7 @@ site:
 
 ## programming
 ```{dropdown} Click to expand/collapse 1029 links
+- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 - [Hands on the Stream Object in Java 8](hands-on-the-stream-object-in-java-8)
 - [Hashmap in Kotlin](hashmap-in-kotlin)
 - [Collections in Kotlin](collections-in-kotlin)
@@ -575,7 +576,6 @@ site:
 - [Tips on Gemini](tips-on-gemini)
 - [Tips on GCP Compute Engine](tips-on-gcp-compute-engine)
 - [Tips on Flatpak](tips-on-flatpak)
-- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 - [ty Is a New Modern Static Type Checking and Language Server for Python](ty-is-a-new-modern-static-type-checking-and-language-server-for-python)
 - [Tips on Pyrefly](tips-on-pyrefly)
 - [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
@@ -1039,6 +1039,7 @@ site:
 
 ## computer science
 ```{dropdown} Click to expand/collapse 753 links
+- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
 - [Get Index of True Values of a Sequence in Python](get-index-of-true-values-of-a-sequence-in-python)
 - [Query Pandas Data Frames Using SQL](query-pandas-data-frames-using-sql)
@@ -1714,7 +1715,6 @@ site:
 - [Tips on Gemini](tips-on-gemini)
 - [Tips on GCP Compute Engine](tips-on-gcp-compute-engine)
 - [Tips on Flatpak](tips-on-flatpak)
-- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 - [ty Is a New Modern Static Type Checking and Language Server for Python](ty-is-a-new-modern-static-type-checking-and-language-server-for-python)
 - [Tips on Pyrefly](tips-on-pyrefly)
 - [Tips on fd](tips-on-fd)
@@ -2695,7 +2695,10 @@ site:
 ```
 
 ## AI
-```{dropdown} Click to expand/collapse 127 links
+```{dropdown} Click to expand/collapse 130 links
+- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
+- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
 - [AI Agent](ai-agent)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
 - [Linear Regression in Scikit-learn](linear-regression-in-scikit-learn)
@@ -5970,6 +5973,54 @@ site:
 - [Const and Static Variables in C++](const-and-static-variables-in-c++)
 ```
 
+## LLM
+```{dropdown} Click to expand/collapse 12 links
+- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
+- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
+- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
+- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
+- [Tips on Large Language Models](tips-on-large-language-models)
+- [LLM in Rust](llm-in-rust)
+- [Retrieval-Augmented Generation for LLM](retrieval-augmented-generation-for-llm)
+- [LLM and Robotics](llm-and-robotics)
+- [Fine-Tune LLM](fine-tune-llm)
+- [Tips on NotebookLM](tips-on-notebooklm)
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+```
+
+## tool
+```{dropdown} Click to expand/collapse 12 links
+- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
+- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
+- [Dev Tools for Rust](dev-tools-for-rust)
+- [Linux Network Tools](linux-network-tools)
+- [Tips on MuMu App Player](tips-on-mumu-app-player)
+- [Tips on KeepassXC](tips-on-keepassxc)
+- [Rip Is rm Improved](rip-is-rm-improved)
+- [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
+- [Compiler and Build Tools](compiler-and-build-tools)
+- [Tips on Windows Terminal](tips-on-windows-terminal)
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
+```
+
+## repository
+```{dropdown} Click to expand/collapse 12 links
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
+- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
+- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
+- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
+- [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
+- [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
+- [Download a Single File from a GitHub Repository](download-a-single-file-from-a-github-repository)
+- [Speed Up sbt in China](speed-up-sbt-in-china)
+- [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
+- [Batch GitHub Repository Operations Using GitHub Rest API](batch-github-repository-operations-using-github-rest-api)
+- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
+- [Reduce Size of Git Repository](reduce-size-of-git-repository)
+```
+
 ## collections
 ```{dropdown} Click to expand/collapse 12 links
 - [Hashmap in Kotlin](hashmap-in-kotlin)
@@ -6232,21 +6283,6 @@ site:
 - [Service Your Rivian Car](service-your-rivian-car)
 - [Tips on Car Tires](tips-on-car-tires)
 - [Tips on Car Maintenance](tips-on-car-maintenance)
-```
-
-## repository
-```{dropdown} Click to expand/collapse 11 links
-- [Tools for Checking for Dirty Git Repositories](tools-for-checking-for-dirty-git-repositories)
-- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
-- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
-- [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
-- [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
-- [Download a Single File from a GitHub Repository](download-a-single-file-from-a-github-repository)
-- [Speed Up sbt in China](speed-up-sbt-in-china)
-- [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
-- [Batch GitHub Repository Operations Using GitHub Rest API](batch-github-repository-operations-using-github-rest-api)
-- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
-- [Reduce Size of Git Repository](reduce-size-of-git-repository)
 ```
 
 ## app
@@ -6566,32 +6602,6 @@ site:
 - [Tips on Web Development](tips-on-web-development)
 ```
 
-## tool
-```{dropdown} Click to expand/collapse 9 links
-- [Dev Tools for Rust](dev-tools-for-rust)
-- [Linux Network Tools](linux-network-tools)
-- [Tips on MuMu App Player](tips-on-mumu-app-player)
-- [Tips on KeepassXC](tips-on-keepassxc)
-- [Rip Is rm Improved](rip-is-rm-improved)
-- [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
-- [Compiler and Build Tools](compiler-and-build-tools)
-- [Tips on Windows Terminal](tips-on-windows-terminal)
-- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
-```
-
-## LLM
-```{dropdown} Click to expand/collapse 9 links
-- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
-- [Tips on Large Language Models](tips-on-large-language-models)
-- [LLM in Rust](llm-in-rust)
-- [Retrieval-Augmented Generation for LLM](retrieval-augmented-generation-for-llm)
-- [LLM and Robotics](llm-and-robotics)
-- [Fine-Tune LLM](fine-tune-llm)
-- [Tips on NotebookLM](tips-on-notebooklm)
-- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
-```
-
 ## RNG
 ```{dropdown} Click to expand/collapse 9 links
 - [Thread Safe Random Number Generator](thread-safe-random-number-generator)
@@ -6681,6 +6691,18 @@ site:
 - [Working Remotely in Linux](working-remotely-in-linux)
 - [Manage Autostart Applications](manage-autostart-applications)
 - [Remote Desktop Using Remmina](remote-desktop-using-remmina)
+```
+
+## code
+```{dropdown} Click to expand/collapse 8 links
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
+- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
+- [Tips on Code Design](tips-on-code-design)
+- [Verify Rust Code](verify-rust-code)
+- [Format Python Code Using Black](format-python-code-using-black)
+- [Tips on Refactoring Rust Code](tips-on-refactoring-rust-code)
+- [GitHub Alternatives](github-alternatives)
+- [Replace Single Quotes With Double Quotes in Python Code](replace-single-quotes-with-double-quotes-in-python-code)
 ```
 
 ## index
@@ -7212,17 +7234,6 @@ site:
 - [Tips on Dioxus](tips-on-dioxus)
 - [File Converting and Generating Tools](file-converting-and-generating-tools)
 - [Tips on Web Development](tips-on-web-development)
-```
-
-## code
-```{dropdown} Click to expand/collapse 7 links
-- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
-- [Tips on Code Design](tips-on-code-design)
-- [Verify Rust Code](verify-rust-code)
-- [Format Python Code Using Black](format-python-code-using-black)
-- [Tips on Refactoring Rust Code](tips-on-refactoring-rust-code)
-- [GitHub Alternatives](github-alternatives)
-- [Replace Single Quotes With Double Quotes in Python Code](replace-single-quotes-with-double-quotes-in-python-code)
 ```
 
 ## formatting
@@ -7761,6 +7772,15 @@ site:
 - [Desktop Environments for Linux](desktop-environments-for-linux)
 - [Shortcuts for KDE](shortcuts-for-kde)
 - [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
+```
+
+## multiple
+```{dropdown} Click to expand/collapse 5 links
+- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
+- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
+- [Work With Multiple Spark Installations](work-with-multiple-spark-installations)
+- [Read Multiple Files into a DataFrame in Spark](read-multiple-files-into-a-dataframe-in-spark)
+- [Compress and Decompressing Archives in Linux](compress-and-decompressing-archives-in-linux)
 ```
 
 ## hashmap
@@ -8878,14 +8898,6 @@ site:
 - [Remote Desktop Using NoMachine on Linux](remote-desktop-using-nomachine-on-linux)
 ```
 
-## multiple
-```{dropdown} Click to expand/collapse 4 links
-- [Map a Function to Multiple Columns in Polars in Rust](map-a-function-to-multiple-columns-in-polars-in-rust)
-- [Work With Multiple Spark Installations](work-with-multiple-spark-installations)
-- [Read Multiple Files into a DataFrame in Spark](read-multiple-files-into-a-dataframe-in-spark)
-- [Compress and Decompressing Archives in Linux](compress-and-decompressing-archives-in-linux)
-```
-
 ## remote desktop
 ```{dropdown} Click to expand/collapse 4 links
 - [Install Remote Desktop for Windows in Mac](install-remote-desktop-for-windows-in-mac)
@@ -9180,6 +9192,13 @@ site:
 - [Deploy Apache Ray](deploy-apache-ray)
 - [Tips on Apache Ray](tips-on-apache-ray)
 - [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
+```
+
+## cluster
+```{dropdown} Click to expand/collapse 3 links
+- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
+- [Comparing Similarity of Two Different Clusterings](comparing-similarity-of-two-different-clusterings)
+- [Deploy Apache Ray](deploy-apache-ray)
 ```
 
 ## Dask
@@ -10454,6 +10473,18 @@ site:
 - [Use XGBoost With Spark](use-xgboost-with-spark)
 - [Tips on XGBoost](tips-on-xgboost)
 - [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
+```
+
+## prompt
+```{dropdown} Click to expand/collapse 2 links
+- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
+- [Tips on Gemini](tips-on-gemini)
+```
+
+## architecture
+```{dropdown} Click to expand/collapse 2 links
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
+- [Get OS and Architecture Information in Shell](get-os-and-architecture-information-in-shell)
 ```
 
 ## cloud9
@@ -12688,12 +12719,6 @@ site:
 - [Tips on Web Browsers](tips-on-web-browsers)
 ```
 
-## prompt
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Gemini](tips-on-gemini)
-- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
-```
-
 ## static type
 ```{dropdown} Click to expand/collapse 2 links
 - [ty Is a New Modern Static Type Checking and Language Server for Python](ty-is-a-new-modern-static-type-checking-and-language-server-for-python)
@@ -12734,12 +12759,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Comparing Similarity of Two Different Clusterings](comparing-similarity-of-two-different-clusterings)
 - [Clustering Algorithms in Machine Learning](clustering-algorithms-in-machine-learning)
-```
-
-## cluster
-```{dropdown} Click to expand/collapse 2 links
-- [Comparing Similarity of Two Different Clusterings](comparing-similarity-of-two-different-clusterings)
-- [Deploy Apache Ray](deploy-apache-ray)
 ```
 
 ## JAVA_HOME
