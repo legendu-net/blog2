@@ -61,7 +61,7 @@ Please refer to the following tag table for more details.
 - - [dclong/vscode-server](https://github.com/legendu-net/docker-vscode-server)
   - Cloud IDE [code-server](https://github.com/coder/code-server) (based on VSCode)
 - - [dclong/jupyterhub-ds](https://github.com/legendu-net/docker-jupyterhub-ds)
-  - Traditional ML
+  - For data science, machine learning and AI.
 - - [dclong/python-portable](https://github.com/legendu-net/docker-python-portable)
   - Build portable Python using [python-build-standalone](https://github.com/indygreg/python-build-standalone)
 - - [dclong/jupyterhub-sagemath](https://github.com/legendu-net/docker-jupyterhub-sagemath)

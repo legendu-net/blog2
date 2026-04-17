@@ -5,7 +5,8 @@ site:
 ---
 
 ## programming
-```{dropdown} Click to expand/collapse 1029 links
+```{dropdown} Click to expand/collapse 1030 links
+- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
 - [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 - [Hands on the Stream Object in Java 8](hands-on-the-stream-object-in-java-8)
 - [Hashmap in Kotlin](hashmap-in-kotlin)
@@ -1795,7 +1796,8 @@ site:
 ```
 
 ## Python
-```{dropdown} Click to expand/collapse 354 links
+```{dropdown} Click to expand/collapse 355 links
+- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
 - [Hands on the Python module dask](hands-on-the-python-module-dask)
 - [Aggregation in pandas DataFrame](aggregation-in-pandas-dataframe)
 - [Group-by Plots in HoloViews](group-by-plots-in-holoviews)
@@ -2695,7 +2697,8 @@ site:
 ```
 
 ## AI
-```{dropdown} Click to expand/collapse 130 links
+```{dropdown} Click to expand/collapse 131 links
+- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
 - [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
 - [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
 - [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
@@ -4641,6 +4644,37 @@ site:
 - [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
 ```
 
+## API
+```{dropdown} Click to expand/collapse 27 links
+- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
+- [SQL Database Client-server Protocols](sql-database-client-server-protocols)
+- [Tips on gRPC](tips-on-grpc)
+- [Tips on Microsoft Graph APIs](tips-on-microsoft-graph-apis)
+- [Use Python with Google Spreadsheet](use-python-with-google-spreadsheet)
+- [Hands on ghapi](hands-on-ghapi)
+- [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
+- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
+- [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
+- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
+- [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
+- [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
+- [Tips on Frontend Development](tips-on-frontend-development)
+- [Docker APIs](docker-apis)
+- [Document Rust APIs](document-rust-apis)
+- [gRPC GraphQL and RESTful APIs](grpc-graphql-and-restful-apis)
+- [Rust for Backend Development](rust-for-backend-development)
+- [Useful Rust Crates for GraphQL](useful-rust-crates-for-graphql)
+- [Rust Backend Frameworks for Rest APIs](rust-backend-frameworks-for-rest-apis)
+- [Rust Backend Frameworks for gRPC APIs](rust-backend-frameworks-for-grpc-apis)
+- [Rust Backend Frameworks for GraphQL APIs](rust-backend-frameworks-for-graphql-apis)
+- [GitHub API](github-api)
+- [Format Markdown Using mdformat Python APIs](format-markdown-using-mdformat-python-apis)
+- [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
+- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
+- [VirtualBox API](virtualbox-api)
+```
+
 ## fun problems
 ```{dropdown} Click to expand/collapse 27 links
 - [Thread Safe Random Number Generator](thread-safe-random-number-generator)
@@ -4670,36 +4704,6 @@ site:
 - [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan)
 - [Fewest Scalings to Identify the Fake Ball](fewest-scalings-to-identify-the-fake-ball)
 - [Ratio of Boy to Girl](ratio-of-boy-to-girl)
-```
-
-## API
-```{dropdown} Click to expand/collapse 26 links
-- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
-- [SQL Database Client-server Protocols](sql-database-client-server-protocols)
-- [Tips on gRPC](tips-on-grpc)
-- [Tips on Microsoft Graph APIs](tips-on-microsoft-graph-apis)
-- [Use Python with Google Spreadsheet](use-python-with-google-spreadsheet)
-- [Hands on ghapi](hands-on-ghapi)
-- [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
-- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
-- [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
-- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
-- [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
-- [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
-- [Tips on Frontend Development](tips-on-frontend-development)
-- [Docker APIs](docker-apis)
-- [Document Rust APIs](document-rust-apis)
-- [gRPC GraphQL and RESTful APIs](grpc-graphql-and-restful-apis)
-- [Rust for Backend Development](rust-for-backend-development)
-- [Useful Rust Crates for GraphQL](useful-rust-crates-for-graphql)
-- [Rust Backend Frameworks for Rest APIs](rust-backend-frameworks-for-rest-apis)
-- [Rust Backend Frameworks for gRPC APIs](rust-backend-frameworks-for-grpc-apis)
-- [Rust Backend Frameworks for GraphQL APIs](rust-backend-frameworks-for-graphql-apis)
-- [GitHub API](github-api)
-- [Format Markdown Using mdformat Python APIs](format-markdown-using-mdformat-python-apis)
-- [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
-- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
-- [VirtualBox API](virtualbox-api)
 ```
 
 ## PySpark
@@ -5454,6 +5458,25 @@ site:
 - [Driving on Snow and Ice](driving-on-snow-and-ice)
 ```
 
+## Google
+```{dropdown} Click to expand/collapse 15 links
+- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [Tips on Google Ads](tips-on-google-ads)
+- [Tips on Google Spreadsheet](tips-on-google-spreadsheet)
+- [Use Python with Google Spreadsheet](use-python-with-google-spreadsheet)
+- [Tips on GCP](tips-on-gcp)
+- [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
+- [Tips on BigQuery](tips-on-bigquery)
+- [Tips on ZetaSQL](tips-on-zetasql)
+- [GCP Compute Engine VM Instances](gcp-compute-engine-vm-instances)
+- [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
+- [Tips on NotebookLM](tips-on-notebooklm)
+- [Tips on Gemini](tips-on-gemini)
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+- [Nested Data Structures in Databases](nested-data-structures-in-databases)
+- [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
+```
+
 ## Visual Studio Code
 ```{dropdown} Click to expand/collapse 15 links
 - [Vim as a Universal Editor](vim-as-a-universal-editor)
@@ -5715,24 +5738,6 @@ site:
 - [Useful Visual Studio Code Extensions](useful-visual-studio-code-extensions)
 ```
 
-## Google
-```{dropdown} Click to expand/collapse 14 links
-- [Tips on Google Ads](tips-on-google-ads)
-- [Tips on Google Spreadsheet](tips-on-google-spreadsheet)
-- [Use Python with Google Spreadsheet](use-python-with-google-spreadsheet)
-- [Tips on GCP](tips-on-gcp)
-- [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
-- [Tips on BigQuery](tips-on-bigquery)
-- [Tips on ZetaSQL](tips-on-zetasql)
-- [GCP Compute Engine VM Instances](gcp-compute-engine-vm-instances)
-- [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
-- [Tips on NotebookLM](tips-on-notebooklm)
-- [Tips on Gemini](tips-on-gemini)
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
-- [Nested Data Structures in Databases](nested-data-structures-in-databases)
-- [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
-```
-
 ## exception
 ```{dropdown} Click to expand/collapse 14 links
 - [Spark Issue: Pure Python Code Errors](spark-issue-pure-python-code-errors)
@@ -5767,6 +5772,23 @@ site:
 - [Load Images into Pillow](load-images-into-pillow)
 - [Tips on Pillow](tips-on-pillow)
 - [Computer Vision Tools](computer-vision-tools)
+```
+
+## LLM
+```{dropdown} Click to expand/collapse 13 links
+- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
+- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
+- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
+- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
+- [Tips on Large Language Models](tips-on-large-language-models)
+- [LLM in Rust](llm-in-rust)
+- [Retrieval-Augmented Generation for LLM](retrieval-augmented-generation-for-llm)
+- [LLM and Robotics](llm-and-robotics)
+- [Fine-Tune LLM](fine-tune-llm)
+- [Tips on NotebookLM](tips-on-notebooklm)
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 ```
 
 ## HoloViews
@@ -5971,22 +5993,6 @@ site:
 - [Object Oriented Programming in Java](object-oriented-programming-in-java)
 - [Define Variables in Rust](define-variables-in-rust)
 - [Const and Static Variables in C++](const-and-static-variables-in-c++)
-```
-
-## LLM
-```{dropdown} Click to expand/collapse 12 links
-- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
-- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
-- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
-- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
-- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
-- [Tips on Large Language Models](tips-on-large-language-models)
-- [LLM in Rust](llm-in-rust)
-- [Retrieval-Augmented Generation for LLM](retrieval-augmented-generation-for-llm)
-- [LLM and Robotics](llm-and-robotics)
-- [Fine-Tune LLM](fine-tune-llm)
-- [Tips on NotebookLM](tips-on-notebooklm)
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 ```
 
 ## tool
@@ -6485,6 +6491,19 @@ site:
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 ```
 
+## code
+```{dropdown} Click to expand/collapse 9 links
+- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
+- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
+- [Tips on Code Design](tips-on-code-design)
+- [Verify Rust Code](verify-rust-code)
+- [Format Python Code Using Black](format-python-code-using-black)
+- [Tips on Refactoring Rust Code](tips-on-refactoring-rust-code)
+- [GitHub Alternatives](github-alternatives)
+- [Replace Single Quotes With Double Quotes in Python Code](replace-single-quotes-with-double-quotes-in-python-code)
+```
+
 ## series
 ```{dropdown} Click to expand/collapse 9 links
 - [Hands on pandas.Series in Python](hands-on-pandas.series-in-python)
@@ -6691,18 +6710,6 @@ site:
 - [Working Remotely in Linux](working-remotely-in-linux)
 - [Manage Autostart Applications](manage-autostart-applications)
 - [Remote Desktop Using Remmina](remote-desktop-using-remmina)
-```
-
-## code
-```{dropdown} Click to expand/collapse 8 links
-- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
-- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
-- [Tips on Code Design](tips-on-code-design)
-- [Verify Rust Code](verify-rust-code)
-- [Format Python Code Using Black](format-python-code-using-black)
-- [Tips on Refactoring Rust Code](tips-on-refactoring-rust-code)
-- [GitHub Alternatives](github-alternatives)
-- [Replace Single Quotes With Double Quotes in Python Code](replace-single-quotes-with-double-quotes-in-python-code)
 ```
 
 ## index
@@ -7774,6 +7781,15 @@ site:
 - [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
 ```
 
+## Gemini
+```{dropdown} Click to expand/collapse 5 links
+- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
+- [Tips on Gemini](tips-on-gemini)
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
+```
+
 ## multiple
 ```{dropdown} Click to expand/collapse 5 links
 - [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
@@ -8816,14 +8832,6 @@ site:
 - [Markdown vs RestructureText vs MyST for Documentation](markdown-vs-restructuretext-vs-myst-for-documentation)
 - [Markedly Structured Text](markedly-structured-text)
 - [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
-```
-
-## Gemini
-```{dropdown} Click to expand/collapse 4 links
-- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
-- [Tips on Gemini](tips-on-gemini)
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
-- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 ```
 
 ## load

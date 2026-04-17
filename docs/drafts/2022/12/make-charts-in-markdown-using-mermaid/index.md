@@ -19,21 +19,25 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-https://frehberg.com/2022/12/docs-as-code-mermaid-inline-diagrams/
-Docs as Code: Mermaid inline diagrams
+[Mermaid AI](https://mermaid.ai/mermaid-ai)
+
+
+[AI Mermaid Diagram Editor](https://www.eraser.io/ai/mermaid-diagram-editor)
+
 
 ## Tools for Rust
 
-https://crates.io/crates/aquamarine
-Aquamarine is a procedural macro extension for rustdoc, that aims to improve the visual component of Rust documentation through use of the mermaid.js diagrams.
+- [Aquamarine](https://crates.io/crates/aquamarine)
+  is a procedural macro extension for rustdoc, that aims to improve the visual component of Rust documentation through use of the mermaid.js diagrams.
 
-https://crates.io/crates/mdbook-mermaid
+- [mdbook-mermaid](https://crates.io/crates/mdbook-mermaid)
+
+[Docs as Code: Mermaid inline diagrams](https://frehberg.com/2022/12/docs-as-code-mermaid-inline-diagrams/)
 
 ## References
 
-https://mermaid.js.org/
+- [Mermaid.js](https://mermaid.js.org/)
 
-https://github.com/mermaid-js/mermaid
+- [Mermaid @ GitHub](https://github.com/mermaid-js/mermaid)
 
-https://www.writethedocs.org/guide/docs-as-code/
-Docs as Code
+- [Docs as Code](https://www.writethedocs.org/guide/docs-as-code/)
