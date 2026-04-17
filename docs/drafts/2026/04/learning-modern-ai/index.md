@@ -16,13 +16,13 @@ tags:
 
 ## GitHub 
 
-https://github.com/karpathy?tab=repositories
+- [Andrej Karpathy](https://github.com/karpathy?tab=repositories)
 
-https://gist.github.com/karpathy
+- [Andrej Karpathy's Gist](https://gist.github.com/karpathy)
 
 ## Blogs
 
-[Andrej Karpathy blog](https://karpathy.github.io/)
+- [Andrej Karpathy blog](https://karpathy.github.io/)
 
 ## Learning Platform
 

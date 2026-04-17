@@ -22,11 +22,20 @@ tags:
 
 ## AI-centric Browsers
 
+- [Gemini in Chrome](https://labs.google/disco)
+  - free; Auto Browse requires subscription
+  - Windows, macOS
+
 - [Google Disco](https://labs.google/disco)
 
 - [ChatGPT Atlas](https://chatgpt.com/atlas/)
+  - macOS
 
 - [Dia](tips-on-the-dia-browser)
+
+- [Opera Neon](https://www.operaneon.com/)
+  - subscript requried
+  - Windows, macOS
 
 ## Headless Browsers
 

@@ -10501,6 +10501,12 @@ site:
 - [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
 ```
 
+## NotebookLM
+```{dropdown} Click to expand/collapse 2 links
+- [Build Knowledge Base for AI](build-knowledge-base-for-ai)
+- [Tips on NotebookLM](tips-on-notebooklm)
+```
+
 ## prompt
 ```{dropdown} Click to expand/collapse 2 links
 - [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
