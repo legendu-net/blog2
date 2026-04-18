@@ -65,6 +65,22 @@ or
 [PySpark](process-big-data-using-pyspark) (preferred)
 .
 
+## JVM Language Kernels
+
+- [JJava](https://github.com/dflib/jjava)
+
+- [rapaio-jupyter-kernel](https://github.com/padreati/rapaio-jupyter-kernel)
+
+- [Ganymede](https://github.com/allen-ball/ganymede)
+    - works well for Java
+    - print doesn't work for other JVM languages based on cell magics
+
+- [kotlin-jupyter](https://github.com/Kotlin/kotlin-jupyter)
+    - Kotlin 2 is not supported yet
+
+- [almond](https://github.com/almond-sh/almond)
+    - works well
+
 ## Remote Kernels
 
 IPython is able to run remtoe kernels.

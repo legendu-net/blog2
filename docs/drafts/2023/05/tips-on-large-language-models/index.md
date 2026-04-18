@@ -19,6 +19,9 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+See also [AI Tools from China](ai-tools-from-china)
+.
+
 ```{list-table}
 :header-rows: 1
 
@@ -56,10 +59,6 @@ tags:
   - Knowledge Base
   - NA
   - 
-- - Tencent Yuanbao (in WeChat)
-  - Knowledge Base
-  - NA
-  - Can be added as a friend in WeChat.
 - - [otter.ai](https://otter.ai)
   - Meeting
   - 
@@ -106,12 +105,6 @@ tags:
 ```
 
 [langextract](https://github.com/google/langextract)
-
-## AI Tools from China
-
-- [智谱AI开放平台](https://bigmodel.cn/)
-- 腾讯元宝
-- 豆包
 
 ## Tutorials
 

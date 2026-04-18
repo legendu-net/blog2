@@ -5,7 +5,8 @@ site:
 ---
 
 ## programming
-```{dropdown} Click to expand/collapse 1031 links
+```{dropdown} Click to expand/collapse 1032 links
+- [AI Tools from China](ai-tools-from-china)
 - [LLM APIs](llm-apis)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
 - [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
@@ -1040,7 +1041,8 @@ site:
 ```
 
 ## computer science
-```{dropdown} Click to expand/collapse 753 links
+```{dropdown} Click to expand/collapse 754 links
+- [AI Tools from China](ai-tools-from-china)
 - [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
 - [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
@@ -2698,7 +2700,8 @@ site:
 ```
 
 ## AI
-```{dropdown} Click to expand/collapse 135 links
+```{dropdown} Click to expand/collapse 136 links
+- [AI Tools from China](ai-tools-from-china)
 - [AI Translators](ai-translators)
 - [Build Knowledge Base for AI](build-knowledge-base-for-ai)
 - [Learning Modern AI](learning-modern-ai)
@@ -5257,6 +5260,28 @@ site:
 - [Deep Learning Tools and Apps](deep-learning-tools-and-apps)
 ```
 
+## LLM
+```{dropdown} Click to expand/collapse 18 links
+- [AI Tools from China](ai-tools-from-china)
+- [AI Translators](ai-translators)
+- [Build Knowledge Base for AI](build-knowledge-base-for-ai)
+- [Learning Modern AI](learning-modern-ai)
+- [LLM APIs](llm-apis)
+- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
+- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
+- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
+- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
+- [Tips on Large Language Models](tips-on-large-language-models)
+- [LLM in Rust](llm-in-rust)
+- [Retrieval-Augmented Generation for LLM](retrieval-augmented-generation-for-llm)
+- [LLM and Robotics](llm-and-robotics)
+- [Fine-Tune LLM](fine-tune-llm)
+- [Tips on NotebookLM](tips-on-notebooklm)
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+```
+
 ## GUI
 ```{dropdown} Click to expand/collapse 18 links
 - [Use Qt in Python](use-qt-in-python)
@@ -5299,27 +5324,6 @@ site:
 - [Use PyTorch on GPU](use-pytorch-on-gpu)
 - [Tips on TensorFlow](tips-on-tensorflow)
 - [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
-```
-
-## LLM
-```{dropdown} Click to expand/collapse 17 links
-- [AI Translators](ai-translators)
-- [Build Knowledge Base for AI](build-knowledge-base-for-ai)
-- [Learning Modern AI](learning-modern-ai)
-- [LLM APIs](llm-apis)
-- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
-- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
-- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
-- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
-- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
-- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
-- [Tips on Large Language Models](tips-on-large-language-models)
-- [LLM in Rust](llm-in-rust)
-- [Retrieval-Augmented Generation for LLM](retrieval-augmented-generation-for-llm)
-- [LLM and Robotics](llm-and-robotics)
-- [Fine-Tune LLM](fine-tune-llm)
-- [Tips on NotebookLM](tips-on-notebooklm)
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 ```
 
 ## command line
@@ -5676,6 +5680,24 @@ site:
 - [How Many Empty Boxes?](how-many-empty-boxes)
 ```
 
+## tool
+```{dropdown} Click to expand/collapse 14 links
+- [AI Tools from China](ai-tools-from-china)
+- [LLM APIs](llm-apis)
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
+- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
+- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
+- [Dev Tools for Rust](dev-tools-for-rust)
+- [Linux Network Tools](linux-network-tools)
+- [Tips on MuMu App Player](tips-on-mumu-app-player)
+- [Tips on KeepassXC](tips-on-keepassxc)
+- [Rip Is rm Improved](rip-is-rm-improved)
+- [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
+- [Compiler and Build Tools](compiler-and-build-tools)
+- [Tips on Windows Terminal](tips-on-windows-terminal)
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
+```
+
 ## list
 ```{dropdown} Click to expand/collapse 14 links
 - [Collections in Kotlin](collections-in-kotlin)
@@ -5800,23 +5822,6 @@ site:
 - [Load Images into Pillow](load-images-into-pillow)
 - [Tips on Pillow](tips-on-pillow)
 - [Computer Vision Tools](computer-vision-tools)
-```
-
-## tool
-```{dropdown} Click to expand/collapse 13 links
-- [LLM APIs](llm-apis)
-- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
-- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
-- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
-- [Dev Tools for Rust](dev-tools-for-rust)
-- [Linux Network Tools](linux-network-tools)
-- [Tips on MuMu App Player](tips-on-mumu-app-player)
-- [Tips on KeepassXC](tips-on-keepassxc)
-- [Rip Is rm Improved](rip-is-rm-improved)
-- [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
-- [Compiler and Build Tools](compiler-and-build-tools)
-- [Tips on Windows Terminal](tips-on-windows-terminal)
-- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 ```
 
 ## markdown
@@ -7345,6 +7350,16 @@ site:
 - [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
 ```
 
+## China
+```{dropdown} Click to expand/collapse 6 links
+- [AI Tools from China](ai-tools-from-china)
+- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
+- [Living in Shanghai](living-in-shanghai)
+- [中国的公共交通服务](public-transportation-china)
+- [医保](health-insurance-in-china)
+- [Speed Up sbt in China](speed-up-sbt-in-china)
+```
+
 ## set
 ```{dropdown} Click to expand/collapse 6 links
 - [Collections in Kotlin](collections-in-kotlin)
@@ -8162,15 +8177,6 @@ site:
 - [General Tips on Debugging](general-tips-on-debugging)
 - [Debugging, Unit Testing and CICD in Python](debugging-unit-testing-and-cicd-in-python)
 - [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
-```
-
-## China
-```{dropdown} Click to expand/collapse 5 links
-- [Tips on A-share Stocks in China](tips-on-a-share-stocks-in-china)
-- [Living in Shanghai](living-in-shanghai)
-- [中国的公共交通服务](public-transportation-china)
-- [医保](health-insurance-in-china)
-- [Speed Up sbt in China](speed-up-sbt-in-china)
 ```
 
 ## user
