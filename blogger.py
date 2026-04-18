@@ -49,7 +49,8 @@ POSTS_COLS = [
     "match",
 ]
 TAG_SEPARATOR = "|"
-SITE = "https://legendu-net.github.io/blog"
+# SITE = "https://legendu-net.github.io/blog"
+SITE = "https://www.legendu.net"
 Record = namedtuple("Record", POSTS_COLS)
 
 
@@ -863,6 +864,7 @@ class Blogger:
             rowid, path, title, label = row
             parts = list(Path(path).parts[0:5])
             parts[0] = SITE
+            parts[-1] = parts[-1][:50]
             url = "/".join(parts)
             print(f"\n{rowid}: [{title}]({label})")
             print(f"    {url}  |  {path}")

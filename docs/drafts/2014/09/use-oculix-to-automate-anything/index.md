@@ -16,6 +16,8 @@ tags:
 ---
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+More advanced AI powered automation tools (such as Gemini in Chrome, Claude Cowork, etc) are available. 
+
 1. OculiX is the successor to SikuliX.
     The user experience is very poor on Linux (tried on Aurora) currently.
     It doesn't seem to work (tried to click a screenshot) on macOS either.

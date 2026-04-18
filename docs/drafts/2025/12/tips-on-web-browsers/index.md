@@ -1,7 +1,7 @@
 ---
 title: Tips on Web Browsers
 created: 2025-12-17 12:32:32
-date: 2026-04-13 23:14:17.523387
+date: 2026-04-17 12:03:28.267682
 authors:
   - bendu
 label: tips-on-web-browsers
@@ -23,17 +23,20 @@ tags:
 ## AI-centric Browsers
 
 - [Gemini in Chrome](https://labs.google/disco)
+
   - free; Auto Browse requires subscription
   - Windows, macOS
 
 - [Google Disco](https://labs.google/disco)
 
 - [ChatGPT Atlas](https://chatgpt.com/atlas/)
+
   - macOS
 
 - [Dia](tips-on-the-dia-browser)
 
 - [Opera Neon](https://www.operaneon.com/)
+
   - subscript requried
   - Windows, macOS
 

@@ -16,19 +16,32 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-## Installation on Ubuntu
-
-You can install the latest stable version of neovim using the command below.
+## Installation Using Homebrew on Linux/macOS (Recommended)
 
 ```
-sudo add-apt-repository ppa:neovim-ppa/stable
+brew install neovim
+```
+This is the recommended way to install Neovim.
+
+## Installation Using AppImage
+
+Just download the AppImage.
+This can be a good choice if you want to install the latest version of NeoVim
+but don't want to use a PPA (on Ubuntu)
+and don't want to introduce a dependency on Homebrew.
+For example, 
+when you build a Docker image and want to install the lateat version of Neovim for all users.
+
+## Installation on Ubuntu
+
+```
 sudo apt update
 sudo apt install neovim
 ```
+Note that the Neovim install might be old.
+Use Homebrew of AppImage instead if you want a newer version of Neovim.
 
 ## Tips and Traps
-
-1. AppImage is a good way to install the latest version of NeoVim.
 
 1. [AstroNvim](https://github.com/AstroNvim/AstroNvim) is a great configuration for NeoVim.
 
@@ -42,6 +55,14 @@ sudo apt install neovim
     :::bash
     nvim --noplugin /path/to/large/text/file
    ```
+   
+## Manage Language Servers
+
+### Python
+
+```
+:LspInstall ruff ty
+```
 
 ## Repeat
 

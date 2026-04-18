@@ -16,8 +16,6 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-- [AI-SDK](https://ai-sdk.dev/playground)
-
 - [Multiple Chat](https://multiplechat.ai/)
 
 - [ChatHub](https://chathub.gg/)
@@ -33,3 +31,5 @@ tags:
 - [Side](Side.ai)
 
 - [AIChatOne](https://chat.aichatone.com/#/)
+
+- [AI-SDK](https://ai-sdk.dev/playground)

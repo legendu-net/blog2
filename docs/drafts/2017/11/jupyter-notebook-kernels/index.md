@@ -38,17 +38,32 @@ based on the native implementation of the Jupyter protocol [xeus](https://github
 
 ## SQL Kernels
 
-https://github.com/catherinedevlin/ipython-sql
+There are multiple ways to run SQL in a Jupyter notebook.
 
-tmthyjames/SQLCell
+- using a dedicated SQL kernel
+- using cell magics
+- using a Python library (in a notebook with a Python kernel)
+
+I personally prefer running SQL through a Python library.
+- No need to install dedicated SQL kernels or kernels support cells magics for SQL.
+- We often need to do data transformation and visualization after querying data.
+    This is convenient to do in Python.
 
 ## Spark Kernel
 
+There are dedicated kernels for Spark, e.g.,
+
 1. toree (a good one）
-
 1. sparkmagic (seems like a good choice)
-
 1. spylon-kernel
+
+However,
+such a Spark kernel isn't really needed 
+no matter you use 
+[Spark/Scala](use-spark-with-the-almond-scala-kernel-in-jupyterlab)
+or 
+[PySpark](process-big-data-using-pyspark) (preferred)
+.
 
 ## Remote Kernels
 

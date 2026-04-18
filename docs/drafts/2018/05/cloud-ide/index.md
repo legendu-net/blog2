@@ -1,7 +1,7 @@
 ---
 title: Cloud IDE
 created: 2018-05-20 09:49:30
-date: 2026-04-16 10:06:39.767439
+date: 2026-04-17 11:27:06.340320
 authors:
   - bendu
 label: cloud-ide

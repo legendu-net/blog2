@@ -1,7 +1,7 @@
 ---
 title: Learning Modern AI
 created: 2026-04-17 11:40:11.842740
-date: 2026-04-17 11:40:11.842741
+date: 2026-04-17 12:04:33.770608
 authors:
   - bendu
 label: learning-modern-ai
@@ -14,7 +14,7 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-## GitHub 
+## GitHub
 
 - [Andrej Karpathy](https://github.com/karpathy?tab=repositories)
 

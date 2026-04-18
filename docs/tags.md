@@ -2698,7 +2698,8 @@ site:
 ```
 
 ## AI
-```{dropdown} Click to expand/collapse 134 links
+```{dropdown} Click to expand/collapse 135 links
+- [AI Translators](ai-translators)
 - [Build Knowledge Base for AI](build-knowledge-base-for-ai)
 - [Learning Modern AI](learning-modern-ai)
 - [Learning Traditional ML](learning-traditional-ml)
@@ -5300,6 +5301,27 @@ site:
 - [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
 ```
 
+## LLM
+```{dropdown} Click to expand/collapse 17 links
+- [AI Translators](ai-translators)
+- [Build Knowledge Base for AI](build-knowledge-base-for-ai)
+- [Learning Modern AI](learning-modern-ai)
+- [LLM APIs](llm-apis)
+- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
+- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
+- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
+- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
+- [Tips on Large Language Models](tips-on-large-language-models)
+- [LLM in Rust](llm-in-rust)
+- [Retrieval-Augmented Generation for LLM](retrieval-augmented-generation-for-llm)
+- [LLM and Robotics](llm-and-robotics)
+- [Fine-Tune LLM](fine-tune-llm)
+- [Tips on NotebookLM](tips-on-notebooklm)
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+```
+
 ## command line
 ```{dropdown} Click to expand/collapse 17 links
 - [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
@@ -5382,26 +5404,6 @@ site:
 - [Tips on Washing Machine](tips-on-washing-machine)
 - [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
 - [Drain Guard for Downspout](drain-guard-for-downspout)
-```
-
-## LLM
-```{dropdown} Click to expand/collapse 16 links
-- [Build Knowledge Base for AI](build-knowledge-base-for-ai)
-- [Learning Modern AI](learning-modern-ai)
-- [LLM APIs](llm-apis)
-- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
-- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
-- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
-- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
-- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
-- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
-- [Tips on Large Language Models](tips-on-large-language-models)
-- [LLM in Rust](llm-in-rust)
-- [Retrieval-Augmented Generation for LLM](retrieval-augmented-generation-for-llm)
-- [LLM and Robotics](llm-and-robotics)
-- [Fine-Tune LLM](fine-tune-llm)
-- [Tips on NotebookLM](tips-on-notebooklm)
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 ```
 
 ## array
@@ -10499,6 +10501,12 @@ site:
 - [Use XGBoost With Spark](use-xgboost-with-spark)
 - [Tips on XGBoost](tips-on-xgboost)
 - [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
+```
+
+## translate
+```{dropdown} Click to expand/collapse 2 links
+- [AI Translators](ai-translators)
+- [SQL Translation Tools](sql-translation-tools)
 ```
 
 ## NotebookLM

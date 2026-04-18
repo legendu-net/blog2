@@ -1,7 +1,7 @@
 ---
 title: Build Knowledge Base for AI
 created: 2026-04-17 11:47:02.633418
-date: 2026-04-17 11:47:02.633419
+date: 2026-04-17 11:55:23.802368
 authors:
   - bendu
 label: build-knowledge-base-for-ai

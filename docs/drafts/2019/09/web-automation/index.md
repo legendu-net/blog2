@@ -25,6 +25,8 @@ See discussions in
 
 ## Claude Computer Use
 
+automate anything (not just web) with Claude 
+
 - [I Let Claude Use My Computer for 2 Days. Here's What It Can Actually Do.](https://aiblewmymind.substack.com/p/claude-computer-use-guide-6-workflows-tested)
 
 - [Computer use tool](https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool)
