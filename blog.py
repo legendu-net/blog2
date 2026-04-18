@@ -371,6 +371,16 @@ def update_tags(blogger, args):
     blogger.commit()
 
 
+def update_title(blogger, args):
+    _resolve_files(args)
+    if args.files:
+        for file in args.files:
+            blogger.update_title(file)
+    else:
+        print("No file is specified for updating title!\n")
+    blogger.commit()
+
+
 def tags(blogger, args):
     tags = blogger.tags(where=args.where)
     for tag in tags:
@@ -486,6 +496,20 @@ def _subparse_update_tags(subparsers):
         help="Tag pairs in the format o1 n1 o2 n2...",
     )
     subparser_utag.set_defaults(func=update_tags)
+
+
+def _subparse_update_title(subparsers):
+    desc = "update titles of posts."
+    subparser_utitle = subparsers.add_parser(
+        "update_title",
+        aliases=["utitle"],
+        help=desc,
+        description=desc,
+    )
+    option_indexes(subparser_utitle)
+    option_files(subparser_utitle)
+    option_all(subparser_utitle)
+    subparser_utitle.set_defaults(func=update_title)
 
 
 def _subparse_tags(subparsers):
@@ -913,6 +937,7 @@ def parse_args(args=None, namespace=None) -> Namespace:
     parser = ArgumentParser(description="Write blog in command line.")
     subparsers = parser.add_subparsers(dest="sub_cmd", help="Sub commands.")
     _subparse_update_tags(subparsers)
+    _subparse_update_title(subparsers)
     _subparse_tags(subparsers)
     _subparse_reload_posts(subparsers)
     _subparse_list(subparsers)

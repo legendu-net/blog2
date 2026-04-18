@@ -387,9 +387,12 @@ class Post:
         )
         self._should_write = True
 
-    def update_title(self) -> None:
-        # TODO: similar to update tags
-        pass
+    def update_title(self) -> bool:
+        title = format_title(self.metadata["title"])
+        if title == self.metadata["title"]:
+            return False
+        self.update_meta_field(metadata={"title": title})
+        return True
 
     def update_tags(self, kvs: dict[str, str] | dict[str, str | list[str]]) -> bool:
         if not kvs:
@@ -649,6 +652,19 @@ class Blogger:
                 table=self.POSTS,
                 paths=path,
                 kvs={"tags": post.concat_tags()},
+            )
+
+    def update_title(self, post: str | Post) -> None:
+        if isinstance(post, str):
+            path = post
+            post = Post(path).parse()
+        else:
+            path = str(post.path)
+        if post.update_title():
+            self.update_records(
+                table=self.POSTS,
+                paths=path,
+                kvs={"title": post.metadata["title"]},
             )
 
     def insert_records(

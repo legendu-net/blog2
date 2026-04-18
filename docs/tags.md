@@ -6,11 +6,12 @@ site:
 
 ## programming
 ```{dropdown} Click to expand/collapse 1032 links
+- [Tips on Neovim](tips-on-neovim)
 - [AI Tools from China](ai-tools-from-china)
-- [Tips on NeoVim](tips-on-neovim)
-- [LLM APIs](llm-apis)
+- [Tips on Web Browsers](tips-on-web-browsers)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
 - [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
+- [LLM APIs](llm-apis)
 - [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 - [Hands on the Stream Object in Java 8](hands-on-the-stream-object-in-java-8)
 - [Hashmap in Kotlin](hashmap-in-kotlin)
@@ -379,7 +380,7 @@ site:
 - [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
 - [Poker Game in Casinos](poker-game-in-casinos)
 - [IDE for Rust](ide-for-rust)
-- [Web Engines](web-engines)
+- [Web Rendering Engines](web-rendering-engines)
 - [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
 - [Tips on rustup](tips-on-rustup)
 - [Tips on PyPy](tips-on-pypy)
@@ -590,7 +591,6 @@ site:
 - [Common Issues and Solutions for GitHub Actions](common-issues-and-solutions-for-github-actions)
 - [COSMIC Is a Rock Solid Desktop Environment for Linux](cosmic-is-a-rock-solid-desktop-environment-for-linux)
 - [Tips on Brother Printers](tips-on-brother-printers)
-- [Tips on Web Browsers](tips-on-web-browsers)
 - [Ignore Nulls in the Analytical Window Function Lead in SQL](ignore-nulls-in-the-analytical-window-function-lead-in-sql)
 - [Nested Data Structures in Databases](nested-data-structures-in-databases)
 - [Run Virtual Machines on Linux](run-virtual-machines-on-linux)
@@ -1041,9 +1041,10 @@ site:
 ```
 
 ## computer science
-```{dropdown} Click to expand/collapse 754 links
+```{dropdown} Click to expand/collapse 753 links
+- [Tips on Neovim](tips-on-neovim)
 - [AI Tools from China](ai-tools-from-china)
-- [Tips on NeoVim](tips-on-neovim)
+- [Tips on Web Browsers](tips-on-web-browsers)
 - [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
 - [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
@@ -1491,7 +1492,6 @@ site:
 - [Poker Game in Casinos](poker-game-in-casinos)
 - [Proxy and VPN Services](proxy-and-vpn-services)
 - [IDE for Rust](ide-for-rust)
-- [Web Engines](web-engines)
 - [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
 - [Tips on rustup](tips-on-rustup)
 - [Tips on PyPy](tips-on-pypy)
@@ -1732,7 +1732,6 @@ site:
 - [Package Management for Debian and Ubuntu](package-management-for-debian-and-ubuntu)
 - [COSMIC Is a Rock Solid Desktop Environment for Linux](cosmic-is-a-rock-solid-desktop-environment-for-linux)
 - [Tips on Brother Printers](tips-on-brother-printers)
-- [Tips on Web Browsers](tips-on-web-browsers)
 - [Ignore Nulls in the Analytical Window Function Lead in SQL](ignore-nulls-in-the-analytical-window-function-lead-in-sql)
 - [Nested Data Structures in Databases](nested-data-structures-in-databases)
 - [Run Virtual Machines on Linux](run-virtual-machines-on-linux)
@@ -2159,10 +2158,10 @@ site:
 
 ## software
 ```{dropdown} Click to expand/collapse 200 links
+- [Cloud IDE](cloud-ide)
 - [My Docker Images](my-docker-images)
 - [Working Remotely in Linux](working-remotely-in-linux)
 - [Remote Desktop Using Remmina](remote-desktop-using-remmina)
-- [Cloud IDE](cloud-ide)
 - [Convert MS Office Document to Text](convert-ms-office-document-to-text)
 - [Tips on Outlook](tips-on-outlook)
 - [The Escape Key in Vim](the-escape-key-in-vim)
@@ -2703,11 +2702,12 @@ site:
 ```{dropdown} Click to expand/collapse 136 links
 - [AI Tools from China](ai-tools-from-china)
 - [AI Translators](ai-translators)
-- [Build Knowledge Base for AI](build-knowledge-base-for-ai)
 - [Learning Modern AI](learning-modern-ai)
+- [Tips on Web Browsers](tips-on-web-browsers)
+- [Build Knowledge Base for AI](build-knowledge-base-for-ai)
 - [Learning Traditional ML](learning-traditional-ml)
-- [AI Agents](ai-agents)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [AI Agents](ai-agents)
 - [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
 - [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
 - [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
@@ -2761,7 +2761,6 @@ site:
 - [Tips on NotebookLM](tips-on-notebooklm)
 - [Tips on Gemini](tips-on-gemini)
 - [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
-- [Tips on Web Browsers](tips-on-web-browsers)
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 - [Difference Between torch.nn.Module and torch.nn.functional](difference-between-torch.nn.module-and-torch.nn.functional)
 - [Split a Dataset into Train and Test Datasets in Python](split-a-dataset-into-train-and-test-datasets-in-python)
@@ -3848,7 +3847,8 @@ site:
 ```
 
 ## web
-```{dropdown} Click to expand/collapse 56 links
+```{dropdown} Click to expand/collapse 57 links
+- [Tips on Web Browsers](tips-on-web-browsers)
 - [Web Automation](web-automation)
 - [Tips on Backend Development](tips-on-backend-development)
 - [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
@@ -3875,6 +3875,7 @@ site:
 - [IP Address and Subnets](ip-address-and-subnets)
 - [Search Engine for Static Web Sites](search-engine-for-static-web-sites)
 - [Tips on Django](tips-on-django)
+- [Web Rendering Engines](web-rendering-engines)
 - [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
 - [Tips on Electron](tips-on-electron)
 - [Tips on Svelte](tips-on-svelte)
@@ -3884,7 +3885,6 @@ site:
 - [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 - [Rust Backend Frameworks for Rest APIs](rust-backend-frameworks-for-rest-apis)
 - [Rust Backend Frameworks for gRPC APIs](rust-backend-frameworks-for-grpc-apis)
-- [Tips on Web Browsers](tips-on-web-browsers)
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 - [Use OculiX to Automate Anything](use-oculix-to-automate-anything)
 - [Web Automation and Testing Using PlayWright](web-automation-and-testing-using-playwright)
@@ -4350,7 +4350,7 @@ site:
 
 ## IDE
 ```{dropdown} Click to expand/collapse 33 links
-- [Tips on NeoVim](tips-on-neovim)
+- [Tips on Neovim](tips-on-neovim)
 - [Cloud IDE](cloud-ide)
 - [General Tips on SQL](general-tips-on-sql)
 - [Typing Chinese in Vim](typing-chinese-in-vim)
@@ -4591,8 +4591,8 @@ site:
 
 ## API
 ```{dropdown} Click to expand/collapse 28 links
-- [LLM APIs](llm-apis)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [LLM APIs](llm-apis)
 - [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
 - [SQL Database Client-server Protocols](sql-database-client-server-protocols)
 - [Tips on gRPC](tips-on-grpc)
@@ -4969,32 +4969,6 @@ site:
 - [Computer Vision Tools](computer-vision-tools)
 ```
 
-## Ubuntu
-```{dropdown} Click to expand/collapse 22 links
-- [My Docker Images](my-docker-images)
-- [Docker Images for OS](docker-images-for-os)
-- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
-- [Upgrade Release of Ubuntu](upgrade-release-of-ubuntu)
-- [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
-- [Ubuntu Crashes When Opening Settings](ubuntu-crashes-when-opening-settings)
-- [Tips on crosvm](tips-on-crosvm)
-- [Install the Latest Version of Software on Ubuntu](install-the-latest-version-of-software-on-ubuntu)
-- [Package Management for Debian and Ubuntu](package-management-for-debian-and-ubuntu)
-- [My Configuration Script for Docker Containers Based on dclong/jupyterhub-ds](my-configuration-script-for-docker-containers-based-on-dclong-jupyterhub-ds)
-- [Comparison of (Debian Series) Linux Distributions](comparison-of-debian-series-linux-distributions)
-- [Misc Tips on Ubuntu](misc-tips-on-ubuntu)
-- [Chinese Locale in Linux](chinese-locale-in-linux)
-- [Java PPA for Ubuntu](java-ppa-for-ubuntu)
-- [Developing GUI Applications Using Qt5](developing-gui-applications-using-qt5)
-- [Install Docker](install-docker)
-- [Package Management in Linux](package-management-in-linux)
-- [Tips on Multipass](tips-on-multipass)
-- [Install the Latest Version of Python in Ubuntu](install-the-latest-version-of-python-in-ubuntu)
-- [My Configuration Script for a New Ubuntu Machine](my-configuration-script-for-a-new-ubuntu-machine)
-- [Install NodeJS on Ubuntu](install-nodejs-on-ubuntu)
-- [Tips on Kerberos](tips-on-kerberos)
-```
-
 ## cloud | Cloud
 ```{dropdown} Click to expand/collapse 22 links
 - [Cloud IDE](cloud-ide)
@@ -5019,6 +4993,32 @@ site:
 - [Tips on Eclipse Che](tips-on-eclipse-che)
 - [Tips on Cloud9](tips-on-cloud9)
 - [Tips on IDE](tips-on-ide)
+```
+
+## Ubuntu
+```{dropdown} Click to expand/collapse 22 links
+- [My Docker Images](my-docker-images)
+- [Docker Images for OS](docker-images-for-os)
+- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
+- [Upgrade Release of Ubuntu](upgrade-release-of-ubuntu)
+- [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
+- [Ubuntu Crashes When Opening Settings](ubuntu-crashes-when-opening-settings)
+- [Tips on crosvm](tips-on-crosvm)
+- [Install the Latest Version of Software on Ubuntu](install-the-latest-version-of-software-on-ubuntu)
+- [Package Management for Debian and Ubuntu](package-management-for-debian-and-ubuntu)
+- [My Configuration Script for Docker Containers Based on dclong/jupyterhub-ds](my-configuration-script-for-docker-containers-based-on-dclong-jupyterhub-ds)
+- [Comparison of (Debian Series) Linux Distributions](comparison-of-debian-series-linux-distributions)
+- [Misc Tips on Ubuntu](misc-tips-on-ubuntu)
+- [Chinese Locale in Linux](chinese-locale-in-linux)
+- [Java PPA for Ubuntu](java-ppa-for-ubuntu)
+- [Developing GUI Applications Using Qt5](developing-gui-applications-using-qt5)
+- [Install Docker](install-docker)
+- [Package Management in Linux](package-management-in-linux)
+- [Tips on Multipass](tips-on-multipass)
+- [Install the Latest Version of Python in Ubuntu](install-the-latest-version-of-python-in-ubuntu)
+- [My Configuration Script for a New Ubuntu Machine](my-configuration-script-for-a-new-ubuntu-machine)
+- [Install NodeJS on Ubuntu](install-nodejs-on-ubuntu)
+- [Tips on Kerberos](tips-on-kerberos)
 ```
 
 ## database
@@ -5264,10 +5264,10 @@ site:
 ```{dropdown} Click to expand/collapse 18 links
 - [AI Tools from China](ai-tools-from-china)
 - [AI Translators](ai-translators)
-- [Build Knowledge Base for AI](build-knowledge-base-for-ai)
 - [Learning Modern AI](learning-modern-ai)
-- [LLM APIs](llm-apis)
+- [Build Knowledge Base for AI](build-knowledge-base-for-ai)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [LLM APIs](llm-apis)
 - [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 - [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
 - [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
@@ -6370,8 +6370,8 @@ site:
 
 ## code
 ```{dropdown} Click to expand/collapse 10 links
-- [LLM APIs](llm-apis)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [LLM APIs](llm-apis)
 - [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
 - [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
 - [Tips on Code Design](tips-on-code-design)
@@ -6522,10 +6522,9 @@ site:
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 ```
 
-## neovim | Neovim
+## Neovim | neovim
 ```{dropdown} Click to expand/collapse 9 links
-- [Tips on NeoVim](tips-on-neovim)
-- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
+- [Tips on Neovim](tips-on-neovim)
 - [Vim as a Universal Editor](vim-as-a-universal-editor)
 - [Typing Chinese in Vim](typing-chinese-in-vim)
 - [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
@@ -6533,6 +6532,20 @@ site:
 - [Tips on AstroNvim](tips-on-astronvim)
 - [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
 - [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
+- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
+```
+
+## browser
+```{dropdown} Click to expand/collapse 9 links
+- [Tips on Web Browsers](tips-on-web-browsers)
+- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
+- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
+- [Incognito Mode for Browsers](incognito-mode-for-browsers)
+- [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
+- [Tips on the Dia Browser](tips-on-the-dia-browser)
+- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
+- [Run UserScripts in Browsers](run-userscripts-in-browsers)
+- [Selectively Disable Vimperator on Webpages](selectively-disable-vimperator-on-webpages)
 ```
 
 ## desktop
@@ -6650,19 +6663,6 @@ site:
 - [Rust Backend Frameworks for GraphQL APIs](rust-backend-frameworks-for-graphql-apis)
 - [Tips on Shuttle for Deploying Rust Apps](tips-on-shuttle-for-deploying-rust-apps)
 - [Tips on Web Development](tips-on-web-development)
-```
-
-## browser
-```{dropdown} Click to expand/collapse 9 links
-- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
-- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
-- [Incognito Mode for Browsers](incognito-mode-for-browsers)
-- [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
-- [Tips on the Dia Browser](tips-on-the-dia-browser)
-- [Tips on Web Browsers](tips-on-web-browsers)
-- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
-- [Run UserScripts in Browsers](run-userscripts-in-browsers)
-- [Selectively Disable Vimperator on Webpages](selectively-disable-vimperator-on-webpages)
 ```
 
 ## RNG
@@ -8415,7 +8415,7 @@ site:
 
 ## PPA
 ```{dropdown} Click to expand/collapse 4 links
-- [Tips on NeoVim](tips-on-neovim)
+- [Tips on Neovim](tips-on-neovim)
 - [Install the Latest Version of Software on Ubuntu](install-the-latest-version-of-software-on-ubuntu)
 - [Java PPA for Ubuntu](java-ppa-for-ubuntu)
 - [Install the Latest Version of Python in Ubuntu](install-the-latest-version-of-python-in-ubuntu)
@@ -10515,22 +10515,16 @@ site:
 - [SQL Translation Tools](sql-translation-tools)
 ```
 
+## Dia
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Web Browsers](tips-on-web-browsers)
+- [Tips on the Dia Browser](tips-on-the-dia-browser)
+```
+
 ## NotebookLM
 ```{dropdown} Click to expand/collapse 2 links
 - [Build Knowledge Base for AI](build-knowledge-base-for-ai)
 - [Tips on NotebookLM](tips-on-notebooklm)
-```
-
-## prompt
-```{dropdown} Click to expand/collapse 2 links
-- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
-- [Tips on Gemini](tips-on-gemini)
-```
-
-## architecture
-```{dropdown} Click to expand/collapse 2 links
-- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
-- [Get OS and Architecture Information in Shell](get-os-and-architecture-information-in-shell)
 ```
 
 ## cloud9
@@ -10543,6 +10537,18 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Cloud IDE](cloud-ide)
 - [Tips on Eclipse Che](tips-on-eclipse-che)
+```
+
+## prompt
+```{dropdown} Click to expand/collapse 2 links
+- [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
+- [Tips on Gemini](tips-on-gemini)
+```
+
+## architecture
+```{dropdown} Click to expand/collapse 2 links
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
+- [Get OS and Architecture Information in Shell](get-os-and-architecture-information-in-shell)
 ```
 
 ## Java 8
@@ -12387,6 +12393,12 @@ site:
 - [Tips on Smart Phone](tips-on-smart-phone)
 ```
 
+## render
+```{dropdown} Click to expand/collapse 2 links
+- [Web Rendering Engines](web-rendering-engines)
+- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
+```
+
 ## rustup
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on rustup](tips-on-rustup)
@@ -12751,12 +12763,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Manage Python Projects Using uv](manage-python-projects-using-uv)
 - [Tips on Project Management](tips-on-project-management)
-```
-
-## Dia
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on the Dia Browser](tips-on-the-dia-browser)
-- [Tips on Web Browsers](tips-on-web-browsers)
 ```
 
 ## static type

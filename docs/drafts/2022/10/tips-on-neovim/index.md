@@ -1,7 +1,7 @@
 ---
-title: Tips on NeoVim
+title: Tips on Neovim
 created: 2022-10-16 19:54:05
-date: 2026-04-17 16:31:00.814735
+date: 2026-04-18 00:37:03.783561
 authors:
   - bendu
 label: tips-on-neovim
@@ -9,7 +9,7 @@ license: CC-BY-4.0
 tags:
   - computer science
   - programming
-  - neovim
+  - Neovim
   - IDE
   - PPA
 ---
@@ -26,7 +26,7 @@ This is the recommended way to install Neovim.
 
 ## Installation Using AppImage
 
-Just download the AppImage.
+Just download the [AppImage](https://github.com/neovim/neovim/releases).
 This can be a good choice if you want to install the latest version of NeoVim
 but don't want to use a PPA (on Ubuntu)
 and don't want to introduce a dependency on Homebrew.
@@ -40,7 +40,7 @@ sudo apt update
 sudo apt install neovim
 ```
 
-Note that the Neovim install might be old.
+Note that the Neovim installed might be an old version.
 Use Homebrew of AppImage instead if you want a newer version of Neovim.
 
 ## Tips and Traps

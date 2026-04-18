@@ -148,7 +148,9 @@ Mysql: MySQL
 Myst: MyST
 Namedtuple: namedtuple
 Nbconvert: nbconvert
-Neovim: NeoVim
+NeoVim: Neovim
+neovim: Neovim
+neoVim: Neovim
 Nfs: NFS
 Nixos: NixOS
 Nlp: NLP
