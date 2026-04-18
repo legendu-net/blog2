@@ -7,6 +7,7 @@ site:
 ## programming
 ```{dropdown} Click to expand/collapse 1032 links
 - [AI Tools from China](ai-tools-from-china)
+- [Tips on NeoVim](tips-on-neovim)
 - [LLM APIs](llm-apis)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
 - [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
@@ -468,7 +469,6 @@ site:
 - [gRPC GraphQL and RESTful APIs](grpc-graphql-and-restful-apis)
 - [Unified SQL Syntax](unified-sql-syntax)
 - [Tips on System Design](tips-on-system-design)
-- [Tips on NeoVim](tips-on-neovim)
 - [Latency Numbers Programmers Should Know](latency-numbers-programmers-should-know)
 - [Collect a Dossier on a Person from Social Media](collect-a-dossier-on-a-person-from-social-media)
 - [Cloud Object Storage](cloud-object-storage)
@@ -1043,6 +1043,7 @@ site:
 ## computer science
 ```{dropdown} Click to expand/collapse 754 links
 - [AI Tools from China](ai-tools-from-china)
+- [Tips on NeoVim](tips-on-neovim)
 - [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
 - [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
@@ -1601,7 +1602,6 @@ site:
 - [gRPC GraphQL and RESTful APIs](grpc-graphql-and-restful-apis)
 - [Unified SQL Syntax](unified-sql-syntax)
 - [Tips on System Design](tips-on-system-design)
-- [Tips on NeoVim](tips-on-neovim)
 - [Latency Numbers Programmers Should Know](latency-numbers-programmers-should-know)
 - [Collect a Dossier on a Person from Social Media](collect-a-dossier-on-a-person-from-social-media)
 - [Cloud Object Storage](cloud-object-storage)
@@ -4350,6 +4350,7 @@ site:
 
 ## IDE
 ```{dropdown} Click to expand/collapse 33 links
+- [Tips on NeoVim](tips-on-neovim)
 - [Cloud IDE](cloud-ide)
 - [General Tips on SQL](general-tips-on-sql)
 - [Typing Chinese in Vim](typing-chinese-in-vim)
@@ -4370,7 +4371,6 @@ site:
 - [Tips on Python-Language-Server](tips-on-python-language-server)
 - [Reload File in Visual Studio Code](reload-file-in-visual-studio-code)
 - [IDE for Rust](ide-for-rust)
-- [Tips on NeoVim](tips-on-neovim)
 - [IDEs With AI Coding Assists](ides-with-ai-coding-assists)
 - [Tips on the Zed IDE](tips-on-the-zed-ide)
 - [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
@@ -6522,6 +6522,19 @@ site:
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 ```
 
+## neovim | Neovim
+```{dropdown} Click to expand/collapse 9 links
+- [Tips on NeoVim](tips-on-neovim)
+- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
+- [Vim as a Universal Editor](vim-as-a-universal-editor)
+- [Typing Chinese in Vim](typing-chinese-in-vim)
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
+- [Tips on AstroNvim](tips-on-astronvim)
+- [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
+- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
+```
+
 ## desktop
 ```{dropdown} Click to expand/collapse 9 links
 - [Working Remotely in Linux](working-remotely-in-linux)
@@ -6585,19 +6598,6 @@ site:
 - [Differences Between Vector and ArrayList in Java](differences-between-vector-and-arraylist-in-java)
 - [Synchronization and Backup Solutions](synchronization-and-backup-solutions)
 - [Synchronize System Time in Debian](synchronize-system-time-in-debian)
-```
-
-## Neovim | neovim
-```{dropdown} Click to expand/collapse 9 links
-- [Vim as a Universal Editor](vim-as-a-universal-editor)
-- [Typing Chinese in Vim](typing-chinese-in-vim)
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
-- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
-- [Tips on AstroNvim](tips-on-astronvim)
-- [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
-- [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
-- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
-- [Tips on NeoVim](tips-on-neovim)
 ```
 
 ## Apple
@@ -8413,6 +8413,14 @@ site:
 - [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
 ```
 
+## PPA
+```{dropdown} Click to expand/collapse 4 links
+- [Tips on NeoVim](tips-on-neovim)
+- [Install the Latest Version of Software on Ubuntu](install-the-latest-version-of-software-on-ubuntu)
+- [Java PPA for Ubuntu](java-ppa-for-ubuntu)
+- [Install the Latest Version of Python in Ubuntu](install-the-latest-version-of-python-in-ubuntu)
+```
+
 ## career
 ```{dropdown} Click to expand/collapse 4 links
 - [Learning Resources](learning-resources)
@@ -9139,14 +9147,6 @@ site:
 - [Popular General Purpose Language Parsers](popular-general-purpose-language-parsers)
 - [Parser Generators](parser-generators)
 - [Tips on ANTLR4](tips-on-antlr4)
-```
-
-## PPA
-```{dropdown} Click to expand/collapse 4 links
-- [Install the Latest Version of Software on Ubuntu](install-the-latest-version-of-software-on-ubuntu)
-- [Tips on NeoVim](tips-on-neovim)
-- [Java PPA for Ubuntu](java-ppa-for-ubuntu)
-- [Install the Latest Version of Python in Ubuntu](install-the-latest-version-of-python-in-ubuntu)
 ```
 
 ## lock

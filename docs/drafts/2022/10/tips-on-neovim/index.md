@@ -1,7 +1,7 @@
 ---
 title: Tips on NeoVim
 created: 2022-10-16 19:54:05
-date: 2026-04-13 23:14:42.590079
+date: 2026-04-17 16:31:00.814735
 authors:
   - bendu
 label: tips-on-neovim
@@ -21,6 +21,7 @@ tags:
 ```
 brew install neovim
 ```
+
 This is the recommended way to install Neovim.
 
 ## Installation Using AppImage
@@ -29,7 +30,7 @@ Just download the AppImage.
 This can be a good choice if you want to install the latest version of NeoVim
 but don't want to use a PPA (on Ubuntu)
 and don't want to introduce a dependency on Homebrew.
-For example, 
+For example,
 when you build a Docker image and want to install the lateat version of Neovim for all users.
 
 ## Installation on Ubuntu
@@ -38,6 +39,7 @@ when you build a Docker image and want to install the lateat version of Neovim f
 sudo apt update
 sudo apt install neovim
 ```
+
 Note that the Neovim install might be old.
 Use Homebrew of AppImage instead if you want a newer version of Neovim.
 
@@ -55,7 +57,7 @@ Use Homebrew of AppImage instead if you want a newer version of Neovim.
     :::bash
     nvim --noplugin /path/to/large/text/file
    ```
-   
+
 ## Manage Language Servers
 
 ### Python
