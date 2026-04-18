@@ -1,7 +1,7 @@
 ---
 title: AI Tools from China
 created: 2026-04-17 17:56:25.199451
-date: 2026-04-17 17:56:25.199452
+date: 2026-04-17 18:03:47.813058
 authors:
   - bendu
 label: ai-tools-from-china
@@ -20,8 +20,9 @@ tags:
 ## AI Tools from China
 
 ```{list-table}
-:header-rows: 1
-
+---
+header-rows: 1
+---
 - - Name
   - Category
   - API

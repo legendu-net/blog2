@@ -1,7 +1,7 @@
 ---
 title: Jupyter Notebook Kernels
 created: 2017-11-11 10:39:11
-date: 2026-04-15 19:27:01.312636
+date: 2026-04-17 18:08:09.095319
 authors:
   - bendu
 label: jupyter-notebook-kernels
@@ -45,9 +45,10 @@ There are multiple ways to run SQL in a Jupyter notebook.
 - using a Python library (in a notebook with a Python kernel)
 
 I personally prefer running SQL through a Python library.
+
 - No need to install dedicated SQL kernels or kernels support cells magics for SQL.
 - We often need to do data transformation and visualization after querying data.
-    This is convenient to do in Python.
+  This is convenient to do in Python.
 
 ## Spark Kernel
 
@@ -58,10 +59,10 @@ There are dedicated kernels for Spark, e.g.,
 1. spylon-kernel
 
 However,
-such a Spark kernel isn't really needed 
-no matter you use 
+such a Spark kernel isn't really needed
+no matter you use
 [Spark/Scala](use-spark-with-the-almond-scala-kernel-in-jupyterlab)
-or 
+or
 [PySpark](process-big-data-using-pyspark) (preferred)
 .
 
@@ -72,14 +73,17 @@ or
 - [rapaio-jupyter-kernel](https://github.com/padreati/rapaio-jupyter-kernel)
 
 - [Ganymede](https://github.com/allen-ball/ganymede)
-    - works well for Java
-    - print doesn't work for other JVM languages based on cell magics
+
+  - works well for Java
+  - print doesn't work for other JVM languages based on cell magics
 
 - [kotlin-jupyter](https://github.com/Kotlin/kotlin-jupyter)
-    - Kotlin 2 is not supported yet
+
+  - Kotlin 2 is not supported yet
 
 - [almond](https://github.com/almond-sh/almond)
-    - works well
+
+  - works well
 
 ## Remote Kernels
 

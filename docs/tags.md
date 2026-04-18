@@ -2839,7 +2839,7 @@ site:
 ```
 
 ## tips
-```{dropdown} Click to expand/collapse 124 links
+```{dropdown} Click to expand/collapse 123 links
 - [Tips on Outlook](tips-on-outlook)
 - [General Tips on SQL](general-tips-on-sql)
 - [The Escape Key in Vim](the-escape-key-in-vim)
@@ -2892,7 +2892,6 @@ site:
 - [Hadoop Filesystem Tips](hadoop-filesystem-tips)
 - [Tips on Car and Driving](tips-on-car-and-driving)
 - [Tips on Oracle SQL](tips-on-oracle-sql)
-- [Food](food)
 - [Work More Efficiently with Email](work-more-efficiently-with-email)
 - [Tips on Basket in KDE](tips-on-basket-in-kde)
 - [Tips on NFS](tips-on-nfs)
@@ -3318,7 +3317,7 @@ site:
 ```
 
 ## life
-```{dropdown} Click to expand/collapse 93 links
+```{dropdown} Click to expand/collapse 92 links
 - [Shopping At Homedepot](shopping-at-homedepot)
 - [Shopping Smartly](shopping-smartly)
 - [Tips on Children Health](tips-on-children-health)
@@ -3356,7 +3355,6 @@ site:
 - [Tips on Smart Phone](tips-on-smart-phone)
 - [Tips on Insurance](tips-on-insurance)
 - [Tips on Car and Driving](tips-on-car-and-driving)
-- [Food](food)
 - [Tips on Housing](tips-on-housing)
 - [Living in Charlotte](living-in-charlotte)
 - [Living in Chicago](living-in-chicago)
@@ -9256,13 +9254,6 @@ site:
 - [DataFrame Implementations in Python](dataframe-implementations-in-python)
 ```
 
-## source
-```{dropdown} Click to expand/collapse 3 links
-- [The Source Class in Scala IO](the-source-class-in-scala-io)
-- [Food](food)
-- [Build Spark from Source](build-spark-from-source)
-```
-
 ## TorchVision
 ```{dropdown} Click to expand/collapse 3 links
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
@@ -10561,6 +10552,12 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Hands on the Stream Object in Java 8](hands-on-the-stream-object-in-java-8)
 - [The Source Class in Scala IO](the-source-class-in-scala-io)
+```
+
+## source
+```{dropdown} Click to expand/collapse 2 links
+- [The Source Class in Scala IO](the-source-class-in-scala-io)
+- [Build Spark from Source](build-spark-from-source)
 ```
 
 ## aggregation
@@ -13069,12 +13066,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Multimedia](tips-on-multimedia)
 - [Deleting Docker Image Tags on DockerHub using the Python Module requests](deleting-docker-image-tags-on-dockerhub-using-the-python-module-requests)
-```
-
-## food
-```{dropdown} Click to expand/collapse 2 links
-- [Food](food)
-- [Living in Charlotte](living-in-charlotte)
 ```
 
 ## housing
