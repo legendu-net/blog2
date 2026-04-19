@@ -33,6 +33,10 @@ curl -LsSf https://astral.sh/uv/install.sh | sudo env UV_INSTALL_DIR="/usr/local
 
 ### Run Executable Scripts of Python Packages
 
+1. Format `pyproject.toml`.
+
+    uvx pyproject-fmt pyproject.toml
+
 1. Run `python -m http.server` to start a simple http server.
 
    ```

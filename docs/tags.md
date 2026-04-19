@@ -5,7 +5,8 @@ site:
 ---
 
 ## programming
-```{dropdown} Click to expand/collapse 1032 links
+```{dropdown} Click to expand/collapse 1033 links
+- [Tips on Claude](tips-on-claude)
 - [Tips on Neovim](tips-on-neovim)
 - [AI Tools from China](ai-tools-from-china)
 - [Tips on Web Browsers](tips-on-web-browsers)
@@ -2699,7 +2700,8 @@ site:
 ```
 
 ## AI
-```{dropdown} Click to expand/collapse 136 links
+```{dropdown} Click to expand/collapse 137 links
+- [Tips on Claude](tips-on-claude)
 - [AI Tools from China](ai-tools-from-china)
 - [AI Translators](ai-translators)
 - [Learning Modern AI](learning-modern-ai)
@@ -5045,6 +5047,31 @@ site:
 - [Tips on Graph Database](tips-on-graph-database)
 ```
 
+## terminal
+```{dropdown} Click to expand/collapse 21 links
+- [Tips on Claude](tips-on-claude)
+- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
+- [Tips on Hyper](tips-on-hyper)
+- [Quickly Open a Directory in Terminal in Mac](quickly-open-a-directory-in-terminal-in-mac)
+- [Zellij Is the Best Terminal Multiplexer](zellij-is-the-best-terminal-multiplexer)
+- [Tips on Gh](tips-on-gh)
+- [Show Image in Terminal](show-image-in-terminal)
+- [Print Colored Text in Terminal in Rust](print-colored-text-in-terminal-in-rust)
+- [Good Terminal Apps](good-terminal-apps)
+- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
+- [Tips on Windows Terminal](tips-on-windows-terminal)
+- [Tips on WezTerm](tips-on-wezterm)
+- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
+- [Hands on the Python Library pexpect](hands-on-the-python-library-pexpect)
+- [Terminal Multiplexers](terminal-multiplexers)
+- [Ghostty Is a Decent Terminal App](ghostty-is-a-decent-terminal-app)
+- [Useful Tools in Linux](useful-tools-in-linux)
+- [WaveTerm Is the Best Terminal App](waveterm-is-the-best-terminal-app)
+- [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
+- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
+- [Print Colored Text in Terminal](print-colored-text-in-terminal)
+```
+
 ## JavaScript
 ```{dropdown} Click to expand/collapse 21 links
 - [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
@@ -5116,30 +5143,6 @@ site:
 - [Visualization Using Plotly](visualization-using-plotly)
 - [Python Modules for Visualization](python-modules-for-visualization)
 - [Visualization in Zeppelin](visualization-in-zeppelin)
-```
-
-## terminal
-```{dropdown} Click to expand/collapse 20 links
-- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
-- [Tips on Hyper](tips-on-hyper)
-- [Quickly Open a Directory in Terminal in Mac](quickly-open-a-directory-in-terminal-in-mac)
-- [Zellij Is the Best Terminal Multiplexer](zellij-is-the-best-terminal-multiplexer)
-- [Tips on Gh](tips-on-gh)
-- [Show Image in Terminal](show-image-in-terminal)
-- [Print Colored Text in Terminal in Rust](print-colored-text-in-terminal-in-rust)
-- [Good Terminal Apps](good-terminal-apps)
-- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
-- [Tips on Windows Terminal](tips-on-windows-terminal)
-- [Tips on WezTerm](tips-on-wezterm)
-- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Hands on the Python Library pexpect](hands-on-the-python-library-pexpect)
-- [Terminal Multiplexers](terminal-multiplexers)
-- [Ghostty Is a Decent Terminal App](ghostty-is-a-decent-terminal-app)
-- [Useful Tools in Linux](useful-tools-in-linux)
-- [WaveTerm Is the Best Terminal App](waveterm-is-the-best-terminal-app)
-- [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
-- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
-- [Print Colored Text in Terminal](print-colored-text-in-terminal)
 ```
 
 ## notebook
@@ -5324,6 +5327,27 @@ site:
 - [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
 ```
 
+## format
+```{dropdown} Click to expand/collapse 17 links
+- [Tips on TOML](tips-on-toml)
+- [Date and Time in Rust](date-and-time-in-rust)
+- [Tips on Cargo](tips-on-cargo)
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [Format Strings in Golang](format-strings-in-golang)
+- [SQL Style And Formatter](sql-style-and-formatter)
+- [Tips on Sqlfluff](tips-on-sqlfluff)
+- [The println Macro in Rust](the-println-macro-in-rust)
+- [Convert Pandas DataFrame to Other Format](convert-pandas-dataframe-to-other-format)
+- [Format a Flash Drive in a Linux Virtual Machine](format-a-flash-drive-in-a-linux-virtual-machine)
+- [Tips on Rustfmt](tips-on-rustfmt)
+- [Format a Disk on Linux](format-a-disk-on-linux)
+- [Format Python Code Using Black](format-python-code-using-black)
+- [Replace Single Quotes With Double Quotes in Python Code](replace-single-quotes-with-double-quotes-in-python-code)
+- [Format String in Java](format-string-in-java)
+- [Format a String in Python](format-a-string-in-python)
+- [Format Date and Time in Python](format-date-and-time-in-python)
+```
+
 ## command line
 ```{dropdown} Click to expand/collapse 17 links
 - [Parse Command Line Arguments Using Flag in Go](parse-command-line-arguments-using-flag-in-go)
@@ -5428,26 +5452,6 @@ site:
 - [Arrays in Java](arrays-in-java)
 ```
 
-## format
-```{dropdown} Click to expand/collapse 16 links
-- [Date and Time in Rust](date-and-time-in-rust)
-- [Tips on Cargo](tips-on-cargo)
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
-- [Format Strings in Golang](format-strings-in-golang)
-- [SQL Style And Formatter](sql-style-and-formatter)
-- [Tips on Sqlfluff](tips-on-sqlfluff)
-- [The println Macro in Rust](the-println-macro-in-rust)
-- [Convert Pandas DataFrame to Other Format](convert-pandas-dataframe-to-other-format)
-- [Format a Flash Drive in a Linux Virtual Machine](format-a-flash-drive-in-a-linux-virtual-machine)
-- [Tips on Rustfmt](tips-on-rustfmt)
-- [Format a Disk on Linux](format-a-disk-on-linux)
-- [Format Python Code Using Black](format-python-code-using-black)
-- [Replace Single Quotes With Double Quotes in Python Code](replace-single-quotes-with-double-quotes-in-python-code)
-- [Format String in Java](format-string-in-java)
-- [Format a String in Python](format-a-string-in-python)
-- [Format Date and Time in Python](format-date-and-time-in-python)
-```
-
 ## Git
 ```{dropdown} Click to expand/collapse 16 links
 - [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
@@ -5486,6 +5490,25 @@ site:
 - [Tips on Car Tires](tips-on-car-tires)
 - [Tips on Car Maintenance](tips-on-car-maintenance)
 - [Driving on Snow and Ice](driving-on-snow-and-ice)
+```
+
+## tool
+```{dropdown} Click to expand/collapse 15 links
+- [Tips on Claude](tips-on-claude)
+- [AI Tools from China](ai-tools-from-china)
+- [LLM APIs](llm-apis)
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
+- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
+- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
+- [Dev Tools for Rust](dev-tools-for-rust)
+- [Linux Network Tools](linux-network-tools)
+- [Tips on MuMu App Player](tips-on-mumu-app-player)
+- [Tips on KeepassXC](tips-on-keepassxc)
+- [Rip Is rm Improved](rip-is-rm-improved)
+- [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
+- [Compiler and Build Tools](compiler-and-build-tools)
+- [Tips on Windows Terminal](tips-on-windows-terminal)
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 ```
 
 ## Google
@@ -5676,24 +5699,6 @@ site:
 - [Randomly Select an Integer?!](randomly-select-an-integer)
 - [Calculate Covariance Between Multinomial Categories by Hand](calculate-covariance-between-multinomial-categories-by-hand)
 - [How Many Empty Boxes?](how-many-empty-boxes)
-```
-
-## tool
-```{dropdown} Click to expand/collapse 14 links
-- [AI Tools from China](ai-tools-from-china)
-- [LLM APIs](llm-apis)
-- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
-- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
-- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
-- [Dev Tools for Rust](dev-tools-for-rust)
-- [Linux Network Tools](linux-network-tools)
-- [Tips on MuMu App Player](tips-on-mumu-app-player)
-- [Tips on KeepassXC](tips-on-keepassxc)
-- [Rip Is rm Improved](rip-is-rm-improved)
-- [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
-- [Compiler and Build Tools](compiler-and-build-tools)
-- [Tips on Windows Terminal](tips-on-windows-terminal)
-- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 ```
 
 ## list
@@ -7029,6 +7034,28 @@ site:
 - [Install Firefox in Debian](install-firefox-in-debian)
 ```
 
+## TOML
+```{dropdown} Click to expand/collapse 7 links
+- [Tips on TOML](tips-on-toml)
+- [Parse TOML Files in Golang](parse-toml-files-in-golang)
+- [Hands on the Python Library tomlkit](hands-on-the-python-library-tomlkit)
+- [Parse TOML Files in Rust](parse-toml-files-in-rust)
+- [Hands on the Python Library toml](hands-on-the-python-library-toml)
+- [Parse TOML Files in Python](parse-toml-files-in-python)
+- [Commonly Used File Formats for Configuration](commonly-used-file-formats-for-configuration)
+```
+
+## configuration
+```{dropdown} Click to expand/collapse 7 links
+- [Tips on TOML](tips-on-toml)
+- [Spark Configuration](spark-configuration)
+- [Tips on Omegaconf](tips-on-omegaconf)
+- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
+- [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
+- [Power Settings in Linux with GNOME Desktop](power-settings-in-linux-with-gnome-desktop)
+- [Commonly Used File Formats for Configuration](commonly-used-file-formats-for-configuration)
+```
+
 ## resource
 ```{dropdown} Click to expand/collapse 7 links
 - [Learning Resources](learning-resources)
@@ -7658,16 +7685,6 @@ site:
 - [Tips on Fidelity](tips-on-fidelity)
 ```
 
-## TOML
-```{dropdown} Click to expand/collapse 6 links
-- [Parse TOML Files in Golang](parse-toml-files-in-golang)
-- [Hands on the Python Library tomlkit](hands-on-the-python-library-tomlkit)
-- [Parse TOML Files in Rust](parse-toml-files-in-rust)
-- [Hands on the Python Library toml](hands-on-the-python-library-toml)
-- [Parse TOML Files in Python](parse-toml-files-in-python)
-- [Commonly Used File Formats for Configuration](commonly-used-file-formats-for-configuration)
-```
-
 ## character
 ```{dropdown} Click to expand/collapse 6 links
 - [Special Characters to Avoid in Strings](special-characters-to-avoid-in-strings)
@@ -7686,16 +7703,6 @@ site:
 - [Object Oriented Programming in Java](object-oriented-programming-in-java)
 - [Struct in Rust](struct-in-rust)
 - [Class in Python](class-in-python)
-```
-
-## configuration
-```{dropdown} Click to expand/collapse 6 links
-- [Spark Configuration](spark-configuration)
-- [Tips on Omegaconf](tips-on-omegaconf)
-- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
-- [Power Settings in Linux with GNOME Desktop](power-settings-in-linux-with-gnome-desktop)
-- [Commonly Used File Formats for Configuration](commonly-used-file-formats-for-configuration)
 ```
 
 ## YAML
@@ -7806,6 +7813,15 @@ site:
 - [Desktop Environments for Linux](desktop-environments-for-linux)
 - [Shortcuts for KDE](shortcuts-for-kde)
 - [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
+```
+
+## CLI
+```{dropdown} Click to expand/collapse 5 links
+- [Tips on Claude](tips-on-claude)
+- [Tools for Differencing Text Files](tools-for-differencing-text-files)
+- [Tips on Gh](tips-on-gh)
+- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 ```
 
 ## Gemini
@@ -8585,14 +8601,6 @@ site:
 - [Tips on Network Protocols](tips-on-network-protocols)
 - [Protobuf Implementations in Rust](protobuf-implementations-in-rust)
 - [Use Git Behind a Proxy](use-git-behind-a-proxy)
-```
-
-## CLI
-```{dropdown} Click to expand/collapse 4 links
-- [Tools for Differencing Text Files](tools-for-differencing-text-files)
-- [Tips on Gh](tips-on-gh)
-- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 ```
 
 ## permission

@@ -31,6 +31,10 @@ header-rows: 1
   - general (chat, agent, API, etc)
   - Yes
   - 
+- - [Qianwen](https://www.alibabacloud.com/en/campaign/qwen-ai-landing-page?_p_lc=1)
+  - general (chat, agent, API, etc)
+  - Yes
+  - 
 - - [腾讯元宝 / Tencent Yuanbao](https://yuanbao.tencent.com/)
   - Chat & Knowledge Base
   - NA

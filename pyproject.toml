@@ -1,46 +1,61 @@
+[build-system]
+build-backend = "hatchling.build"
+requires = [ "hatchling" ]
+
 [project]
 name = "blog"
 version = "0.1.0"
 description = "Personal Blogging System Based on Jupyter Book 2"
 readme = "README.md"
 requires-python = ">=3.14"
+classifiers = [
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.14",
+]
 dependencies = [
-    "beautifulsoup4>=4.14.3",
-    "google-genai>=1.73.1",
-    "loguru>=0.7.3",
-    "nbformat>=5.10.4",
-    "pyyaml>=6.0.3",
-    "requests>=2.33.1",
-    "tqdm>=4.67.3",
+  "beautifulsoup4>=4.14.3",
+  "loguru>=0.7.3",
+  "nbformat>=5.10.4",
+  "pyyaml>=6.0.3",
+  "requests>=2.33.1",
+  "tqdm>=4.67.3",
 ]
 
 [dependency-groups]
 dev = [
-    "deptry>=0.25.1",
-    "jupyter-book>=2.1.0",
-    "mdformat>=1.0.0",
-    "mdformat-myst>=0.3.0",
-    "pytest>=9.0.2",
-    "ruff>=0.15.8",
-    "ty>=0.0.27",
+  "deptry>=0.25.1",
+  "jupyter-book>=2.1",
+  "mdformat>=1",
+  "mdformat-myst>=0.3",
+  "pytest>=9.0.2",
+  "ruff>=0.15.8",
+  "ty>=0.0.27",
 ]
 
 [tool.ruff]
 exclude = [
-    "*.ipynb",
-    "docs/",
-]
-
-[tool.ty.src]
-exclude = [
-    "**/*.ipynb",
+  "*.ipynb",
+  "docs/",
 ]
 
 [tool.deptry]
 extend_exclude = [
-    "docs/",
+  "docs/",
 ]
 
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
+[tool.ty]
+src.exclude = [
+  "**/*.ipynb",
+]
+
+[tool.pytest]
+ini_options.norecursedirs = [
+  "dist",
+  "build",
+  ".tox",
+  "venv",
+  ".venv",
+  "node_modules",
+  "legacy_tests",
+  "docs",
+]
