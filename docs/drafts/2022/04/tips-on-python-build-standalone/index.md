@@ -32,14 +32,12 @@ released in the GitHub repository
 
 1. Start an IPython shell using the following code.
 
-   ```
-    :::bash
+   ```bash
     ~/env_python/bin/python3 -m IPython
    ```
 
 1. Run the following code in the IPython shell to update Shebangs of Python scripts.
 
-   ```
-    :::python
+   ```python
     dsutil.shebang.update_shebang("env_python/bin/", "/home/your_user_name/env_python/bin/python3")
    ```

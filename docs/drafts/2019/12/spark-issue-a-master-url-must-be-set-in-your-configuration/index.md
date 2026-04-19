@@ -30,8 +30,7 @@ The master of Spark cluster is not specified.
 
 Add `.master("yarn")` into the following code
 
-```
-:::bash
+```bash
 val spark = SparkSession.builder()
     .appName("SomeAppName")
     .getOrCreate();
@@ -39,8 +38,7 @@ val spark = SparkSession.builder()
 
 making it become
 
-```
-:::bash
+```bash
 val spark = SparkSession.builder()
     .master("yarn")
     .appName("SomeAppName")

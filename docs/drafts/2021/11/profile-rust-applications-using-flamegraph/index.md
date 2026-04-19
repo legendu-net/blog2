@@ -55,8 +55,7 @@ tags:
    Or equivalently,
    you can run the following command
 
-   ```
-    :::bash
+   ```bash
     sudo sysctl -w kernel.perf_event_paranoid=-1
    ```
 
@@ -86,16 +85,14 @@ cargo install flamegraph
 
 Run the following command to generate a SVG visualization of performance profiling.
 
-```
-:::bash
+```bash
 cargo flamegraph
 ```
 
 If `sudo` permission is needed,
 then add the `--sudo` option.
 
-```
-:::bash
+```bash
 cargo flamegraph --sudo
 ```
 
@@ -107,8 +104,7 @@ and
 ) with the above commands,
 you can try run the `flamegraph` on rust binary directly.
 
-```
-:::bash
+```bash
 sudo ~/.cargo/bin/flamegraph -- target/release/your_binary [options]
 ```
 

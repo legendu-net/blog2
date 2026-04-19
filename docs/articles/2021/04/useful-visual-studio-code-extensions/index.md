@@ -34,16 +34,14 @@ You change the the permissions of `/root` and all its subcontents to 777
 (using the command `chmod -R 777 /root`)
 so that other users can use the installed extensions.
 
-```
-:::bash
+```bash
 code-server --install-extension ms-python.python
 code-server --install-extension njpwerner.autodocstring
 ```
 
 You can install a specific version of an extension using `@`.
 
-```
-:::bash
+```bash
 code-server --install-extension ms-python.python@2020.5.86806 \
 ```
 

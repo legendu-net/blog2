@@ -18,8 +18,7 @@ tags:
 
 ## Installation
 
-```
-:::bash
+```bash
 sudo pip3 install ansible
 ```
 
@@ -37,8 +36,7 @@ Ansible looks for configuration file in the following order.
 
 Copy a file to each machine in the cluster.
 
-```
-:::bash
+```bash
 proxychains ansible all \
     -i hosts \
     --user=stack \
@@ -49,8 +47,7 @@ proxychains ansible all \
 
 Install an R package on each machine in the cluster.
 
-```
-:::bash
+```bash
 proxychains ansible all \
     -i hosts \
     --user=stack \
@@ -77,8 +74,7 @@ host_key_checking = False
 
 Alternatively this can be set by an environment variable:
 
-```
-:::bash
+```bash
 export ANSIBLE_HOST_KEY_CHECKING=False
 ```
 

@@ -22,8 +22,7 @@ tags:
 
 The function below is an example of sending email using the Python library notifiers.
 
-```
-:::python
+```python
 import notifiers
 notifiers.get_notifier("email").notify(
     from_="sender@domain.com",

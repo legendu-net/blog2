@@ -65,7 +65,6 @@ Below a few things to check while you debug your Spark applications.
 
 1. Set a large value for `MaxDirectoMemorySize` for JVM.
 
-   ```
-    :::bash
+   ```bash
     --conf spark.executor.extraJavaOptions=-XX:MaxDirectMemorySize=8G \
    ```

@@ -30,8 +30,7 @@ OutOfMemoryError
 
 Increase executor memory.
 
-```
-:::bash
+```bash
 --executor-memory=20G
 ```
 

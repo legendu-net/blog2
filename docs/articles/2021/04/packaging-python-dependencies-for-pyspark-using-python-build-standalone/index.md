@@ -38,8 +38,7 @@ leveraging the Docker image
 Below is an example shell script for sumitting a PySpark job
 using a pre-built portable Python environment named `env.tar.gz`.
 
-```
-:::bash
+```bash
 /apache/spark2.3/bin/spark-submit \
     --files "file:///apache/hive/conf/hive-site.xml,file:///apache/hadoop/etc/hadoop/ssl-client.xml,file:///apache/hadoop/etc/hadoop/hdfs-site.xml,file:///apache/hadoop/etc/hadoop/core-site.xml,file:///apache/hadoop/etc/hadoop/federation-mapping.xml" \
     --master yarn \

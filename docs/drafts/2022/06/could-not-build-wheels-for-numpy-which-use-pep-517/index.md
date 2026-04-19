@@ -22,8 +22,7 @@ tags:
 This is due to outdated version of pip.
 Update your pip to the latest version should fix the issue.
 
-```
-:::bash
+```bash
 pip3 install -U pip
 ```
 

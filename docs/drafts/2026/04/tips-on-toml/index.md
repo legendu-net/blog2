@@ -1,7 +1,7 @@
 ---
 title: Tips on TOML
 created: 2026-04-18 21:51:02.475190
-date: 2026-04-18 21:51:02.475192
+date: 2026-04-18 21:55:32.067781
 authors:
   - bendu
 label: tips-on-toml
@@ -18,13 +18,16 @@ tags:
 ## Format TOML
 
 - [taplo](https://github.com/tamasfe/taplo)
+
   - implemented in Rust
 
 - [toml-fmt](https://github.com/tox-dev/toml-fmt)
+
   - formatting pyproject.toml
   - implemented in Rust
 
 - [pyproject-fmt](https://pypi.org/project/pyproject-fmt/)
+
   - formatting pyproject.toml
   - based on toml-fmt
 
@@ -35,4 +38,3 @@ tags:
 - [Hands on the Python Library tomlkit](hands-on-the-python-library-tomlkit)
 
 - [Parse TOML Files in Golang](parse-toml-files-in-golang)
-

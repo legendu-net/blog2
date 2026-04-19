@@ -21,8 +21,7 @@ tags:
 > To build Scipy from sources, BLAS & LAPACK libraries need to be installed.
 > See site.cfg.example in the Scipy source directory and
 
-```
-:::bash
+```bash
 sudo apt-get install gfortran libopenblas-dev liblapack-dev
 ```
 

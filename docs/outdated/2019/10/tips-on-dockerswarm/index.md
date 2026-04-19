@@ -18,8 +18,7 @@ https://ender74.github.io/Sharing-Volumes-With-Docker-Swarm/
 
 ## Volume
 
-```
-:::bash
+```bash
 docker service create \
     --name nginx \
     --mount type=bind,source=`pwd`/static-site,target=/usr/share/nginx/html \

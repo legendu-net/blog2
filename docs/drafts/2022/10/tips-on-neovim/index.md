@@ -53,8 +53,7 @@ Use Homebrew of AppImage instead if you want a newer version of Neovim.
    For example,
    you can use the following command to edit a large file without loading plugins.
 
-   ```
-    :::bash
+   ```bash
     nvim --noplugin /path/to/large/text/file
    ```
 

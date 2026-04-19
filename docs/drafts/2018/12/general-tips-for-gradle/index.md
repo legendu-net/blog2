@@ -23,30 +23,26 @@ tags:
 
 The latest version of gradle can be installed via PPA on Ubuntu.
 
-```
-:::bash
+```bash
 sudo add-apt-repository ppa:cwchien/gradle
 sudo apt-get update
 ```
 
 And gradle can be upgraded using the following command.
 
-```
-:::bash
+```bash
 sudo apt-get upgrade gradle
 ```
 
 The latest version of Gradle can be installed using Homebrew on Mac.
 
-```
-:::bash
+```bash
 brew install gradle
 ```
 
 And gradle can be upgraded using the following command.
 
-```
-:::bash
+```bash
 brew upgrade gradle
 ```
 
@@ -73,8 +69,7 @@ brew upgrade gradle
 1. You can generate a Gradle wrapper (with the given version)
    or update the version of an existing Gradle wrapper using the following command.
 
-   ```
-    :::bash
+   ```bash
     gradle wrapper --gradle-version 6.0.1
    ```
 

@@ -21,8 +21,7 @@ Bytehound works with Rust stable
 
 ## Installation
 
-```
-:::bash
+```bash
 apt-get install gcc nodejs npm
 npm install -g yarn
 cargo build --release -p bytehound-preload
@@ -32,8 +31,7 @@ cargo build --release -p bytehound-cli
 Or if you use
 [icon](https://github.com/legendu-net/icon),
 
-```
-:::bash
+```bash
 icon bytehound -ic
 ```
 
@@ -41,8 +39,7 @@ icon bytehound -ic
 
 Run your application with bytehound to collect memory usage data.
 
-```
-:::bash
+```bash
 export MEMORY_PROFILER_LOG=warn
 LD_PRELOAD=./libbytehound.so ./your_application
 ```
@@ -50,8 +47,7 @@ LD_PRELOAD=./libbytehound.so ./your_application
 Below is an example script,
 which build the "release-debug" version of the Rust project and run it.
 
-```
-:::bash
+```bash
 cargo build --profile release-debug
 export MEMORY_PROFILER_LOG=warn
 LD_PRELOAD=~/.local/lib/libbytehound.so ../../target/release-debug/ofcp_test play_r1 \
@@ -64,8 +60,7 @@ LD_PRELOAD=~/.local/lib/libbytehound.so ../../target/release-debug/ofcp_test pla
 
 Start a web server to visualize the memory profiling data.
 
-```
-:::bash
+```bash
 bytehound server --port 9090 -i 0.0.0.0 memory-profiling_*.dat 
 ```
 

@@ -32,8 +32,7 @@ Teradata SQL does not support `VALUES` with multiple rows in a `INSERT` statemen
    Note: when thereis a new command starting on the same line,
    it is part of the MSR.
 
-   ```
-    :::sql
+   ```sql
     INSERT INTO Example Values('Steve',4)
     ;INSERT INTO Example Values('James',8)
     ;
@@ -70,8 +69,7 @@ Teradata SQL does not support `VALUES` with multiple rows in a `INSERT` statemen
    you call use the method [execute](https://www.python.org/dev/peps/pep-0249/#id15)
    on a parameterized query with a list/tuple of parameters.
 
-   ```
-    :::python
+   ```python
     sql = "INSERT INTO transactions (cust_id, transaction_date, amount, desc) values (?, ?, ?, ?)"
     cursor.execute(sql, [cust_id, tran_dt, amount, desc])
    ```
@@ -105,8 +103,7 @@ Teradata SQL does not support `VALUES` with multiple rows in a `INSERT` statemen
    you call use the method [executemany](https://www.python.org/dev/peps/pep-0249/#executemany)
    on a parameterized query with a list/tuple of list/tuple of parameters.
 
-   ```
-    :::python
+   ```python
     sql = "INSERT INTO transactions (cust_id, transaction_date, amount, desc) values (?, ?, ?, ?)"
     cursor.execute(sql, [
     	[cust_id_1, tran_dt_1, amount_1, desc_1],

@@ -76,8 +76,7 @@ Criterion performs measuring/benchmarking instead of profiling by default.
 To generate profiling report/visualization,
 you can run the following command.
 
-```
-:::bash
+```bash
 cargo bench --bench bench_main name_of_benchmark -- --profile-time
 ```
 

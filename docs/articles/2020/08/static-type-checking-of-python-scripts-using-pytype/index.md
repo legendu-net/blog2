@@ -37,8 +37,7 @@ for an example of configuration file of `pytype`.
 
 1. Use the `--exclude` option.
 
-   ```
-    :::bash
+   ```bash
     PATH=.venv/bin:$PATH pytype xinstall --exclude xinstall/data
    ```
 

@@ -37,8 +37,7 @@ tags:
 
 ## Installation
 
-```
-:::bash
+```bash
 sudo apt install iptables 
 pip3 install sshuttle
 ```

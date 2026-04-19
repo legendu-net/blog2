@@ -22,8 +22,7 @@ tags:
 Docker 1.13+ mounts the container's cgroup to /sys/fs/cgroup (this could change in future versions).
 You can check the limit using
 
-```
-:::bash
+```bash
 cat /sys/fs/cgroup/memory/memory.limit_in_bytes
 ```
 
@@ -31,16 +30,14 @@ cat /sys/fs/cgroup/memory/memory.limit_in_bytes
 
 1. Install [cgroup-tools](https://github.com/mk-fg/cgroup-tools).
 
-   ```
-    :::bash
+   ```bash
     sudo apt update
     sudo apt install cgroup-tools
    ```
 
 1. Query the memory limit of the Docker container.
 
-   ```
-    :::bash
+   ```bash
     cgget -n --values-only --variable memory.limit_in_bytes /
    ```
 

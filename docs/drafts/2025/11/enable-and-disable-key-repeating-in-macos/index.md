@@ -20,15 +20,13 @@ tags:
 
 1. Run the following command in terminal and then **restart your Mac** to enable key repeating by pressing and holding.
 
-   ```
-    :::bash
+   ```bash
     defaults write -g ApplePressAndHoldEnabled -bool false
    ```
 
 1. Run the following command in terminal and then **restart your Mac** to disable key repeating by presing and holding.
 
-   ```
-    :::bash
+   ```bash
     defaults write -g ApplePressAndHoldEnabled -bool true
    ```
 

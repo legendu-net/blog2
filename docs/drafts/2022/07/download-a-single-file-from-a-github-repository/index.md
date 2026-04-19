@@ -18,8 +18,7 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-```
-:::bash
+```bash
 curl -sSL https://raw.githubusercontent.com/legendu-net/blog/master/__init__.py
 
 

@@ -28,7 +28,6 @@ you might encounter the following error message (when using Vim).
 A simple way to fix the issue (on Debian-series of Linux distributions)
 is to install the `wamerican` package.
 
-```
-:::bash
+```bash
 sudo apt install wamerican
 ```

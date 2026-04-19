@@ -35,22 +35,19 @@ https://wezterm.org/cli/general.html
 
 https://wezterm.org/cli/cli/split-pane.html
 
-```
-:::bash
+```bash
 wezterm cli split-pane
 ```
 
 ### Connect to Wezterm Multiplexer
 
-```
-:::bash
+```bash
 wezterm connect
 ```
 
 ## Show Image
 
-```
-:::bash
+```bash
 wezterm imgcat /path/to/image
 ```
 

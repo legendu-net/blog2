@@ -34,8 +34,7 @@ located at `$HOME/.cargo/bin`.
 
 You can also run the following command to install rust.
 
-```
-:::bash
+```bash
 xinstall rustup -ic
 ```
 

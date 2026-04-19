@@ -28,8 +28,7 @@ The right way is to check for existence of the path in the `$PATH` environment v
 and add it only when it does NOT already exist in `$PATH`.
 Below is an example snippet of adding paths into the environment variable `$PATH`.
 
-```
-:::bash
+```bash
 # set $PATH
 _PATHS=(
     $(ls -d $HOME/*/bin 2> /dev/null)
@@ -51,8 +50,7 @@ So,
 you can safely add such snippets into `.bashrc`
 and keep your `.bash_profile` as simple as the following.
 
-```
-:::bash
+```bash
 if [[ -f ~/.bashrc ]]; then
     . ~/.bashrc
 fi

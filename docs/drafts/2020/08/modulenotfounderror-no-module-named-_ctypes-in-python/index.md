@@ -39,8 +39,7 @@ please refer to
 
 1. Install `libffi-dev`
 
-   ```
-    :::bash
+   ```bash
     sudo apt-get update
     sudo apt-get install libffi-dev
    ```

@@ -41,7 +41,6 @@ Forgot to submit a `hive-site.xml` together with the Spark application.
 
 Include Hive configuration of the Spark cluster when submitting Spark jobs.
 
-```
-:::bash
+```bash
 --files "/apache/spark/conf/hive-site.xml"
 ```

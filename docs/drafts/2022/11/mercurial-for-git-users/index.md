@@ -35,8 +35,7 @@ I = ignored
 
 Remove a missing file from tracking.
 
-```
-:::bash
+```bash
 hg remove -A
 ```
 
@@ -44,15 +43,13 @@ hg remove -A
 
 List changed files with their status.
 
-```
-:::bash
+```bash
 hg pstatus
 ```
 
 List changed files without status.
 
-```
-:::bash
+```bash
 hg pstatus --no-status
 ```
 

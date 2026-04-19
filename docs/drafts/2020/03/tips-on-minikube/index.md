@@ -26,29 +26,25 @@ Microk8s is a more lightweight solution than Minikube
 
 1. Start minikube.
 
-   ```
-    :::bash
+   ```bash
     minikube start --vm-driver=hyperkit
    ```
 
 1. Check status of minikube.
 
-   ```
-    :::bash
+   ```bash
     minikube status
    ```
 
 1. Launch minikube dashboard.
 
-   ```
-    :::bash
+   ```bash
     minikube dashboard
    ```
 
 1. Show minikube IP.
 
-   ```
-    :::bash
+   ```bash
     minikube ip
    ```
 

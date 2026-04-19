@@ -34,15 +34,13 @@ which means that you can use it to interact with Jupyter/Lab notebooks using Neo
 is a JupyterLab extension which brings Vim keybindings to cells of JupyterLab notebooks.
 It can be installed using the following command in JupyterLab 3+.
 
-```
-:::bash
+```bash
 pip3 install jupyterlab_vim
 ```
 
 And it can be uninstalled using the following command.
 
-```
-:::bash
+```bash
 pip3 uninstall jupyterlab_vim
 ```
 
@@ -51,15 +49,13 @@ a JupyterLab extension is enabled after installtion.
 You can disable an extension,
 e.g., jupyterlab_vim, using the following command.
 
-```
-:::bash
+```bash
 sudo jupyter labextension disable @axlair/jupyterlab_vim
 ```
 
 And enable it again using the command below.
 
-```
-:::bash
+```bash
 sudo jupyter labextension enable @axlair/jupyterlab_vim
 ```
 

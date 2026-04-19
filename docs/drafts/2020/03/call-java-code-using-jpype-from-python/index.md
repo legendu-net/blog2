@@ -20,8 +20,7 @@ tags:
 JPype is easy and intuitive to use.
 It is the most popular Java interface for Python currently.
 
-```
-:::python
+```python
 import os
 import sys
 from pathlib import Path
@@ -52,16 +51,14 @@ df = pyarrow.jvm.record_batch(batch).to_pandas()
 
 Notice that you can import a Java class as usual after the following import.
 
-```
-:::python
+```python
 import jpype.imports
 ```
 
 1. `jpype.addClassPath` must be called before starting the JVM.
    You can use the following statement to check that the correct dependency has been added.
 
-   ```
-    :::python
+   ```python
     print(jpype.java.lang.System.getProperty("java.class.path"))
    ```
 

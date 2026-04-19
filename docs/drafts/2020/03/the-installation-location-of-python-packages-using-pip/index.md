@@ -29,8 +29,7 @@ the above statement applies to direct shell commands only.
 Let's say that you run a Python program as a regular user `dclong` with out `sudo`,
 and you use the `subprocess` module to revoke a shell command like below.
 
-```
-:::python
+```python
 import subprocess as sp
 sp.run("sudo pip3 install pandas", shell=True)
 ```
@@ -60,8 +59,7 @@ as Python packages are installed to the user's local directory by default
 unless `sudo` or the `root` user is used.
 The `--user` can be useful if you install a Python package using `setup.py`.
 
-```
-:::bash
+```bash
 python setup.py install --user
 ```
 

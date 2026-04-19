@@ -20,15 +20,13 @@ tags:
 
 You can install Sphinx and necessary extensions using the following command.
 
-```
-:::bash
+```bash
 pip3 install sphinx sphinx-autodoc-typehints
 ```
 
 Or simply
 
-```
-:::bash
+```bash
 xinstall sphinx -ic
 ```
 
@@ -83,8 +81,7 @@ so that you can use Sphinx commands directly.
 
      you can use the following generic code to help you to insert the correct path of the source code directory.
 
-     ```
-       :::python
+     ```python
        import sys
        from pathlib import Path
 
@@ -101,8 +98,7 @@ so that you can use Sphinx commands directly.
 
    - Enable sphinx extensions.
 
-     ```
-       :::python
+     ```python
        extensions = [
            "sphinx.ext.todo",
            "sphinx.ext.viewcode",
@@ -117,8 +113,7 @@ so that you can use Sphinx commands directly.
    but instead generate a RST file to tell Sphinx to use docstrings when building the docs.
    So you only have to run the command `aphinx-apidoc` once.
 
-   ```
-    :::bash
+   ```bash
     # if build and source are NOT separated
     sphinx-apidoc -f -o ./ ../proj_name
     # if build and source are separated

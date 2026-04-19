@@ -28,8 +28,7 @@ tags:
 1. It is suggested that you use `n` (instead of `nvm`)
    to manage different versions of NodeJS.
 
-   ```
-    :::bash
+   ```bash
     n lts
     n latest
    ```

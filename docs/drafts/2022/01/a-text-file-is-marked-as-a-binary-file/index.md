@@ -20,8 +20,7 @@ tags:
 
 The issue can be fix by stripping null characters using the following command.
 
-```
-:::bash
+```bash
 tr -d '\000' < filein > fileout
 ```
 

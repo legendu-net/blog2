@@ -28,6 +28,8 @@ https://www.youtube.com/@richard0501
 
 ## Renovoation
 
+- [老房维修全是坑💥乱修血亏10万刀？5句口诀：少花好几万！](https://www.youtube.com/watch?v=_nLPjf7XU0I)
+
 - [美国装修：90%的新手血泪，为你省下一万美元！5大建材渠道亲测 | 装修教学 | 装修教程 | 装修房子过程 | 装修设计 | 装修风格 | 美国房产 | 美国房价 | 李文勍Richard](https://www.youtube.com/watch?v=OfiUFHY50GA)
 
 - [在美国，全新装修一套房要花多少钱？](https://www.youtube.com/watch?v=-5oH3LUSJIM)
@@ -132,3 +134,5 @@ for discussion.
 ## References
 
 - [Tips on Renting a House or Apartment]( https://www.legendu.net/misc/blog/tips-on-renting-a-house-or-apartment )
+
+- [老房维修全是坑💥乱修血亏10万刀？5句口诀：少花好几万！](https://www.youtube.com/watch?v=_nLPjf7XU0I)

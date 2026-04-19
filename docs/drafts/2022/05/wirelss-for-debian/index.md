@@ -22,8 +22,7 @@ tags:
    You can use the following command
    to check the type of the wireless card on your machine.
 
-   ```
-    :::bash
+   ```bash
     lspci | grep -i wireless
    ```
 

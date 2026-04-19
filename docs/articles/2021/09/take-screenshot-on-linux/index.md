@@ -25,8 +25,7 @@ It is one of the best screenshot applications.
 
 ### Installation Using snap
 
-```
-:::bash
+```bash
 sudo snap install ksnip
 ```
 

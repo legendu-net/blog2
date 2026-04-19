@@ -31,8 +31,7 @@ tags:
    the command below SSH into into a Hadoop client through a proxy configured by proxychains,
    prints the content of a text file and then count the number of lines in the file.
 
-   ```
-    :::bash
+   ```bash
     proxychains ssh client_ip /apache/hadoop/bin/hdfs dfs -cat adset_id/adset_id_642.txt | wc -l
    ```
 
@@ -43,8 +42,7 @@ tags:
    A simple way is to place the whole command to be run on the Hadoop client in double/singls quotes.
    Below is an illustration.
 
-   ```
-    :::bash
+   ```bash
     proxychains ssh client_ip '/apache/hadoop/bin/hdfs dfs -cat adset_id/adset_id_642.txt | wc -l'
    ```
 

@@ -17,8 +17,7 @@ tags:
 
 ## Installation in Ubuntu
 
-```
-:::bash
+```bash
 sudo apt install ftp
 ```
 
@@ -30,8 +29,7 @@ sudo apt install ftp
    So if you encounter issues log into a FTP server using `ftp`,
    try `sftp` instead.
 
-   ```
-    :::bash
+   ```bash
     sftp user@server [port]
    ```
 

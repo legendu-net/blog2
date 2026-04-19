@@ -51,8 +51,7 @@ Below are step-by-step symptoms from superficial to root causes.
 A faster alternative way to check whether your machine is experiencing this issue
 is to directly search for the keyword `PCIe-Bus-Error` in log files.
 
-```
-:::bash
+```bash
 ls /var/log/*log | xargs grep PCI-Bus-Error
 ```
 
@@ -68,8 +67,7 @@ then your machine is likely experiencing the issue.
    you can empty it using the following command.
    Notice that you'd better NOT remove log files.
 
-   ```
-    :::bash
+   ```bash
     cat /dev/null | sudo tee /var/log/kern.log
    ```
 
@@ -79,8 +77,7 @@ then your machine is likely experiencing the issue.
 
 1. Update the GRUB.
 
-   ```
-    :::bash
+   ```bash
     sudo update-grub
    ```
 

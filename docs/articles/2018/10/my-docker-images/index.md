@@ -92,8 +92,7 @@ for instructions on how to install and configure Docker.
 Taking `dclong/jupyterhub-ds` as an example,
 you can pull it using the command below.
 
-```
-:::bash
+```bash
 docker pull dclong/jupyterhub-ds
 ```
 
@@ -104,8 +103,7 @@ on ways to speed up pushing/pulling of Docker images.
 If you don't bother,
 then just use the command below.
 
-```
-:::bash
+```bash
 docker pull registry.docker-cn.com/dclong/jupyterhub-ds
 ```
 
@@ -171,8 +169,7 @@ The following command starts a container
 and mounts the current working directory and `/home` on the host machine
 to `/workdir` and `/home_host` in the container respectively.
 
-```
-:::bash
+```bash
 docker run -d --init \
     --platform linux/amd64 \
     --hostname jupyterhub-ds \
@@ -192,8 +189,7 @@ docker run -d --init \
 The following command (only works on Linux) does the same as the above one
 except that it limits the use of CPU and memory.
 
-```
-:::bash
+```bash
 docker run -d --init \
     --platform linux/amd64 \
     --name jupyterhub-ds \
@@ -225,8 +221,7 @@ there are some shell scripts in the directory `/scripts/sys/` to create usres fo
 
 You can use the option `-h` to print help doc for these commands.
 
-```
-:::bash
+```bash
 /scripts/sys/create_user_nogroup.sh -h
 Create a new user with the group name "nogroup".
 Syntax: create_user_nogroup user user_id [password]
@@ -239,8 +234,7 @@ password: Optional password of the user. If not provided, then the user name is 
 Now suppose you want to create a new user `dclong` with user ID `2000` and group name `nogroup`,
 you can use the following command.
 
-```
-:::bash
+```bash
 sudo /scripts/sys/create_user_nogroup.sh dclong 2000
 ```
 
@@ -271,8 +265,7 @@ Otherwise,
 the tokens (and more information about the servers) can be found
 by running the following command outside the Docker container.
 
-```
-:::bash
+```bash
 docker exec jupyterlab /scripts/list_jupyter.py
 ```
 
@@ -283,23 +276,20 @@ An equivalently but more specifically command
 (if the Docker is launched by the current user in the host)
 is as below
 
-```
-:::bash
+```bash
 docker exec -u $(id -un) jupyterlab /scripts/sys/list_jupyter.py
 ```
 
 If you are inside the Docker container,
 then run the following command to get the tokens (and more information about the servers).
 
-```
-:::bash
+```bash
 /scripts/list_jupyter.py
 ```
 
 Or equivalently if the Jupyter/Lab server is launched by the current user,
 
-```
-:::bash
+```bash
 /scripts/sys/list_jupyter.py
 ```
 
@@ -328,29 +318,25 @@ on how to create a new user inside a Docker container.
 
 Install and configure PySpark for use with the Python kernel.
 
-```
-:::bash
+```bash
 icon spark -ic && icon pyspark -ic
 ```
 
 Install the evcxr Rust kernel.
 
-```
-:::bash
+```bash
 icon evcxr -ic
 ```
 
 Install the Almond Scala kernel.
 
-```
-:::bash
+```bash
 icon almond -ic
 ```
 
 Install the ITypeScript kernel.
 
-```
-:::bash
+```bash
 icon its -ic
 ```
 
@@ -384,8 +370,7 @@ To use PySpark in a container of the Docker image
 you need to install Spark and the Python package `pyspark` first,
 which can be achieved using the following command.
 
-```
-:::bash
+```bash
 icon spark -ic --loc /opt/  
 icon pyspark -ic
 ```
@@ -396,8 +381,7 @@ Follow the steps below to use PySpark after it is installed.
 
 1. Find and initialize PySpark.
 
-   ```
-    :::python
+   ```python
     import findspark
     # A symbolic link of the Spark Home is made to /opt/spark for convenience
     findspark.init("/opt/spark")
@@ -408,8 +392,7 @@ Follow the steps below to use PySpark after it is installed.
 
 1. Use Spark as usual.
 
-   ```
-    :::python
+   ```python
     df1 = spark.table("some_hive_table")
     df2 = spark.sql("select * from some_table")
     ...
@@ -564,15 +547,13 @@ in the GitHub repository
    even if you pass the option `--platform linux/amd64` to `docker run`.
    A possible fix is to manually uninstall NeoVim using the following command
 
-   ```
-    :::bash
+   ```bash
     sudo apt purge neovim
    ```
 
    and then install Vim instead.
 
-   ```
-    :::bash
+   ```bash
     sudo apt install vim
    ```
 

@@ -19,8 +19,7 @@ tags:
 
 0. fix a startup issue
 
-   ```
-    :::bash
+   ```bash
     LIBGL_DRI3_DISABLE=1 /usr/bin/synqion
    ```
 

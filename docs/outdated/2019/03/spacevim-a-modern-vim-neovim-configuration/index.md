@@ -47,8 +47,7 @@ https://github.com/SpaceVim/SpaceVim/issues/78
    if you are using NeoVim,
    you can use the following command to edit a large file without loading plugins.
 
-   ```
-    :::bash
+   ```bash
     nvim --noplugin /path/to/large/text/file
    ```
 

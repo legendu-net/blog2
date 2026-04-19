@@ -16,8 +16,7 @@ tags:
 
 You can check the current shell in use by running the following command.
 
-```
-:::bash
+```bash
 echo $SHELL
 ```
 
@@ -29,8 +28,7 @@ The default shell can be changed using the comamnd `chsh`.
 For example,
 the following command changes the default shell to the fish shell.
 
-```
-:::bash
+```bash
 chsh -s /usr/local/bin/fish
 ```
 

@@ -25,8 +25,7 @@ to open the current or selected directory in Terminal, iTerm, Hyper or Alacritty
 
 1. Install OpenInTerminal
 
-   ```
-    :::bash
+   ```bash
     brew cask install openinterminal
    ```
 

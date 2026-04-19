@@ -21,8 +21,7 @@ tags:
    running `diskutil list` on my Mac gives me the following output
    and `/dev/disk2s1` is the partition (NTFS) to mount.
 
-   ```
-    :::bash
+   ```bash
     $ diskutil list
     /dev/disk0 (internal):
        #:                       TYPE NAME                    SIZE       IDENTIFIER
@@ -47,8 +46,7 @@ tags:
 
 1. Mount the disk partition.
 
-   ```
-    :::bash
+   ```bash
     # mount NTFS
     sudo mount_ntfs /dev/disk2s1 /path/to/mount/the/disk/partition
     # mount a ExFAT volume
@@ -60,7 +58,6 @@ tags:
    and click "Eject" in the pop-up menu.
    Or you can use the following comamnd to unmount a disk.
 
-   ```
-    :::bash
+   ```bash
     diskutil unmount /a/mounted/path
    ```

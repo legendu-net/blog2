@@ -22,15 +22,13 @@ is a better alternative if randomness is not critical.
 
 ## PostgreSQL
 
-```
-:::sql
+```sql
 SELECT id from table TABLESAMPLE BERNOULLI(10) WHERE age < 20 LIMIT 30;
 ```
 
 CANNOT use
 
-```
-:::sql
+```sql
 SELECT id from table WHERE age < 20 TABLESAMPLE BERNOULLI(10) LIMIT 30;
 ```
 

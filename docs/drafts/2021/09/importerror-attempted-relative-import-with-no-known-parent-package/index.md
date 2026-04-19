@@ -27,8 +27,7 @@ However,
 you have to add the directory containing the Python module into the Python module search path first.
 A simple way to do this is to define the `PYTHONPATH` environemnt variable.
 
-```
-:::bash
+```bash
 PYTHONPATH=/root/xinstall/ python3 -m xinstall.main -h
 ```
 

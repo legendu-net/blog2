@@ -84,8 +84,7 @@ have good discussions on solutions to fix the issue including some low-level exp
    For example,
    the below configuration set memory overhead to 8G.
 
-   ```
-    :::bash
+   ```bash
     --conf spark.yarn.executor.memoryOverhead=8G
    ```
 
@@ -95,8 +94,7 @@ have good discussions on solutions to fix the issue including some low-level exp
 
 1. Increase the number of partitions (which makes each task smaller and helps reducing memory consumption).
 
-   ```
-    :::bash
+   ```bash
     --conf spark.sql.shuffle.partitions=2000
    ```
 
@@ -107,8 +105,7 @@ have good discussions on solutions to fix the issue including some low-level exp
    So, if `MaxDirectoryMemorySize` is not set,
    Spark containers might use too much off-heap memory.
 
-   ```
-    :::bash
+   ```bash
     --conf spark.executor.extraJavaOptions=-XX:MaxDirectMemorySize=8G
    ```
 

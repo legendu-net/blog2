@@ -24,22 +24,19 @@ The following content is for Bash/Zsh only.
 
 ## Enable Extended Globbing
 
-```
-:::bash
+```bash
 shopt -s extglob
 ```
 
 Or you can run bash with the option `-O extglob`.
 
-```
-:::bash
+```bash
 /bin/bash -O extglob -c "your command to run"
 ```
 
 ## Set Shell to be Bash with Extended Globbing in Docker
 
-```
-:::bash
+```bash
 SHELL ["/bin/bash", "-O", "extglob", "-c"]
 ```
 

@@ -24,22 +24,19 @@ and then upgrading `cryptography` to version 2.8.
 
 1. Find the location of the Python package cryptography.
 
-   ```
-    :::bash
+   ```bash
     pip3 show cryptograph
    ```
 
 1. Remove the whole package directory.
 
-   ```
-    :::bash
+   ```bash
     sudo rm -rf /path/to/cryptograph
    ```
 
 1. Reinstall the latest version of `cryptograph`.
 
-   ```
-    :::bash
+   ```bash
     pip3 install cryptograph
    ```
 

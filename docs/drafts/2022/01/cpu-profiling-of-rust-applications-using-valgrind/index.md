@@ -30,23 +30,20 @@ please refer to
 
 ## Installation on Ubuntu
 
-```
-:::bash
+```bash
 sudo apt install valgrind
 ```
 
 ## Profile Your Application Using CallGrind
 
-```
-:::bash
+```bash
 valgrind --tool=callgrind --dump-instr=yes --simulate-cache=yes --collect-jumps=yes \
     your-program [program options]
 ```
 
 Below is an example.
 
-```
-:::bash
+```bash
 cargo build --profile release-debug
 valgrind --tool=callgrind --dump-instr=yes --simulate-cache=yes --collect-jumps=yes \
     ../ofcp_utils/target/release-debug/ofcp_utils score_r4_it_sim_prof \

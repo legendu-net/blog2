@@ -26,8 +26,7 @@ for instructions on how to install git-lfs.
 
 1. Track a large file.
 
-   ```
-    :::bash
+   ```bash
     git lfs track "*.pickle"
    ```
 

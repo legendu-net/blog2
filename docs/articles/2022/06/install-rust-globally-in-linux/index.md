@@ -24,8 +24,7 @@ Some Linux distributions provide packages for Rust.
 Taking Debian/Ubuntu based Linux distributions as an example,
 you can install a global version of Rust using the command below.
 
-```
-:::bash
+```bash
 sudo apt install rust rust-src cargo rustfmt 
 ```
 
@@ -41,8 +40,7 @@ rustup installs Rust locally.
 However,
 you can configure environment variables to install Rust globally.
 
-```
-:::bash
+```bash
 export RUSTUP_HOME=/usr/local/rustup
 export CARGO_HOME=/usr/local/cargo
 export PATH=/usr/local/cargo/bin:$PATH
@@ -53,15 +51,13 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 1. Download Rust.
 
-   ```
-    :::bash
+   ```bash
     curl -sSL https://static.rust-lang.org/dist/rust-1.61.0-x86_64-unknown-linux-gnu.tar.gz -o /tmp/rust.tar.gz
    ```
 
 1. Untar the downloaded file.
 
-   ```
-    :::bash
+   ```bash
     tar -zxvf /tmp/rust.tar.gz
    ```
 
@@ -69,8 +65,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
    `rust-1.61.0-x86_64-unknown-linux-gnu`
    and install Rust and necessary components.
 
-   ```
-    :::bash
+   ```bash
     ./install.sh --without=rust-demangler-preview,rls-preview,rust-analysis-x86_64-unknown-linux-gnu
    ```
 
@@ -79,15 +74,13 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
    and remove non-needed files.
    You only to keep the 3 directories `etc`, `src` and `x86_64-unknown-linux-gnu`.
 
-   ```
-    :::bash
+   ```bash
     rm -rf !(etc|src|x86_64-unknown-linux-gnu)
    ```
 
 1. Download Rust source code.
 
-   ```
-    :::bash
+   ```bash
     curl -sSL https://static.rust-lang.org/dist/rustc-1.61.0-src.tar.gz -o /tmp/rust.tar.gz
    ```
 
@@ -95,8 +88,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
    `/usr/local/lib/rustlib/src/rust/`
    .
 
-   ```
-    :::bash
+   ```bash
     mkdir -p /usr/local/lib/rustlib/src/rust
     tar -zxvf /tmp/rust.tar.gz -C /usr/local/lib/rustlib/src/rust --strip-components=1
    ```

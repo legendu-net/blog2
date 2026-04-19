@@ -28,8 +28,7 @@ when a Python list is provide where a scalar is required.
 Assuming `id0` is an integer column in the DataFrame `df`,
 the following code throws the above error.
 
-```
-:::python
+```python
 v = [1, 2, 3]
 df.filter(col("id0") == v)
 ```
@@ -40,8 +39,7 @@ df.filter(col("id0") == v)
 
 1. Use `isin` to check whether the value of `id0` is in the list `v`.
 
-   ```
-    :::python
+   ```python
     v = [1, 2, 3]
     df.filter(col("id0").isin(v))
    ```

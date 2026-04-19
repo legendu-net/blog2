@@ -20,8 +20,7 @@ tags:
 
 1. Install [icon](https://github.com/legendu-net/icon).
 
-   ```
-    :::bash
+   ```bash
     curl -sSL https://raw.githubusercontent.com/legendu-net/icon/main/install_icon.sh | sudo bash -
    ```
 
@@ -29,8 +28,7 @@ tags:
    [NeoVim](https://github.com/neovim/neovim)
    using icon.
 
-   ```
-    :::bash
+   ```bash
     icon nvim -ic
    ```
 

@@ -19,22 +19,19 @@ tags:
 1. Start a Python Docker image with the right version of Python interpreter installed.
    For example,
 
-   ```
-    :::bash
+   ```bash
     docker run -it -v $(pwd):/workdir python:3.5-buster /bin/bash
    ```
 
 1. Install pex.
 
-   ```
-    :::bash
+   ```bash
     pip3 install pex
    ```
 
 1. Build a pex environment file.
 
-   ```
-    :::bash
+   ```bash
     pex --python=python3 -v pyspark findspark -o env.pex
     pex --python=python3 --python-shebang=/usr/share/anaconda3/bin/python --inherit-path=fallback -v pyspark -o env.pex
    ```
@@ -87,8 +84,7 @@ tags:
    There are 2 ways to make a pex environment file inherit the contents of `sys.path`.
    One way is to issue one of the options at bulid time.
 
-   ```
-    :::bash
+   ```bash
     --inherit-path
     --inherit-path=prefer
     --inherit-path=fallback

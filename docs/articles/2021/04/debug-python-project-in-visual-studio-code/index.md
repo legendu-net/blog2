@@ -40,8 +40,7 @@ which makes things very convenient.
 
 `launch.json` for debugging Python code.
 
-```
-:::bash
+```bash
 {
     "version": "0.2.0",
     "configurations": [

@@ -36,22 +36,19 @@ tags:
    use the Spark SQL syntax to create a Spark-based Parquet format instead of Hive-based Parquet format.
    That is you use a query like
 
-   ```
-    :::sql
+   ```sql
     CREATE TABLE table_name (id Int, name String) USING Parquet
    ```
 
    instead of
 
-   ```
-    :::sql
+   ```sql
     CREATE TABLE table_name (id Int, name String) STORE AS Parquet
    ```
 
    or
 
-   ```
-    :::sql
+   ```sql
     CREATE TABLE table_name (id Int, name String)
    ```
 
@@ -221,8 +218,7 @@ you might want to consider using the Kryo serializer.
 
 1. Enable dynamic allocation but with a limit on the max number of executors.
 
-   ```
-    :::bash
+   ```bash
     ...
     --conf spark.dynamicAllocation.enabled=true \
     --conf spark.dynamicAllocation.maxExecutors=1000 \
@@ -233,8 +229,7 @@ you might want to consider using the Kryo serializer.
 
 1. Enable adaptive query execution in Spark 3.0+.
 
-   ```
-    :::bash
+   ```bash
     ...
     --conf spark.adaptive.query.execution=true \
     ...

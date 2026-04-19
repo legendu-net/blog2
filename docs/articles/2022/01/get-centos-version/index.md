@@ -19,8 +19,7 @@ tags:
 You can get the version of CentOS
 using the following command.
 
-```
-:::bash
+```bash
 rpm -q centos-release
 ```
 
@@ -29,8 +28,7 @@ Basically,
 you run this command in the driver or workers to print the versions
 and then parse the log of the Spark application.
 
-```
-:::python
+```python
 #!/usr/bin/env python3
 import subprocess as sp
 from pyspark.sql import SparkSession

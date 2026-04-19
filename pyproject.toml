@@ -27,6 +27,7 @@ dev = [
   "jupyter-book>=2.1",
   "mdformat>=1",
   "mdformat-myst>=0.3",
+  "pyproject-fmt>=2.21.1",
   "pytest>=9.0.2",
   "ruff>=0.15.8",
   "ty>=0.0.27",

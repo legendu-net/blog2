@@ -23,15 +23,13 @@ helps find unused dependencies in Cargo.toml.
 
 ## Installation
 
-```
-:::bash
+```bash
 cargo install cargo-udeps
 ```
 
 ## Usage
 
-```
-:::bash
+```bash
 cargo +nightly udeps
 ```
 

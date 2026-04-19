@@ -31,8 +31,7 @@ tags:
 
 1. Create disk partition tables using the command `fdisk`.
 
-   ```
-    :::bash
+   ```bash
     fdisk /dev/sdb
     fdisk /dev/nvme0n1
    ```
@@ -41,8 +40,7 @@ tags:
    For example,
    the following command formats the partition `/dev/sdb3` as ext4.
 
-   ```
-    :::bash
+   ```bash
     mkfs.ext4 /dev/sdb3
     mkfs.ext4 /dev/nvme0n1p1
    ```

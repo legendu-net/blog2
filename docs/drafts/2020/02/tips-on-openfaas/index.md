@@ -35,15 +35,13 @@ Log in, deploy a function, and try out the UI.
 
 ### Install OpenFaaS CLI
 
-```
-:::bash
+```bash
 curl -sL https://cli.openfaas.com | sudo sh
 ```
 
 You can also use the following command to install faas-cli on macOS.
 
-```
-:::bash
+```bash
 brew install faas-cli
 ```
 

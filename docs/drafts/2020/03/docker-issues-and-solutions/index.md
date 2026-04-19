@@ -25,8 +25,7 @@ tags:
 
 1. Remove `/var/lib/docker/*`.
 
-   ```
-    :::bash
+   ```bash
     sudo rm -rf /var/lib/docker/*
    ```
 
@@ -35,8 +34,7 @@ tags:
 
 1. Restart Docker.
 
-   ```
-    :::bash
+   ```bash
     sudo service docker restart
    ```
 
@@ -44,8 +42,7 @@ tags:
 
 Restart docker resolves the issue.
 
-```
-:::bash
+```bash
 sudo service docker restart
 ```
 
@@ -53,8 +50,7 @@ sudo service docker restart
 
 Installing `gnupg2` and `pass` fixes the issue.
 
-```
-:::bash
+```bash
 sudo apt install gnupg2 pass
 ```
 
@@ -68,22 +64,19 @@ for more details.
 
 1. List Docker container IDs.
 
-   ```
-    :::bash
+   ```bash
     docker ps -a
    ```
 
 1. Check logs of a Docker container.
 
-   ```
-    :::bash
+   ```bash
     docker logs container_id
    ```
 
 1. Inspect a Docker container.
 
-   ```
-    :::bash
+   ```bash
     docker inspect container_id
    ```
 

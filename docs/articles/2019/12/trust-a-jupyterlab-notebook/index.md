@@ -25,8 +25,7 @@ please refer to
 There are currently 2 ways to trust a notebook.
 First, you can trust (multiple) notebooks via command-line.
 
-```
-:::bash
+```bash
 jupyter trust path_to_notebook.ipynb
 jupyter trust notebook1.ipynb notebook2.ipynb
 jupyter trust *.ipynb

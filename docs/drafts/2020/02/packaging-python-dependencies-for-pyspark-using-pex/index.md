@@ -57,8 +57,7 @@ For more discussions please refer to
 [this issue](https://github.com/pantsbuild/pex/issues/905)
 .
 
-```
-:::bash
+```bash
 #!/bin/bash
 
 /apache/spark2.3/bin/spark-submit \
@@ -96,8 +95,7 @@ There are a few ways to fix this issue.
 1. You can install the Package package `findspark`
    and use it help to locate the home directory of Spark.
 
-   ```
-    :::python
+   ```python
     import findspark
     findspark.init()
    ```
@@ -121,8 +119,7 @@ There are a few ways to fix this issue.
 
 1. Export the environment variable `PEX_INHERIT_PATH` to be `prefer` at run time.
 
-   ```
-    :::bash
+   ```bash
     #!/bin/bash
 
     /apache/spark2.3/bin/spark-submit \

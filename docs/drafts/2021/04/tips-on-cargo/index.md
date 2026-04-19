@@ -30,15 +30,13 @@ cargo new --lib project_name
 
 Install a Rust crate from GitHub (the default branch).
 
-```
-:::bash
+```bash
 cargo install --git https://github com/RustPython/RustPython
 ```
 
 Specify the option `--version` to install a specific version of a package.
 
-```
-:::bash
+```bash
 cargo install --version 0.8.1 evcxr_jupyter
 ```
 
@@ -52,15 +50,13 @@ for the official tutorial.
 
 Build the debug version of the project.
 
-```
-:::bash
+```bash
 cargo build 
 ```
 
 Build the release version of the project.
 
-```
-:::bash
+```bash
 cargo build --release
 ```
 
@@ -105,8 +101,7 @@ cargo test --release -- --ignored
 Before cargo officially supports an option to disable warnings,
 you can use the environment variable `RUSTFLAGS` to disable warnings during compiling.
 
-```
-:::bash
+```bash
 RUSTFLAGS=-Awarnings cargo build
 RUSTFLAGS=-Awarnings cargo build --release
 RUSTFLAGS=-Awarnings cargo test
@@ -117,8 +112,7 @@ A better way is to use the command `cargo rustc`
 (instead of `cargo build`)
 which allows users to pass compiler flags to it.
 
-```
-:::bash
+```bash
 cargo rustc --lib -- -Awarnings
 ```
 

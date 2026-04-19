@@ -22,15 +22,13 @@ tags:
 
 ## Installation on Ubuntu
 
-```
-:::bash
+```bash
 sudo apt install heif-gdk-pixbuf libheif-examples
 ```
 
 ## Usage
 
-```
-:::bash
+```bash
 heif-convert input.HEIC output.jpg
 ```
 
@@ -40,8 +38,7 @@ If you have multiple HIEC images
 and you want to convert all of them to JPG images,
 then you use the following code in IPython or a JupyterLab notebook.
 
-```
-:::bash
+```bash
 for p in Path().glob("*.HEIC"):
     !heif-convert {p} {p.with_suffix(".jpg")}
 ```

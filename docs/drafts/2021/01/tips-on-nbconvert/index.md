@@ -23,8 +23,7 @@ tags:
 
 1. Convert a Jupyter notebook to markdown format.
 
-   ```
-    :::bash
+   ```bash
     jupyter nbconvert --to markdown notebook.ipynb
    ```
 
@@ -37,24 +36,21 @@ tags:
    is currently the best template for Jupyter/Lab notebooks
    which provides beautiful and dynamic reports.
 
-   ```
-    :::bash
+   ```bash
     pip3 install pretty_jupyter
     jupyter nbconvert --to HTML --template pj notebook.ipynb
    ```
 
 1. You can execute a notebook without converting it to a different format using the following command.
 
-   ```
-    :::bash
+   ```bash
     jupyter nbconvert --to notebook --execute mynotebook.ipynb
    ```
 
    This will generate another notebook with the output inlined.
    You can use the option `--inplace` to overwrite the file inplace.
 
-   ```
-    :::bash
+   ```bash
     jupyter nbconvert --to notebook --inplace --execute mynotebook.ipynb
    ```
 
@@ -66,22 +62,19 @@ tags:
 
 ## Template
 
-```
-:::bash
+```bash
 jupyter nbconvert --template=nbextensions mynotebook.ipynb
 ```
 
 http://nbconvert.readthedocs.io/en/latest/customizing.html#Custom-Templates
 
-```
-:::bash
+```bash
 jupyter nbconvert --to python 'example.ipynb' --stdout --template=simplepython.tpl
 ```
 
 ## Line Number in Code Blocks
 
-```
-:::bash
+```bash
 jupyter nbconvert a.ipynb --to html --Highlight2HTML.extra_formatter_options linenos=table
 ```
 

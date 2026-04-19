@@ -22,8 +22,7 @@ to setup `ngrok`.
 
 1. Install ngrok.
 
-   ```
-    :::bash
+   ```bash
     sudo snap install ngrok
    ```
 
@@ -32,15 +31,13 @@ to setup `ngrok`.
 
 1. Connect your account following instructions.
 
-   ```
-    :::bash
+   ```bash
     ngrok config add-authtoken your_token
    ```
 
 1. Start a http tunnel forwarding to you local port.
 
-   ```
-    :::bash
+   ```bash
     ngrok http your_choice_of_port
    ```
 
@@ -48,8 +45,7 @@ For example,
 suppose you have launch a code-server service
 in your local network using the following command.
 
-```
-:::bash
+```bash
 docker run -d --init \
     --hostname vscode-server \
     --log-opt max-size=50m \
@@ -66,8 +62,7 @@ docker run -d --init \
 
 You can expose it to public via ngrok by running the following command.
 
-```
-:::bash
+```bash
 ngrok http 2020
 ```
 

@@ -1,7 +1,7 @@
 ---
 title: Tips on Web Browsers
 created: 2025-12-17 12:32:32
-date: 2026-04-17 12:03:28.267682
+date: 2026-04-19 07:31:01.803311
 authors:
   - bendu
 label: tips-on-web-browsers

@@ -26,8 +26,7 @@ tags:
 Docker has a limit on maximum apt cache size on the host system.
 The issue can be fixed by running the following command.
 
-```
-:::bash
+```bash
 docker image prune -f
 ```
 

@@ -39,8 +39,7 @@ Insufficient executor memory (you can monitor this spill metrics from Spark UI).
 1. For jobs that do not need to persist data in memory
    we can reduce the cache storage size and enlarge the memory portion for shuffle.
 
-   ```
-    :::bash
+   ```bash
     --conf spark.shuffle.memoryFraction=0.4 
     --conf spark.storage.memoryFraction=0.1 
    ```

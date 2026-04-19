@@ -27,8 +27,7 @@ please continue read if you encounter the following error.
 1. On macOS,
    installing python-tk might fix the issue.
 
-   ```
-    :::bash
+   ```bash
     brew install python-tk
    ```
 
@@ -43,8 +42,7 @@ please continue read if you encounter the following error.
 1. When you develop a GUI application using Tkinter in Python,
    `root = tk.Tk()` must be the first statement after imports.
 
-   ```
-    :::python
+   ```python
     import tkinter as tk
     import ...
     root = tk.Tk()
@@ -60,16 +58,14 @@ please continue read if you encounter the following error.
    and use the name to refer to the widget later.
    Avoid keeping referencing to widgets by yourself!
 
-   ```
-    :::python
+   ```python
     root.nametowidget("name1.name2.name3")
    ```
 
 1. A Button object has the option `command` to set a callback function when clicked
    while a Label object does not have this option.
 
-   ```
-    :::python
+   ```python
     def button_click():
         ...
 
@@ -80,8 +76,7 @@ please continue read if you encounter the following error.
    Nevertheless,
    you can bind a callback function to any widget using the method `widget_obj.bind`.
 
-   ```
-    :::python
+   ```python
     import tkinter as tk
     root = tk.Tk()
 
@@ -104,15 +99,13 @@ please continue read if you encounter the following error.
 1. To make a label visible no matter there are text/image in it or not,
    you can set a border to it.
 
-   ```
-    :::python
+   ```python
     label = tk.Label(root, bd=1)
    ```
 
    You can ke it even more visible by giving a sunken effect.
 
-   ```
-    :::python
+   ```python
     label = tk.Label(root, bd=1, relief=tk.SUNKEN)
    ```
 
@@ -145,8 +138,7 @@ https://stackoverflow.com/questions/17398926/how-to-set-a-widgets-size-in-tkinte
 
 Set minimum size of rows and columns of the grid.
 
-```
-:::python
+```python
 col_count, row_count = root.grid_size()
 for col in xrange(col_count):
     root.grid_columnconfigure(col, minsize=20)
@@ -162,8 +154,7 @@ https://effbot.org/tkinterbook/tkinter-events-and-bindings.htm
 
 Keyboard events are sent to the focused widget.
 
-```
-:::python
+```python
 widget.bind("<Key>", callback_func)
 ```
 

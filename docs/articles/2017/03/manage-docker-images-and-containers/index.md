@@ -28,8 +28,7 @@ but use it with caution and at your own risk.
 
 1. Remove all existing containers (not images).
 
-   ```
-    :::bash
+   ```bash
     docker rm $(docker ps -aq)
     # or you can use pipe
     docker ps -aq | xargs docker rm
@@ -39,8 +38,7 @@ but use it with caution and at your own risk.
 
 1. Remove exited containers.
 
-   ```
-    :::bash
+   ```bash
     docker ps -aqf status=exited | xargs docker rm
     osqueryi "select id from docker_containers where state=exited" \
       --list --header=false | xargs docker rm
@@ -55,37 +53,32 @@ but use it with caution and at your own risk.
 
 1. Remove images without names (with the help of `awk`).
 
-   ```
-    :::bash
+   ```bash
     docker images | awk '{ if ($1 == "<none>") print $3 }' | xargs docker rmi
    ```
 
 1. Remove images without versions (with the help of `awk`).
 
-   ```
-    :::bash
+   ```bash
     docker images | awk '{ if ($2 == "<none>") print $3 }' | xargs docker rmi
    ```
 
 1. Remove images without names or versions (with the help of `awk`).
 
-   ```
-    :::bash
+   ```bash
     docker images | awk '{ if ($1 == "<none>" || $2 == "<none>") print $3 }' | xargs docker rmi
    ```
 
 1. Remove images without names or versions (with the help of `osquery`).
 
-   ```
-    :::bash
+   ```bash
     osqueryi "select id from docker_images where tags = ''" \
       --list --header=false | xargs docker rmi
    ```
 
 1. Remove all images belong to the eclipse organization with the help of `sed` and `q`.
 
-   ```
-    :::bash
+   ```bash
     docker images sed 's/ \+/\t/g' | \
       q -tH "select [image id] from - where repository like 'eclipse/%'" | \
       xargs docker rmi 
@@ -93,16 +86,14 @@ but use it with caution and at your own risk.
 
 1. Remove all images belong to the eclipse organization with the help of `osquery`.
 
-   ```
-    :::bash
+   ```bash
     osqueryi "select id from docker_images where tags like 'eclipse/%'" \
       --list --header=false | xargs docker rmi
    ```
 
 1. You can force removing an image with the `--force` option.
 
-   ```
-    :::bash
+   ```bash
     docker rmi ubuntu --force
    ```
 
@@ -115,16 +106,14 @@ but use it with caution and at your own risk.
 You can get the container ID inside the docker container
 by running the following command.
 
-```
-:::bash
+```bash
 cat /proc/self/cgroup | grep -o  -e "docker-.*.scope" | \
   head -n 1 | sed "s/docker-\(.*\).scope/\\1/"
 ```
 
 Or another simpler way is to run
 
-```
-:::bash
+```bash
 echo $HOSTNAME
 ```
 
@@ -140,22 +129,19 @@ But it will not work in the following two cases.
 
 1. Save a docker image to a tar.gz file.
 
-   ```
-    :::bash
+   ```bash
     docker save image | gzip > image.tar.gz
    ```
 
 1. Load a docker image from tar file.
 
-   ```
-    :::bash
+   ```bash
     docker load < image.tar
    ```
 
 ## Kill a Process in a Container
 
-```
-:::bash
+```bash
 docker exec container_name kill process_name
 ```
 
@@ -221,8 +207,7 @@ for detailed discussions.
 
 Copying file between a docker container and the host.
 
-```
-:::bash
+```bash
 docker cp foo.txt mycontainer:/foo.txt
 docker cp mycontainer:/foo.txt foo.txt
 ```
@@ -258,8 +243,7 @@ First retry starting the Docker container.
 If it still does not work
 then restart the Docker daemon using the command below will resolve the issue.
 
-```
-:::bash
+```bash
 service docker restart
 ```
 

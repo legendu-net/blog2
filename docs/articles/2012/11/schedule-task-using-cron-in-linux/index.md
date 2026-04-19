@@ -27,8 +27,7 @@ Cron is usually installed by default.
 It not (e.g., if you are using a Docker image),
 you can install it using the following command (on Ubuntu).
 
-```
-:::bash
+```bash
 sudo apt update && sudo apt install cron
 ```
 

@@ -127,17 +127,21 @@ def _parse_record(path: AnyPath):
     return Post(path).parse().record()
 
 
-def _parse_records() -> list[Record]:
-    logger.info("Parsing posts into records ...")
+def get_post_paths() -> list[Path]:
     paths = []
     for doc_dir in (ARTICLES, DRAFTS, OUTDATED):
         for ext in (MARKDOWN, IPYNB):
             paths.extend(BASE_DIR.glob(f"docs/{doc_dir}/20??/??/*/index{ext}"))
+    return paths
+
+
+def _parse_records() -> list[Record]:
+    logger.info("Parsing posts into records ...")
     # TODO: 1. do you need multiprocessing?
     # TODO: 2. if not, no need to use a list
     # with multiprocessing.Pool(processes=1) as pool:
     # return pool.map(_parse_record, paths)
-    return [_parse_record(path) for path in paths]
+    return [_parse_record(path) for path in get_post_paths()]
 
 
 def format_title(title):

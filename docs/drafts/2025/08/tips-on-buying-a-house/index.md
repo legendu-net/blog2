@@ -21,6 +21,8 @@ tags:
 
 - [美国房屋装修质量怎么看？良心装修vs坑爹装修！](https://www.youtube.com/watch?v=tqtCoflI5bo)
 
+- [老房维修全是坑💥乱修血亏10万刀？5句口诀：少花好几万！](https://www.youtube.com/watch?v=_nLPjf7XU0I)
+
 ## Check
 
 1. Is it a new house?

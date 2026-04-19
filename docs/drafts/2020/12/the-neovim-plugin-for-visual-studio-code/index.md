@@ -25,8 +25,7 @@ https://github.com/asvetliakov/vscode-neovim
 
 1. Install NeoVim 0.5+ using [icon](https://github.com/legendu-net/icon).
 
-   ```
-    :::bash
+   ```bash
     icon nvim -ic --ppa
    ```
 

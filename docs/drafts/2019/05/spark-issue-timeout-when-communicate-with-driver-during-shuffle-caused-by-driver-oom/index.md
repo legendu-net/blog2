@@ -50,8 +50,7 @@ Based on my experience, we may need 10G memory for 10K partition.
 
 1. Increase Driver memory and computation power is useful in case you need less than 15G memory
 
-   ```
-    :::bash
+   ```bash
     --driver-memory 12G
     --conf spark.driver.cores=4 
     --conf spark.akka.threads=32 

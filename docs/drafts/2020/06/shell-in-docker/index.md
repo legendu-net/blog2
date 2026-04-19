@@ -27,7 +27,6 @@ https://docs.docker.com/engine/reference/builder/#shell
 
 Just set the SHELL environment variable in the Docker image.
 
-```
-:::bash
+```bash
 ENV SHELL=/bin/bash
 ```

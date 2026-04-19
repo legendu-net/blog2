@@ -61,8 +61,7 @@ tags:
 
 1. You can the below command to generate (default) IPython configuration files.
 
-   ```
-    :::bash
+   ```bash
     # generate an IPython configuration dir
     ipython profile create [profilename]
     # generate an IPython configuration dir in the specified location
@@ -86,8 +85,7 @@ tags:
 
    - Use the directory specified by the option `--ipython-dir` if any.
 
-     ```
-       :::bash
+     ```bash
        ipython --ipython-dir /path/to/ipython/profile/directory
      ```
 
@@ -145,8 +143,7 @@ tags:
    but it is a relative path w.r.t. `/tmp`.
    You can copy it to the home directory using the following command.
 
-   ```
-    :::bash
+   ```bash
     !cp {Path("tmp") / pkg} ~
    ```
 
@@ -156,8 +153,7 @@ tags:
    and so can be passed as command line parameters to the script.
    For example, with bash you can do this:
 
-   ```
-    :::bash
+   ```bash
     %%bash -s "$myPythonVar" "$myOtherVar"
     echo "This bash script knows about $1 and $2"
    ```
@@ -182,8 +178,7 @@ tags:
    the below code use start a separate process to zip each subdirectory
    in the current directory.
 
-   ```
-    :::python
+   ```python
     from pathlib import Path
     import subprocess as sp
 
@@ -194,8 +189,7 @@ tags:
 
    The second way is to use the Python moduel `multiprocessing`.
 
-   ```
-    :::python
+   ```python
     from multiprocessing import Pool
     
     def job(arg):

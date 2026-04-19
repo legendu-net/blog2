@@ -18,28 +18,24 @@ tags:
 
 1. List all Spark applications.
 
-   ```
-    :::bash
+   ```bash
     yarn application --list
    ```
 
 1. Show status of a Spark application.
 
-   ```
-    :::bash
+   ```bash
     yarn application -status application_1459542433815_0002
    ```
 
 1. view logs of a Spark application.
 
-   ```
-    :::bash
+   ```bash
     yarn logs -applicationId application_1459542433815_0002
    ```
 
 1. kill a Spark application.
 
-   ```
-    :::bash
+   ```bash
     yarn application -kill application_1459542433815_0002
    ```

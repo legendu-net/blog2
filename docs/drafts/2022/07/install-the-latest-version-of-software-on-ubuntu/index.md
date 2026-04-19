@@ -26,7 +26,6 @@ For example,
 NevoVim (installed using `apt-get`) on Ubuntu 20.04 is 0.4.1 which is seriously outdated.
 You can install the latest version of NeoVim using the following command.
 
-```
-:::bash
+```bash
 sudo snap install nvim --classic
 ```

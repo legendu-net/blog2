@@ -27,8 +27,7 @@ when your Rust program encounters stack overflow issues.
    [backtrace-on-stack-overflow](https://crates.io/crates/backtrace-on-stack-overflow)
    as a dependency into your project.
 
-   ```
-    :::bash
+   ```bash
     cargo add backtrace-on-stack-overflow
    ```
 

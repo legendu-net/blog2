@@ -30,8 +30,7 @@ there are 3 different approaches that you can change its text.
 
 ### Dict-like Access
 
-```
-:::python
+```python
 label["text"] = "new text for the label"
 ```
 
@@ -39,8 +38,7 @@ label["text"] = "new text for the label"
 
 This is the recommended way to update the text of a label in Tkinter.
 
-```
-:::python
+```python
 label.config(text="new text for the label")
 ```
 
@@ -50,8 +48,7 @@ This way is more complicated
 and it requires that the a text variable is specified
 when the label is created.
 
-```
-:::python
+```python
 import tkinter as tk
 var_text = tk.StringVar()
 label = Label(root, textvariable=var_text)
@@ -72,15 +69,13 @@ there are 2 ways you can change its image.
 
 ### Dict-like Access
 
-```
-:::python
+```python
 label["image"] = some_photo_image_obj
 ```
 
 ### Via the `.config` Method
 
-```
-:::python
+```python
 label.config(image=some_photo_image_obj)
 ```
 

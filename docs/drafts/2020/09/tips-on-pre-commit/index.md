@@ -25,8 +25,7 @@ Git hooks can be useful for simple and fast local code formatting.
 
 1. Install pre-commit.
 
-   ```
-    :::bash
+   ```bash
     pip3 install pre-commit
    ```
 
@@ -63,8 +62,7 @@ Git hooks can be useful for simple and fast local code formatting.
 
 1. Install the git hook scripts.
 
-   ```
-    :::bash
+   ```bash
     pre-commit install
    ```
 

@@ -30,7 +30,6 @@ while the configuration requested `--executor-cores` to be 16.
 
 Set `--executor-cores` to be 8.
 
-```
-:::bash
+```bash
 --executor-cores 8
 ```

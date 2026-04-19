@@ -26,8 +26,7 @@ In the pandas UDF,
 you can call `subprocess.run` to run any shell command
 and capture its output.
 
-```
-:::python
+```python
 from pathlib import Path
 import subprocess as sp
 import pandas as pd

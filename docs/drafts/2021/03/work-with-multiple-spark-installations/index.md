@@ -26,8 +26,7 @@ often resolves the issue.
 
 Remove or reset the environment variable `HADOOP_CONF_DIR` resolves the issue.
 
-```
-:::python
+```python
 import os
 os.environ["HADOOP_CONF_DIR"] = ""
 import findspark

@@ -67,7 +67,6 @@ however,
 an workaround solution is to ask for more executors
 which will give us more temporary directories for storing shuffling data.
 
-```
-:::bash
+```bash
 --num-executors 320
 ```

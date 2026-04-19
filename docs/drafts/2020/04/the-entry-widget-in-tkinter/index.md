@@ -23,8 +23,7 @@ tags:
    Instead,
    you have to first delete the text and then insert text into it.
 
-   ```
-    :::python
+   ```python
     entry.delete(0, tk.END)
     entry.insert(0, text)
    ```

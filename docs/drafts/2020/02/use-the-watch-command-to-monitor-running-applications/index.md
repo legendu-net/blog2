@@ -18,7 +18,6 @@ tags:
 
 Report the number of PNG images in the directory `000` every 2 seconds.
 
-```
-:::bash
+```bash
 watch "ls 000/*.png | wc -l"
 ```

@@ -131,8 +131,7 @@ It is a temporary solution before the issue
 [Add cargo-add (from cargo-edit) to cargo proper](https://github.com/rust-lang/cargo/issues/5586)
 is resolved.
 
-```
-:::bash
+```bash
 cargo install cargo-edit
 ```
 

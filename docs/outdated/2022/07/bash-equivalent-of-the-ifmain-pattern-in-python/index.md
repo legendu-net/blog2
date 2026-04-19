@@ -26,8 +26,7 @@ tags:
 is preferred to Bash/Zsh.
 The following content is for Bash/Zsh only.
 
-```
-:::bash
+```bash
 #!/usr/bin/env bash
 
 function install_icon.usage() {

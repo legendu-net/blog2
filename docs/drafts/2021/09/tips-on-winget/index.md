@@ -17,8 +17,7 @@ tags:
 
 You can search for packages on https://winget.run/.
 
-```
-:::bash
+```bash
 winget search grep
 winget install grep
 ```

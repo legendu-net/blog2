@@ -18,8 +18,7 @@ tags:
 The simplest way to check whether a Linux system is running systemd, upstart or SysV
 is by running the following command.
 
-```
-:::bash
+```bash
 ps -p1 | grep "init\|upstart\|systemd"
 ```
 

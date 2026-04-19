@@ -39,7 +39,6 @@ does not exist in the physical path - (Infra team should take care of this)
 Solution: add the following configuration to force checking partition paths
 when submiting Spark jobs.
 
-```
-:::bash
+```bash
 --conf spark.sql.hive.verifyPartitionPath=true
 ```

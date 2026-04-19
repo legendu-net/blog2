@@ -14,8 +14,7 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-```
-:::bash
+```bash
 git submodule init
 git submodule add git@github.com:dclong/docker_image_builder.git
 git submodule update --recursive --remote

@@ -32,44 +32,38 @@ is in `$PATH` so that it can be used without issues.
 
 You can use the following command to configure nbdime for Git.
 
-```
-:::bash
+```bash
 nbdime config-git (--enable | --disable) [--global | --system]
 ```
 
 Register nbdime with Git for the current project/repository.
 
-```
-:::bash
+```bash
 nbdime config-git --enable
 ```
 
 Deregister nbdime with Git for the current project/repository.
 
-```
-:::bash
+```bash
 nbdime config-git --disable
 ```
 
 Register nbdime with Git for global users.
 
-```
-:::bash
+```bash
 nbdime config-git --enable --global
 ```
 
 Deregister nbdime with Git for global users.
 
-```
-:::bash
+```bash
 nbdime config-git --disable --global
 ```
 
 If you are using [xinstall](https://github.com/dclong/xinstall),
 a simple way to install and configure nbdime is to run the following commandd.
 
-```
-:::bash
+```bash
 xinstall nbdime -ic
 ```
 

@@ -20,7 +20,6 @@ tags:
 For example,
 to show the current Pacific time,
 
-```
-:::bash
+```bash
 TZ=America/Los_Angeles date
 ```

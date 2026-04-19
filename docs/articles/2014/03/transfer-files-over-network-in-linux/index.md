@@ -49,15 +49,13 @@ go with NFS.
    you still want to stick with `rsync`.
    The example below is how you can copy files suing `mbuffer`.
 
-   ```
-    :::bash
+   ```bash
     tar zcf - bigfile.m4p | mbuffer -s 1K -m 512 | ssh otherhost "tar zxf -"
    ```
 
    The example below uses `tar` and `netcat` to copy files.
 
-   ```
-    :::bash
+   ```bash
     # run this command on the machine with the source files
     tar --numeric-owner -cvf - ./ | netcat -l -p 2020
     # run this command on the machine to copy files to
