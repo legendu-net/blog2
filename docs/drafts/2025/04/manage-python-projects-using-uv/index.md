@@ -1,7 +1,7 @@
 ---
 title: Manage Python Projects Using uv
 created: 2025-04-30 06:16:38
-date: 2026-04-13 23:14:21.595402
+date: 2026-04-18 21:44:04.362442
 authors:
   - bendu
 label: manage-python-projects-using-uv
@@ -35,7 +35,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sudo env UV_INSTALL_DIR="/usr/local
 
 1. Format `pyproject.toml`.
 
-    uvx pyproject-fmt pyproject.toml
+   uvx pyproject-fmt pyproject.toml
 
 1. Run `python -m http.server` to start a simple http server.
 

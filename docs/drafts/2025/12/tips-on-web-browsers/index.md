@@ -43,3 +43,9 @@ tags:
 ## Headless Browsers
 
 - [Light Panda](https://github.com/lightpanda-io/browser)
+
+## Browser in Terminal
+
+See discussions in
+[Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
+.

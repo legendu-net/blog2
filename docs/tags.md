@@ -1042,7 +1042,7 @@ site:
 ```
 
 ## computer science
-```{dropdown} Click to expand/collapse 753 links
+```{dropdown} Click to expand/collapse 752 links
 - [Tips on Neovim](tips-on-neovim)
 - [AI Tools from China](ai-tools-from-china)
 - [Tips on Web Browsers](tips-on-web-browsers)
@@ -1650,7 +1650,6 @@ site:
 - [Useful Rust Crates for GraphQL](useful-rust-crates-for-graphql)
 - [Tips on Refactoring Rust Code](tips-on-refactoring-rust-code)
 - [Sorting Algorithms in Rust](sorting-algorithms-in-rust)
-- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 - [Tips on Distributed Development](tips-on-distributed-development)
 - [Ruff Is An Extremely Fast Python Linter Written in Rust](ruff-is-an-extremely-fast-python-linter-written-in-rust)
 - [Perfect Hash Functions](perfect-hash-functions)
@@ -2158,7 +2157,7 @@ site:
 ```
 
 ## software
-```{dropdown} Click to expand/collapse 200 links
+```{dropdown} Click to expand/collapse 199 links
 - [Cloud IDE](cloud-ide)
 - [My Docker Images](my-docker-images)
 - [Working Remotely in Linux](working-remotely-in-linux)
@@ -2303,7 +2302,6 @@ site:
 - [Install Packages Using Homebrew on macOS and Linux](install-packages-using-homebrew-on-macos-and-linux)
 - [Use wget with Proxy](use-wget-with-proxy)
 - [Block JavaScript in Browsers Using NoScript](block-javascript-in-browsers-using-noscript)
-- [Selectively Disable Vimperator on Webpages](selectively-disable-vimperator-on-webpages)
 - [Install Docker](install-docker)
 - [Docker in WSL 2](docker-in-wsl-2)
 - [Install Python in macOS](install-python-in-macos)
@@ -2555,7 +2553,8 @@ site:
 ```
 
 ## Linux
-```{dropdown} Click to expand/collapse 141 links
+```{dropdown} Click to expand/collapse 142 links
+- [Navigate GUI Applications Without Mouse in Linux](navigate-gui-applications-without-mouse-in-linux)
 - [Working Remotely in Linux](working-remotely-in-linux)
 - [Remote Desktop Using Remmina](remote-desktop-using-remmina)
 - [Convert MS Office Document to Text](convert-ms-office-document-to-text)
@@ -4805,7 +4804,7 @@ site:
 ```
 
 ## internet
-```{dropdown} Click to expand/collapse 24 links
+```{dropdown} Click to expand/collapse 25 links
 - [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
 - [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
 - [Tips on XFinity](tips-on-xfinity)
@@ -4817,6 +4816,7 @@ site:
 - [Tips on HTTP](tips-on-http)
 - [Surf Web Anonymously](surf-web-anonymously)
 - [IP Address and Subnets](ip-address-and-subnets)
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 - [Save a Web Page as a Single File in Chrome](save-a-web-page-as-a-single-file-in-chrome)
 - [Baidu Yun Tips](baidu-yun-tips)
@@ -4969,6 +4969,32 @@ site:
 - [Computer Vision Tools](computer-vision-tools)
 ```
 
+## terminal
+```{dropdown} Click to expand/collapse 22 links
+- [Tips on Claude](tips-on-claude)
+- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
+- [Tips on Hyper](tips-on-hyper)
+- [Quickly Open a Directory in Terminal in Mac](quickly-open-a-directory-in-terminal-in-mac)
+- [Zellij Is the Best Terminal Multiplexer](zellij-is-the-best-terminal-multiplexer)
+- [Tips on Gh](tips-on-gh)
+- [Show Image in Terminal](show-image-in-terminal)
+- [Print Colored Text in Terminal in Rust](print-colored-text-in-terminal-in-rust)
+- [Good Terminal Apps](good-terminal-apps)
+- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
+- [Tips on Windows Terminal](tips-on-windows-terminal)
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
+- [Tips on WezTerm](tips-on-wezterm)
+- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
+- [Hands on the Python Library pexpect](hands-on-the-python-library-pexpect)
+- [Terminal Multiplexers](terminal-multiplexers)
+- [Ghostty Is a Decent Terminal App](ghostty-is-a-decent-terminal-app)
+- [Useful Tools in Linux](useful-tools-in-linux)
+- [WaveTerm Is the Best Terminal App](waveterm-is-the-best-terminal-app)
+- [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
+- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
+- [Print Colored Text in Terminal](print-colored-text-in-terminal)
+```
+
 ## cloud | Cloud
 ```{dropdown} Click to expand/collapse 22 links
 - [Cloud IDE](cloud-ide)
@@ -5045,31 +5071,6 @@ site:
 - [SQL Equivalent](sql-equivalent)
 - [Data Quality](data-quality)
 - [Tips on Graph Database](tips-on-graph-database)
-```
-
-## terminal
-```{dropdown} Click to expand/collapse 21 links
-- [Tips on Claude](tips-on-claude)
-- [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
-- [Tips on Hyper](tips-on-hyper)
-- [Quickly Open a Directory in Terminal in Mac](quickly-open-a-directory-in-terminal-in-mac)
-- [Zellij Is the Best Terminal Multiplexer](zellij-is-the-best-terminal-multiplexer)
-- [Tips on Gh](tips-on-gh)
-- [Show Image in Terminal](show-image-in-terminal)
-- [Print Colored Text in Terminal in Rust](print-colored-text-in-terminal-in-rust)
-- [Good Terminal Apps](good-terminal-apps)
-- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
-- [Tips on Windows Terminal](tips-on-windows-terminal)
-- [Tips on WezTerm](tips-on-wezterm)
-- [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Hands on the Python Library pexpect](hands-on-the-python-library-pexpect)
-- [Terminal Multiplexers](terminal-multiplexers)
-- [Ghostty Is a Decent Terminal App](ghostty-is-a-decent-terminal-app)
-- [Useful Tools in Linux](useful-tools-in-linux)
-- [WaveTerm Is the Best Terminal App](waveterm-is-the-best-terminal-app)
-- [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
-- [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
-- [Print Colored Text in Terminal](print-colored-text-in-terminal)
 ```
 
 ## JavaScript
@@ -5167,6 +5168,29 @@ site:
 - [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
 - [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
 - [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
+```
+
+## GUI
+```{dropdown} Click to expand/collapse 19 links
+- [Navigate GUI Applications Without Mouse in Linux](navigate-gui-applications-without-mouse-in-linux)
+- [Use Qt in Python](use-qt-in-python)
+- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
+- [GUI-based Mind Mapping Tools](gui-based-mind-mapping-tools)
+- [Use Tkinter to Build GUI Applications in Python](use-tkinter-to-build-gui-applications-in-python)
+- [Develop GUI Applications Using Kotlin](develop-gui-applications-using-kotlin)
+- [The Label Widget in Tkinter](the-label-widget-in-tkinter)
+- [The Checkbutton Widget in Tkinter](the-checkbutton-widget-in-tkinter)
+- [Tips on Fbs](tips-on-fbs)
+- [Develop a GUI Application in Rust](develop-a-gui-application-in-rust)
+- [GUI Automation Tools in Python](gui-automation-tools-in-python)
+- [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
+- [Tips on Electron](tips-on-electron)
+- [Tips on Dioxus](tips-on-dioxus)
+- [Shortcuts in macOS](shortcuts-in-macos)
+- [Tips on PyQt5](tips-on-pyqt5)
+- [Python for Desktop Applications](python-for-desktop-applications)
+- [GUI Frameworks for Java](gui-frameworks-for-java)
+- [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
 ```
 
 ## memory
@@ -5281,28 +5305,6 @@ site:
 - [Fine-Tune LLM](fine-tune-llm)
 - [Tips on NotebookLM](tips-on-notebooklm)
 - [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
-```
-
-## GUI
-```{dropdown} Click to expand/collapse 18 links
-- [Use Qt in Python](use-qt-in-python)
-- [The Entry Widget in Tkinter](the-entry-widget-in-tkinter)
-- [GUI-based Mind Mapping Tools](gui-based-mind-mapping-tools)
-- [Use Tkinter to Build GUI Applications in Python](use-tkinter-to-build-gui-applications-in-python)
-- [Develop GUI Applications Using Kotlin](develop-gui-applications-using-kotlin)
-- [The Label Widget in Tkinter](the-label-widget-in-tkinter)
-- [The Checkbutton Widget in Tkinter](the-checkbutton-widget-in-tkinter)
-- [Tips on Fbs](tips-on-fbs)
-- [Develop a GUI Application in Rust](develop-a-gui-application-in-rust)
-- [GUI Automation Tools in Python](gui-automation-tools-in-python)
-- [Use Tauri to Build a Desktop Application](use-tauri-to-build-a-desktop-application)
-- [Tips on Electron](tips-on-electron)
-- [Tips on Dioxus](tips-on-dioxus)
-- [Shortcuts in macOS](shortcuts-in-macos)
-- [Tips on PyQt5](tips-on-pyqt5)
-- [Python for Desktop Applications](python-for-desktop-applications)
-- [GUI Frameworks for Java](gui-frameworks-for-java)
-- [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
 ```
 
 ## GPU
@@ -5701,6 +5703,24 @@ site:
 - [How Many Empty Boxes?](how-many-empty-boxes)
 ```
 
+## application
+```{dropdown} Click to expand/collapse 14 links
+- [Navigate GUI Applications Without Mouse in Linux](navigate-gui-applications-without-mouse-in-linux)
+- [The Absolutely Best App for Taking Notes](the-absolutely-best-app-for-taking-notes)
+- [Remove System Applications in macOS](remove-system-applications-in-macos)
+- [Use Streamlit to Build a Web App Quickly Using Python](use-streamlit-to-build-a-web-app-quickly-using-python)
+- [Develop a GUI Application in Rust](develop-a-gui-application-in-rust)
+- [App Platforms](app-platforms)
+- [Great Apps Developed in Rust](great-apps-developed-in-rust)
+- [Tips on WezTerm](tips-on-wezterm)
+- [Useful Rust Crates for Developing Command Line Apps](useful-rust-crates-for-developing-command-line-apps)
+- [Manage AppImages on Linux](manage-appimages-on-linux)
+- [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
+- [Useful Tools in Linux](useful-tools-in-linux)
+- [Manage Autostart Applications](manage-autostart-applications)
+- [Make Your Life Easier with Portable Applications](make-your-life-easier-with-portable-applications)
+```
+
 ## list
 ```{dropdown} Click to expand/collapse 14 links
 - [Collections in Kotlin](collections-in-kotlin)
@@ -5753,24 +5773,6 @@ site:
 - [Deleting Docker Image Tags on DockerHub using the Python Module requests](deleting-docker-image-tags-on-dockerhub-using-the-python-module-requests)
 - [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
-```
-
-## Vim
-```{dropdown} Click to expand/collapse 14 links
-- [The Escape Key in Vim](the-escape-key-in-vim)
-- [Vim as a Universal Editor](vim-as-a-universal-editor)
-- [Typing Chinese in Vim](typing-chinese-in-vim)
-- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
-- [Tips on AstroNvim](tips-on-astronvim)
-- [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
-- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
-- [Vim Keybindings Using IdeaVim in IntelliJ IDEA](vim-keybindings-using-ideavim-in-intellij-idea)
-- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
-- [Tips on Vim](tips-on-vim)
-- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
-- [Selectively Disable Vimperator on Webpages](selectively-disable-vimperator-on-webpages)
-- [Interact with System Clipboard in Vim](interact-with-system-clipboard-in-vim)
-- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
 ```
 
 ## VSCode
@@ -5980,6 +5982,23 @@ site:
 - [My List of Python Modules](my-list-of-python-modules)
 ```
 
+## Vim
+```{dropdown} Click to expand/collapse 13 links
+- [The Escape Key in Vim](the-escape-key-in-vim)
+- [Vim as a Universal Editor](vim-as-a-universal-editor)
+- [Typing Chinese in Vim](typing-chinese-in-vim)
+- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
+- [Tips on AstroNvim](tips-on-astronvim)
+- [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
+- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
+- [Vim Keybindings Using IdeaVim in IntelliJ IDEA](vim-keybindings-using-ideavim-in-intellij-idea)
+- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
+- [Tips on Vim](tips-on-vim)
+- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
+- [Interact with System Clipboard in Vim](interact-with-system-clipboard-in-vim)
+- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
+```
+
 ## SSH
 ```{dropdown} Click to expand/collapse 13 links
 - [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
@@ -5997,23 +6016,6 @@ site:
 - [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
 ```
 
-## application
-```{dropdown} Click to expand/collapse 13 links
-- [The Absolutely Best App for Taking Notes](the-absolutely-best-app-for-taking-notes)
-- [Remove System Applications in macOS](remove-system-applications-in-macos)
-- [Use Streamlit to Build a Web App Quickly Using Python](use-streamlit-to-build-a-web-app-quickly-using-python)
-- [Develop a GUI Application in Rust](develop-a-gui-application-in-rust)
-- [App Platforms](app-platforms)
-- [Great Apps Developed in Rust](great-apps-developed-in-rust)
-- [Tips on WezTerm](tips-on-wezterm)
-- [Useful Rust Crates for Developing Command Line Apps](useful-rust-crates-for-developing-command-line-apps)
-- [Manage AppImages on Linux](manage-appimages-on-linux)
-- [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
-- [Useful Tools in Linux](useful-tools-in-linux)
-- [Manage Autostart Applications](manage-autostart-applications)
-- [Make Your Life Easier with Portable Applications](make-your-life-easier-with-portable-applications)
-```
-
 ## static
 ```{dropdown} Click to expand/collapse 13 links
 - [Implement a Singleton in Rust](implement-a-singleton-in-rust)
@@ -6029,6 +6031,22 @@ site:
 - [Object Oriented Programming in Java](object-oriented-programming-in-java)
 - [Define Variables in Rust](define-variables-in-rust)
 - [Const and Static Variables in C++](const-and-static-variables-in-c++)
+```
+
+## app
+```{dropdown} Click to expand/collapse 12 links
+- [Navigate GUI Applications Without Mouse in Linux](navigate-gui-applications-without-mouse-in-linux)
+- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
+- [Use Streamlit to Build a Web App Quickly Using Python](use-streamlit-to-build-a-web-app-quickly-using-python)
+- [App Platforms](app-platforms)
+- [GitHub Apps and Bot Accounts](github-apps-and-bot-accounts)
+- [Great Apps Developed in Rust](great-apps-developed-in-rust)
+- [Tips on Shuttle for Deploying Rust Apps](tips-on-shuttle-for-deploying-rust-apps)
+- [Tips on WezTerm](tips-on-wezterm)
+- [Useful Rust Crates for Developing Command Line Apps](useful-rust-crates-for-developing-command-line-apps)
+- [Ghostty Is a Decent Terminal App](ghostty-is-a-decent-terminal-app)
+- [Apps for Contacts](apps-for-contacts)
+- [Test Internet Speed](test-internet-speed)
 ```
 
 ## repository
@@ -6311,21 +6329,6 @@ site:
 - [Tips on Car Maintenance](tips-on-car-maintenance)
 ```
 
-## app
-```{dropdown} Click to expand/collapse 11 links
-- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
-- [Use Streamlit to Build a Web App Quickly Using Python](use-streamlit-to-build-a-web-app-quickly-using-python)
-- [App Platforms](app-platforms)
-- [GitHub Apps and Bot Accounts](github-apps-and-bot-accounts)
-- [Great Apps Developed in Rust](great-apps-developed-in-rust)
-- [Tips on Shuttle for Deploying Rust Apps](tips-on-shuttle-for-deploying-rust-apps)
-- [Tips on WezTerm](tips-on-wezterm)
-- [Useful Rust Crates for Developing Command Line Apps](useful-rust-crates-for-developing-command-line-apps)
-- [Ghostty Is a Decent Terminal App](ghostty-is-a-decent-terminal-app)
-- [Apps for Contacts](apps-for-contacts)
-- [Test Internet Speed](test-internet-speed)
-```
-
 ## math
 ```{dropdown} Click to expand/collapse 11 links
 - [The Sum and Product Puzzle](the-sum-and-product-puzzle)
@@ -6545,10 +6548,10 @@ site:
 - [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
 - [Incognito Mode for Browsers](incognito-mode-for-browsers)
 - [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 - [Tips on the Dia Browser](tips-on-the-dia-browser)
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 - [Run UserScripts in Browsers](run-userscripts-in-browsers)
-- [Selectively Disable Vimperator on Webpages](selectively-disable-vimperator-on-webpages)
 ```
 
 ## desktop
@@ -7022,18 +7025,6 @@ site:
 - [Erase Elements of a Container Using Iterator in C++](erase-elements-of-a-container-using-iterator-in-c++)
 ```
 
-## Firefox
-```{dropdown} Click to expand/collapse 8 links
-- [Tips on Firefox](tips-on-firefox)
-- [Use External Downloader for Firefox](use-external-downloader-for-firefox)
-- [Vim Keybindings in Firefox Using Tridactyl](vim-keybindings-in-firefox-using-tridactyl)
-- [Block JavaScript in Browsers Using NoScript](block-javascript-in-browsers-using-noscript)
-- [Selectively Disable Vimperator on Webpages](selectively-disable-vimperator-on-webpages)
-- [Useful Firefox Add-ons](useful-firefox-add-ons)
-- [Resolve the DNS Contamination Issue in Firefox](resolve-the-dns-contamination-issue-in-firefox)
-- [Install Firefox in Debian](install-firefox-in-debian)
-```
-
 ## TOML
 ```{dropdown} Click to expand/collapse 7 links
 - [Tips on TOML](tips-on-toml)
@@ -7373,6 +7364,17 @@ site:
 - [Debug C/C++ Code Using GDB](debug-c-c++-code-using-gdb)
 - [Common Mistakes in C++ Code and Ways to Debug](common-mistakes-in-c++-code-and-ways-to-debug)
 - [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
+```
+
+## Firefox
+```{dropdown} Click to expand/collapse 7 links
+- [Tips on Firefox](tips-on-firefox)
+- [Use External Downloader for Firefox](use-external-downloader-for-firefox)
+- [Vim Keybindings in Firefox Using Tridactyl](vim-keybindings-in-firefox-using-tridactyl)
+- [Block JavaScript in Browsers Using NoScript](block-javascript-in-browsers-using-noscript)
+- [Useful Firefox Add-ons](useful-firefox-add-ons)
+- [Resolve the DNS Contamination Issue in Firefox](resolve-the-dns-contamination-issue-in-firefox)
+- [Install Firefox in Debian](install-firefox-in-debian)
 ```
 
 ## China
