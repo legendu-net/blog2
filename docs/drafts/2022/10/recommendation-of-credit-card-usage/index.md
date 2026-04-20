@@ -45,18 +45,18 @@ tags:
 ```{list-table}
 ---
 header-rows: 1
+align: center
 ---
 - - Category
   - Coupon/Credit
-  - >=10%
-  - >=5%
-  - >=4%
-  - >=3.5%
-  - >=3%
-  - >=2.5%
-  - >=2%
-  - >=1.5%
-  - 1%
+  - `>=10%`
+  - `>=5%`
+  - `>=4%`
+  - `>=3.5%`
+  - `>=3%`
+  - `>=2.5%`
+  - `>=2%`
+  - `>=1.5%`
 - - Costco
   - 
   - 
@@ -67,18 +67,16 @@ header-rows: 1
   - <span style="color:green">BOA-M</span>
   - <span style="color:green">Citi-C</span>
   - 
-  - 
 - - Amazon
   - 
   - 
-  - <span style="color:green">ASC </span>[^3]
+  - <span style="color:green">ASC </span>[^asc]
   - 
   - 
   - <span style="color:red">BOA-V</span> <br> <span style="color:green">RGC</span>
   - 
   - 
   - <span style="color:green">BOA-V</span>
-  - 
 - - Other <br> Online <br> Shopping
   - 
   - 
@@ -89,7 +87,6 @@ header-rows: 1
   - 
   - 
   - <span style="color:green">BOA-V</span>
-  - 
 - - Restaurant
   - 
   - 
@@ -97,7 +94,6 @@ header-rows: 1
   - <span style="color:green">VVC</span>
   - 
   - <span style="color:green">Citi-C</span> <br> <span style="color:green">RGC</span>
-  - 
   - 
   - 
   - 
@@ -111,16 +107,14 @@ header-rows: 1
   - 
   - 
   - 
-  - 
 - - Other <br> Grocery
   - 
   - 
   - 
   - <span style="color:green">VVC</span>
   - 
-  - <span style="color:green">Sapphire</span>[^6] <span style="color:green">RGC</span>
+  - <span style="color:green">Sapphire</span>[^sapphire_online] <span style="color:green">RGC</span>
   - <span style="color:green">BOA-M</span>
-  - 
   - 
   - 
 - - Macys
@@ -130,7 +124,6 @@ header-rows: 1
   - 
   - 
   - <span style="color:green">RGC</span>
-  - 
   - 
   - 
   - 
@@ -144,7 +137,6 @@ header-rows: 1
   - 
   - 
   - 
-  - 
 - - Airline <br> check-in <br> bag
   - <span style="color:green">BOA-V</span>: &nbsp; $100/yr
   - 
@@ -155,48 +147,43 @@ header-rows: 1
   - 
   - 
   - 
-  - 
 - - Flight
   - 
   - 
-  - <span style="color:green">Sapphire</span>[^5]
+  - <span style="color:green">Sapphire</span>[^sapphire_travel]
   - 
   - 
   - <span style="color:green">RGC</span>
   - <span style="color:green">BOA-V</span>
-  - 
   - 
   - 
 - - Travel
   - 
   - 
-  - <span style="color:green">Sapphire</span>[^5] <span style="color:green">RGC </span>[^4]
+  - <span style="color:green">Sapphire</span>[^sapphire_travel] <span style="color:green">RGC </span>[^rgc]
   - 
   - 
-  - <span style="color:green">RGC</span> <br> <span style="color:green">Citi-C </span>[^2]
+  - <span style="color:green">RGC</span> <br> <span style="color:green">Citi-C </span>[^citi_c]
   - <span style="color:green">BOA-V</span>
   - 
   - 
-  - 
 - - Hotel
-  - <span style="color:red">IHG</span> <span style="color:green">Sapphire</span>[^7]
+  - <span style="color:red">IHG</span> <span style="color:green">Sapphire</span>[^sapphire_hotel]
   - 
-  - <span style="color:green">Sapphire</span>[^5]
+  - <span style="color:green">Sapphire</span>[^sapphire_travel]
   - 
   - 
   - <span style="color:green">RGC</span>
-  - 
   - 
   - 
   - 
 - - Car <br> Rental
-  - <span style="color:green">Sapphire</span>[^8]
+  - <span style="color:green">Sapphire</span>[^sapphire_insurance]
   - 
   - 
   - 
   - 
   - <span style="color:green">RGC</span>
-  - 
   - 
   - 
   - 
@@ -210,7 +197,6 @@ header-rows: 1
   - 
   - 
   - 
-  - 
 - - Home <br> Improvement <br> & Furnishings
   - 
   - 
@@ -218,7 +204,6 @@ header-rows: 1
   - 
   - <span style="color:green">BOA-M</span>
   - <span style="color:green">RGC</span>
-  - 
   - 
   - 
   - 
@@ -232,7 +217,6 @@ header-rows: 1
   - 
   - 
   - 
-  - 
 - - EV Charging
   - 
   - 
@@ -243,7 +227,6 @@ header-rows: 1
   - <span style="color:green"></span>
   - <span style="color:green"></span>
   - <span style="color:green"></span>
-  - 
 - - Verizon Purchases
   - 
   - 
@@ -254,9 +237,8 @@ header-rows: 1
   - <span style="color:green"></span>
   - <span style="color:green"></span>
   - <span style="color:green"></span>
-  - 
 - - REI
-  - <span style="color:green">REIC1 </span>[^1]
+  - <span style="color:green">REIC1 </span>[^reic1]
   - 
   - 
   - 
@@ -264,7 +246,6 @@ header-rows: 1
   - <span style="color:green">RGC</span>
   - 
   - <span style="color:green">BOA-V</span>
-  - 
   - 
 - - Other
   - 
@@ -290,24 +271,24 @@ header-rows: 1
 - Verizon Visa Card
 - Costco Anywhere Visa Card
 
-[^3]: Amazon Prime membership is required to enjoy the discount.
+[^asc]: Amazon Prime membership is required to enjoy the discount.
 
-[^6]: For online grocery purchases excluding Walmart, Target and wholesale clubs.
+[^sapphire_online]: For online grocery purchases excluding Walmart, Target and wholesale clubs.
 
-[^5]: For purchases through Chase Travel.
+[^sapphire_travel]: For purchases through Chase Travel.
     And points are worth 25% more when redeemed for travel through Chase Travel.
 
-[^4]: Robinhood Gold Card gives you 5% cash back
+[^rgc]: Robinhood Gold Card gives you 5% cash back
     when you book travel through the all-new Robinhood travel portal.
     For more details,
     please refer to
     [Robinhood Gold Card waitlist](https://robinhood.com/us/en/support/articles/robinhood-gold-card-waitlist/)
     .
 
-[^2]: On eligible travel purchases only
+[^citi_c]: On eligible travel purchases only
 
-[^7]: Earn up to \$50 in statement credits each account anniversary year for hotel stays purchased through Chase Travel.
+[^sapphire_hotel]: Earn up to \$50 in statement credits each account anniversary year for hotel stays purchased through Chase Travel.
 
-[^8]: The card comes with trip cancellation and interruption insurance, lost luggage reimbursement, auto rental coverage, etc.
+[^sapphire_insurance]: The card comes with trip cancellation and interruption insurance, lost luggage reimbursement, auto rental coverage, etc.
 
-[^1]: 5% (credit card) + 10% (member rewards)
+[^reic1]: 5% (credit card) + 10% (member rewards)
