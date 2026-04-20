@@ -1,7 +1,7 @@
 ---
 title: Tips on Neovim
 created: 2022-10-16 19:54:05
-date: 2026-04-18 00:37:03.788073
+date: 2026-04-20 08:53:34.514431
 authors:
   - bendu
 label: tips-on-neovim
@@ -52,7 +52,7 @@ Use Homebrew of AppImage instead if you want a newer version of Neovim.
    you can use the following command to edit a large file without loading plugins.
 
    ```bash
-    nvim --noplugin /path/to/large/text/file
+   nvim --noplugin /path/to/large/text/file
    ```
 
 ## Manage Language Servers

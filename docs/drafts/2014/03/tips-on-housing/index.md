@@ -1,7 +1,7 @@
 ---
 title: Tips on Housing
 created: 2014-03-22 14:23:43
-date: 2026-04-19 14:49:12.971576
+date: 2026-04-20 08:53:08.788110
 authors:
   - bendu
 label: tips-on-housing
@@ -19,7 +19,7 @@ tags:
 
 ## Good Sources of Learning
 
-https://www.youtube.com/@richard0501
+[YouTube - 李文勍Richard](https://www.youtube.com/@richard0501)
 
 ## [Buying a House](https://www.legendu.net/misc/blog/tips-on-buying-a-house)
 

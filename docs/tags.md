@@ -6,6 +6,7 @@ site:
 
 ## programming
 ```{dropdown} Click to expand/collapse 1033 links
+- [Manage Python Projects Using uv](manage-python-projects-using-uv)
 - [Tips on Claude](tips-on-claude)
 - [Tips on Neovim](tips-on-neovim)
 - [AI Tools from China](ai-tools-from-china)
@@ -575,7 +576,6 @@ site:
 - [Tips on the Zed IDE](tips-on-the-zed-ide)
 - [The fzf Command Is a Great Alternative to find](the-fzf-command-is-a-great-alternative-to-find)
 - [Set Up Nix for Python Development](set-up-nix-for-python-development)
-- [Manage Python Projects Using uv](manage-python-projects-using-uv)
 - [Tips on Terraform](tips-on-terraform)
 - [Tips on NotebookLM](tips-on-notebooklm)
 - [Tips on Gemini](tips-on-gemini)
@@ -1043,6 +1043,7 @@ site:
 
 ## computer science
 ```{dropdown} Click to expand/collapse 752 links
+- [Manage Python Projects Using uv](manage-python-projects-using-uv)
 - [Tips on Neovim](tips-on-neovim)
 - [AI Tools from China](ai-tools-from-china)
 - [Tips on Web Browsers](tips-on-web-browsers)
@@ -1712,7 +1713,6 @@ site:
 - [Tips on the Zed IDE](tips-on-the-zed-ide)
 - [The fzf Command Is a Great Alternative to find](the-fzf-command-is-a-great-alternative-to-find)
 - [Set Up Nix for Python Development](set-up-nix-for-python-development)
-- [Manage Python Projects Using uv](manage-python-projects-using-uv)
 - [Tips on the Dia Browser](tips-on-the-dia-browser)
 - [Tips on Terraform](tips-on-terraform)
 - [Tips on NotebookLM](tips-on-notebooklm)
@@ -1799,6 +1799,7 @@ site:
 
 ## Python
 ```{dropdown} Click to expand/collapse 355 links
+- [Manage Python Projects Using uv](manage-python-projects-using-uv)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
 - [Hands on the Python module dask](hands-on-the-python-module-dask)
 - [Aggregation in pandas DataFrame](aggregation-in-pandas-dataframe)
@@ -1969,7 +1970,6 @@ site:
 - [Ruff Is An Extremely Fast Python Linter Written in Rust](ruff-is-an-extremely-fast-python-linter-written-in-rust)
 - [Tips on the Mojo Programming Language](tips-on-the-mojo-programming-language)
 - [Set Up Nix for Python Development](set-up-nix-for-python-development)
-- [Manage Python Projects Using uv](manage-python-projects-using-uv)
 - [ty Is a New Modern Static Type Checking and Language Server for Python](ty-is-a-new-modern-static-type-checking-and-language-server-for-python)
 - [Tips on Pyrefly](tips-on-pyrefly)
 - [Extracting PDF Pages Using the Python Package PyPDF](extracting-pdf-pages-using-the-python-package-pypdf)
@@ -3319,8 +3319,8 @@ site:
 
 ## life
 ```{dropdown} Click to expand/collapse 92 links
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
 - [Tips on Housing](tips-on-housing)
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
 - [Tips on Buying a House](tips-on-buying-a-house)
 - [Shopping At Homedepot](shopping-at-homedepot)
 - [Shopping Smartly](shopping-smartly)
@@ -6751,8 +6751,8 @@ site:
 
 ## shopping
 ```{dropdown} Click to expand/collapse 8 links
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
 - [Tips on Housing](tips-on-housing)
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
 - [Shopping At Homedepot](shopping-at-homedepot)
 - [Shopping Smartly](shopping-smartly)
 - [Shopping on Costco](shopping-on-costco)
@@ -7047,6 +7047,17 @@ site:
 - [Commonly Used File Formats for Configuration](commonly-used-file-formats-for-configuration)
 ```
 
+## dependency
+```{dropdown} Click to expand/collapse 7 links
+- [Manage Python Projects Using uv](manage-python-projects-using-uv)
+- [Packaging Python Dependencies for PySpark Using Pex](packaging-python-dependencies-for-pyspark-using-pex)
+- [Find Unused Rust Dependencies Using cargo-udeps](find-unused-rust-dependencies-using-cargo-udeps)
+- [Tips on pex](tips-on-pex)
+- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
+- [Get the Dependencies of a Python Package Without Installing It](get-the-dependencies-of-a-python-package-without-installing-it)
+- [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
+```
+
 ## resource
 ```{dropdown} Click to expand/collapse 7 links
 - [Learning Resources](learning-resources)
@@ -7210,17 +7221,6 @@ site:
 - [Some Terminologies in Anti-money Laundering (AML)](some-terminologies-in-anti-money-laundering-aml)
 - [Tips on Career](tips-on-career)
 - [Culture of My Summer Intern Team](culture-of-my-summer-intern-team)
-```
-
-## dependency
-```{dropdown} Click to expand/collapse 7 links
-- [Packaging Python Dependencies for PySpark Using Pex](packaging-python-dependencies-for-pyspark-using-pex)
-- [Find Unused Rust Dependencies Using cargo-udeps](find-unused-rust-dependencies-using-cargo-udeps)
-- [Tips on pex](tips-on-pex)
-- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
-- [Get the Dependencies of a Python Package Without Installing It](get-the-dependencies-of-a-python-package-without-installing-it)
-- [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
-- [Manage Python Projects Using uv](manage-python-projects-using-uv)
 ```
 
 ## IoT
@@ -8429,6 +8429,14 @@ site:
 - [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
 ```
 
+## management
+```{dropdown} Click to expand/collapse 4 links
+- [Manage Python Projects Using uv](manage-python-projects-using-uv)
+- [Manage Docker Images and Containers](manage-docker-images-and-containers)
+- [GitHub Alternatives](github-alternatives)
+- [Package Management for Debian and Ubuntu](package-management-for-debian-and-ubuntu)
+```
+
 ## PPA
 ```{dropdown} Click to expand/collapse 4 links
 - [Tips on Neovim](tips-on-neovim)
@@ -8899,14 +8907,6 @@ site:
 - [Hands on dict in Python](hands-on-dict-in-python)
 - [Map Keys in Linux](map-keys-in-linux)
 - [Map Keys in Windows](map-keys-in-windows)
-```
-
-## management
-```{dropdown} Click to expand/collapse 4 links
-- [Manage Docker Images and Containers](manage-docker-images-and-containers)
-- [GitHub Alternatives](github-alternatives)
-- [Manage Python Projects Using uv](manage-python-projects-using-uv)
-- [Package Management for Debian and Ubuntu](package-management-for-debian-and-ubuntu)
 ```
 
 ## mount
@@ -10510,12 +10510,6 @@ site:
 - [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
 ```
 
-## discount
-```{dropdown} Click to expand/collapse 2 links
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Get Deals for Traveling](get-deals-for-traveling)
-```
-
 ## housing
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Housing](tips-on-housing)
@@ -10534,6 +10528,12 @@ site:
 - [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
 ```
 
+## discount
+```{dropdown} Click to expand/collapse 2 links
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Get Deals for Traveling](get-deals-for-traveling)
+```
+
 ## browsing
 ```{dropdown} Click to expand/collapse 2 links
 - [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
@@ -10550,6 +10550,18 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Buying a House](tips-on-buying-a-house)
 - [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
+```
+
+## uv
+```{dropdown} Click to expand/collapse 2 links
+- [Manage Python Projects Using uv](manage-python-projects-using-uv)
+- [Install Python in macOS](install-python-in-macos)
+```
+
+## project
+```{dropdown} Click to expand/collapse 2 links
+- [Manage Python Projects Using uv](manage-python-projects-using-uv)
+- [Tips on Project Management](tips-on-project-management)
 ```
 
 ## translate
@@ -12776,18 +12788,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Dioxus](tips-on-dioxus)
 - [Tips on Web Development](tips-on-web-development)
-```
-
-## uv
-```{dropdown} Click to expand/collapse 2 links
-- [Manage Python Projects Using uv](manage-python-projects-using-uv)
-- [Install Python in macOS](install-python-in-macos)
-```
-
-## project
-```{dropdown} Click to expand/collapse 2 links
-- [Manage Python Projects Using uv](manage-python-projects-using-uv)
-- [Tips on Project Management](tips-on-project-management)
 ```
 
 ## static type

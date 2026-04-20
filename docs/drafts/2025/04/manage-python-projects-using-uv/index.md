@@ -40,19 +40,19 @@ curl -LsSf https://astral.sh/uv/install.sh | sudo env UV_INSTALL_DIR="/usr/local
 1. Run `python -m http.server` to start a simple http server.
 
    ```
-    uvx python -m http.server
+   uvx python -m http.server
    ```
 
 1. Run the ruff tool.
 
    ```
-    uvx ruff -h
+   uvx ruff -h
    ```
 
 1. Run `snb` from the aiutil package.
 
    ```
-    uvx --from aiutil snb -h
+   uvx --from aiutil snb -h
    ```
 
 ### Ad-hoc Python Shell & Scripts
@@ -62,19 +62,19 @@ curl -LsSf https://astral.sh/uv/install.sh | sudo env UV_INSTALL_DIR="/usr/local
    ) using the following command.
 
    ```
-    uv run --python 3.13 --with dockeree --with aiutil python
+   uv run --python 3.13 --with dockeree --with aiutil python
    ```
 
 1. Similar to the above but start an IPython shell instead.
 
    ```
-    uv run --python 3.13 --with dockeree --with aiutil --with IPython python -m IPython
+   uv run --python 3.13 --with dockeree --with aiutil --with IPython python -m IPython
    ```
 
 1. Initialize a uv managed Python script.
 
    ```
-    uv init --python 3.14 --script example.py 
+   uv init --python 3.14 --script example.py 
    ```
 
    Notice that if the script `example.py` already exists,
@@ -84,20 +84,20 @@ curl -LsSf https://astral.sh/uv/install.sh | sudo env UV_INSTALL_DIR="/usr/local
    using the following command.
 
    ```
-    uv add --script example.py 'requests<3' 'rich'
+   uv add --script example.py 'requests<3' 'rich'
    ```
 
 1. You can run a uv managed Python script using
 
    ```
-    uv run /path/to/uv_managed_script.py
+   uv run /path/to/uv_managed_script.py
    ```
 
    or
 
    ```
-    # preferred
-    uv run --script /path/to/uv_managed_script.py
+   # preferred
+   uv run --script /path/to/uv_managed_script.py
    ```
 
    Those 2 commands will automatically resolve and install dependencies specified in the script.
@@ -112,7 +112,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sudo env UV_INSTALL_DIR="/usr/local
    This can be done using the command below.
 
    ```
-    uv run python -P /path/to/uv_managed_script.py
+   uv run python -P /path/to/uv_managed_script.py
    ```
 
    However,
@@ -126,7 +126,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sudo env UV_INSTALL_DIR="/usr/local
    you can use the following command (though it's verbose).
 
    ```
-    uv run python -P /path/to/uv_managed_script.py --with-requirements uv_managed_script.py
+   uv run python -P /path/to/uv_managed_script.py --with-requirements uv_managed_script.py
    ```
 
 ### Manage Projects
@@ -134,62 +134,62 @@ curl -LsSf https://astral.sh/uv/install.sh | sudo env UV_INSTALL_DIR="/usr/local
 1. Migrate from other Python projects to uv.
 
    ```
-    uvx migrate-to-uv
+   uvx migrate-to-uv
    ```
 
 1. Initialize a new uv project with the given name.
 
    ```
-    uv init --package new_project_name
+   uv init --package new_project_name
    ```
 
 1. Initialize the current project as a uv project.
 
    ```
-    uv init --package
+   uv init --package
    ```
 
 1. Update the lock file (changing as little as possible).
 
    ```
-    uv lock
+   uv lock
    ```
 
 1. Update the lock file ensuring that dependencies are the newest version allowed by the spec.
 
    ```
-    uv lock --upgrade
+   uv lock --upgrade
    ```
 
 1. Create a virtual environment if one doesn't already exist
    and install all dependencies.
 
    ```
-    uv sync
+   uv sync
    ```
 
    Install all dependencies including optional ones.
 
    ```
-    uv sync --all-extras
+   uv sync --all-extras
    ```
 
    Install all dependencies but not the current project.
 
    ```
-    uv sync --no-install-project
+   uv sync --no-install-project
    ```
 
 1. Build the project.
 
    ```
-    uv build
+   uv build
    ```
 
 1. Publish the project.
 
    ```
-    uv publish
+   uv publish
    ```
 
 ## References
