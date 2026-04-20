@@ -44,7 +44,9 @@ for more discussions.
 3. Click the "Save changes" button at the bottom-left corn.
 
 ## Alternatives
+
 - [Navigate GUI Applications Without Mouse in Linux](navigate-gui-applications-without-mouse-in-linux)
+
 - [Anything better than SurfingKeys?](https://www.reddit.com/r/vim/comments/qbo35r/anything_better_than_surfingkeys/)
 
 - [Surfingkeys @ GitHub](https://github.com/brookhong/Surfingkeys)

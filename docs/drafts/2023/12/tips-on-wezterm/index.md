@@ -53,24 +53,18 @@ wezterm imgcat /path/to/image
 
 ## Shortcuts
 
-<table>
-    <tr>
-        <th>Shortcut</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td>Fn + F</td>
-        <td>Enter/exit full screen</td>
-    </tr>
-    <tr>
-        <td>Shift + Ctrl + C</td>
-        <td>Copy</td>
-    </tr>
-    <tr>
-        <td>Shift + Ctrl + V</td>
-        <td>Paste</td>
-    </tr>
-</table>
+```{list-table}
+:header-rows: 1
+
+- - Shortcut
+  - Description
+- - Fn + F
+  - Enter/exit full screen
+- - Shift + Ctrl + C
+  - Copy
+- - Shift + Ctrl + V
+  - Paste
+```
 
 ## Configuration
 

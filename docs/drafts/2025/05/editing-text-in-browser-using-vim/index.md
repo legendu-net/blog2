@@ -17,56 +17,54 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-<table>
-    <caption>Firenvim Alternatives Summary</caption>
-    <thead>
-        <tr>
-            <th>Tool</th>
-            <th>How it Works</th>
-            <th>Pros</th>
-            <th>Cons</th>
-            <th>Best For...</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><strong>Firenvim</strong></td>
-            <td>Embeds a real Neovim instance</td>
-            <td>Full power of Neovim, embedded directly in the page.</td>
-            <td>Can be complex to set up, slightly higher resource usage.</td>
-            <td>Users who want a no-compromise, embedded Neovim experience.</td>
-        </tr>
-        <tr>
-            <td><strong>GhostText</strong></td>
-            <td>External Editor (Real-time sync)</td>
-            <td><strong>Your full Neovim config</strong>, real-time sync, multi-editor support.</td>
-            <td>Not embedded; requires a separate terminal window.</td>
-            <td>Users who prioritize the full power of their config over an embedded feel.</td>
-        </tr>
-        <tr>
-            <td><strong>Textern</strong></td>
-            <td>External Editor (Save & Close)</td>
-            <td><strong>Your full Neovim config</strong>, simple and robust.</td>
-            <td>Sync is not real-time, feels less integrated.</td>
-            <td>Firefox users or those wanting a simple "edit in external app" button.</td>
-        </tr>
-        <tr>
-            <td><strong>Wasavi</strong></td>
-            <td>JS-based Vim Emulator</td>
-            <td>Excellent vi/Vim emulation, self-contained, no setup.</td>
-            <td><strong>No access to your Neovim config/plugins.</strong></td>
-            <td>Users who want a powerful Vim editing experience without needing their specific plugins.</td>
-        </tr>
-        <tr>
-            <td><strong>Vimium-C / Tridactyl / Surfingkeys</strong></td>
-            <td>Navigation with basic editing</td>
-            <td>All-in-one navigation and simple editing, very lightweight.</td>
-            <td>Editing capabilities are very limited.</td>
-            <td>Users whose primary goal is browser navigation, with text editing as a nice bonus.</td>
-        </tr>
-    </tbody>
-</table>
+```{list-table} Firenvim Alternatives Summary
+:header-rows: 1
+
+- - Tool
+  - How it Works
+  - Pros
+  - Cons
+  - Best For...
+  - Development
+- - [withExEditor](https://github.com/asamuzaK/withExEditor)
+  - 
+  - 
+  - Firefox only. 
+  - 
+  - Active 
+- - [Firenvim](https://github.com/glacambre/firenvim)
+  - Embeds a real Neovim instance
+  - Full power of Neovim, embedded directly in the page.
+  - Can be complex to set up, slightly higher resource usage.
+  - Users who want a no-compromise, embedded Neovim experience.
+  - Slow
+- - [GhostText](https://github.com/fregante/GhostText)
+  - External Editor (Real-time sync)
+  - **Your full Neovim config**, real-time sync, multi-editor support.
+  - Not embedded; requires a separate terminal window.
+  - Users who prioritize the full power of their config over an embedded feel.
+  - Inactive
+- - [Textern](https://github.com/jlebon/textern)
+  - External Editor (Save & Close)
+  - **Your full Neovim config**, simple and robust.
+  - Sync is not real-time, feels less integrated.
+  - Firefox users or those wanting a simple "edit in external app" button.
+  - Inactive
+- - [Wasavi](https://github.com/akahuku/wasavi)
+  - JS-based Vim Emulator
+  - Excellent vi/Vim emulation, self-contained, no setup.
+  - **No access to your Neovim config/plugins.**
+  - Users who want a powerful Vim editing experience without needing their specific plugins.
+  - Dead
+- - **Vimium-C / Tridactyl / Surfingkeys**
+  - Navigation with basic editing
+  - All-in-one navigation and simple editing, very lightweight.
+  - Editing capabilities are very limited.
+  - Users whose primary goal is browser navigation, with text editing as a nice bonus.
+```
 
 ## References
+
+- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
 
 - [Use neovim in Google Chrome / Chromium through Surfingkeys](https://www.youtube.com/watch?v=Sff0fm-d6Vk)

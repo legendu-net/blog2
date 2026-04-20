@@ -80,94 +80,34 @@ Typically defined as a Nix derivation itself. You build it like any other packag
 
 Can be called within a shell.nix or flake.nix to provide an FHS environment as part of a development shell, but it's a distinct layer.
 
-<!DOCTYPE html>
+```{list-table} mkShell vs buildFHSUserEnv Comparison
+:header-rows: 1
 
-<html>
-<head>
-<title>mkShell vs buildFHSUserEnv Comparison</title>
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    border: 1px solid #ccc;
-  }
-  th, td {
-    border: 1px solid #ccc;
-    padding: 8px;
-    text-align: left;
-    vertical-align: top;
-  }
-  th {
-    background-color: #f2f2f2;
-    font-weight: bold;
-  }
-  code {
-    background-color: #e8e8e8;
-    padding: 0.2em 0.4em;
-    border-radius: 3px;
-    font-family: monospace;
-  }
-  thead th {
-    text-align: center;
-  }
-  tbody th {
-     background-color: #f9f9f9;
-  }
-</style>
-</head>
-<body>
-
-<h2>mkShell vs buildFHSUserEnv Comparison</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Feature</th>
-      <th><code>mkShell</code></th>
-      <th><code>buildFHSUserEnv</code></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Primary Goal</th>
-      <td>Development Environment</td>
-      <td>FHS Compatibility / Sandbox</td>
-    </tr>
-    <tr>
-      <th scope="row">Mechanism</th>
-      <td>Environment Variables (<code>PATH</code>, etc.), Hooks</td>
-      <td>User Namespaces, Bind Mounts, Symlinks</td>
-    </tr>
-    <tr>
-      <th scope="row">Filesystem View</th>
-      <td>Standard Nix (<code>/nix/store/...</code>)</td>
-      <td>Simulated FHS (<code>/usr</code>, <code>/lib</code>, etc.) within sandbox</td>
-    </tr>
-    <tr>
-      <th scope="row">Standard Usage</th>
-      <td><code>nix develop</code>, <code>nix-shell</code></td>
-      <td>Run script produced by building the derivation</td>
-    </tr>
-    <tr>
-      <th scope="row">Core Use Case</th>
-      <td>Building/running Nix-aware or portable software</td>
-      <td>Running software hardcoding FHS paths (binaries, games)</td>
-    </tr>
-    <tr>
-      <th scope="row">Complexity</th>
-      <td>Simpler, more idiomatic Nix</td>
-      <td>More complex setup, requires kernel support (namespaces)</td>
-    </tr>
-    <tr>
-      <th scope="row">Overhead</th>
-      <td>Lower (mostly env var setup)</td>
-      <td>Higher (namespace/mount creation)</td>
-    </tr>
-  </tbody>
-</table>
-
-</body>
-</html>
+- - Feature
+  - `mkShell`
+  - `buildFHSUserEnv`
+- - Primary Goal
+  - Development Environment
+  - FHS Compatibility / Sandbox
+- - Mechanism
+  - Environment Variables (`PATH`, etc.), Hooks
+  - User Namespaces, Bind Mounts, Symlinks
+- - Filesystem View
+  - Standard Nix (`/nix/store/...`)
+  - Simulated FHS (`/usr`, `/lib`, etc.) within sandbox
+- - Standard Usage
+  - `nix develop`, `nix-shell`
+  - Run script produced by building the derivation
+- - Core Use Case
+  - Building/running Nix-aware or portable software
+  - Running software hardcoding FHS paths (binaries, games)
+- - Complexity
+  - Simpler, more idiomatic Nix
+  - More complex setup, requires kernel support (namespaces)
+- - Overhead
+  - Lower (mostly env var setup)
+  - Higher (namespace/mount creation)
+```
 
 Analogy:
 

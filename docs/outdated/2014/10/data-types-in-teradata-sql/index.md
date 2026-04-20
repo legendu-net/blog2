@@ -16,13 +16,6 @@ tags:
 
 **Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
 
-**
-Things under legendu.net/outdated are outdated technologies 
-that the author does not plan to update any more. 
-Please look for better alternatives.
-**
-
-
 1. It is important to be aware of type of columns in SQL.
 
 2. You can use `cast` to convert between different data types in Teradata SQL.

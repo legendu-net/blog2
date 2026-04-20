@@ -37,61 +37,29 @@ is a better alternative to `fc`'s core functionality (edit and re-execute comman
    if the (absolute) first bash history command has been pruned (due to large number of history commands).
    `HISTTIMEFORMAT="" history | sed -E 's/^[ ]*[0-9]+[ ]*//'` is a more robust command for the same purpose.
 
-<table>
-    <thead>
-        <tr>
-            <th>Command</th>
-            <th>Action</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><code>fc</code></td>
-            <td>Edit the last shell command using <code>$EDITOR</code> and send it for execution.
-        </tr>
-        <tr>
-            <td><code>fc 123</code></td>
-            <td>Edit and execute command number 123 from history.</td>
-        </tr>
-        <tr>
-            <td><code>fc git</code></td>
-            <td>Edit and execute the last command starting with "git".</td>
-        </tr>
-        <tr>
-            <td><code>fc -l</code></td>
-            <td>
-                List all history commands.
-            </td>
-        </tr>
-        <tr>
-            <td><code>fc -ln</code></td>
-            <td>
-                List all history commands without numbers.
-            </td>
-        </tr>
-        <tr>
-            <td><code>fc -ln 100 110</code></td>
-            <td>
-                List commands from 100 to 110 without numbers.
-            </td>
-        </tr>
-        <tr>
-            <td><code>fc -ln -5</code></td>
-            <td>
-                List the last 5 historical commands without numbers.
-            </td>
-        </tr>
-        <tr>
-            <td><code>fc -s</code></td>
-            <td>Re-execute the last command without editing.</td>
-        </tr>
-        <tr>
-            <td><code>fc -s old=new</code></td>
-            <td>Re-execute the last command, replacing <code>old</code> with <code>new</code>.</td>
-        </tr>
-        <tr>
-            <td><code>fc -s old=new git</code></td>
-            <td>Re-execute the last <code>git</code> command, replacing <code>old</code> with <code>new</code>.</td>
-        </tr>
-    </tbody>
-</table>
+```{list-table}
+:header-rows: 1
+
+- - Command
+  - Action
+- - `fc`
+  - Edit the last shell command using `$EDITOR` and send it for execution.
+- - `fc 123`
+  - Edit and execute command number 123 from history.
+- - `fc git`
+  - Edit and execute the last command starting with "git".
+- - `fc -l`
+  - List all history commands.
+- - `fc -ln`
+  - List all history commands without numbers.
+- - `fc -ln 100 110`
+  - List commands from 100 to 110 without numbers.
+- - `fc -ln -5`
+  - List the last 5 historical commands without numbers.
+- - `fc -s`
+  - Re-execute the last command without editing.
+- - `fc -s old=new`
+  - Re-execute the last command, replacing `old` with `new`.
+- - `fc -s old=new git`
+  - Re-execute the last `git` command, replacing `old` with `new`.
+```

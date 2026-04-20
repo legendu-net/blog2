@@ -42,350 +42,256 @@ tags:
 - Sapphire: Chase Sapphire Credit Card
 - REIC1: REI credit card by Capital One
 
-<table>
-<thead>
-  <tr>
-    <th>Category</th>
-    <th>Coupon/Credit</th>
-    <th>&gt;=10%</th>
-    <th>&gt;=5%</th>
-    <th>&gt;=4%</th>
-    <th>&gt;=3.5%</th>
-    <th>&gt;=3%</th>
-    <th>&gt;=2.5%</th>
-    <th>&gt;=2%</th>
-    <th>&gt;=1.5%</th>
-    <th>1%</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Costco</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td> <span style="color:green">RGC</span> </td>
-    <td> <span style="color:green">BOA-M</span> </td>
-    <td> <span style="color:green">Citi-C</span> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td> Amazon </td>
-    <td></td>
-    <td></td>
-    <td> <span style="color:green"> ASC <sup>[3]</sup> </span> </td>
-    <td> </td>
-    <td></td>
-    <td> 
-      <span style="color:red">BOA-V</span> <br>
-      <span style="color:green">RGC</span> 
-    </td>
-    <td> </td>
-    <td> </td>
-    <td> <span style="color:green">BOA-V</span> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td> Other <br> Online <br> Shopping </td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td> 
-      <span style="color:red">BOA-V</span> <br>
-      <span style="color:green">RGC</span> 
-    </td>
-    <td> </td>
-    <td> </td>
-    <td> <span style="color:green">BOA-V</span> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>Restaurant</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> <span style="color:green"> VVC</span> </td>
-    <td> </td>
-    <td>
-      <span style="color:green">Citi-C</span><br>
-      <span style="color:green">RGC</span><br>
-    </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>Supermarket</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td> 
-      <span style="color:green">RGC</span>
-    </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>Other <br> Grocery</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>
-        <span style="color:green"> VVC</span>
-    </td>
-    <td></td>
-    <td> 
-      <span style="color:green">Sapphire<sup>[6]</sup></span>
-      <span style="color:green">RGC</span>
-    </td>
-    <td>
-      <span style="color:green">BOA-M</span>
-    </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>Macys</td>
-    <td> </td>
-    <td> </td>
-    <td>
-      <span style="color:green">AMEX-M</span><br>
-    </td>
-    <td> </td>
-    <td> </td>
-    <td> 
-      <span style="color:green">RGC</span>
-    </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td> Uber <br> Eats </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td>
-      <span style="color:green">RGC</span><br>
-    </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td> Airline <br> check-in <br> bag </td> 
-    <td>
-      <span style="color:green">BOA-V</span>:&nbsp$100/yr
-    </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> 
-      <span style="color:green">RGC</span>
-    </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>Flight</td>
-    <td> </td>
-    <td> </td>
-    <td>
-        <span style="color:green"> Sapphire<sup>[5]</sup> </span>
-    </td>
-    <td> </td>
-    <td> </td>
-    <td>
-      <span style="color:green">RGC</span>
-    </td>
-    <td>
-      <span style="color:green">BOA-V</span>
-    </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>Travel</td>
-    <td> </td>
-    <td> </td>
-    <td>
-      <span style="color:green">Sapphire</span> <sup>[5]</sup>
-      <span style="color:green">RGC</span> <sup>[4]</sup>
-    </td>
-    <td> </td>
-    <td> </td>
-    <td>
-      <span style="color:green">RGC</span> <br>
-      <span style="color:green">Citi-C</span> <sup>[2]</sup> <br>
-    </td>
-    <td> <span style="color:green">BOA-V</span> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>Hotel</td>
-    <td>
-      <span style="color:red">IHG</span>
-      <span style="color:green">Sapphire[7]</span>
-    </td>
-    <td> </td>
-    <td>
-        <span style="color:green"> Sapphire<sup>[5]</sup> </span>
-    </td>
-    <td> </td>
-    <td> </td>
-    <td> 
-      <span style="color:green">RGC</span>
-    </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td> Car <br> Rental </td>
-    <td> <span style="color:green"> Sapphire<sup>[8]</sup> </span> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> <span style="color:green">RGC</span> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td> Home <br> Depot </td>
-    <td> <span style="color:green"> HDCC</span> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> <span style="color:green">BOA-M</span> </td>
-    <td> <span style="color:green">RGC</span> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td> Home <br> Improvement <br> &amp; Furnishings </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> <span style="color:green">BOA-M</span> </td>
-    <td> <span style="color:green">RGC</span> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>Gas</td>
-    <td> </td>
-    <td> </td>
-    <td> <span style="color:green">Citi-C</span> </td>
-    <td> <span style="color:green"> VVC</span> </td>
-    <td> </td>
-    <td> <span style="color:green">RGC</span> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>EV Charging</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td>
-        <span style="color:green">Citi-C</span><br>
-        <span style="color:green"> VVC</span>
-    </td>
-    <td> </td>
-    <td> <span style="color:green">RGC</span> </td>
-    <td> <span style="color:green"></span> </td>
-    <td> <span style="color:green"></span> </td>
-    <td> <span style="color:green"></span> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>Verizon Purchases</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> <span style="color:green">VVC</span> </td>
-    <td> </td>
-    <td> <span style="color:green">RGC</span> </td>
-    <td> <span style="color:green"></span> </td>
-    <td> <span style="color:green"></span> </td>
-    <td> <span style="color:green"></span> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>REI</td>
-    <td> <span style="color:green"> REIC1 <sup>[1]</sup> </span> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> <span style="color:green">RGC</span> </td>
-    <td> </td>
-    <td> <span style="color:green">BOA-V</span> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td>Other</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> <span style="color:green">RGC</span> </td>
-    <td> </td>
-    <td> <span style="color:green">BOA-V</span> </td>
-    <td> </td>
-    <td> </td>
-  </tr>
-</tbody>
-</table>
+```{list-table}
+:header-rows: 1
 
-- \[1\]: 5% (credit card) + 10% (member rewards)
-- \[2\]: On eligible travel purchases only
-- \[3\]: Amazon Prime membership is required to enjoy the discount.
-- \[4\]: Robinhood Gold Card gives you 5% cash back
+- - Category
+  - Coupon/Credit
+  - >=10%
+  - >=5%
+  - >=4%
+  - >=3.5%
+  - >=3%
+  - >=2.5%
+  - >=2%
+  - >=1.5%
+  - 1%
+- - Costco
+  - 
+  - 
+  - 
+  - 
+  - 
+  - <span style="color:green">RGC</span>
+  - <span style="color:green">BOA-M</span>
+  - <span style="color:green">Citi-C</span>
+  - 
+  - 
+- - Amazon
+  - 
+  - 
+  - <span style="color:green">ASC [^3]</span>
+  - 
+  - 
+  - <span style="color:red">BOA-V</span> <br> <span style="color:green">RGC</span>
+  - 
+  - 
+  - <span style="color:green">BOA-V</span>
+  - 
+- - Other <br> Online <br> Shopping
+  - 
+  - 
+  - 
+  - 
+  - 
+  - <span style="color:red">BOA-V</span> <br> <span style="color:green">RGC</span>
+  - 
+  - 
+  - <span style="color:green">BOA-V</span>
+  - 
+- - Restaurant
+  - 
+  - 
+  - 
+  - <span style="color:green">VVC</span>
+  - 
+  - <span style="color:green">Citi-C</span> <br> <span style="color:green">RGC</span>
+  - 
+  - 
+  - 
+  - 
+- - Supermarket
+  - 
+  - 
+  - 
+  - 
+  - 
+  - <span style="color:green">RGC</span>
+  - 
+  - 
+  - 
+  - 
+- - Other <br> Grocery
+  - 
+  - 
+  - 
+  - <span style="color:green">VVC</span>
+  - 
+  - <span style="color:green">Sapphire[^6]</span> <span style="color:green">RGC</span>
+  - <span style="color:green">BOA-M</span>
+  - 
+  - 
+  - 
+- - Macys
+  - 
+  - 
+  - <span style="color:green">AMEX-M</span>
+  - 
+  - 
+  - <span style="color:green">RGC</span>
+  - 
+  - 
+  - 
+  - 
+- - Uber <br> Eats
+  - 
+  - 
+  - 
+  - 
+  - 
+  - <span style="color:green">RGC</span>
+  - 
+  - 
+  - 
+  - 
+- - Airline <br> check-in <br> bag
+  - <span style="color:green">BOA-V</span>: &nbsp; $100/yr
+  - 
+  - 
+  - 
+  - 
+  - <span style="color:green">RGC</span>
+  - 
+  - 
+  - 
+  - 
+- - Flight
+  - 
+  - 
+  - <span style="color:green">Sapphire[^5]</span>
+  - 
+  - 
+  - <span style="color:green">RGC</span>
+  - <span style="color:green">BOA-V</span>
+  - 
+  - 
+  - 
+- - Travel
+  - 
+  - 
+  - <span style="color:green">Sapphire[^5]</span> <span style="color:green">RGC [^4]</span>
+  - 
+  - 
+  - <span style="color:green">RGC</span> <br> <span style="color:green">Citi-C [^2]</span>
+  - <span style="color:green">BOA-V</span>
+  - 
+  - 
+  - 
+- - Hotel
+  - <span style="color:red">IHG</span> <span style="color:green">Sapphire[^7]</span>
+  - 
+  - <span style="color:green">Sapphire[^5]</span>
+  - 
+  - 
+  - <span style="color:green">RGC</span>
+  - 
+  - 
+  - 
+  - 
+- - Car <br> Rental
+  - <span style="color:green">Sapphire[^8]</span>
+  - 
+  - 
+  - 
+  - 
+  - <span style="color:green">RGC</span>
+  - 
+  - 
+  - 
+  - 
+- - Home <br> Depot
+  - <span style="color:green">HDCC</span>
+  - 
+  - 
+  - 
+  - <span style="color:green">BOA-M</span>
+  - <span style="color:green">RGC</span>
+  - 
+  - 
+  - 
+  - 
+- - Home <br> Improvement <br> & Furnishings
+  - 
+  - 
+  - 
+  - 
+  - <span style="color:green">BOA-M</span>
+  - <span style="color:green">RGC</span>
+  - 
+  - 
+  - 
+  - 
+- - Gas
+  - 
+  - 
+  - <span style="color:green">Citi-C</span>
+  - <span style="color:green">VVC</span>
+  - 
+  - <span style="color:green">RGC</span>
+  - 
+  - 
+  - 
+  - 
+- - EV Charging
+  - 
+  - 
+  - 
+  - <span style="color:green">Citi-C</span> <br> <span style="color:green">VVC</span>
+  - 
+  - <span style="color:green">RGC</span>
+  - <span style="color:green"></span>
+  - <span style="color:green"></span>
+  - <span style="color:green"></span>
+  - 
+- - Verizon Purchases
+  - 
+  - 
+  - 
+  - <span style="color:green">VVC</span>
+  - 
+  - <span style="color:green">RGC</span>
+  - <span style="color:green"></span>
+  - <span style="color:green"></span>
+  - <span style="color:green"></span>
+  - 
+- - REI
+  - <span style="color:green">REIC1 [^1]</span>
+  - 
+  - 
+  - 
+  - 
+  - <span style="color:green">RGC</span>
+  - 
+  - <span style="color:green">BOA-V</span>
+  - 
+  - 
+- - Other
+  - 
+  - 
+  - 
+  - 
+  - 
+  - <span style="color:green">RGC</span>
+  - 
+  - <span style="color:green">BOA-V</span>
+  - 
+  - 
+```
+
+[^1]: 5% (credit card) + 10% (member rewards)
+[^2]: On eligible travel purchases only
+[^3]: Amazon Prime membership is required to enjoy the discount.
+[^4]: Robinhood Gold Card gives you 5% cash back
   when you book travel through the all-new Robinhood travel portal.
   For more details,
   please refer to
   [Robinhood Gold Card waitlist](https://robinhood.com/us/en/support/articles/robinhood-gold-card-waitlist/)
   .
-- \[5\]: For purchases through Chase Travel.
+[^5]: For purchases through Chase Travel.
   And points are worth 25% more when redeemed for travel through Chase Travel.
-- \[6\]: For online grocery purchases excluding Walmart, Target and wholesale clubs.
-- \[7\]: Earn up to \$50 in statement credits each account anniversary year for hotel stays purchased through Chase Travel.
-- \[8\]: The card comes with trip cancellation and interruption insurance, lost luggage reimbursement, auto rental coverage, etc.
+[^6]: For online grocery purchases excluding Walmart, Target and wholesale clubs.
+[^7]: Earn up to \$50 in statement credits each account anniversary year for hotel stays purchased through Chase Travel.
+[^8]: The card comes with trip cancellation and interruption insurance, lost luggage reimbursement, auto rental coverage, etc.
 
 ## Offers
 

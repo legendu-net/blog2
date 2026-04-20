@@ -38,60 +38,36 @@ tags:
 
 ## Good Fast DC Charging in WA
 
-<table>
-    <thead>
-        <tr>
-            <th>Dimension</th>
-            <th>Tesla Supercharger</th>
-            <th>Electrify America</th>
-            <th>EVgo</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><strong>Availability</strong></td>
-            <td>Extensive network strategically placed for long-distance travel, especially along major corridors. [3, 9, 10] Non-Tesla access is limited to "Magic Dock" locations.</td>
-            <td>Widespread presence along interstate highways and in metro areas, with a strategy of placing chargers within 70 miles of each other. [10, 15]</td>
-            <td>Strong urban and metropolitan coverage, with an expanding presence along highways. [3, 5] Operates in 34 states with over 850 fast-charging locations. [10]</td>
-        </tr>
-        <tr>
-            <td><strong>Robustness / Reliability</strong></td>
-            <td>Considered the industry leader in reliability with a seamless "plug-and-charge" experience for Tesla vehicles. [3, 4] J.D. Power reports significantly fewer issues compared to other networks. [4]</td>
-            <td>Has faced criticism for reliability issues, with some users reporting broken chargers or payment system failures. [8] The company provides a network status page for updates on maintenance and outages. [18]</td>
-            <td>Generally considered reliable, with a focus on fast charging in urban areas. [3, 14] Some reports indicate a higher rate of issues compared to Tesla. [8] Offers Autocharge+ for a plug-and-charge-like experience. [6]</td>
-        </tr>
-        <tr>
-            <td><strong>Price</strong></td>
-            <td>Per-kWh pricing that can vary by location and time of day. [6, 13] Non-members may pay a higher rate. [6]</td>
-            <td>Station-specific per-kWh or per-minute pricing. [19, 20] Offers a Pass+ membership for a monthly fee that provides about a 25% discount. [15, 19]</td>
-            <td>Can be per-kWh or per-minute depending on the location and has been noted by some users in Washington to be cheaper than Electrify America in certain instances. [17, 21] Offers multiple membership plans with varying benefits. [21]</td>
-        </tr>
-        <tr>
-            <td><strong>Other Relevant Dimensions</strong></td>
-            <td>
-                <ul>
-                    <li><strong>Speed:</strong> Up to 250 kW at V3 Superchargers. [3]</li>
-                    <li><strong>Connectors:</strong> Primarily NACS (Tesla's connector), with some "Magic Dock" CCS compatibility. [3]</li>
-                    <li><strong>User Experience:</strong> Seamless integration with Tesla vehicles for route planning and charging. [9]</li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li><strong>Speed:</strong> Up to 350 kW, allowing for very fast charging on compatible vehicles. [14]</li>
-                    <li><strong>Connectors:</strong> Primarily CCS and CHAdeMO.</li>
-                    <li><strong>Promotions:</strong> Some vehicle manufacturers offer free charging plans with Electrify America. [15]</li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li><strong>Speed:</strong> High-power chargers up to 350 kW are available. [3]</li>
-                    <li><strong>Connectors:</strong> CCS and CHAdeMO, with some locations offering integrated Tesla connectors.</li>
-                    <li><strong>Convenience:</strong> Partners with retail locations like grocery stores. [10]</li>
-                </ul>
-            </td>
-        </tr>
-    </tbody>
-</table>
+```{list-table} Good Fast DC Charging in WA
+:header-rows: 1
+
+- - Dimension
+  - Tesla Supercharger
+  - Electrify America
+  - EVgo
+- - **Availability**
+  - Extensive network strategically placed for long-distance travel, especially along major corridors. [3, 9, 10] Non-Tesla access is limited to "Magic Dock" locations.
+  - Widespread presence along interstate highways and in metro areas, with a strategy of placing chargers within 70 miles of each other. [10, 15]
+  - Strong urban and metropolitan coverage, with an expanding presence along highways. [3, 5] Operates in 34 states with over 850 fast-charging locations. [10]
+- - **Robustness / Reliability**
+  - Considered the industry leader in reliability with a seamless "plug-and-charge" experience for Tesla vehicles. [3, 4] J.D. Power reports significantly fewer issues compared to other networks. [4]
+  - Has faced criticism for reliability issues, with some users reporting broken chargers or payment system failures. [8] The company provides a network status page for updates on maintenance and outages. [18]
+  - Generally considered reliable, with a focus on fast charging in urban areas. [3, 14] Some reports indicate a higher rate of issues compared to Tesla. [8] Offers Autocharge+ for a plug-and-charge-like experience. [6]
+- - **Price**
+  - Per-kWh pricing that can vary by location and time of day. [6, 13] Non-members may pay a higher rate. [6]
+  - Station-specific per-kWh or per-minute pricing. [19, 20] Offers a Pass+ membership for a monthly fee that provides about a 25% discount. [15, 19]
+  - Can be per-kWh or per-minute depending on the location and has been noted by some users in Washington to be cheaper than Electrify America in certain instances. [17, 21] Offers multiple membership plans with varying benefits. [21]
+- - **Other Relevant Dimensions**
+  - * **Speed:** Up to 250 kW at V3 Superchargers. [3]
+    * **Connectors:** Primarily NACS (Tesla's connector), with some "Magic Dock" CCS compatibility. [3]
+    * **User Experience:** Seamless integration with Tesla vehicles for route planning and charging. [9]
+  - * **Speed:** Up to 350 kW, allowing for very fast charging on compatible vehicles. [14]
+    * **Connectors:** Primarily CCS and CHAdeMO.
+    * **Promotions:** Some vehicle manufacturers offer free charging plans with Electrify America. [15]
+  - * **Speed:** High-power chargers up to 350 kW are available. [3]
+    * **Connectors:** CCS and CHAdeMO, with some locations offering integrated Tesla connectors.
+    * **Convenience:** Partners with retail locations like grocery stores. [10]
+```
 
 
 ## Route / Charging Planning
