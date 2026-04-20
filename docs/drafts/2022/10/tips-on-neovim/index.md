@@ -30,8 +30,6 @@ Just download the [AppImage](https://github.com/neovim/neovim/releases).
 This can be a good choice if you want to install the latest version of NeoVim
 but don't want to use a PPA (on Ubuntu)
 and don't want to introduce a dependency on Homebrew.
-For example,
-when you build a Docker image and want to install the lateat version of Neovim for all users.
 
 ## Installation on Ubuntu
 

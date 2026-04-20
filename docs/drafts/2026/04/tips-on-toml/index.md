@@ -1,7 +1,7 @@
 ---
 title: Tips on TOML
 created: 2026-04-18 21:51:02.475190
-date: 2026-04-18 21:55:32.067781
+date: 2026-04-19 14:49:12.879287
 authors:
   - bendu
 label: tips-on-toml

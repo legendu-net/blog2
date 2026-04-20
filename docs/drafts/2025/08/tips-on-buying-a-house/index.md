@@ -1,7 +1,7 @@
 ---
-title: "Tips on Buying a House"
+title: Tips on Buying a House
 created: 2025-08-01 13:50:48
-date: 2025-08-10 09:34:18
+date: 2026-04-19 14:49:12.882884
 authors:
   - bendu
 label: tips-on-buying-a-house
@@ -27,28 +27,30 @@ tags:
 
 1. Is it a new house?
 
-2. Facilitaties of the house.
+1. Facilitaties of the house.
 
-2. radiation, etc., whether it is close to any high vol electric wires
+1. radiation, etc., whether it is close to any high vol electric wires
 
-3. whether it is close to a busy road, better not, if so, any stop signs
+1. whether it is close to a busy road, better not, if so, any stop signs
 
-4. Safe or not, neighbours, etc.
+1. Safe or not, neighbours, etc.
 
-5. school district
+1. school district
 
 1. Check whether lights are flashing.
-    Flashing lights might indicate unstable electronic wiring.
+   Flashing lights might indicate unstable electronic wiring.
 
-2. Furnace, heatpump & hot water tank
-    - which years are they
-    - whether it's noise while operating
-    
-3. Check for crawl space.
-    - Prefer to not have a crawl space.
-    - But if there's a crawl space,
-        - check whether it's wet down there
-        - check for droppings of mices
+1. Furnace, heatpump & hot water tank
+
+   - which years are they
+   - whether it's noise while operating
+
+1. Check for crawl space.
+
+   - Prefer to not have a crawl space.
+   - But if there's a crawl space,
+     - check whether it's wet down there
+     - check for droppings of mices
 
 ## Ideas
 

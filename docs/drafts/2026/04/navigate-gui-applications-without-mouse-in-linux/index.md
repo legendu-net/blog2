@@ -1,7 +1,7 @@
 ---
 title: Navigate GUI Applications Without Mouse in Linux
 created: 2026-04-19 11:19:30.082212
-date: 2026-04-19 11:19:30.082215
+date: 2026-04-19 14:49:12.879357
 authors:
   - bendu
 label: navigate-gui-applications-without-mouse-in-linux

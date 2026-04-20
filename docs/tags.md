@@ -2158,6 +2158,7 @@ site:
 
 ## software
 ```{dropdown} Click to expand/collapse 199 links
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 - [Cloud IDE](cloud-ide)
 - [My Docker Images](my-docker-images)
 - [Working Remotely in Linux](working-remotely-in-linux)
@@ -2247,7 +2248,6 @@ site:
 - [Incognito Mode for Browsers](incognito-mode-for-browsers)
 - [Format a Flash Drive in a Linux Virtual Machine](format-a-flash-drive-in-a-linux-virtual-machine)
 - [Data Engineering Tools](data-engineering-tools)
-- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 - [WSL2 Filesystem](wsl2-filesystem)
 - [Terminal Multiplexers](terminal-multiplexers)
 - [Take Screenshot on Linux](take-screenshot-on-linux)
@@ -2841,6 +2841,7 @@ site:
 
 ## tips
 ```{dropdown} Click to expand/collapse 123 links
+- [Tips on Housing](tips-on-housing)
 - [Tips on Outlook](tips-on-outlook)
 - [General Tips on SQL](general-tips-on-sql)
 - [The Escape Key in Vim](the-escape-key-in-vim)
@@ -2898,7 +2899,6 @@ site:
 - [Tips on NFS](tips-on-nfs)
 - [Tips on Network](tips-on-network)
 - [Tips on Linux Mint](tips-on-linux-mint)
-- [Tips on Housing](tips-on-housing)
 - [Living in Charlotte](living-in-charlotte)
 - [Typing Automatically Using AutoHotkey](typing-automatically-using-autohotkey)
 - [Tips on VPN](tips-on-vpn)
@@ -3319,6 +3319,9 @@ site:
 
 ## life
 ```{dropdown} Click to expand/collapse 92 links
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Tips on Housing](tips-on-housing)
+- [Tips on Buying a House](tips-on-buying-a-house)
 - [Shopping At Homedepot](shopping-at-homedepot)
 - [Shopping Smartly](shopping-smartly)
 - [Tips on Children Health](tips-on-children-health)
@@ -3333,7 +3336,6 @@ site:
 - [International Fund Transfer Without Fees](international-fund-transfer-without-fees)
 - [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
 - [Tips on Anthem BCBS Insurance](tips-on-anthem-bcbs-insurance)
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
 - [Tips on Job Seeking](tips-on-job-seeking)
 - [Good Resources of News](good-resources-of-news)
 - [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
@@ -3356,7 +3358,6 @@ site:
 - [Tips on Smart Phone](tips-on-smart-phone)
 - [Tips on Insurance](tips-on-insurance)
 - [Tips on Car and Driving](tips-on-car-and-driving)
-- [Tips on Housing](tips-on-housing)
 - [Living in Charlotte](living-in-charlotte)
 - [Living in Chicago](living-in-chicago)
 - [Banking Account](banking-account)
@@ -3388,7 +3389,6 @@ site:
 - [Tips on Pest and Rodent Control](tips-on-pest-and-rodent-control)
 - [Tips on Road Assistant](tips-on-road-assistant)
 - [Tips on Self Defense Firearms](tips-on-self-defense-firearms)
-- [Tips on Buying a House](tips-on-buying-a-house)
 - [Service Your Rivian Car](service-your-rivian-car)
 - [Repair a Flat Tire](repair-a-flat-tire)
 - [Tips on Car Tires](tips-on-car-tires)
@@ -3847,6 +3847,7 @@ site:
 
 ## web
 ```{dropdown} Click to expand/collapse 57 links
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 - [Tips on Web Browsers](tips-on-web-browsers)
 - [Web Automation](web-automation)
 - [Tips on Backend Development](tips-on-backend-development)
@@ -3881,7 +3882,6 @@ site:
 - [Expose Local Service to Public](expose-local-service-to-public)
 - [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
 - [Rust for Backend Development](rust-for-backend-development)
-- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 - [Rust Backend Frameworks for Rest APIs](rust-backend-frameworks-for-rest-apis)
 - [Rust Backend Frameworks for gRPC APIs](rust-backend-frameworks-for-grpc-apis)
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
@@ -4745,6 +4745,35 @@ site:
 - [Process Big Data Using PySpark](process-big-data-using-pyspark)
 ```
 
+## internet
+```{dropdown} Click to expand/collapse 25 links
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
+- [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
+- [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
+- [Tips on XFinity](tips-on-xfinity)
+- [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
+- [Tips on Websockets](tips-on-websockets)
+- [Tips on sshuttle](tips-on-sshuttle)
+- [Tips on Nmap](tips-on-nmap)
+- [Tips on Network Protocols](tips-on-network-protocols)
+- [Tips on HTTP](tips-on-http)
+- [Surf Web Anonymously](surf-web-anonymously)
+- [IP Address and Subnets](ip-address-and-subnets)
+- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
+- [Save a Web Page as a Single File in Chrome](save-a-web-page-as-a-single-file-in-chrome)
+- [Baidu Yun Tips](baidu-yun-tips)
+- [Download Files from the Internet in Python](download-files-from-the-internet-in-python)
+- [Misc Tips in Daily Life](misc-tips-in-daily-life)
+- [Tips on NFS](tips-on-nfs)
+- [Tips on Network](tips-on-network)
+- [Use External Downloader for Firefox](use-external-downloader-for-firefox)
+- [Managing Blog Comments Using Disqus](managing-blog-comments-using-disqus)
+- [Tips on httpd](tips-on-httpd)
+- [Escape from the Great Firewall of China](escape-from-the-great-firewall-of-china)
+- [Test Internet Speed](test-internet-speed)
+- [Find Out Proxy in Use](find-out-proxy-in-use)
+```
+
 ## PyTorch
 ```{dropdown} Click to expand/collapse 25 links
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
@@ -4803,37 +4832,9 @@ site:
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 ```
 
-## internet
-```{dropdown} Click to expand/collapse 25 links
-- [Transfer Files over Network in Linux](transfer-files-over-network-in-linux)
-- [Hands on the Python Library notifiers](hands-on-the-python-library-notifiers)
-- [Tips on XFinity](tips-on-xfinity)
-- [Proxy, Reverse Proxy, Load Balancer, VPN and DNS](proxy-reverse-proxy-load-balancer-vpn-and-dns)
-- [Tips on Websockets](tips-on-websockets)
-- [Tips on sshuttle](tips-on-sshuttle)
-- [Tips on Nmap](tips-on-nmap)
-- [Tips on Network Protocols](tips-on-network-protocols)
-- [Tips on HTTP](tips-on-http)
-- [Surf Web Anonymously](surf-web-anonymously)
-- [IP Address and Subnets](ip-address-and-subnets)
-- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
-- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
-- [Save a Web Page as a Single File in Chrome](save-a-web-page-as-a-single-file-in-chrome)
-- [Baidu Yun Tips](baidu-yun-tips)
-- [Download Files from the Internet in Python](download-files-from-the-internet-in-python)
-- [Misc Tips in Daily Life](misc-tips-in-daily-life)
-- [Tips on NFS](tips-on-nfs)
-- [Tips on Network](tips-on-network)
-- [Use External Downloader for Firefox](use-external-downloader-for-firefox)
-- [Managing Blog Comments Using Disqus](managing-blog-comments-using-disqus)
-- [Tips on httpd](tips-on-httpd)
-- [Escape from the Great Firewall of China](escape-from-the-great-firewall-of-china)
-- [Test Internet Speed](test-internet-speed)
-- [Find Out Proxy in Use](find-out-proxy-in-use)
-```
-
 ## money
 ```{dropdown} Click to expand/collapse 24 links
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
 - [Tips on Certified Deposit](tips-on-certified-deposit)
 - [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
 - [Tips on the Alpaca Trading Platform](tips-on-the-alpaca-trading-platform)
@@ -4843,7 +4844,6 @@ site:
 - [Calculate the Price of Stocks](calculate-the-price-of-stocks)
 - [Tips on Charles Schwab Trader API](tips-on-charles-schwab-trader-api)
 - [Probability to Lose All Money](probability-to-lose-all-money)
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
 - [Side Projects for Money](side-projects-for-money)
 - [Investment](investment)
 - [Claim Your Forgotten Money](claim-your-forgotten-money)
@@ -4971,6 +4971,7 @@ site:
 
 ## terminal
 ```{dropdown} Click to expand/collapse 22 links
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 - [Tips on Claude](tips-on-claude)
 - [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
 - [Tips on Hyper](tips-on-hyper)
@@ -4982,7 +4983,6 @@ site:
 - [Good Terminal Apps](good-terminal-apps)
 - [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
 - [Tips on Windows Terminal](tips-on-windows-terminal)
-- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 - [Tips on WezTerm](tips-on-wezterm)
 - [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
 - [Hands on the Python Library pexpect](hands-on-the-python-library-pexpect)
@@ -5329,6 +5329,27 @@ site:
 - [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
 ```
 
+## house
+```{dropdown} Click to expand/collapse 17 links
+- [Tips on Buying a House](tips-on-buying-a-house)
+- [Shopping At Homedepot](shopping-at-homedepot)
+- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
+- [Tips on Dishwasher](tips-on-dishwasher)
+- [Replace a Bathroom Fan](replace-a-bathroom-fan)
+- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
+- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
+- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
+- [Tips on Plumbing](tips-on-plumbing)
+- [Anker Solix Home Backup Battery System](anker-solix-home-backup-battery-system)
+- [Use Dehumidifiers to Remove Dampness from Your House](use-dehumidifiers-to-remove-dampness-from-your-house)
+- [Hot Water in the House](hot-water-in-the-house)
+- [Tips on Ecobee Thermostat](tips-on-ecobee-thermostat)
+- [Tips on Pest and Rodent Control](tips-on-pest-and-rodent-control)
+- [Tips on Washing Machine](tips-on-washing-machine)
+- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
+- [Drain Guard for Downspout](drain-guard-for-downspout)
+```
+
 ## format
 ```{dropdown} Click to expand/collapse 17 links
 - [Tips on TOML](tips-on-toml)
@@ -5413,27 +5434,6 @@ site:
 - [Graphics in LaTeX](graphics-in-latex)
 ```
 
-## house
-```{dropdown} Click to expand/collapse 17 links
-- [Shopping At Homedepot](shopping-at-homedepot)
-- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
-- [Tips on Dishwasher](tips-on-dishwasher)
-- [Replace a Bathroom Fan](replace-a-bathroom-fan)
-- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
-- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
-- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
-- [Tips on Plumbing](tips-on-plumbing)
-- [Anker Solix Home Backup Battery System](anker-solix-home-backup-battery-system)
-- [Use Dehumidifiers to Remove Dampness from Your House](use-dehumidifiers-to-remove-dampness-from-your-house)
-- [Hot Water in the House](hot-water-in-the-house)
-- [Tips on Ecobee Thermostat](tips-on-ecobee-thermostat)
-- [Tips on Pest and Rodent Control](tips-on-pest-and-rodent-control)
-- [Tips on Buying a House](tips-on-buying-a-house)
-- [Tips on Washing Machine](tips-on-washing-machine)
-- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
-- [Drain Guard for Downspout](drain-guard-for-downspout)
-```
-
 ## array
 ```{dropdown} Click to expand/collapse 16 links
 - [Collections in Kotlin](collections-in-kotlin)
@@ -5494,8 +5494,28 @@ site:
 - [Driving on Snow and Ice](driving-on-snow-and-ice)
 ```
 
+## finance
+```{dropdown} Click to expand/collapse 15 links
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Tips on Buying a House](tips-on-buying-a-house)
+- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
+- [Good Accounting Tools](good-accounting-tools)
+- [Tips on Certified Deposit](tips-on-certified-deposit)
+- [Financial Data](financial-data)
+- [Rust for Financial Investment](rust-for-financial-investment)
+- [Tax in US](tax-in-us)
+- [Tips on Empower](tips-on-empower)
+- [Investment](investment)
+- [Claim Your Forgotten Money](claim-your-forgotten-money)
+- [Tips on Credit Report](tips-on-credit-report)
+- [Tips on Brokerage](tips-on-brokerage)
+- [Understanding Paychecks](understanding-paychecks)
+- [Tips on eTrade](tips-on-etrade)
+```
+
 ## tool
 ```{dropdown} Click to expand/collapse 15 links
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 - [Tips on Claude](tips-on-claude)
 - [AI Tools from China](ai-tools-from-china)
 - [LLM APIs](llm-apis)
@@ -5510,7 +5530,6 @@ site:
 - [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
 - [Compiler and Build Tools](compiler-and-build-tools)
 - [Tips on Windows Terminal](tips-on-windows-terminal)
-- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 ```
 
 ## Google
@@ -5663,25 +5682,6 @@ site:
 - [View and Edit PDF Documents Using Okular](view-and-edit-pdf-documents-using-okular)
 - [Use pdftk to Manipulating PDF Files](use-pdftk-to-manipulating-pdf-files)
 - [Convert PDF to Word](convert-pdf-to-word)
-```
-
-## finance
-```{dropdown} Click to expand/collapse 15 links
-- [Some Terminologies in Business Investment](some-terminologies-in-business-investment)
-- [Good Accounting Tools](good-accounting-tools)
-- [Tips on Certified Deposit](tips-on-certified-deposit)
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Financial Data](financial-data)
-- [Rust for Financial Investment](rust-for-financial-investment)
-- [Tax in US](tax-in-us)
-- [Tips on Empower](tips-on-empower)
-- [Investment](investment)
-- [Claim Your Forgotten Money](claim-your-forgotten-money)
-- [Tips on Credit Report](tips-on-credit-report)
-- [Tips on Buying a House](tips-on-buying-a-house)
-- [Tips on Brokerage](tips-on-brokerage)
-- [Understanding Paychecks](understanding-paychecks)
-- [Tips on eTrade](tips-on-etrade)
 ```
 
 ## probability
@@ -6528,6 +6528,19 @@ site:
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 ```
 
+## browser
+```{dropdown} Click to expand/collapse 9 links
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
+- [Tips on Web Browsers](tips-on-web-browsers)
+- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
+- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
+- [Incognito Mode for Browsers](incognito-mode-for-browsers)
+- [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
+- [Tips on the Dia Browser](tips-on-the-dia-browser)
+- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
+- [Run UserScripts in Browsers](run-userscripts-in-browsers)
+```
+
 ## Neovim | neovim
 ```{dropdown} Click to expand/collapse 9 links
 - [Tips on Neovim](tips-on-neovim)
@@ -6539,19 +6552,6 @@ site:
 - [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
 - [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
 - [Popular Configurations for NeoVim](popular-configurations-for-neovim)
-```
-
-## browser
-```{dropdown} Click to expand/collapse 9 links
-- [Tips on Web Browsers](tips-on-web-browsers)
-- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
-- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
-- [Incognito Mode for Browsers](incognito-mode-for-browsers)
-- [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
-- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
-- [Tips on the Dia Browser](tips-on-the-dia-browser)
-- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
-- [Run UserScripts in Browsers](run-userscripts-in-browsers)
 ```
 
 ## desktop
@@ -6749,6 +6749,18 @@ site:
 - [Tips on GitHub](tips-on-github)
 ```
 
+## shopping
+```{dropdown} Click to expand/collapse 8 links
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Tips on Housing](tips-on-housing)
+- [Shopping At Homedepot](shopping-at-homedepot)
+- [Shopping Smartly](shopping-smartly)
+- [Shopping on Costco](shopping-on-costco)
+- [Living in Charlotte](living-in-charlotte)
+- [Shopping on Amazon](shopping-on-amazon)
+- [Shopping at Macys](shopping-at-macys)
+```
+
 ## remote
 ```{dropdown} Click to expand/collapse 8 links
 - [Working Remotely in Linux](working-remotely-in-linux)
@@ -6903,18 +6915,6 @@ site:
 - [Tips on Darglint](tips-on-darglint)
 - [Document Rust APIs](document-rust-apis)
 - [Markdown Tools Written in Rust](markdown-tools-written-in-rust)
-```
-
-## shopping
-```{dropdown} Click to expand/collapse 8 links
-- [Shopping At Homedepot](shopping-at-homedepot)
-- [Shopping Smartly](shopping-smartly)
-- [Shopping on Costco](shopping-on-costco)
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Tips on Housing](tips-on-housing)
-- [Living in Charlotte](living-in-charlotte)
-- [Shopping on Amazon](shopping-on-amazon)
-- [Shopping at Macys](shopping-at-macys)
 ```
 
 ## security
@@ -7817,6 +7817,15 @@ site:
 - [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
 ```
 
+## home
+```{dropdown} Click to expand/collapse 5 links
+- [Tips on Buying a House](tips-on-buying-a-house)
+- [Dealing With Environment Variables in Python](dealing-with-environment-variables-in-python)
+- [Shopping At Homedepot](shopping-at-homedepot)
+- [Tips on RV](tips-on-rv)
+- [Tips on DIY](tips-on-diy)
+```
+
 ## CLI
 ```{dropdown} Click to expand/collapse 5 links
 - [Tips on Claude](tips-on-claude)
@@ -7923,15 +7932,6 @@ site:
 - [Spark Issue: Block Could Not Be Removed as It Was Not Found on Disk or in Memory](spark-issue-block-could-not-be-removed-as-it-was-not-found-on-disk-or-in-memory)
 - [PackageKitD Uses Too Much CPU or Disk IO](packagekitd-uses-too-much-cpu-or-disk-io)
 - [Format a Disk on Linux](format-a-disk-on-linux)
-```
-
-## home
-```{dropdown} Click to expand/collapse 5 links
-- [Dealing With Environment Variables in Python](dealing-with-environment-variables-in-python)
-- [Shopping At Homedepot](shopping-at-homedepot)
-- [Tips on RV](tips-on-rv)
-- [Tips on DIY](tips-on-diy)
-- [Tips on Buying a House](tips-on-buying-a-house)
 ```
 
 ## cache
@@ -9229,6 +9229,13 @@ site:
 - [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
 ```
 
+## credit card
+```{dropdown} Click to expand/collapse 3 links
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Tax in US](tax-in-us)
+- [Tips on Road Assistant](tips-on-road-assistant)
+```
+
 ## learning
 ```{dropdown} Click to expand/collapse 3 links
 - [Learning Modern AI](learning-modern-ai)
@@ -9894,13 +9901,6 @@ site:
 - [Iterate All Descendant Files in a Directory in Python](iterate-all-descendant-files-in-a-directory-in-python)
 ```
 
-## credit card
-```{dropdown} Click to expand/collapse 3 links
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Tax in US](tax-in-us)
-- [Tips on Road Assistant](tips-on-road-assistant)
-```
-
 ## DIY
 ```{dropdown} Click to expand/collapse 3 links
 - [Replace a Bathroom Fan](replace-a-bathroom-fan)
@@ -10508,6 +10508,48 @@ site:
 - [Use XGBoost With Spark](use-xgboost-with-spark)
 - [Tips on XGBoost](tips-on-xgboost)
 - [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
+```
+
+## discount
+```{dropdown} Click to expand/collapse 2 links
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Get Deals for Traveling](get-deals-for-traveling)
+```
+
+## housing
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Housing](tips-on-housing)
+- [Property Line](property-line)
+```
+
+## rent
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Housing](tips-on-housing)
+- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
+```
+
+## apartment
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Housing](tips-on-housing)
+- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
+```
+
+## browsing
+```{dropdown} Click to expand/collapse 2 links
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
+- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
+```
+
+## surf
+```{dropdown} Click to expand/collapse 2 links
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
+- [Surf Web Anonymously](surf-web-anonymously)
+```
+
+## purchase
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Buying a House](tips-on-buying-a-house)
+- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
 ```
 
 ## translate
@@ -11656,12 +11698,6 @@ site:
 - [医保](health-insurance-in-china)
 ```
 
-## discount
-```{dropdown} Click to expand/collapse 2 links
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
-- [Get Deals for Traveling](get-deals-for-traveling)
-```
-
 ## job
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Job Seeking](tips-on-job-seeking)
@@ -11672,12 +11708,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on the Seattle-Tacoma International Airport](tips-on-the-seattle-tacoma-international-airport)
 - [Tips for Rainy Winter](tips-for-rainy-winter)
-```
-
-## purchase
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
-- [Tips on Buying a House](tips-on-buying-a-house)
 ```
 
 ## auto
@@ -12316,12 +12346,6 @@ site:
 - [Quickly Build a Restful Service](quickly-build-a-restful-service)
 ```
 
-## surf
-```{dropdown} Click to expand/collapse 2 links
-- [Surf Web Anonymously](surf-web-anonymously)
-- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
-```
-
 ## privacy
 ```{dropdown} Click to expand/collapse 2 links
 - [Surf Web Anonymously](surf-web-anonymously)
@@ -12700,12 +12724,6 @@ site:
 - [Numeric Algorithms](numeric-algorithms)
 ```
 
-## browsing
-```{dropdown} Click to expand/collapse 2 links
-- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
-- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
-```
-
 ## large language model
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Large Language Models](tips-on-large-language-models)
@@ -13076,24 +13094,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Multimedia](tips-on-multimedia)
 - [Deleting Docker Image Tags on DockerHub using the Python Module requests](deleting-docker-image-tags-on-dockerhub-using-the-python-module-requests)
-```
-
-## housing
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Housing](tips-on-housing)
-- [Property Line](property-line)
-```
-
-## rent
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Housing](tips-on-housing)
-- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
-```
-
-## apartment
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Housing](tips-on-housing)
-- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
 ```
 
 ## AutoHotkey

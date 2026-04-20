@@ -1,26 +1,27 @@
 ---
 title: Tips on Housing
 created: 2014-03-22 14:23:43
-date: 2026-04-05 19:42:38.262722
+date: 2026-04-19 14:49:12.971576
 authors:
-- bendu
+  - bendu
 label: tips-on-housing
 license: CC-BY-4.0
 tags:
-- life
-- housing
-- tips
-- rent
-- apartment
-- shopping
+  - life
+  - housing
+  - tips
+  - rent
+  - apartment
+  - shopping
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## Good Sources of Learning
 
 https://www.youtube.com/@richard0501
 
-## [Buying a House]( https://www.legendu.net/misc/blog/tips-on-buying-a-house )
+## [Buying a House](https://www.legendu.net/misc/blog/tips-on-buying-a-house)
 
 ## Deck
 
@@ -36,13 +37,13 @@ https://www.youtube.com/@richard0501
 
 - [我在美国装修房子的失误 #美国旧房翻新 #美国房地产投资 #美国装修房子](https://www.youtube.com/watch?v=85VqOb35iJk)
 
-## Water 
+## Water
 
 - [西雅圖家裡淹水的天價維修帳單](https://www.youtube.com/watch?v=ygL6OOOdwqM)
 
-- [Tips on Plumbing]( https://www.legendu.net/misc/blog/tips-on-plumbing )
+- [Tips on Plumbing](https://www.legendu.net/misc/blog/tips-on-plumbing)
 
-- [Adjust Water Pressure in the House]( https://www.legendu.net/misc/blog/adjust-water-pressure-in-the-house )
+- [Adjust Water Pressure in the House](https://www.legendu.net/misc/blog/adjust-water-pressure-in-the-house)
 
 ## Rebuild
 
@@ -50,24 +51,24 @@ https://www.youtube.com/@richard0501
 
 - [不要自己建房的10个理由, 揭秘建筑行业鲜为人知的秘密](https://www.youtube.com/watch?v=qKiHFJUpalI)
 
-## Hire a Contractor or Handyman 
+## Hire a Contractor or Handyman
 
 1. Use [Washington State Department of Labor & Industries](https://lni.wa.gov/)
-    to verify a contractor, tradesperson or business.
- 
+   to verify a contractor, tradesperson or business.
+
 ## Purchasing a House
 
 See
-[Tips on Buying a House]( https://www.legendu.net/misc/blog/tips-on-buying-a-house )
+[Tips on Buying a House](https://www.legendu.net/misc/blog/tips-on-buying-a-house)
 for discussion.
 
 ## Misc
 
-1. Never flush things except water down the sink. 
-    If you really have to flush things, 
-    use the toilet to flush it.
+1. Never flush things except water down the sink.
+   If you really have to flush things,
+   use the toilet to flush it.
 
-## Shopping for Housing 
+## Shopping for Housing
 
 ### Good Shopping Sites
 
@@ -79,37 +80,37 @@ for discussion.
 
 - Seat Cushion
 
-    - https://www.amazon.com/massage-seat-cushion/s?k=massage+seat+cushion  
+  - https://www.amazon.com/massage-seat-cushion/s?k=massage+seat+cushion
 
-    - https://www.amazon.com/Seat-Cushion-Pillow-Office-Chair/dp/B07HD8B9SP?th=1  
+  - https://www.amazon.com/Seat-Cushion-Pillow-Office-Chair/dp/B07HD8B9SP?th=1
 
-    - https://www.bestproductsreviews.com/butt-cushion?targetid=dsa-437115340933&matchtype=&device=c&campaignid=13697721320&creative=530350157976&adgroupid=132788019068&feeditemid=&loc_physical_ms=9033255&loc_interest_ms=&network=g&devicemodel=&placement=&keyword=$&target=&aceid=&adposition=&trackid=us_all_top_1_1&mId=407-132-4411&trackOld=true&gclid=Cj0KCQjw1tGUBhDXARIsAIJx01nWEMfZIYEZtIw0TXaHO5FEaPmVXiQqDfbk_YH47SRZLnanGjcOzMkaApuiEALw_wcB  
+  - https://www.bestproductsreviews.com/butt-cushion?targetid=dsa-437115340933&matchtype=&device=c&campaignid=13697721320&creative=530350157976&adgroupid=132788019068&feeditemid=&loc_physical_ms=9033255&loc_interest_ms=&network=g&devicemodel=&placement=&keyword=$&target=&aceid=&adposition=&trackid=us_all_top_1_1&mId=407-132-4411&trackOld=true&gclid=Cj0KCQjw1tGUBhDXARIsAIJx01nWEMfZIYEZtIw0TXaHO5FEaPmVXiQqDfbk_YH47SRZLnanGjcOzMkaApuiEALw_wcB
 
 ### Electronical
 
 - Backup Battery
 
-    - https://generark.com/products/homepower2?variant=40210280808639
+  - https://generark.com/products/homepower2?variant=40210280808639
 
-    - https://generark.com/products/homepower-one?currency=USD&variant=40698021281983&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&gclid=CjwKCAjws8yUBhA1EiwAi_tpEa-AzzgC7m0ocrDpVZtxNP3mvhAHnx41iuCwhPCI1YzS_D8at6ebWhoCwRQQAvD_BwE
+  - https://generark.com/products/homepower-one?currency=USD&variant=40698021281983&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&gclid=CjwKCAjws8yUBhA1EiwAi_tpEa-AzzgC7m0ocrDpVZtxNP3mvhAHnx41iuCwhPCI1YzS_D8at6ebWhoCwRQQAvD_BwE
 
 - [暗盒修复器](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20220528221640&SearchText=%E6%9A%97%E7%9B%92%E4%BF%AE%E5%A4%8D%E5%99%A8&spm=a2g0o.productlist.1000002.0)
 
-### [Pest and Rodent Control]( https://www.legendu.net/misc/blog/tips-on-pest-and-rodent-control ) 
+### [Pest and Rodent Control](https://www.legendu.net/misc/blog/tips-on-pest-and-rodent-control)
 
-### Kitchen & Bathroom 
+### Kitchen & Bathroom
 
 - Adjustable Water Tap Extension
 
-    - [水龙头延伸器](https://www.taobao.com/list/item/644116039039.htm?spm=a21wu.10013406.taglist-content.3)
+  - [水龙头延伸器](https://www.taobao.com/list/item/644116039039.htm?spm=a21wu.10013406.taglist-content.3)
 
-    - [360 Degree Adjustable Water Tap Extension Filter Shower Bathroom Faucet Extender Water Saving Splash-proof Kitchen Accessories](https://www.aliexpress.com/item/3256801830482715.html?ug_edm_item_id=3256801830482715&pdp_npi=2%40dis%21USD%21US%20%242.98%21US%20%242.09%21%21%21%21%21%40214120dd16536319322175611d6e12%21%21edm&edm_click_module=alg_products&tracelog=rowan&rowan_id1=aeug_edm_24677_1_en_US_2022-05-26&rowan_msg_id=6846biz_pay_after_purchase:0:0_571776534$fca08cf84c854af68a5e761db1358a29&ck=in_edm_other)
+  - [360 Degree Adjustable Water Tap Extension Filter Shower Bathroom Faucet Extender Water Saving Splash-proof Kitchen Accessories](https://www.aliexpress.com/item/3256801830482715.html?ug_edm_item_id=3256801830482715&pdp_npi=2%40dis%21USD%21US%20%242.98%21US%20%242.09%21%21%21%21%21%40214120dd16536319322175611d6e12%21%21edm&edm_click_module=alg_products&tracelog=rowan&rowan_id1=aeug_edm_24677_1_en_US_2022-05-26&rowan_msg_id=6846biz_pay_after_purchase:0:0_571776534$fca08cf84c854af68a5e761db1358a29&ck=in_edm_other)
 
-    - [水龙头万向延长管](https://www.taobao.com/list/item/671978900714.htm?spm=a21wu.12321156.recommend-tpp.2)
+  - [水龙头万向延长管](https://www.taobao.com/list/item/671978900714.htm?spm=a21wu.12321156.recommend-tpp.2)
 
 - Deodorant Drain Core Toilet Bathroom Floor Drainer Inner Core Sewer Pest Control Silicone Anti-odor Artifact Water Seal No Smell
 
-    - https://www.aliexpress.com/item/3256802372457960.html?ug_edm_item_id=3256802372457960&pdp_npi=2%40dis%21USD%21US%20%241.98%21US%20%241.54%21%21%21%21%21%40214120dd16536319322175611d6e12%21%21edm&edm_click_module=alg_products&tracelog=rowan&rowan_id1=aeug_edm_24677_1_en_US_2022-05-26&rowan_msg_id=6846biz_pay_after_purchase:0:0_571776534$fca08cf84c854af68a5e761db1358a29&ck=in_edm_other  
+  - https://www.aliexpress.com/item/3256802372457960.html?ug_edm_item_id=3256802372457960&pdp_npi=2%40dis%21USD%21US%20%241.98%21US%20%241.54%21%21%21%21%21%40214120dd16536319322175611d6e12%21%21edm&edm_click_module=alg_products&tracelog=rowan&rowan_id1=aeug_edm_24677_1_en_US_2022-05-26&rowan_msg_id=6846biz_pay_after_purchase:0:0_571776534$fca08cf84c854af68a5e761db1358a29&ck=in_edm_other
 
 - [管道疏通器](https://www.taobao.com/list/item/45128283973.htm?spm=a21wu.10013406.taglist-content.25)
 
@@ -133,6 +134,6 @@ for discussion.
 
 ## References
 
-- [Tips on Renting a House or Apartment]( https://www.legendu.net/misc/blog/tips-on-renting-a-house-or-apartment )
+- [Tips on Renting a House or Apartment](https://www.legendu.net/misc/blog/tips-on-renting-a-house-or-apartment)
 
 - [老房维修全是坑💥乱修血亏10万刀？5句口诀：少花好几万！](https://www.youtube.com/watch?v=_nLPjf7XU0I)

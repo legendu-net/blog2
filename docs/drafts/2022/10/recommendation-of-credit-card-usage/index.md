@@ -1,7 +1,7 @@
 ---
 title: Recommendation of Credit Card Usage
 created: 2022-10-09 16:34:06
-date: 2026-04-13 23:30:33.915477
+date: 2026-04-19 20:56:53.993708
 authors:
   - bendu
 label: recommendation-of-credit-card-usage
@@ -43,8 +43,9 @@ tags:
 - REIC1: REI credit card by Capital One
 
 ```{list-table}
-:header-rows: 1
-
+---
+header-rows: 1
+---
 - - Category
   - Coupon/Credit
   - >=10%
@@ -70,7 +71,7 @@ tags:
 - - Amazon
   - 
   - 
-  - <span style="color:green">ASC [^3]</span>
+  - <span style="color:green">ASC </span>[^3]
   - 
   - 
   - <span style="color:red">BOA-V</span> <br> <span style="color:green">RGC</span>
@@ -117,7 +118,7 @@ tags:
   - 
   - <span style="color:green">VVC</span>
   - 
-  - <span style="color:green">Sapphire[^6]</span> <span style="color:green">RGC</span>
+  - <span style="color:green">Sapphire</span>[^6] <span style="color:green">RGC</span>
   - <span style="color:green">BOA-M</span>
   - 
   - 
@@ -158,7 +159,7 @@ tags:
 - - Flight
   - 
   - 
-  - <span style="color:green">Sapphire[^5]</span>
+  - <span style="color:green">Sapphire</span>[^5]
   - 
   - 
   - <span style="color:green">RGC</span>
@@ -169,18 +170,18 @@ tags:
 - - Travel
   - 
   - 
-  - <span style="color:green">Sapphire[^5]</span> <span style="color:green">RGC [^4]</span>
+  - <span style="color:green">Sapphire</span>[^5] <span style="color:green">RGC </span>[^4]
   - 
   - 
-  - <span style="color:green">RGC</span> <br> <span style="color:green">Citi-C [^2]</span>
+  - <span style="color:green">RGC</span> <br> <span style="color:green">Citi-C </span>[^2]
   - <span style="color:green">BOA-V</span>
   - 
   - 
   - 
 - - Hotel
-  - <span style="color:red">IHG</span> <span style="color:green">Sapphire[^7]</span>
+  - <span style="color:red">IHG</span> <span style="color:green">Sapphire</span>[^7]
   - 
-  - <span style="color:green">Sapphire[^5]</span>
+  - <span style="color:green">Sapphire</span>[^5]
   - 
   - 
   - <span style="color:green">RGC</span>
@@ -189,7 +190,7 @@ tags:
   - 
   - 
 - - Car <br> Rental
-  - <span style="color:green">Sapphire[^8]</span>
+  - <span style="color:green">Sapphire</span>[^8]
   - 
   - 
   - 
@@ -255,7 +256,7 @@ tags:
   - <span style="color:green"></span>
   - 
 - - REI
-  - <span style="color:green">REIC1 [^1]</span>
+  - <span style="color:green">REIC1 </span>[^1]
   - 
   - 
   - 
@@ -278,21 +279,6 @@ tags:
   - 
 ```
 
-[^1]: 5% (credit card) + 10% (member rewards)
-[^2]: On eligible travel purchases only
-[^3]: Amazon Prime membership is required to enjoy the discount.
-[^4]: Robinhood Gold Card gives you 5% cash back
-  when you book travel through the all-new Robinhood travel portal.
-  For more details,
-  please refer to
-  [Robinhood Gold Card waitlist](https://robinhood.com/us/en/support/articles/robinhood-gold-card-waitlist/)
-  .
-[^5]: For purchases through Chase Travel.
-  And points are worth 25% more when redeemed for travel through Chase Travel.
-[^6]: For online grocery purchases excluding Walmart, Target and wholesale clubs.
-[^7]: Earn up to \$50 in statement credits each account anniversary year for hotel stays purchased through Chase Travel.
-[^8]: The card comes with trip cancellation and interruption insurance, lost luggage reimbursement, auto rental coverage, etc.
-
 ## Offers
 
 - [Citi-Costco Credit Card Offers](https://online.citi.com/US/ag/citioffersforyou)
@@ -303,3 +289,25 @@ tags:
 - Chase Sapphire Card
 - Verizon Visa Card
 - Costco Anywhere Visa Card
+
+[^3]: Amazon Prime membership is required to enjoy the discount.
+
+[^6]: For online grocery purchases excluding Walmart, Target and wholesale clubs.
+
+[^5]: For purchases through Chase Travel.
+    And points are worth 25% more when redeemed for travel through Chase Travel.
+
+[^4]: Robinhood Gold Card gives you 5% cash back
+    when you book travel through the all-new Robinhood travel portal.
+    For more details,
+    please refer to
+    [Robinhood Gold Card waitlist](https://robinhood.com/us/en/support/articles/robinhood-gold-card-waitlist/)
+    .
+
+[^2]: On eligible travel purchases only
+
+[^7]: Earn up to \$50 in statement credits each account anniversary year for hotel stays purchased through Chase Travel.
+
+[^8]: The card comes with trip cancellation and interruption insurance, lost luggage reimbursement, auto rental coverage, etc.
+
+[^1]: 5% (credit card) + 10% (member rewards)
