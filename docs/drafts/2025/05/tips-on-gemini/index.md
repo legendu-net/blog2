@@ -14,6 +14,7 @@ tags:
   - Google
   - cookbook
   - prompt
+  - studio
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
@@ -23,6 +24,15 @@ tags:
 1. Google Gemini saves conversations and apps you built so that you can revisit them later.
    Notice that prompts (conversations) are also saved into
    the directory "My Drive/Google AI Studio" in your Google drive.
+
+## Google's AI Studio
+
+- Based on Gemini. 
+- Best for prototyping and building apps. 
+- It's suggested that you publish an app once you are satisfied with it
+  so that you can use the published app  
+  instead of rebuilding the app again each time
+  .
 
 ## References
 
