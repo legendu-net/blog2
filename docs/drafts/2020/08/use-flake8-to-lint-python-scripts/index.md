@@ -23,8 +23,7 @@ When flake8 supports `pyproject.toml` later,
 it is best to configure flake8 in `pyproject.toml`.
 Below is an example of configuration.
 
-```
-:::text
+```text
 [flake8]
 ignore = C901,E501,E251,E124,E125,E722,E261,E265,W291,W292,W293
 exclude = __init__.py,docs/source/conf.py,old,build,dist,.git,__pycache__

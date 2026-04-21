@@ -66,8 +66,7 @@ it will prompt for confirmation of adding the host as a known one.
 To avoid those interuptions,
 you can add the following into your Ansible configuration file.
 
-```
-:::text
+```text
 [defaults]
 host_key_checking = False
 ```

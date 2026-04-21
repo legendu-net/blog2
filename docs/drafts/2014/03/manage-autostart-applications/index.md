@@ -74,8 +74,7 @@ tags:
    The universal way to configure a delay is to add a `sleep` into the `Exec=` line.
    For example
 
-   ```
-    :::text
+   ```text
     Exec=sleep 10 && /usr/bin/flatpak run --branch=stable --arch=x86_64 --command=/app/bin/dropbox-app com.dropbox.Client
    ```
 

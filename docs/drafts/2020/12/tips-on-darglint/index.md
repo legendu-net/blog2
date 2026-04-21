@@ -35,8 +35,7 @@ When darglint supports `pyproject.toml`,
 the configuration should be moved into `pyproject.toml`.
 Below is an example of configuration.
 
-```
-:::text
+```text
 [darglint]
 docstring_style=sphinx
 message_template={path}:{line}: {msg_id}: {msg}

@@ -1,7 +1,7 @@
 ---
 title: Recommendation of Credit Card Usage
 created: 2022-10-09 16:34:06
-date: 2026-04-19 20:56:53.993708
+date: 2026-04-20 11:36:42.022438
 authors:
   - bendu
 label: recommendation-of-credit-card-usage

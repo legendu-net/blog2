@@ -23,8 +23,7 @@ tags:
 
 Add the following into the file `.vscode/settings.json` under the root directory of your project.
 
-```
-:::json
+```json
 {
 "deno.enable": true,
 }

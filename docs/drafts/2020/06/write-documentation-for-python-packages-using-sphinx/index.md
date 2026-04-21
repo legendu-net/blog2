@@ -70,8 +70,7 @@ so that you can use Sphinx commands directly.
      Relative paths (w.r.t the directory of the file `conf.py`) are allowed.
      Assume your project has the following structure,
 
-     ```
-       :::text
+     ```text
        proj_name/
            proj_name/
                __init__.py

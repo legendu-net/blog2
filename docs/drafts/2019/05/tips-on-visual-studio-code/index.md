@@ -31,8 +31,7 @@ https://github.com/Microsoft/vscode/wiki/Keybinding-Issues
 
 A simple fix is to add the following configuration into the user's setting.json file.
 
-```
-:::json
+```json
 {
     "keyboard.dispatch": "keyCode"
 }

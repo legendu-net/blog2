@@ -34,8 +34,7 @@ https://github.com/asvetliakov/vscode-neovim
 1. Set the path of NeoVim via the extension settings.
    You can also do this by editing the settings file directly.
 
-   ```
-    :::json
+   ```json
     {
         "terminal.integrated.commandsToSkipShell": [
             "-workbench.action.quickOpen"

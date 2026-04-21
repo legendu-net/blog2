@@ -135,8 +135,7 @@ tags:
 
 What seems to help is the following annotations for the registry Nginx Ingress (taken from the Gitlab Helm chart):
 
-```
-:::json
+```json
 nginx.ingress.kubernetes.io/proxy-body-size: "0"
 nginx.ingress.kubernetes.io/proxy-read-timeout: "900"
 nginx.ingress.kubernetes.io/proxy-request-buffering: "off"
