@@ -38,6 +38,8 @@ tags:
 
 1. Use `/help` for more information on Gemini CLI.
 
+1. Use the comamnd `/vim` to toggle on Vim mode.
+
 ## Manage Prompts
 
 1. Use the command `/init` to generate `GEMINI.md` in the root directory of your project.
