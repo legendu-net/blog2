@@ -64,6 +64,11 @@ tags:
    you can add a line `kernel.perf_event_paranoid = -1`
    into the file `/etc/sysctl.conf`
    .
+   You can of course edit the file manually.
+   Below is a comamnd for doing (and applying changes) automatically.
+   ```sh
+   sudo uvx --from aiutil etc_sysctl kernel.perf_event_paranoid -1 --apply
+   ```
 
    If you work in a Docker environemnt,
    you have to
