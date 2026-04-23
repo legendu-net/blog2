@@ -6,6 +6,7 @@ site:
 
 ## programming
 ```{dropdown} Click to expand/collapse 1033 links
+- [SQL Style And Formatter](sql-style-and-formatter)
 - [Manage Python Projects Using uv](manage-python-projects-using-uv)
 - [Tips on Neovim](tips-on-neovim)
 - [Tips on Web Browsers](tips-on-web-browsers)
@@ -257,7 +258,6 @@ site:
 - [Hands on the RandomDataGenerator class in Apache Commons Math](hands-on-the-randomdatagenerator-class-in-apache-commons-math)
 - [GPU for Web](gpu-for-web)
 - [Rust Error: error[E0554]: `#![feature]` May Not Be Used on the Stable Release Channel](rust-error-error-e0554-feature-may-not-be-used-on-the-stable-release-channel)
-- [SQL Style And Formatter](sql-style-and-formatter)
 - [Hands on the psutil Module in Python](hands-on-the-psutil-module-in-python)
 - [Hands on the Zoneinfo Module in Python](hands-on-the-zoneinfo-module-in-python)
 - [Hands on the Resource Module in Python](hands-on-the-resource-module-in-python)
@@ -979,11 +979,11 @@ site:
 - [Python Local Packages Directory](python-local-packages-directory)
 - [Spark vs Redshift](spark-vs-redshift)
 - [Differences Between Kotlin and Java](differences-between-kotlin-and-java)
-- [Use SnakeYaml in Scala](use-snakeyaml-in-scala)
 - [Conversions between Java and Scala Collections](conversions-between-java-and-scala-collections)
+- [Use SnakeYaml in Scala](use-snakeyaml-in-scala)
 - [Hands on scala.math](hands-on-scala.math)
-- [Equality by Reference and Value in Python](equality-by-reference-and-value-in-python)
 - [Hands on Full-text Search in SQLite3](hands-on-full-text-search-in-sqlite3)
+- [Equality by Reference and Value in Python](equality-by-reference-and-value-in-python)
 - [Print Colored Text in Terminal](print-colored-text-in-terminal)
 - [Runtime Paths in Python](runtime-paths-in-python)
 - [Tips on Xonsh](tips-on-xonsh)
@@ -1043,6 +1043,7 @@ site:
 
 ## computer science
 ```{dropdown} Click to expand/collapse 752 links
+- [SQL Style And Formatter](sql-style-and-formatter)
 - [Manage Python Projects Using uv](manage-python-projects-using-uv)
 - [Tips on Neovim](tips-on-neovim)
 - [Tips on Web Browsers](tips-on-web-browsers)
@@ -1255,7 +1256,6 @@ site:
 - [Python Logging Made Stupidly Simple With Loguru](python-logging-made-stupidly-simple-with-loguru)
 - [Profiling Data Using ydata-profiling](profiling-data-using-ydata-profiling)
 - [Use the Blob Data Type in Sqlite3](use-the-blob-data-type-in-sqlite3)
-- [SQL Style And Formatter](sql-style-and-formatter)
 - [Slicing of Pandas Dataframes](slicing-of-pandas-dataframes)
 - [Pandas IO](pandas-io)
 - [Calculate Hash of a Directory in Python](calculate-hash-of-a-directory-in-python)
@@ -2786,9 +2786,9 @@ site:
 - [Training Deep Neural Networks](training-deep-neural-networks)
 - [Learning to Rank](learning-to-rank)
 - [Common Issues in PyTorch](common-issues-in-pytorch)
-- [Tips on TensorFlow](tips-on-tensorflow)
-- [Use PyTorch on GPU](use-pytorch-on-gpu)
 - [LightGBM on GPU](lightgbm-on-gpu)
+- [Use PyTorch on GPU](use-pytorch-on-gpu)
+- [Tips on TensorFlow](tips-on-tensorflow)
 - [Data for NLP Research](data-for-nlp-research)
 - [Tips on Feature Engineering for Machine Learning](tips-on-feature-engineering-for-machine-learning)
 - [Tips on Reinforcement Learning](tips-on-reinforcement-learning)
@@ -3151,9 +3151,9 @@ site:
 - [Training Deep Neural Networks](training-deep-neural-networks)
 - [Learning to Rank](learning-to-rank)
 - [Common Issues in PyTorch](common-issues-in-pytorch)
-- [Tips on TensorFlow](tips-on-tensorflow)
-- [Use PyTorch on GPU](use-pytorch-on-gpu)
 - [LightGBM on GPU](lightgbm-on-gpu)
+- [Use PyTorch on GPU](use-pytorch-on-gpu)
+- [Tips on TensorFlow](tips-on-tensorflow)
 - [Data for NLP Research](data-for-nlp-research)
 - [Tips on Feature Engineering for Machine Learning](tips-on-feature-engineering-for-machine-learning)
 - [Tips on Reinforcement Learning](tips-on-reinforcement-learning)
@@ -3265,9 +3265,9 @@ site:
 - [Training Deep Neural Networks](training-deep-neural-networks)
 - [Learning to Rank](learning-to-rank)
 - [Common Issues in PyTorch](common-issues-in-pytorch)
-- [Tips on TensorFlow](tips-on-tensorflow)
-- [Use PyTorch on GPU](use-pytorch-on-gpu)
 - [LightGBM on GPU](lightgbm-on-gpu)
+- [Use PyTorch on GPU](use-pytorch-on-gpu)
+- [Tips on TensorFlow](tips-on-tensorflow)
 - [Data for NLP Research](data-for-nlp-research)
 - [Tips on Feature Engineering for Machine Learning](tips-on-feature-engineering-for-machine-learning)
 - [Tips on Reinforcement Learning](tips-on-reinforcement-learning)
@@ -3319,9 +3319,9 @@ site:
 
 ## life
 ```{dropdown} Click to expand/collapse 92 links
+- [Tips on Housing](tips-on-housing)
 - [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
 - [Tips on Buying a House](tips-on-buying-a-house)
-- [Tips on Housing](tips-on-housing)
 - [Shopping At Homedepot](shopping-at-homedepot)
 - [Shopping Smartly](shopping-smartly)
 - [Tips on Children Health](tips-on-children-health)
@@ -3481,8 +3481,8 @@ site:
 - [Arrays in Java](arrays-in-java)
 - [Java Unit Testing](java-unit-testing)
 - [Differences Between Kotlin and Java](differences-between-kotlin-and-java)
-- [Use SnakeYaml in Scala](use-snakeyaml-in-scala)
 - [Conversions between Java and Scala Collections](conversions-between-java-and-scala-collections)
+- [Use SnakeYaml in Scala](use-snakeyaml-in-scala)
 - [Hands on scala.math](hands-on-scala.math)
 - [Java Reflection](java-reflection)
 - [GUI Frameworks for Java](gui-frameworks-for-java)
@@ -3708,8 +3708,8 @@ site:
 - [Use LightGBM With Spark](use-lightgbm-with-spark)
 - [Use Kotlin in a Scala Project](use-kotlin-in-a-scala-project)
 - [Kotlin vs Scala](kotlin-vs-scala)
-- [Use SnakeYaml in Scala](use-snakeyaml-in-scala)
 - [Conversions between Java and Scala Collections](conversions-between-java-and-scala-collections)
+- [Use SnakeYaml in Scala](use-snakeyaml-in-scala)
 - [Hands on scala.math](hands-on-scala.math)
 - [Use Scala With Picocli](use-scala-with-picocli)
 - [sbt Plugins for Deployment](sbt-plugins-for-deployment)
@@ -3838,8 +3838,8 @@ site:
 - [Java Unit Testing](java-unit-testing)
 - [Use Kotlin as a Scripting Language](use-kotlin-as-a-scripting-language)
 - [Differences Between Kotlin and Java](differences-between-kotlin-and-java)
-- [Use SnakeYaml in Scala](use-snakeyaml-in-scala)
 - [Conversions between Java and Scala Collections](conversions-between-java-and-scala-collections)
+- [Use SnakeYaml in Scala](use-snakeyaml-in-scala)
 - [Hands on scala.math](hands-on-scala.math)
 - [Use Scala With Picocli](use-scala-with-picocli)
 - [Argument Parsing in Groovy](argument-parsing-in-groovy)
@@ -4119,6 +4119,7 @@ site:
 
 ## SQL
 ```{dropdown} Click to expand/collapse 44 links
+- [SQL Style And Formatter](sql-style-and-formatter)
 - [Query Pandas Data Frames Using SQL](query-pandas-data-frames-using-sql)
 - [General Tips on SQL](general-tips-on-sql)
 - [SQL Database Client-server Protocols](sql-database-client-server-protocols)
@@ -4128,7 +4129,6 @@ site:
 - [Tips on Apache Arrow Flight SQL](tips-on-apache-arrow-flight-sql)
 - [Pivot Table in SQL](pivot-table-in-sql)
 - [Use the Blob Data Type in Sqlite3](use-the-blob-data-type-in-sqlite3)
-- [SQL Style And Formatter](sql-style-and-formatter)
 - [Get Size of Tables on HDFS](get-size-of-tables-on-hdfs)
 - [Tips on Sqlfluff](tips-on-sqlfluff)
 - [Extract Identifier Names from a SQL Query Using Sqlfluff](extract-identifier-names-from-a-sql-query-using-sqlfluff)
@@ -5323,20 +5323,20 @@ site:
 - [Hardware for AI](hardware-for-ai)
 - [Tips on PyTorch](tips-on-pytorch)
 - [Docker for Nvidia GPU](docker-for-nvidia-gpu)
-- [Tips on TensorFlow](tips-on-tensorflow)
-- [Use PyTorch on GPU](use-pytorch-on-gpu)
 - [LightGBM on GPU](lightgbm-on-gpu)
+- [Use PyTorch on GPU](use-pytorch-on-gpu)
+- [Tips on TensorFlow](tips-on-tensorflow)
 - [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
 ```
 
 ## format
 ```{dropdown} Click to expand/collapse 17 links
+- [SQL Style And Formatter](sql-style-and-formatter)
 - [Tips on TOML](tips-on-toml)
 - [Date and Time in Rust](date-and-time-in-rust)
 - [Tips on Cargo](tips-on-cargo)
 - [Useful Tools for Python Developing](useful-tools-for-python-developing)
 - [Format Strings in Golang](format-strings-in-golang)
-- [SQL Style And Formatter](sql-style-and-formatter)
 - [Tips on Sqlfluff](tips-on-sqlfluff)
 - [The println Macro in Rust](the-println-macro-in-rust)
 - [Convert Pandas DataFrame to Other Format](convert-pandas-dataframe-to-other-format)
@@ -6751,8 +6751,8 @@ site:
 
 ## shopping
 ```{dropdown} Click to expand/collapse 8 links
-- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
 - [Tips on Housing](tips-on-housing)
+- [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
 - [Shopping At Homedepot](shopping-at-homedepot)
 - [Shopping Smartly](shopping-smartly)
 - [Shopping on Costco](shopping-on-costco)
@@ -7025,6 +7025,17 @@ site:
 - [Erase Elements of a Container Using Iterator in C++](erase-elements-of-a-container-using-iterator-in-c++)
 ```
 
+## formatting
+```{dropdown} Click to expand/collapse 7 links
+- [SQL Style And Formatter](sql-style-and-formatter)
+- [Useful Tools for Python Developing](useful-tools-for-python-developing)
+- [The println Macro in Rust](the-println-macro-in-rust)
+- [Ruff Is An Extremely Fast Python Linter Written in Rust](ruff-is-an-extremely-fast-python-linter-written-in-rust)
+- [Format String in Java](format-string-in-java)
+- [Round/Format Numbers in Java](round-format-numbers-in-java)
+- [Format Java Code](format-java-code)
+```
+
 ## dependency
 ```{dropdown} Click to expand/collapse 7 links
 - [Manage Python Projects Using uv](manage-python-projects-using-uv)
@@ -7276,17 +7287,6 @@ site:
 - [Tips on Dioxus](tips-on-dioxus)
 - [File Converting and Generating Tools](file-converting-and-generating-tools)
 - [Tips on Web Development](tips-on-web-development)
-```
-
-## formatting
-```{dropdown} Click to expand/collapse 7 links
-- [Useful Tools for Python Developing](useful-tools-for-python-developing)
-- [SQL Style And Formatter](sql-style-and-formatter)
-- [The println Macro in Rust](the-println-macro-in-rust)
-- [Ruff Is An Extremely Fast Python Linter Written in Rust](ruff-is-an-extremely-fast-python-linter-written-in-rust)
-- [Format String in Java](format-string-in-java)
-- [Round/Format Numbers in Java](round-format-numbers-in-java)
-- [Format Java Code](format-java-code)
 ```
 
 ## KDE
@@ -9229,6 +9229,13 @@ site:
 - [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
 ```
 
+## sqlfluff
+```{dropdown} Click to expand/collapse 3 links
+- [SQL Style And Formatter](sql-style-and-formatter)
+- [Tips on Sqlfluff](tips-on-sqlfluff)
+- [Extract Identifier Names from a SQL Query Using Sqlfluff](extract-identifier-names-from-a-sql-query-using-sqlfluff)
+```
+
 ## credit card
 ```{dropdown} Click to expand/collapse 3 links
 - [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
@@ -10020,13 +10027,6 @@ site:
 - [Python Logging](python-logging)
 ```
 
-## sqlfluff
-```{dropdown} Click to expand/collapse 3 links
-- [SQL Style And Formatter](sql-style-and-formatter)
-- [Tips on Sqlfluff](tips-on-sqlfluff)
-- [Extract Identifier Names from a SQL Query Using Sqlfluff](extract-identifier-names-from-a-sql-query-using-sqlfluff)
-```
-
 ## slice
 ```{dropdown} Click to expand/collapse 3 links
 - [Slicing of Pandas Dataframes](slicing-of-pandas-dataframes)
@@ -10510,6 +10510,36 @@ site:
 - [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
 ```
 
+## formatter
+```{dropdown} Click to expand/collapse 2 links
+- [SQL Style And Formatter](sql-style-and-formatter)
+- [Mdformat Is An Extensible Markdown Formatter](mdformat-is-an-extensible-markdown-formatter)
+```
+
+## style
+```{dropdown} Click to expand/collapse 2 links
+- [SQL Style And Formatter](sql-style-and-formatter)
+- [Java Programming Style](java-programming-style)
+```
+
+## housing
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Housing](tips-on-housing)
+- [Property Line](property-line)
+```
+
+## rent
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Housing](tips-on-housing)
+- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
+```
+
+## apartment
+```{dropdown} Click to expand/collapse 2 links
+- [Tips on Housing](tips-on-housing)
+- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
+```
+
 ## uv
 ```{dropdown} Click to expand/collapse 2 links
 - [Manage Python Projects Using uv](manage-python-projects-using-uv)
@@ -10544,24 +10574,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Buying a House](tips-on-buying-a-house)
 - [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
-```
-
-## housing
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Housing](tips-on-housing)
-- [Property Line](property-line)
-```
-
-## rent
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Housing](tips-on-housing)
-- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
-```
-
-## apartment
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Housing](tips-on-housing)
-- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
 ```
 
 ## addon
@@ -11320,12 +11332,6 @@ site:
 - [Tips on GPG](tips-on-gpg)
 ```
 
-## formatter
-```{dropdown} Click to expand/collapse 2 links
-- [Mdformat Is An Extensible Markdown Formatter](mdformat-is-an-extensible-markdown-formatter)
-- [SQL Style And Formatter](sql-style-and-formatter)
-```
-
 ## pathlib
 ```{dropdown} Click to expand/collapse 2 links
 - [Hands on pathlib.Path](hands-on-pathlib.path)
@@ -11918,12 +11924,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Profiling Data Using ydata-profiling](profiling-data-using-ydata-profiling)
 - [Data Profiling Tools](data-profiling-tools)
-```
-
-## style
-```{dropdown} Click to expand/collapse 2 links
-- [SQL Style And Formatter](sql-style-and-formatter)
-- [Java Programming Style](java-programming-style)
 ```
 
 ## BytesIO
