@@ -18,6 +18,8 @@ tags:
   - FlameGraph
   - Bytehound
   - HeapTrack
+  - perf
+  - Valgrind
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**

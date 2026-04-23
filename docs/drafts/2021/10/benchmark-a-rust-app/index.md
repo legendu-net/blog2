@@ -21,11 +21,61 @@ tags:
 
 ## Tips and Traps
 
-1. The built-in benchmarking is still unstable and will likely be deprecated.
+1. Rust's built-in benchmark feature has been unstable (on nightly channel only) for many years 
+    and will likely be deprecated.
+
+## Comparison of Popular Benchmark Tools for Rust
 
 1. [criterion](https://crates.io/crates/criterion)
-   is currently the best Rust crate for benchmarking.
+   was the most popular choice for benchmarking code.
 
+1. [divan](https://github.com/nvzqz/divan)
+    is a newer modern alternative to criterion with many more features.
+
+1. [Gungraun](https://github.com/gungraun/gungraun)
+    is another rising tool for benching Rust code.
+    It leverages Valgrind's profiling tools like Callgrind, Cachegrind and DHAT
+    to provide extremely accurate and consistent measurements of Rust code,
+    making it perfectly suited to run in environments like a CI.
+
+```{list-table} Rust Benchmarking Tool Comparison
+:header-rows: 1
+
+* - Feature
+  - [Criterion](https://crates.io/crates/criterion)
+  - [Divan](https://github.com/nvzqz/divan)
+  - [Gungraun](https://github.com/gungraun/gungraun)
+* - Measurement
+  - Wall-clock time
+  - Wall-clock time
+  - Instruction counts / Cache misses
+* - CPU Cycles
+  - via [criterion-perf-events](https://crates.io/crates/criterion-perf-events) [^criterion_perf_events]
+  - Built-in support via TSC for x86.
+  - Built-in support for estimated CPU cycles.
+* - Method
+  - Statistical (100+ runs)
+  - Statistical (100+ runs)
+  - One-shot (via Valgrind)
+* - Noise
+  - Sensitive to OS jitter
+  - Sensitive to OS jitter
+  - **Zero noise** (Deterministic)
+* - Reports
+  - HTML Graphs / Console
+  - Console / Memory usage
+  - Callgrind / Flamegraphs
+* - Setup
+  - High boilerplate
+  - **Very Low** (Attributes)
+  - Moderate (Requires Valgrind)
+* - Platform
+  - Cross-platform
+  - Cross-platform
+  - Linux/macOS only
+```
+
+[^criterion_perf_events]: Not recommended: Linux only; requires sudo access to set the kernel parameter kernel.perf_event_paranoid.
 ## [Criterion](https://crates.io/crates/criterion)
 
 1. With Rust stable,
@@ -67,18 +117,7 @@ tags:
 [divan](https://github.com/nvzqz/divan)
 is a fast and simple benchmarking for Rust projects.
 
-## [Iai](https://crates.io/crates/iai)
-
-1. [Iai](https://crates.io/crates/iai)
-   is an experimental benchmarking harness
-   that uses Cachegrind to perform extremely precise single-shot measurements of Rust code.
-
-1. The idea of Iai is very cool,
-   but unfotuantely it does not support excluding setup code from benchmark at this time.
-   This makes Iai unusable in most cases.
-   The PR
-   [Use Callgrind instead of Cachegrind #26](https://github.com/bheisler/iai/pull/26)
-   might fix this issue later.
+## [Gungraun](https://github.com/gungraun/gungraun)
 
 ## Benchmark Numbers for Rust
 

@@ -1,7 +1,7 @@
 ---
 title: Tips on Housing
 created: 2014-03-22 14:23:43
-date: 2026-04-20 21:01:19.021024
+date: 2026-04-21 16:16:40.023562
 authors:
   - bendu
 label: tips-on-housing
