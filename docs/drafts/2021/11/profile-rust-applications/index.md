@@ -129,9 +129,9 @@ is a heap memory profiler for Linux
 
 ## References
 
-- [CPU Profiling of Rust Applications Using Valgrind](https://www.legendu.net/misc/blog/cpu-profiling-rust-valgrind) | misc/content/2022/01/cpu-profiling-rust-valgrind/cpu-profiling-rust-valgrind.markdown
+- [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
 
-- [Profile Rust Applications Using Flamegraph](https://www.legendu.net/misc/blog/profile-rust-applications-using-flamegraph) | misc/content/2021/11/profile-rust-applications-using-flamegraph/profile-rust-applications-using-flamegraph.markdown
+- [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
 
 - [Tips on Valgrind](https://www.legendu.net/misc/blog/tips-on-valgrind)
 

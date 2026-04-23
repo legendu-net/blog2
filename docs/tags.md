@@ -7,10 +7,10 @@ site:
 ## programming
 ```{dropdown} Click to expand/collapse 1033 links
 - [Manage Python Projects Using uv](manage-python-projects-using-uv)
-- [Tips on Claude](tips-on-claude)
 - [Tips on Neovim](tips-on-neovim)
-- [AI Tools from China](ai-tools-from-china)
 - [Tips on Web Browsers](tips-on-web-browsers)
+- [Tips on Claude](tips-on-claude)
+- [AI Tools from China](ai-tools-from-china)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
 - [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
 - [LLM APIs](llm-apis)
@@ -979,11 +979,11 @@ site:
 - [Python Local Packages Directory](python-local-packages-directory)
 - [Spark vs Redshift](spark-vs-redshift)
 - [Differences Between Kotlin and Java](differences-between-kotlin-and-java)
-- [Conversions between Java and Scala Collections](conversions-between-java-and-scala-collections)
 - [Use SnakeYaml in Scala](use-snakeyaml-in-scala)
+- [Conversions between Java and Scala Collections](conversions-between-java-and-scala-collections)
 - [Hands on scala.math](hands-on-scala.math)
-- [Hands on Full-text Search in SQLite3](hands-on-full-text-search-in-sqlite3)
 - [Equality by Reference and Value in Python](equality-by-reference-and-value-in-python)
+- [Hands on Full-text Search in SQLite3](hands-on-full-text-search-in-sqlite3)
 - [Print Colored Text in Terminal](print-colored-text-in-terminal)
 - [Runtime Paths in Python](runtime-paths-in-python)
 - [Tips on Xonsh](tips-on-xonsh)
@@ -1045,8 +1045,8 @@ site:
 ```{dropdown} Click to expand/collapse 752 links
 - [Manage Python Projects Using uv](manage-python-projects-using-uv)
 - [Tips on Neovim](tips-on-neovim)
-- [AI Tools from China](ai-tools-from-china)
 - [Tips on Web Browsers](tips-on-web-browsers)
+- [AI Tools from China](ai-tools-from-china)
 - [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
 - [Prompt Engineering for LLM Tools](prompt-engineering-for-llm-tools)
 - [Models in Torchvision and Ways to Finetune Them](models-in-torchvision-and-ways-to-finetune-them)
@@ -2159,6 +2159,8 @@ site:
 ## software
 ```{dropdown} Click to expand/collapse 199 links
 - [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
+- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
+- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
 - [Cloud IDE](cloud-ide)
 - [My Docker Images](my-docker-images)
 - [Working Remotely in Linux](working-remotely-in-linux)
@@ -2177,7 +2179,6 @@ site:
 - [Docker on Mac](docker-on-mac)
 - [Docker Images for Zeppelin](docker-images-for-zeppelin)
 - [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
-- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
 - [Managing Projects Using ProjectLibre](managing-projects-using-projectlibre)
 - [Tips on IDE](tips-on-ide)
 - [IDEs for LaTeX](ides-for-latex)
@@ -2278,7 +2279,6 @@ site:
 - [Tips on VPN](tips-on-vpn)
 - [Use External Downloader for Firefox](use-external-downloader-for-firefox)
 - [Download Files Using Transmission](download-files-using-transmission)
-- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
 - [Record Computer Screen using RecordMyDesktop](record-computer-screen-using-recordmydesktop)
 - [Python Developing in PyCharm](python-developing-in-pycharm)
 - [View and Edit PDF Documents Using Okular](view-and-edit-pdf-documents-using-okular)
@@ -2700,11 +2700,11 @@ site:
 
 ## AI
 ```{dropdown} Click to expand/collapse 137 links
+- [Tips on Web Browsers](tips-on-web-browsers)
 - [Tips on Claude](tips-on-claude)
 - [AI Tools from China](ai-tools-from-china)
 - [AI Translators](ai-translators)
 - [Learning Modern AI](learning-modern-ai)
-- [Tips on Web Browsers](tips-on-web-browsers)
 - [Build Knowledge Base for AI](build-knowledge-base-for-ai)
 - [Learning Traditional ML](learning-traditional-ml)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
@@ -2786,9 +2786,9 @@ site:
 - [Training Deep Neural Networks](training-deep-neural-networks)
 - [Learning to Rank](learning-to-rank)
 - [Common Issues in PyTorch](common-issues-in-pytorch)
-- [LightGBM on GPU](lightgbm-on-gpu)
-- [Use PyTorch on GPU](use-pytorch-on-gpu)
 - [Tips on TensorFlow](tips-on-tensorflow)
+- [Use PyTorch on GPU](use-pytorch-on-gpu)
+- [LightGBM on GPU](lightgbm-on-gpu)
 - [Data for NLP Research](data-for-nlp-research)
 - [Tips on Feature Engineering for Machine Learning](tips-on-feature-engineering-for-machine-learning)
 - [Tips on Reinforcement Learning](tips-on-reinforcement-learning)
@@ -3151,9 +3151,9 @@ site:
 - [Training Deep Neural Networks](training-deep-neural-networks)
 - [Learning to Rank](learning-to-rank)
 - [Common Issues in PyTorch](common-issues-in-pytorch)
-- [LightGBM on GPU](lightgbm-on-gpu)
-- [Use PyTorch on GPU](use-pytorch-on-gpu)
 - [Tips on TensorFlow](tips-on-tensorflow)
+- [Use PyTorch on GPU](use-pytorch-on-gpu)
+- [LightGBM on GPU](lightgbm-on-gpu)
 - [Data for NLP Research](data-for-nlp-research)
 - [Tips on Feature Engineering for Machine Learning](tips-on-feature-engineering-for-machine-learning)
 - [Tips on Reinforcement Learning](tips-on-reinforcement-learning)
@@ -3265,9 +3265,9 @@ site:
 - [Training Deep Neural Networks](training-deep-neural-networks)
 - [Learning to Rank](learning-to-rank)
 - [Common Issues in PyTorch](common-issues-in-pytorch)
-- [LightGBM on GPU](lightgbm-on-gpu)
-- [Use PyTorch on GPU](use-pytorch-on-gpu)
 - [Tips on TensorFlow](tips-on-tensorflow)
+- [Use PyTorch on GPU](use-pytorch-on-gpu)
+- [LightGBM on GPU](lightgbm-on-gpu)
 - [Data for NLP Research](data-for-nlp-research)
 - [Tips on Feature Engineering for Machine Learning](tips-on-feature-engineering-for-machine-learning)
 - [Tips on Reinforcement Learning](tips-on-reinforcement-learning)
@@ -3319,9 +3319,9 @@ site:
 
 ## life
 ```{dropdown} Click to expand/collapse 92 links
-- [Tips on Housing](tips-on-housing)
 - [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
 - [Tips on Buying a House](tips-on-buying-a-house)
+- [Tips on Housing](tips-on-housing)
 - [Shopping At Homedepot](shopping-at-homedepot)
 - [Shopping Smartly](shopping-smartly)
 - [Tips on Children Health](tips-on-children-health)
@@ -3481,8 +3481,8 @@ site:
 - [Arrays in Java](arrays-in-java)
 - [Java Unit Testing](java-unit-testing)
 - [Differences Between Kotlin and Java](differences-between-kotlin-and-java)
-- [Conversions between Java and Scala Collections](conversions-between-java-and-scala-collections)
 - [Use SnakeYaml in Scala](use-snakeyaml-in-scala)
+- [Conversions between Java and Scala Collections](conversions-between-java-and-scala-collections)
 - [Hands on scala.math](hands-on-scala.math)
 - [Java Reflection](java-reflection)
 - [GUI Frameworks for Java](gui-frameworks-for-java)
@@ -3708,8 +3708,8 @@ site:
 - [Use LightGBM With Spark](use-lightgbm-with-spark)
 - [Use Kotlin in a Scala Project](use-kotlin-in-a-scala-project)
 - [Kotlin vs Scala](kotlin-vs-scala)
-- [Conversions between Java and Scala Collections](conversions-between-java-and-scala-collections)
 - [Use SnakeYaml in Scala](use-snakeyaml-in-scala)
+- [Conversions between Java and Scala Collections](conversions-between-java-and-scala-collections)
 - [Hands on scala.math](hands-on-scala.math)
 - [Use Scala With Picocli](use-scala-with-picocli)
 - [sbt Plugins for Deployment](sbt-plugins-for-deployment)
@@ -3838,8 +3838,8 @@ site:
 - [Java Unit Testing](java-unit-testing)
 - [Use Kotlin as a Scripting Language](use-kotlin-as-a-scripting-language)
 - [Differences Between Kotlin and Java](differences-between-kotlin-and-java)
-- [Conversions between Java and Scala Collections](conversions-between-java-and-scala-collections)
 - [Use SnakeYaml in Scala](use-snakeyaml-in-scala)
+- [Conversions between Java and Scala Collections](conversions-between-java-and-scala-collections)
 - [Hands on scala.math](hands-on-scala.math)
 - [Use Scala With Picocli](use-scala-with-picocli)
 - [Argument Parsing in Groovy](argument-parsing-in-groovy)
@@ -4588,6 +4588,38 @@ site:
 - [WebRTC](webrtc)
 ```
 
+## JupyterLab
+```{dropdown} Click to expand/collapse 28 links
+- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
+- [My Docker Images](my-docker-images)
+- [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
+- [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
+- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
+- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
+- [Tips on Jupyter-Book](tips-on-jupyter-book)
+- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
+- [Tips on Jupyter Binder](tips-on-jupyter-binder)
+- [Tips on Google Colab](tips-on-google-colab)
+- [Trust a JupyterLab Notebook](trust-a-jupyterlab-notebook)
+- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
+- [Use Spark With Apache Toree Kernel in Juptyerlab](use-spark-with-apache-toree-kernel-in-juptyerlab)
+- [Tips on the Almond Scala Kernel](tips-on-the-almond-scala-kernel)
+- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
+- [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
+- [Tips on nbconvert](tips-on-nbconvert)
+- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
+- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
+- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
+- [Use Spark with the Almond Scala Kernel in JupyterLab](use-spark-with-the-almond-scala-kernel-in-jupyterlab)
+- [Specify Dependencies in the Almond Scala Kernel in JupyterLab](specify-dependencies-in-the-almond-scala-kernel-in-jupyterlab)
+- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
+- [Tips on JupyterLab](tips-on-jupyterlab)
+- [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
+- [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
+- [Dashboard Solutions](dashboard-solutions)
+- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
+```
+
 ## API
 ```{dropdown} Click to expand/collapse 28 links
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
@@ -4618,38 +4650,6 @@ site:
 - [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
 - [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 - [VirtualBox API](virtualbox-api)
-```
-
-## JupyterLab
-```{dropdown} Click to expand/collapse 28 links
-- [My Docker Images](my-docker-images)
-- [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
-- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
-- [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
-- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
-- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
-- [Tips on Jupyter-Book](tips-on-jupyter-book)
-- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
-- [Tips on Jupyter Binder](tips-on-jupyter-binder)
-- [Tips on Google Colab](tips-on-google-colab)
-- [Trust a JupyterLab Notebook](trust-a-jupyterlab-notebook)
-- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
-- [Use Spark With Apache Toree Kernel in Juptyerlab](use-spark-with-apache-toree-kernel-in-juptyerlab)
-- [Tips on the Almond Scala Kernel](tips-on-the-almond-scala-kernel)
-- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
-- [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
-- [Tips on nbconvert](tips-on-nbconvert)
-- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
-- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
-- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
-- [Use Spark with the Almond Scala Kernel in JupyterLab](use-spark-with-the-almond-scala-kernel-in-jupyterlab)
-- [Specify Dependencies in the Almond Scala Kernel in JupyterLab](specify-dependencies-in-the-almond-scala-kernel-in-jupyterlab)
-- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
-- [Tips on JupyterLab](tips-on-jupyterlab)
-- [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
-- [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
-- [Dashboard Solutions](dashboard-solutions)
-- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
 ```
 
 ## C++
@@ -4890,10 +4890,10 @@ site:
 
 ## Jupyter
 ```{dropdown} Click to expand/collapse 23 links
+- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
 - [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
 - [Docker Images for Notebooks](docker-images-for-notebooks)
 - [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
-- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
 - [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
 - [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
 - [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
@@ -5098,6 +5098,30 @@ site:
 - [Python in Browser](python-in-browser)
 ```
 
+## notebook
+```{dropdown} Click to expand/collapse 20 links
+- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
+- [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
+- [Docker Images for Notebooks](docker-images-for-notebooks)
+- [Tips on Zeppelin](tips-on-zeppelin)
+- [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
+- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
+- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
+- [Visual Studio Code for Python](visual-studio-code-for-python)
+- [Tips on Jupyter-Book](tips-on-jupyter-book)
+- [Tips on Deno](tips-on-deno)
+- [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
+- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
+- [Tips on nbconvert](tips-on-nbconvert)
+- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
+- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
+- [Format Python Code Using Black](format-python-code-using-black)
+- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
+- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
+- [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
+- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
+```
+
 ## IO
 ```{dropdown} Click to expand/collapse 20 links
 - [The Source Class in Scala IO](the-source-class-in-scala-io)
@@ -5144,30 +5168,6 @@ site:
 - [Visualization Using Plotly](visualization-using-plotly)
 - [Python Modules for Visualization](python-modules-for-visualization)
 - [Visualization in Zeppelin](visualization-in-zeppelin)
-```
-
-## notebook
-```{dropdown} Click to expand/collapse 20 links
-- [Install ITypescript/IJavascript for Jupyter Notebook](install-itypescript-ijavascript-for-jupyter-notebook)
-- [Docker Images for Notebooks](docker-images-for-notebooks)
-- [Tips on Zeppelin](tips-on-zeppelin)
-- [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
-- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
-- [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
-- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
-- [Visual Studio Code for Python](visual-studio-code-for-python)
-- [Tips on Jupyter-Book](tips-on-jupyter-book)
-- [Tips on Deno](tips-on-deno)
-- [Public Jupyter/JupyterLab Hosts](public-jupyter-jupyterlab-hosts)
-- [Use nbdime to Diff and Merge JupyterLab Notebooks](use-nbdime-to-diff-and-merge-jupyterlab-notebooks)
-- [Tips on nbconvert](tips-on-nbconvert)
-- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
-- [Render and Edit JupyterLab Notebook in Terminal](render-and-edit-jupyterlab-notebook-in-terminal)
-- [Format Python Code Using Black](format-python-code-using-black)
-- [Tips on the jupyterlab-myst Extension](tips-on-the-jupyterlab-myst-extension)
-- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
-- [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
-- [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
 ```
 
 ## GUI
@@ -5323,31 +5323,10 @@ site:
 - [Hardware for AI](hardware-for-ai)
 - [Tips on PyTorch](tips-on-pytorch)
 - [Docker for Nvidia GPU](docker-for-nvidia-gpu)
-- [LightGBM on GPU](lightgbm-on-gpu)
-- [Use PyTorch on GPU](use-pytorch-on-gpu)
 - [Tips on TensorFlow](tips-on-tensorflow)
+- [Use PyTorch on GPU](use-pytorch-on-gpu)
+- [LightGBM on GPU](lightgbm-on-gpu)
 - [Public Cloud Offering GPU Support](public-cloud-offering-gpu-support)
-```
-
-## house
-```{dropdown} Click to expand/collapse 17 links
-- [Tips on Buying a House](tips-on-buying-a-house)
-- [Shopping At Homedepot](shopping-at-homedepot)
-- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
-- [Tips on Dishwasher](tips-on-dishwasher)
-- [Replace a Bathroom Fan](replace-a-bathroom-fan)
-- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
-- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
-- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
-- [Tips on Plumbing](tips-on-plumbing)
-- [Anker Solix Home Backup Battery System](anker-solix-home-backup-battery-system)
-- [Use Dehumidifiers to Remove Dampness from Your House](use-dehumidifiers-to-remove-dampness-from-your-house)
-- [Hot Water in the House](hot-water-in-the-house)
-- [Tips on Ecobee Thermostat](tips-on-ecobee-thermostat)
-- [Tips on Pest and Rodent Control](tips-on-pest-and-rodent-control)
-- [Tips on Washing Machine](tips-on-washing-machine)
-- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
-- [Drain Guard for Downspout](drain-guard-for-downspout)
 ```
 
 ## format
@@ -5369,6 +5348,27 @@ site:
 - [Format String in Java](format-string-in-java)
 - [Format a String in Python](format-a-string-in-python)
 - [Format Date and Time in Python](format-date-and-time-in-python)
+```
+
+## house
+```{dropdown} Click to expand/collapse 17 links
+- [Tips on Buying a House](tips-on-buying-a-house)
+- [Shopping At Homedepot](shopping-at-homedepot)
+- [Ways to Invest in Real Estate](ways-to-invest-in-real-estate)
+- [Tips on Dishwasher](tips-on-dishwasher)
+- [Replace a Bathroom Fan](replace-a-bathroom-fan)
+- [Build a Fence in the Backyard](build-a-fence-in-the-backyard)
+- [Maintenance of Roof of Houses](maintenance-of-roof-of-houses)
+- [Adjust Water Pressure in the House](adjust-water-pressure-in-the-house)
+- [Tips on Plumbing](tips-on-plumbing)
+- [Anker Solix Home Backup Battery System](anker-solix-home-backup-battery-system)
+- [Use Dehumidifiers to Remove Dampness from Your House](use-dehumidifiers-to-remove-dampness-from-your-house)
+- [Hot Water in the House](hot-water-in-the-house)
+- [Tips on Ecobee Thermostat](tips-on-ecobee-thermostat)
+- [Tips on Pest and Rodent Control](tips-on-pest-and-rodent-control)
+- [Tips on Washing Machine](tips-on-washing-machine)
+- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
+- [Drain Guard for Downspout](drain-guard-for-downspout)
 ```
 
 ## command line
@@ -5829,6 +5829,23 @@ site:
 - [Computer Vision Tools](computer-vision-tools)
 ```
 
+## Vim
+```{dropdown} Click to expand/collapse 13 links
+- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
+- [The Escape Key in Vim](the-escape-key-in-vim)
+- [Vim as a Universal Editor](vim-as-a-universal-editor)
+- [Typing Chinese in Vim](typing-chinese-in-vim)
+- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
+- [Tips on AstroNvim](tips-on-astronvim)
+- [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
+- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
+- [Vim Keybindings Using IdeaVim in IntelliJ IDEA](vim-keybindings-using-ideavim-in-intellij-idea)
+- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
+- [Tips on Vim](tips-on-vim)
+- [Interact with System Clipboard in Vim](interact-with-system-clipboard-in-vim)
+- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
+```
+
 ## markdown
 ```{dropdown} Click to expand/collapse 13 links
 - [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
@@ -5980,23 +5997,6 @@ site:
 - [Install Python Packages Using pip](install-python-packages-using-pip)
 - [Estimation of False Discovery Rate using Sequential Permutation Pvalues](estimation-of-false-discovery-rate-using-sequential-permutation-pvalues)
 - [My List of Python Modules](my-list-of-python-modules)
-```
-
-## Vim
-```{dropdown} Click to expand/collapse 13 links
-- [The Escape Key in Vim](the-escape-key-in-vim)
-- [Vim as a Universal Editor](vim-as-a-universal-editor)
-- [Typing Chinese in Vim](typing-chinese-in-vim)
-- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
-- [Tips on AstroNvim](tips-on-astronvim)
-- [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
-- [Popular Configurations for NeoVim](popular-configurations-for-neovim)
-- [Vim Keybindings Using IdeaVim in IntelliJ IDEA](vim-keybindings-using-ideavim-in-intellij-idea)
-- [Editing JupyterLab Notebooks Using Vim](editing-jupyterlab-notebooks-using-vim)
-- [Tips on Vim](tips-on-vim)
-- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
-- [Interact with System Clipboard in Vim](interact-with-system-clipboard-in-vim)
-- [Useful Plugins for Eclipse](useful-plugins-for-eclipse)
 ```
 
 ## SSH
@@ -6528,19 +6528,6 @@ site:
 - [Parallel Computing Using Multithreading](parallel-computing-using-multithreading)
 ```
 
-## browser
-```{dropdown} Click to expand/collapse 9 links
-- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
-- [Tips on Web Browsers](tips-on-web-browsers)
-- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
-- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
-- [Incognito Mode for Browsers](incognito-mode-for-browsers)
-- [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
-- [Tips on the Dia Browser](tips-on-the-dia-browser)
-- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
-- [Run UserScripts in Browsers](run-userscripts-in-browsers)
-```
-
 ## Neovim | neovim
 ```{dropdown} Click to expand/collapse 9 links
 - [Tips on Neovim](tips-on-neovim)
@@ -6552,6 +6539,19 @@ site:
 - [Editing Text in Browser Using Vim](editing-text-in-browser-using-vim)
 - [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
 - [Popular Configurations for NeoVim](popular-configurations-for-neovim)
+```
+
+## browser
+```{dropdown} Click to expand/collapse 9 links
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
+- [Tips on Web Browsers](tips-on-web-browsers)
+- [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
+- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
+- [Incognito Mode for Browsers](incognito-mode-for-browsers)
+- [Emulate Operating System in the Browser](emulate-operating-system-in-the-browser)
+- [Tips on the Dia Browser](tips-on-the-dia-browser)
+- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
+- [Run UserScripts in Browsers](run-userscripts-in-browsers)
 ```
 
 ## desktop
@@ -6751,14 +6751,26 @@ site:
 
 ## shopping
 ```{dropdown} Click to expand/collapse 8 links
-- [Tips on Housing](tips-on-housing)
 - [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
+- [Tips on Housing](tips-on-housing)
 - [Shopping At Homedepot](shopping-at-homedepot)
 - [Shopping Smartly](shopping-smartly)
 - [Shopping on Costco](shopping-on-costco)
 - [Living in Charlotte](living-in-charlotte)
 - [Shopping on Amazon](shopping-on-amazon)
 - [Shopping at Macys](shopping-at-macys)
+```
+
+## plugin
+```{dropdown} Click to expand/collapse 8 links
+- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
+- [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
+- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
+- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
+- [Useful Chrome Extensions](useful-chrome-extensions)
+- [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
+- [Vim Keybindings in Firefox Using Tridactyl](vim-keybindings-in-firefox-using-tridactyl)
+- [sbt Plugins for Deployment](sbt-plugins-for-deployment)
 ```
 
 ## remote
@@ -6893,18 +6905,6 @@ site:
 - [Typing Automatically Using AutoHotkey](typing-automatically-using-autohotkey)
 ```
 
-## plugin
-```{dropdown} Click to expand/collapse 8 links
-- [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
-- [The NeoVim Plugin for Visual Studio Code](the-neovim-plugin-for-visual-studio-code)
-- [Visual Studio Code for Kotlin Development](visual-studio-code-for-kotlin-development)
-- [Useful Chrome Extensions](useful-chrome-extensions)
-- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
-- [Useful Tools and Extensions for JupyterLab](useful-tools-and-extensions-for-jupyterlab)
-- [Vim Keybindings in Firefox Using Tridactyl](vim-keybindings-in-firefox-using-tridactyl)
-- [sbt Plugins for Deployment](sbt-plugins-for-deployment)
-```
-
 ## documentation
 ```{dropdown} Click to expand/collapse 8 links
 - [Documentation Generating Tool for Python](documentation-generating-tool-for-python)
@@ -7025,6 +7025,17 @@ site:
 - [Erase Elements of a Container Using Iterator in C++](erase-elements-of-a-container-using-iterator-in-c++)
 ```
 
+## dependency
+```{dropdown} Click to expand/collapse 7 links
+- [Manage Python Projects Using uv](manage-python-projects-using-uv)
+- [Packaging Python Dependencies for PySpark Using Pex](packaging-python-dependencies-for-pyspark-using-pex)
+- [Find Unused Rust Dependencies Using cargo-udeps](find-unused-rust-dependencies-using-cargo-udeps)
+- [Tips on pex](tips-on-pex)
+- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
+- [Get the Dependencies of a Python Package Without Installing It](get-the-dependencies-of-a-python-package-without-installing-it)
+- [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
+```
+
 ## TOML
 ```{dropdown} Click to expand/collapse 7 links
 - [Tips on TOML](tips-on-toml)
@@ -7045,17 +7056,6 @@ site:
 - [Configure Desktop Application Launching in Linux](configure-desktop-application-launching-in-linux)
 - [Power Settings in Linux with GNOME Desktop](power-settings-in-linux-with-gnome-desktop)
 - [Commonly Used File Formats for Configuration](commonly-used-file-formats-for-configuration)
-```
-
-## dependency
-```{dropdown} Click to expand/collapse 7 links
-- [Manage Python Projects Using uv](manage-python-projects-using-uv)
-- [Packaging Python Dependencies for PySpark Using Pex](packaging-python-dependencies-for-pyspark-using-pex)
-- [Find Unused Rust Dependencies Using cargo-udeps](find-unused-rust-dependencies-using-cargo-udeps)
-- [Tips on pex](tips-on-pex)
-- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
-- [Get the Dependencies of a Python Package Without Installing It](get-the-dependencies-of-a-python-package-without-installing-it)
-- [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
 ```
 
 ## resource
@@ -7835,6 +7835,15 @@ site:
 - [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 ```
 
+## kernel
+```{dropdown} Click to expand/collapse 5 links
+- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
+- [PCIe BUS Error: Severity=Corrected, Type=Physical Layer](pcie-bus-error-severity-corrected-type-physical-layer)
+- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
+- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
+- [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
+```
+
 ## Gemini
 ```{dropdown} Click to expand/collapse 5 links
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
@@ -7977,15 +7986,6 @@ site:
 - [Manage NeoVim Packages Using Lazy.Nvim](manage-neovim-packages-using-lazy.nvim)
 - [Popular Configurations for NeoVim](popular-configurations-for-neovim)
 - [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-```
-
-## kernel
-```{dropdown} Click to expand/collapse 5 links
-- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
-- [PCIe BUS Error: Severity=Corrected, Type=Physical Layer](pcie-bus-error-severity-corrected-type-physical-layer)
-- [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
-- [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
-- [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
 ```
 
 ## English
@@ -9236,6 +9236,20 @@ site:
 - [Tips on Road Assistant](tips-on-road-assistant)
 ```
 
+## Chrome
+```{dropdown} Click to expand/collapse 3 links
+- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
+- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
+- [Save a Web Page as a Single File in Chrome](save-a-web-page-as-a-single-file-in-chrome)
+```
+
+## add-on
+```{dropdown} Click to expand/collapse 3 links
+- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
+- [Useful Chrome Extensions](useful-chrome-extensions)
+- [Vim Keybindings in Firefox Using Tridactyl](vim-keybindings-in-firefox-using-tridactyl)
+```
+
 ## learning
 ```{dropdown} Click to expand/collapse 3 links
 - [Learning Modern AI](learning-modern-ai)
@@ -10321,20 +10335,6 @@ site:
 - [Fcitx Tips](fcitx-tips)
 ```
 
-## Chrome
-```{dropdown} Click to expand/collapse 3 links
-- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
-- [Save a Web Page as a Single File in Chrome](save-a-web-page-as-a-single-file-in-chrome)
-- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
-```
-
-## add-on
-```{dropdown} Click to expand/collapse 3 links
-- [Useful Chrome Extensions](useful-chrome-extensions)
-- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
-- [Vim Keybindings in Firefox Using Tridactyl](vim-keybindings-in-firefox-using-tridactyl)
-```
-
 ## rows
 ```{dropdown} Click to expand/collapse 3 links
 - [Split String into Rows in SQL](split-string-into-rows-in-sql)
@@ -10510,22 +10510,16 @@ site:
 - [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
 ```
 
-## housing
+## uv
 ```{dropdown} Click to expand/collapse 2 links
-- [Tips on Housing](tips-on-housing)
-- [Property Line](property-line)
+- [Manage Python Projects Using uv](manage-python-projects-using-uv)
+- [Install Python in macOS](install-python-in-macos)
 ```
 
-## rent
+## project
 ```{dropdown} Click to expand/collapse 2 links
-- [Tips on Housing](tips-on-housing)
-- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
-```
-
-## apartment
-```{dropdown} Click to expand/collapse 2 links
-- [Tips on Housing](tips-on-housing)
-- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
+- [Manage Python Projects Using uv](manage-python-projects-using-uv)
+- [Tips on Project Management](tips-on-project-management)
 ```
 
 ## discount
@@ -10552,28 +10546,40 @@ site:
 - [Tips on Buy and Sell Pre-owned Cars](tips-on-buy-and-sell-pre-owned-cars)
 ```
 
-## uv
+## housing
 ```{dropdown} Click to expand/collapse 2 links
-- [Manage Python Projects Using uv](manage-python-projects-using-uv)
-- [Install Python in macOS](install-python-in-macos)
+- [Tips on Housing](tips-on-housing)
+- [Property Line](property-line)
 ```
 
-## project
+## rent
 ```{dropdown} Click to expand/collapse 2 links
-- [Manage Python Projects Using uv](manage-python-projects-using-uv)
-- [Tips on Project Management](tips-on-project-management)
+- [Tips on Housing](tips-on-housing)
+- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
 ```
 
-## translate
+## apartment
 ```{dropdown} Click to expand/collapse 2 links
-- [AI Translators](ai-translators)
-- [SQL Translation Tools](sql-translation-tools)
+- [Tips on Housing](tips-on-housing)
+- [Tips on Renting a House or Apartment](tips-on-renting-a-house-or-apartment)
+```
+
+## addon
+```{dropdown} Click to expand/collapse 2 links
+- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
+- [Useful Chrome Extensions](useful-chrome-extensions)
 ```
 
 ## Dia
 ```{dropdown} Click to expand/collapse 2 links
 - [Tips on Web Browsers](tips-on-web-browsers)
 - [Tips on the Dia Browser](tips-on-the-dia-browser)
+```
+
+## translate
+```{dropdown} Click to expand/collapse 2 links
+- [AI Translators](ai-translators)
+- [SQL Translation Tools](sql-translation-tools)
 ```
 
 ## NotebookLM
@@ -12896,12 +12902,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Run UserScripts in Browsers](run-userscripts-in-browsers)
 - [Downloading Tools](downloading-tools)
-```
-
-## addon
-```{dropdown} Click to expand/collapse 2 links
-- [Useful Chrome Extensions](useful-chrome-extensions)
-- [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
 ```
 
 ## Baidu Yun

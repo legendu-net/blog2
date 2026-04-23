@@ -65,6 +65,21 @@ tags:
    into the file `/etc/sysctl.conf`
    .
 
+   If you work in a Docker environemnt,
+   you have to
+   1. Configure `kernel.perf_event_paranoid = -1` on the host machine.
+   1. Configure `kernel.perf_event_paranoid = -1` in the Docker image.
+   1. Launch a Docker container with the right permission.
+
+   [dclong/vscode-server](https://github.com/legendu-net/docker/tree/dev/docker-vscode-server)
+    is such a Docker image that is properly configure.
+    And if you launch it using `ldc dclong/vscode-server -dm, 
+    the permission is handle properly 
+    given that `kernel.perf_event_paranoid = -1` is configured on the host machine.
+    See
+    [Start a Container using ldc](my-docker-images#start-a-container-using-ldc)
+    for detailed discussions.
+
 ## Installation on Debian
 
 ```
