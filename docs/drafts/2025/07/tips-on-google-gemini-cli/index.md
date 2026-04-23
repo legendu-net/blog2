@@ -39,6 +39,7 @@ tags:
 1. Use `/help` for more information on Gemini CLI.
 
 1. Use the comamnd `/vim` to toggle on Vim mode.
+  This sets `vimMode: true` in the file `~/.gemini/settings.json`.
 
 ## Manage Prompts
 
