@@ -6,6 +6,8 @@ site:
 
 ## programming
 ```{dropdown} Click to expand/collapse 1033 links
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+- [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
 - [SQL Style And Formatter](sql-style-and-formatter)
 - [Manage Python Projects Using uv](manage-python-projects-using-uv)
 - [Tips on Neovim](tips-on-neovim)
@@ -139,7 +141,6 @@ site:
 - [Zellij Is the Best Terminal Multiplexer](zellij-is-the-best-terminal-multiplexer)
 - [Yarn for Spark](yarn-for-spark)
 - [Profile Rust Applications](profile-rust-applications)
-- [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
 - [Spark Issue: InvalidResourceRequestException](spark-issue-invalidresourcerequestexception)
 - [Spark Issue: IllegalArgumentException: System Memory Must Be At Least](spark-issue-illegalargumentexception-system-memory-must-be-at-least)
 - [Spark Issue: SIGBUS](spark-issue-sigbus)
@@ -584,7 +585,6 @@ site:
 - [ty Is a New Modern Static Type Checking and Language Server for Python](ty-is-a-new-modern-static-type-checking-and-language-server-for-python)
 - [Tips on Pyrefly](tips-on-pyrefly)
 - [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 - [Use Docker Containers for GitHub Actions](use-docker-containers-for-github-actions)
 - [Tips on the Fish Shell](tips-on-the-fish-shell)
 - [Self-hosted Runners for GitHub Actions](self-hosted-runners-for-github-actions)
@@ -1043,6 +1043,8 @@ site:
 
 ## computer science
 ```{dropdown} Click to expand/collapse 752 links
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+- [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
 - [SQL Style And Formatter](sql-style-and-formatter)
 - [Manage Python Projects Using uv](manage-python-projects-using-uv)
 - [Tips on Neovim](tips-on-neovim)
@@ -1127,7 +1129,6 @@ site:
 - [Zellij Is the Best Terminal Multiplexer](zellij-is-the-best-terminal-multiplexer)
 - [Yarn for Spark](yarn-for-spark)
 - [Profile Rust Applications](profile-rust-applications)
-- [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
 - [Spark Issue: InvalidResourceRequestException](spark-issue-invalidresourcerequestexception)
 - [Spark Issue: IllegalArgumentException: System Memory Must Be At Least](spark-issue-illegalargumentexception-system-memory-must-be-at-least)
 - [FireNVim Brings NeoVim into Your Browser](firenvim-brings-neovim-into-your-browser)
@@ -1723,7 +1724,6 @@ site:
 - [Tips on Pyrefly](tips-on-pyrefly)
 - [Tips on fd](tips-on-fd)
 - [Configuring Terminal in Visual Studio Code](configuring-terminal-in-visual-studio-code)
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 - [Use Docker Containers for GitHub Actions](use-docker-containers-for-github-actions)
 - [Tips on the Fish Shell](tips-on-the-fish-shell)
 - [Self-hosted Runners for GitHub Actions](self-hosted-runners-for-github-actions)
@@ -2361,6 +2361,7 @@ site:
 
 ## Rust
 ```{dropdown} Click to expand/collapse 189 links
+- [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
 - [Date and Time in Rust](date-and-time-in-rust)
 - [Vector in Rust](vector-in-rust)
 - [Tuple in Rust](tuple-in-rust)
@@ -2383,7 +2384,6 @@ site:
 - [Benchmark a Rust App](benchmark-a-rust-app)
 - [Zellij Is the Best Terminal Multiplexer](zellij-is-the-best-terminal-multiplexer)
 - [Profile Rust Applications](profile-rust-applications)
-- [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
 - [Sum Type in Rust](sum-type-in-rust)
 - [Unit Test in Rust](unit-test-in-rust)
 - [Lua Bindings for Rust](lua-bindings-for-rust)
@@ -2700,6 +2700,7 @@ site:
 
 ## AI
 ```{dropdown} Click to expand/collapse 137 links
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 - [Tips on Web Browsers](tips-on-web-browsers)
 - [Tips on Claude](tips-on-claude)
 - [AI Tools from China](ai-tools-from-china)
@@ -2761,7 +2762,6 @@ site:
 - [Tips on the Dia Browser](tips-on-the-dia-browser)
 - [Tips on NotebookLM](tips-on-notebooklm)
 - [Tips on Gemini](tips-on-gemini)
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 - [Difference Between torch.nn.Module and torch.nn.functional](difference-between-torch.nn.module-and-torch.nn.functional)
 - [Split a Dataset into Train and Test Datasets in Python](split-a-dataset-into-train-and-test-datasets-in-python)
@@ -5287,6 +5287,7 @@ site:
 
 ## LLM
 ```{dropdown} Click to expand/collapse 18 links
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 - [AI Tools from China](ai-tools-from-china)
 - [AI Translators](ai-translators)
 - [Learning Modern AI](learning-modern-ai)
@@ -5304,7 +5305,6 @@ site:
 - [LLM and Robotics](llm-and-robotics)
 - [Fine-Tune LLM](fine-tune-llm)
 - [Tips on NotebookLM](tips-on-notebooklm)
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 ```
 
 ## GPU
@@ -5494,6 +5494,25 @@ site:
 - [Driving on Snow and Ice](driving-on-snow-and-ice)
 ```
 
+## Google
+```{dropdown} Click to expand/collapse 15 links
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [Tips on Google Ads](tips-on-google-ads)
+- [Tips on Google Spreadsheet](tips-on-google-spreadsheet)
+- [Use Python with Google Spreadsheet](use-python-with-google-spreadsheet)
+- [Tips on GCP](tips-on-gcp)
+- [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
+- [Tips on BigQuery](tips-on-bigquery)
+- [Tips on ZetaSQL](tips-on-zetasql)
+- [GCP Compute Engine VM Instances](gcp-compute-engine-vm-instances)
+- [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
+- [Tips on NotebookLM](tips-on-notebooklm)
+- [Tips on Gemini](tips-on-gemini)
+- [Nested Data Structures in Databases](nested-data-structures-in-databases)
+- [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
+```
+
 ## finance
 ```{dropdown} Click to expand/collapse 15 links
 - [Recommendation of Credit Card Usage](recommendation-of-credit-card-usage)
@@ -5530,25 +5549,6 @@ site:
 - [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
 - [Compiler and Build Tools](compiler-and-build-tools)
 - [Tips on Windows Terminal](tips-on-windows-terminal)
-```
-
-## Google
-```{dropdown} Click to expand/collapse 15 links
-- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
-- [Tips on Google Ads](tips-on-google-ads)
-- [Tips on Google Spreadsheet](tips-on-google-spreadsheet)
-- [Use Python with Google Spreadsheet](use-python-with-google-spreadsheet)
-- [Tips on GCP](tips-on-gcp)
-- [Good Cloud Databases for Personal Use](good-cloud-databases-for-personal-use)
-- [Tips on BigQuery](tips-on-bigquery)
-- [Tips on ZetaSQL](tips-on-zetasql)
-- [GCP Compute Engine VM Instances](gcp-compute-engine-vm-instances)
-- [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
-- [Tips on NotebookLM](tips-on-notebooklm)
-- [Tips on Gemini](tips-on-gemini)
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
-- [Nested Data Structures in Databases](nested-data-structures-in-databases)
-- [First 10-digit Prime in Consecutive Digits of Euler Constant?](first-10-digit-prime-in-consecutive-digits-of-euler-constant)
 ```
 
 ## Visual Studio Code
@@ -6749,6 +6749,30 @@ site:
 - [Tips on GitHub](tips-on-github)
 ```
 
+## profile
+```{dropdown} Click to expand/collapse 8 links
+- [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
+- [Profile C++ Code](profile-c++-code)
+- [Profile Rust Applications](profile-rust-applications)
+- [Memory Profiler for Python](memory-profiler-for-python)
+- [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
+- [Performance Profiling of JVM Applications](performance-profiling-of-jvm-applications)
+- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
+- [Profile Performance of Python Applications](profile-performance-of-python-applications)
+```
+
+## profiling
+```{dropdown} Click to expand/collapse 8 links
+- [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
+- [Profile C++ Code](profile-c++-code)
+- [Profile Rust Applications](profile-rust-applications)
+- [Tips on Valgrind](tips-on-valgrind)
+- [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
+- [Tips on Great Expectations](tips-on-great-expectations)
+- [Tips on Bytehound](tips-on-bytehound)
+- [Tips on VirtualVM](tips-on-virtualvm)
+```
+
 ## shopping
 ```{dropdown} Click to expand/collapse 8 links
 - [Tips on Housing](tips-on-housing)
@@ -6867,30 +6891,6 @@ site:
 - [Read/Write CSV in Spark](read-write-csv-in-spark)
 - [Read/Write CSV in Spark](read-write-csv-in-spark)
 - [Read/Write CSV in PySpark](read-write-csv-in-pyspark)
-```
-
-## profile
-```{dropdown} Click to expand/collapse 8 links
-- [Profile C++ Code](profile-c++-code)
-- [Profile Rust Applications](profile-rust-applications)
-- [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
-- [Memory Profiler for Python](memory-profiler-for-python)
-- [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
-- [Performance Profiling of JVM Applications](performance-profiling-of-jvm-applications)
-- [Python Profiler for JupyterLab Notebooks](python-profiler-for-jupyterlab-notebooks)
-- [Profile Performance of Python Applications](profile-performance-of-python-applications)
-```
-
-## profiling
-```{dropdown} Click to expand/collapse 8 links
-- [Profile C++ Code](profile-c++-code)
-- [Profile Rust Applications](profile-rust-applications)
-- [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
-- [Tips on Valgrind](tips-on-valgrind)
-- [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
-- [Tips on Great Expectations](tips-on-great-expectations)
-- [Tips on Bytehound](tips-on-bytehound)
-- [Tips on VirtualVM](tips-on-virtualvm)
 ```
 
 ## automation
@@ -7817,6 +7817,24 @@ site:
 - [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
 ```
 
+## Gemini
+```{dropdown} Click to expand/collapse 5 links
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
+- [Tips on Gemini](tips-on-gemini)
+- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
+```
+
+## CLI
+```{dropdown} Click to expand/collapse 5 links
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+- [Tips on Claude](tips-on-claude)
+- [Tools for Differencing Text Files](tools-for-differencing-text-files)
+- [Tips on Gh](tips-on-gh)
+- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
+```
+
 ## home
 ```{dropdown} Click to expand/collapse 5 links
 - [Tips on Buying a House](tips-on-buying-a-house)
@@ -7826,15 +7844,6 @@ site:
 - [Tips on DIY](tips-on-diy)
 ```
 
-## CLI
-```{dropdown} Click to expand/collapse 5 links
-- [Tips on Claude](tips-on-claude)
-- [Tools for Differencing Text Files](tools-for-differencing-text-files)
-- [Tips on Gh](tips-on-gh)
-- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
-```
-
 ## kernel
 ```{dropdown} Click to expand/collapse 5 links
 - [Jupyter Notebook Kernels](jupyter-notebook-kernels)
@@ -7842,15 +7851,6 @@ site:
 - [Gophernotes Is a Golang Kernel for JupyterLab](gophernotes-is-a-golang-kernel-for-jupyterlab)
 - [Kotlin Kernel for JupyterLab](kotlin-kernel-for-jupyterlab)
 - [Tips on Rust Kernel Via Evcxr for JupyterLab](tips-on-rust-kernel-via-evcxr-for-jupyterlab)
-```
-
-## Gemini
-```{dropdown} Click to expand/collapse 5 links
-- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
-- [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
-- [Tips on Gemini](tips-on-gemini)
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
-- [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
 ```
 
 ## multiple
@@ -8603,6 +8603,14 @@ site:
 - [Tips on Keyboard in macOS](tips-on-keyboard-in-macos)
 - [Enable and Disable Key Repeating in macOS](enable-and-disable-key-repeating-in-macos)
 - [Map Keys in Linux](map-keys-in-linux)
+```
+
+## Valgrind
+```{dropdown} Click to expand/collapse 4 links
+- [Profile C++ Code](profile-c++-code)
+- [Profile Rust Applications](profile-rust-applications)
+- [Tips on Valgrind](tips-on-valgrind)
+- [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
 ```
 
 ## protocol
@@ -9416,13 +9424,6 @@ site:
 - [Profile C++ Code](profile-c++-code)
 - [Profile Rust Applications](profile-rust-applications)
 - [Test Internet Speed](test-internet-speed)
-```
-
-## Valgrind
-```{dropdown} Click to expand/collapse 3 links
-- [Profile C++ Code](profile-c++-code)
-- [Tips on Valgrind](tips-on-valgrind)
-- [CPU Profiling of Rust Applications Using Valgrind](cpu-profiling-of-rust-applications-using-valgrind)
 ```
 
 ## Pinyin
@@ -10510,6 +10511,18 @@ site:
 - [Libraries for Gradient Boosting](libraries-for-gradient-boosting)
 ```
 
+## FlameGraph
+```{dropdown} Click to expand/collapse 2 links
+- [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
+- [Profile Rust Applications](profile-rust-applications)
+```
+
+## perf
+```{dropdown} Click to expand/collapse 2 links
+- [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
+- [Profile Rust Applications](profile-rust-applications)
+```
+
 ## formatter
 ```{dropdown} Click to expand/collapse 2 links
 - [SQL Style And Formatter](sql-style-and-formatter)
@@ -11102,12 +11115,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Zellij Is the Best Terminal Multiplexer](zellij-is-the-best-terminal-multiplexer)
 - [Terminal Multiplexers](terminal-multiplexers)
-```
-
-## FlameGraph
-```{dropdown} Click to expand/collapse 2 links
-- [Profile Rust Applications](profile-rust-applications)
-- [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
 ```
 
 ## Bytehound

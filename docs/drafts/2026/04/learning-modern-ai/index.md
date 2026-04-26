@@ -24,6 +24,8 @@ tags:
 
 - [Andrej Karpathy blog](https://karpathy.github.io/)
 
+- [Massively Parallel Procrastination](https://blog.fsck.com/)
+
 ## Learning Platform
 
 - [DeepLearning.AI](https://www.deeplearning.ai/)

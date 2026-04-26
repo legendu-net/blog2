@@ -107,6 +107,7 @@ then just use the command below.
 docker pull registry.docker-cn.com/dclong/jupyterhub-ds
 ```
 
+(start-a-container-using-ldc)=
 ### Start a Container using `ldc`
 
 The recommended way to start containers for Docker images `dclong/*`

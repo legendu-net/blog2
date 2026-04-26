@@ -1,7 +1,7 @@
 ---
 title: Profile Rust Applications Using Flamegraph
 created: 2021-11-09 10:28:40
-date: 2026-04-15 19:27:00.843108
+date: 2026-04-26 09:37:35.257699
 authors:
   - bendu
 label: profile-rust-applications-using-flamegraph
@@ -56,7 +56,7 @@ tags:
    you can run the following command
 
    ```bash
-    sudo sysctl -w kernel.perf_event_paranoid=-1
+   sudo sysctl -w kernel.perf_event_paranoid=-1
    ```
 
    Changes made by the above approaches are temporary.
@@ -66,24 +66,26 @@ tags:
    .
    You can of course edit the file manually.
    Below is a comamnd for doing this (and applying changes) automatically.
+
    ```sh
    sudo $(which uvx) --from aiutil etc_sysctl kernel.perf_event_paranoid -1 --apply
    ```
 
    If you work in a Docker environemnt,
    you have to
+
    1. Configure `kernel.perf_event_paranoid = -1` on the host machine.
    1. Configure `kernel.perf_event_paranoid = -1` in the Docker image.
    1. Launch a Docker container with the right permission.
 
    [dclong/vscode-server](https://github.com/legendu-net/docker/tree/dev/docker-vscode-server)
-    is such a Docker image that is properly configure.
-    And if you launch it using `ldc dclong/vscode-server -dm, 
-    the permission is handle properly 
-    given that `kernel.perf_event_paranoid = -1` is configured on the host machine.
-    See
-    [Start a Container using ldc](my-docker-images#start-a-container-using-ldc)
-    for detailed discussions.
+   is such a Docker image that is properly configure.
+   And if you launch it using `ldc dclong/vscode-server -dm`,
+   the permission is handle properly
+   given that `kernel.perf_event_paranoid = -1` is configured on the host machine.
+   See
+   [Start a Container using ldc](start-a-container-using-ldc)
+   for detailed discussions.
 
 ## Installation on Debian
 

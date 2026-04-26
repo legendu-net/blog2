@@ -1,7 +1,7 @@
 ---
 title: Tips on Google Gemini CLI
 created: 2025-07-06 08:55:45
-date: 2026-04-13 23:14:19.461628
+date: 2026-04-22 21:18:08.443812
 authors:
   - bendu
 label: tips-on-google-gemini-cli
@@ -39,19 +39,19 @@ tags:
 1. Use `/help` for more information on Gemini CLI.
 
 1. Use the comamnd `/vim` to toggle on Vim mode.
-  This sets `vimMode: true` in the file `~/.gemini/settings.json`.
+   This sets `vimMode: true` in the file `~/.gemini/settings.json`.
 
 ## Manage Prompts
 
 1. Use the command `/init` to generate `GEMINI.md` in the root directory of your project.
-    This generated file `GEMINI.md` contains high-level summary about your project,
-    which serves as the context for Geminii CLI.
-    You can polish `GEMINI.md` as needed.
-    
-2. You can write prompts (even each one-time) in text file and then use `@/path/to/prompt/file` to load it to Gemini CLI.
-    This can make writing prompts easier as you can write prompts in your favorite IDE and can easily polish it as needed.
+   This generated file `GEMINI.md` contains high-level summary about your project,
+   which serves as the context for Geminii CLI.
+   You can polish `GEMINI.md` as needed.
 
-3. Define custom command for reusable prompts.
+1. You can write prompts (even each one-time) in text file and then use `@/path/to/prompt/file` to load it to Gemini CLI.
+   This can make writing prompts easier as you can write prompts in your favorite IDE and can easily polish it as needed.
+
+1. Define custom command for reusable prompts.
 
 ## References
 
