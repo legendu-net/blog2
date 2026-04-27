@@ -25,6 +25,26 @@ brew install --cask claude-code
 
 Works simiarly to [Gemini CLI](tips-on-google-gemini-cli).
 
+## [Claude Plugins](https://claude.com/plugins)
+
+1. [Claude Plugins](https://claude.com/plugins) (similar concept to Gemini extensions)
+    .
+
+## GitHub Integrations
+
+```{list-table}
+:column-width: auto
+
+- - Name
+  - Description
+- - github.com/anthropics/claude-code 
+  - the official Claude Code agentic coding tool
+- - github.com/anthropics/claude-code-action 
+  - the GitHub Action for tagging @claude in PRs and issues
+- - github.com/apps/claude 
+  - the Claude GitHub App for repository integrations
+```
+
 ## References
 
 https://code.claude.com/docs/en/quickstart
