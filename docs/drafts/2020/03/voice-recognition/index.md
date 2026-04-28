@@ -20,3 +20,5 @@ tags:
 
 
 [Voice Web](https://voice.mozilla.org/en)
+
+https://talon.wiki/

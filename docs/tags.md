@@ -5,7 +5,9 @@ site:
 ---
 
 ## programming
-```{dropdown} Click to expand/collapse 1033 links
+```{dropdown} Click to expand/collapse 1035 links
+- [Voice Control Your Computer Using Talon](voice-control-your-computer-using-talon)
+- [Get Branch Info Using GitHub Rest API](get-branch-info-using-github-rest-api)
 - [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 - [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
 - [SQL Style And Formatter](sql-style-and-formatter)
@@ -2158,11 +2160,11 @@ site:
 
 ## software
 ```{dropdown} Click to expand/collapse 199 links
+- [My Docker Images](my-docker-images)
 - [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 - [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
 - [Jupyter Notebook Kernels](jupyter-notebook-kernels)
 - [Cloud IDE](cloud-ide)
-- [My Docker Images](my-docker-images)
 - [Working Remotely in Linux](working-remotely-in-linux)
 - [Remote Desktop Using Remmina](remote-desktop-using-remmina)
 - [Convert MS Office Document to Text](convert-ms-office-document-to-text)
@@ -2700,12 +2702,12 @@ site:
 
 ## AI
 ```{dropdown} Click to expand/collapse 137 links
+- [Learning Modern AI](learning-modern-ai)
 - [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 - [Tips on Web Browsers](tips-on-web-browsers)
 - [Tips on Claude](tips-on-claude)
 - [AI Tools from China](ai-tools-from-china)
 - [AI Translators](ai-translators)
-- [Learning Modern AI](learning-modern-ai)
 - [Build Knowledge Base for AI](build-knowledge-base-for-ai)
 - [Learning Traditional ML](learning-traditional-ml)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
@@ -4489,6 +4491,39 @@ site:
 - [Differences Between Kotlin and Java](differences-between-kotlin-and-java)
 ```
 
+## API
+```{dropdown} Click to expand/collapse 29 links
+- [Get Branch Info Using GitHub Rest API](get-branch-info-using-github-rest-api)
+- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
+- [LLM APIs](llm-apis)
+- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
+- [SQL Database Client-server Protocols](sql-database-client-server-protocols)
+- [Tips on gRPC](tips-on-grpc)
+- [Tips on Microsoft Graph APIs](tips-on-microsoft-graph-apis)
+- [Use Python with Google Spreadsheet](use-python-with-google-spreadsheet)
+- [Hands on ghapi](hands-on-ghapi)
+- [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
+- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
+- [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
+- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
+- [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
+- [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
+- [Tips on Frontend Development](tips-on-frontend-development)
+- [Docker APIs](docker-apis)
+- [Document Rust APIs](document-rust-apis)
+- [gRPC GraphQL and RESTful APIs](grpc-graphql-and-restful-apis)
+- [Rust for Backend Development](rust-for-backend-development)
+- [Useful Rust Crates for GraphQL](useful-rust-crates-for-graphql)
+- [Rust Backend Frameworks for Rest APIs](rust-backend-frameworks-for-rest-apis)
+- [Rust Backend Frameworks for gRPC APIs](rust-backend-frameworks-for-grpc-apis)
+- [Rust Backend Frameworks for GraphQL APIs](rust-backend-frameworks-for-graphql-apis)
+- [GitHub API](github-api)
+- [Format Markdown Using mdformat Python APIs](format-markdown-using-mdformat-python-apis)
+- [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
+- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
+- [VirtualBox API](virtualbox-api)
+```
+
 ## string
 ```{dropdown} Click to expand/collapse 29 links
 - [Date and Time in Rust](date-and-time-in-rust)
@@ -4590,8 +4625,8 @@ site:
 
 ## JupyterLab
 ```{dropdown} Click to expand/collapse 28 links
-- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
 - [My Docker Images](my-docker-images)
+- [Jupyter Notebook Kernels](jupyter-notebook-kernels)
 - [Configure Jupyte Notebook Permissions](configure-jupyte-notebook-permissions)
 - [JupyterLab Extensions for Spreadsheet](jupyterlab-extensions-for-spreadsheet)
 - [List Running Jupyter Notebook Servers](list-running-jupyter-notebook-servers)
@@ -4618,38 +4653,6 @@ site:
 - [Converting JupyterLab Notebooks](converting-jupyterlab-notebooks)
 - [Dashboard Solutions](dashboard-solutions)
 - [Debug Code in JupyterLab Notebooks](debug-code-in-jupyterlab-notebooks)
-```
-
-## API
-```{dropdown} Click to expand/collapse 28 links
-- [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
-- [LLM APIs](llm-apis)
-- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
-- [SQL Database Client-server Protocols](sql-database-client-server-protocols)
-- [Tips on gRPC](tips-on-grpc)
-- [Tips on Microsoft Graph APIs](tips-on-microsoft-graph-apis)
-- [Use Python with Google Spreadsheet](use-python-with-google-spreadsheet)
-- [Hands on ghapi](hands-on-ghapi)
-- [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
-- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
-- [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
-- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
-- [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
-- [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
-- [Tips on Frontend Development](tips-on-frontend-development)
-- [Docker APIs](docker-apis)
-- [Document Rust APIs](document-rust-apis)
-- [gRPC GraphQL and RESTful APIs](grpc-graphql-and-restful-apis)
-- [Rust for Backend Development](rust-for-backend-development)
-- [Useful Rust Crates for GraphQL](useful-rust-crates-for-graphql)
-- [Rust Backend Frameworks for Rest APIs](rust-backend-frameworks-for-rest-apis)
-- [Rust Backend Frameworks for gRPC APIs](rust-backend-frameworks-for-grpc-apis)
-- [Rust Backend Frameworks for GraphQL APIs](rust-backend-frameworks-for-graphql-apis)
-- [GitHub API](github-api)
-- [Format Markdown Using mdformat Python APIs](format-markdown-using-mdformat-python-apis)
-- [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
-- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
-- [VirtualBox API](virtualbox-api)
 ```
 
 ## C++
@@ -4713,6 +4716,36 @@ site:
 - [Sun Bin PK Pang Juan](sun-bin-pk-pang-juan)
 - [Fewest Scalings to Identify the Fake Ball](fewest-scalings-to-identify-the-fake-ball)
 - [Ratio of Boy to Girl](ratio-of-boy-to-girl)
+```
+
+## GitHub
+```{dropdown} Click to expand/collapse 26 links
+- [Get Branch Info Using GitHub Rest API](get-branch-info-using-github-rest-api)
+- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
+- [Tips on Gh](tips-on-gh)
+- [Setup GitHub Actions Self-hosted Runners on GCP](setup-github-actions-self-hosted-runners-on-gcp)
+- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
+- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
+- [Hands on ghapi](hands-on-ghapi)
+- [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
+- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
+- [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
+- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
+- [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
+- [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
+- [Blogging Platforms](blogging-platforms)
+- [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
+- [Download a Single File from a GitHub Repository](download-a-single-file-from-a-github-repository)
+- [GitHub Alternatives](github-alternatives)
+- [GitHub Apps and Bot Accounts](github-apps-and-bot-accounts)
+- [GitHub API](github-api)
+- [GitHub Action Task Stuck At Expected](github-action-task-stuck-at-expected)
+- [Fix Authentication Error of GitHub Repositories on DockerHub](fix-authentication-error-of-github-repositories-on-dockerhub)
+- [Tips on Git](tips-on-git)
+- [Tips on GitHub](tips-on-github)
+- [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
+- [Batch GitHub Repository Operations Using GitHub Rest API](batch-github-repository-operations-using-github-rest-api)
+- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 ```
 
 ## PySpark
@@ -4801,35 +4834,6 @@ site:
 - [Difference Between forward and __call__ Methods of a Module in PyTorch](difference-between-forward-and-__call__-methods-of-a-module-in-pytorch)
 - [Popular and Useful Modules and Functions in PyTorch](popular-and-useful-modules-and-functions-in-pytorch)
 - [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
-```
-
-## GitHub
-```{dropdown} Click to expand/collapse 25 links
-- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
-- [Tips on Gh](tips-on-gh)
-- [Setup GitHub Actions Self-hosted Runners on GCP](setup-github-actions-self-hosted-runners-on-gcp)
-- [Jupyter Notebook Support in Bitbucket](jupyter-notebook-support-in-bitbucket)
-- [Develop Your Project Using GitHub Codespaces](develop-your-project-using-github-codespaces)
-- [Hands on ghapi](hands-on-ghapi)
-- [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
-- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
-- [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
-- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
-- [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
-- [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
-- [Blogging Platforms](blogging-platforms)
-- [Comparison of GitHub Tokens and Keys](comparison-of-github-tokens-and-keys)
-- [Download a Single File from a GitHub Repository](download-a-single-file-from-a-github-repository)
-- [GitHub Alternatives](github-alternatives)
-- [GitHub Apps and Bot Accounts](github-apps-and-bot-accounts)
-- [GitHub API](github-api)
-- [GitHub Action Task Stuck At Expected](github-action-task-stuck-at-expected)
-- [Fix Authentication Error of GitHub Repositories on DockerHub](fix-authentication-error-of-github-repositories-on-dockerhub)
-- [Tips on Git](tips-on-git)
-- [Tips on GitHub](tips-on-github)
-- [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
-- [Batch GitHub Repository Operations Using GitHub Rest API](batch-github-repository-operations-using-github-rest-api)
-- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 ```
 
 ## money
@@ -4969,6 +4973,32 @@ site:
 - [Computer Vision Tools](computer-vision-tools)
 ```
 
+## Ubuntu
+```{dropdown} Click to expand/collapse 22 links
+- [My Docker Images](my-docker-images)
+- [Docker Images for OS](docker-images-for-os)
+- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
+- [Upgrade Release of Ubuntu](upgrade-release-of-ubuntu)
+- [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
+- [Ubuntu Crashes When Opening Settings](ubuntu-crashes-when-opening-settings)
+- [Tips on crosvm](tips-on-crosvm)
+- [Install the Latest Version of Software on Ubuntu](install-the-latest-version-of-software-on-ubuntu)
+- [Package Management for Debian and Ubuntu](package-management-for-debian-and-ubuntu)
+- [My Configuration Script for Docker Containers Based on dclong/jupyterhub-ds](my-configuration-script-for-docker-containers-based-on-dclong-jupyterhub-ds)
+- [Comparison of (Debian Series) Linux Distributions](comparison-of-debian-series-linux-distributions)
+- [Misc Tips on Ubuntu](misc-tips-on-ubuntu)
+- [Chinese Locale in Linux](chinese-locale-in-linux)
+- [Java PPA for Ubuntu](java-ppa-for-ubuntu)
+- [Developing GUI Applications Using Qt5](developing-gui-applications-using-qt5)
+- [Install Docker](install-docker)
+- [Package Management in Linux](package-management-in-linux)
+- [Tips on Multipass](tips-on-multipass)
+- [Install the Latest Version of Python in Ubuntu](install-the-latest-version-of-python-in-ubuntu)
+- [My Configuration Script for a New Ubuntu Machine](my-configuration-script-for-a-new-ubuntu-machine)
+- [Install NodeJS on Ubuntu](install-nodejs-on-ubuntu)
+- [Tips on Kerberos](tips-on-kerberos)
+```
+
 ## terminal
 ```{dropdown} Click to expand/collapse 22 links
 - [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
@@ -5019,32 +5049,6 @@ site:
 - [Tips on Eclipse Che](tips-on-eclipse-che)
 - [Tips on Cloud9](tips-on-cloud9)
 - [Tips on IDE](tips-on-ide)
-```
-
-## Ubuntu
-```{dropdown} Click to expand/collapse 22 links
-- [My Docker Images](my-docker-images)
-- [Docker Images for OS](docker-images-for-os)
-- [Docker Images for Remote Desktop](docker-images-for-remote-desktop)
-- [Upgrade Release of Ubuntu](upgrade-release-of-ubuntu)
-- [Docker Issue: Repository Is Not Signed in Docker Build](docker-issue-repository-is-not-signed-in-docker-build)
-- [Ubuntu Crashes When Opening Settings](ubuntu-crashes-when-opening-settings)
-- [Tips on crosvm](tips-on-crosvm)
-- [Install the Latest Version of Software on Ubuntu](install-the-latest-version-of-software-on-ubuntu)
-- [Package Management for Debian and Ubuntu](package-management-for-debian-and-ubuntu)
-- [My Configuration Script for Docker Containers Based on dclong/jupyterhub-ds](my-configuration-script-for-docker-containers-based-on-dclong-jupyterhub-ds)
-- [Comparison of (Debian Series) Linux Distributions](comparison-of-debian-series-linux-distributions)
-- [Misc Tips on Ubuntu](misc-tips-on-ubuntu)
-- [Chinese Locale in Linux](chinese-locale-in-linux)
-- [Java PPA for Ubuntu](java-ppa-for-ubuntu)
-- [Developing GUI Applications Using Qt5](developing-gui-applications-using-qt5)
-- [Install Docker](install-docker)
-- [Package Management in Linux](package-management-in-linux)
-- [Tips on Multipass](tips-on-multipass)
-- [Install the Latest Version of Python in Ubuntu](install-the-latest-version-of-python-in-ubuntu)
-- [My Configuration Script for a New Ubuntu Machine](my-configuration-script-for-a-new-ubuntu-machine)
-- [Install NodeJS on Ubuntu](install-nodejs-on-ubuntu)
-- [Tips on Kerberos](tips-on-kerberos)
 ```
 
 ## database
@@ -5287,10 +5291,10 @@ site:
 
 ## LLM
 ```{dropdown} Click to expand/collapse 18 links
+- [Learning Modern AI](learning-modern-ai)
 - [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 - [AI Tools from China](ai-tools-from-china)
 - [AI Translators](ai-translators)
-- [Learning Modern AI](learning-modern-ai)
 - [Build Knowledge Base for AI](build-knowledge-base-for-ai)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
 - [LLM APIs](llm-apis)
@@ -5829,6 +5833,23 @@ site:
 - [Computer Vision Tools](computer-vision-tools)
 ```
 
+## REST
+```{dropdown} Click to expand/collapse 13 links
+- [Get Branch Info Using GitHub Rest API](get-branch-info-using-github-rest-api)
+- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
+- [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
+- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
+- [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
+- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
+- [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
+- [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
+- [Rust for Backend Development](rust-for-backend-development)
+- [Rust Backend Frameworks for Rest APIs](rust-backend-frameworks-for-rest-apis)
+- [GitHub API](github-api)
+- [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
+- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
+```
+
 ## Vim
 ```{dropdown} Click to expand/collapse 13 links
 - [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
@@ -6095,22 +6116,6 @@ site:
 - [Command Line Tools for Linux File System](command-line-tools-for-linux-file-system)
 - [Command Line Tools for Mac File System](command-line-tools-for-mac-file-system)
 - [Change File Permission on Linux](change-file-permission-on-linux)
-```
-
-## REST
-```{dropdown} Click to expand/collapse 12 links
-- [Delete GitHub Actions Secrets from Repositories](delete-github-actions-secrets-from-repositories)
-- [List Repositories of a GitHub Organization Using REST API](list-repositories-of-a-github-organization-using-rest-api)
-- [Delete a Repository Secret Using GitHub REST API](delete-a-repository-secret-using-github-rest-api)
-- [Manipulate Pull Requests Using GitHub REST APIs](manipulate-pull-requests-using-github-rest-apis)
-- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
-- [Manage Releases of a GitHub Repository Using Rest API](manage-releases-of-a-github-repository-using-rest-api)
-- [Manage GitHub Actions Using GitHub REST API](manage-github-actions-using-github-rest-api)
-- [Rust for Backend Development](rust-for-backend-development)
-- [Rust Backend Frameworks for Rest APIs](rust-backend-frameworks-for-rest-apis)
-- [GitHub API](github-api)
-- [Archive a Repository Using GitHub Rest API](archive-a-repository-using-github-rest-api)
-- [Transfer a Repository Using GitHub REST API](transfer-a-repository-using-github-rest-api)
 ```
 
 ## NLP
@@ -7377,6 +7382,16 @@ site:
 - [Install Firefox in Debian](install-firefox-in-debian)
 ```
 
+## information
+```{dropdown} Click to expand/collapse 6 links
+- [Get Branch Info Using GitHub Rest API](get-branch-info-using-github-rest-api)
+- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
+- [Get Information of User in Golang](get-information-of-user-in-golang)
+- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
+- [Query Hardware Information in Linux](query-hardware-information-in-linux)
+- [Get Information of Application Windows in Python](get-information-of-application-windows-in-python)
+```
+
 ## China
 ```{dropdown} Click to expand/collapse 6 links
 - [AI Tools from China](ai-tools-from-china)
@@ -8159,15 +8174,6 @@ site:
 - [Tips on Verizon](tips-on-verizon)
 ```
 
-## information
-```{dropdown} Click to expand/collapse 5 links
-- [Rust Crates for Getting System Information](rust-crates-for-getting-system-information)
-- [Get Information of User in Golang](get-information-of-user-in-golang)
-- [Bypass Paywalls and Limits on Information](bypass-paywalls-and-limits-on-information)
-- [Query Hardware Information in Linux](query-hardware-information-in-linux)
-- [Get Information of Application Windows in Python](get-information-of-application-windows-in-python)
-```
-
 ## find
 ```{dropdown} Click to expand/collapse 5 links
 - [The ripgrep Command Is a Better Alternative to the find Command](the-ripgrep-command-is-a-better-alternative-to-the-find-command)
@@ -8427,6 +8433,22 @@ site:
 - [Count Number of Fields in Each Line](count-number-of-fields-in-each-line)
 - [Print Rows from a Text File](print-rows-from-a-text-file)
 - [Select Columns from Structured Text Files](select-columns-from-structured-text-files)
+```
+
+## voice
+```{dropdown} Click to expand/collapse 4 links
+- [Voice Control Your Computer Using Talon](voice-control-your-computer-using-talon)
+- [Audio Tools](audio-tools)
+- [Tips on Speechlogger](tips-on-speechlogger)
+- [Voice Recognition](voice-recognition)
+```
+
+## control
+```{dropdown} Click to expand/collapse 4 links
+- [Voice Control Your Computer Using Talon](voice-control-your-computer-using-talon)
+- [Tips on Moss Control](tips-on-moss-control)
+- [Tips on Pest and Rodent Control](tips-on-pest-and-rodent-control)
+- [User Access Control on Linux](user-access-control-on-linux)
 ```
 
 ## management
@@ -9237,6 +9259,27 @@ site:
 - [Train PyTorch Distributedly Using Apache Ray](train-pytorch-distributedly-using-apache-ray)
 ```
 
+## computer
+```{dropdown} Click to expand/collapse 3 links
+- [Voice Control Your Computer Using Talon](voice-control-your-computer-using-talon)
+- [Screen Resolution in macOS](screen-resolution-in-macos)
+- [Functional Keys on Computers](functional-keys-on-computers)
+```
+
+## branch
+```{dropdown} Click to expand/collapse 3 links
+- [Get Branch Info Using GitHub Rest API](get-branch-info-using-github-rest-api)
+- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
+- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
+```
+
+## learning
+```{dropdown} Click to expand/collapse 3 links
+- [Learning Modern AI](learning-modern-ai)
+- [Learning Resources](learning-resources)
+- [English Learning](english-learning)
+```
+
 ## sqlfluff
 ```{dropdown} Click to expand/collapse 3 links
 - [SQL Style And Formatter](sql-style-and-formatter)
@@ -9263,13 +9306,6 @@ site:
 - [Navigate Chrome Browser Like a Pro Using Vimium](navigate-chrome-browser-like-a-pro-using-vimium)
 - [Useful Chrome Extensions](useful-chrome-extensions)
 - [Vim Keybindings in Firefox Using Tridactyl](vim-keybindings-in-firefox-using-tridactyl)
-```
-
-## learning
-```{dropdown} Click to expand/collapse 3 links
-- [Learning Modern AI](learning-modern-ai)
-- [Learning Resources](learning-resources)
-- [English Learning](english-learning)
 ```
 
 ## workflow
@@ -9944,13 +9980,6 @@ site:
 - [Hot Water in the House](hot-water-in-the-house)
 ```
 
-## control
-```{dropdown} Click to expand/collapse 3 links
-- [Tips on Moss Control](tips-on-moss-control)
-- [Tips on Pest and Rodent Control](tips-on-pest-and-rodent-control)
-- [User Access Control on Linux](user-access-control-on-linux)
-```
-
 ## AutoML
 ```{dropdown} Click to expand/collapse 3 links
 - [AutoML on Tabular Data Using AutoGluon](automl-on-tabular-data-using-autogluon)
@@ -10110,13 +10139,6 @@ site:
 - [Amazon AWS EC2 Instances](amazon-aws-ec2-instances)
 - [Comparison of Popular Cloud Platforms](comparison-of-popular-cloud-platforms)
 - [Shopping on Amazon](shopping-on-amazon)
-```
-
-## voice
-```{dropdown} Click to expand/collapse 3 links
-- [Audio Tools](audio-tools)
-- [Tips on Speechlogger](tips-on-speechlogger)
-- [Voice Recognition](voice-recognition)
 ```
 
 ## Almond
@@ -10785,12 +10807,6 @@ site:
 ```{dropdown} Click to expand/collapse 2 links
 - [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
 - [Git Implementations and Bindings in Python](git-implementations-and-bindings-in-python)
-```
-
-## branch
-```{dropdown} Click to expand/collapse 2 links
-- [Check for Differences Between Branches Using Dulwich](check-for-differences-between-branches-using-dulwich)
-- [Manipulate Branches of a Repository Using GitHub REST APIs](manipulate-branches-of-a-repository-using-github-rest-apis)
 ```
 
 ## GSL
@@ -12630,12 +12646,6 @@ site:
 ```
 
 ## laptop
-```{dropdown} Click to expand/collapse 2 links
-- [Screen Resolution in macOS](screen-resolution-in-macos)
-- [Functional Keys on Computers](functional-keys-on-computers)
-```
-
-## computer
 ```{dropdown} Click to expand/collapse 2 links
 - [Screen Resolution in macOS](screen-resolution-in-macos)
 - [Functional Keys on Computers](functional-keys-on-computers)

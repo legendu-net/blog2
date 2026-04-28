@@ -1,7 +1,7 @@
 ---
 title: Learning Modern AI
 created: 2026-04-17 11:40:11.842740
-date: 2026-04-17 12:04:33.770608
+date: 2026-04-26 14:15:25.733172
 authors:
   - bendu
 label: learning-modern-ai
@@ -21,6 +21,8 @@ tags:
 - [Andrej Karpathy's Gist](https://gist.github.com/karpathy)
 
 ## Blogs
+
+- [Google's Blog](https://blog.google/)
 
 - [Andrej Karpathy blog](https://karpathy.github.io/)
 

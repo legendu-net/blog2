@@ -54,6 +54,14 @@ Gemini supports extensions
 
 [Automate tasks with headless mode](https://geminicli.com/docs/cli/tutorials/automation/)
 
+## Update on All Things of Gemini
+
+- [Gemini App](https://blog.google/innovation-and-ai/products/gemini-app/)
+
+- [Gemini Drops](https://gemini.google/gemini-drops/)
+
+- [Try notebooks in Gemini to easily keep track of projects](https://blog.google/innovation-and-ai/products/gemini-app/notebooks-gemini-notebooklm/)
+
 ## Google's AI Studio
 
 - Based on Gemini. 

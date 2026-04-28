@@ -45,6 +45,13 @@ Works simiarly to [Gemini CLI](tips-on-google-gemini-cli).
   - the Claude GitHub App for repository integrations
 ```
 
+## Anthropic / Claude APIs
+
+See [Claude API Docs](https://platform.claude.com/docs/en/home)
+.
+
 ## References
 
 https://code.claude.com/docs/en/quickstart
+
+- [Claude API Docs](https://platform.claude.com/docs/en/home)

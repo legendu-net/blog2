@@ -1,7 +1,7 @@
 ---
 title: My Docker Images
 created: 2018-10-18 09:10:17
-date: 2026-04-17 00:33:57.079410
+date: 2026-04-26 14:28:55.104627
 authors:
   - bendu
 label: my-docker-images
@@ -108,6 +108,7 @@ docker pull registry.docker-cn.com/dclong/jupyterhub-ds
 ```
 
 (start-a-container-using-ldc)=
+
 ### Start a Container using `ldc`
 
 The recommended way to start containers for Docker images `dclong/*`
@@ -372,7 +373,7 @@ you need to install Spark and the Python package `pyspark` first,
 which can be achieved using the following command.
 
 ```bash
-icon spark -ic --loc /opt/  
+icon spark -ic --loc /opt/
 icon pyspark -ic
 ```
 
@@ -549,13 +550,13 @@ in the GitHub repository
    A possible fix is to manually uninstall NeoVim using the following command
 
    ```bash
-    sudo apt purge neovim
+   sudo apt purge neovim
    ```
 
    and then install Vim instead.
 
    ```bash
-    sudo apt install vim
+   sudo apt install vim
    ```
 
 1. The command `wajig` fails to cache password
