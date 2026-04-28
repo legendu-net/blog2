@@ -9,7 +9,9 @@ license: CC-BY-4.0
 tags:
   - computer science
   - programming
+  - Vim
   - Neovim
+  - AstroNvim
   - IDE
   - PPA
 ---
@@ -43,7 +45,7 @@ Use Homebrew of AppImage instead if you want a newer version of Neovim.
 
 ## Tips and Traps
 
-1. [AstroNvim](https://github.com/AstroNvim/AstroNvim) is a great configuration for NeoVim.
+1. [AstroNvim](tips-on-astronvim) is a great configuration for NeoVim.
 
 1. NeoVim with a complicated configuration (e.g., AstroNvim, SpaceVim, etc)
    might be too slow when editing a large (>50M) text file.
@@ -60,10 +62,12 @@ Use Homebrew of AppImage instead if you want a newer version of Neovim.
 ### Python
 
 ```
-:LspInstall ruff ty
+:LspInstall ruff pyright
 ```
 
 ## Repeat
+
+- [Tips on AstroNvim](tips-on-astronvim) 
 
 - [Adding dot-repeat to your Neovim plugin](https://gist.github.com/kylechui/a5c1258cd2d86755f97b10fc921315c3)
 

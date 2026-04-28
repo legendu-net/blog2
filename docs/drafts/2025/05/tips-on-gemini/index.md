@@ -66,9 +66,12 @@ Gemini supports extensions
 
 - Based on Gemini. 
 - Best for prototyping and building apps. 
-- It's suggested that you publish an app once you are satisfied with it
-  so that you can use the published app  
-  instead of rebuilding the app again each time
+- Publish an app or not once you are satisfied with it?
+    - Without publishing, you have to rebuild it often which is time consuming and can be annoying.
+    - Publishing an app will make it accessible to public by default 
+        which exposes yourself to the risk of letting random people use your app and consume your token quota.
+    A possible setup is to publish the app (to Google Cloud Run) 
+    but configure Google Cloud Run to be accessible only by yourself.
   .
 
 ## References
