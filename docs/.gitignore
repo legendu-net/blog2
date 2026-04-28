@@ -1,3 +1,5 @@
 # MyST build outputs
 _build
 .ipynb_checkpoints
+tags.md
+toc.yml

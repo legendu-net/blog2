@@ -926,6 +926,26 @@ def _subparse_convert(subparsers):
     subparser_convert.set_defaults(func=convert)
 
 
+def build(blogger, _):
+    """Build the blog."""
+    gen_toc()
+    blogger.gen_tags_md()
+    cmd = f"""cd {BASE_DIR}/docs && \
+        NODE_OPTIONS=--max-old-space-size=8192 uv run jupyter-book build --html"""
+    sp.run(cmd, shell=True, check=True)
+
+
+def _subparse_build(subparsers):
+    desc = "Build the blog."
+    subparser_build = subparsers.add_parser(
+        "build",
+        aliases=["b"],
+        help=desc,
+        description=desc,
+    )
+    subparser_build.set_defaults(func=build)
+
+
 def parse_args(args=None, namespace=None) -> Namespace:
     """Parse command-line arguments.
 
@@ -936,6 +956,7 @@ def parse_args(args=None, namespace=None) -> Namespace:
     """
     parser = ArgumentParser(description="Write blog in command line.")
     subparsers = parser.add_subparsers(dest="sub_cmd", help="Sub commands.")
+    _subparse_build(subparsers)
     _subparse_update_tags(subparsers)
     _subparse_update_title(subparsers)
     _subparse_tags(subparsers)
