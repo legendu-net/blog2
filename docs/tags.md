@@ -6,13 +6,13 @@ site:
 
 ## programming
 ```{dropdown} Click to expand/collapse 1033 links
+- [Tips on Claude](tips-on-claude)
 - [Profile Rust Applications Using Flamegraph](profile-rust-applications-using-flamegraph)
 - [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 - [SQL Style And Formatter](sql-style-and-formatter)
 - [Manage Python Projects Using uv](manage-python-projects-using-uv)
 - [Tips on Neovim](tips-on-neovim)
 - [Tips on Web Browsers](tips-on-web-browsers)
-- [Tips on Claude](tips-on-claude)
 - [AI Tools from China](ai-tools-from-china)
 - [Talk to Google Gemini Using Python API](talk-to-google-gemini-using-python-api)
 - [Make Charts in Markdown Using Mermaid](make-charts-in-markdown-using-mermaid)
@@ -2700,9 +2700,9 @@ site:
 
 ## AI
 ```{dropdown} Click to expand/collapse 137 links
+- [Tips on Claude](tips-on-claude)
 - [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 - [Tips on Web Browsers](tips-on-web-browsers)
-- [Tips on Claude](tips-on-claude)
 - [AI Tools from China](ai-tools-from-china)
 - [AI Translators](ai-translators)
 - [Learning Modern AI](learning-modern-ai)
@@ -4971,8 +4971,8 @@ site:
 
 ## terminal
 ```{dropdown} Click to expand/collapse 22 links
-- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 - [Tips on Claude](tips-on-claude)
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
 - [Hands on the Cobra Module in Golang](hands-on-the-cobra-module-in-golang)
 - [Tips on Hyper](tips-on-hyper)
 - [Quickly Open a Directory in Terminal in Mac](quickly-open-a-directory-in-terminal-in-mac)
@@ -5494,6 +5494,25 @@ site:
 - [Driving on Snow and Ice](driving-on-snow-and-ice)
 ```
 
+## tool
+```{dropdown} Click to expand/collapse 15 links
+- [Tips on Claude](tips-on-claude)
+- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
+- [AI Tools from China](ai-tools-from-china)
+- [LLM APIs](llm-apis)
+- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
+- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
+- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
+- [Dev Tools for Rust](dev-tools-for-rust)
+- [Linux Network Tools](linux-network-tools)
+- [Tips on MuMu App Player](tips-on-mumu-app-player)
+- [Tips on KeepassXC](tips-on-keepassxc)
+- [Rip Is rm Improved](rip-is-rm-improved)
+- [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
+- [Compiler and Build Tools](compiler-and-build-tools)
+- [Tips on Windows Terminal](tips-on-windows-terminal)
+```
+
 ## Google
 ```{dropdown} Click to expand/collapse 15 links
 - [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
@@ -5530,25 +5549,6 @@ site:
 - [Tips on Brokerage](tips-on-brokerage)
 - [Understanding Paychecks](understanding-paychecks)
 - [Tips on eTrade](tips-on-etrade)
-```
-
-## tool
-```{dropdown} Click to expand/collapse 15 links
-- [Surfing Internet from a Terminal](surfing-internet-from-a-terminal)
-- [Tips on Claude](tips-on-claude)
-- [AI Tools from China](ai-tools-from-china)
-- [LLM APIs](llm-apis)
-- [Understand a Code Repository Using LLM Tools](understand-a-code-repository-using-llm-tools)
-- [Run AI Tools on a Cluster](run-ai-tools-on-a-cluster)
-- [Chat With Multiple LLM Tools at the Same Time](chat-with-multiple-llm-tools-at-the-same-time)
-- [Dev Tools for Rust](dev-tools-for-rust)
-- [Linux Network Tools](linux-network-tools)
-- [Tips on MuMu App Player](tips-on-mumu-app-player)
-- [Tips on KeepassXC](tips-on-keepassxc)
-- [Rip Is rm Improved](rip-is-rm-improved)
-- [Bat Is a Better Alternative to Cat](bat-is-a-better-alternative-to-cat)
-- [Compiler and Build Tools](compiler-and-build-tools)
-- [Tips on Windows Terminal](tips-on-windows-terminal)
 ```
 
 ## Visual Studio Code
@@ -7817,6 +7817,15 @@ site:
 - [Rescue Linux from GUI Freezing](rescue-linux-from-gui-freezing)
 ```
 
+## CLI
+```{dropdown} Click to expand/collapse 5 links
+- [Tips on Claude](tips-on-claude)
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+- [Tools for Differencing Text Files](tools-for-differencing-text-files)
+- [Tips on Gh](tips-on-gh)
+- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
+```
+
 ## Gemini
 ```{dropdown} Click to expand/collapse 5 links
 - [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
@@ -7824,15 +7833,6 @@ site:
 - [Tasks That AI Can Do for You](tasks-that-ai-can-do-for-you)
 - [Tips on Gemini](tips-on-gemini)
 - [Automated Web Browsing Tasks Using Gemini in Chrome](automated-web-browsing-tasks-using-gemini-in-chrome)
-```
-
-## CLI
-```{dropdown} Click to expand/collapse 5 links
-- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
-- [Tips on Claude](tips-on-claude)
-- [Tools for Differencing Text Files](tools-for-differencing-text-files)
-- [Tips on Gh](tips-on-gh)
-- [Hands on the Python Module argparse](hands-on-the-python-module-argparse)
 ```
 
 ## home

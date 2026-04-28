@@ -1,7 +1,7 @@
 ---
 title: Tips on Claude
 created: 2026-04-18 18:53:35.655987
-date: 2026-04-18 19:03:44.100768
+date: 2026-04-27 17:32:02.455902
 authors:
   - bendu
 label: tips-on-claude
@@ -25,20 +25,21 @@ brew install --cask claude-code
 
 Works simiarly to [Gemini CLI](tips-on-google-gemini-cli).
 
-## Claude Desktop 
+## Claude Desktop
 
 1. Runs in a sandboxed VM and cannot access local files (which limits its power).
 
 ## [Claude Plugins](https://claude.com/plugins)
 
 1. [Claude Plugins](https://claude.com/plugins) (similar concept to Gemini extensions)
-    .
+   .
 
 ## GitHub Integrations
 
 ```{list-table}
-:column-width: auto
-
+---
+column-width: auto
+---
 - - Name
   - Description
 - - github.com/anthropics/claude-code 
