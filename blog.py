@@ -928,6 +928,8 @@ def _subparse_convert(subparsers):
 
 def build(blogger, _):
     """Build the blog."""
+    blogger.reload_posts()
+    blogger.commit()
     gen_toc()
     blogger.gen_tags_md()
     cmd = f"""cd {BASE_DIR}/docs && \
