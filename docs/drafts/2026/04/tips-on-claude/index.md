@@ -25,6 +25,10 @@ brew install --cask claude-code
 
 Works simiarly to [Gemini CLI](tips-on-google-gemini-cli).
 
+## Claude Desktop 
+
+1. Runs in a sandboxed VM and cannot access local files (which limits its power).
+
 ## [Claude Plugins](https://claude.com/plugins)
 
 1. [Claude Plugins](https://claude.com/plugins) (similar concept to Gemini extensions)
