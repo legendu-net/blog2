@@ -1,7 +1,7 @@
 ---
 title: Voice Control Your Computer Using Talon
 created: 2026-04-27 23:05:55.509303
-date: 2026-04-27 23:05:55.509304
+date: 2026-04-27 23:06:21.217897
 authors:
   - bendu
 label: voice-control-your-computer-using-talon

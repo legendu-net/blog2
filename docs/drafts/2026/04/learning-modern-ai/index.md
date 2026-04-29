@@ -1,7 +1,7 @@
 ---
 title: Learning Modern AI
 created: 2026-04-17 11:40:11.842740
-date: 2026-04-26 14:15:25.733172
+date: 2026-04-27 20:27:29.088865
 authors:
   - bendu
 label: learning-modern-ai

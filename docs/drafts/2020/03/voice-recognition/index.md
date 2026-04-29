@@ -1,7 +1,7 @@
 ---
-title: "Voice Recognition"
+title: Voice Recognition
 created: 2020-03-04 08:08:46
-date: 2020-03-04 08:08:46
+date: 2026-04-27 23:05:07.165739
 authors:
   - bendu
 label: voice-recognition
@@ -12,13 +12,22 @@ tags:
   - deep learning
   - machine learning
   - voice
+  - audio
+  - MOSS
+  - Talon
   - recognition
   - speech
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+- [MarkTechPost - Voice AI](https://www.marktechpost.com/category/technology/artificial-intelligence/voice-ai/)
 
-[Voice Web](https://voice.mozilla.org/en)
+Gemini 3.1 Flash TTS: the next generation of expressive AI speech
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/
 
-https://talon.wiki/
+- [Voice Web](https://voice.mozilla.org/en)
+
+- [MOSS-Audio](https://github.com/OpenMOSS/MOSS-Audio)
+
+- [Talon](https://talon.wiki/)
