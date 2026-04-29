@@ -135,7 +135,7 @@ https://www.sec.gov/edgar/searchedgar/companysearch.html
 
 ## References
 
-- [Taxes on Investment Gains]( https://www.legendu.net/misc/blog/taxes-on-investment-gains )
+- [Taxes on Investment Gains](taxes-on-investment-gains) 
 
 - [Big Figures to Follow in Investment](https://www.legendu.net/misc/blog/big-figures-to-follow-in-investment)
 

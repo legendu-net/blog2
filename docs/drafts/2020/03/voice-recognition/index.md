@@ -1,7 +1,7 @@
 ---
 title: Voice Recognition
 created: 2020-03-04 08:08:46
-date: 2026-04-27 23:05:07.165739
+date: 2026-04-28 15:50:13.476411
 authors:
   - bendu
 label: voice-recognition

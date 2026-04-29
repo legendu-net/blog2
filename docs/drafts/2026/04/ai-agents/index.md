@@ -48,6 +48,15 @@ an agent often works in an autonomous loop until the job is done.
 
 - Completion: It sends the email and notifies you it's finished.
 
+## Agents
+
+### [hindsight](https://github.com/vectorize-io/hindsight)
+[hindsight](https://github.com/vectorize-io/hindsight)
+is an agent memory system built to create smarter agents that learn over time. 
+Most agent memory systems focus on recalling conversation history. 
+Hindsight is focused on making agents that learn, not just remember.
+
+
 ## References
 
 - [obra/smallest-agent](https://github.com/obra/smallest-agent)

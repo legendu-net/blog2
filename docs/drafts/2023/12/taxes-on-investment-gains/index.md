@@ -126,6 +126,8 @@ coming tax season we will provide you a tax form. Where you can then work with a
 
 ## References
 
+- [拿W-2的人最吃虧？這20個節稅方法很多人不知道](https://www.youtube.com/watch?v=aQmtorV24yE)
+
 - [Tips on Wash Sale](tips-on-wash-sale)
 
 - [Federal income tax rates and brackets](https://www.irs.gov/filing/federal-income-tax-rates-and-brackets)

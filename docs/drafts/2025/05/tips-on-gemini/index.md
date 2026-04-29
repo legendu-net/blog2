@@ -1,7 +1,7 @@
 ---
 title: Tips on Gemini
 created: 2025-05-06 15:04:36
-date: 2026-04-13 23:14:20.978849
+date: 2026-04-28 20:02:53.077852
 authors:
   - bendu
 label: tips-on-gemini
@@ -22,9 +22,9 @@ tags:
 ## General Tips
 
 1. The YOLO mode (`gemini --yolo`) is strongly discouraged.
-  It is suggested that you leverage 
-  [Policy Engine](https://geminicli.com/docs/reference/policy-engine/)
-  to grant permissions for each specific tool.
+   It is suggested that you leverage
+   [Policy Engine](https://geminicli.com/docs/reference/policy-engine/)
+   to grant permissions for each specific tool.
 
 1. Google Gemini saves conversations and apps you built so that you can revisit them later.
    Notice that prompts (conversations) are also saved into
@@ -42,7 +42,7 @@ Skills are preferred to custom commands for a few reasons.
 
 ## Gemini Extensions
 
-Gemini supports extensions 
+Gemini supports extensions
 (similar concepts to [Claude Plugins](https://claude.com/plugins))
 .
 
@@ -64,15 +64,15 @@ Gemini supports extensions
 
 ## Google's AI Studio
 
-- Based on Gemini. 
-- Best for prototyping and building apps. 
+- Based on Gemini.
+- Best for prototyping and building apps.
 - Publish an app or not once you are satisfied with it?
-    - Without publishing, you have to rebuild it often which is time consuming and can be annoying.
-    - Publishing an app will make it accessible to public by default 
-        which exposes yourself to the risk of letting random people use your app and consume your token quota.
-    A possible setup is to publish the app (to Google Cloud Run) 
+  - Without publishing, you have to rebuild it often which is time consuming and can be annoying.
+  - Publishing an app will make it accessible to public by default
+    which exposes yourself to the risk of letting random people use your app and consume your token quota.
+    A possible setup is to publish the app (to Google Cloud Run)
     but configure Google Cloud Run to be accessible only by yourself.
-  .
+    .
 
 ## References
 

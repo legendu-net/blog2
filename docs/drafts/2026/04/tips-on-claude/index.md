@@ -1,7 +1,7 @@
 ---
 title: Tips on Claude
 created: 2026-04-18 18:53:35.655987
-date: 2026-04-27 17:32:02.455902
+date: 2026-04-28 20:02:53.097852
 authors:
   - bendu
 label: tips-on-claude
