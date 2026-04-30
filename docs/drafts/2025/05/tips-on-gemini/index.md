@@ -1,7 +1,7 @@
 ---
 title: Tips on Gemini
 created: 2025-05-06 15:04:36
-date: 2026-04-28 20:02:53.077852
+date: 2026-04-29 19:04:16.342478
 authors:
   - bendu
 label: tips-on-gemini
@@ -19,8 +19,8 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-This post is more about the web version of Gemini. 
-Please refer to [Tips on Google Gemini CLI](tips-on-google-gemini-cli) 
+This post is more about the web version of Gemini.
+Please refer to [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
 for discussions on Gemini CLI.
 
 ## General Tips
@@ -28,10 +28,10 @@ for discussions on Gemini CLI.
 1. Google Gemini saves conversations and apps you built so that you can revisit them later.
    Notice that prompts (conversations) are also saved into
    the directory "My Drive/Google AI Studio" in your Google drive.
-   
-2. Gemini is also available as a desktop App for macOS (with M chips).
-    The destkop version introduces some killer features 
-    such as sharing a desktop window with Gemini.
+
+1. Gemini is also available as a desktop App for macOS (with M chips).
+   The destkop version introduces some killer features
+   such as sharing a desktop window with Gemini.
 
 ## Update on All Things of Gemini
 
