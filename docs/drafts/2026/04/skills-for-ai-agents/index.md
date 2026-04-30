@@ -18,6 +18,8 @@ tags:
 
 https://github.com/anthropics/skills
 
+https://github.com/google/skills
+
 https://skills.sh/
 
 https://skills-registry-web.vercel.app/

@@ -26,6 +26,11 @@ tags:
 
 1. You can do concurrent tasks by opening multiple Gemini CLI (in a multiplexing tool, say Zellij).
 
+1. The YOLO mode (`gemini --yolo`) is strongly discouraged.
+   It is suggested that you leverage
+   [Policy Engine](https://geminicli.com/docs/reference/policy-engine/)
+   to grant permissions for each specific tool.
+
 1. You can pipe output of another command into Gemini.
    Below is such an example.
 
@@ -52,6 +57,30 @@ tags:
    This can make writing prompts easier as you can write prompts in your favorite IDE and can easily polish it as needed.
 
 1. Define custom command for reusable prompts.
+
+## Gemini Custom Commands vs Skills
+
+Skills are preferred to custom commands for a few reasons.
+
+1. Skill is open standard and is portable to other agents (Claude, Codex, etc).
+
+1. A custom command can be implemented as a skill.
+
+1. It's easier and more flexible to trigger a skill (though mismatch might happen).
+
+## Gemini Extensions
+
+Gemini supports extensions
+(similar concepts to [Claude Plugins](https://claude.com/plugins))
+.
+
+- [Official Gemini Extension Market](https://geminicli.com/extensions/)
+
+- [More Gemini Extensions](https://github.com/gemini-cli-extensions)
+
+## Automation Workflows Based on Gemini CLI
+
+[Automate tasks with headless mode](https://geminicli.com/docs/cli/tutorials/automation/)
 
 ## References
 
