@@ -33,6 +33,14 @@ for discussions on Gemini CLI.
    The destkop version introduces some killer features
    such as sharing a desktop window with Gemini.
 
+## Some Useful Features
+
+1. branch in new chat
+
+1. share desktop window with Gemini (Gemini on macOS)
+
+1. integration with NotebookLM
+
 ## Update on All Things of Gemini
 
 - [Gemini App](https://blog.google/innovation-and-ai/products/gemini-app/)

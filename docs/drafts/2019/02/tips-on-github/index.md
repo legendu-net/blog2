@@ -43,6 +43,17 @@ tags:
     turn off Adblock Plus (or similar extensions) and try again.
     Or you can try again in the incognito mode.
 
+## Quickly Create a New GitHub Issue
+
+1. Create a bookmark pointing to a parameterized URL, 
+    e.g., https://github.com/dclong/tasks/issues/new?title=Check%20this%20out
+    .
+
+2. Use `gh` to create an issue from command line.
+    I'm not a big fan of this as it is not necessary faster than doing it on web.
+
+3. Chrome extension.
+
 ## [Creating a PR Template for Your Repository](https://docs.github.com/en/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository)
 
 ## [Connect JIRA Cloud to GitHub](https://confluence.atlassian.com/adminjiracloud/connect-jira-cloud-to-github-814188429.html)
