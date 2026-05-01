@@ -1,7 +1,7 @@
 ---
 title: AI Tool for Rust Development
 created: 2026-04-28 22:20:13.026150
-date: 2026-04-28 22:20:13.026151
+date: 2026-04-29 00:48:44.423505
 authors:
   - bendu
 label: ai-tool-for-rust-development
@@ -15,7 +15,6 @@ tags:
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
-
 
 - [actionbook/rust-skills](https://github.com/actionbook/rust-skills)
 

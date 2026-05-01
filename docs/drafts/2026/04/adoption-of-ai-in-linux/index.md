@@ -1,7 +1,7 @@
 ---
 title: Adoption of AI in Linux
 created: 2026-04-28 23:33:35.676445
-date: 2026-04-28 23:33:35.676446
+date: 2026-04-29 00:47:52.713163
 authors:
   - bendu
 label: adoption-of-ai-in-linux
@@ -17,7 +17,6 @@ tags:
 
 [masoncl/review-prompts](https://github.com/masoncl/review-prompts)
 ia an AI-assisted code review prompts for Linux kernel, systemd, and iproute development. Works with Claude Code and other AI tools.
-
 
 ## Applications
 

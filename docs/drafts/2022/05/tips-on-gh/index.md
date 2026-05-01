@@ -18,6 +18,17 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+## Installation (Linux / macOS)
+
+```
+brew install gh
+```
+
+## Create a Release
+```
+gh release create --title v0.0.1 --rep o dclong/test10 --notes "" v0.0.1
+```
+
 https://cli.github.com/
 
 https://github.com/cli/cli
