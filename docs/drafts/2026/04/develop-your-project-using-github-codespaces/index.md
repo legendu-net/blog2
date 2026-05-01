@@ -28,7 +28,7 @@ icon vscode -c -d .vscode
 
 # Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-/home/linuxbrew/.linuxbrew/bin/brew install fish fzf fd neovim delta
+/home/linuxbrew/.linuxbrew/bin/brew install fish fzf fd ripgrep neovim delta gemini-cli
 
 # fish
 sudo apt -y update

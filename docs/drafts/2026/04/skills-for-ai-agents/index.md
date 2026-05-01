@@ -1,7 +1,7 @@
 ---
 title: Skills for AI Agents
 created: 2026-04-28 22:28:33.673249
-date: 2026-04-28 22:28:33.673250
+date: 2026-04-29 19:06:11.071478
 authors:
   - bendu
 label: skills-for-ai-agents
@@ -37,8 +37,6 @@ Agent skill that generates hardened .devcontainer/ setups for Claude Code autono
 
 https://github.com/masoncl/review-prompts
 AI-assisted code review prompts for Linux kernel, systemd, and iproute development. Works with Claude Code and other AI tools.
-
-
 
 ## Extremely Useful Ones
 
