@@ -1,7 +1,7 @@
 ---
 title: Tips on gh
 created: 2022-05-02 00:03:11
-date: 2026-04-30 03:00:51.239804
+date: 2026-04-30 18:44:18.727951
 authors:
   - bendu
 label: tips-on-gh
@@ -25,6 +25,7 @@ brew install gh
 ```
 
 ## Create a Release
+
 ```
 gh release create --title v0.0.1 --rep o dclong/test10 --notes "" v0.0.1
 ```

@@ -1,7 +1,7 @@
 ---
 title: Develop Your Project Using GitHub Codespaces
 created: 2026-04-15 10:35:53.088776
-date: 2026-04-30 18:22:27.608175
+date: 2026-04-30 19:47:42.452192
 authors:
   - bendu
 label: develop-your-project-using-github-codespaces
@@ -27,7 +27,7 @@ icon nvim -c
 icon vscode -c -d .vscode
 
 # Homebrew
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+NONINTERACTIVE=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 /home/linuxbrew/.linuxbrew/bin/brew install fish fzf fd ripgrep neovim delta gemini-cli
 
 # fish

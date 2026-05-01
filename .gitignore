@@ -17,6 +17,7 @@ wheels/
 _build/
 
 .vscode/
+.jj
 
 ## Misc
 urls.txt

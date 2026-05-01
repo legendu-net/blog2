@@ -49,17 +49,13 @@ for discussions on Gemini CLI.
 
 - [Try notebooks in Gemini to easily keep track of projects](https://blog.google/innovation-and-ai/products/gemini-app/notebooks-gemini-notebooklm/)
 
-## Google's AI Studio
+## Google Gemini vs Google AI Studio
 
-- Based on Gemini.
-- Best for prototyping and building apps.
-- Publish an app or not once you are satisfied with it?
-  - Without publishing, you have to rebuild it often which is time consuming and can be annoying.
-  - Publishing an app will make it accessible to public by default
-    which exposes yourself to the risk of letting random people use your app and consume your token quota.
-    A possible setup is to publish the app (to Google Cloud Run)
-    but configure Google Cloud Run to be accessible only by yourself.
-    .
+Google AI Studio is based Gemini
+and is developer oriented for prototyping and building apps (for public users to use).
+While Gemini is consumer oriented and Gemini Gems created by users are mostly for themselves.
+In short,
+most people (unless you are an app developer) should use Gemini and Gems (instead of AI Studio and Apps).
 
 ## References
 

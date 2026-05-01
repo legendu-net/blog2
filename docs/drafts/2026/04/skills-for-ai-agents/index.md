@@ -22,6 +22,8 @@ https://github.com/google/skills
 
 https://skills.sh/
 
+https://agentskills.io/home
+
 https://skills-registry-web.vercel.app/
 
 https://www.skillsdirectory.com/
@@ -41,6 +43,15 @@ AI-assisted code review prompts for Linux kernel, systemd, and iproute developme
 ## Extremely Useful Ones
 
 - [find-skills](https://skills.sh/vercel-labs/skills/find-skills)
+
+## Create Skills
+
+Gemini CLI has a built-in meta skill named `skill-creator`
+which can help create new skills quickly.
+For more details,
+please refer to
+[Gemini CLI Docs - Creating Agent Skills](https://geminicli.com/docs/cli/creating-skills/)
+.
 
 ## References
 
