@@ -1,7 +1,7 @@
 ---
 title: Skills for AI Agents
 created: 2026-04-28 22:28:33.673249
-date: 2026-04-29 01:00:28.064327
+date: 2026-04-29 19:06:11.071478
 authors:
   - bendu
 label: skills-for-ai-agents
@@ -17,6 +17,8 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 https://github.com/anthropics/skills
+
+https://github.com/google/skills
 
 https://skills.sh/
 
