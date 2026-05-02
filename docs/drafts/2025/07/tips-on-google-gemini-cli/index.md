@@ -60,6 +60,19 @@ tags:
 
 1. Define custom command for reusable prompts.
 
+## Memory Management
+
+Saves your effort about historical conversations.
+
+https://geminicli.com/docs/cli/tutorials/memory-management/
+
+https://geminicli.com/docs/cli/tutorials/memory-management/#scenario-saving-a-memory
+
+```
+/memory show
+/memory reload
+```
+
 ## Gemini Custom Commands vs Skills
 
 Skills are preferred to custom commands for a few reasons.
