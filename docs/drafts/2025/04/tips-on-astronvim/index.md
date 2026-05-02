@@ -33,6 +33,15 @@ https://github.com/rafamadriz/friendly-snippets
 Use AI tools to quickly generate code snippets.
 ```
 
+You can show all available snippets for the current document type using the command `:LuaSnipListAvailable`
+.
+However,
+the most popular and "Astro-like" way to search snippets is via Telescope (telescope-luasnip.nvim).
+Please refer to 
+[telescope-luasnip.lua](https://github.com/legendu-net/AstroNvim_template/blob/main/lua/plugins/telescope-luasnip.lua)
+on enable and configure telescope-luasnip.
+The configuration set the keybinding `<leader>fS` for finding snippets.
+
 - [Global](https://github.com/rafamadriz/friendly-snippets/blob/main/snippets/global.json)
 
 - [Markdown](https://github.com/rafamadriz/friendly-snippets/blob/main/snippets/markdown.json)
