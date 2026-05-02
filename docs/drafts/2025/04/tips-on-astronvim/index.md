@@ -62,6 +62,15 @@ The configuration set the keybinding `<leader>fS` for finding snippets.
 
 - [Git Commit](https://github.com/rafamadriz/friendly-snippets/blob/main/snippets/gitcommit.json)
 
+## Chaing Keyword Cases
+[gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim)
+is the best Neovim plugin for changing keyword cases.
+See 
+[lua/plugins/coerce.lua] (https://github.com/legendu-net/AstroNvim_template/blob/main/lua/plugins/coerce.lua)
+for an example of enabling and configuring coere.nvim.
+By default,
+coerce.nvim uses keybindings `cr` and `gcr` (visual mode) to toggle on options for changing cases.
+
 ## References
 
 - [🚀 Getting Started](https://docs.astronvim.com/)

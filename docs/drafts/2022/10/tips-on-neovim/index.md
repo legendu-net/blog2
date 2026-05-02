@@ -26,13 +26,6 @@ brew install neovim
 
 This is the recommended way to install Neovim.
 
-## Installation Using AppImage
-
-Just download the [AppImage](https://github.com/neovim/neovim/releases).
-This can be a good choice if you want to install the latest version of NeoVim
-but don't want to use a PPA (on Ubuntu)
-and don't want to introduce a dependency on Homebrew.
-
 ## Installation on Ubuntu
 
 ```
@@ -45,7 +38,7 @@ Use Homebrew of AppImage instead if you want a newer version of Neovim.
 
 ## Tips and Traps
 
-1. [AstroNvim](tips-on-astronvim) is a great configuration for NeoVim.
+1. [AstroNvim](tips-on-astronvim) is the BEST configuration framework for NeoVim.
 
 1. NeoVim with a complicated configuration (e.g., AstroNvim, SpaceVim, etc)
    might be too slow when editing a large (>50M) text file.
