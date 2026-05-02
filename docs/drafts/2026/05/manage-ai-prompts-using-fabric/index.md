@@ -1,7 +1,7 @@
 ---
 title: Manage AI Prompts Using Fabric
 created: 2026-05-01 18:15:53.896313
-date: 2026-05-01 18:19:34.151457
+date: 2026-05-02 09:03:20.843717
 authors:
   - bendu
 label: manage-ai-prompts-using-fabric

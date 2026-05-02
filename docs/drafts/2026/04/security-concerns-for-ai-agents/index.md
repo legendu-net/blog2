@@ -12,9 +12,16 @@ tags:
   - security
   - vulnerability
   - prompt injection
+  - password manager
 ---
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+
+## Tips & Traps
+
+1. Exposing LLM API keys as environment variables can be a security concerns 
+  due to prompt injection attack.
+  A safer alternative is to store your LLM API keys in a command line password manager.
 
 ## [code-on-incus (COI)](https://github.com/mensfeld/code-on-incus)
 

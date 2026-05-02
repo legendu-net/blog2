@@ -27,31 +27,31 @@ header-rows: 1
   - Hyper-v Compat on Win
   - ARM-only App Support
   - Development
-- - [GenyMotion](https://www.genymotion.com)[^1]
+- - [GenyMotion](https://www.genymotion.com)[^genymotion]
   - Limited
   - Windows, macOS, Linux
   - Partial
   - Limited
   - Active
-- - [BlueStacks](https://www.bluestacks.com)[^2]
+- - [BlueStacks](https://www.bluestacks.com)[^bluestack]
   - Yes
   - Windows, macOS (M chip)
   - No
   - Yes
   - Active
-- - [LDPlayer](https://www.ldplayer.net)[^3]
+- - [LDPlayer](https://www.ldplayer.net)[^ldplayer]
   - Yes
   - Windows
   - No
   - Yes
   - Active
-- - [xDroid](https://www.linzhuotech.com/index.php/home/index/xdroid.html)[^9]
+- - [xDroid](https://www.linzhuotech.com/index.php/home/index/xdroid.html)[^xdroid]
   - Limited
   - Linux
   - NA
   - Limited
   - Slow
-- - [MuMu App Player](https://mumu.163.com)[^5]
+- - [MuMu App Player](https://mumu.163.com)[^mumu]
   - Yes
   - macOS (M chip)
   - No
@@ -63,31 +63,37 @@ header-rows: 1
   - No
   - Yes
   - Active
-- - [Waydroid](https://waydro.id)[^11]
+- - [Waydroid](https://waydro.id)[^waydroid]
   - Yes
   - Linux
   - NA
   - Yes
   - Slow
-- - [AnBox Cloud](https://anbox-cloud.io)[^4]
+- - [AnBox Cloud](https://anbox-cloud.io)[^anbox-cloud]
   - Limited
   - Ubuntu
   - NA
   - ?
   - Active
-- - [Android-x86 + VM](https://www.android-x86.org)[^7]
+- - [Smartphone Simulator (Chrome extension)](https://www.webmobilefirst.com/en/)[^smartphone-simulator]
+  - Limited
+  - Windows, macOS, Linux
+  - NA
+  - ?
+  - Active
+- - [Android-x86 + VM](https://www.android-x86.org)[^android-x86]
   - Yes 
   - Windows, macOS, Linux 
   - Yes 
   - Limited 
   - Inactive 
-- - [Android SDK + Android Studio](https://developer.android.com/studio)[^8]
+- - [Android SDK + Android Studio](https://developer.android.com/studio)[^android-sdk]
   - Yes 
   - Windows, macOS, Linux 
   - ? 
   - Yes 
   - Active 
-- - [docker-android](https://github.com/budtmo/docker-android)[^10]
+- - [docker-android](https://github.com/budtmo/docker-android)[^docker-android]
   - Yes 
   - Windows, macOS, Linux 
   - Yes 
@@ -121,34 +127,36 @@ header-rows: 1
 
 - [budtmo/docker-android @ GitHub](https://github.com/budtmo/docker-android)
 
-[^1]: [GenyMotion](https://www.genymotion.com/) works well.
+[^genymotion]: [GenyMotion](https://www.genymotion.com/) works well.
 
-[^2]: [BlueStacks](https://www.bluestacks.com/) works well.
+[^bluestack]: [BlueStacks](https://www.bluestacks.com/) works well.
 
-[^3]: [LDPlayer](https://www.ldplayer.net/) is also called 雷电模拟器 in Chinese. It works well.
+[^ldplayer]: [LDPlayer](https://www.ldplayer.net/) is also called 雷电模拟器 in Chinese. It works well.
 
-[^9]: [xDroid](https://www.linzhuotech.com/index.php/home/index/xdroid.html)
+[^xdroid]: [xDroid](https://www.linzhuotech.com/index.php/home/index/xdroid.html)
     can run but has various issues.
 
-[^5]: [MuMu App Player](https://mumu.163.com/) works well. Specially, Tribal Pioneer works on MuMu App Player on macOS.
+[^mumu]: [MuMu App Player](https://mumu.163.com/) works well. Specially, Tribal Pioneer works on MuMu App Player on macOS.
 
-[^11]: [Waydroid] is a container-based approach to boot a full Android system on Linux.
+[^waydroid]: [Waydroid] is a container-based approach to boot a full Android system on Linux.
     It is a successor of AnBox.
 
-[^4]: [AnBox Cloud](https://anbox-cloud.io/) is developed by Canonical and works on Ubuntu only.
+[^anbox-cloud]: [AnBox Cloud](https://anbox-cloud.io/) is developed by Canonical and works on Ubuntu only.
 
-[^7]: [Android X86](https://www.android-x86.org/)
+[^smartphone-simulator]: [Smartphone Simulator (Chrome extension)](https://www.webmobilefirst.com/en/) is a Chrome extension.
+
+[^android-x86]: [Android X86](https://www.android-x86.org/)
     provides ISO images and RPM files for Fedora Linux distributions.
     ISO images can be used with VM tools (such as KVM, VirtualBox, VMware, etc)
     just like you can other operating systems in virtual machines.
     It's currently inactive and ISO images are outdated.
 
-[^8]: [Android SDK and Android Studio][android-studio] works together to emulate software found on Android
+[^android-sdk]: [Android SDK and Android Studio][android-studio] works together to emulate software found on Android
     using the resources of your PC.
     Android developers mostly use Android SDK tools for testing and development purposes,
     but it'll work for casual use and play as well.
 
-[^10]: [Docker-Android] is a docker image
+[^docker-android]: [Docker-Android] is a docker image
     built to be used for everything
     related to mobile website testing and Android project.
 
