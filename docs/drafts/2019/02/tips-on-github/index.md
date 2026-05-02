@@ -1,20 +1,21 @@
 ---
 title: Tips on GitHub
 created: 2019-02-08 13:41:56
-date: 2026-04-05 19:42:37.913304
+date: 2026-04-30 19:15:24.054888
 authors:
-- bendu
+  - bendu
 label: tips-on-github
 license: CC-BY-4.0
 tags:
-- programming
-- GitHub
-- tips
-- GitHub Actions
-- CICD
-- CI
-- CD
+  - programming
+  - GitHub
+  - tips
+  - GitHub Actions
+  - CICD
+  - CI
+  - CD
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 [GitHub Subscriptions](https://github.com/notifications/subscriptions)
@@ -22,38 +23,39 @@ tags:
 ## Tips and Traps
 
 1. Have at least 2 branches master and dev.
-    Reserve the master branch for releasing purpose 
-    and the dev banch for development.
-    Protect the master branch on GitHub to require checks to pass before merging. 
-    If it is only one person (yourself) developing on the project,
-    do not require pull request review before merging. 
-    Otherwise, if there are multiple people developing on the projects, 
-    require pull request review (of at least 1 person) before merging.
+   Reserve the master branch for releasing purpose
+   and the dev banch for development.
+   Protect the master branch on GitHub to require checks to pass before merging.
+   If it is only one person (yourself) developing on the project,
+   do not require pull request review before merging.
+   Otherwise, if there are multiple people developing on the projects,
+   require pull request review (of at least 1 person) before merging.
 
-2. CI workflows should be set up to make sure that the master branch is always valid.
+1. CI workflows should be set up to make sure that the master branch is always valid.
 
-3. A development (dev, daily, next, or whatever name) release should be made 
-    when a push is made into the master branch. 
-    An official tagged release should be made on creation of a new tag.
-    A new tag should only be created on the lastest commit of the master branch!
-    
-4. Adblock Plus might cause some GitHub pages (e.g., the page showing changes of a PR)
-    fail to render correctly.
-    If you ever encounter such an issue,
-    turn off Adblock Plus (or similar extensions) and try again.
-    Or you can try again in the incognito mode.
+1. A development (dev, daily, next, or whatever name) release should be made
+   when a push is made into the master branch.
+   An official tagged release should be made on creation of a new tag.
+   A new tag should only be created on the lastest commit of the master branch!
+
+1. Adblock Plus might cause some GitHub pages (e.g., the page showing changes of a PR)
+   fail to render correctly.
+   If you ever encounter such an issue,
+   turn off Adblock Plus (or similar extensions) and try again.
+   Or you can try again in the incognito mode.
 
 ## Quickly Create a New GitHub Issue
 
-1. Create a bookmark pointing to a parameterized URL, 
-    e.g., https://github.com/dclong/tasks/issues/new?title=Check%20this%20out
-    .
+1. Create a bookmark pointing to a parameterized URL,
+   e.g., https://github.com/dclong/tasks/issues/new?title=Check%20this%20out
+   .
 
-2. Use `gh` to create an issue from command line.
-    I'm not a big fan of this as it is not necessary faster than doing it on web.
+1. Use `gh` to create an issue from command line.
+   I'm not a big fan of this as it is not necessary faster than doing it on web.
 
-3. Chrome extension.
-  - [Small-git-issues](https://chromewebstore.google.com/detail/small-git-issues)
+1. Chrome extension.
+
+- [Small-git-issues](https://chromewebstore.google.com/detail/small-git-issues)
 
 ## [Creating a PR Template for Your Repository](https://docs.github.com/en/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository)
 
@@ -82,7 +84,6 @@ https://www.kawabangga.com/
 [GitHub Support - Feedback](https://support.github.com/contact/feedback)
 
 https://stackoverflow.com/questions/26372417/github-oauth2-token-how-to-restrict-access-to-read-a-single-private-repo
-
 
 https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/
 

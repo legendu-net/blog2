@@ -461,7 +461,7 @@ class Post:
         self._new_notebook()
         self._write()
 
-    def convert(self) -> Path:
+    def convert(self) -> str:
         """Convert a markdown post to a notebook blog, vice versa."""
         if self.is_markdown:
             self._new_notebook()
@@ -472,7 +472,7 @@ class Post:
         self.path.rename(path_new)
         self._set_path(path_new)
         self._write()
-        return path_new
+        return str(path_new)
 
     def add_refs(self, urls: str | list[str]) -> None:
         """Add URL references into this post."""

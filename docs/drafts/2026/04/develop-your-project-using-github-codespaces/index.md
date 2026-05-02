@@ -1,7 +1,7 @@
 ---
 title: Develop Your Project Using GitHub Codespaces
 created: 2026-04-15 10:35:53.088776
-date: 2026-04-30 19:47:42.452192
+date: 2026-05-01 17:56:58.823436
 authors:
   - bendu
 label: develop-your-project-using-github-codespaces

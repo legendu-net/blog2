@@ -16,6 +16,15 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+Most things on this page are obsolete given the development of agent and skills.
+In general,
+skills are preferred to plain prompts.
+However,
+sometimes you do still want to manage prompts.
+And in that case,
+[fabric](manage-ai-prompts-using-fabric) 
+is a great tool.
+
 - [Gemini API - Prompt Gallery](https://ai.google.dev/gemini-api/prompts)
 
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts)
@@ -26,15 +35,13 @@ tags:
 
 ## Tips and Traps
 
-1. set temporature
+1. Set temporature (if using LLMs in Google AI Studio).
 
-1. give some examples
+1. Give examples in a prompt can help.
 
-1. leverage built tools provided by LLM products.
+1. Leverage built-in tools provided by LLM products.
    For example,
-   Google AI Studio provides tools
-
-   - grounding with google search, etc.
+   Google AI Studio provides the tool "grounding with google search" (obsolete with agent/skills). 
 
 1. A single comprehensive prompt including all details is better than interactively improving your prompt.
 

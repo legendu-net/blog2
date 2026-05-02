@@ -28,6 +28,8 @@ tags:
 
 - [Massively Parallel Procrastination](https://blog.fsck.com/)
 
+- [Daniel Miessler's Blog](https://danielmiessler.com/blog/)
+
 ## Learning Platform
 
 - [DeepLearning.AI](https://www.deeplearning.ai/)

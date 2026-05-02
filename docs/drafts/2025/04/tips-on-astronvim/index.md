@@ -29,6 +29,30 @@ https://github.com/L3MON4D3/LuaSnip
 
 https://github.com/rafamadriz/friendly-snippets
 
+```{tip}
+Use AI tools to quickly generate code snippets.
+```
+
+- [Global](https://github.com/rafamadriz/friendly-snippets/blob/main/snippets/global.json)
+
+- [Markdown](https://github.com/rafamadriz/friendly-snippets/blob/main/snippets/markdown.json)
+
+- [Python](https://github.com/rafamadriz/friendly-snippets/tree/main/snippets/python)
+
+- [Rust](https://github.com/rafamadriz/friendly-snippets/tree/main/snippets/rust)
+
+- [Go](https://github.com/rafamadriz/friendly-snippets/blob/main/snippets/go.json)
+
+- [Docker](https://github.com/rafamadriz/friendly-snippets/tree/main/snippets/docker)
+
+- [SQL](https://github.com/rafamadriz/friendly-snippets/blob/main/snippets/sql.json)
+
+- [Java](https://github.com/rafamadriz/friendly-snippets/tree/main/snippets/java)
+
+- [JavaScript](https://github.com/rafamadriz/friendly-snippets/tree/main/snippets/javascript)
+
+- [Git Commit](https://github.com/rafamadriz/friendly-snippets/blob/main/snippets/gitcommit.json)
+
 ## References
 
 - [🚀 Getting Started](https://docs.astronvim.com/)
