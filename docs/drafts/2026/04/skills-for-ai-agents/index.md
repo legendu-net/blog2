@@ -1,7 +1,7 @@
 ---
 title: Skills for AI Agents
 created: 2026-04-28 22:28:33.673249
-date: 2026-04-29 19:06:11.071478
+date: 2026-05-01 00:41:37.486063
 authors:
   - bendu
 label: skills-for-ai-agents

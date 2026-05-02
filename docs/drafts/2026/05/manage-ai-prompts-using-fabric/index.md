@@ -19,7 +19,8 @@ https://github.com/danielmiessler/fabric#installation
 
 https://danielmiessler.com/blog/fabric-origin-story
 
-https://www.youtube.com/watch?v=vF-MQmVxnCs
-Hack your life (with demos) and get Superpowers!
+## Video Tutorials
 
-[Introducing Fabric — A Human AI Augmentation Framework](https://www.youtube.com/watch?v=wPEyyigh10g)
+- [Hack your life (with demos) and get Superpowers!](https://www.youtube.com/watch?v=vF-MQmVxnCs)
+
+- [Introducing Fabric — A Human AI Augmentation Framework](https://www.youtube.com/watch?v=wPEyyigh10g)

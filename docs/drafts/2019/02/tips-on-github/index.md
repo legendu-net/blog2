@@ -47,15 +47,15 @@ tags:
 ## Quickly Create a New GitHub Issue
 
 1. Create a bookmark pointing to a parameterized URL,
-   e.g., https://github.com/dclong/tasks/issues/new?title=Check%20this%20out
+   e.g., https://github.com/dclong/tasks/issues/new?title=A%20new%20issue
    .
 
 1. Use `gh` to create an issue from command line.
    I'm not a big fan of this as it is not necessary faster than doing it on web.
 
 1. Chrome extension.
-
-- [Small-git-issues](https://chromewebstore.google.com/detail/small-git-issues)
+  - [Small-git-issues](https://chromewebstore.google.com/detail/small-git-issues)
+    - GitHub personal access token (PAT) required 
 
 ## [Creating a PR Template for Your Repository](https://docs.github.com/en/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository)
 
