@@ -23,6 +23,8 @@ tags:
 1. Gemini CLI is extremely useful as it doesn't requires your favorite IDE to have integration with LLM tools.
    You can use whichever IDE you like.
    What you need is just a terminal.
+   Even if you do prefer IDE,
+   Gemini CLI might work better than the VSCode extension "Gemini Code Assist".
 
 1. You can do concurrent tasks by opening multiple Gemini CLI (in a multiplexing tool, say Zellij).
 

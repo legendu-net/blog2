@@ -1,7 +1,7 @@
 ---
 title: Tips on GitHub
 created: 2019-02-08 13:41:56
-date: 2026-04-30 19:15:24.054888
+date: 2026-05-02 10:02:58.156817
 authors:
   - bendu
 label: tips-on-github
@@ -54,8 +54,9 @@ tags:
    I'm not a big fan of this as it is not necessary faster than doing it on web.
 
 1. Chrome extension.
-  - [Small-git-issues](https://chromewebstore.google.com/detail/small-git-issues)
-    - GitHub personal access token (PAT) required 
+
+- [Small-git-issues](https://chromewebstore.google.com/detail/small-git-issues)
+  - GitHub personal access token (PAT) required
 
 ## [Creating a PR Template for Your Repository](https://docs.github.com/en/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository)
 

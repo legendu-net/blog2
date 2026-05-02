@@ -34,3 +34,10 @@ tags:
 - [CodeWiki-AI/CodeWiki](https://github.com/CodeWiki-AI/CodeWiki)
 
   - a command-line tool
+
+- [karpathy/llm-wiki.md - a pattern for personal knowledge bases](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+
+- [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
+    is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. 
+    Instead of traditional RAG (retrieve-and-answer from scratch every time), 
+    the LLM incrementally builds and maintains a persistent wiki from your sources。
