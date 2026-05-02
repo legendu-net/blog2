@@ -1,7 +1,7 @@
 ---
 title: Manage AI Prompts Using Fabric
 created: 2026-05-01 18:15:53.896313
-date: 2026-05-01 18:15:53.896315
+date: 2026-05-01 18:19:34.151457
 authors:
   - bendu
 label: manage-ai-prompts-using-fabric
@@ -21,6 +21,5 @@ https://danielmiessler.com/blog/fabric-origin-story
 
 https://www.youtube.com/watch?v=vF-MQmVxnCs
 Hack your life (with demos) and get Superpowers!
-
 
 [Introducing Fabric — A Human AI Augmentation Framework](https://www.youtube.com/watch?v=wPEyyigh10g)
