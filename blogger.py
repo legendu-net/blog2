@@ -770,7 +770,7 @@ class Blogger:
         return str(path)
 
     def convert(self, path: str) -> None:
-        path_new = Post(path).convert()
+        path_new = Post(path).parse().convert()
         self.update_records(table=self.POSTS, paths=path, kvs={"path": path_new})
 
     def empty_posts(self) -> None:
