@@ -15,6 +15,7 @@ Api: API
 Apis: APIs
 Appimage: AppImage
 Appimages: AppImages
+Appscript: AppScript
 Ar1X: AR1X
 Arrowtypeerror: ArrowTypeError
 As: as
@@ -149,8 +150,6 @@ Myst: MyST
 Namedtuple: namedtuple
 Nbconvert: nbconvert
 NeoVim: Neovim
-neovim: Neovim
-neoVim: Neovim
 Nfs: NFS
 Nixos: NixOS
 Nlp: NLP
@@ -298,3 +297,5 @@ Youcompleteme: YouCompleteMe
 Yyyymm: YYYYMM
 Zetasql: ZetaSQL
 Zoneinfo: ZoneInfo
+neoVim: Neovim
+neovim: Neovim

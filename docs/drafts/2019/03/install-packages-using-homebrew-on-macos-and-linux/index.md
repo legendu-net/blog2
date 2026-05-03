@@ -16,6 +16,14 @@ tags:
 
 ## [Installation](https://github.com/Homebrew/install)
 
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+or
+```sh
+NONINTERACTIVE=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
 ### macOS
 
 By default,
@@ -30,12 +38,7 @@ by adding the following configuration into your shell configuration
 
 ### Linux
 
-https://github.com/Homebrew/install
-
-```Bash
-sh -c "$(curl --proxy http://your.proxy.servder:port -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
-```
-The installation script installs Homebrew to /home/linuxbrew/.linuxbrew using sudo if possible 
+The installation script installs Homebrew to `/home/linuxbrew/.linuxbrew` using sudo if possible 
 and in your home directory at ~/.linuxbrew otherwise. 
 Homebrew does not use sudo after installation. 
 Using /home/linuxbrew/.linuxbrew allows the use of more binary packages (bottles) 
