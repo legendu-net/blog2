@@ -1,7 +1,7 @@
 ---
 title: Tips on the Seattle-Tacoma International Airport
 created: 2023-08-21 20:50:50
-date: 2026-04-13 23:30:33.282889
+date: 2026-05-03 16:15:08
 authors:
   - bendu
 label: tips-on-the-seattle-tacoma-international-airport
@@ -18,11 +18,15 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+(sea-tac-visitor-pass)=
+
 ## SEA-TAC Visitor Pass
 
 You can apply for a
 [visitor pass](https://www.portseattle.org/page/sea-visitor-pass-program)
 for the next 7 days.
+
+(sea-spot-saver)=
 
 ## SEA Spot Saver
 
