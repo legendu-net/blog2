@@ -1,7 +1,7 @@
 ---
 title: Tips on Google Gemini CLI
 created: 2025-07-06 08:55:45
-date: 2026-04-22 21:18:08.443812
+date: 2026-05-02 16:26:48.278771
 authors:
   - bendu
 label: tips-on-google-gemini-cli

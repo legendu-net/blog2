@@ -244,7 +244,7 @@ class Post:
             self.notebook = self._read_notebook()
             lines = self.notebook["cells"][0]["source"].copy()
             for cell in self.notebook["cells"][1:]:
-                lines.append("<!-- Cell -->")
+                lines.append("\n<!-- Cell -->\n")
                 lines.extend(cell["source"])
         idx = lines.index("---\n", 1)
         try:
