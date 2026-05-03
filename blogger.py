@@ -13,9 +13,9 @@ import re
 import shutil
 import sqlite3
 import subprocess as sp
-import time
 from typing import Any, Iterable, Self, Sequence, TypeAlias
 import atexit
+from dulwich import porcelain
 from bs4 import BeautifulSoup
 import nbformat
 from loguru import logger
@@ -218,6 +218,7 @@ class Post:
     def shutdown_hook(self):
         if self._should_write:
             self._write()
+            self._should_write = False
 
     def change_doc_dir(self, doc_dir: str):
         if doc_dir not in (ARTICLES, DRAFTS, OUTDATED):
@@ -382,13 +383,8 @@ class Post:
         )
 
     def update_meta_field(self, metadata: dict[str, Any]) -> None:
-        """Update metadata. The date field is automatically updated."""
+        """Update metadata."""
         self.metadata.update(metadata)
-        self.metadata["date"] = (
-            datetime.datetime.now()
-            if metadata
-            else datetime.datetime.fromtimestamp(self.path.stat().st_mtime)
-        )
         self._should_write = True
 
     def update_title(self) -> bool:
@@ -496,7 +492,7 @@ class Post:
                     break
             else:
                 self._add_markdown_cell(source=[ref + "\n"] + lines)
-        self.update_meta_field(metadata={"date": datetime.datetime.now()})
+        self._should_write = True
 
 
 class Blogger:
@@ -504,9 +500,7 @@ class Blogger:
 
     POSTS = "posts"
     SRPS = "srps"
-    ACCESSED = "accessed"
     SRPS_COLS = "path, title, label"
-    ACCESSED_COLS = "path, atime, updated"
 
     def __init__(self, db: str = ""):
         """Create an instance of Blogger.
@@ -519,7 +513,6 @@ class Blogger:
         self._conn.execute("PRAGMA journal_mode=WAL")
         self._create_vtable_posts()
         self._create_table_srps()
-        self._create_table_accessed()
 
     def _create_vtable_posts(self):
         sql = f"""
@@ -532,10 +525,6 @@ class Blogger:
 
     def _create_table_srps(self):
         sql = f"CREATE TABLE IF NOT EXISTS {self.SRPS} ({self.SRPS_COLS})"
-        self._conn.execute(sql)
-
-    def _create_table_accessed(self):
-        sql = f"CREATE TABLE IF NOT EXISTS {self.ACCESSED} ({self.ACCESSED_COLS})"
         self._conn.execute(sql)
 
     def clean_db(self):
@@ -702,12 +691,6 @@ class Blogger:
         """Edit the specified posts using the specified editor."""
         if isinstance(paths, str):
             paths = [paths]
-        self.delete_records(self.ACCESSED, paths=paths)
-        self.insert_records(
-            self.ACCESSED,
-            self.ACCESSED_COLS,
-            [(path, Path(path).stat().st_atime, 0) for path in paths],
-        )
         paths = " ".join(f"'{path}'" for path in paths)
         sp.run(f"{editor} {paths}", shell=True, check=True)
 
@@ -725,28 +708,34 @@ class Blogger:
             """
         self._conn.execute(sql, list(it.chain(kvs.values(), paths)))
 
-    def update_changed(self):
-        """Update information of the changed posts."""
-        SECONDS_4_HOURS = 4 * 3600
-        for path, atime, updated in self._conn.execute(
-            f"SELECT {self.ACCESSED_COLS} FROM {self.ACCESSED}"
-        ):
-            p = Path(path)
-            if not p.exists():
-                self.delete_records(self.ACCESSED, paths=path)
+    def sync_dates(self):
+        """Sync the date field of changed posts to their mtime."""
+        status = porcelain.status(str(BASE_DIR))
+        paths = set()
+        for staged_paths in status.staged.values():
+            paths.update(staged_paths)
+        paths.update(status.unstaged)
+        paths.update(status.untracked)
+        for path_entry in paths:
+            if isinstance(path_entry, bytes):
+                path_str = path_entry.decode("utf-8")
+            else:
+                path_str = path_entry
+            path = Path(path_str)
+            if not (path.suffix in (MARKDOWN, IPYNB) and path.parts[0] == "docs"):
                 continue
-            if p.stat().st_mtime > atime:
-                self.delete_records(self.POSTS, path)
-                self.load_post(Post(path).parse())
-                self.update_records(
-                    self.ACCESSED,
-                    paths=path,
-                    kvs={"atime": time.time() + 1, "updated": 1},
-                )
-            elif time.time() - atime >= SECONDS_4_HOURS:
-                if updated:
-                    Post(path).parse().update_meta_field(metadata={})
-                self.delete_records(self.ACCESSED, path)
+            if not path.exists():
+                continue
+            mtime = datetime.datetime.fromtimestamp(path.stat().st_mtime).replace(
+                microsecond=0
+            )
+            post = Post(path).parse()
+            if post.metadata.get("date") == mtime:
+                continue
+            post.metadata["date"] = mtime
+            post._should_write = True
+            post.shutdown_hook()
+            self.update_records(self.POSTS, path_str, {"date": mtime})
 
     def add_post(self, title: str, doc_dir: str, notebook: bool = True) -> str:
         """Add a new post with the given title."""

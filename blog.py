@@ -322,7 +322,6 @@ def add_refs(blogger, args):
 
 
 def search(blogger, args):
-    blogger.update_changed()
     filter_ = []
     if args.filter:
         filter_.append(" ".join(args.filter))
@@ -389,9 +388,10 @@ def tags(blogger, args):
 
 def auto_git_push(blogger, args):
     """Push changes in this repository."""
-    blogger.update_changed()
+    blogger.sync_dates()
+    blogger.commit()
     cmd = f"""git -C {BASE_DIR} add . \
-            && git -C {BASE_DIR} commit -m ..."""
+            && git -C {BASE_DIR} commit -m add/update posts"""
     sp.run(cmd, shell=True, check=False)
     cmd = f"""git -C {BASE_DIR} push origin main"""
     sp.run(cmd, shell=True, check=True)
