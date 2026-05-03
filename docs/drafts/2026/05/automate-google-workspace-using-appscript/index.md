@@ -1,7 +1,7 @@
 ---
 title: Automate Google Workspace Using Appscript
 created: 2026-05-02 13:42:14.985312
-date: 2026-05-02 13:42:14.985314
+date: 2026-05-02 13:44:32.986655
 authors:
   - bendu
 label: automate-google-workspace-using-appscript
@@ -25,4 +25,3 @@ https://github.com/google/clasp
 https://script.google.com/corp/home/my?pli=1
 
 https://developers.google.com/apps-script/overview
-

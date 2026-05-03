@@ -54,9 +54,8 @@ tags:
    I'm not a big fan of this as it is not necessary faster than doing it on web.
 
 1. Chrome extension.
-
-- [Small-git-issues](https://chromewebstore.google.com/detail/small-git-issues)
-  - GitHub personal access token (PAT) required
+    - [Small-git-issues](https://chromewebstore.google.com/detail/small-git-issues)
+        - GitHub personal access token (PAT) required
 
 ## [Creating a PR Template for Your Repository](https://docs.github.com/en/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository)
 

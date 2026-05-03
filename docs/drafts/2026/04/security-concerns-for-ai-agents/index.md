@@ -1,7 +1,7 @@
 ---
 title: Security Concerns for AI Agents
 created: 2026-04-28 22:36:04.593440
-date: 2026-04-29 01:07:09.285409
+date: 2026-05-02 10:16:55.613496
 authors:
   - bendu
 label: security-concerns-for-ai-agents
@@ -19,9 +19,9 @@ tags:
 
 ## Tips & Traps
 
-1. Exposing LLM API keys as environment variables can be a security concerns 
-  due to prompt injection attack.
-  A safer alternative is to store your LLM API keys in a command line password manager.
+1. Exposing LLM API keys as environment variables can be a security concerns
+   due to prompt injection attack.
+   A safer alternative is to store your LLM API keys in a command line password manager.
 
 ## [code-on-incus (COI)](https://github.com/mensfeld/code-on-incus)
 
