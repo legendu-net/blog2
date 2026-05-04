@@ -4,6 +4,8 @@ import getpass
 import itertools as it
 from pathlib import Path
 import subprocess as sp
+from dulwich import porcelain
+from dulwich.repo import Repo
 from loguru import logger
 from blogger import (
     BASE_DIR,
@@ -390,10 +392,10 @@ def auto_git_push(blogger, args):
     """Push changes in this repository."""
     blogger.sync_dates()
     blogger.commit()
-    cmd = f"git -C {BASE_DIR} add . && git -C {BASE_DIR} commit -m 'add/update posts'"
-    sp.run(cmd, shell=True, check=False)
-    cmd = f"git -C {BASE_DIR} push origin main"
-    sp.run(cmd, shell=True, check=True)
+    repo = Repo(str(BASE_DIR))
+    porcelain.add(repo)
+    porcelain.commit(repo, message=b"add/update posts")
+    porcelain.push(repo, "origin", "main")
 
 
 def clean_db(blogger, _):
