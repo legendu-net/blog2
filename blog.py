@@ -400,8 +400,8 @@ def auto_git_push(blogger, args):
     # Dynamically determine authentication kwargs
     push_kwargs = {}
     config = repo.get_config()
-    remote_url = config.get(b"remote", b"origin", b"url")
-
+    remote_url = config.get((b"remote", b"origin"), b"url")
+    
     if remote_url.startswith(b"http"):
         github_token = os.environ.get("GITHUB_TOKEN")
         if github_token:
