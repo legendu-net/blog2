@@ -2,6 +2,7 @@
 from argparse import ArgumentParser, Namespace
 import getpass
 import itertools as it
+import os
 from pathlib import Path
 import subprocess as sp
 from dulwich import porcelain
@@ -395,7 +396,19 @@ def auto_git_push(blogger, args):
     repo = Repo(str(BASE_DIR))
     porcelain.add(repo)
     porcelain.commit(repo, message=b"add/update posts")
-    porcelain.push(repo, "origin", "main")
+
+    # Dynamically determine authentication kwargs
+    push_kwargs = {}
+    config = repo.get_config()
+    remote_url = config.get(b"remote", b"origin", b"url")
+
+    if remote_url.startswith(b"http"):
+        github_token = os.environ.get("GITHUB_TOKEN")
+        if github_token:
+            push_kwargs["username"] = "PersonalAccessToken"
+            push_kwargs["password"] = github_token
+
+    porcelain.push(repo, "origin", "main", **push_kwargs)
 
 
 def clean_db(blogger, _):
