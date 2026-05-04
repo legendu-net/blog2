@@ -1,7 +1,7 @@
 ---
 title: Traveling Without Hassle
 created: 2017-01-22 13:31:43
-date: 2026-05-03 16:15:23
+date: 2026-05-04 07:22:36
 authors:
   - bendu
 label: traveling-without-hassle
@@ -52,24 +52,24 @@ Check weather including the starting city and destination cities.
     [SEA-TAC Visitor Pass](sea-tac-visitor-pass),
     [SEA SPOT Saver](sea-spot-saver)
     )
-  - driver's license, green card, passport
+  - driver's license, green card (domestic), passport (international)
   - boading passing (via airline's App)
-- [personal electronics](https://misc.legendu.net/blog/traveling-tips#personal-electronics)
-- [work related](https://misc.legendu.net/blog/traveling-tips#work-related-luggage) (if needed)
-- [car rental](https://www.legendu.net/misc/blog/tips-on-car-rental) (if needed)
-- [clothes](https://misc.legendu.net/blog/traveling-tips#clothes)
-- [misc utils](https://misc.legendu.net/blog/traveling-tips#misc-utils)
-- [health related](https://misc.legendu.net/blog/traveling-tips#health-related)
+- [personal electronics](travel-personal-electronics)
+- [work related](travel-work-related-luggage) (if needed)
+- [car rental](tips-on-car-sharing-rental-and-leasing) (if needed)
+- [clothes](travel-clothes)
+- [misc utils](travel-misc-utils)
+- [health related](travel-health-related)
 
 ## Luggage for Road Trip
 
-- [car rental](https://www.legendu.net/misc/blog/tips-on-car-rental) or [RV rental](https://misc.legendu.net/blog/tips-on-RV/) (if needed)
-- driver's license
+- [car rental](tips-on-car-sharing-rental-and-leasing) or [RV rental](tips-on-rv) (if needed)
+- driver's license (green card and passport for cross-border road trips)
 - download offline maps of places with no / poor cellular signals
 - download songs YouTube Music for the road trip
 - nation/state park passes
-- [clothes](https://misc.legendu.net/blog/traveling-tips#clothes)
-- [misc utils](https://misc.legendu.net/blog/traveling-tips#misc-utils)
+- [clothes](travel-clothes)
+- [misc utils](travel-misc-utils)
 - napping pillow, neck support for napping
 - cargo
 - food
@@ -77,17 +77,22 @@ Check weather including the starting city and destination cities.
   - bottled water
   - pot
   - misc food, fruit
-- [personal electronics](https://misc.legendu.net/blog/traveling-tips#personal-electronics)
-- [health related](https://misc.legendu.net/blog/traveling-tips#health)
-- [work related](https://misc.legendu.net/blog/traveling-tips#work-related-luggage) (if needed)
+- [personal electronics](travel-personal-electronics)
+- [health related](travel-health-related)
+- [work related](travel-work-related-luggage) (if needed)
+
+(travel-clothes)=
 
 ## Clothes
 
+- face washing tissue (towel)
 - sleeping T-shirt/pants
 - shirt, pants
 - roll cleaner
 - socks
 - sandal
+
+(travel-misc-utils)=
 
 ## Misc Utils
 
@@ -95,6 +100,9 @@ Check weather including the starting city and destination cities.
 - teeth brush, toothpaste
 - shaver (trip > 1 week)
 - nail clipper (trip > 1 week)
+- cash (if needed)
+
+(travel-health-related)=
 
 ## Health Related
 
@@ -104,6 +112,8 @@ Check weather including the starting city and destination cities.
   ), Mask
 - vitamins
 - medicine (if any)
+
+(travel-personal-electronics)=
 
 ## Personal Electronics
 
@@ -118,6 +128,8 @@ Check weather including the starting city and destination cities.
 - cotton tissue
 - wet wipes
 - bike
+
+(travel-work-related-luggage)=
 
 ## Work Related Luggage
 
@@ -152,4 +164,6 @@ Check weather including the starting city and destination cities.
 
 ## References
 
-- [Tips on Car Rental](https://www.legendu.net/misc/blog/tips-on-car-rental)
+- [Tips on Car Sharing, Rental and Leasing](tips-on-car-sharing-rental-and-leasing)
+
+- [Tips on RV](tips-on-rv)

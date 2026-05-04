@@ -1,7 +1,7 @@
 ---
 title: Tips on Car Sharing, Rental and Leasing
 created: 2023-08-29 14:22:20
-date: 2026-04-13 23:30:33.428849
+date: 2026-05-04 07:22:35
 authors:
   - bendu
 label: tips-on-car-sharing-rental-and-leasing
@@ -42,6 +42,16 @@ tags:
    - Is a baby seat included (if you reqested one).
 
 1. Some car rental companies provides baby seat.
+
+### Avis Prefferred
+
+1. Avis Preferred members can go to the customer service at the garage directly
+   which usually has a shorter queue
+   compared to the shared customer service at the lobby.
+
+1. If you already have a car assigned to you,
+   you can just grab it and go without visting the customer service.
+   Check your email or SMS messages for details.
 
 ## Car Leasing
 

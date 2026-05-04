@@ -730,7 +730,7 @@ class Blogger:
                 microsecond=0
             )
             post = Post(path).parse()
-            if post.metadata.get("date") == mtime:
+            if post.metadata["date"] >= mtime:
                 continue
             post.metadata["date"] = mtime
             post._should_write = True
