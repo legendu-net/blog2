@@ -200,6 +200,16 @@ def _label(title: str) -> str:
     return title.strip(hyphen)
 
 
+def _parse_metadata(yaml_str: str) -> dict[str, Any]:
+    metadata = yaml.load(yaml_str, Loader=yaml.FullLoader)
+    if metadata is None:
+        metadata = {}
+    for key in ("created", "date"):
+        if isinstance(metadata.get(key), str):
+            metadata[key] = datetime.datetime.fromisoformat(metadata[key])
+    return metadata
+
+
 class Post:
     """A class abstracting a post."""
 
@@ -249,7 +259,7 @@ class Post:
                 lines.extend(cell["source"])
         idx = lines.index("---\n", 1)
         try:
-            self.metadata = yaml.load("".join(lines[:idx]), Loader=yaml.FullLoader)
+            self.metadata = _parse_metadata("".join(lines[:idx]))
         except Exception as err:
             print(
                 "Failed to parse the YAML metadata of the following post!\n",
@@ -337,9 +347,13 @@ class Post:
 
     def _metadata_lines(self) -> list[str]:
         """Convert the metadata dict into metadata lines."""
+        metadata = self.metadata.copy()
+        for key, value in metadata.items():
+            if isinstance(value, (datetime.datetime, datetime.date)):
+                metadata[key] = value.isoformat()
         lines = ["---\n"]
         for line in (
-            yaml.dump(self.metadata, allow_unicode=True, sort_keys=False)
+            yaml.dump(metadata, allow_unicode=True, sort_keys=False)
             .strip()
             .split("\n")
         ):
@@ -445,8 +459,8 @@ class Post:
         if isinstance(metadata_or_title, str):
             metadata_or_title = {
                 "title": format_title(metadata_or_title),
-                "created": datetime.datetime.now(),
-                "date": datetime.datetime.now(),
+                "created": datetime.datetime.now().astimezone(),
+                "date": datetime.datetime.now().astimezone(),
                 "authors": ["bendu"],
                 "label": _label(metadata_or_title),
                 "license": "CC-BY-4.0",
@@ -684,7 +698,7 @@ class Blogger:
         self.update_records(
             table=self.POSTS,
             paths=paths,
-            kvs={"date": datetime.datetime.now()},
+            kvs={"date": datetime.datetime.now().astimezone()},
         )
 
     def edit(self, paths: str | list[str], editor: str) -> None:
@@ -726,8 +740,10 @@ class Blogger:
                 continue
             if not path.exists():
                 continue
-            mtime = datetime.datetime.fromtimestamp(path.stat().st_mtime).replace(
-                microsecond=0
+            mtime = (
+                datetime.datetime.fromtimestamp(path.stat().st_mtime)
+                .astimezone()
+                .replace(microsecond=0)
             )
             post = Post(path).parse()
             if post.metadata["date"] >= mtime:
