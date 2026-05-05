@@ -1,7 +1,7 @@
 ---
 title: Traveling Without Hassle
 created: 2017-01-22 13:31:43
-date: 2026-05-04 07:22:36
+date: 2026-05-05 03:55:53
 authors:
   - bendu
 label: traveling-without-hassle
@@ -40,6 +40,11 @@ information within 72 hours before entering the US.
 Check weather including the starting city and destination cities.
 
 ## Hotel & AirBnB
+
+1. Some hotels support contactless check-in,
+   which means that you can check in from the app of the hotel,
+   select a room within the app,
+   and use your phone as a key to the room.
 
 1. Airbnb is friendly for family with small kids.
 
@@ -91,13 +96,14 @@ Check weather including the starting city and destination cities.
 - roll cleaner
 - socks
 - sandal
+- foldable basin (optional)
 
 (travel-misc-utils)=
 
 ## Misc Utils
 
 - sunglasses, sun cream, sun jacket
-- teeth brush, toothpaste
+- teeth brush, toothpaste, toothpick
 - shaver (trip > 1 week)
 - nail clipper (trip > 1 week)
 - cash (if needed)
@@ -133,7 +139,7 @@ Check weather including the starting city and destination cities.
 
 ## Work Related Luggage
 
-- laptop, charger, secure token
+- laptop, charger, secure token, mouse (good to have)
 - company badge
 - company credit card
 - pen, notes

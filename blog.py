@@ -389,6 +389,19 @@ def tags(blogger, args):
         print(tag)
 
 
+def _auth_kwargs(repo: Repo) -> dict:
+    """Dynamically determine authentication kwargs for git push."""
+    push_kwargs = {}
+    config = repo.get_config()
+    remote_url = config.get((b"remote", b"origin"), b"url")
+    if remote_url.startswith(b"http"):
+        github_token = os.environ.get("GITHUB_TOKEN")
+        if github_token:
+            push_kwargs["username"] = "PersonalAccessToken"
+            push_kwargs["password"] = github_token
+    return push_kwargs
+
+
 def auto_git_push(blogger, args):
     """Push changes in this repository."""
     blogger.sync_dates()
@@ -396,20 +409,7 @@ def auto_git_push(blogger, args):
     repo = Repo(str(BASE_DIR))
     porcelain.add(repo)
     porcelain.commit(repo, message=b"add/update posts")
-
-    # Dynamically determine authentication kwargs
-    push_kwargs = {}
-    config = repo.get_config()
-    remote_url = config.get((b"remote", b"origin"), b"url")
-    
-    if remote_url.startswith(b"http"):
-        github_token = os.environ.get("GITHUB_TOKEN")
-        if github_token:
-            push_kwargs["username"] = "PersonalAccessToken"
-            push_kwargs["password"] = github_token
-
-    porcelain.push(repo, "origin", "main", **push_kwargs)
-
+    porcelain.push(repo, "origin", "main", **_auth_kwargs(repo))
 
 def clean_db(blogger, _):
     blogger.clean_db()
