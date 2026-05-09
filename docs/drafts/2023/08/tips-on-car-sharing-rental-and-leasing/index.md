@@ -1,7 +1,7 @@
 ---
 title: Tips on Car Sharing, Rental and Leasing
-created: 2023-08-29 14:22:20
-date: 2026-05-04 07:22:35
+created: '2023-08-29T14:22:20+00:00'
+date: '2026-05-09T02:01:06+00:00'
 authors:
   - bendu
 label: tips-on-car-sharing-rental-and-leasing
@@ -45,13 +45,16 @@ tags:
 
 ### Avis Prefferred
 
-1. Avis Preferred members can go to the customer service at the garage directly
+1. Most car rental companies (including Avis) support self service from mobile apps now.
+   You can pick any car in the same tier as your reservation from the app,
+   and then go to the garage to pick up the car directly
+   (without talking to a customer representative)
+   .
+
+1. If you do need to talk to a customer representative,
+   Avis Preferred members can go to the customer service at the garage directly
    which usually has a shorter queue
    compared to the shared customer service at the lobby.
-
-1. If you already have a car assigned to you,
-   you can just grab it and go without visting the customer service.
-   Check your email or SMS messages for details.
 
 ## Car Leasing
 

@@ -205,8 +205,14 @@ def _parse_metadata(yaml_str: str) -> dict[str, Any]:
     if metadata is None:
         metadata = {}
     for key in ("created", "date"):
-        if isinstance(metadata.get(key), str):
-            metadata[key] = datetime.datetime.fromisoformat(metadata[key])
+        val = metadata.get(key)
+        if isinstance(val, str):
+            val = datetime.datetime.fromisoformat(val)
+        if isinstance(val, datetime.date) and not isinstance(val, datetime.datetime):
+            val = datetime.datetime.combine(val, datetime.time.min)
+        if isinstance(val, datetime.datetime) and val.tzinfo is None:
+            val = val.astimezone()
+        metadata[key] = val
     return metadata
 
 
