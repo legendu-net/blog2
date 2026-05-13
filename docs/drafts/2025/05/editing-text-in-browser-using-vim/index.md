@@ -1,7 +1,7 @@
 ---
 title: Editing Text in Browser Using Vim
-created: 2025-05-30 07:50:43
-date: 2026-04-15 19:27:00.577227
+created: '2025-05-30T07:50:43-07:00'
+date: '2026-05-13T01:10:56-07:00'
 authors:
   - bendu
 label: editing-text-in-browser-using-vim
@@ -18,8 +18,9 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ```{list-table} Firenvim Alternatives Summary
-:header-rows: 1
-
+---
+header-rows: 1
+---
 - - Tool
   - How it Works
   - Pros
@@ -38,12 +39,12 @@ tags:
   - Can be complex to set up, slightly higher resource usage.
   - Users who want a no-compromise, embedded Neovim experience.
   - Slow
-- - [GhostText](https://github.com/fregante/GhostText)
+- - [GhostText](use-your-text-editor-in-the-browser-with-ghosttext) 
   - External Editor (Real-time sync)
   - **Your full Neovim config**, real-time sync, multi-editor support.
   - Not embedded; requires a separate terminal window.
   - Users who prioritize the full power of their config over an embedded feel.
-  - Inactive
+  - Slow
 - - [Textern](https://github.com/jlebon/textern)
   - External Editor (Save & Close)
   - **Your full Neovim config**, simple and robust.
