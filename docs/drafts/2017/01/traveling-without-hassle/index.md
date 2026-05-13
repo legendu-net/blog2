@@ -1,7 +1,7 @@
 ---
 title: Traveling Without Hassle
-created: 2017-01-22 13:31:43
-date: 2026-05-05 03:55:53
+created: '2017-01-22T13:31:43-08:00'
+date: '2026-05-11T21:06:14-07:00'
 authors:
   - bendu
 label: traveling-without-hassle
@@ -41,7 +41,7 @@ Check weather including the starting city and destination cities.
 
 ## Hotel & AirBnB
 
-1. Some hotels support contactless check-in,
+1. Some hotels (e.g., Hilton) support contactless check-in,
    which means that you can check in from the app of the hotel,
    select a room within the app,
    and use your phone as a key to the room.

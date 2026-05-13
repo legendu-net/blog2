@@ -1,7 +1,7 @@
 ---
 title: Shopping Smartly
-created: 2022-05-21 21:35:27
-date: 2026-04-15 19:27:00.792418
+created: '2022-05-21T21:35:27-07:00'
+date: '2026-05-11T23:51:18-07:00'
 authors:
   - bendu
 label: shopping-smartly
@@ -54,8 +54,10 @@ ASK WHETHER THEY PROVIDE ANY DISCOUNT!!!
 
 ## Shopping Laptops
 
-[Framework](https://frame.work/)
-provides configurable laptops and desktops.
+- [Framework](https://frame.work/)
+  provides configurable laptops and desktops.
+
+- [WiseteckMarket](https://wisetekmarket-restuff.com/) (restuff from companies)
 
 ## Shopping (Used) Books
 
