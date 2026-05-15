@@ -1,18 +1,19 @@
 ---
 title: Tips on Rust
-created: 2019-04-10 12:17:46
-date: 2026-04-05 19:42:37.894379
+created: '2019-04-10T12:17:46+00:00'
+date: '2026-05-14T18:57:27+00:00'
 authors:
-- bendu
+  - bendu
 label: tips-on-rust
 license: CC-BY-4.0
 tags:
-- programming
-- Rust
-- tips
-- Cargo
-- rustup
+  - programming
+  - Rust
+  - tips
+  - Cargo
+  - rustup
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 https://lib.rs/
@@ -20,7 +21,7 @@ https://lib.rs/
 [Rust Blessed](https://blessed.rs/crates)
 is an unofficial guide to the Rust ecosystem.
 
-## Installation 
+## Installation
 
 Please refer to
 [Tips on rustup](http://www.legendu.net/misc/blog/tips-on-rustup)
@@ -31,10 +32,12 @@ for installing a global standalone version of Rust.
 
 ### Install a Newer Version of Rust via PPA on Ubuntu
 
-    :::bash
-    sudo apt-add-repository ppa:ubuntu-mozilla-security/rust-updates
-    sudo apt-get update
-    sudo apt-get install rustc
+```
+:::bash
+sudo apt-add-repository ppa:ubuntu-mozilla-security/rust-updates
+sudo apt-get update
+sudo apt-get install rustc
+```
 
 For details of the PPA ubuntu-mozilla-security/rust-updates,
 please refer to
@@ -53,13 +56,15 @@ please refer to
 
 - rustfmt
 
-## Conditional Compilation in Rust 
+## Conditional Compilation in Rust
 
 [Conditional compilation for debug/release](https://users.rust-lang.org/t/conditional-compilation-for-debug-release/1098)
 
-    :::bash
-    #[cfg(debug_assertions)]
-    ...
+```
+:::bash
+#[cfg(debug_assertions)]
+...
+```
 
 ## Key Concepts in Rust
 
@@ -68,26 +73,26 @@ please refer to
 ## General Tips and Traps
 
 1. [Common newbie mistakes or bad practices](https://users.rust-lang.org/t/common-newbie-mistakes-or-bad-practices/64821)
-    [Common Newbie Mistakes and Bad Practices in Rust: Bad Habits](https://adventures.michaelfbryan.com/posts/rust-best-practices/bad-habits/)
+   [Common Newbie Mistakes and Bad Practices in Rust: Bad Habits](https://adventures.michaelfbryan.com/posts/rust-best-practices/bad-habits/)
 
-2. `Iterator::for_each` is preferred over a `for` loop;
-    `Range` (`..`) is preferred over `RangeInclusive` (`..=`).
-    For detailed discussions,
-    please refer to
-    [Big performance problem with closed intervals looping #45222](https://github.com/rust-lang/rust/issues/45222)
-    ,
-    [Performance difference among Range, RangeInclusive and reversed](https://users.rust-lang.org/t/performance-difference-among-range-rangeinclusive-and-reversed/20283)
-    ,
-    [Why is iterator so much faster?](https://www.reddit.com/r/rust/comments/eiwhkn/why_is_iterator_so_much_faster/)
-    and
-    [Why does iteration over an inclusive range generate longer assembly in Rust?](https://stackoverflow.com/questions/70672533/why-does-iteration-over-an-inclusive-range-generate-longer-assembly-in-rust)
-    .
+1. `Iterator::for_each` is preferred over a `for` loop;
+   `Range` (`..`) is preferred over `RangeInclusive` (`..=`).
+   For detailed discussions,
+   please refer to
+   [Big performance problem with closed intervals looping #45222](https://github.com/rust-lang/rust/issues/45222)
+   ,
+   [Performance difference among Range, RangeInclusive and reversed](https://users.rust-lang.org/t/performance-difference-among-range-rangeinclusive-and-reversed/20283)
+   ,
+   [Why is iterator so much faster?](https://www.reddit.com/r/rust/comments/eiwhkn/why_is_iterator_so_much_faster/)
+   and
+   [Why does iteration over an inclusive range generate longer assembly in Rust?](https://stackoverflow.com/questions/70672533/why-does-iteration-over-an-inclusive-range-generate-longer-assembly-in-rust)
+   .
 
-## [Pattern Matching in Rust]( https://www.legendu.net/misc/blog/pattern-matching-in-rust )
+## [Pattern Matching in Rust](https://www.legendu.net/misc/blog/pattern-matching-in-rust)
 
 ## Popular Rust Libraries
 
-Please refer to 
+Please refer to
 [Useful Rust Crates](http://www.legendu.net/misc/blog/useful-rust-crates)
 for detailed discussions.
 
@@ -100,13 +105,13 @@ for detailed discussions.
 ## Parallel, Multithreading and Concurrency in Rust
 
 ### [loom](https://github.com/tokio-rs/loom)
+
 is a concurrency permutation testing tool for Rust.
 
 ### [sanitizers](https://github.com/google/sanitizers)
-This project is the home for Sanitizers: AddressSanitizer, MemorySanitizer, ThreadSanitizer, LeakSanitizer, 
+
+This project is the home for Sanitizers: AddressSanitizer, MemorySanitizer, ThreadSanitizer, LeakSanitizer,
 and more The actual code resides in the LLVM repository. Here we keep extended documentation, bugfixes and some helper code.
-
-
 
 [rayon](https://github.com/rayon-rs/rayon)
 A data parallelism library for Rust.
@@ -149,6 +154,12 @@ https://github.com/valeriansaliou/sonic
 - [EventHelix - Rust](https://www.eventhelix.com/rust/)
 
 - [YOSHUA WUYTS](https://yoshuawuyts.com/)
+
+https://tweedegolf.nl/en/blog
+
+https://rust-trends.com/newsletter/rust-is-becoming-the-ai-runtime/
+
+https://rust-trends.com/
 
 ## Good Forums
 

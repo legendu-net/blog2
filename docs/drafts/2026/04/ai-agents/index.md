@@ -1,7 +1,7 @@
 ---
 title: AI Agents
-created: 2026-04-16 09:42:35.777036
-date: 2026-04-27 23:03:15.717500
+created: '2026-04-16T09:42:35.777036+00:00'
+date: '2026-05-14T19:00:56+00:00'
 authors:
   - bendu
 label: ai-agents
@@ -50,12 +50,17 @@ an agent often works in an autonomous loop until the job is done.
 
 ## Agents
 
-### [hindsight](https://github.com/vectorize-io/hindsight)
-[hindsight](https://github.com/vectorize-io/hindsight)
-is an agent memory system built to create smarter agents that learn over time. 
-Most agent memory systems focus on recalling conversation history. 
-Hindsight is focused on making agents that learn, not just remember.
+### [localgpt](https://github.com/localgpt-app/localgpt)
 
+[localgpt](https://github.com/localgpt-app/localgpt)
+is a local AI assistant.
+
+### [hindsight](https://github.com/vectorize-io/hindsight)
+
+[hindsight](https://github.com/vectorize-io/hindsight)
+is an agent memory system built to create smarter agents that learn over time.
+Most agent memory systems focus on recalling conversation history.
+Hindsight is focused on making agents that learn, not just remember.
 
 ## References
 
