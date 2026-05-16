@@ -1,7 +1,7 @@
 ---
 title: Check for Existence of Commands in the Fish Shell
-created: 2025-12-09 12:24:22
-date: 2026-04-13 23:14:15.871382
+created: '2025-12-09T12:24:22-08:00'
+date: '2026-05-15T20:39:23-07:00'
 authors:
   - bendu
 label: check-for-existence-of-commands-in-the-fish-shell
@@ -22,5 +22,5 @@ Fish has built-in function `type` and `command`
 which are preferred to the external command `which`.
 For details,
 please refer to
-[chat with Geminie](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221tFacDZUHIpAYrtMutsZZQlj_mpmBIzQ-%22%5D,%22action%22:%22open%22,%22userId%22:%22100282891140280543929%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
+[chat with Gemini](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221tFacDZUHIpAYrtMutsZZQlj_mpmBIzQ-%22%5D,%22action%22:%22open%22,%22userId%22:%22100282891140280543929%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
 .
