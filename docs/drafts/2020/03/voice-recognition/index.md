@@ -1,7 +1,7 @@
 ---
 title: Voice Recognition
-created: 2020-03-04 08:08:46
-date: 2026-04-28 15:50:13.476411
+created: '2020-03-04T08:08:46-08:00'
+date: '2026-05-14T22:10:12-07:00'
 authors:
   - bendu
 label: voice-recognition
@@ -25,6 +25,8 @@ tags:
 
 Gemini 3.1 Flash TTS: the next generation of expressive AI speech
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/
+
+- [Speechify](https://speechify.com/)
 
 - [Voice Web](https://voice.mozilla.org/en)
 

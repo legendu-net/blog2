@@ -1,7 +1,7 @@
 ---
 title: Useful Chrome Extensions
-created: 2016-05-30 20:26:25
-date: 2026-04-08 21:35:17.699996
+created: '2016-05-30T20:26:25-07:00'
+date: '2026-05-14T22:09:38-07:00'
 authors:
   - bendu
 label: useful-chrome-extensions
@@ -16,26 +16,42 @@ tags:
   - plugin
   - web browser
 ---
+
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
+## AI Extensions
 
-## [Google Input Tools](https://www.google.com/inputtools/chrome/) 
-[Google Input Tools](https://chromewebstore.google.com/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab?hl=en) 
+### [Monica](https://chromewebstore.google.com/detail/monica-all-in-one-ai-assi/ofpnmcalabcbjgholdjcjblkibolbppb)
+
+- extensive features
+  - translate selected text given the context of the web
+  - chat
+- free plan offers very limited daily usage
+- do not support BYOK (bring your own key) and must use its own subscription
+
+### [Speechify](https://speechify.com/)
+
+## [Google Input Tools](https://www.google.com/inputtools/chrome/)
+
+[Google Input Tools](https://chromewebstore.google.com/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab?hl=en)
 allows users to use input tools (including Chinese) in any web pages in Chrome
 
 ## [ScriptCat](run-userscripts-in-browsers)
+
 [ScriptCat](run-userscripts-in-browsers)
 allows you to run UserScript in browsers.
 
 ## [Get cookies.txt](https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid?hl=en)
+
 [Get cookies.txt](https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid?hl=en)
 exports your cookies to the Netscape cookie file format a.k.a. `cookies.txt`
 which is compatible with wget, curl, youtube-dl and more.
 
 ## [FireNVim](https://chrome.google.com/webstore/detail/firenvim/egpjdkipkomnmjhjmdamaniclmdlobbo/related)
+
 [FireNVim](https://chrome.google.com/webstore/detail/firenvim/egpjdkipkomnmjhjmdamaniclmdlobbo/related)
-lets you use NeoVim directly from your browser. 
-Contrary to other extensions, 
+lets you use NeoVim directly from your browser.
+Contrary to other extensions,
 it does not open a new OS window.
 For detailed discussions,
 please refer to
@@ -43,12 +59,13 @@ please refer to
 .
 
 ## [Bookmarks Clean Up](https://chrome.google.com/webstore/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl?hl=en)
-Find and remove duplicated bookmarks manually and in batches, 
+
+Find and remove duplicated bookmarks manually and in batches,
 get rid of broken bookmark links and empty folders.
 
 ## [Read Aloud: A Text to Speech Voice Reader](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp/related?hl=en)
 
-## Proxy SwitchyOmega 
+## Proxy SwitchyOmega
 
 ## Vimimum, Vrome (Vim-like key bindings)
 
@@ -67,16 +84,22 @@ Capture a screenshot of your current page in entirety and reliably—without req
 ## [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
 
 ## [TabCopy](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb?hl=en-US)
+
 Copy all URLs of open tabs.
 
 ## Send from Gmail (send the link of current page via Gmail)
-## Git-Browser (version control)
-## Git Crx (version control)
-## Gitnu (version control)
-## feedly (RSS feed)
-## TV Clicker
-## Secure SSH (SSH client in Google)
 
+## Git-Browser (version control)
+
+## Git Crx (version control)
+
+## Gitnu (version control)
+
+## feedly (RSS feed)
+
+## TV Clicker
+
+## Secure SSH (SSH client in Google)
 
 ## Voice Control Related
 
