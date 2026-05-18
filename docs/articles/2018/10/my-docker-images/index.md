@@ -1,7 +1,7 @@
 ---
 title: My Docker Images
-created: 2018-10-18 09:10:17
-date: 2026-04-28 20:02:53.255314
+created: '2018-10-18T09:10:17-07:00'
+date: '2026-05-17T19:25:21-07:00'
 authors:
   - bendu
 label: my-docker-images
@@ -509,8 +509,7 @@ you can connect to the desktop environment in the Docker container using NoMachi
 ## Build my Docker Images
 
 My Docker images are auto built leveraging GitHub Actions workflow
-in the GitHub repository
-[docker_image_builder](https://github.com/dclong/docker_image_builder)
+[build_images.yml](https://github.com/legendu-net/docker/blob/dev/.github/workflows/build_images.yml)
 .
 
 ## Tips for Maintaining Docker Images (for My own Reference)
@@ -558,12 +557,6 @@ in the GitHub repository
    ```bash
    sudo apt install vim
    ```
-
-1. The command `wajig` fails to cache password
-   if a Docker image (with `wajig` installed) is run on **Mac with the M1 chip**
-   even if you pass the option `--platform linux/amd64` to `docker run`.
-   Fortunately,
-   this is not a big issue.
 
 1. There is an issue with the `dclong/xubuntu*` Docker images due to Xfce on Ubuntu 18.04.
    It is suggested that you use the corresponding `dclong/lubuntu*` Docker images instead (which are based on LXQt)

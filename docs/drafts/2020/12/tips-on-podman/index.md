@@ -1,7 +1,7 @@
 ---
 title: Tips on Podman
-created: 2020-12-11 00:06:35
-date: 2026-04-13 23:15:10.012159
+created: '2020-12-11T00:06:35-08:00'
+date: '2026-05-17T18:31:37-07:00'
 authors:
   - bendu
 label: tips-on-podman
@@ -19,7 +19,20 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-[Podman The Docker Alternative](https://dev.to/dev0x0/podman-the-docker-alternative-377f#:~:text=Podman%20also%20uses%20a%20traditional,Podman%20as%20a%20safer%20tool.)
+1. Podman is a better alternative to Docker.
 
-https://github.com/containers/buildah
-A tool that facilitates building OCI images
+   - rootless
+   - no daemon
+   - OCI images
+
+1. Toolbx is a great tool for working in podman containers.
+
+## Building OCI Images
+
+- [buildah](https://github.com/containers/buildah)
+  is a tool that facilitates building OCI images
+  .
+
+## References
+
+- [Podman The Docker Alternative](https://dev.to/dev0x0/podman-the-docker-alternative-377f#:~:text=Podman%20also%20uses%20a%20traditional,Podman%20as%20a%20safer%20tool.)
