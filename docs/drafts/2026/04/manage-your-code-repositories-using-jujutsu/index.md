@@ -1,7 +1,7 @@
 ---
 title: Manage Your Code Repositories Using Jujutsu
 created: '2026-04-30T19:49:30.593438-07:00'
-date: '2026-05-16T18:54:46-07:00'
+date: '2026-05-18T01:02:33-07:00'
 authors:
   - bendu
 label: manage-your-code-repositories-using-jujutsu
@@ -25,6 +25,10 @@ To install Jujutsu (jj) using Homebrew, run:
 - more flexible and granular control over changes
   You can always consolidate commits later using `jj squash`
   .
+
+1. If you run `jj squash` and the working copy doesn't have a commit message yet,
+   it will directly use the parent commit's message.
+   You can also specify files to squash instead of squashing all changed files.
 
 1. `jj squash` and `jj abandon` always create an empty working copy.
    If you are on an empty working copy,
