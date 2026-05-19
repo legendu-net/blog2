@@ -1,7 +1,7 @@
 ---
 title: Tips on Toolbx
-created: 2025-12-14 16:59:01
-date: 2026-04-13 23:14:16.302185
+created: '2025-12-14T16:59:01+00:00'
+date: '2026-05-18T17:57:32+00:00'
 authors:
   - bendu
 label: tips-on-toolbx
@@ -19,8 +19,7 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-I personally devoted effort on
-[Docker images](https://www.legendu.net/en/blog/my-docker-images/)
+I personally devoted effort on [Docker Images](my-docker-images)
 which makes it easy to develop in Docker containers.
 
 - Create a user with same uid/gid as the user on the host on the fly
@@ -35,18 +34,42 @@ Toolbx / DistroBox are superior in many ways.
 - Toolbx / DistroBox have seamless integraito with the host.
   Tools installed in Toolbx / DistroBox feel native.
 
-However,
-my Docker images does have some advantages as well.
+I've migrated those Docker images to leverage Podman + Toolbx.
+See more discussions in
+[My Podman Container Images](my-podman-container-images)
+.
 
-- Lots of useful tools are pre-installed and configured.
-- Can create more users after launching the Docker container
-  and thus allow multiple users to collaborated in the same Docker container.
-- Have a built-in command-line tool
-  [icon](https://github.com/legendu-net/icon)
-  which makes it easy to install and configure tools (especially in Docker containers)
-  .
-  Of course,
-  icon can be used with Toolbx / DistroBox as well.
+## General Tips
+
+1. Since the home directory is shared between the host and the container,
+   binaries under the home directory (e.g., ~/.local/bin/)
+   will be available in the container as well.
+   They might just work inside the container.
+   For example,
+   if you have Claude CLI installed on the host machine (under ~/.local/bin),
+   you will be able to use it inside the container as well
+   without installing it again inside the container.
+
+## Different Ways of Running Commands Insdie the Container
+
+```{list-table} Toolbox Command Comparison
+---
+header-rows: 1
+name: toolbox-comparison-table
+---
+* - Command
+  - What it does
+  - Best Used For
+* - **`toolbox enter`**
+  - Drops you into an interactive shell inside the container.
+  - Active development, installing packages, or exploring the environment.
+* - **`toolbox run`**
+  - Runs a single command inside a container, **creating/starting it automatically** if needed.
+  - One-off scripts, CI/CD automation, or running an app without "entering".
+* - **`toolbox exec`**
+  - Runs a single command inside an **already running** container (lower-level native podman wrapper).
+  - Background automation or scripts where you know the container is already active.
+```
 
 ## Toolbox
 

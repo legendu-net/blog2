@@ -1,7 +1,7 @@
 ---
 title: My Docker Images
 created: '2018-10-18T09:10:17-07:00'
-date: '2026-05-17T19:25:21-07:00'
+date: '2026-05-18T17:21:16+00:00'
 authors:
   - bendu
 label: my-docker-images
@@ -15,6 +15,10 @@ tags:
   - Lubuntu
   - dclong
 ---
+
+Deprecated in favor of
+[My Podman Container Images](my-podman-container-images)
+.
 
 <h2 id="recommended-docker-images">Recommended Docker Images and Tags</h2>
 
