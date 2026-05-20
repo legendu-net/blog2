@@ -1,7 +1,7 @@
 ---
 title: Useful Chrome Extensions
 created: '2016-05-30T20:26:25-07:00'
-date: '2026-05-14T22:09:38-07:00'
+date: '2026-05-18T21:06:35-07:00'
 authors:
   - bendu
 label: useful-chrome-extensions
@@ -20,6 +20,14 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## AI Extensions
+
+### [AI Exporter](https://chromewebstore.google.com/detail/ai-exporter-save-chatgpt/kagjkiiecagemklhmhkabbalfpbianbe)
+
+Saves conversations with AI into various formats.
+
+### [Sider](https://chromewebstore.google.com/detail/sider-chat-with-all-ai-gp/difoiogjjojoaoomphldepapgpbgkhkb)
+
+ChatGPT, DeepSeek, Gemini, Claude, Grok all in one AI sidebar, for AI search, read, and write.
 
 ### [Monica](https://chromewebstore.google.com/detail/monica-all-in-one-ai-assi/ofpnmcalabcbjgholdjcjblkibolbppb)
 
