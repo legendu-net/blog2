@@ -1,7 +1,7 @@
 ---
 title: Render and Edit JupyterLab Notebook in Terminal
-created: 2021-06-16 23:26:39
-date: 2026-04-13 23:15:00.894414
+created: '2021-06-16T23:26:39-07:00'
+date: '2026-05-24T12:17:04-07:00'
 authors:
   - bendu
 label: render-and-edit-jupyterlab-notebook-in-terminal
@@ -19,9 +19,13 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-## [euporie](https://github.com/joouha/euporie)
+Overall,
+[euporie](jupyter-notebooks-in-the-terminal-using-euporie)
+is the best solution.
 
-[euporie](https://github.com/joouha/euporie)
+## [euporie](jupyter-notebooks-in-the-terminal-using-euporie)
+
+[euporie](jupyter-notebooks-in-the-terminal-using-euporie)
 is a text-based user interface for running and editing Jupyter notebooks.
 
 ## [nbterm](https://github.com/davidbrochart/nbterm)

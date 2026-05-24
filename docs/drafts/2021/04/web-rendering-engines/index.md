@@ -1,10 +1,10 @@
 ---
 title: Web Rendering Engines
-created: 2021-04-13 23:22:21
-date: 2026-04-13 23:15:05.593936
+created: '2021-04-13T23:22:21-07:00'
+date: '2026-05-24T12:11:52-07:00'
 authors:
   - bendu
-label: web-engines
+label: web-rendering-engines
 license: CC-BY-4.0
 tags:
   - programming
@@ -15,8 +15,9 @@ tags:
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
 ## [Servo](https://github.com/servo/servo)
+
 [Servo](https://github.com/servo/servo)
-aims to empower developers with a lightweight, 
+aims to empower developers with a lightweight,
 high-performance alternative for embedding web technologies in applications.
 
 ## [WebKit](https://github.com/webKit/webkit) / [webview](https://github.com/webview/webview)

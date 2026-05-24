@@ -1,7 +1,7 @@
 ---
 title: My Podman Container Images
 created: '2026-05-16T16:22:55.500335-07:00'
-date: '2026-05-16T16:22:55.500343-07:00'
+date: '2026-05-24T12:20:41-07:00'
 authors:
   - bendu
 label: my-podman-container-images
@@ -18,7 +18,23 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-<h2 id="recommended-docker-images">Recommended Container Images and Tags</h2>
+## Why Migrate from Docker Images to Podman Images
+
+1. Podman is a better alternative to Docker
+
+   - rootless
+   - no daemon
+
+1. Toolbx + Podman is an awesome combination.
+
+   - I had a similar effort in [My Docker Images](my-docker-images) as what Toolbx/Distrobox tries to achieve.
+     Migrating to Toolbx + Podman makes it much easier to maintainer those container images.
+
+1. Switch from `ubuntu` to `fedora-toolbox` as the very base image.
+
+   - Fedora adopts new versions of tools faster than Ubuntu.
+
+## Recommended Container Images and Tags
 
 Most of my container images have different variants
 (corresponding to tags `latest`, `next`, etc)
@@ -76,19 +92,22 @@ header-rows: 1
 
 Those podman images can be used the regular way.
 However,
-they work specially well with [Toolbx](tips-on-toolbx) 
+they work specially well with [Toolbx](tips-on-toolbx)
 .
 The following documentation takes `quay.io/legendu/jupyterhub-ds` as an example.
 
 ### Create a Podman Container Using Toolbx
 
 you can create a container using the following command.
+
 ```sh
 toolbox create -c jupyterhub-ds -i quay.io/legendu/jupyterhub-ds
 ```
+
 Notice that toolbx maps the user on the host into the container
 to have a seamless integration.
 Then you can launch the default service (JupyterHub in this case) in the container using
+
 ```sh
 toolbox run /scripts/init.sh
 ```
@@ -153,4 +172,3 @@ Those podman images are auto built leveraging GitHub Actions workflow
    and retrying failed pipelines sending jobs to the same nodes).
    In such situtions,
    it is better to trigger a new run of the workflow.
-
