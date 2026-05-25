@@ -226,7 +226,6 @@ class Post:
         self.metadata = {}
         self.lines = []
         self.notebook = {}
-        self._label_to_use = ""
         self._should_write = False
         self._set_path(path)
         atexit.register(self.shutdown_hook)
@@ -283,7 +282,6 @@ class Post:
             idx += 1
         self.lines = lines[idx:]
         self._check_disclaimer()
-        self._label_to_use = self.label_to_use()
         return self
 
     def _is_disclaimer_valid(self) -> tuple[bool, bool]:
@@ -314,18 +312,20 @@ class Post:
         self.is_markdown = path.suffix == MARKDOWN
 
     def label_to_use(self) -> str:
+        if not self.metadata:
+            return ""
         if next(iter(self.metadata.keys()), "") == "label":
             return self.metadata["label"]
         return _label(self.metadata["title"])
 
     def is_match(self) -> bool:
-        """Check whether the file anme and the title of the post does not match.
+        """Check whether the file name and the title of the post does not match.
 
         :param title: The title of the post.
         :return: 1 if mismatch and 0 otherwise.
         """
         return (
-            self._label_to_use == self.metadata["label"]
+            self.label_to_use() == self.metadata["label"]
             and self.metadata["label"] == self.path.parts[4]
         )
 
@@ -395,7 +395,7 @@ class Post:
             self.metadata["created"],
             self.metadata["date"],
             self.metadata["title"],
-            self._label_to_use,
+            self.label_to_use(),
             tags,
             content,
             int(self._is_post_empty()),
@@ -434,13 +434,14 @@ class Post:
 
     def match_title(self) -> None:
         """Make the post's slug and path name match its title."""
+        label_to_use = self.label_to_use()
         self.update_meta_field(
             {
-                "label": self._label_to_use,
+                "label": label_to_use,
             }
         )
         dir_ = self.path.parent
-        dir_new = dir_.with_name(self._label_to_use)
+        dir_new = dir_.with_name(label_to_use)
         dir_.move(dir_new)
         self._set_path(dir_new / self.path.name)
 

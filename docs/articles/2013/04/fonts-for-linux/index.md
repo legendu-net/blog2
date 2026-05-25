@@ -1,7 +1,7 @@
 ---
 title: Fonts for Linux
-created: 2013-04-13 00:07:00
-date: 2026-04-15 19:27:00.286337
+created: '2013-04-13T00:07:00-07:00'
+date: '2026-05-24T22:51:12-07:00'
 authors:
   - bendu
 label: fonts-for-linux
@@ -26,14 +26,14 @@ tags:
    you can use the command `fc-list :lang=zh-cn | sort`.
 
 1. To install extra fonts in linux,
-   you can just copy the font files to the directory '\$HOME/.fonts'.
-   To make them in effect,
-   you have to run `fc-cache` to update the system fonts cache.
+   you can just copy font files to the directory `~/.local/share/fonts`
+   or a sub-directory (e.g., `~/.local/share/fonts/NerdFonts`),
+   and then run `fc-cache -vf`.
 
 1. If you ever have any fonts problem with Tex Live in Linux,
    install the package `texlive-fonts-extra` (if you haven't done so) and try again.
 
-1. [nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+1. [nerd-fonts](nerd-fonts)
    patches developer targeted fonts with a high number of glyphs (icons).
    Specifically to add a high number of extra glyphs from popular 'iconic fonts'
    such as Font Awesome, Devicons, Octicons, and others.

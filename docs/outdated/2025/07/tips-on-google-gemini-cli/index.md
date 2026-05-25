@@ -1,7 +1,7 @@
 ---
 title: Tips on Google Gemini CLI
-created: 2025-07-06 08:55:45
-date: 2026-05-02 16:26:48.278771
+created: '2025-07-06T08:55:45-07:00'
+date: '2026-05-24T23:36:24-07:00'
 authors:
   - bendu
 label: tips-on-google-gemini-cli
@@ -16,7 +16,11 @@ tags:
   - LLM
 ---
 
-**Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
+**Things under legendu.net/outdated are outdated technologies that the author does not plan to update any more. Please look for better alternatives.**
+
+Use
+[Antigravity CLI](develop-with-google-antigravity)
+instead.
 
 ## Tips & Traps
 
