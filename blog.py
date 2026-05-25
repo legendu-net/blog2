@@ -18,7 +18,6 @@ from blogger import (
     add_spells_tag as _add_spells_tag,
     get_vim,
     get_code,
-    get_editor,
     qmarks,
     format_title,
 )
@@ -114,7 +113,7 @@ def option_editor(subparser):
         dest="editor",
         action="store_const",
         const=get_vim(),
-        default=get_editor(),
+        default="auto",
         help="Edit the post using NeoVim/Vim.",
     )
     subparser.add_argument(
@@ -410,6 +409,7 @@ def auto_git_push(blogger, args):
     porcelain.add(repo)
     porcelain.commit(repo, message=b"add/update posts")
     porcelain.push(repo, "origin", "main", **_auth_kwargs(repo))
+
 
 def clean_db(blogger, _):
     blogger.clean_db()

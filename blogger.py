@@ -10,6 +10,7 @@ import json
 import os
 from pathlib import Path
 import re
+import shlex
 import shutil
 import sqlite3
 import subprocess as sp
@@ -98,20 +99,56 @@ def extract_url_title(url: str) -> str:
     return soup.title.string if soup.title.string else ""
 
 
-def get_vim() -> str:
-    return "nvim" if shutil.which("nvim") else "vim"
+def get_vim() -> str | None:
+    return shutil.which("nvim") or shutil.which("vim")
 
 
-def get_code() -> str:
-    return "code-server" if shutil.which("code-server") else "code"
+def get_code() -> str | None:
+    return shutil.which("code-server") or shutil.which("code")
 
 
-def get_editor() -> str:
-    """Get the path of a valid editor (default to get_vim())."""
-    code = get_code()
-    if shutil.which(code):
-        return code
-    return get_vim()
+def get_euporie() -> str:
+    if shutil.which("euporie"):
+        return (
+            "euporie notebook "
+            "--no-warn-venv "
+            "--show-status-bar "
+            "--syntax-highlighting "
+            "--color-depth 24 "
+            "--edit-mode vi "
+            "--cursor-blink "
+            "--autocomplete "
+            "--autosuggest smart "
+            "--line-numbers"
+        )
+    return ""
+
+
+def get_preferred_editor(suffixes: Sequence[str]) -> str:
+    """Get an editor for editing the specified file types."""
+    nft = len(suffixes)
+    if nft <= 0:
+        raise ValueError("No file types specified for editing.")
+    if nft >= 2:
+        editor = get_code()
+        if not editor:
+            raise FileNotFoundError(
+                "The preferred editor code-server/code (for editing markdown and notebook at the same time) was not found."
+            )
+        return editor
+    if suffixes[0] == IPYNB:
+        editor = get_euporie() or get_code()
+        if not editor:
+            raise FileNotFoundError(
+                "The preferred editor euporie/code-server/code (for editing notebook) was not found."
+            )
+        return editor
+    editor = get_vim() or get_code()
+    if not editor:
+        raise FileNotFoundError(
+            "The preferred editor nvim/vim/code-server/code (for editing markdown) was not found."
+        )
+    return editor
 
 
 def qmarks(n: int | Sequence) -> str:
@@ -359,9 +396,7 @@ class Post:
                 metadata[key] = value.isoformat()
         lines = ["---\n"]
         for line in (
-            yaml.dump(metadata, allow_unicode=True, sort_keys=False)
-            .strip()
-            .split("\n")
+            yaml.dump(metadata, allow_unicode=True, sort_keys=False).strip().split("\n")
         ):
             # prefer indention for list
             if line.startswith("- "):
@@ -712,8 +747,12 @@ class Blogger:
         """Edit the specified posts using the specified editor."""
         if isinstance(paths, str):
             paths = [paths]
-        paths = " ".join(f"'{path}'" for path in paths)
-        sp.run(f"{editor} {paths}", shell=True, check=True)
+        if not editor:
+            raise ValueError("An editor must be specified.")
+        if editor == "auto":
+            suffixes = list(set(Path(path).suffix for path in paths))
+            editor = get_preferred_editor(suffixes)
+        sp.run(shlex.split(editor) + list(paths), check=True)
 
     def update_records(self, table: str, paths: str | Sequence[str], kvs: dict) -> None:
         """Update records corresponding to the specified paths.
@@ -724,7 +763,7 @@ class Blogger:
             paths = [paths]
         sql = f"""
             UPDATE {table}
-            SET {", ".join(f"{k} = ?" for k in kvs)} 
+            SET {", ".join(f"{k} = ?" for k in kvs)}
             WHERE path in ({qmarks(paths)})
             """
         self._conn.execute(sql, list(it.chain(kvs.values(), paths)))
