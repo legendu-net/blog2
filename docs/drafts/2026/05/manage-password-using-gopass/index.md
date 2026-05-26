@@ -1,7 +1,7 @@
 ---
 title: Manage Password Using Gopass
 created: '2026-05-25T19:31:05.793047-07:00'
-date: '2026-05-25T19:31:05.793056-07:00'
+date: '2026-05-25T20:27:02-07:00'
 authors:
   - bendu
 label: manage-password-using-gopass
@@ -17,20 +17,19 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-
 ## Installation on Fedora
 
 ```sh
 sudo dnf install gopass age
 ```
 
-
-## Initialization 
+## Initialization
 
 ```sh
 gopass setup --crypto age --storage fs
 ```
-which create an age identities file at  
+
+which create an age identities file at\
 `~/.config/gopass/age/identities`
 .
 The configuration file of gopass is at
@@ -46,9 +45,10 @@ gopass git init
 gopass git remote add origin git@github.com:username/my-secrets-repo.git
 ```
 
+`gopass` tracks the `master` branch of the Git repository.
+
 ## Manage Passwords
 
 gopass insert api_keys/github
 
 gopass show api_keys/github
-
