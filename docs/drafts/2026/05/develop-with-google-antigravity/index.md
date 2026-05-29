@@ -1,7 +1,7 @@
 ---
 title: Develop With Google Antigravity
 created: '2026-05-24T23:28:22.137138-07:00'
-date: '2026-05-24T23:34:51-07:00'
+date: '2026-05-28T17:11:21+00:00'
 authors:
   - bendu
 label: develop-with-google-antigravity
@@ -28,3 +28,7 @@ curl -fsSL https://antigravity.google/cli/install.sh | bash
 ## References
 
 https://antigravity.google/
+
+- [Tips on Google Gemini CLI](tips-on-google-gemini-cli)
+
+- [Tips on Gemini](tips-on-gemini)

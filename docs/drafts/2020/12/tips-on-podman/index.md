@@ -1,7 +1,7 @@
 ---
 title: Tips on Podman
 created: '2020-12-11T00:06:35-08:00'
-date: '2026-05-17T18:31:37-07:00'
+date: '2026-05-29T01:17:03+00:00'
 authors:
   - bendu
 label: tips-on-podman
@@ -36,3 +36,5 @@ tags:
 ## References
 
 - [Podman The Docker Alternative](https://dev.to/dev0x0/podman-the-docker-alternative-377f#:~:text=Podman%20also%20uses%20a%20traditional,Podman%20as%20a%20safer%20tool.)
+
+- [How to use Podman inside of a container](https://www.redhat.com/en/blog/podman-inside-container)
