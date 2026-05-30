@@ -1,7 +1,7 @@
 ---
 title: Run Your GitHub Actions Locally
 created: '2026-05-28T00:05:08.917806-07:00'
-date: '2026-05-28T00:05:08.917815-07:00'
+date: '2026-05-30T00:08:06-07:00'
 authors:
   - bendu
 label: run-your-github-actions-locally
@@ -18,10 +18,28 @@ tags:
 
 **Things on this page are fragmentary and immature notes/thoughts of the author. Please read with your own judgement!**
 
-https://github.com/bahdotsh/wrkflw
+## [act](https://github.com/nektos/act)
 
-https://github.com/nektos/act
+### Installation (Linux / macOS)
 
+```sh
+brew install act
+```
+
+### Trigger Workflows Listening on Pull Request
+
+```sh
+act pull_request
+```
+
+## [wrkflw](https://github.com/bahdotsh/wrkflw)
+
+Wrkflw has a great TUI
+which makes it easy to selectively run workflow and insepct results.
+However,
+wrkflw currently maps the ubuntu-latest VM to the ubuntu:latest Docker image
+which are not compatible.
+This causes many GitHub Actions workflow fail to run with wrkflw.
 
 ## References
 
