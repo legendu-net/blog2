@@ -1,7 +1,7 @@
 ---
 title: Manage Password Using Gopass
 created: '2026-05-25T19:31:05.793047-07:00'
-date: '2026-05-25T20:27:02-07:00'
+date: '2026-05-30T20:53:13-07:00'
 authors:
   - bendu
 label: manage-password-using-gopass
@@ -46,6 +46,13 @@ gopass git remote add origin git@github.com:username/my-secrets-repo.git
 ```
 
 `gopass` tracks the `master` branch of the Git repository.
+
+## Configuration for Timeout
+
+```sh
+gopass config age.agent-enabled true
+gopass config age.agent-timeout 900
+```
 
 ## Manage Passwords
 
