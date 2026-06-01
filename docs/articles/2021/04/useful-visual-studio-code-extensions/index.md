@@ -1,7 +1,7 @@
 ---
 title: Useful Visual Studio Code Extensions
-created: 2021-04-30 12:19:38
-date: 2026-04-13 23:14:11.977571
+created: '2021-04-30T12:19:38-07:00'
+date: '2026-05-31T22:33:38-07:00'
 authors:
   - bendu
 label: useful-visual-studio-code-extensions
@@ -49,15 +49,11 @@ https://github.com/cdr/code-server/issues/171
 
 ## Generally Useful Extensions
 
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
 - [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
 
-- [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
-
 - [vscode-neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim)
-
-- [Visual Stuido IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-
-- [TabNine VSCode](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 
 - [Snippet](https://marketplace.visualstudio.com/items?itemName=vscode-snippet.Snippet)
 
